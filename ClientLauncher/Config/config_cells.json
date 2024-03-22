@@ -1,0 +1,30 @@
+{
+  "name_format": {
+    "free_text": "B3",
+    "tournament_id": "B4",
+    "table_num": "B5",
+    "buy_in": "B6",
+    "tournament_name": "B7",
+    "game_type": "B8",
+    "speed": "B9",
+    "players_amount": "B10",
+    "creation_date": "B11"},
+
+  "database": {
+    "ip": "H3",
+    "login": "H4",
+    "password": "H5",
+    "ssh_login": "H6",
+    "ssh_password": "H7"
+  },
+
+  "collect_data": {
+    "files_per_hour": "E3",
+    "deals_per_days": "E4"
+  },
+
+  "naming_details": {
+    "separator": "K3",
+    "free_text": "K4"
+  }
+}

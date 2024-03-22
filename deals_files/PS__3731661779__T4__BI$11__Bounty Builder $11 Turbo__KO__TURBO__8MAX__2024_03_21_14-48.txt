@@ -1,0 +1,511 @@
+PokerStars Hand #249542505927: Tournament #3731661779, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XVI (700/1400) - 2024/03/21 11:40:24 ET
+Table '3731661779 4' 8-max Seat #4 is the button
+Seat 1: jonas lima7 (43609 in chips, $10 bounty) 
+Seat 3: Minikboloe (19514 in chips, $10 bounty) 
+Seat 4: kenj63 (4350 in chips, $5 bounty) 
+Seat 5: Mavrec1402 (18288 in chips, $27.50 bounty) 
+Seat 6: Stiphlersdad (63050 in chips, $25.93 bounty) 
+Seat 7: tecovalentao (43697 in chips, $5 bounty) 
+jonas lima7: posts the ante 210
+Minikboloe: posts the ante 210
+kenj63: posts the ante 210
+Mavrec1402: posts the ante 210
+Stiphlersdad: posts the ante 210
+tecovalentao: posts the ante 210
+Mavrec1402: posts small blind 700
+Stiphlersdad: posts big blind 1400
+*** HOLE CARDS ***
+tecovalentao: folds 
+jonas lima7: folds 
+Minikboloe: raises 17904 to 19304 and is all-in
+kenj63: calls 4140 and is all-in
+Mavrec1402: folds 
+Stiphlersdad: calls 17904
+*** FLOP *** [5d 4d 6s]
+*** TURN *** [5d 4d 6s] [4h]
+*** RIVER *** [5d 4d 6s 4h] [8c]
+*** SHOW DOWN ***
+Stiphlersdad: shows [9c Ah] (a pair of Fours)
+Minikboloe: shows [Ac Jd] (a pair of Fours - Ace+Jack kicker)
+Minikboloe collected 30328 from side pot
+kenj63: shows [Qs Qd] (two pair, Queens and Fours)
+kenj63 collected 14380 from main pot
+*** SUMMARY ***
+Total pot 44708 Main pot 14380. Side pot 30328. | Rake 0 
+Board [5d 4d 6s 4h 8c]
+Seat 1: jonas lima7 folded before Flop (didn't bet)
+Seat 3: Minikboloe showed [Ac Jd] and won (30328) with a pair of Fours
+Seat 4: kenj63 (button) showed [Qs Qd] and won (14380) with two pair, Queens and Fours
+Seat 5: Mavrec1402 (small blind) folded before Flop
+Seat 6: Stiphlersdad (big blind) showed [9c Ah] and lost with a pair of Fours
+Seat 7: tecovalentao folded before Flop (didn't bet)
+
+PokerStars Hand #249542512390: Tournament #3731661779, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XVI (700/1400) - 2024/03/21 11:40:53 ET
+Table '3731661779 4' 8-max Seat #5 is the button
+Seat 1: jonas lima7 (43399 in chips, $10 bounty) 
+Seat 3: Minikboloe (30328 in chips, $10 bounty) 
+Seat 4: kenj63 (14380 in chips, $5 bounty) 
+Seat 5: Mavrec1402 (17378 in chips, $27.50 bounty) 
+Seat 6: Stiphlersdad (43536 in chips, $25.93 bounty) 
+Seat 7: tecovalentao (43487 in chips, $5 bounty) 
+jonas lima7: posts the ante 210
+Minikboloe: posts the ante 210
+kenj63: posts the ante 210
+Mavrec1402: posts the ante 210
+Stiphlersdad: posts the ante 210
+tecovalentao: posts the ante 210
+Stiphlersdad: posts small blind 700
+tecovalentao: posts big blind 1400
+*** HOLE CARDS ***
+jonas lima7: raises 1400 to 2800
+Minikboloe: folds 
+duki12 is disconnected 
+kenj63: folds 
+Mavrec1402: folds 
+Stiphlersdad: calls 2100
+tecovalentao: calls 1400
+*** FLOP *** [Kd 5d Th]
+Stiphlersdad: checks 
+tecovalentao: bets 2512
+jonas lima7: folds 
+Stiphlersdad: folds 
+Uncalled bet (2512) returned to tecovalentao
+tecovalentao collected 9660 from pot
+tecovalentao: doesn't show hand 
+*** SUMMARY ***
+Total pot 9660 | Rake 0 
+Board [Kd 5d Th]
+Seat 1: jonas lima7 folded on the Flop
+Seat 3: Minikboloe folded before Flop (didn't bet)
+Seat 4: kenj63 folded before Flop (didn't bet)
+Seat 5: Mavrec1402 (button) folded before Flop (didn't bet)
+Seat 6: Stiphlersdad (small blind) folded on the Flop
+Seat 7: tecovalentao (big blind) collected (9660)
+
+PokerStars Hand #249542523204: Tournament #3731661779, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XVII (800/1600) - 2024/03/21 11:41:44 ET
+Table '3731661779 4' 8-max Seat #6 is the button
+Seat 1: jonas lima7 (40389 in chips, $10 bounty) 
+Seat 2: Mãão (82237 in chips, $35.30 bounty) 
+Seat 3: Minikboloe (30118 in chips, $10 bounty) 
+Seat 4: kenj63 (14170 in chips, $5 bounty) 
+Seat 5: Mavrec1402 (17168 in chips, $27.50 bounty) 
+Seat 6: Stiphlersdad (40526 in chips, $25.93 bounty) 
+Seat 7: tecovalentao (50137 in chips, $5 bounty) 
+Seat 8: duki12 (50599 in chips, $14.37 bounty) 
+jonas lima7: posts the ante 240
+Mãão: posts the ante 240
+Minikboloe: posts the ante 240
+kenj63: posts the ante 240
+Mavrec1402: posts the ante 240
+Stiphlersdad: posts the ante 240
+tecovalentao: posts the ante 240
+duki12: posts the ante 240
+tecovalentao: posts small blind 800
+duki12: posts big blind 1600
+*** HOLE CARDS ***
+jonas lima7: folds 
+Mãão: raises 1600 to 3200
+Minikboloe: folds 
+kenj63: folds 
+Mavrec1402: folds 
+Stiphlersdad: folds 
+tecovalentao: folds 
+duki12: folds 
+Uncalled bet (1600) returned to Mãão
+Mãão collected 5920 from pot
+Mãão: doesn't show hand 
+*** SUMMARY ***
+Total pot 5920 | Rake 0 
+Seat 1: jonas lima7 folded before Flop (didn't bet)
+Seat 2: Mãão collected (5920)
+Seat 3: Minikboloe folded before Flop (didn't bet)
+Seat 4: kenj63 folded before Flop (didn't bet)
+Seat 5: Mavrec1402 folded before Flop (didn't bet)
+Seat 6: Stiphlersdad (button) folded before Flop (didn't bet)
+Seat 7: tecovalentao (small blind) folded before Flop
+Seat 8: duki12 (big blind) folded before Flop
+
+PokerStars Hand #249542533819: Tournament #3731661779, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XVII (800/1600) - 2024/03/21 11:42:32 ET
+Table '3731661779 4' 8-max Seat #7 is the button
+Seat 1: jonas lima7 (40149 in chips, $10 bounty) 
+Seat 2: Mãão (86317 in chips, $35.30 bounty) 
+Seat 3: Minikboloe (29878 in chips, $10 bounty) 
+Seat 4: kenj63 (13930 in chips, $5 bounty) 
+Seat 5: Mavrec1402 (16928 in chips, $27.50 bounty) 
+Seat 6: Stiphlersdad (40286 in chips, $25.93 bounty) 
+Seat 7: tecovalentao (49097 in chips, $5 bounty) 
+Seat 8: duki12 (48759 in chips, $14.37 bounty) 
+jonas lima7: posts the ante 240
+Mãão: posts the ante 240
+Minikboloe: posts the ante 240
+kenj63: posts the ante 240
+Mavrec1402: posts the ante 240
+Stiphlersdad: posts the ante 240
+tecovalentao: posts the ante 240
+duki12: posts the ante 240
+duki12: posts small blind 800
+jonas lima7: posts big blind 1600
+*** HOLE CARDS ***
+Mãão: raises 2400 to 4000
+Minikboloe: folds 
+kenj63: folds 
+Mavrec1402: folds 
+Stiphlersdad: folds 
+tecovalentao: folds 
+duki12: folds 
+jonas lima7: calls 2400
+*** FLOP *** [Jh Ad 8c]
+jonas lima7: checks 
+Mãão: bets 4338
+jonas lima7: folds 
+Uncalled bet (4338) returned to Mãão
+Mãão collected 10720 from pot
+Mãão: doesn't show hand 
+*** SUMMARY ***
+Total pot 10720 | Rake 0 
+Board [Jh Ad 8c]
+Seat 1: jonas lima7 (big blind) folded on the Flop
+Seat 2: Mãão collected (10720)
+Seat 3: Minikboloe folded before Flop (didn't bet)
+Seat 4: kenj63 folded before Flop (didn't bet)
+Seat 5: Mavrec1402 folded before Flop (didn't bet)
+Seat 6: Stiphlersdad folded before Flop (didn't bet)
+Seat 7: tecovalentao (button) folded before Flop (didn't bet)
+Seat 8: duki12 (small blind) folded before Flop
+
+PokerStars Hand #249542546865: Tournament #3731661779, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XVII (800/1600) - 2024/03/21 11:43:32 ET
+Table '3731661779 4' 8-max Seat #8 is the button
+Seat 1: jonas lima7 (35909 in chips, $10 bounty) 
+Seat 2: Mãão (92797 in chips, $35.30 bounty) 
+Seat 3: Minikboloe (29638 in chips, $10 bounty) 
+Seat 4: kenj63 (13690 in chips, $5 bounty) 
+Seat 5: Mavrec1402 (16688 in chips, $27.50 bounty) 
+Seat 6: Stiphlersdad (40046 in chips, $25.93 bounty) 
+Seat 7: tecovalentao (48857 in chips, $5 bounty) 
+Seat 8: duki12 (47719 in chips, $14.37 bounty) 
+jonas lima7: posts the ante 240
+Mãão: posts the ante 240
+Minikboloe: posts the ante 240
+kenj63: posts the ante 240
+Mavrec1402: posts the ante 240
+Stiphlersdad: posts the ante 240
+tecovalentao: posts the ante 240
+duki12: posts the ante 240
+jonas lima7: posts small blind 800
+Mãão: posts big blind 1600
+*** HOLE CARDS ***
+Minikboloe: folds 
+kenj63: folds 
+Mavrec1402: raises 14848 to 16448 and is all-in
+Stiphlersdad: calls 16448
+tecovalentao: folds 
+duki12: folds 
+jonas lima7: folds 
+Mãão: folds 
+*** FLOP *** [Ah 7s 2h]
+*** TURN *** [Ah 7s 2h] [9s]
+*** RIVER *** [Ah 7s 2h 9s] [Kc]
+*** SHOW DOWN ***
+Mavrec1402: shows [Ts Ad] (a pair of Aces)
+Stiphlersdad: shows [Ac Qc] (a pair of Aces - King+Queen kicker)
+Stiphlersdad collected 37216 from pot
+Stiphlersdad wins $13.75 for eliminating Mavrec1402 and their own bounty increases by $13.75 to $39.68
+Mavrec1402 finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 37216 | Rake 0 
+Board [Ah 7s 2h 9s Kc]
+Seat 1: jonas lima7 (small blind) folded before Flop
+Seat 2: Mãão (big blind) folded before Flop
+Seat 3: Minikboloe folded before Flop (didn't bet)
+Seat 4: kenj63 folded before Flop (didn't bet)
+Seat 5: Mavrec1402 showed [Ts Ad] and lost with a pair of Aces
+Seat 6: Stiphlersdad showed [Ac Qc] and won (37216) with a pair of Aces
+Seat 7: tecovalentao folded before Flop (didn't bet)
+Seat 8: duki12 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #249542556859: Tournament #3731661779, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XVII (800/1600) - 2024/03/21 11:44:18 ET
+Table '3731661779 4' 8-max Seat #1 is the button
+Seat 1: jonas lima7 (34869 in chips, $10 bounty) 
+Seat 2: Mãão (90957 in chips, $35.30 bounty) 
+Seat 3: Minikboloe (29398 in chips, $10 bounty) 
+Seat 4: kenj63 (13450 in chips, $5 bounty) 
+Seat 6: Stiphlersdad (60574 in chips, $39.68 bounty) 
+Seat 7: tecovalentao (48617 in chips, $5 bounty) 
+Seat 8: duki12 (47479 in chips, $14.37 bounty) 
+jonas lima7: posts the ante 240
+Mãão: posts the ante 240
+Minikboloe: posts the ante 240
+kenj63: posts the ante 240
+Stiphlersdad: posts the ante 240
+tecovalentao: posts the ante 240
+duki12: posts the ante 240
+Mãão: posts small blind 800
+Minikboloe: posts big blind 1600
+*** HOLE CARDS ***
+kenj63: calls 1600
+Stiphlersdad: calls 1600
+tecovalentao: folds 
+duki12: folds 
+jonas lima7: calls 1600
+Mãão: raises 8800 to 10400
+Minikboloe: folds 
+kenj63: raises 2810 to 13210 and is all-in
+Stiphlersdad: folds 
+jonas lima7: folds 
+Mãão: calls 2810
+*** FLOP *** [Ac 6s Kd]
+*** TURN *** [Ac 6s Kd] [Th]
+*** RIVER *** [Ac 6s Kd Th] [2d]
+*** SHOW DOWN ***
+Mãão: shows [Qc 7c] (high card Ace)
+kenj63: shows [Ks Ts] (two pair, Kings and Tens)
+kenj63 collected 32900 from pot
+*** SUMMARY ***
+Total pot 32900 | Rake 0 
+Board [Ac 6s Kd Th 2d]
+Seat 1: jonas lima7 (button) folded before Flop
+Seat 2: Mãão (small blind) showed [Qc 7c] and lost with high card Ace
+Seat 3: Minikboloe (big blind) folded before Flop
+Seat 4: kenj63 showed [Ks Ts] and won (32900) with two pair, Kings and Tens
+Seat 6: Stiphlersdad folded before Flop
+Seat 7: tecovalentao folded before Flop (didn't bet)
+Seat 8: duki12 folded before Flop (didn't bet)
+
+PokerStars Hand #249542612702: Tournament #3731661779, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XVIII (900/1800) - 2024/03/21 11:48:32 ET
+Table '3731661779 4' 8-max Seat #7 is the button
+Seat 1: jonas lima7 (32009 in chips, $10 bounty) 
+Seat 2: Mãão (94137 in chips, $35.30 bounty) 
+Seat 3: Minikboloe (49864 in chips, $10 bounty) 
+Seat 4: kenj63 (29480 in chips, $5 bounty) 
+Seat 6: Stiphlersdad (19153 in chips, $39.68 bounty) 
+Seat 7: tecovalentao (56282 in chips, $5 bounty) 
+Seat 8: duki12 (44419 in chips, $14.37 bounty) 
+jonas lima7: posts the ante 270
+Mãão: posts the ante 270
+Minikboloe: posts the ante 270
+kenj63: posts the ante 270
+Stiphlersdad: posts the ante 270
+tecovalentao: posts the ante 270
+duki12: posts the ante 270
+duki12: posts small blind 900
+jonas lima7: posts big blind 1800
+*** HOLE CARDS ***
+Mãão: folds 
+Minikboloe: folds 
+kenj63: folds 
+Stiphlersdad: calls 1800
+tecovalentao: folds 
+duki12: folds 
+jonas lima7: checks 
+*** FLOP *** [7s Ts 8s]
+jonas lima7: checks 
+Stiphlersdad: bets 3600
+jonas lima7: raises 16713 to 20313
+Stiphlersdad: calls 13483 and is all-in
+Uncalled bet (3230) returned to jonas lima7
+*** TURN *** [7s Ts 8s] [As]
+*** RIVER *** [7s Ts 8s As] [Kd]
+*** SHOW DOWN ***
+jonas lima7: shows [3h 8c] (a pair of Eights)
+Stiphlersdad: shows [8d Kc] (two pair, Kings and Eights)
+Stiphlersdad collected 40556 from pot
+*** SUMMARY ***
+Total pot 40556 | Rake 0 
+Board [7s Ts 8s As Kd]
+Seat 1: jonas lima7 (big blind) showed [3h 8c] and lost with a pair of Eights
+Seat 2: Mãão folded before Flop (didn't bet)
+Seat 3: Minikboloe folded before Flop (didn't bet)
+Seat 4: kenj63 folded before Flop (didn't bet)
+Seat 6: Stiphlersdad showed [8d Kc] and won (40556) with two pair, Kings and Eights
+Seat 7: tecovalentao (button) folded before Flop (didn't bet)
+Seat 8: duki12 (small blind) folded before Flop
+
+PokerStars Hand #249542620678: Tournament #3731661779, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XVIII (900/1800) - 2024/03/21 11:49:08 ET
+Table '3731661779 4' 8-max Seat #8 is the button
+Seat 1: jonas lima7 (12856 in chips, $10 bounty) 
+Seat 2: Mãão (93867 in chips, $35.30 bounty) 
+Seat 3: Minikboloe (49594 in chips, $10 bounty) 
+Seat 4: kenj63 (29210 in chips, $5 bounty) 
+Seat 6: Stiphlersdad (40556 in chips, $39.68 bounty) 
+Seat 7: tecovalentao (56012 in chips, $5 bounty) 
+Seat 8: duki12 (43249 in chips, $14.37 bounty) 
+jonas lima7: posts the ante 270
+Mãão: posts the ante 270
+Minikboloe: posts the ante 270
+kenj63: posts the ante 270
+Stiphlersdad: posts the ante 270
+tecovalentao: posts the ante 270
+duki12: posts the ante 270
+jonas lima7: posts small blind 900
+Mãão: posts big blind 1800
+*** HOLE CARDS ***
+Minikboloe: raises 2160 to 3960
+kenj63: calls 3960
+Stiphlersdad: calls 3960
+tecovalentao: folds 
+duki12: folds 
+jonas lima7: calls 3060
+Mãão: calls 2160
+*** FLOP *** [Jc Ts 2d]
+jonas lima7: checks 
+Mãão: checks 
+Minikboloe: bets 10758
+kenj63: calls 10758
+Stiphlersdad: calls 10758
+jonas lima7: folds 
+Mãão: folds 
+*** TURN *** [Jc Ts 2d] [6s]
+Minikboloe: checks 
+kenj63: checks 
+Stiphlersdad: bets 16200
+Minikboloe: folds 
+kenj63: calls 14222 and is all-in
+Uncalled bet (1978) returned to Stiphlersdad
+*** RIVER *** [Jc Ts 2d 6s] [Qc]
+*** SHOW DOWN ***
+kenj63: shows [Kc Ac] (a straight, Ten to Ace)
+Stiphlersdad: shows [Kd Tc] (a pair of Tens)
+kenj63 collected 82408 from pot
+*** SUMMARY ***
+Total pot 82408 | Rake 0 
+Board [Jc Ts 2d 6s Qc]
+Seat 1: jonas lima7 (small blind) folded on the Flop
+Seat 2: Mãão (big blind) folded on the Flop
+Seat 3: Minikboloe folded on the Turn
+Seat 4: kenj63 showed [Kc Ac] and won (82408) with a straight, Ten to Ace
+Seat 6: Stiphlersdad showed [Kd Tc] and lost with a pair of Tens
+Seat 7: tecovalentao folded before Flop (didn't bet)
+Seat 8: duki12 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #249542642616: Tournament #3731661779, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XVIII (900/1800) - 2024/03/21 11:50:46 ET
+Table '3731661779 4' 8-max Seat #1 is the button
+Seat 1: jonas lima7 (8626 in chips, $10 bounty) 
+Seat 2: Mãão (89637 in chips, $35.30 bounty) 
+Seat 3: Minikboloe (34606 in chips, $10 bounty) 
+Seat 4: kenj63 (82408 in chips, $5 bounty) 
+Seat 6: Stiphlersdad (11346 in chips, $39.68 bounty) 
+Seat 7: tecovalentao (55742 in chips, $5 bounty) 
+Seat 8: duki12 (42979 in chips, $14.37 bounty) 
+jonas lima7: posts the ante 270
+Mãão: posts the ante 270
+Minikboloe: posts the ante 270
+kenj63: posts the ante 270
+Stiphlersdad: posts the ante 270
+tecovalentao: posts the ante 270
+duki12: posts the ante 270
+Mãão: posts small blind 900
+Minikboloe: posts big blind 1800
+*** HOLE CARDS ***
+kenj63: folds 
+Stiphlersdad: folds 
+tecovalentao: folds 
+duki12: raises 3600 to 5400
+jonas lima7: folds 
+Mãão: folds 
+Minikboloe: calls 3600
+*** FLOP *** [4s Ah Ts]
+Minikboloe: checks 
+duki12: bets 13590
+Minikboloe: raises 15346 to 28936 and is all-in
+duki12: calls 15346
+*** TURN *** [4s Ah Ts] [7s]
+*** RIVER *** [4s Ah Ts 7s] [8s]
+*** SHOW DOWN ***
+Minikboloe: shows [2s Js] (a flush, Jack high)
+duki12: shows [As Qd] (a flush, Ace high)
+duki12 collected 71462 from pot
+duki12 wins $5 for eliminating Minikboloe and their own bounty increases by $5 to $19.37
+Minikboloe finished the tournament in 13th place and received $11.66.
+*** SUMMARY ***
+Total pot 71462 | Rake 0 
+Board [4s Ah Ts 7s 8s]
+Seat 1: jonas lima7 (button) folded before Flop (didn't bet)
+Seat 2: Mãão (small blind) folded before Flop
+Seat 3: Minikboloe (big blind) showed [2s Js] and lost with a flush, Jack high
+Seat 4: kenj63 folded before Flop (didn't bet)
+Seat 6: Stiphlersdad folded before Flop (didn't bet)
+Seat 7: tecovalentao folded before Flop (didn't bet)
+Seat 8: duki12 showed [As Qd] and won (71462) with a flush, Ace high
+
+PokerStars Hand #249542653609: Tournament #3731661779, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XIX (1000/2000) - 2024/03/21 11:51:35 ET
+Table '3731661779 4' 8-max Seat #2 is the button
+Seat 1: jonas lima7 (8356 in chips, $10 bounty) 
+Seat 2: Mãão (88467 in chips, $35.30 bounty) 
+Seat 4: kenj63 (82138 in chips, $5 bounty) 
+Seat 6: Stiphlersdad (11076 in chips, $39.68 bounty) 
+Seat 7: tecovalentao (55472 in chips, $5 bounty) 
+Seat 8: duki12 (79835 in chips, $19.37 bounty) 
+jonas lima7: posts the ante 300
+Mãão: posts the ante 300
+kenj63: posts the ante 300
+Stiphlersdad: posts the ante 300
+tecovalentao: posts the ante 300
+duki12: posts the ante 300
+kenj63: posts small blind 1000
+Stiphlersdad: posts big blind 2000
+*** HOLE CARDS ***
+tecovalentao: folds 
+duki12: folds 
+jonas lima7: folds 
+Mãão: raises 2000 to 4000
+kenj63: folds 
+Stiphlersdad: calls 2000
+*** FLOP *** [9h Kh Kc]
+Stiphlersdad: checks 
+Mãão: bets 2000
+Stiphlersdad: folds 
+Uncalled bet (2000) returned to Mãão
+Mãão collected 10800 from pot
+Mãão: doesn't show hand 
+*** SUMMARY ***
+Total pot 10800 | Rake 0 
+Board [9h Kh Kc]
+Seat 1: jonas lima7 folded before Flop (didn't bet)
+Seat 2: Mãão (button) collected (10800)
+Seat 4: kenj63 (small blind) folded before Flop
+Seat 6: Stiphlersdad (big blind) folded on the Flop
+Seat 7: tecovalentao folded before Flop (didn't bet)
+Seat 8: duki12 folded before Flop (didn't bet)
+
+PokerStars Hand #249542658785: Tournament #3731661779, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XIX (1000/2000) - 2024/03/21 11:51:59 ET
+Table '3731661779 4' 8-max Seat #4 is the button
+Seat 1: jonas lima7 (8056 in chips, $10 bounty) 
+Seat 2: Mãão (94967 in chips, $35.30 bounty) 
+Seat 4: kenj63 (80838 in chips, $5 bounty) 
+Seat 6: Stiphlersdad (6776 in chips, $39.68 bounty) 
+Seat 7: tecovalentao (55172 in chips, $5 bounty) 
+Seat 8: duki12 (79535 in chips, $19.37 bounty) 
+jonas lima7: posts the ante 300
+Mãão: posts the ante 300
+kenj63: posts the ante 300
+Stiphlersdad: posts the ante 300
+tecovalentao: posts the ante 300
+duki12: posts the ante 300
+Stiphlersdad: posts small blind 1000
+tecovalentao: posts big blind 2000
+*** HOLE CARDS ***
+duki12: folds 
+jonas lima7: folds 
+Mãão: folds 
+kenj63: calls 2000
+Stiphlersdad: calls 1000
+tecovalentao: checks 
+*** FLOP *** [Jc 5d 8s]
+Stiphlersdad: bets 2000
+tecovalentao: folds 
+kenj63: calls 2000
+*** TURN *** [Jc 5d 8s] [9s]
+Stiphlersdad: bets 2000
+kenj63: folds 
+Uncalled bet (2000) returned to Stiphlersdad
+Stiphlersdad collected 11800 from pot
+Stiphlersdad: doesn't show hand 
+*** SUMMARY ***
+Total pot 11800 | Rake 0 
+Board [Jc 5d 8s 9s]
+Seat 1: jonas lima7 folded before Flop (didn't bet)
+Seat 2: Mãão folded before Flop (didn't bet)
+Seat 4: kenj63 (button) folded on the Turn
+Seat 6: Stiphlersdad (small blind) collected (11800)
+Seat 7: tecovalentao (big blind) folded on the Flop
+Seat 8: duki12 folded before Flop (didn't bet)

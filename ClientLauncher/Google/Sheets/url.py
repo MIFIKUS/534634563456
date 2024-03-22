@@ -1,0 +1,1 @@
+GOOGLE_SHEET_URL = 'https://docs.google.com/spreadsheets/d/18SOvJ1o8NiasANGlPMyIz7MmYki7zpQk1GWZ_DBYW-o/edit#gid=0'

@@ -1,0 +1,236 @@
+PokerStars Hand #249542512918: Tournament #3730407281, $10+$10+$2 USD Hold'em No Limit - Level VI (50/100) - 2024/03/21 11:40:56 ET
+Table '3730407281 1' 8-max Seat #6 is the button
+Seat 1: Al3xtzic (1247 in chips, $10 bounty) 
+Seat 2: DIOGDEB (5266 in chips, $10 bounty) 
+Seat 3: Mafo-poker (5705 in chips, $10 bounty) 
+Seat 4: OrangemanXD (5314 in chips, $10 bounty) 
+Seat 5: ImMikeRoss (4849 in chips, $10 bounty) 
+Seat 6: TrumpTrain16 (5070 in chips, $10 bounty) 
+Seat 7: kenballs181 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 8: Rebozeio (4505 in chips, $10 bounty) 
+kenballs181 will be allowed to play after the button
+Al3xtzic: posts the ante 12
+DIOGDEB: posts the ante 12
+Mafo-poker: posts the ante 12
+OrangemanXD: posts the ante 12
+ImMikeRoss: posts the ante 12
+TrumpTrain16: posts the ante 12
+Rebozeio: posts the ante 12
+Rebozeio: posts small blind 50
+Al3xtzic: posts big blind 100
+*** HOLE CARDS ***
+DIOGDEB: folds 
+Mafo-poker: raises 200 to 300
+OrangemanXD: folds 
+ImMikeRoss: folds 
+TrumpTrain16: folds 
+Rebozeio: folds 
+Al3xtzic: raises 935 to 1235 and is all-in
+Mafo-poker: calls 935
+*** FLOP *** [7d 8s Qd]
+*** TURN *** [7d 8s Qd] [9c]
+*** RIVER *** [7d 8s Qd 9c] [Ac]
+*** SHOW DOWN ***
+Al3xtzic: shows [Ks 6s] (high card Ace)
+Mafo-poker: shows [2s 2d] (a pair of Deuces)
+Mafo-poker collected 2604 from pot
+Mafo-poker wins $5 for eliminating Al3xtzic and their own bounty increases by $5 to $15
+Al3xtzic finished the tournament
+*** SUMMARY ***
+Total pot 2604 | Rake 0 
+Board [7d 8s Qd 9c Ac]
+Seat 1: Al3xtzic (big blind) showed [Ks 6s] and lost with high card Ace
+Seat 2: DIOGDEB folded before Flop (didn't bet)
+Seat 3: Mafo-poker showed [2s 2d] and won (2604) with a pair of Deuces
+Seat 4: OrangemanXD folded before Flop (didn't bet)
+Seat 5: ImMikeRoss folded before Flop (didn't bet)
+Seat 6: TrumpTrain16 (button) folded before Flop (didn't bet)
+Seat 8: Rebozeio (small blind) folded before Flop
+
+PokerStars Hand #249542521390: Tournament #3730407281, $10+$10+$2 USD Hold'em No Limit - Level VI (50/100) - 2024/03/21 11:41:35 ET
+Table '3730407281 1' 8-max Seat #8 is the button
+Seat 2: DIOGDEB (5254 in chips, $10 bounty) 
+Seat 3: Mafo-poker (7062 in chips, $15 bounty) 
+Seat 4: OrangemanXD (5302 in chips, $10 bounty) 
+Seat 5: ImMikeRoss (4837 in chips, $10 bounty) 
+Seat 6: TrumpTrain16 (5058 in chips, $10 bounty) 
+Seat 7: kenballs181 (5000 in chips, $10 bounty) 
+Seat 8: Rebozeio (4443 in chips, $10 bounty) 
+DIOGDEB: posts the ante 12
+Mafo-poker: posts the ante 12
+OrangemanXD: posts the ante 12
+ImMikeRoss: posts the ante 12
+TrumpTrain16: posts the ante 12
+kenballs181: posts the ante 12
+Rebozeio: posts the ante 12
+DIOGDEB: posts small blind 50
+Mafo-poker: posts big blind 100
+*** HOLE CARDS ***
+OrangemanXD: folds 
+ImMikeRoss: folds 
+TrumpTrain16: folds 
+kenballs181: folds 
+Rebozeio: folds 
+DIOGDEB: calls 50
+Mafo-poker: checks 
+*** FLOP *** [Ad 3d Js]
+DIOGDEB: bets 100
+Mafo-poker: folds 
+Uncalled bet (100) returned to DIOGDEB
+DIOGDEB collected 284 from pot
+DIOGDEB: doesn't show hand 
+*** SUMMARY ***
+Total pot 284 | Rake 0 
+Board [Ad 3d Js]
+Seat 2: DIOGDEB (small blind) collected (284)
+Seat 3: Mafo-poker (big blind) folded on the Flop
+Seat 4: OrangemanXD folded before Flop (didn't bet)
+Seat 5: ImMikeRoss folded before Flop (didn't bet)
+Seat 6: TrumpTrain16 folded before Flop (didn't bet)
+Seat 7: kenballs181 folded before Flop (didn't bet)
+Seat 8: Rebozeio (button) folded before Flop (didn't bet)
+
+PokerStars Hand #249542530952: Tournament #3730407281, $10+$10+$2 USD Hold'em No Limit - Level VI (50/100) - 2024/03/21 11:42:19 ET
+Table '3730407281 1' 8-max Seat #2 is the button
+Seat 2: DIOGDEB (5426 in chips, $10 bounty) 
+Seat 3: Mafo-poker (6950 in chips, $15 bounty) 
+Seat 4: OrangemanXD (5290 in chips, $10 bounty) 
+Seat 5: ImMikeRoss (4825 in chips, $10 bounty) 
+Seat 6: TrumpTrain16 (5046 in chips, $10 bounty) 
+Seat 7: kenballs181 (4988 in chips, $10 bounty) 
+Seat 8: Rebozeio (4431 in chips, $10 bounty) 
+DIOGDEB: posts the ante 12
+Mafo-poker: posts the ante 12
+OrangemanXD: posts the ante 12
+ImMikeRoss: posts the ante 12
+TrumpTrain16: posts the ante 12
+kenballs181: posts the ante 12
+Rebozeio: posts the ante 12
+Mafo-poker: posts small blind 50
+OrangemanXD: posts big blind 100
+*** HOLE CARDS ***
+ImMikeRoss: raises 111 to 211
+TrumpTrain16: folds 
+kenballs181: folds 
+Rebozeio: calls 211
+DIOGDEB: folds 
+Mafo-poker: folds 
+OrangemanXD: calls 111
+*** FLOP *** [Ah Qd 8s]
+OrangemanXD: checks 
+ImMikeRoss: checks 
+Rebozeio: checks 
+*** TURN *** [Ah Qd 8s] [6d]
+OrangemanXD: checks 
+ImMikeRoss: bets 300
+Rebozeio: calls 300
+OrangemanXD: folds 
+*** RIVER *** [Ah Qd 8s 6d] [2h]
+ImMikeRoss: bets 500
+Rebozeio: folds 
+Uncalled bet (500) returned to ImMikeRoss
+ImMikeRoss collected 1367 from pot
+*** SUMMARY ***
+Total pot 1367 | Rake 0 
+Board [Ah Qd 8s 6d 2h]
+Seat 2: DIOGDEB (button) folded before Flop (didn't bet)
+Seat 3: Mafo-poker (small blind) folded before Flop
+Seat 4: OrangemanXD (big blind) folded on the Turn
+Seat 5: ImMikeRoss collected (1367)
+Seat 6: TrumpTrain16 folded before Flop (didn't bet)
+Seat 7: kenballs181 folded before Flop (didn't bet)
+Seat 8: Rebozeio folded on the River
+
+PokerStars Hand #249542627562: Tournament #3730407281, $10+$10+$2 USD Hold'em No Limit - Level VII (60/120) - 2024/03/21 11:49:38 ET
+Table '3730407281 1' 8-max Seat #1 is the button
+Seat 1: theomatador (5538 in chips, $10 bounty) 
+Seat 2: DIOGDEB (10053 in chips, $15 bounty) 
+Seat 3: Mafo-poker (6456 in chips, $15 bounty) 
+Seat 4: OrangemanXD (4945 in chips, $10 bounty) 
+Seat 5: ImMikeRoss (5434 in chips, $10 bounty) 
+Seat 6: mcdonnj7 (14626 in chips, $10 bounty) 
+Seat 7: kenballs181 (4844 in chips, $10 bounty) 
+Seat 8: Rebozeio (4686 in chips, $10 bounty) 
+theomatador: posts the ante 15
+DIOGDEB: posts the ante 15
+Mafo-poker: posts the ante 15
+OrangemanXD: posts the ante 15
+ImMikeRoss: posts the ante 15
+mcdonnj7: posts the ante 15
+kenballs181: posts the ante 15
+Rebozeio: posts the ante 15
+DIOGDEB: posts small blind 60
+Mafo-poker: posts big blind 120
+*** HOLE CARDS ***
+OrangemanXD: folds 
+ImMikeRoss: raises 156 to 276
+mcdonnj7: calls 276
+kenballs181: folds 
+Rebozeio: folds 
+theomatador: folds 
+DIOGDEB: calls 216
+Mafo-poker: folds 
+*** FLOP *** [Ah 2s 9c]
+DIOGDEB: checks 
+ImMikeRoss: bets 267
+mcdonnj7: raises 441 to 708
+DIOGDEB: folds 
+ImMikeRoss: folds 
+Uncalled bet (441) returned to mcdonnj7
+mcdonnj7 collected 1602 from pot
+mcdonnj7: doesn't show hand 
+*** SUMMARY ***
+Total pot 1602 | Rake 0 
+Board [Ah 2s 9c]
+Seat 1: theomatador (button) folded before Flop (didn't bet)
+Seat 2: DIOGDEB (small blind) folded on the Flop
+Seat 3: Mafo-poker (big blind) folded before Flop
+Seat 4: OrangemanXD folded before Flop (didn't bet)
+Seat 5: ImMikeRoss folded on the Flop
+Seat 6: mcdonnj7 collected (1602)
+Seat 7: kenballs181 folded before Flop (didn't bet)
+Seat 8: Rebozeio folded before Flop (didn't bet)
+
+PokerStars Hand #249542638630: Tournament #3730407281, $10+$10+$2 USD Hold'em No Limit - Level VIII (75/150) - 2024/03/21 11:50:28 ET
+Table '3730407281 1' 8-max Seat #2 is the button
+Seat 1: theomatador (5523 in chips, $10 bounty) 
+Seat 2: DIOGDEB (9762 in chips, $15 bounty) 
+Seat 3: Mafo-poker (6321 in chips, $15 bounty) 
+Seat 4: OrangemanXD (4930 in chips, $10 bounty) 
+Seat 5: ImMikeRoss (4876 in chips, $10 bounty) 
+Seat 6: mcdonnj7 (15670 in chips, $10 bounty) 
+Seat 7: kenballs181 (4829 in chips, $10 bounty) 
+Seat 8: Rebozeio (4671 in chips, $10 bounty) 
+theomatador: posts the ante 20
+DIOGDEB: posts the ante 20
+Mafo-poker: posts the ante 20
+OrangemanXD: posts the ante 20
+ImMikeRoss: posts the ante 20
+mcdonnj7: posts the ante 20
+kenballs181: posts the ante 20
+Rebozeio: posts the ante 20
+Mafo-poker: posts small blind 75
+OrangemanXD: posts big blind 150
+*** HOLE CARDS ***
+ImMikeRoss: folds 
+mcdonnj7: folds 
+kenballs181: folds 
+Rebozeio: raises 150 to 300
+theomatador: folds 
+DIOGDEB: folds 
+Mafo-poker: folds 
+OrangemanXD: raises 4610 to 4910 and is all-in
+Rebozeio: folds 
+Uncalled bet (4610) returned to OrangemanXD
+OrangemanXD collected 835 from pot
+OrangemanXD: doesn't show hand 
+*** SUMMARY ***
+Total pot 835 | Rake 0 
+Seat 1: theomatador folded before Flop (didn't bet)
+Seat 2: DIOGDEB (button) folded before Flop (didn't bet)
+Seat 3: Mafo-poker (small blind) folded before Flop
+Seat 4: OrangemanXD (big blind) collected (835)
+Seat 5: ImMikeRoss folded before Flop (didn't bet)
+Seat 6: mcdonnj7 folded before Flop (didn't bet)
+Seat 7: kenballs181 folded before Flop (didn't bet)
+Seat 8: Rebozeio folded before Flop

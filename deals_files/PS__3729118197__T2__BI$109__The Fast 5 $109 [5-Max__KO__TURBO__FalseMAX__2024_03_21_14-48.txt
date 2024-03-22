@@ -1,0 +1,396 @@
+PokerStars Hand #249542513144: Tournament #3729118197, $50+$50+$9 USD Hold'em No Limit - Level VIII (250/500) - 2024/03/21 11:40:57 ET
+Table '3729118197 2' 5-max Seat #4 is the button
+Seat 1: skarpet2 (26697 in chips, $75 bounty) 
+Seat 2: Hendurr (6074 in chips, $50 bounty) 
+Seat 4: madsch94 (6600 in chips, $50 bounty) 
+Seat 5: Shunzao (15411 in chips, $50 bounty) 
+skarpet2: posts the ante 80
+Hendurr: posts the ante 80
+madsch94: posts the ante 80
+Shunzao: posts the ante 80
+Shunzao: posts small blind 250
+skarpet2: posts big blind 500
+*** HOLE CARDS ***
+Hendurr: folds 
+madsch94: raises 500 to 1000
+Shunzao: calls 750
+skarpet2: calls 500
+*** FLOP *** [4c Jd 2h]
+Shunzao: checks 
+skarpet2: checks 
+madsch94: bets 3320
+Shunzao: folds 
+skarpet2: folds 
+Uncalled bet (3320) returned to madsch94
+madsch94 collected 3320 from pot
+madsch94: doesn't show hand 
+*** SUMMARY ***
+Total pot 3320 | Rake 0 
+Board [4c Jd 2h]
+Seat 1: skarpet2 (big blind) folded on the Flop
+Seat 2: Hendurr folded before Flop (didn't bet)
+Seat 4: madsch94 (button) collected (3320)
+Seat 5: Shunzao (small blind) folded on the Flop
+
+PokerStars Hand #249542526794: Tournament #3729118197, $50+$50+$9 USD Hold'em No Limit - Level VIII (250/500) - 2024/03/21 11:42:00 ET
+Table '3729118197 2' 5-max Seat #5 is the button
+Seat 1: skarpet2 (25617 in chips, $75 bounty) 
+Seat 2: Hendurr (5994 in chips, $50 bounty) 
+Seat 4: madsch94 (8840 in chips, $50 bounty) 
+Seat 5: Shunzao (14331 in chips, $50 bounty) 
+skarpet2: posts the ante 80
+Hendurr: posts the ante 80
+madsch94: posts the ante 80
+Shunzao: posts the ante 80
+skarpet2: posts small blind 250
+Hendurr: posts big blind 500
+*** HOLE CARDS ***
+madsch94: folds 
+Shunzao: raises 500 to 1000
+skarpet2: folds 
+Hendurr: calls 500
+*** FLOP *** [Kc Qc 7d]
+Hendurr: checks 
+Shunzao: bets 840
+Hendurr: calls 840
+*** TURN *** [Kc Qc 7d] [Tc]
+Hendurr: checks 
+Shunzao: bets 12411 and is all-in
+Hendurr: folds 
+Uncalled bet (12411) returned to Shunzao
+Shunzao collected 4250 from pot
+Shunzao: doesn't show hand 
+*** SUMMARY ***
+Total pot 4250 | Rake 0 
+Board [Kc Qc 7d Tc]
+Seat 1: skarpet2 (small blind) folded before Flop
+Seat 2: Hendurr (big blind) folded on the Turn
+Seat 4: madsch94 folded before Flop (didn't bet)
+Seat 5: Shunzao (button) collected (4250)
+
+PokerStars Hand #249542537939: Tournament #3729118197, $50+$50+$9 USD Hold'em No Limit - Level VIII (250/500) - 2024/03/21 11:42:51 ET
+Table '3729118197 2' 5-max Seat #1 is the button
+Seat 1: skarpet2 (25287 in chips, $75 bounty) 
+Seat 2: Hendurr (4074 in chips, $50 bounty) 
+Seat 4: madsch94 (8760 in chips, $50 bounty) 
+Seat 5: Shunzao (16661 in chips, $50 bounty) 
+skarpet2: posts the ante 80
+Hendurr: posts the ante 80
+madsch94: posts the ante 80
+Shunzao: posts the ante 80
+Hendurr: posts small blind 250
+madsch94: posts big blind 500
+*** HOLE CARDS ***
+Shunzao: raises 500 to 1000
+skarpet2: calls 1000
+Hendurr: folds 
+madsch94: folds 
+*** FLOP *** [7s Kc 6s]
+Shunzao: checks 
+skarpet2: checks 
+*** TURN *** [7s Kc 6s] [9h]
+Shunzao: bets 798
+skarpet2: folds 
+Uncalled bet (798) returned to Shunzao
+Shunzao collected 3070 from pot
+Shunzao: doesn't show hand 
+*** SUMMARY ***
+Total pot 3070 | Rake 0 
+Board [7s Kc 6s 9h]
+Seat 1: skarpet2 (button) folded on the Turn
+Seat 2: Hendurr (small blind) folded before Flop
+Seat 4: madsch94 (big blind) folded before Flop
+Seat 5: Shunzao collected (3070)
+
+PokerStars Hand #249542553927: Tournament #3729118197, $50+$50+$9 USD Hold'em No Limit - Level VIII (250/500) - 2024/03/21 11:44:04 ET
+Table '3729118197 2' 5-max Seat #2 is the button
+Seat 1: skarpet2 (24207 in chips, $75 bounty) 
+Seat 2: Hendurr (3744 in chips, $50 bounty) 
+Seat 4: madsch94 (8180 in chips, $50 bounty) 
+Seat 5: Shunzao (18651 in chips, $50 bounty) 
+skarpet2: posts the ante 80
+Hendurr: posts the ante 80
+madsch94: posts the ante 80
+Shunzao: posts the ante 80
+madsch94: posts small blind 250
+Shunzao: posts big blind 500
+*** HOLE CARDS ***
+skarpet2: raises 500 to 1000
+Hendurr: raises 2664 to 3664 and is all-in
+madsch94: calls 3414
+Shunzao has timed out
+Shunzao: folds 
+Shunzao is sitting out
+Shunzao has returned
+skarpet2: calls 2664
+*** FLOP *** [Jd 5s 5d]
+madsch94: checks 
+skarpet2: checks 
+*** TURN *** [Jd 5s 5d] [7s]
+madsch94: bets 1500
+skarpet2: folds 
+Uncalled bet (1500) returned to madsch94
+*** RIVER *** [Jd 5s 5d 7s] [2d]
+*** SHOW DOWN ***
+madsch94: shows [Th Jh] (two pair, Jacks and Fives)
+Hendurr: shows [Ad Kd] (a flush, Ace high)
+Hendurr collected 11812 from pot
+*** SUMMARY ***
+Total pot 11812 | Rake 0 
+Board [Jd 5s 5d 7s 2d]
+Seat 1: skarpet2 folded on the Turn
+Seat 2: Hendurr (button) showed [Ad Kd] and won (11812) with a flush, Ace high
+Seat 4: madsch94 (small blind) showed [Th Jh] and lost with two pair, Jacks and Fives
+Seat 5: Shunzao (big blind) folded before Flop
+
+PokerStars Hand #249542615243: Tournament #3729118197, $50+$50+$9 USD Hold'em No Limit - Level IX (300/600) - 2024/03/21 11:48:43 ET
+Table '3729118197 2' 5-max Seat #5 is the button
+Seat 1: skarpet2 (33636 in chips, $100 bounty) 
+Seat 3: HunTyMD (9900 in chips, $50 bounty) 
+Seat 5: Shunzao (21246 in chips, $75 bounty) 
+skarpet2: posts the ante 100
+HunTyMD: posts the ante 100
+Shunzao: posts the ante 100
+skarpet2: posts small blind 300
+HunTyMD: posts big blind 600
+*** HOLE CARDS ***
+cfcfinlay11 is disconnected 
+Shunzao: folds 
+skarpet2: raises 32936 to 33536 and is all-in
+HunTyMD: folds 
+Uncalled bet (32936) returned to skarpet2
+skarpet2 collected 1500 from pot
+skarpet2: doesn't show hand 
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Seat 1: skarpet2 (small blind) collected (1500)
+Seat 3: HunTyMD (big blind) folded before Flop
+Seat 5: Shunzao (button) folded before Flop (didn't bet)
+
+PokerStars Hand #249542619356: Tournament #3729118197, $50+$50+$9 USD Hold'em No Limit - Level IX (300/600) - 2024/03/21 11:49:02 ET
+Table '3729118197 2' 5-max Seat #1 is the button
+Seat 1: skarpet2 (34436 in chips, $100 bounty) 
+Seat 3: HunTyMD (9200 in chips, $50 bounty) 
+Seat 4: cfcfinlay11 (10000 in chips, $50 bounty) 
+Seat 5: Shunzao (21146 in chips, $75 bounty) 
+skarpet2: posts the ante 100
+HunTyMD: posts the ante 100
+cfcfinlay11: posts the ante 100
+Shunzao: posts the ante 100
+HunTyMD: posts small blind 300
+cfcfinlay11: posts big blind 600
+*** HOLE CARDS ***
+Shunzao: folds 
+skarpet2: folds 
+HunTyMD: raises 8500 to 9100 and is all-in
+cfcfinlay11: folds 
+Uncalled bet (8500) returned to HunTyMD
+HunTyMD collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Seat 1: skarpet2 (button) folded before Flop (didn't bet)
+Seat 3: HunTyMD (small blind) collected (1600)
+Seat 4: cfcfinlay11 (big blind) folded before Flop
+Seat 5: Shunzao folded before Flop (didn't bet)
+
+PokerStars Hand #249542623081: Tournament #3729118197, $50+$50+$9 USD Hold'em No Limit - Level IX (300/600) - 2024/03/21 11:49:18 ET
+Table '3729118197 2' 5-max Seat #3 is the button
+Seat 1: skarpet2 (34336 in chips, $100 bounty) 
+Seat 3: HunTyMD (10100 in chips, $50 bounty) 
+Seat 4: cfcfinlay11 (9300 in chips, $50 bounty) 
+Seat 5: Shunzao (21046 in chips, $75 bounty) 
+skarpet2: posts the ante 100
+HunTyMD: posts the ante 100
+cfcfinlay11: posts the ante 100
+Shunzao: posts the ante 100
+cfcfinlay11: posts small blind 300
+Shunzao: posts big blind 600
+*** HOLE CARDS ***
+skarpet2: raises 690 to 1290
+HunTyMD: folds 
+cfcfinlay11: raises 7910 to 9200 and is all-in
+Shunzao: folds 
+skarpet2: calls 7910
+*** FLOP *** [Jh 7s 6d]
+*** TURN *** [Jh 7s 6d] [4d]
+*** RIVER *** [Jh 7s 6d 4d] [Jd]
+*** SHOW DOWN ***
+cfcfinlay11: shows [Ks Ts] (a pair of Jacks)
+skarpet2: shows [9d Td] (a flush, Jack high)
+skarpet2 collected 19400 from pot
+skarpet2 wins $25 for eliminating cfcfinlay11 and their own bounty increases by $25 to $125
+cfcfinlay11 finished the tournament
+*** SUMMARY ***
+Total pot 19400 | Rake 0 
+Board [Jh 7s 6d 4d Jd]
+Seat 1: skarpet2 showed [9d Td] and won (19400) with a flush, Jack high
+Seat 3: HunTyMD (button) folded before Flop (didn't bet)
+Seat 4: cfcfinlay11 (small blind) showed [Ks Ts] and lost with a pair of Jacks
+Seat 5: Shunzao (big blind) folded before Flop
+
+PokerStars Hand #249542631424: Tournament #3729118197, $50+$50+$9 USD Hold'em No Limit - Level IX (300/600) - 2024/03/21 11:49:55 ET
+Table '3729118197 2' 5-max Seat #5 is the button
+Seat 1: skarpet2 (44436 in chips, $125 bounty) 
+Seat 3: HunTyMD (10000 in chips, $50 bounty) 
+Seat 5: Shunzao (20346 in chips, $75 bounty) 
+skarpet2: posts the ante 100
+HunTyMD: posts the ante 100
+Shunzao: posts the ante 100
+skarpet2: posts small blind 300
+HunTyMD: posts big blind 600
+*** HOLE CARDS ***
+Shunzao: folds 
+skarpet2: calls 300
+HunTyMD: checks 
+*** FLOP *** [9h 7c 3s]
+skarpet2: checks 
+HunTyMD: bets 750
+skarpet2: folds 
+Uncalled bet (750) returned to HunTyMD
+HunTyMD collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [9h 7c 3s]
+Seat 1: skarpet2 (small blind) folded on the Flop
+Seat 3: HunTyMD (big blind) collected (1500)
+Seat 5: Shunzao (button) folded before Flop (didn't bet)
+
+PokerStars Hand #249542637663: Tournament #3729118197, $50+$50+$9 USD Hold'em No Limit - Level X (400/800) - 2024/03/21 11:50:24 ET
+Table '3729118197 2' 5-max Seat #1 is the button
+Seat 1: skarpet2 (43736 in chips, $125 bounty) 
+Seat 3: HunTyMD (10800 in chips, $50 bounty) 
+Seat 5: Shunzao (20246 in chips, $75 bounty) 
+skarpet2: posts the ante 120
+HunTyMD: posts the ante 120
+Shunzao: posts the ante 120
+HunTyMD: posts small blind 400
+Shunzao: posts big blind 800
+*** HOLE CARDS ***
+skarpet2: raises 800 to 1600
+HunTyMD: folds 
+Shunzao: calls 800
+*** FLOP *** [4d 5d Kc]
+Shunzao: checks 
+skarpet2: bets 990
+Shunzao: folds 
+Uncalled bet (990) returned to skarpet2
+skarpet2 collected 3960 from pot
+skarpet2: doesn't show hand 
+*** SUMMARY ***
+Total pot 3960 | Rake 0 
+Board [4d 5d Kc]
+Seat 1: skarpet2 (button) collected (3960)
+Seat 3: HunTyMD (small blind) folded before Flop
+Seat 5: Shunzao (big blind) folded on the Flop
+
+PokerStars Hand #249542646547: Tournament #3729118197, $50+$50+$9 USD Hold'em No Limit - Level X (400/800) - 2024/03/21 11:51:03 ET
+Table '3729118197 2' 5-max Seat #3 is the button
+Seat 1: skarpet2 (45976 in chips, $125 bounty) 
+Seat 3: HunTyMD (10280 in chips, $50 bounty) 
+Seat 5: Shunzao (18526 in chips, $75 bounty) 
+skarpet2: posts the ante 120
+HunTyMD: posts the ante 120
+Shunzao: posts the ante 120
+Shunzao: posts small blind 400
+skarpet2: posts big blind 800
+*** HOLE CARDS ***
+HunTyMD: folds 
+Shunzao: folds 
+Uncalled bet (400) returned to skarpet2
+skarpet2 collected 1160 from pot
+skarpet2: doesn't show hand 
+*** SUMMARY ***
+Total pot 1160 | Rake 0 
+Seat 1: skarpet2 (big blind) collected (1160)
+Seat 3: HunTyMD (button) folded before Flop (didn't bet)
+Seat 5: Shunzao (small blind) folded before Flop
+
+PokerStars Hand #249542649183: Tournament #3729118197, $50+$50+$9 USD Hold'em No Limit - Level X (400/800) - 2024/03/21 11:51:15 ET
+Table '3729118197 2' 5-max Seat #5 is the button
+Seat 1: skarpet2 (46616 in chips, $125 bounty) 
+Seat 3: HunTyMD (10160 in chips, $50 bounty) 
+Seat 5: Shunzao (18006 in chips, $75 bounty) 
+skarpet2: posts the ante 120
+HunTyMD: posts the ante 120
+Shunzao: posts the ante 120
+skarpet2: posts small blind 400
+HunTyMD: posts big blind 800
+*** HOLE CARDS ***
+Galanthus1 is disconnected 
+Shunzao: folds 
+skarpet2: raises 45696 to 46496 and is all-in
+HunTyMD: folds 
+Uncalled bet (45696) returned to skarpet2
+skarpet2 collected 1960 from pot
+skarpet2: doesn't show hand 
+*** SUMMARY ***
+Total pot 1960 | Rake 0 
+Seat 1: skarpet2 (small blind) collected (1960)
+Seat 3: HunTyMD (big blind) folded before Flop
+Seat 5: Shunzao (button) folded before Flop (didn't bet)
+
+PokerStars Hand #249542651704: Tournament #3729118197, $50+$50+$9 USD Hold'em No Limit - Level X (400/800) - 2024/03/21 11:51:27 ET
+Table '3729118197 2' 5-max Seat #1 is the button
+Seat 1: skarpet2 (47656 in chips, $125 bounty) 
+Seat 2: Galanthus1 (10000 in chips) out of hand (moved from another table into small blind)
+Seat 3: HunTyMD (9240 in chips, $50 bounty) 
+Seat 5: Shunzao (17886 in chips, $75 bounty) 
+Galanthus1 will be allowed to play after the button
+skarpet2: posts the ante 120
+HunTyMD: posts the ante 120
+Shunzao: posts the ante 120
+HunTyMD: posts small blind 400
+Shunzao: posts big blind 800
+*** HOLE CARDS ***
+skarpet2: raises 800 to 1600
+HunTyMD: raises 7520 to 9120 and is all-in
+Shunzao: folds 
+skarpet2: calls 7520
+*** FLOP *** [Jc Th 9c]
+*** TURN *** [Jc Th 9c] [Qs]
+*** RIVER *** [Jc Th 9c Qs] [7h]
+*** SHOW DOWN ***
+HunTyMD: shows [Ac Qc] (a pair of Queens)
+skarpet2: shows [Ah 9h] (a pair of Nines)
+HunTyMD collected 19400 from pot
+*** SUMMARY ***
+Total pot 19400 | Rake 0 
+Board [Jc Th 9c Qs 7h]
+Seat 1: skarpet2 (button) showed [Ah 9h] and lost with a pair of Nines
+Seat 3: HunTyMD (small blind) showed [Ac Qc] and won (19400) with a pair of Queens
+Seat 5: Shunzao (big blind) folded before Flop
+
+PokerStars Hand #249542656171: Tournament #3729118197, $50+$50+$9 USD Hold'em No Limit - Level X (400/800) - 2024/03/21 11:51:47 ET
+Table '3729118197 2' 5-max Seat #3 is the button
+Seat 1: skarpet2 (38416 in chips, $125 bounty) 
+Seat 2: Galanthus1 (10000 in chips, $50 bounty) 
+Seat 3: HunTyMD (19400 in chips, $50 bounty) 
+Seat 5: Shunzao (16966 in chips, $75 bounty) 
+skarpet2: posts the ante 120
+Galanthus1: posts the ante 120
+HunTyMD: posts the ante 120
+Shunzao: posts the ante 120
+Shunzao: posts small blind 400
+skarpet2: posts big blind 800
+*** HOLE CARDS ***
+Galanthus1: raises 9080 to 9880 and is all-in
+HunTyMD: raises 9400 to 19280 and is all-in
+Shunzao: folds 
+skarpet2: folds 
+Uncalled bet (9400) returned to HunTyMD
+*** FLOP *** [Th Kc 5h]
+*** TURN *** [Th Kc 5h] [2d]
+*** RIVER *** [Th Kc 5h 2d] [4h]
+*** SHOW DOWN ***
+Galanthus1: shows [8d Ac] (high card Ace)
+HunTyMD: shows [Ad As] (a pair of Aces)
+HunTyMD collected 21440 from pot
+HunTyMD wins $25 for eliminating Galanthus1 and their own bounty increases by $25 to $75
+Galanthus1 finished the tournament
+*** SUMMARY ***
+Total pot 21440 | Rake 0 
+Board [Th Kc 5h 2d 4h]
+Seat 1: skarpet2 (big blind) folded before Flop
+Seat 2: Galanthus1 showed [8d Ac] and lost with high card Ace
+Seat 3: HunTyMD (button) showed [Ad As] and won (21440) with a pair of Aces
+Seat 5: Shunzao (small blind) folded before Flop

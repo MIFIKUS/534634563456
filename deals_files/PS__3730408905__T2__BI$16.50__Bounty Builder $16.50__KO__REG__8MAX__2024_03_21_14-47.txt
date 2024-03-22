@@ -1,0 +1,445 @@
+PokerStars Hand #249542501092: Tournament #3730408905, $7.20+$7.50+$1.80 USD Hold'em No Limit - Level XV (200/400) - 2024/03/21 11:40:01 ET
+Table '3730408905 2' 8-max Seat #2 is the button
+Seat 1: Edo1398 (24263 in chips, $22.50 bounty) 
+Seat 2: pokeralexus (5453 in chips, $18.75 bounty) 
+Seat 3: Fovios (95765 in chips, $56.23 bounty) 
+Seat 4: ballenAAgra (13675 in chips, $13.12 bounty) 
+Seat 5: james1992ffm (14267 in chips, $11.25 bounty) 
+Seat 6: becaflor (7039 in chips, $11.25 bounty) 
+Seat 7: Brurovisky (7388 in chips, $7.50 bounty) 
+Edo1398: posts the ante 60
+pokeralexus: posts the ante 60
+Fovios: posts the ante 60
+ballenAAgra: posts the ante 60
+james1992ffm: posts the ante 60
+becaflor: posts the ante 60
+Brurovisky: posts the ante 60
+Fovios: posts small blind 200
+ballenAAgra: posts big blind 400
+*** HOLE CARDS ***
+james1992ffm: folds 
+becaflor: folds 
+Brurovisky: folds 
+Edo1398: folds 
+pokeralexus: raises 4993 to 5393 and is all-in
+Fovios: raises 13007 to 18400
+ballenAAgra: folds 
+Uncalled bet (13007) returned to Fovios
+*** FLOP *** [3c As 6c]
+*** TURN *** [3c As 6c] [Ks]
+*** RIVER *** [3c As 6c Ks] [Ad]
+*** SHOW DOWN ***
+Fovios: shows [Ac 9s] (three of a kind, Aces)
+pokeralexus: shows [Qd Tc] (a pair of Aces)
+Fovios collected 11606 from pot
+Fovios wins $9.38 for eliminating pokeralexus and their own bounty increases by $9.37 to $65.60
+pokeralexus finished the tournament in 364th place
+NermanCh is disconnected 
+*** SUMMARY ***
+Total pot 11606 | Rake 0 
+Board [3c As 6c Ks Ad]
+Seat 1: Edo1398 folded before Flop (didn't bet)
+Seat 2: pokeralexus (button) showed [Qd Tc] and lost with a pair of Aces
+Seat 3: Fovios (small blind) showed [Ac 9s] and won (11606) with three of a kind, Aces
+Seat 4: ballenAAgra (big blind) folded before Flop
+Seat 5: james1992ffm folded before Flop (didn't bet)
+Seat 6: becaflor folded before Flop (didn't bet)
+Seat 7: Brurovisky folded before Flop (didn't bet)
+
+PokerStars Hand #249542510078: Tournament #3730408905, $7.20+$7.50+$1.80 USD Hold'em No Limit - Level XV (200/400) - 2024/03/21 11:40:43 ET
+Table '3730408905 2' 8-max Seat #3 is the button
+Seat 1: Edo1398 (24203 in chips, $22.50 bounty) 
+Seat 2: NermanCh (9117 in chips, $11.25 bounty) 
+Seat 3: Fovios (101918 in chips, $65.60 bounty) 
+Seat 4: ballenAAgra (13215 in chips, $13.12 bounty) 
+Seat 5: james1992ffm (14207 in chips, $11.25 bounty) 
+Seat 6: becaflor (6979 in chips, $11.25 bounty) 
+Seat 7: Brurovisky (7328 in chips, $7.50 bounty) 
+Edo1398: posts the ante 60
+NermanCh: posts the ante 60
+Fovios: posts the ante 60
+ballenAAgra: posts the ante 60
+james1992ffm: posts the ante 60
+becaflor: posts the ante 60
+Brurovisky: posts the ante 60
+ballenAAgra: posts small blind 200
+james1992ffm: posts big blind 400
+*** HOLE CARDS ***
+becaflor: folds 
+Brurovisky: raises 400 to 800
+Edo1398: folds 
+NermanCh: folds 
+Fovios: raises 1960 to 2760
+NegromJames is disconnected 
+ballenAAgra: folds 
+james1992ffm: folds 
+Brurovisky: folds 
+Uncalled bet (1960) returned to Fovios
+Fovios collected 2620 from pot
+Fovios: doesn't show hand 
+*** SUMMARY ***
+Total pot 2620 | Rake 0 
+Seat 1: Edo1398 folded before Flop (didn't bet)
+Seat 2: NermanCh folded before Flop (didn't bet)
+Seat 3: Fovios (button) collected (2620)
+Seat 4: ballenAAgra (small blind) folded before Flop
+Seat 5: james1992ffm (big blind) folded before Flop
+Seat 6: becaflor folded before Flop (didn't bet)
+Seat 7: Brurovisky folded before Flop
+
+PokerStars Hand #249542518091: Tournament #3730408905, $7.20+$7.50+$1.80 USD Hold'em No Limit - Level XV (200/400) - 2024/03/21 11:41:20 ET
+Table '3730408905 2' 8-max Seat #4 is the button
+Seat 1: Edo1398 (24143 in chips, $22.50 bounty) 
+Seat 2: NermanCh (9057 in chips, $11.25 bounty) 
+Seat 3: Fovios (103678 in chips, $65.60 bounty) 
+Seat 4: ballenAAgra (12955 in chips, $13.12 bounty) 
+Seat 5: james1992ffm (13747 in chips, $11.25 bounty) 
+Seat 6: becaflor (6919 in chips, $11.25 bounty) 
+Seat 7: Brurovisky (6468 in chips, $7.50 bounty) 
+Seat 8: NegromJames (22328 in chips, $22.50 bounty) 
+Edo1398: posts the ante 60
+NermanCh: posts the ante 60
+Fovios: posts the ante 60
+ballenAAgra: posts the ante 60
+james1992ffm: posts the ante 60
+becaflor: posts the ante 60
+Brurovisky: posts the ante 60
+NegromJames: posts the ante 60
+james1992ffm: posts small blind 200
+becaflor: posts big blind 400
+*** HOLE CARDS ***
+Brurovisky: folds 
+NegromJames: raises 440 to 840
+Edo1398: raises 1760 to 2600
+NermanCh: folds 
+Fovios: folds 
+ballenAAgra: folds 
+james1992ffm: folds 
+becaflor: calls 2200
+NegromJames: folds 
+*** FLOP *** [Th 9s 8h]
+becaflor: checks 
+Edo1398: bets 2218
+becaflor: raises 2041 to 4259 and is all-in
+Edo1398: calls 2041
+*** TURN *** [Th 9s 8h] [Ac]
+*** RIVER *** [Th 9s 8h Ac] [6h]
+*** SHOW DOWN ***
+becaflor: shows [Qc Kd] (high card Ace)
+Edo1398: shows [Js As] (a pair of Aces)
+Edo1398 collected 15238 from pot
+Edo1398 wins $5.63 for eliminating becaflor and their own bounty increases by $5.62 to $28.12
+becaflor finished the tournament in 355th place
+*** SUMMARY ***
+Total pot 15238 | Rake 0 
+Board [Th 9s 8h Ac 6h]
+Seat 1: Edo1398 showed [Js As] and won (15238) with a pair of Aces
+Seat 2: NermanCh folded before Flop (didn't bet)
+Seat 3: Fovios folded before Flop (didn't bet)
+Seat 4: ballenAAgra (button) folded before Flop (didn't bet)
+Seat 5: james1992ffm (small blind) folded before Flop
+Seat 6: becaflor (big blind) showed [Qc Kd] and lost with high card Ace
+Seat 7: Brurovisky folded before Flop (didn't bet)
+Seat 8: NegromJames folded before Flop
+
+PokerStars Hand #249542532047: Tournament #3730408905, $7.20+$7.50+$1.80 USD Hold'em No Limit - Level XV (200/400) - 2024/03/21 11:42:24 ET
+Table '3730408905 2' 8-max Seat #5 is the button
+Seat 1: Edo1398 (32462 in chips, $28.12 bounty) 
+Seat 2: NermanCh (8997 in chips, $11.25 bounty) 
+Seat 3: Fovios (103618 in chips, $65.60 bounty) 
+Seat 4: ballenAAgra (12895 in chips, $13.12 bounty) 
+Seat 5: james1992ffm (13487 in chips, $11.25 bounty) 
+Seat 7: Brurovisky (6408 in chips, $7.50 bounty) 
+Seat 8: NegromJames (21428 in chips, $22.50 bounty) 
+Edo1398: posts the ante 60
+NermanCh: posts the ante 60
+Fovios: posts the ante 60
+ballenAAgra: posts the ante 60
+james1992ffm: posts the ante 60
+Brurovisky: posts the ante 60
+NegromJames: posts the ante 60
+Brurovisky: posts small blind 200
+NegromJames: posts big blind 400
+*** HOLE CARDS ***
+Edo1398: folds 
+NermanCh: folds 
+Fovios: folds 
+marv92m is disconnected 
+ballenAAgra: folds 
+james1992ffm: folds 
+Brurovisky: calls 200
+NegromJames: checks 
+*** FLOP *** [8c 9c 7d]
+Brurovisky: checks 
+NegromJames: checks 
+*** TURN *** [8c 9c 7d] [2d]
+Brurovisky: bets 600
+NegromJames: calls 600
+*** RIVER *** [8c 9c 7d 2d] [7h]
+Brurovisky: checks 
+NegromJames: bets 1600
+Brurovisky: calls 1600
+*** SHOW DOWN ***
+NegromJames: shows [Qs 6s] (a pair of Sevens)
+Brurovisky: shows [8d 3d] (two pair, Eights and Sevens)
+Brurovisky collected 5620 from pot
+*** SUMMARY ***
+Total pot 5620 | Rake 0 
+Board [8c 9c 7d 2d 7h]
+Seat 1: Edo1398 folded before Flop (didn't bet)
+Seat 2: NermanCh folded before Flop (didn't bet)
+Seat 3: Fovios folded before Flop (didn't bet)
+Seat 4: ballenAAgra folded before Flop (didn't bet)
+Seat 5: james1992ffm (button) folded before Flop (didn't bet)
+Seat 7: Brurovisky (small blind) showed [8d 3d] and won (5620) with two pair, Eights and Sevens
+Seat 8: NegromJames (big blind) showed [Qs 6s] and lost with a pair of Sevens
+
+PokerStars Hand #249542613357: Tournament #3730408905, $7.20+$7.50+$1.80 USD Hold'em No Limit - Level XVI (250/500) - 2024/03/21 11:48:35 ET
+Table '3730408905 2' 8-max Seat #2 is the button
+Seat 1: Edo1398 (14946 in chips, $28.12 bounty) 
+Seat 2: NermanCh (7967 in chips, $11.25 bounty) 
+Seat 3: Fovios (102513 in chips, $65.60 bounty) 
+Seat 4: ballenAAgra (26120 in chips, $13.12 bounty) 
+Seat 5: james1992ffm (13207 in chips, $11.25 bounty) 
+Seat 6: marv92m (8695 in chips, $11.25 bounty) 
+Seat 7: Brurovisky (9148 in chips, $7.50 bounty) 
+Seat 8: NegromJames (25614 in chips, $22.50 bounty) 
+Edo1398: posts the ante 80
+NermanCh: posts the ante 80
+Fovios: posts the ante 80
+ballenAAgra: posts the ante 80
+james1992ffm: posts the ante 80
+marv92m: posts the ante 80
+Brurovisky: posts the ante 80
+NegromJames: posts the ante 80
+Fovios: posts small blind 250
+ballenAAgra: posts big blind 500
+*** HOLE CARDS ***
+james1992ffm: folds 
+marv92m: raises 600 to 1100
+Brurovisky: folds 
+NegromJames: folds 
+Edo1398: raises 2150 to 3250
+NermanCh: folds 
+Fovios: folds 
+ballenAAgra: folds 
+marv92m: raises 5365 to 8615 and is all-in
+Edo1398: calls 5365
+*** FLOP *** [Td Qc 9h]
+*** TURN *** [Td Qc 9h] [8h]
+*** RIVER *** [Td Qc 9h 8h] [5d]
+*** SHOW DOWN ***
+marv92m: shows [8c 8s] (three of a kind, Eights)
+Edo1398: shows [As Kc] (high card Ace)
+marv92m collected 18620 from pot
+*** SUMMARY ***
+Total pot 18620 | Rake 0 
+Board [Td Qc 9h 8h 5d]
+Seat 1: Edo1398 showed [As Kc] and lost with high card Ace
+Seat 2: NermanCh (button) folded before Flop (didn't bet)
+Seat 3: Fovios (small blind) folded before Flop
+Seat 4: ballenAAgra (big blind) folded before Flop
+Seat 5: james1992ffm folded before Flop (didn't bet)
+Seat 6: marv92m showed [8c 8s] and won (18620) with three of a kind, Eights
+Seat 7: Brurovisky folded before Flop (didn't bet)
+Seat 8: NegromJames folded before Flop (didn't bet)
+
+PokerStars Hand #249542625677: Tournament #3730408905, $7.20+$7.50+$1.80 USD Hold'em No Limit - Level XVI (250/500) - 2024/03/21 11:49:30 ET
+Table '3730408905 2' 8-max Seat #3 is the button
+Seat 1: Edo1398 (6251 in chips, $28.12 bounty) 
+Seat 2: NermanCh (7887 in chips, $11.25 bounty) 
+Seat 3: Fovios (102183 in chips, $65.60 bounty) 
+Seat 4: ballenAAgra (25540 in chips, $13.12 bounty) 
+Seat 5: james1992ffm (13127 in chips, $11.25 bounty) 
+Seat 6: marv92m (18620 in chips, $11.25 bounty) 
+Seat 7: Brurovisky (9068 in chips, $7.50 bounty) 
+Seat 8: NegromJames (25534 in chips, $22.50 bounty) 
+Edo1398: posts the ante 80
+NermanCh: posts the ante 80
+Fovios: posts the ante 80
+ballenAAgra: posts the ante 80
+james1992ffm: posts the ante 80
+marv92m: posts the ante 80
+Brurovisky: posts the ante 80
+NegromJames: posts the ante 80
+ballenAAgra: posts small blind 250
+james1992ffm: posts big blind 500
+*** HOLE CARDS ***
+marv92m: folds 
+Brurovisky: folds 
+NegromJames: raises 550 to 1050
+Edo1398: folds 
+NermanCh: folds 
+Fovios: folds 
+ballenAAgra: calls 800
+james1992ffm: calls 550
+*** FLOP *** [3c 7d 8c]
+ballenAAgra: checks 
+james1992ffm: checks 
+NegromJames: bets 1137
+ballenAAgra: calls 1137
+james1992ffm: folds 
+*** TURN *** [3c 7d 8c] [6s]
+ballenAAgra: checks 
+NegromJames: bets 3750
+ballenAAgra: calls 3750
+*** RIVER *** [3c 7d 8c 6s] [9d]
+ballenAAgra: checks 
+NegromJames: bets 19517 and is all-in
+ballenAAgra: folds 
+Uncalled bet (19517) returned to NegromJames
+NegromJames collected 13564 from pot
+NegromJames: doesn't show hand 
+*** SUMMARY ***
+Total pot 13564 | Rake 0 
+Board [3c 7d 8c 6s 9d]
+Seat 1: Edo1398 folded before Flop (didn't bet)
+Seat 2: NermanCh folded before Flop (didn't bet)
+Seat 3: Fovios (button) folded before Flop (didn't bet)
+Seat 4: ballenAAgra (small blind) folded on the River
+Seat 5: james1992ffm (big blind) folded on the Flop
+Seat 6: marv92m folded before Flop (didn't bet)
+Seat 7: Brurovisky folded before Flop (didn't bet)
+Seat 8: NegromJames collected (13564)
+
+PokerStars Hand #249542660316: Tournament #3730408905, $7.20+$7.50+$1.80 USD Hold'em No Limit - Level XVI (250/500) - 2024/03/21 11:52:06 ET
+Table '3730408905 2' 8-max Seat #4 is the button
+Seat 1: Edo1398 (6171 in chips, $28.12 bounty) 
+Seat 2: NermanCh (7807 in chips, $11.25 bounty) 
+Seat 3: Fovios (102103 in chips, $65.60 bounty) 
+Seat 4: ballenAAgra (19523 in chips, $13.12 bounty) 
+Seat 5: james1992ffm (11997 in chips, $11.25 bounty) 
+Seat 6: marv92m (18540 in chips, $11.25 bounty) 
+Seat 7: Brurovisky (8988 in chips, $7.50 bounty) 
+Seat 8: NegromJames (33081 in chips, $22.50 bounty) 
+Edo1398: posts the ante 80
+NermanCh: posts the ante 80
+Fovios: posts the ante 80
+ballenAAgra: posts the ante 80
+james1992ffm: posts the ante 80
+marv92m: posts the ante 80
+Brurovisky: posts the ante 80
+NegromJames: posts the ante 80
+james1992ffm: posts small blind 250
+marv92m: posts big blind 500
+*** HOLE CARDS ***
+Brurovisky: folds 
+NegromJames: folds 
+Edo1398: folds 
+NermanCh: raises 7227 to 7727 and is all-in
+Fovios: raises 15273 to 23000
+ballenAAgra: folds 
+james1992ffm: folds 
+marv92m: folds 
+Uncalled bet (15273) returned to Fovios
+*** FLOP *** [Jh 4h 8c]
+*** TURN *** [Jh 4h 8c] [Jd]
+*** RIVER *** [Jh 4h 8c Jd] [Ks]
+*** SHOW DOWN ***
+NermanCh: shows [Js Ac] (three of a kind, Jacks)
+Fovios: shows [Ah 3h] (a pair of Jacks)
+NermanCh collected 16844 from pot
+*** SUMMARY ***
+Total pot 16844 | Rake 0 
+Board [Jh 4h 8c Jd Ks]
+Seat 1: Edo1398 folded before Flop (didn't bet)
+Seat 2: NermanCh showed [Js Ac] and won (16844) with three of a kind, Jacks
+Seat 3: Fovios showed [Ah 3h] and lost with a pair of Jacks
+Seat 4: ballenAAgra (button) folded before Flop (didn't bet)
+Seat 5: james1992ffm (small blind) folded before Flop
+Seat 6: marv92m (big blind) folded before Flop
+Seat 7: Brurovisky folded before Flop (didn't bet)
+Seat 8: NegromJames folded before Flop (didn't bet)
+
+PokerStars Hand #249542670149: Tournament #3730408905, $7.20+$7.50+$1.80 USD Hold'em No Limit - Level XVII (300/600) - 2024/03/21 11:52:50 ET
+Table '3730408905 2' 8-max Seat #5 is the button
+Seat 1: Edo1398 (6091 in chips, $28.12 bounty) 
+Seat 2: NermanCh (16844 in chips, $11.25 bounty) 
+Seat 3: Fovios (94296 in chips, $65.60 bounty) 
+Seat 4: ballenAAgra (19443 in chips, $13.12 bounty) 
+Seat 5: james1992ffm (11667 in chips, $11.25 bounty) 
+Seat 6: marv92m (17960 in chips, $11.25 bounty) 
+Seat 7: Brurovisky (8908 in chips, $7.50 bounty) 
+Seat 8: NegromJames (33001 in chips, $22.50 bounty) 
+Edo1398: posts the ante 90
+NermanCh: posts the ante 90
+Fovios: posts the ante 90
+ballenAAgra: posts the ante 90
+james1992ffm: posts the ante 90
+marv92m: posts the ante 90
+Brurovisky: posts the ante 90
+NegromJames: posts the ante 90
+marv92m: posts small blind 300
+Brurovisky: posts big blind 600
+*** HOLE CARDS ***
+NegromJames: raises 660 to 1260
+Edo1398: folds 
+NermanCh: folds 
+Fovios: folds 
+ballenAAgra: folds 
+james1992ffm: folds 
+marv92m: folds 
+Brurovisky: folds 
+Uncalled bet (660) returned to NegromJames
+NegromJames collected 2220 from pot
+NegromJames: doesn't show hand 
+*** SUMMARY ***
+Total pot 2220 | Rake 0 
+Seat 1: Edo1398 folded before Flop (didn't bet)
+Seat 2: NermanCh folded before Flop (didn't bet)
+Seat 3: Fovios folded before Flop (didn't bet)
+Seat 4: ballenAAgra folded before Flop (didn't bet)
+Seat 5: james1992ffm (button) folded before Flop (didn't bet)
+Seat 6: marv92m (small blind) folded before Flop
+Seat 7: Brurovisky (big blind) folded before Flop
+Seat 8: NegromJames collected (2220)
+
+PokerStars Hand #249542677714: Tournament #3730408905, $7.20+$7.50+$1.80 USD Hold'em No Limit - Level XVII (300/600) - 2024/03/21 11:53:23 ET
+Table '3730408905 2' 8-max Seat #6 is the button
+Seat 1: Edo1398 (6001 in chips, $28.12 bounty) 
+Seat 2: NermanCh (16754 in chips, $11.25 bounty) 
+Seat 3: Fovios (94206 in chips, $65.60 bounty) 
+Seat 4: ballenAAgra (19353 in chips, $13.12 bounty) 
+Seat 5: james1992ffm (11577 in chips, $11.25 bounty) 
+Seat 6: marv92m (17570 in chips, $11.25 bounty) 
+Seat 7: Brurovisky (8218 in chips, $7.50 bounty) 
+Seat 8: NegromJames (34531 in chips, $22.50 bounty) 
+Edo1398: posts the ante 90
+NermanCh: posts the ante 90
+Fovios: posts the ante 90
+ballenAAgra: posts the ante 90
+james1992ffm: posts the ante 90
+marv92m: posts the ante 90
+Brurovisky: posts the ante 90
+NegromJames: posts the ante 90
+Brurovisky: posts small blind 300
+NegromJames: posts big blind 600
+*** HOLE CARDS ***
+Edo1398: folds 
+NermanCh: folds 
+Fovios: folds 
+ballenAAgra: folds 
+james1992ffm: raises 1200 to 1800
+marv92m: folds 
+Brurovisky: folds 
+NegromJames: raises 32641 to 34441 and is all-in
+james1992ffm: calls 9687 and is all-in
+Uncalled bet (22954) returned to NegromJames
+*** FLOP *** [5h 9d 6d]
+*** TURN *** [5h 9d 6d] [Kh]
+*** RIVER *** [5h 9d 6d Kh] [Qd]
+*** SHOW DOWN ***
+NegromJames: shows [2c 2s] (a pair of Deuces)
+james1992ffm: shows [Td Ad] (a flush, Ace high)
+james1992ffm collected 23994 from pot
+*** SUMMARY ***
+Total pot 23994 | Rake 0 
+Board [5h 9d 6d Kh Qd]
+Seat 1: Edo1398 folded before Flop (didn't bet)
+Seat 2: NermanCh folded before Flop (didn't bet)
+Seat 3: Fovios folded before Flop (didn't bet)
+Seat 4: ballenAAgra folded before Flop (didn't bet)
+Seat 5: james1992ffm showed [Td Ad] and won (23994) with a flush, Ace high
+Seat 6: marv92m (button) folded before Flop (didn't bet)
+Seat 7: Brurovisky (small blind) folded before Flop
+Seat 8: NegromJames (big blind) showed [2c 2s] and lost with a pair of Deuces
