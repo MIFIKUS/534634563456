@@ -56,17 +56,17 @@ class ParseLobby:
         tables_in_file = self._get_tables_from_file()
         print(tables_in_file)
         mouse.move_and_click(680, 160)
-        keyboard.tab()
-
         counter = 0
         tournament_name = ''
 
+        keyboard.tab()
+
         while True:
+            time.sleep(2)
             counter += 1
             if self._amount_of_opened_tables + len(availible_tables) == 21:
                 print(f'Открыто столов: {self._amount_of_opened_tables + len(availible_tables)}')
                 return availible_tables, tournament_name
-            keyboard.tab()
             keyboard.copy()
             table_num = Tk().clipboard_get()
             if table_num in availible_tables:
@@ -86,7 +86,7 @@ class ParseLobby:
 
             else:
                 self._open_table()
-                time.sleep(2)
+                time.sleep(5)
 
                 if counter == 1:
                     tournament_name = self._get_tournament_name()

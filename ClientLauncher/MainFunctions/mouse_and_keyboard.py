@@ -22,7 +22,6 @@ class Mouse:
         """Функция чтобы мгновенно переместить курсор на нужные координаты"""
         pyautogui.moveTo(x, y, 0)
 
-
     def click(self):
         """Функция чтобы сделать клик мышкой"""
         pyautogui.click()
@@ -50,21 +49,27 @@ class Mouse:
 class Keyboard:
     def arrow_down(self):
         ahk.run_script('SendInput, {Down}')
+        time.sleep(1)
 
     def esc(self):
         ahk.key_press('esc')
+        time.sleep(1)
 
     def enter(self):
         ahk.key_press('enter')
+        time.sleep(1)
 
     def tab(self):
         pyautogui.press('tab')
+        time.sleep(1)
 
     def copy(self):
-        pyautogui.hotkey('ctrl', 'c')
+        for _ in range(2):
+            pyautogui.hotkey('ctrl', 'c')
+            time.sleep(1)
 
     def ctrl_i(self):
         for _ in range(2):
             pyautogui.hotkey('ctrl', 'i')
-            time.sleep(0.1)
+            time.sleep(1)
 

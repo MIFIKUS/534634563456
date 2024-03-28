@@ -27,17 +27,20 @@ class TablesControl:
         tables = windows.find_all_tables_windows()
 
         while True:
-            current_tables = windows.find_all_tables_windows()
-            if current_tables != tables:
-                closed_table = [x for x in tables.items() if x not in current_tables.items()]
-                if len(closed_table) == 0:
-                    tables = current_tables
-                    continue
-                table_id = re.search(r'Tournament\s(.*?)\sTable', closed_table[0][0]).group(1)
-                table_num = re.search(r'Table(.*)$', closed_table[0][0]).group(1)
+            try:
+                current_tables = windows.find_all_tables_windows()
+                if current_tables != tables:
+                    closed_table = [x for x in tables.items() if x not in current_tables.items()]
+                    if len(closed_table) == 0:
+                        tables = current_tables
+                        continue
+                    table_id = re.search(r'Tournament\s(.*?)\sTable', closed_table[0][0]).group(1)
+                    table_num = re.search(r'Table(.*)$', closed_table[0][0]).group(1)
 
-                self._write_closed_table(table_id, table_num)
-                tables = current_tables
+                    self._write_closed_table(table_id, table_num)
+                    tables = current_tables
+            except Exception as e:
+                print(f'Ошибка в get_closed_table {e}')
 
     def get_closed_table_in_hand_history_menu(self, closed_table):
         def _reset_hand_history():
