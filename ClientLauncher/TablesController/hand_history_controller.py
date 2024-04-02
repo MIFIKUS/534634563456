@@ -2,6 +2,9 @@ from ClientLauncher.MainFunctions.mouse_and_keyboard import Mouse, Keyboard
 from ClientLauncher.MainFunctions.image import Image
 from ClientLauncher.MainFunctions.windows import Windows
 
+from ClientLauncher.Google.Sheets.write_statistics import WriteStatistics
+from ClientLauncher.Google.Sheets.get_statistics import GetStatistics
+
 from tkinter import Tk
 
 import re
@@ -12,6 +15,9 @@ mouse = Mouse()
 keyboard = Keyboard()
 windows = Windows()
 image = Image()
+
+write_statistics = WriteStatistics()
+get_statistics = GetStatistics()
 
 
 class InstantHandHistoryController:
@@ -24,29 +30,33 @@ class InstantHandHistoryController:
 
 class TablesControl:
     def get_closed_table(self):
-        tables = windows.find_all_tables_windows()
+        try:
+            tables = windows.find_all_tables_windows()
+            while True:
+                    current_tables = windows.find_all_tables_windows()
+                    if current_tables != tables:
+                        closed_table = [x for x in tables.items() if x not in current_tables.items()]
+                        if len(closed_table) == 0:
+                            tables = current_tables
+                            continue
+                        table_id = re.search(r'Tournament\s(.*?)\sTable', closed_table[0][0]).group(1)
+                        table_num = re.search(r'Table(.*)$', closed_table[0][0]).group(1)
 
-        while True:
-            try:
-                current_tables = windows.find_all_tables_windows()
-                if current_tables != tables:
-                    closed_table = [x for x in tables.items() if x not in current_tables.items()]
-                    if len(closed_table) == 0:
+                        self._write_closed_table(table_id, table_num)
                         tables = current_tables
-                        continue
-                    table_id = re.search(r'Tournament\s(.*?)\sTable', closed_table[0][0]).group(1)
-                    table_num = re.search(r'Table(.*)$', closed_table[0][0]).group(1)
 
-                    self._write_closed_table(table_id, table_num)
-                    tables = current_tables
-            except Exception as e:
-                print(f'Ошибка в get_closed_table {e}')
+                        opened_tables = get_statistics.get_open_tables()
+                        write_statistics.set_opened_tables(opened_tables - len(closed_table))
+
+        except Exception as e:
+            print(f'Ошибка в get_closed_table {e}')
 
     def get_closed_table_in_hand_history_menu(self, closed_table):
         def _reset_hand_history():
             mouse.move_and_click(1400, 60)
-            mouse.scroll_up(100000)
-            mouse.move_and_click(1400, 80)
+            keyboard.end()
+            time.sleep(1)
+            mouse.move_and_click(1400, 60)
 
         def _get_table_id_and_table(table_header):
             print(f'table_header {table_header}')
@@ -71,7 +81,7 @@ class TablesControl:
             for _ in range(3):
                 not_found = False
                 time.sleep(0.5)
-                keyboard.arrow_down()
+                keyboard.arrow_up()
                 image.take_screenshot('imgs\\screenshots\\instant_hand_history\\table_name.png', (5, 43, 670, 68))
                 table_name = image.image_to_string('imgs\\screenshots\\instant_hand_history\\table_name.png', False)
 

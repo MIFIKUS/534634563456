@@ -51,6 +51,10 @@ class Keyboard:
         ahk.run_script('SendInput, {Down}')
         time.sleep(1)
 
+    def arrow_up(self):
+        ahk.run_script('SendInput, {Up}')
+        time.sleep(1)
+
     def esc(self):
         ahk.key_press('esc')
         time.sleep(1)
@@ -72,4 +76,7 @@ class Keyboard:
         for _ in range(2):
             pyautogui.hotkey('ctrl', 'i')
             time.sleep(1)
+
+    def end(self):
+        pyautogui.press('end')
 

@@ -84,7 +84,6 @@ def write_deals_in_file(deals, tournament_id, table_num):
         deals_file_txt.write(deals)
 
 def handle_closed_tables(data, opened_tables: int):
-    write_statistics.set_opened_tables(opened_tables-1)
     print('opened tables изменен')
     instant_history_controller.open_instant_hand_history_menu()
     time.sleep(2)
