@@ -78,8 +78,8 @@ class GetType:
 
             if image.matching('imgs\\screenshots\\knockouts\\game_type_color.png', 'imgs\\templates\\knockouts\\progressive.png'):
                 return 'KO'
-            else:
-                return 'FREEZE'
+        else:
+            return 'FREEZE'
 
             #color = image.get_main_color('imgs\\screenshots\\knockouts\\game_type_color.png')
 

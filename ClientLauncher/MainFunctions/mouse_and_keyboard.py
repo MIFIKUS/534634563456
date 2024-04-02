@@ -65,7 +65,7 @@ class Keyboard:
 
     def tab(self):
         pyautogui.press('tab')
-        time.sleep(1)
+        time.sleep(2)
 
     def copy(self):
         for _ in range(2):
