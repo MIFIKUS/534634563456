@@ -71,12 +71,13 @@ class Windows:
         self.open_window_by_hwnd(hwnd)
 
     def find_all_tables_windows(self):
-        tables_dict = {}
+        tables_list = []
+
         tables = self._find_windows('Table')
 
         for i in tables:
-            tables_dict.update({win32gui.GetWindowText(i): i})
-        return tables_dict
+            tables_list.append(win32gui.GetWindowText(i))
+        return tables_list
 
     def get_hwnd_by_name(self, name):
         return self._find_windows(name)[0]

@@ -45,8 +45,7 @@ def add_new_tables(amount_of_tables):
     #instant_history_controller.open_instant_hand_history_menu()
     time.sleep(2)
 
-def add_closed_tables():
-    tables_control.get_closed_table()
+
 
 def get_closed_tables_file():
     try:
@@ -67,7 +66,6 @@ def change_closed_tables(table_id):
     with open('closed_tables.txt', 'w') as closed_tables_txt:
         closed_tables_txt.write(a)
 
-closed_tables_adder = Process(target=add_closed_tables)
 
 def write_deals_in_file(deals, tournament_id, table_num):
     print(f'deals, tournament_id, table_num {deals, tournament_id, table_num}')
@@ -98,9 +96,9 @@ if __name__ == '__main__':
     if opened_tables < 21:
         amount_of_add_tables = 21 - opened_tables
         add_new_tables(amount_of_add_tables)
-    closed_tables_adder.start()
 
     while True:
+        list_of_tables = windows.find_all_tables_windows()
         time.sleep(30)
         try:
             opened_tables = get_statistics.get_open_tables()
@@ -109,8 +107,7 @@ if __name__ == '__main__':
         if opened_tables < 21:
             amount_of_add_tables = 21 - opened_tables
             add_new_tables(amount_of_add_tables)
-
-        if len(get_closed_tables_file()) > 0:
+        elif len(get_closed_tables_file()) > 0:
             for i in get_closed_tables_file():
                 try:
                     change_closed_tables(i[0])
@@ -119,3 +116,5 @@ if __name__ == '__main__':
                     break
                 text = i.split(' ')
                 handle_closed_tables(text, opened_tables)
+
+        tables_control.get_closed_table(list_of_tables)

@@ -56,10 +56,17 @@ class ParseLobby:
         tables_in_file = self._get_tables_from_file()
         print(tables_in_file)
         mouse.move_and_click(680, 160)
+        time.sleep(1)
+
+        for _ in range(5):
+            mouse.move_and_click(800, 400)
+
+        keyboard.tab()
+
         counter = 0
         tournament_name = ''
 
-        keyboard.tab()
+        #keyboard.tab()
 
         while True:
             time.sleep(2)
@@ -77,12 +84,11 @@ class ParseLobby:
                 if f'T{table_num}' in i and self._tournament_id in i:
                     print('IN')
                     keyboard.arrow_down()
-                    availible_tables.append(table_num)
                     tournament_name = ''
                     skip = True
                     break
             if skip:
-                continue
+                break
 
             else:
                 self._open_table()

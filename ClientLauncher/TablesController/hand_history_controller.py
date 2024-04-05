@@ -29,27 +29,28 @@ class InstantHandHistoryController:
 
 
 class TablesControl:
-    def get_closed_table(self):
-        try:
-            tables = windows.find_all_tables_windows()
-            while True:
-                    current_tables = windows.find_all_tables_windows()
-                    if current_tables != tables:
-                        closed_table = [x for x in tables.items() if x not in current_tables.items()]
-                        if len(closed_table) == 0:
-                            tables = current_tables
-                            continue
-                        table_id = re.search(r'Tournament\s(.*?)\sTable', closed_table[0][0]).group(1)
-                        table_num = re.search(r'Table(.*)$', closed_table[0][0]).group(1)
+    def get_closed_table(self, list_of_tables):
+        tables = windows.find_all_tables_windows()
+        closed_tables = list(set(list_of_tables) - set(tables))
 
-                        self._write_closed_table(table_id, table_num)
-                        tables = current_tables
+        if closed_tables:
+            print('Есть разница в столах')
+        else:
+            print('Нет разницы в столах')
+            return
 
-                        opened_tables = get_statistics.get_open_tables()
-                        write_statistics.set_opened_tables(opened_tables - len(closed_table))
+        for i in closed_tables:
+            print(f'Обработка стола {i}')
 
-        except Exception as e:
-            print(f'Ошибка в get_closed_table {e}')
+            table_id = re.search(r'Tournament\s(.*?)\sTable', i).group(1)
+            table_num = re.search(r'Table(.*)$', i).group(1)
+            print(f'table_id {table_id}')
+            print(f'table_num {table_num}')
+
+            self._write_closed_table(table_id, table_num)
+
+            opened_tables = get_statistics.get_open_tables()
+            write_statistics.set_opened_tables(opened_tables - 1)
 
     def get_closed_table_in_hand_history_menu(self, closed_table):
         def _reset_hand_history():
@@ -120,5 +121,4 @@ class TablesControl:
         with open('closed_tables.txt', 'a') as closed_tables_txt:
             text = tournament_id + ' ' + str(table_num) + '\n'
             closed_tables_txt.write(text)
-
 
