@@ -29,11 +29,18 @@ class CreateFileName:
             elif row == 'table_num':
                 file_name += 'T' + table_num
             elif row == 'creation_date':
-                file_name += str(datetime.datetime.now(pytz.timezone('Etc/GMT+1')).strftime("%Y_%m_%d_%H-%M"))
+                file_name += str(datetime.datetime.now(pytz.timezone('Etc/GMT+1')).strftime("%Y_%m_%d"))
             elif row == 'buy_in':
                 file_name += 'BI' + data.get(row)
             elif row == 'players_amount':
                 file_name += str(data.get(row)) + 'MAX'
+            elif row == 'tournament_name':
+                tournament_name = str(data.get(row))
+                tournament_name = tournament_name.replace(' ', '_')
+                tournament_name = tournament_name.replace('[', '(')
+                tournament_name = tournament_name.replace(']', ')')
+
+                file_name += tournament_name
             else:
 
                 if data.get(row) is None:

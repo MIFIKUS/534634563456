@@ -10,7 +10,7 @@ class GetStatistics:
         self.gs = gspread.service_account(path_to_credentials)
         self.sh = self.gs.open_by_url(GOOGLE_SHEET_URL).get_worksheet(1)
         self._ip = get_ip()
-        self._row = self._get_cell_num_for_client()
+        self._row = 2
 
     def get_open_tables(self):
         statistics_file = self._open_statistics_file()

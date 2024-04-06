@@ -45,8 +45,6 @@ def add_new_tables(amount_of_tables):
     #instant_history_controller.open_instant_hand_history_menu()
     time.sleep(2)
 
-
-
 def get_closed_tables_file():
     try:
         with open('closed_tables.txt') as closed_tables_txt:
@@ -89,8 +87,14 @@ def handle_closed_tables(data, opened_tables: int):
         deal = tables_control.get_table_deal()
         write_deals_in_file(deal, data[0], data[2])
 
+def update_closed_tables():
+    proc = Process(target=tables_control.get_closed_table)
+    proc.start()
+
 if __name__ == '__main__':
     cleanup_tournaments_data()
+
+    update_closed_tables()
 
     opened_tables = get_statistics.get_open_tables()
     if opened_tables < 21:
@@ -107,6 +111,7 @@ if __name__ == '__main__':
         if opened_tables < 21:
             amount_of_add_tables = 21 - opened_tables
             add_new_tables(amount_of_add_tables)
+
         elif len(get_closed_tables_file()) > 0:
             for i in get_closed_tables_file():
                 try:
@@ -117,4 +122,3 @@ if __name__ == '__main__':
                 text = i.split(' ')
                 handle_closed_tables(text, opened_tables)
 
-        tables_control.get_closed_table(list_of_tables)

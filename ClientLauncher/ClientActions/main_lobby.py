@@ -74,7 +74,6 @@ class TournamentActions:
                 filename = file_name.get_file_name(tournament_info_for_cycle, table)
                 self._create_empty_deals_file(filename)
 
-
             amount_of_opened_tables = lobby_info['opened_tables']
 
             write_stats.set_opened_tables(amount_of_opened_tables)

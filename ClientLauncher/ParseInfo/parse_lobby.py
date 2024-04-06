@@ -67,7 +67,7 @@ class ParseLobby:
         tournament_name = ''
 
         #keyboard.tab()
-
+        same = 0
         while True:
             time.sleep(2)
             counter += 1
@@ -88,7 +88,10 @@ class ParseLobby:
                     skip = True
                     break
             if skip:
-                break
+                same += 1
+                if same == 2:
+                    break
+                continue
 
             else:
                 self._open_table()
@@ -110,7 +113,7 @@ class ParseLobby:
         hwnd = win32gui.GetForegroundWindow()
         table_text = win32gui.GetWindowText(hwnd)
 
-        return re.search(r'^.*?,', table_text).group(0)
+        return re.search(r'^(.*?),\s*\$', table_text).group(1)
 
     def _open_table(self):
         keyboard.enter()

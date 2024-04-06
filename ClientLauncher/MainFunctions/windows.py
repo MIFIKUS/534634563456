@@ -2,6 +2,7 @@ import win32gui
 import win32com.client
 import win32con
 
+import re
 
 class Windows:
     def __init__(self):
@@ -74,10 +75,18 @@ class Windows:
         tables_list = []
 
         tables = self._find_windows('Table')
+        if tables:
+            for i in tables:
+                table_text = win32gui.GetWindowText(i)
 
-        for i in tables:
-            tables_list.append(win32gui.GetWindowText(i))
-        return tables_list
+                table_id = re.search(r'Tournament\s(.*?)\sTable', table_text).group(1)
+                table_num = re.search(r'Table(.*)$', table_text).group(1)
+
+                table_text_final = table_id + ' ' + table_num
+
+                tables_list.append(table_text_final)
+            return tables_list
+        return []
 
     def get_hwnd_by_name(self, name):
         return self._find_windows(name)[0]

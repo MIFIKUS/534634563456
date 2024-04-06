@@ -7,9 +7,9 @@ from ClientLauncher.Google.Sheets.get_statistics import GetStatistics
 
 from tkinter import Tk
 
-import re
-import time
+from gspread.exceptions import APIError
 
+import time
 
 mouse = Mouse()
 keyboard = Keyboard()
@@ -29,28 +29,35 @@ class InstantHandHistoryController:
 
 
 class TablesControl:
-    def get_closed_table(self, list_of_tables):
-        tables = windows.find_all_tables_windows()
-        closed_tables = list(set(list_of_tables) - set(tables))
+    def get_closed_table(self):
+        list_of_tables = windows.find_all_tables_windows()
+        while True:
+            try:
+                tables = windows.find_all_tables_windows()
+                closed_tables = list(set(list_of_tables) - set(tables))
+                if len(closed_tables) == 0:
+                    list_of_tables = tables
 
-        if closed_tables:
-            print('Есть разница в столах')
-        else:
-            print('Нет разницы в столах')
-            return
+                if closed_tables:
+                    print('Есть разница в столах')
+                else:
+                    continue
 
-        for i in closed_tables:
-            print(f'Обработка стола {i}')
+                for i in closed_tables:
+                    print(f'Обработка стола {i}')
+                    info = i.split('  ')
+                    table_id = info[0]
+                    table_num = info[1]
+                    print(f'table_id {table_id}')
+                    print(f'table_num {table_num}')
 
-            table_id = re.search(r'Tournament\s(.*?)\sTable', i).group(1)
-            table_num = re.search(r'Table(.*)$', i).group(1)
-            print(f'table_id {table_id}')
-            print(f'table_num {table_num}')
+                    self._write_closed_table(table_id, table_num)
 
-            self._write_closed_table(table_id, table_num)
-
-            opened_tables = get_statistics.get_open_tables()
-            write_statistics.set_opened_tables(opened_tables - 1)
+                    opened_tables = get_statistics.get_open_tables()
+                    write_statistics.set_opened_tables(opened_tables - 1)
+            except APIError:
+                print('Ошибка квоты, ждем 30 секунды')
+                time.sleep(30)
 
     def get_closed_table_in_hand_history_menu(self, closed_table):
         def _reset_hand_history():
@@ -63,10 +70,7 @@ class TablesControl:
             print(f'table_header {table_header}')
 
             table_id = table_header[0]
-            table_num = table_header[2]
-
-            #table_id = re.search(r'Tournament\s(.*?)\sTable', table_header[0]).group(1)
-            #table_num = re.search(r'Table(.*)$', table_header[1]).group(1)
+            table_num = table_header[1]
 
             return table_id, table_num
 
