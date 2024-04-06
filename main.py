@@ -87,14 +87,8 @@ def handle_closed_tables(data, opened_tables: int):
         deal = tables_control.get_table_deal()
         write_deals_in_file(deal, data[0], data[2])
 
-def update_closed_tables():
-    proc = Process(target=tables_control.get_closed_table)
-    proc.start()
-
-if __name__ == '__main__':
+def main():
     cleanup_tournaments_data()
-
-    update_closed_tables()
 
     opened_tables = get_statistics.get_open_tables()
     if opened_tables < 21:
@@ -121,4 +115,11 @@ if __name__ == '__main__':
                     break
                 text = i.split(' ')
                 handle_closed_tables(text, opened_tables)
+
+if __name__ == '__main__':
+    proc = Process(target=tables_control.get_closed_table)
+    proc1 = Process(target=main)
+    proc.start()
+    proc1.start()
+
 

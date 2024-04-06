@@ -35,12 +35,12 @@ class TablesControl:
             try:
                 tables = windows.find_all_tables_windows()
                 closed_tables = list(set(list_of_tables) - set(tables))
-                if len(closed_tables) == 0:
-                    list_of_tables = tables
 
                 if closed_tables:
                     print('Есть разница в столах')
+                    list_of_tables = tables
                 else:
+                    list_of_tables = tables
                     continue
 
                 for i in closed_tables:
