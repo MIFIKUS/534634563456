@@ -3,14 +3,11 @@ from ClientLauncher.MainFunctions.windows import Windows
 from ClientLauncher.ClientActions.main_lobby import TournamentActions
 from ClientLauncher.TablesController.hand_history_controller import TablesControl, InstantHandHistoryController
 
-from ClientLauncher.Google.Sheets.get_config import GetConfig
-from ClientLauncher.Google.Sheets.write_statistics import WriteStatistics
 from ClientLauncher.Google.Sheets.get_statistics import GetStatistics
 from ClientLauncher.Google.Sheets.write_statistics import WriteStatistics
 
 from ClientLauncher.Naming.create_file_name import CreateFileName
 
-from multiprocessing import Process
 
 import time
 import json
@@ -22,7 +19,6 @@ with open('tournaments_data.json') as w:
 
 
 file_name = CreateFileName()
-
 
 tournament_actions = TournamentActions()
 tables_control = TablesControl()
@@ -116,10 +112,7 @@ def main():
                 text = i.split(' ')
                 handle_closed_tables(text, opened_tables)
 
-if __name__ == '__main__':
-    proc = Process(target=tables_control.get_closed_table)
-    proc1 = Process(target=main)
-    proc.start()
-    proc1.start()
 
+if __name__ == '__main__':
+    main()
 

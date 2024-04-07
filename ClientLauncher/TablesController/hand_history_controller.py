@@ -40,6 +40,7 @@ class TablesControl:
                     print('Есть разница в столах')
                     list_of_tables = tables
                 else:
+                    print('Нет разница в столах')
                     list_of_tables = tables
                     continue
 
@@ -58,6 +59,9 @@ class TablesControl:
             except APIError:
                 print('Ошибка квоты, ждем 30 секунды')
                 time.sleep(30)
+            except AttributeError as e:
+                print(f'Ошибка {e}')
+
 
     def get_closed_table_in_hand_history_menu(self, closed_table):
         def _reset_hand_history():
