@@ -95,7 +95,6 @@ class ParseLobby:
 
             else:
                 self._open_table()
-                time.sleep()
 
                 if counter == 1:
                     while True:
