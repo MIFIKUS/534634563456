@@ -10,6 +10,8 @@ from tkinter import Tk
 from gspread.exceptions import APIError
 
 import time
+import re
+
 
 mouse = Mouse()
 keyboard = Keyboard()
@@ -94,7 +96,9 @@ class TablesControl:
                 image.take_screenshot('imgs\\screenshots\\instant_hand_history\\table_name.png', (5, 43, 670, 68))
                 table_name = image.image_to_string('imgs\\screenshots\\instant_hand_history\\table_name.png', False)
 
-                if table_id in table_name and table_num in table_name:
+                table_name_for_seat = 'Table' + re.search(r'Table(.*)', table_name).group(1)
+
+                if table_id in table_name and table_num == table_name_for_seat:
                     found = True
                     break
                 if table_name in table_names:

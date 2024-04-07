@@ -81,7 +81,7 @@ def handle_closed_tables(data, opened_tables: int):
     time.sleep(2)
     if tables_control.get_closed_table_in_hand_history_menu(data) is not False:
         deal = tables_control.get_table_deal()
-        write_deals_in_file(deal, data[0], data[2])
+        write_deals_in_file(deal, data[0], data[1])
 
 def main():
     cleanup_tournaments_data()
