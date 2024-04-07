@@ -1,7 +1,7 @@
 import re
 import win32gui
 
-text = '$55 Early Battle [Progressive KO], $10K Gtd - 3,000/6,000 ante 700 - Tournament 3735020833 Table 6'
+text = "T11111 No Limot Hlod'em $60 + $5 Table 40"
 
 
 match = 'Table' + re.search(r'Table(.*)', text).group(1)

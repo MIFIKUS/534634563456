@@ -96,7 +96,11 @@ class TablesControl:
                 image.take_screenshot('imgs\\screenshots\\instant_hand_history\\table_name.png', (5, 43, 670, 68))
                 table_name = image.image_to_string('imgs\\screenshots\\instant_hand_history\\table_name.png', False)
 
-                table_name_for_seat = 'Table' + re.search(r'Table(.*)', table_name).group(1)
+                try:
+                    table_name_for_seat = 'Table' + re.search(r'Table(.*)', table_name).group(1)
+                except AttributeError:
+                    print('Не удалось получить название стола')
+                    break
 
                 if table_id in table_name and table_num == table_name_for_seat:
                     found = True
