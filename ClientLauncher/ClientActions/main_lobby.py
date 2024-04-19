@@ -48,7 +48,7 @@ class TournamentActions:
                 return
             mouse.move_and_click(self._tournament_x, self._tournament_y + y_counter)
             tournament_info = parse_header.get_header_info(num)
-
+            print(f'tournament_info {tournament_info}')
             file = self._get_tournament_file()
             print(f'file {file}')
 
@@ -73,8 +73,8 @@ class TournamentActions:
             for table in availble_tables:
                 filename = file_name.get_file_name(tournament_info_for_cycle, table)
                 self._create_empty_deals_file(filename)
-
-            amount_of_opened_tables = lobby_info['opened_tables']
+            
+            amount_of_opened_tables = get_stats.get_open_tables() + len(lobby_info['availible_tables'])
 
             write_stats.set_opened_tables(amount_of_opened_tables)
 

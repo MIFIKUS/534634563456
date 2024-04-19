@@ -95,15 +95,13 @@ class ParseLobby:
 
             else:
                 self._open_table()
-
-                if counter == 1:
-                    while True:
-                        try:
-                            tournament_name = self._get_tournament_name()
-                            tournament_name = tournament_name.replace(',', '')
-                            break
-                        except Exception as e:
-                            print(f'Не удалось получить название стола, пробуем еще раз\nОшибка {e}')
+                while True:
+                    try:
+                        tournament_name = self._get_tournament_name()
+                        tournament_name = tournament_name.replace(',', '')
+                        break
+                    except Exception as e:
+                        print(f'Не удалось получить название стола, пробуем еще раз\nОшибка {e}')
 
                 windows.open_window_by_hwnd(self._hwnd)
                 time.sleep(0.1)

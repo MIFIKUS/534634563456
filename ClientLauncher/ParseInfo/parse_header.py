@@ -1,11 +1,13 @@
 from ClientLauncher.MainFunctions.image import Image
 from ClientLauncher.MainFunctions.mouse_and_keyboard import Keyboard
-from ClientLauncher.extensions import game_types
+from ClientLauncher.MainFunctions.windows import Windows
 
 from tkinter import Tk
 
 image = Image()
 keyboard = Keyboard()
+windows = Windows()
+
 
 class GetType:
     def __init__(self):
@@ -110,9 +112,15 @@ class GetType:
 
         buy_in = buy_in.replace('\n', '')
         buy_in = buy_in.replace(',', '')
-
-        if buy_in[-1] == '.':
-            buy_in = buy_in[0:-1]
+        while True:
+            try:
+                if buy_in[-1] == '.':
+                    buy_in = buy_in[0:-1]
+                    break
+                break
+            except Exception:
+                print('Не удалось получить бай ин')
+                windows.get_main_window()
 
         return buy_in
 
