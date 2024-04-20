@@ -83,6 +83,7 @@ def handle_closed_tables(data, opened_tables: int):
         deal = tables_control.get_table_deal()
         write_deals_in_file(deal, data[0], data[1])
 
+
 def main():
     cleanup_tournaments_data()
 
