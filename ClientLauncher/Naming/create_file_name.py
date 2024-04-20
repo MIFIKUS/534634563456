@@ -37,8 +37,6 @@ class CreateFileName:
             elif row == 'tournament_name':
                 tournament_name = str(data.get(row))
                 tournament_name = tournament_name.replace(' ', '_')
-                tournament_name = tournament_name.replace('[', '(')
-                tournament_name = tournament_name.replace(']', ')')
 
                 file_name += tournament_name
             else:

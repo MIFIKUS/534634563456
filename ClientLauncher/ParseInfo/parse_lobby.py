@@ -79,6 +79,9 @@ class ParseLobby:
 
             keyboard.copy()
             table_num = Tk().clipboard_get()
+            if len(str(table_num)) > 3:
+                for _ in range(2):
+                    table_num = Tk().clipboard_get()
             if table_num in availible_tables:
                 break
             skip = False
@@ -125,7 +128,7 @@ class ParseLobby:
         hwnd = win32gui.GetForegroundWindow()
         table_text = win32gui.GetWindowText(hwnd)
 
-        return re.search(r'^(.*?),\s*\$', table_text).group(1)
+        return table_text.split(', $')[0]
 
     def _open_table(self):
         keyboard.enter()

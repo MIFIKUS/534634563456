@@ -1,4 +1,3 @@
-import os
 from ClientLauncher.Google.Drive.upload import UploadDeals
 import os
 
