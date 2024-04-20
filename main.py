@@ -35,11 +35,13 @@ def cleanup_tournaments_data():
     with open('tournaments_data.json', 'w') as tournament_data_json:
         tournament_data_json.write('{}')
 
-def add_new_tables(amount_of_tables):
+def add_new_tables(amount_of_tables, num):
     windows.get_main_window()
-    tournament_actions.switch_tournaments(amount_of_tables)
+    num = tournament_actions.switch_tournaments(amount_of_tables, num)
     #instant_history_controller.open_instant_hand_history_menu()
     time.sleep(2)
+    return num
+
 
 def get_closed_tables_file():
     try:
@@ -92,6 +94,7 @@ def main():
         amount_of_add_tables = 21 - opened_tables
         add_new_tables(amount_of_add_tables)
 
+    num = 0
     while True:
         time.sleep(30)
         try:
@@ -100,7 +103,7 @@ def main():
             continue
         if opened_tables < 21:
             amount_of_add_tables = 21 - opened_tables
-            add_new_tables(amount_of_add_tables)
+            num = add_new_tables(amount_of_add_tables, num)
 
         elif len(get_closed_tables_file()) > 0:
             for i in get_closed_tables_file():

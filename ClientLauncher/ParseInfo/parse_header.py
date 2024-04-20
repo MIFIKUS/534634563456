@@ -41,6 +41,8 @@ class GetType:
         players_amount = self._get_tourney_players_amount(num)
         buy_in = self._get_tourney_buy_in(num)
 
+        if not speed:
+            return False
         return {tournament_id: {'game_type': game_type, 'speed': speed, 'players_amount': players_amount, 'buy_in': buy_in}}
 
     def _get_tournament_id(self):

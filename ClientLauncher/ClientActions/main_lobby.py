@@ -34,8 +34,10 @@ class TournamentActions:
         self._tournament_x = 225
         self._tournament_y = 260
 
-    def switch_tournaments(self, amount_of_tables):
-        num = 0
+    def switch_tournaments(self, amount_of_tables, num):
+        if not num:
+            num = 0
+
         y_counter = 0
         mouse.move_and_click(900, 70)
         main_hwnd = win32gui.GetForegroundWindow()
@@ -46,9 +48,14 @@ class TournamentActions:
             write_stats.set_opened_tables(amount_of_opened_tables)
 
             if amount_of_opened_tables == amount_of_tables:
-                return
+                return num
+
             mouse.move_and_click(self._tournament_x, self._tournament_y + y_counter)
             tournament_info = parse_header.get_header_info(num)
+            if tournament_info is False:
+                print('Просмотрены все доступные турниры')
+                return 0
+
             print(f'tournament_info {tournament_info}')
             file = self._get_tournament_file()
             print(f'file {file}')
@@ -84,7 +91,7 @@ class TournamentActions:
             num += 1
             print(f'amount of tables {amount_of_opened_tables}')
             if amount_of_opened_tables == 21:
-                return
+                return num
 
     def _open_tournament(self):
         keyboard.enter()
