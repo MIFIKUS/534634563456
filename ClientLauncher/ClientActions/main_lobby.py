@@ -41,9 +41,10 @@ class TournamentActions:
         main_hwnd = win32gui.GetForegroundWindow()
         print(main_hwnd)
 
-        amount_of_opened_tables = get_stats.get_open_tables()
-
         for _ in range(20):
+            amount_of_opened_tables = windows.get_amount_of_opened_tables()
+            write_stats.set_opened_tables(amount_of_opened_tables)
+
             if amount_of_opened_tables == amount_of_tables:
                 return
             mouse.move_and_click(self._tournament_x, self._tournament_y + y_counter)

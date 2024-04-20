@@ -71,9 +71,12 @@ class ParseLobby:
         while True:
             time.sleep(2)
             counter += 1
-            if self._amount_of_opened_tables + len(availible_tables) == 21:
+
+            amount_of_tables = windows.get_amount_of_opened_tables()
+            if amount_of_tables == 21:
                 print(f'Открыто столов: {self._amount_of_opened_tables + len(availible_tables)}')
                 return availible_tables, tournament_name
+
             keyboard.copy()
             table_num = Tk().clipboard_get()
             if table_num in availible_tables:
