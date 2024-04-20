@@ -49,15 +49,13 @@ class TablesControl:
                 for i in closed_tables:
                     print(f'Обработка стола {i}')
                     info = i.split('  ')
-                    table_id = info[0]
-                    table_num = info[1]
+                    table_id = ''.join(filter(str.isdigit, info[0]))
+                    table_num = ''.join(filter(str.isdigit, info[1]))
                     print(f'table_id {table_id}')
                     print(f'table_num {table_num}')
 
                     self._write_closed_table(table_id, table_num)
 
-                    opened_tables = get_statistics.get_open_tables()
-                    write_statistics.set_opened_tables(opened_tables - 1)
             except APIError:
                 print('Ошибка квоты, ждем 30 секунды')
                 time.sleep(30)
@@ -81,34 +79,48 @@ class TablesControl:
             return table_id, table_num
 
         table_id, table_num = _get_table_id_and_table(closed_table)
-        table_num = 'Table ' + table_num.replace(' ', '')
-
+        table_num = table_num.replace(' ', '')
+        table_num = table_num.replace('\n', '')
+        table_num = 'Table' + table_num
+        
         _reset_hand_history()
 
         table_names = []
         not_found = False
         found = False
         while True:
-            for _ in range(3):
-                not_found = False
-                time.sleep(0.5)
-                keyboard.arrow_up()
-                image.take_screenshot('imgs\\screenshots\\instant_hand_history\\table_name.png', (5, 43, 670, 68))
-                table_name = image.image_to_string('imgs\\screenshots\\instant_hand_history\\table_name.png', False)
+            print(f'Поиск {table_id} Стол {table_num}')
 
-                try:
-                    table_name_for_seat = 'Table' + re.search(r'Table(.*)', table_name).group(1)
-                except AttributeError:
-                    print('Не удалось получить название стола')
-                    break
+            not_found = False
+            time.sleep(0.5)
+            keyboard.arrow_up()
+            image.take_screenshot('imgs\\screenshots\\instant_hand_history\\table_name.png', (5, 43, 670, 68))
+            table_name = image.image_to_string('imgs\\screenshots\\instant_hand_history\\table_name.png', False)
+            print(f'table_name {table_name}')
+                
+            if 'all' in table_name.lower():
+                not_found = True
+                return False
 
-                if table_id in table_name and table_num == table_name_for_seat:
-                    found = True
-                    break
-                if table_name in table_names:
-                    not_found = True
-                    continue
-                table_names.append(table_name)
+            table_name = table_name.replace(' ', '')
+            table_name = table_name.replace('\n', '')
+            table_name = table_name.replace('.', '')
+            table_name = table_name.replace(',', '')
+                    
+            try:
+                table_name_for_seat = 'Table' + re.search(r'Table(.*)', table_name).group(1)
+                    
+            except AttributeError:
+                print('Не удалось получить название стола')
+                return False
+            print(f'ID: {table_id} TABLE: {table_name_for_seat}')
+            if table_id in table_name and table_num == table_name_for_seat:
+                found = True
+                break
+            if table_name in table_names:
+                not_found = True
+                continue
+            table_names.append(table_name)
 
             if not_found:
                 return False

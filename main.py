@@ -92,7 +92,6 @@ def main():
         add_new_tables(amount_of_add_tables)
 
     while True:
-        list_of_tables = windows.find_all_tables_windows()
         time.sleep(30)
         try:
             opened_tables = get_statistics.get_open_tables()
