@@ -88,13 +88,13 @@ def handle_closed_tables(data, opened_tables: int):
 
 def main():
     cleanup_tournaments_data()
-
+    num = 0
     opened_tables = get_statistics.get_open_tables()
     if opened_tables < 21:
         amount_of_add_tables = 21 - opened_tables
-        add_new_tables(amount_of_add_tables)
+        add_new_tables(amount_of_add_tables, num)
 
-    num = 0
+
     while True:
         time.sleep(30)
         try:
