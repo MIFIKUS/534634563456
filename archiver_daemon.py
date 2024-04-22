@@ -55,13 +55,13 @@ while True:
     print(data)
     if data:
         for file_name, file_id in data.items():
-            file_name = get_filename(file_name)
+            file_name_for_archive = get_filename(file_name)
             download.download_file(file_id, file_name, PATH_TO_SAVE)
-            if check_if_archive_exists(file_name):
-                with zipfile.ZipFile(f'{PATH_TO_SAVE}\\{file_name.replace('.txt', '.zip')}', 'a') as zipf:
+            if check_if_archive_exists(file_name_for_archive):
+                with zipfile.ZipFile(f'{PATH_TO_SAVE}\\{file_name_for_archive}', 'a') as zipf:
                     zipf.write(f'{PATH_TO_SAVE}\\{file_name}')
             else:
-                with zipfile.ZipFile(f'{PATH_TO_SAVE}\\{file_name.replace('.txt', '.zip')}', 'w') as zipf:
+                with zipfile.ZipFile(f'{PATH_TO_SAVE}\\{file_name_for_archive}', 'w') as zipf:
                     zipf.write(f'{PATH_TO_SAVE}\\{file_name}')
             os.remove(f'{PATH_TO_SAVE}\\{file_name}')
             delete.delete_deal(file_id)
