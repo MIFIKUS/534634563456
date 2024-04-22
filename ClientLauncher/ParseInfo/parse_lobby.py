@@ -77,22 +77,29 @@ class ParseLobby:
                 print(f'Открыто столов: {self._amount_of_opened_tables + len(availible_tables)}')
                 return availible_tables, tournament_name
 
-            keyboard.copy()
-            table_num = Tk().clipboard_get()
-            if len(str(table_num)) > 3:
-                for _ in range(2):
-                    table_num = Tk().clipboard_get()
-            if table_num in availible_tables:
-                break
-            skip = False
-            for i in self._get_deal_files():
-                print(i)
-                if f'T{table_num}' in i and self._tournament_id in i:
-                    print('IN')
-                    keyboard.arrow_down()
-                    tournament_name = ''
-                    skip = True
+            skip = True
+            for tries_to_open in range(3):
+                if not skip:
                     break
+                keyboard.copy()
+                table_num = Tk().clipboard_get()
+                if len(str(table_num)) > 3:
+                    for _ in range(2):
+                        keyboard.copy()
+                    table_num = Tk().clipboard_get()
+
+                if table_num in availible_tables:
+                    break
+
+                skip = False
+                for i in self._get_deal_files():
+                    if f'T{table_num}' in i and self._tournament_id in i:
+                        print('IN')
+                        keyboard.arrow_down()
+                        tournament_name = ''
+                        skip = True
+                        break
+
             if skip:
                 same += 1
                 if same == 2:

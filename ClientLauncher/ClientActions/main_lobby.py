@@ -38,7 +38,7 @@ class TournamentActions:
         if not num:
             num = 0
 
-        y_counter = 0
+        y_counter = 26 * num
         mouse.move_and_click(900, 70)
         main_hwnd = win32gui.GetForegroundWindow()
         print(main_hwnd)
