@@ -57,7 +57,7 @@ class TablesControl:
                     self._write_closed_table(table_id, table_num)
 
                 amount_of_tables = windows.get_amount_of_opened_tables()
-                write_statistics.set_opened_tables(amount_of_tables-len(closed_tables))
+                write_statistics.set_opened_tables(amount_of_tables)
 
             except APIError:
                 print('Ошибка квоты, ждем 30 секунды')

@@ -39,11 +39,12 @@ def check_if_archive_exists(file_name: str):
     return False
 
 def get_filename(filename):
-    pattern = f'{free_text}{separator}(.*?){separator}T'
+    pattern = f'T(.*?){separator}'
     result = re.search(pattern, filename)
     if result:
-        extracted_text = result.group(1)
-        return extracted_text + '.zip'
+        table_num = result.group(1)
+        filename_without_table_num = filename.replace(f'T{table_num}{separator}', '')
+        return filename_without_table_num + '.zip'
     else:
         return False
 
