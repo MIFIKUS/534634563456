@@ -32,17 +32,11 @@ class Windows:
         return window
 
     def open_window_by_hwnd(self, hwnd):
-        while True:
-            try:
-                shell = win32com.client.Dispatch("WScript.Shell")
-                shell.SendKeys('%')
+        shell = win32com.client.Dispatch("WScript.Shell")
+        shell.SendKeys('%')
 
-                win32gui.ShowWindow(hwnd, win32con.SW_RESTORE)
-                win32gui.SetForegroundWindow(hwnd)
-                if win32gui.GetForegroundWindow() == hwnd:
-                    break
-            except Exception as e:
-                print(f'open_window_by_hwnd ОШИБКА {e}')
+        win32gui.ShowWindow(hwnd, win32con.SW_RESTORE)
+        win32gui.SetForegroundWindow(hwnd)
 
     def open_fullscreen_window_by_hwnd(self, hwnd):
         win32gui.ShowWindow(hwnd, win32con.SW_MAXIMIZE)
