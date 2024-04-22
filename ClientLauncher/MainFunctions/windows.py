@@ -32,6 +32,7 @@ class Windows:
         return window
 
     def open_window_by_hwnd(self, hwnd):
+
         shell = win32com.client.Dispatch("WScript.Shell")
         shell.SendKeys('%')
 
