@@ -5,6 +5,7 @@ from ClientLauncher.Google.Sheets.get_config import GetConfig
 import zipfile
 import os
 import re
+import time
 
 
 download = DownloadDeals()
@@ -65,3 +66,4 @@ while True:
                     zipf.write(f'{PATH_TO_SAVE}\\{file_name}')
             os.remove(f'{PATH_TO_SAVE}\\{file_name}')
             delete.delete_deal(file_id)
+            time.sleep(2)
