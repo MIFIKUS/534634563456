@@ -132,16 +132,22 @@ class ParseLobby:
         return availible_tables, tournament_name
 
     def _get_tournament_name(self):
-        while True:
+        got_name = False
+        for _ in range(1000):
             try:
                 hwnd = win32gui.GetForegroundWindow()
                 table_text = win32gui.GetWindowText(hwnd)
                 re.search(r'^(.*?),\s*\$', table_text).group(1)
+                got_name = True
                 break
             except:
-                pass
+                continue
 
-        return table_text.split(', $')[0]
+        if got_name:
+            return table_text.split(', $')[0]
+        else:
+            if ' - ' in table_text:
+                return table_text.split(' - ')[0]
 
 
     def _open_table(self):
