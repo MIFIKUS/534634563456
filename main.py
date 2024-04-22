@@ -105,7 +105,7 @@ def main():
             amount_of_add_tables = 21 - opened_tables
             num = add_new_tables(amount_of_add_tables, num)
 
-        elif len(get_closed_tables_file()) > 0:
+        if len(get_closed_tables_file()) > 0:
             for i in get_closed_tables_file():
                 try:
                     change_closed_tables(i[0])
