@@ -123,6 +123,7 @@ class ParseLobby:
                         fails += 1
                         print(f'Не удалось получить название стола, пробуем еще раз\nОшибка {e}')
 
+                mouse.move_and_click(420, 370)
                 windows.open_window_by_hwnd(self._hwnd)
                 time.sleep(0.1)
                 keyboard.arrow_down()
