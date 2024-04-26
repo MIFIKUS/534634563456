@@ -1,8 +1,14 @@
+from ctypes import windll
+
 import win32gui
 import win32com.client
 import win32con
 
 import re
+
+user32 = windll.user32
+user32.SetProcessDPIAware()
+
 
 class Windows:
     def __init__(self):
@@ -39,7 +45,16 @@ class Windows:
         win32gui.SetForegroundWindow(hwnd)
 
     def open_fullscreen_window_by_hwnd(self, hwnd):
-        win32gui.ShowWindow(hwnd, win32con.SW_MAXIMIZE)
+        def _is_fullscreen(hwnd):
+            full_screen_rect = (0, 0, user32.GetSystemMetrics(0), user32.GetSystemMetrics(1))
+            try:
+                rect = win32gui.GetWindowRect(hwnd)
+                return rect == full_screen_rect
+            except:
+                return False
+
+        if not _is_fullscreen(hwnd):
+            win32gui.ShowWindow(hwnd, win32con.SW_MAXIMIZE)
 
     def _find_windows(self, window_name):
         def __is_toplevel(hwnd):
