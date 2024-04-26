@@ -10,9 +10,17 @@ class DownloadDeals:
         self._service = auth.get_service()
 
     def get_all_files(self):
-        results = self._service.files().list(pageSize=10, fields="nextPageToken, files(id, name, mimeType)").execute()
+        results = self._service.files().list(pageSize=100, fields="nextPageToken, files(id, name, mimeType)").execute()
 
         return results
+
+    def get_all_files_id(self):
+        list_of_ids = []
+        all_files = self.get_all_files()['files']
+        for i in all_files:
+            list_of_ids.append(i['id'])
+
+        return list_of_ids
 
     def download_file(self, file_id, filename, path_to_save):
         request = self._service.files().get_media(fileId=file_id)

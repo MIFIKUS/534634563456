@@ -12,6 +12,7 @@ download = DownloadDeals()
 delete = DeleteDeal()
 config = GetConfig()
 
+
 DELAY = 20
 PATH_TO_SAVE = 'E:\\poker'
 
@@ -33,7 +34,7 @@ def get_filenames_and_ids(files):
         return filenames_and_ids
 
 def check_if_archive_exists(file_name: str):
-    file_name = file_name.replace('.txt', '.rar')
+    file_name = file_name.replace('.txt', '.zip')
 
     if file_name in os.listdir(PATH_TO_SAVE):
         return True
@@ -45,7 +46,7 @@ def get_filename(filename):
     if result:
         table_num = result.group(1)
         filename_without_table_num = filename.replace(f'T{table_num}{separator}', '')
-        return filename_without_table_num + '.zip'
+        return filename_without_table_num.replace('.txt', '.zip')
     else:
         return False
 
@@ -58,12 +59,19 @@ while True:
         for file_name, file_id in data.items():
             file_name_for_archive = get_filename(file_name)
             download.download_file(file_id, file_name, PATH_TO_SAVE)
+            print(f'file_name {file_name} archive_name {file_name_for_archive}')
+
             if check_if_archive_exists(file_name_for_archive):
+                print('Archive exists')
                 with zipfile.ZipFile(f'{PATH_TO_SAVE}\\{file_name_for_archive}', 'a') as zipf:
-                    zipf.write(f'{PATH_TO_SAVE}\\{file_name}')
+                    if f'{PATH_TO_SAVE}\\{file_name}' not in zipf.namelist():
+                        zipf.write(f'{PATH_TO_SAVE}\\{file_name}')
             else:
                 with zipfile.ZipFile(f'{PATH_TO_SAVE}\\{file_name_for_archive}', 'w') as zipf:
-                    zipf.write(f'{PATH_TO_SAVE}\\{file_name}')
+                    print('Archive created')
+                    if f'{PATH_TO_SAVE}\\{file_name}' not in zipf.namelist():
+                        zipf.write(f'{PATH_TO_SAVE}\\{file_name}')
+
             os.remove(f'{PATH_TO_SAVE}\\{file_name}')
             delete.delete_deal(file_id)
             time.sleep(2)
