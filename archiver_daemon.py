@@ -65,12 +65,12 @@ while True:
                 print('Archive exists')
                 with zipfile.ZipFile(f'{PATH_TO_SAVE}\\{file_name_for_archive}', 'a') as zipf:
                     if f'{PATH_TO_SAVE}\\{file_name}' not in zipf.namelist():
-                        zipf.write(f'{PATH_TO_SAVE}\\{file_name}')
+                        zipf.write(f'{PATH_TO_SAVE}\\{file_name}', arcname=f'{PATH_TO_SAVE}\\{file_name}'.split('\\')[-1])
             else:
                 with zipfile.ZipFile(f'{PATH_TO_SAVE}\\{file_name_for_archive}', 'w') as zipf:
                     print('Archive created')
                     if f'{PATH_TO_SAVE}\\{file_name}' not in zipf.namelist():
-                        zipf.write(f'{PATH_TO_SAVE}\\{file_name}')
+                        zipf.write(f'{PATH_TO_SAVE}\\{file_name}', arcname=f'{PATH_TO_SAVE}\\{file_name}'.split('\\')[-1])
 
             os.remove(f'{PATH_TO_SAVE}\\{file_name}')
             delete.delete_deal(file_id)
