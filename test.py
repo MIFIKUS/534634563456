@@ -1,8 +1,6 @@
-import zipfile
+from  ClientLauncher.MainFunctions.windows import Windows
 
-path = r'E:\poker\PS__3743747148__BI$55__The_Fast_7_$55_[7-Max_7_Minute_Levels_Progressive_KO]__KO__TURBO__7MAX__2024_04_22.zip'
+a = Windows()
 
-with zipfile.ZipFile(r'E:\poker\PS__3743747148__BI$55__The_Fast_7_$55_[7-Max_7_Minute_Levels_Progressive_KO]__KO__TURBO__7MAX__2024_04_22.zip', 'a') as zipf:
-    print(zipf.namelist())
-
-
+a.open_small_window_by_hwnd(27395982)
+a.open_fullscreen_window_by_hwnd(27395982)

@@ -56,6 +56,9 @@ class Windows:
         if not _is_fullscreen(hwnd):
             win32gui.ShowWindow(hwnd, win32con.SW_MAXIMIZE)
 
+    def open_small_window_by_hwnd(self, hwnd):
+        win32gui.ShowWindow(hwnd, win32con.SW_SHOWNORMAL)
+
     def _find_windows(self, window_name):
         def __is_toplevel(hwnd):
             return win32gui.GetParent(hwnd) == 0 and win32gui.IsWindowVisible(hwnd)
