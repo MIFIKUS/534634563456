@@ -8,6 +8,9 @@ from ClientLauncher.Google.Sheets.write_statistics import WriteStatistics
 
 from ClientLauncher.Naming.create_file_name import CreateFileName
 
+from ClientLauncher.Database.deals import DealsAndFiles
+
+from ClientLauncher.extensions.work_statuses import *
 
 import time
 import json
@@ -26,6 +29,8 @@ instant_history_controller = InstantHandHistoryController()
 
 get_statistics = GetStatistics()
 write_statistics = WriteStatistics()
+
+deals_and_files = DealsAndFiles()
 
 windows = Windows()
 closed_tables = []
@@ -84,6 +89,15 @@ def handle_closed_tables(data, opened_tables: int):
     if tables_control.get_closed_table_in_hand_history_menu(data) is not False:
         deal = tables_control.get_table_deal()
         write_deals_in_file(deal, data[0], data[1])
+        deals_and_files.add_file()
+
+def write_files_per_time():
+    amount_of_files = deals_and_files.get_amount_files_for_time()
+    write_statistics.set_files_per_hour(amount_of_files)
+
+def write_deals_per_time():
+    amount_of_deals = deals_and_files.get_amount_deals_for_time()
+    write_statistics.set_deals_per_hour(amount_of_deals)
 
 
 def main():
@@ -96,25 +110,43 @@ def main():
 
 
     while True:
-        time.sleep(30)
         try:
-            opened_tables = get_statistics.get_open_tables()
-        except Exception:
-            continue
-        if opened_tables < 21:
-            amount_of_add_tables = 21 - opened_tables
-            num = add_new_tables(amount_of_add_tables, num)
+            time.sleep(30)
+            try:
+                opened_tables = get_statistics.get_open_tables()
+            except Exception:
+                continue
+            if opened_tables < 21:
+                write_statistics.set_status(OPENING_TOURNEYS)
 
-        if len(get_closed_tables_file()) > 0:
-            for i in get_closed_tables_file():
-                try:
-                    change_closed_tables(i[0])
-                except IndexError:
-                    print('список пустой')
-                    break
-                text = i.split(' ')
-                handle_closed_tables(text, opened_tables)
+                write_files_per_time()
+                write_deals_per_time()
 
+                amount_of_add_tables = 21 - opened_tables
+                num = add_new_tables(amount_of_add_tables, num)
+
+            if len(get_closed_tables_file()) > 0:
+                write_files_per_time()
+                write_deals_per_time()
+
+                write_statistics.set_status(COLLECT_DEALS)
+                for i in get_closed_tables_file():
+                    try:
+                        change_closed_tables(i[0])
+                    except IndexError:
+                        print('список пустой')
+                        break
+                    text = i.split(' ')
+                    handle_closed_tables(text, opened_tables)
+
+            else:
+                write_files_per_time()
+                write_deals_per_time()
+                write_statistics.set_status(WAITING)
+
+        except:
+            write_statistics.set_status(BREAK)
+            return
 
 if __name__ == '__main__':
     main()

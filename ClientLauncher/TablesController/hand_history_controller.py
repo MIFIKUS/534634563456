@@ -5,6 +5,8 @@ from ClientLauncher.MainFunctions.windows import Windows
 from ClientLauncher.Google.Sheets.write_statistics import WriteStatistics
 from ClientLauncher.Google.Sheets.get_statistics import GetStatistics
 
+from ClientLauncher.Database.deals import DealsAndFiles
+
 from tkinter import Tk
 
 from gspread.exceptions import APIError
@@ -20,6 +22,8 @@ image = Image()
 
 write_statistics = WriteStatistics()
 get_statistics = GetStatistics()
+
+deals_and_files = DealsAndFiles()
 
 
 class InstantHandHistoryController:
@@ -65,7 +69,6 @@ class TablesControl:
             except AttributeError as e:
                 print(f'Ошибка {e}')
 
-
     def get_closed_table_in_hand_history_menu(self, closed_table):
         def _reset_hand_history():
             mouse.move_and_click(1400, 60)
@@ -89,7 +92,7 @@ class TablesControl:
         _reset_hand_history()
 
         table_names = []
-        not_found = False
+
         found = False
         while True:
             print(f'Поиск {table_id} Стол {table_num}')
@@ -102,7 +105,6 @@ class TablesControl:
             print(f'table_name {table_name}')
                 
             if 'all' in table_name.lower():
-                not_found = True
                 return False
 
             table_name = table_name.replace(' ', '')
@@ -118,10 +120,8 @@ class TablesControl:
                 return False
             print(f'ID: {table_id} TABLE: {table_name_for_seat}')
             if table_id in table_name and table_num == table_name_for_seat:
-                found = True
                 break
             if table_name in table_names:
-                not_found = True
                 continue
             table_names.append(table_name)
 
@@ -146,6 +146,8 @@ class TablesControl:
             deal = Tk().clipboard_get()
             if deal in deals:
                 return deals
+            else:
+                deals_and_files.add_deal()
             deals.append(deal)
 
     def _write_closed_table(self, tournament_id, table_num):

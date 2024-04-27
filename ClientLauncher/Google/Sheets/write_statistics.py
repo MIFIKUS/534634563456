@@ -10,7 +10,6 @@ class WriteStatistics:
         path_to_credentials = 'services_files\\google_credentials.json'
         self.gs = gspread.service_account(path_to_credentials)
         self.sh = self.gs.open_by_url(GOOGLE_SHEET_URL).get_worksheet(1)
-        self._ip = get_ip()
         self.client_row = 2
 
     def set_status(self, status):

@@ -1,1 +1,0 @@
-from add_info import AddInfo
