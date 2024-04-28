@@ -144,8 +144,9 @@ def main():
                 write_deals_per_time()
                 write_statistics.set_status(WAITING)
 
-        except:
+        except Exception as e:
             write_statistics.set_status(BREAK)
+            print(e)
             return
 
 if __name__ == '__main__':

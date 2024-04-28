@@ -60,9 +60,8 @@ class Keyboard:
         time.sleep(1)
 
     def enter(self):
-        for _ in range(2):
-            ahk.key_press('enter')
-            time.sleep(1)
+        ahk.key_press('enter')
+        time.sleep(1)
 
     def tab(self):
         pyautogui.press('tab')
