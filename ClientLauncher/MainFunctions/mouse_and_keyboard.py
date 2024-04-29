@@ -77,6 +77,7 @@ class Keyboard:
     def copy_fast(self):
         for _ in range(2):
             pyautogui.hotkey('ctrl', 'c')
+            time.sleep(0.1)
 
     def ctrl_i(self):
         for _ in range(2):
