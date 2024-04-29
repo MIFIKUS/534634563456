@@ -2,7 +2,12 @@ from ClientLauncher.Google.Sheets.get_config import GetConfig
 import datetime
 import pytz
 
-config = GetConfig()
+while True:
+    try:
+        config = GetConfig()
+        break
+    except Exception as e:
+        print(f'Ошибка при инициализации GetConfig {e}')
 
 
 class CreateFileName:

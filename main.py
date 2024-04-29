@@ -27,8 +27,19 @@ tournament_actions = TournamentActions()
 tables_control = TablesControl()
 instant_history_controller = InstantHandHistoryController()
 
-get_statistics = GetStatistics()
-write_statistics = WriteStatistics()
+while True:
+    try:
+        get_statistics = GetStatistics()
+        break
+    except Exception as e:
+        print(f'Ошибка при инициализации GetStatistics {e}')
+
+while True:
+    try:
+        write_statistics = WriteStatistics()
+        break
+    except Exception as e:
+        print(f'Ошибка при инициализации WriteStatistics {e}')
 
 deals_and_files = DealsAndFiles()
 

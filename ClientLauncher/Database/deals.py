@@ -2,7 +2,12 @@ import sqlite3
 from ClientLauncher.Google.Sheets.get_config import GetConfig
 
 
-config = GetConfig()
+while True:
+    try:
+        config = GetConfig()
+        break
+    except Exception as e:
+        print(f"Ошибка при инициализации GetConfig {e}")
 
 
 class DealsAndFiles:

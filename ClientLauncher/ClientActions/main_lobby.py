@@ -23,8 +23,20 @@ parse_header = GetType()
 
 tables_control = TablesControl()
 
-write_stats = WriteStatistics()
-get_stats = GetStatistics()
+while True:
+    try:
+        write_stats = WriteStatistics()
+        break
+    except Exception as e:
+        print(f'Ошибка при инициализации WriteStatistics {e}')
+
+while True:
+    try:
+        get_stats = GetStatistics()
+        break
+    except Exception as e:
+        print(f'Ошибка при инициализации GetStatistics {e}')
+
 
 file_name = CreateFileName()
 

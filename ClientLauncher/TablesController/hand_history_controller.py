@@ -20,8 +20,21 @@ keyboard = Keyboard()
 windows = Windows()
 image = Image()
 
-write_statistics = WriteStatistics()
-get_statistics = GetStatistics()
+
+while True:
+    try:
+        write_statistics = WriteStatistics()
+        break
+    except Exception as e:
+        print(f'Ошибка при инициализации WriteStatistics {e}')
+
+while True:
+    try:
+        get_statistics = GetStatistics()
+        break
+    except Exception as e:
+        print(f'Ошибка при инициализации GetStatistics {e}')
+
 
 deals_and_files = DealsAndFiles()
 

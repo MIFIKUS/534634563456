@@ -10,7 +10,13 @@ import time
 
 download = DownloadDeals()
 delete = DeleteDeal()
-config = GetConfig()
+
+while True:
+    try:
+        config = GetConfig()
+        break
+    except Exception as e:
+        print(f'Ошибка при инициализации GetConfig {e}')
 
 
 DELAY = 20

@@ -9,7 +9,6 @@ class GetStatistics:
         path_to_credentials = 'services_files\\google_credentials.json'
         self.gs = gspread.service_account(path_to_credentials)
         self.sh = self.gs.open_by_url(GOOGLE_SHEET_URL).get_worksheet(1)
-        self._ip = get_ip()
         self._row = 2
 
     def get_open_tables(self):
