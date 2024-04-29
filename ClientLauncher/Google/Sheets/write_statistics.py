@@ -7,15 +7,10 @@ import json
 
 class WriteStatistics:
     def __init__(self):
-        while True:
-            try:
-                path_to_credentials = 'services_files\\google_credentials.json'
-                self.gs = gspread.service_account(path_to_credentials)
-                self.sh = self.gs.open_by_url(GOOGLE_SHEET_URL).get_worksheet(1)
-                self._row = 2
-                break
-            except Exception as e:
-                print(f'Ошибка при инициализации WriteStatistics ОШИБКА {e}')
+        path_to_credentials = 'services_files\\google_credentials.json'
+        self.gs = gspread.service_account(path_to_credentials)
+        self.sh = self.gs.open_by_url(GOOGLE_SHEET_URL).get_worksheet(1)
+        self.client_row = 2
 
     def set_status(self, status):
         cells = self._open_cells_file()

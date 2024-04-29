@@ -5,14 +5,9 @@ import json
 
 class GetConfig:
     def __init__(self):
-        while True:
-            try:
-                path_to_credentials = 'services_files\\google_credentials.json'
-                self.gs = gspread.service_account(path_to_credentials)
-                self.sh = self.gs.open_by_url(GOOGLE_SHEET_URL).sheet1
-                break
-            except Exception as e:
-                print(f'Ошибка при инициализации GetConfig ОШИБКА {e}')
+        path_to_credentials = 'services_files\\google_credentials.json'
+        self.gs = gspread.service_account(path_to_credentials)
+        self.sh = self.gs.open_by_url(GOOGLE_SHEET_URL).sheet1
 
     def get_name_format(self) -> dict:
         config_cells = self._open_config_cells()
