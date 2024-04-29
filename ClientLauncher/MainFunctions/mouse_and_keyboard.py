@@ -2,6 +2,7 @@ from ahk import AHK
 import pyautogui
 import time
 
+pyautogui.FAILSAFE = False
 ahk = AHK()
 
 class Mouse:
