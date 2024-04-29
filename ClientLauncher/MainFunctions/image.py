@@ -52,6 +52,7 @@ class Image:
     def take_screenshot(self, image_name, area_of_screenshot=None):
         while True:
             try:
+                print(f'area_of_screenshot {area_of_screenshot}')
                 if area_of_screenshot:
                     PIL.ImageGrab.grab(bbox=area_of_screenshot).save(image_name)
                 else:
