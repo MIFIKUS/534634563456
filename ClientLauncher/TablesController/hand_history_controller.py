@@ -146,7 +146,7 @@ class TablesControl:
     def get_table_deal(self):
         mouse.move_and_click(900, 120)
 
-        keyboard.copy()
+        keyboard.copy_fast()
         deals = []
         deal = Tk().clipboard_get()
 
@@ -154,17 +154,21 @@ class TablesControl:
 
         while True:
             keyboard.arrow_down()
+            same = 0
+            for _ in range(2):
+                keyboard.copy_fast()
+                deal = Tk().clipboard_get()
+                if deal in deals:
+                    same += 1
+                else:
+                    deals_and_files.add_deal()
 
-            keyboard.copy()
-            deal = Tk().clipboard_get()
-            if deal in deals:
-                return deals
-            else:
-                deals_and_files.add_deal()
-            deals.append(deal)
+                if same == 2:
+                    return deals
+
+                deals.append(deal)
 
     def _write_closed_table(self, tournament_id, table_num):
         with open('closed_tables.txt', 'a') as closed_tables_txt:
             text = tournament_id + ' ' + str(table_num) + '\n'
             closed_tables_txt.write(text)
-

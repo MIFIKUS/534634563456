@@ -5,6 +5,7 @@ import time
 pyautogui.FAILSAFE = False
 ahk = AHK()
 
+
 class Mouse:
     """Класс для работы с мышкой"""
     def __init__(self):
@@ -72,6 +73,10 @@ class Keyboard:
         for _ in range(2):
             pyautogui.hotkey('ctrl', 'c')
             time.sleep(1)
+
+    def copy_fast(self):
+        for _ in range(2):
+            pyautogui.hotkey('ctrl', 'c')
 
     def ctrl_i(self):
         for _ in range(2):
