@@ -53,6 +53,7 @@ class Image:
         while True:
             try:
                 print(f'area_of_screenshot {area_of_screenshot}')
+                print(f'image_name {image_name}')
                 if area_of_screenshot:
                     PIL.ImageGrab.grab(bbox=area_of_screenshot).save(image_name)
                 else:

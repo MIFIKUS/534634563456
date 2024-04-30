@@ -1,2 +1,5 @@
-from ClientLauncher.Database.deals import DealsAndFiles
-
+for i in range(10):
+    print(123)
+    break
+else:
+    print(1)

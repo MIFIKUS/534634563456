@@ -83,17 +83,14 @@ class GetType:
 
             if image.matching('imgs\\screenshots\\knockouts\\game_type_color.png', 'imgs\\templates\\knockouts\\progressive.png'):
                 return 'KO'
+
         else:
-            return 'FREEZE'
+            if image.matching('imgs\\screenshots\\knockouts\\game_type_color.png', 'imgs\\templates\\knockouts\\mystery.png'):
+                return 'MYSTERY'
 
-            #color = image.get_main_color('imgs\\screenshots\\knockouts\\game_type_color.png')
+        return 'FREEZE'
 
-            #if 200 <= color[0] <= 250 and 40 <= color[1] <= 80 and 60 <= color[2] <= 110:
-            #    return 'KO'
-            #elif 220 <= color[0] <= 255 and 200 <= color[1] <= 255 and 130 <= color[2] <= 200:
-            #    return 'KO'
-            #else:
-            #    return 'FREEZE'
+
 
     def _get_tourney_players_amount(self, num):
         image.take_screenshot('imgs\\screenshots\\players_amount\\players_amount_color.png', area_of_screenshot=(506, 250 + (num * 26),
