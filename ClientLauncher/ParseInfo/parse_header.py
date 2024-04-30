@@ -22,6 +22,8 @@ class GetType:
             'total_progressive.png'
         ]
         self._list_of_players_amount = {
+            5: {'low':  [230, 140, 45],
+                'high': [255, 170, 70]},
             6: {'low':  [60, 150, 50],
                 'high': [100, 200, 110]},
             7: {'low':  [0, 130, 100],
