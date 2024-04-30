@@ -113,7 +113,12 @@ class TablesControl:
             not_found = False
             time.sleep(0.5)
             keyboard.arrow_up()
-            image.take_screenshot('imgs\\screenshots\\instant_hand_history\\table_name.png', (5, 43, 670, 68))
+            try:
+                image.take_screenshot('imgs\\screenshots\\instant_hand_history\\table_name.png', (5, 43, 670, 68))
+            except Exception as e:
+                print(e)
+                _reset_hand_history()
+                continue
             table_name = image.image_to_string('imgs\\screenshots\\instant_hand_history\\table_name.png', False)
             print(f'table_name {table_name}')
                 
