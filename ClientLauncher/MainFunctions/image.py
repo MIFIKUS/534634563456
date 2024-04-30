@@ -50,13 +50,12 @@ class Image:
         cv2.imwrite(file, mask)
 
     def take_screenshot(self, image_name, area_of_screenshot=None):
-        while True:
-            print(f'area_of_screenshot {area_of_screenshot}')
-            print(f'image_name {image_name}')
-            if area_of_screenshot:
-                PIL.ImageGrab.grab(bbox=area_of_screenshot).save(image_name)
-            else:
-                PIL.ImageGrab.grab().save(image_name)
+        print(f'area_of_screenshot {area_of_screenshot}')
+        print(f'image_name {image_name}')
+        if area_of_screenshot:
+            PIL.ImageGrab.grab(bbox=area_of_screenshot).save(image_name)
+        else:
+            PIL.ImageGrab.grab().save(image_name)
 
     def image_to_string(self, image_name, is_digits):
         if is_digits is True:
