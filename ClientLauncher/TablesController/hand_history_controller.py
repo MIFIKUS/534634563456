@@ -114,7 +114,6 @@ class TablesControl:
             try:
                 image.take_screenshot('imgs\\screenshots\\instant_hand_history\\table_name.png', (5, 43, 670, 68))
                 time.sleep(0.5)
-                keyboard.arrow_up()
             except Exception as e:
                 print(e)
                 _reset_hand_history()
@@ -147,6 +146,8 @@ class TablesControl:
                 return False
             if found:
                 break
+
+            keyboard.arrow_up()
 
     def get_table_deal(self):
         mouse.move_and_click(900, 120)
