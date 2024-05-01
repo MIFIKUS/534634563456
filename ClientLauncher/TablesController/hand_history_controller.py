@@ -109,12 +109,12 @@ class TablesControl:
         found = False
         while True:
             print(f'Поиск {table_id} Стол {table_num}')
-
-            not_found = False
             time.sleep(0.5)
-            keyboard.arrow_up()
+            not_found = False
             try:
                 image.take_screenshot('imgs\\screenshots\\instant_hand_history\\table_name.png', (5, 43, 670, 68))
+                time.sleep(0.5)
+                keyboard.arrow_up()
             except Exception as e:
                 print(e)
                 _reset_hand_history()
