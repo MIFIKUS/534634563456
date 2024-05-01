@@ -1,5 +1,5 @@
 from PIL import Image as pil
-import PIL.ImageGrab
+import pyscreenshot
 
 import cv2
 import numpy as np
@@ -14,9 +14,9 @@ class Image:
                  func=None, area_of_screenshot=None):
         if need_for_taking_screenshot:
             if area_of_screenshot:
-                PIL.ImageGrab.grab(bbox=area_of_screenshot).save(main_image_name)
+                pyscreenshot.grab(bbox=area_of_screenshot).save(main_image_name)
             else:
-                PIL.ImageGrab.grab().save(main_image_name)
+                pyscreenshot.grab().save(main_image_name)
 
         img_rgb = cv2.imread(main_image_name, 0)
         template = cv2.imread(template_image_name, 0)
@@ -53,9 +53,9 @@ class Image:
         print(f'area_of_screenshot {area_of_screenshot}')
         print(f'image_name {image_name}')
         if area_of_screenshot:
-            PIL.ImageGrab.grab(bbox=area_of_screenshot).save(image_name)
+            pyscreenshot.grab(bbox=area_of_screenshot).save(image_name)
         else:
-            PIL.ImageGrab.grab().save(image_name)
+            pyscreenshot.grab().save(image_name)
 
     def image_to_string(self, image_name, is_digits):
         if is_digits is True:
