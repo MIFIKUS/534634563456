@@ -85,7 +85,7 @@ class GetType:
                 return 'KO'
 
         else:
-            if image.matching('imgs\\screenshots\\knockouts\\game_type_color.png', 'imgs\\templates\\knockouts\\mystery.png'):
+            if image.matching('imgs\\screenshots\\knockouts\\game_type.png', 'imgs\\templates\\knockouts\\mystery.png'):
                 return 'MYSTERY'
 
         return 'FREEZE'
