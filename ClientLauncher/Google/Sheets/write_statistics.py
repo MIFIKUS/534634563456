@@ -13,10 +13,15 @@ class WriteStatistics:
         self.client_row = 2
 
     def set_status(self, status):
-        cells = self._open_cells_file()
-        status_cell = cells.get('status')
+        while True:
+            try:
+                cells = self._open_cells_file()
+                status_cell = cells.get('status')
 
-        self.sh.update(f'{status_cell}{self.client_row}', [[status]])
+                self.sh.update(f'{status_cell}{self.client_row}', [[status]])
+                break
+            except Exception as e:
+                print(f'Ошибка в set_status {e}')
 
     def set_opened_tables(self, opened_tables: int):
         cells = self._open_cells_file()

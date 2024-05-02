@@ -10,46 +10,63 @@ class GetConfig:
         self.sh = self.gs.open_by_url(GOOGLE_SHEET_URL).sheet1
 
     def get_name_format(self) -> dict:
-        config_cells = self._open_config_cells()
-        name_format_cells = config_cells.get('name_format')
+        while True:
+            try:
+                config_cells = self._open_config_cells()
+                name_format_cells = config_cells.get('name_format')
 
-        config = {}
-        for cnf, cell in name_format_cells.items():
-            config.update({cnf: int(self.sh.get(cell)[0][0])})
+                config = {}
+                for cnf, cell in name_format_cells.items():
+                    config.update({cnf: int(self.sh.get(cell)[0][0])})
 
-        config = dict(sorted(config.items(), key=lambda item: item[1]))
+                config = dict(sorted(config.items(), key=lambda item: item[1]))
 
-        return config
-
+                return config
+            except Exception as e:
+                print(f"ошибка в get_name_format {e}")
     def get_database_data(self) -> dict:
-        config_cells = self._open_config_cells()
-        database_cells = config_cells.get('database')
+        while True:
+            try:
 
-        config = {}
-        for cnf, cell in database_cells.items():
-            config.update({cnf: self.sh.get(cell)[0][0]})
+                config_cells = self._open_config_cells()
+                database_cells = config_cells.get('database')
 
-        return config
+                config = {}
+                for cnf, cell in database_cells.items():
+                    config.update({cnf: self.sh.get(cell)[0][0]})
+
+                return config
+            except Exception as e:
+                print(f"ошибка в get_database_data {e}")
 
     def get_collect_data(self) -> dict:
-        config_cells = self._open_config_cells()
-        collect_data_cells = config_cells.get('collect_data')
+        while True:
+            try:
+                config_cells = self._open_config_cells()
+                collect_data_cells = config_cells.get('collect_data')
 
-        config = {}
-        for cnf, cell in collect_data_cells.items():
-            config.update({cnf: int(self.sh.get(cell)[0][0])})
+                config = {}
+                for cnf, cell in collect_data_cells.items():
+                    config.update({cnf: int(self.sh.get(cell)[0][0])})
 
-        return config
+                return config
+            except Exception as e:
+                print(f"ошибка в get_collect_data {e}")
 
     def get_name_details(self) -> dict:
-        config_cells = self._open_config_cells()
-        naming_details_cells = config_cells.get('naming_details')
+        while True:
+            try:
+                config_cells = self._open_config_cells()
+                naming_details_cells = config_cells.get('naming_details')
 
-        config = {}
-        for cnf, cell in naming_details_cells.items():
-            config.update({cnf: self.sh.get(cell)[0][0]})
+                config = {}
+                for cnf, cell in naming_details_cells.items():
+                    config.update({cnf: self.sh.get(cell)[0][0]})
 
-        return config
+
+                return config
+            except Exception as e:
+                print(f"ошибка в get_name_details {e}")
 
     def _open_config_cells(self) -> dict:
         path_to_config_cells = 'ClientLauncher\\Config\\config_cells.json'
