@@ -1,6 +1,8 @@
 from ahk import AHK
 import pyautogui
 import time
+import psutil
+
 
 pyautogui.FAILSAFE = False
 ahk = AHK()
@@ -48,22 +50,47 @@ class Mouse:
         amount *= 100
         pyautogui.scroll(amount)
 
+
 class Keyboard:
     def arrow_down(self):
-        ahk.run_script('SendInput, {Down}')
-        time.sleep(1)
+        while True:
+            try:
+                ahk.run_script('SendInput, {Down}')
+                time.sleep(1)
+                self._close_ahk()
+                break
+            except Exception:
+                continue
 
     def arrow_up(self):
-        ahk.run_script('SendInput, {Up}')
-        time.sleep(1)
+        while True:
+            try:
+                ahk.run_script('SendInput, {Up}')
+                time.sleep(1)
+                self._close_ahk()
+                break
+            except Exception:
+                continue
 
     def esc(self):
-        ahk.key_press('esc')
-        time.sleep(1)
+        while True:
+            try:
+                ahk.key_press('esc')
+                time.sleep(1)
+                self._close_ahk()
+                break
+            except Exception:
+                continue
 
     def enter(self):
-        ahk.key_press('enter')
-        time.sleep(1)
+        while True:
+            try:
+                ahk.key_press('enter')
+                time.sleep(1)
+                self._close_ahk()
+                break
+            except Exception:
+                continue
 
     def tab(self):
         pyautogui.press('tab')
@@ -88,3 +115,7 @@ class Keyboard:
     def end(self):
         pyautogui.press('end')
 
+    def _close_ahk(self):
+        for proc in psutil.process_iter():
+            if proc.name() == 'AutoHotkey.exe':
+                proc.kill()
