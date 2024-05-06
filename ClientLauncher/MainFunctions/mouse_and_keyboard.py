@@ -53,44 +53,28 @@ class Mouse:
 
 class Keyboard:
     def arrow_down(self):
-        while True:
-            try:
-                ahk.run_script('SendInput, {Down}')
-                time.sleep(1)
-                self._close_ahk()
-                break
-            except Exception:
-                continue
+        pyautogui.press('down')
+        #ahk.run_script('SendInput, {Down}')
+        #time.sleep(1)
+        #self._close_ahk()
 
     def arrow_up(self):
-        while True:
-            try:
-                ahk.run_script('SendInput, {Up}')
-                time.sleep(1)
-                self._close_ahk()
-                break
-            except Exception:
-                continue
+        pyautogui.press('up')
+        #ahk.run_script('SendInput, {Up}')
+        #time.sleep(1)
+        #self._close_ahk()
 
     def esc(self):
-        while True:
-            try:
-                ahk.key_press('esc')
-                time.sleep(1)
-                self._close_ahk()
-                break
-            except Exception:
-                continue
+        pyautogui.press('esc')
+        #ahk.key_press('esc')
+        #time.sleep(1)
+        #self._close_ahk()
 
     def enter(self):
-        while True:
-            try:
-                ahk.key_press('enter')
-                time.sleep(1)
-                self._close_ahk()
-                break
-            except Exception:
-                continue
+        pyautogui.press('enter')
+        #ahk.key_press('enter')
+        #time.sleep(1)
+        #self._close_ahk()
 
     def tab(self):
         pyautogui.press('tab')
