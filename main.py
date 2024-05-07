@@ -92,6 +92,8 @@ def write_deals_in_file(deals, tournament_id, table_num):
         return
     with open(f'deals_files\\{file}', 'w', encoding='utf-8') as deals_file_txt:
         deals_file_txt.write(deals)
+    deals = None
+
 
 def handle_closed_tables(data, opened_tables: int):
     print('opened tables изменен')
@@ -101,6 +103,7 @@ def handle_closed_tables(data, opened_tables: int):
         deal = tables_control.get_table_deal()
         write_deals_in_file(deal, data[0], data[1])
         deals_and_files.add_file()
+        deal = None
 
 def write_files_per_time():
     amount_of_files = deals_and_files.get_amount_files_for_time()
@@ -118,7 +121,6 @@ def main():
     if opened_tables < 21:
         amount_of_add_tables = 21 - opened_tables
         add_new_tables(amount_of_add_tables, num)
-
 
     while True:
         try:
