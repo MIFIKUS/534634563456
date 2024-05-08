@@ -103,7 +103,7 @@ def handle_closed_tables(data, opened_tables: int):
         deal = tables_control.get_table_deal()
         write_deals_in_file(deal, data[0], data[1])
         deals_and_files.add_file()
-        deal = None
+        del deal
 
 def write_files_per_time():
     amount_of_files = deals_and_files.get_amount_files_for_time()

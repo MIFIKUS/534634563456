@@ -164,6 +164,7 @@ class TablesControl:
             for _ in range(2):
                 keyboard.copy_fast()
                 deal = Tk().clipboard_get()
+
                 if deal in deals:
                     same += 1
                 else:
@@ -171,8 +172,9 @@ class TablesControl:
 
                 if same == 2:
                     return deals
-
                 deals.append(deal)
+
+                del deal
 
     def _write_closed_table(self, tournament_id, table_num):
         with open('closed_tables.txt', 'a') as closed_tables_txt:
