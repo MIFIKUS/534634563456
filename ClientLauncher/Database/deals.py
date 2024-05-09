@@ -25,8 +25,17 @@ class DealsAndFiles:
 
         self._close_connection(connection)
 
-    def get_amount_deals_for_time(self):
-        amount_of_time_to_collect = int(config.get_collect_data()['deals_per_days']) * 24
+    def get_amount_deals_for_time(self, is_days=False):
+        if is_days:
+            cell_name = 'deals_per_days'
+        else:
+            cell_name = 'deals_per_hour'
+
+        amount_of_time_to_collect = int(config.get_collect_data()['deals_per_days'])
+
+        if is_days:
+            amount_of_time_to_collect *= 24
+
         connection = self._get_connection()
         cursor = self._get_cursor(connection)
 
@@ -53,8 +62,16 @@ WHERE date >= datetime('now', '-{amount_of_time_to_collect} hour');"""
 
         self._close_connection(connection)
 
-    def get_amount_files_for_time(self):
-        amount_of_time_to_collect = int(config.get_collect_data()['files_per_hour'])
+    def get_amount_files_for_time(self, is_days=False):
+        if is_days:
+            cell_name = 'files_per_days'
+        else:
+            cell_name = 'files_per_hour'
+
+        amount_of_time_to_collect = int(config.get_collect_data()[cell_name])
+
+        if is_days:
+            amount_of_time_to_collect *= 24
 
         connection = self._get_connection()
         cursor = self._get_cursor(connection)

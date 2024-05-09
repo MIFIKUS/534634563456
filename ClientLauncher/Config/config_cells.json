@@ -20,7 +20,9 @@
 
   "collect_data": {
     "files_per_hour": "E3",
-    "deals_per_days": "E4"
+    "files_per_days": "E4",
+    "deals_per_days": "E5",
+    "deals_per_hour": "E6"
   },
 
   "naming_details": {

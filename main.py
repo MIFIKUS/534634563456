@@ -92,8 +92,6 @@ def write_deals_in_file(deals, tournament_id, table_num):
         return
     with open(f'deals_files\\{file}', 'w', encoding='utf-8') as deals_file_txt:
         deals_file_txt.write(deals)
-    deals = None
-
 
 def handle_closed_tables(data, opened_tables: int):
     print('opened tables изменен')
@@ -106,13 +104,18 @@ def handle_closed_tables(data, opened_tables: int):
         del deal
 
 def write_files_per_time():
-    amount_of_files = deals_and_files.get_amount_files_for_time()
-    write_statistics.set_files_per_hour(amount_of_files)
+    amount_of_files_per_hour = deals_and_files.get_amount_files_for_time()
+    amount_of_files_per_days = deals_and_files.get_amount_files_for_time(True)
+
+    write_statistics.set_files_per_hour(amount_of_files_per_hour)
+    write_statistics.set_files_per_days(amount_of_files_per_days)
 
 def write_deals_per_time():
-    amount_of_deals = deals_and_files.get_amount_deals_for_time()
-    write_statistics.set_deals_per_hour(amount_of_deals)
+    amount_of_deals_hour = deals_and_files.get_amount_deals_for_time()
+    amount_of_deals_days = deals_and_files.get_amount_deals_for_time(True)
 
+    write_statistics.set_deals_per_hour(amount_of_deals_hour)
+    write_statistics.set_deals_per_days(amount_of_deals_days)
 
 def main():
     cleanup_tournaments_data()

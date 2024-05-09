@@ -31,15 +31,27 @@ class WriteStatistics:
 
     def set_files_per_hour(self, files_per_hour: int):
         cells = self._open_cells_file()
-        files_per_hour_cell = cells.get('files')
+        files_per_hour_cell = cells.get('files_per_hour')
 
         self.sh.update(f'{files_per_hour_cell}{self.client_row}', [[files_per_hour]])
 
+    def set_files_per_days(self, files_per_days: int):
+        cells = self._open_cells_file()
+        files_per_days_cell = cells.get('files_for_days')
+
+        self.sh.update(f'{files_per_days_cell}{self.client_row}', [[files_per_days]])
+
     def set_deals_per_hour(self, deals_per_hour: int):
         cells = self._open_cells_file()
-        deals_per_hour_cell = cells.get('deals')
+        deals_per_hour_cell = cells.get('deals_per_hour')
 
         self.sh.update(f'{deals_per_hour_cell}{self.client_row}', [[deals_per_hour]])
+
+    def set_deals_per_days(self, deals_per_days: int):
+        cells = self._open_cells_file()
+        deals_per_days_cell = cells.get('deals_per_days')
+
+        self.sh.update(f'{deals_per_days_cell}{self.client_row}', [[deals_per_days]])
 
     def _open_cells_file(self):
         with open('ClientLauncher\\Statistics\\statistics_cells.json') as cells_json:
