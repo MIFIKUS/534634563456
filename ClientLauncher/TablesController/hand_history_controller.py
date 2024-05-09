@@ -20,6 +20,8 @@ keyboard = Keyboard()
 windows = Windows()
 image = Image()
 
+clipboard = Tk()
+
 
 while True:
     try:
@@ -154,7 +156,7 @@ class TablesControl:
 
         keyboard.copy_fast()
         deals = []
-        deal = Tk().clipboard_get()
+        deal = clipboard.clipboard_get()
 
         deals.append(deal)
 
@@ -163,7 +165,7 @@ class TablesControl:
             same = 0
             for _ in range(2):
                 keyboard.copy_fast()
-                deal = Tk().clipboard_get()
+                deal = clipboard.clipboard_get()
 
                 if deal in deals:
                     same += 1

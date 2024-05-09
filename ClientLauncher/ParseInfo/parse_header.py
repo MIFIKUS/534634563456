@@ -8,6 +8,8 @@ image = Image()
 keyboard = Keyboard()
 windows = Windows()
 
+cliboard = Tk()
+
 
 class GetType:
     def __init__(self):
@@ -48,7 +50,7 @@ class GetType:
 
     def _get_tournament_id(self):
         keyboard.copy()
-        return Tk().clipboard_get()
+        return cliboard.clipboard_get()
 
     def _get_tourney_speed(self, num):
         SPEED_LIST = {
@@ -89,8 +91,6 @@ class GetType:
                 return 'MYSTERY'
 
         return 'FREEZE'
-
-
 
     def _get_tourney_players_amount(self, num):
         image.take_screenshot('imgs\\screenshots\\players_amount\\players_amount_color.png', area_of_screenshot=(506, 250 + (num * 26),

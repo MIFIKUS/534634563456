@@ -17,6 +17,8 @@ mouse = Mouse()
 keyboard = Keyboard()
 windows = Windows()
 
+clipboard = Tk()
+
 
 class ParseLobby:
     def __init__(self, hwnd, amount_of_opened_tables, tournament_id, file):
@@ -82,11 +84,11 @@ class ParseLobby:
                 if not skip:
                     break
                 keyboard.copy()
-                table_num = Tk().clipboard_get()
+                table_num = clipboard.clipboard_get()
                 if len(str(table_num)) > 3:
                     for _ in range(2):
                         keyboard.copy()
-                    table_num = Tk().clipboard_get()
+                    table_num = clipboard.clipboard_get()
 
                 if table_num in availible_tables:
                     break
