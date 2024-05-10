@@ -84,7 +84,7 @@ class ParseLobby:
             amount_of_tables = windows.get_amount_of_opened_tables()
             if amount_of_tables == 21:
                 print(f'Открыто столов: {self._amount_of_opened_tables + len(availible_tables)}')
-                return availible_tables, tournament_name
+                return availible_tables, tournament_name, gtd
 
             skip = True
             for tries_to_open in range(3):
