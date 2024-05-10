@@ -1,6 +1,6 @@
 from ClientLauncher.Google.Sheets.get_config import GetConfig
 import re
-
+import json
 
 while True:
     try:
@@ -9,12 +9,17 @@ while True:
     except Exception:
         pass
 
+name_details = get_config.get_name_details()
+
+separator = name_details['separator']
+free_text = name_details['free_text']
 
 def get_info(file_path: str) -> dict:
-    name_details = get_config.get_name_details()
+    def _get_gtd(path: str, tournament_id: str) -> str:
+        with open(f'deals_files\\{file_path}', 'r', encoding='utf-8') as tables_json:
+            tables_info = json.load(tables_json)
 
-    separator = name_details['separator']
-    free_text = name_details['free_text']
+            return tables_info[tournament_id]['gtd']
 
     with open(f'deals_files\\{file_path}', 'r', encoding='utf-8') as file_txt:
         file_list = file_txt.read().split('\n')
@@ -35,7 +40,7 @@ def get_info(file_path: str) -> dict:
         print(name)
 
         #сюда gtd
-        gtd = ''
+        gtd = _get_gtd(file_path, id)
 
         buy_in = '$' + re.search(r',\s\$(.*?)\sUSD', file_list[0]).group(1)
 

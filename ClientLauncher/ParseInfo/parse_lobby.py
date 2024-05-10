@@ -40,8 +40,9 @@ class ParseLobby:
         tables_info = self._get_availible_tables()
         availible_tables = tables_info[0]
         tournament_name = tables_info[1]
+        lobby_gtd = tables_info[2]
         opened_tables = self._amount_of_opened_tables + len(availible_tables)
-        self._write_opened_tables(availible_tables, tournament_name)
+        self._write_opened_tables(availible_tables, tournament_name, lobby_gtd)
         return {'id': lobby_id, 'availible_tables': availible_tables, 'opened_tables': opened_tables, 'tournament_name': tournament_name}
 
     def _get_lobby_id(self) -> str:
@@ -125,6 +126,8 @@ class ParseLobby:
                         fails += 1
                         print(f'Не удалось получить название стола, пробуем еще раз\nОшибка {e}')
 
+                gtd = self._get_lobby_gtd()
+
                 time.sleep(2)
 
                 mouse.move_and_click(250, 50)
@@ -134,7 +137,7 @@ class ParseLobby:
 
             availible_tables.append(table_num)
 
-        return availible_tables, tournament_name
+        return availible_tables, tournament_name, gtd
 
     def _get_tournament_name(self):
         got_name = False
@@ -158,10 +161,10 @@ class ParseLobby:
     def _open_table(self):
         keyboard.enter()
 
-    def _write_opened_tables(self, availible_tables, tournament_name):
+    def _write_opened_tables(self, availible_tables, tournament_name, gtd):
         tournament_data = self._open_tournament_file()
         print(self._tournament_id)
-        tournament_data.get(self._tournament_id).update({'availible_tables': availible_tables, 'tournament_name': tournament_name})
+        tournament_data.get(self._tournament_id).update({'availible_tables': availible_tables, 'tournament_name': tournament_name, 'gtd': gtd})
         with open('tournaments_data.json', 'w') as tournament_data_json:
             json.dump(tournament_data, tournament_data_json)
 
@@ -183,3 +186,10 @@ class ParseLobby:
     def _get_deal_files(self):
         files =  os.listdir('deals_files')
         return files
+
+    def _get_lobby_gtd(self):
+        hwnd = win32gui.GetForegroundWindow()
+        header = win32gui.GetWindowText(hwnd)
+
+        return re.search(r', (\$.+?) Gtd', header).group(1)
+        

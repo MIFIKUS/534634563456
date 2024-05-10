@@ -93,7 +93,6 @@ class TournamentActions:
             for table in availble_tables:
                 filename = file_name.get_file_name(tournament_info_for_cycle, table)
                 self._create_empty_deals_file(filename)
-            
 
             windows.close_window_by_hwnd(tournament_hwnd)
             windows.open_window_by_hwnd(main_hwnd)

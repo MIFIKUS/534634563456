@@ -28,7 +28,7 @@ class AddInfo:
         if not get_info.tournament_in_db(tournament_id):
 
             query = "INSERT INTO poker.archives (tournament_id, name, gtd, buy_in, total_buy_in, table_size, speed, tournament_type, archive_name, create_date)"\
-                    f" VALUES ('{tournament_id}', '{name}', {2}, '{buy_in}', '{total_buy_in}', {table_size}, '{speed}', '{tournament_type}'," \
+                    f" VALUES ('{tournament_id}', '{name}', {gtd}, '{buy_in}', '{total_buy_in}', {table_size}, '{speed}', '{tournament_type}'," \
                     f"'{archive_name}', NOW());"
 
             print(query)
