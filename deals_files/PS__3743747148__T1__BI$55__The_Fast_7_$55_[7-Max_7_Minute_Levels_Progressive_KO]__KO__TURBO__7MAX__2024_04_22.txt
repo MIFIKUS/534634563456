@@ -1,0 +1,1213 @@
+PokerStars Hand #250116059648: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level I (35/70) - 2024/04/22 15:46:57 ET
+Table '3743747148 1' 7-max Seat #7 is the button
+Seat 1: Brauni22 (6619 in chips, $25 bounty) 
+Seat 2: Originallyy (6917 in chips, $25 bounty) 
+Seat 3: Sent1mental (7362 in chips, $25 bounty) 
+Seat 4: betsoares (6392 in chips, $25 bounty) 
+Seat 5: almostlikeaa (7393 in chips, $25 bounty) 
+Seat 6: Pridan Igor (6564 in chips, $25 bounty) 
+Seat 7: Schubertarn (7753 in chips, $25 bounty) 
+Brauni22: posts the ante 8
+Originallyy: posts the ante 8
+Sent1mental: posts the ante 8
+betsoares: posts the ante 8
+almostlikeaa: posts the ante 8
+Pridan Igor: posts the ante 8
+Schubertarn: posts the ante 8
+Brauni22: posts small blind 35
+Originallyy: posts big blind 70
+*** HOLE CARDS ***
+Sent1mental: folds 
+betsoares: folds 
+almostlikeaa: folds 
+Pridan Igor: raises 70 to 140
+Schubertarn: raises 350 to 490
+Brauni22: folds 
+Originallyy: folds 
+Pridan Igor: calls 350
+*** FLOP *** [5d Js 6h]
+Pridan Igor: checks 
+Schubertarn: bets 377
+Pridan Igor: calls 377
+*** TURN *** [5d Js 6h] [Ac]
+Pridan Igor: checks 
+Schubertarn: bets 875
+Pridan Igor: folds 
+Uncalled bet (875) returned to Schubertarn
+Schubertarn collected 1895 from pot
+Schubertarn: doesn't show hand 
+*** SUMMARY ***
+Total pot 1895 | Rake 0 
+Board [5d Js 6h Ac]
+Seat 1: Brauni22 (small blind) folded before Flop
+Seat 2: Originallyy (big blind) folded before Flop
+Seat 3: Sent1mental folded before Flop (didn't bet)
+Seat 4: betsoares folded before Flop (didn't bet)
+Seat 5: almostlikeaa folded before Flop (didn't bet)
+Seat 6: Pridan Igor folded on the Turn
+Seat 7: Schubertarn (button) collected (1895)
+
+PokerStars Hand #250116091341: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level II (40/80) - 2024/04/22 15:48:28 ET
+Table '3743747148 1' 7-max Seat #1 is the button
+Seat 1: Brauni22 (6576 in chips, $25 bounty) 
+Seat 2: Originallyy (6839 in chips, $25 bounty) 
+Seat 3: Sent1mental (7354 in chips, $25 bounty) 
+Seat 4: betsoares (6384 in chips, $25 bounty) 
+Seat 5: almostlikeaa (7385 in chips, $25 bounty) 
+Seat 6: Pridan Igor (5689 in chips, $25 bounty) 
+Seat 7: Schubertarn (8773 in chips, $25 bounty) 
+Brauni22: posts the ante 10
+Originallyy: posts the ante 10
+Sent1mental: posts the ante 10
+betsoares: posts the ante 10
+almostlikeaa: posts the ante 10
+Pridan Igor: posts the ante 10
+Schubertarn: posts the ante 10
+Originallyy: posts small blind 40
+Sent1mental: posts big blind 80
+*** HOLE CARDS ***
+betsoares: folds 
+almostlikeaa: folds 
+Pridan Igor: folds 
+Schubertarn: folds 
+Brauni22: folds 
+Originallyy: calls 40
+Sent1mental: checks 
+*** FLOP *** [Jd Ac Qs]
+Originallyy: checks 
+Sent1mental: checks 
+*** TURN *** [Jd Ac Qs] [8s]
+Originallyy: bets 166
+Sent1mental: calls 166
+*** RIVER *** [Jd Ac Qs 8s] [Th]
+Originallyy: bets 568
+Sent1mental: calls 568
+*** SHOW DOWN ***
+Originallyy: shows [Jc Kc] (a straight, Ten to Ace)
+Sent1mental: mucks hand 
+Originallyy collected 1698 from pot
+*** SUMMARY ***
+Total pot 1698 | Rake 0 
+Board [Jd Ac Qs 8s Th]
+Seat 1: Brauni22 (button) folded before Flop (didn't bet)
+Seat 2: Originallyy (small blind) showed [Jc Kc] and won (1698) with a straight, Ten to Ace
+Seat 3: Sent1mental (big blind) mucked
+Seat 4: betsoares folded before Flop (didn't bet)
+Seat 5: almostlikeaa folded before Flop (didn't bet)
+Seat 6: Pridan Igor folded before Flop (didn't bet)
+Seat 7: Schubertarn folded before Flop (didn't bet)
+
+PokerStars Hand #250116115822: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level II (40/80) - 2024/04/22 15:49:38 ET
+Table '3743747148 1' 7-max Seat #2 is the button
+Seat 1: Brauni22 (6566 in chips, $25 bounty) 
+Seat 2: Originallyy (7713 in chips, $25 bounty) 
+Seat 3: Sent1mental (6530 in chips, $25 bounty) 
+Seat 4: betsoares (6374 in chips, $25 bounty) 
+Seat 5: almostlikeaa (7375 in chips, $25 bounty) 
+Seat 6: Pridan Igor (5679 in chips, $25 bounty) 
+Seat 7: Schubertarn (8763 in chips, $25 bounty) 
+Brauni22: posts the ante 10
+Originallyy: posts the ante 10
+Sent1mental: posts the ante 10
+betsoares: posts the ante 10
+almostlikeaa: posts the ante 10
+Pridan Igor: posts the ante 10
+Schubertarn: posts the ante 10
+Sent1mental: posts small blind 40
+betsoares: posts big blind 80
+*** HOLE CARDS ***
+almostlikeaa: folds 
+Pridan Igor: folds 
+Schubertarn: folds 
+Brauni22: folds 
+Originallyy: raises 120 to 200
+Sent1mental: folds 
+betsoares: calls 120
+*** FLOP *** [Jd 2s 2c]
+betsoares: checks 
+Originallyy: bets 168
+almostlikeaa is disconnected 
+betsoares: raises 352 to 520
+Originallyy: folds 
+Uncalled bet (352) returned to betsoares
+betsoares collected 846 from pot
+betsoares: doesn't show hand 
+*** SUMMARY ***
+Total pot 846 | Rake 0 
+Board [Jd 2s 2c]
+Seat 1: Brauni22 folded before Flop (didn't bet)
+Seat 2: Originallyy (button) folded on the Flop
+Seat 3: Sent1mental (small blind) folded before Flop
+Seat 4: betsoares (big blind) collected (846)
+Seat 5: almostlikeaa folded before Flop (didn't bet)
+Seat 6: Pridan Igor folded before Flop (didn't bet)
+Seat 7: Schubertarn folded before Flop (didn't bet)
+
+PokerStars Hand #250116138104: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level II (40/80) - 2024/04/22 15:50:43 ET
+Table '3743747148 1' 7-max Seat #3 is the button
+Seat 1: Brauni22 (6556 in chips, $25 bounty) 
+Seat 2: Originallyy (7335 in chips, $25 bounty) 
+Seat 3: Sent1mental (6480 in chips, $25 bounty) 
+Seat 4: betsoares (6842 in chips, $25 bounty) 
+Seat 5: almostlikeaa (7365 in chips, $25 bounty) 
+Seat 6: Pridan Igor (5669 in chips, $25 bounty) 
+Seat 7: Schubertarn (8753 in chips, $25 bounty) 
+Brauni22: posts the ante 10
+Originallyy: posts the ante 10
+Sent1mental: posts the ante 10
+betsoares: posts the ante 10
+almostlikeaa: posts the ante 10
+Pridan Igor: posts the ante 10
+Schubertarn: posts the ante 10
+betsoares: posts small blind 40
+almostlikeaa: posts big blind 80
+*** HOLE CARDS ***
+Pridan Igor: folds 
+Schubertarn: folds 
+Brauni22: raises 96 to 176
+Originallyy: calls 176
+Sent1mental: folds 
+betsoares: folds 
+almostlikeaa: folds 
+*** FLOP *** [8h As 8s]
+Brauni22: checks 
+Originallyy: bets 178
+Brauni22: folds 
+Uncalled bet (178) returned to Originallyy
+Originallyy collected 542 from pot
+Originallyy: doesn't show hand 
+*** SUMMARY ***
+Total pot 542 | Rake 0 
+Board [8h As 8s]
+Seat 1: Brauni22 folded on the Flop
+Seat 2: Originallyy collected (542)
+Seat 3: Sent1mental (button) folded before Flop (didn't bet)
+Seat 4: betsoares (small blind) folded before Flop
+Seat 5: almostlikeaa (big blind) folded before Flop
+Seat 6: Pridan Igor folded before Flop (didn't bet)
+Seat 7: Schubertarn folded before Flop (didn't bet)
+
+PokerStars Hand #250116152687: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level II (40/80) - 2024/04/22 15:51:26 ET
+Table '3743747148 1' 7-max Seat #4 is the button
+Seat 1: Brauni22 (6370 in chips, $25 bounty) 
+Seat 2: Originallyy (7691 in chips, $25 bounty) 
+Seat 3: Sent1mental (6470 in chips, $25 bounty) 
+Seat 4: betsoares (6792 in chips, $25 bounty) 
+Seat 5: almostlikeaa (7275 in chips, $25 bounty) 
+Seat 6: Pridan Igor (5659 in chips, $25 bounty) 
+Seat 7: Schubertarn (8743 in chips, $25 bounty) 
+Brauni22: posts the ante 10
+Originallyy: posts the ante 10
+Sent1mental: posts the ante 10
+betsoares: posts the ante 10
+almostlikeaa: posts the ante 10
+Pridan Igor: posts the ante 10
+Schubertarn: posts the ante 10
+almostlikeaa: posts small blind 40
+Pridan Igor: posts big blind 80
+*** HOLE CARDS ***
+Schubertarn: folds 
+Brauni22: folds 
+Originallyy: folds 
+Sent1mental: raises 100 to 180
+betsoares: raises 500 to 680
+almostlikeaa: folds 
+Pridan Igor: folds 
+Sent1mental: calls 500
+*** FLOP *** [Jc Qc 2d]
+Sent1mental: checks 
+betsoares: bets 512
+Sent1mental: folds 
+Uncalled bet (512) returned to betsoares
+betsoares collected 1550 from pot
+betsoares: doesn't show hand 
+*** SUMMARY ***
+Total pot 1550 | Rake 0 
+Board [Jc Qc 2d]
+Seat 1: Brauni22 folded before Flop (didn't bet)
+Seat 2: Originallyy folded before Flop (didn't bet)
+Seat 3: Sent1mental folded on the Flop
+Seat 4: betsoares (button) collected (1550)
+Seat 5: almostlikeaa (small blind) folded before Flop
+Seat 6: Pridan Igor (big blind) folded before Flop
+Seat 7: Schubertarn folded before Flop (didn't bet)
+
+PokerStars Hand #250116176400: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level II (40/80) - 2024/04/22 15:52:35 ET
+Table '3743747148 1' 7-max Seat #5 is the button
+Seat 1: Brauni22 (6360 in chips, $25 bounty) 
+Seat 2: Originallyy (7681 in chips, $25 bounty) 
+Seat 3: Sent1mental (5780 in chips, $25 bounty) 
+Seat 4: betsoares (7652 in chips, $25 bounty) 
+Seat 5: almostlikeaa (7225 in chips, $25 bounty) 
+Seat 6: Pridan Igor (5569 in chips, $25 bounty) 
+Seat 7: Schubertarn (8733 in chips, $25 bounty) 
+Brauni22: posts the ante 10
+Originallyy: posts the ante 10
+Sent1mental: posts the ante 10
+betsoares: posts the ante 10
+almostlikeaa: posts the ante 10
+Pridan Igor: posts the ante 10
+Schubertarn: posts the ante 10
+Pridan Igor: posts small blind 40
+Schubertarn: posts big blind 80
+*** HOLE CARDS ***
+Brauni22: folds 
+Originallyy: folds 
+Sent1mental: folds 
+betsoares: folds 
+almostlikeaa: folds 
+Pridan Igor: raises 160 to 240
+Schubertarn: calls 160
+*** FLOP *** [Qc Th Jc]
+Pridan Igor: checks 
+Schubertarn: bets 341
+Pridan Igor: folds 
+Uncalled bet (341) returned to Schubertarn
+Schubertarn collected 550 from pot
+Schubertarn: doesn't show hand 
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [Qc Th Jc]
+Seat 1: Brauni22 folded before Flop (didn't bet)
+Seat 2: Originallyy folded before Flop (didn't bet)
+Seat 3: Sent1mental folded before Flop (didn't bet)
+Seat 4: betsoares folded before Flop (didn't bet)
+Seat 5: almostlikeaa (button) folded before Flop (didn't bet)
+Seat 6: Pridan Igor (small blind) folded on the Flop
+Seat 7: Schubertarn (big blind) collected (550)
+
+PokerStars Hand #250116199283: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level II (40/80) - 2024/04/22 15:53:42 ET
+Table '3743747148 1' 7-max Seat #6 is the button
+Seat 1: Brauni22 (6350 in chips, $25 bounty) 
+Seat 2: Originallyy (7671 in chips, $25 bounty) 
+Seat 3: Sent1mental (5770 in chips, $25 bounty) 
+Seat 4: betsoares (7642 in chips, $25 bounty) 
+Seat 5: almostlikeaa (7215 in chips, $25 bounty) 
+Seat 6: Pridan Igor (5319 in chips, $25 bounty) 
+Seat 7: Schubertarn (9033 in chips, $25 bounty) 
+Brauni22: posts the ante 10
+Originallyy: posts the ante 10
+Sent1mental: posts the ante 10
+betsoares: posts the ante 10
+almostlikeaa: posts the ante 10
+Pridan Igor: posts the ante 10
+Schubertarn: posts the ante 10
+Schubertarn: posts small blind 40
+Brauni22: posts big blind 80
+*** HOLE CARDS ***
+Originallyy: folds 
+Sent1mental: folds 
+betsoares: folds 
+almostlikeaa: folds 
+Pridan Igor: folds 
+Schubertarn: raises 200 to 280
+Brauni22: folds 
+Uncalled bet (200) returned to Schubertarn
+Schubertarn collected 230 from pot
+Schubertarn: doesn't show hand 
+*** SUMMARY ***
+Total pot 230 | Rake 0 
+Seat 1: Brauni22 (big blind) folded before Flop
+Seat 2: Originallyy folded before Flop (didn't bet)
+Seat 3: Sent1mental folded before Flop (didn't bet)
+Seat 4: betsoares folded before Flop (didn't bet)
+Seat 5: almostlikeaa folded before Flop (didn't bet)
+Seat 6: Pridan Igor (button) folded before Flop (didn't bet)
+Seat 7: Schubertarn (small blind) collected (230)
+
+PokerStars Hand #250116212985: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level III (50/100) - 2024/04/22 15:54:22 ET
+Table '3743747148 1' 7-max Seat #7 is the button
+Seat 1: Brauni22 (6260 in chips, $25 bounty) 
+Seat 2: Originallyy (7661 in chips, $25 bounty) 
+Seat 3: Sent1mental (5760 in chips, $25 bounty) 
+Seat 4: betsoares (7632 in chips, $25 bounty) 
+Seat 5: almostlikeaa (7205 in chips, $25 bounty) 
+Seat 6: Pridan Igor (5309 in chips, $25 bounty) 
+Seat 7: Schubertarn (9173 in chips, $25 bounty) 
+Brauni22: posts the ante 12
+Originallyy: posts the ante 12
+Sent1mental: posts the ante 12
+betsoares: posts the ante 12
+almostlikeaa: posts the ante 12
+Pridan Igor: posts the ante 12
+Schubertarn: posts the ante 12
+Brauni22: posts small blind 50
+Originallyy: posts big blind 100
+*** HOLE CARDS ***
+Sent1mental: folds 
+betsoares: folds 
+almostlikeaa: raises 200 to 300
+Pridan Igor: folds 
+Schubertarn: folds 
+Brauni22: folds 
+Originallyy: calls 200
+*** FLOP *** [Qh Th 8c]
+Originallyy: checks 
+almostlikeaa: bets 300
+Originallyy: folds 
+Uncalled bet (300) returned to almostlikeaa
+almostlikeaa collected 734 from pot
+almostlikeaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 734 | Rake 0 
+Board [Qh Th 8c]
+Seat 1: Brauni22 (small blind) folded before Flop
+Seat 2: Originallyy (big blind) folded on the Flop
+Seat 3: Sent1mental folded before Flop (didn't bet)
+Seat 4: betsoares folded before Flop (didn't bet)
+Seat 5: almostlikeaa collected (734)
+Seat 6: Pridan Igor folded before Flop (didn't bet)
+Seat 7: Schubertarn (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250116226839: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level III (50/100) - 2024/04/22 15:55:03 ET
+Table '3743747148 1' 7-max Seat #1 is the button
+Seat 1: Brauni22 (6198 in chips, $25 bounty) 
+Seat 2: Originallyy (7349 in chips, $25 bounty) 
+Seat 3: Sent1mental (5748 in chips, $25 bounty) 
+Seat 4: betsoares (7620 in chips, $25 bounty) 
+Seat 5: almostlikeaa (7627 in chips, $25 bounty) 
+Seat 6: Pridan Igor (5297 in chips, $25 bounty) 
+Seat 7: Schubertarn (9161 in chips, $25 bounty) 
+Brauni22: posts the ante 12
+Originallyy: posts the ante 12
+Sent1mental: posts the ante 12
+betsoares: posts the ante 12
+almostlikeaa: posts the ante 12
+Pridan Igor: posts the ante 12
+Schubertarn: posts the ante 12
+Originallyy: posts small blind 50
+Sent1mental: posts big blind 100
+*** HOLE CARDS ***
+betsoares: folds 
+almostlikeaa: folds 
+Pridan Igor: folds 
+Schubertarn: folds 
+Brauni22: raises 120 to 220
+Originallyy: folds 
+Sent1mental: calls 120
+*** FLOP *** [Th 2s 9d]
+Sent1mental: checks 
+Brauni22: bets 144
+Sent1mental: calls 144
+*** TURN *** [Th 2s 9d] [Qs]
+Sent1mental: checks 
+Brauni22: checks 
+*** RIVER *** [Th 2s 9d Qs] [4s]
+Sent1mental: bets 862
+Brauni22: calls 862
+*** SHOW DOWN ***
+Sent1mental: shows [Js Qd] (a pair of Queens)
+Brauni22: mucks hand 
+Sent1mental collected 2586 from pot
+*** SUMMARY ***
+Total pot 2586 | Rake 0 
+Board [Th 2s 9d Qs 4s]
+Seat 1: Brauni22 (button) mucked
+Seat 2: Originallyy (small blind) folded before Flop
+Seat 3: Sent1mental (big blind) showed [Js Qd] and won (2586) with a pair of Queens
+Seat 4: betsoares folded before Flop (didn't bet)
+Seat 5: almostlikeaa folded before Flop (didn't bet)
+Seat 6: Pridan Igor folded before Flop (didn't bet)
+Seat 7: Schubertarn folded before Flop (didn't bet)
+
+PokerStars Hand #250116339713: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level III (50/100) - 2024/04/22 16:02:19 ET
+Table '3743747148 1' 7-max Seat #2 is the button
+Seat 1: Brauni22 (4960 in chips, $25 bounty) 
+Seat 2: Originallyy (7287 in chips, $25 bounty) 
+Seat 3: Sent1mental (7096 in chips, $25 bounty) 
+Seat 4: betsoares (7608 in chips, $25 bounty) 
+Seat 5: almostlikeaa (7615 in chips, $25 bounty) 
+Seat 6: Pridan Igor (5285 in chips, $25 bounty) 
+Seat 7: Schubertarn (9149 in chips, $25 bounty) 
+Brauni22: posts the ante 12
+Originallyy: posts the ante 12
+Sent1mental: posts the ante 12
+betsoares: posts the ante 12
+almostlikeaa: posts the ante 12
+Pridan Igor: posts the ante 12
+Schubertarn: posts the ante 12
+Sent1mental: posts small blind 50
+betsoares: posts big blind 100
+*** HOLE CARDS ***
+almostlikeaa: folds 
+Pridan Igor: folds 
+Schubertarn: raises 100 to 200
+Brauni22: folds 
+Originallyy: folds 
+Sent1mental: folds 
+betsoares: calls 100
+*** FLOP *** [8c 7c Ad]
+betsoares: checks 
+Schubertarn: bets 176
+betsoares: calls 176
+*** TURN *** [8c 7c Ad] [Qh]
+betsoares: checks 
+Schubertarn: checks 
+*** RIVER *** [8c 7c Ad Qh] [4c]
+betsoares: bets 665
+Schubertarn: folds 
+Uncalled bet (665) returned to betsoares
+betsoares collected 886 from pot
+betsoares: doesn't show hand 
+*** SUMMARY ***
+Total pot 886 | Rake 0 
+Board [8c 7c Ad Qh 4c]
+Seat 1: Brauni22 folded before Flop (didn't bet)
+Seat 2: Originallyy (button) folded before Flop (didn't bet)
+Seat 3: Sent1mental (small blind) folded before Flop
+Seat 4: betsoares (big blind) collected (886)
+Seat 5: almostlikeaa folded before Flop (didn't bet)
+Seat 6: Pridan Igor folded before Flop (didn't bet)
+Seat 7: Schubertarn folded on the River
+
+PokerStars Hand #250116365597: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level III (50/100) - 2024/04/22 16:03:37 ET
+Table '3743747148 1' 7-max Seat #3 is the button
+Seat 1: Brauni22 (4948 in chips, $25 bounty) 
+Seat 2: Originallyy (7275 in chips, $25 bounty) 
+Seat 3: Sent1mental (7034 in chips, $25 bounty) 
+Seat 4: betsoares (8106 in chips, $25 bounty) 
+Seat 5: almostlikeaa (7603 in chips, $25 bounty) 
+Seat 6: Pridan Igor (5273 in chips, $25 bounty) 
+Seat 7: Schubertarn (8761 in chips, $25 bounty) 
+Brauni22: posts the ante 12
+Originallyy: posts the ante 12
+Sent1mental: posts the ante 12
+betsoares: posts the ante 12
+almostlikeaa: posts the ante 12
+Pridan Igor: posts the ante 12
+Schubertarn: posts the ante 12
+betsoares: posts small blind 50
+almostlikeaa: posts big blind 100
+*** HOLE CARDS ***
+Pridan Igor: folds 
+Schubertarn: folds 
+Brauni22: raises 120 to 220
+Originallyy: folds 
+Sent1mental: folds 
+betsoares: folds 
+almostlikeaa: folds 
+Uncalled bet (120) returned to Brauni22
+Brauni22 collected 334 from pot
+Brauni22: doesn't show hand 
+*** SUMMARY ***
+Total pot 334 | Rake 0 
+Seat 1: Brauni22 collected (334)
+Seat 2: Originallyy folded before Flop (didn't bet)
+Seat 3: Sent1mental (button) folded before Flop (didn't bet)
+Seat 4: betsoares (small blind) folded before Flop
+Seat 5: almostlikeaa (big blind) folded before Flop
+Seat 6: Pridan Igor folded before Flop (didn't bet)
+Seat 7: Schubertarn folded before Flop (didn't bet)
+
+PokerStars Hand #250116371774: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level III (50/100) - 2024/04/22 16:03:55 ET
+Table '3743747148 1' 7-max Seat #4 is the button
+Seat 1: Brauni22 (5170 in chips, $25 bounty) 
+Seat 2: Originallyy (7263 in chips, $25 bounty) 
+Seat 3: Sent1mental (7022 in chips, $25 bounty) 
+Seat 4: betsoares (8044 in chips, $25 bounty) 
+Seat 5: almostlikeaa (7491 in chips, $25 bounty) 
+Seat 6: Pridan Igor (5261 in chips, $25 bounty) 
+Seat 7: Schubertarn (8749 in chips, $25 bounty) 
+Brauni22: posts the ante 12
+Originallyy: posts the ante 12
+Sent1mental: posts the ante 12
+betsoares: posts the ante 12
+almostlikeaa: posts the ante 12
+Pridan Igor: posts the ante 12
+Schubertarn: posts the ante 12
+almostlikeaa: posts small blind 50
+Pridan Igor: posts big blind 100
+*** HOLE CARDS ***
+Schubertarn: raises 100 to 200
+Brauni22: folds 
+Originallyy: folds 
+Sent1mental: folds 
+betsoares: folds 
+almostlikeaa: raises 500 to 700
+Pridan Igor: folds 
+Schubertarn: calls 500
+*** FLOP *** [2h Td Ac]
+almostlikeaa: bets 700
+Schubertarn: folds 
+Uncalled bet (700) returned to almostlikeaa
+almostlikeaa collected 1584 from pot
+almostlikeaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 1584 | Rake 0 
+Board [2h Td Ac]
+Seat 1: Brauni22 folded before Flop (didn't bet)
+Seat 2: Originallyy folded before Flop (didn't bet)
+Seat 3: Sent1mental folded before Flop (didn't bet)
+Seat 4: betsoares (button) folded before Flop (didn't bet)
+Seat 5: almostlikeaa (small blind) collected (1584)
+Seat 6: Pridan Igor (big blind) folded before Flop
+Seat 7: Schubertarn folded on the Flop
+
+PokerStars Hand #250116391145: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level III (50/100) - 2024/04/22 16:04:52 ET
+Table '3743747148 1' 7-max Seat #5 is the button
+Seat 1: Brauni22 (5158 in chips, $25 bounty) 
+Seat 2: Originallyy (7251 in chips, $25 bounty) 
+Seat 3: Sent1mental (7010 in chips, $25 bounty) 
+Seat 4: betsoares (8032 in chips, $25 bounty) 
+Seat 5: almostlikeaa (8363 in chips, $25 bounty) 
+Seat 6: Pridan Igor (5149 in chips, $25 bounty) 
+Seat 7: Schubertarn (8037 in chips, $25 bounty) 
+Brauni22: posts the ante 12
+Originallyy: posts the ante 12
+Sent1mental: posts the ante 12
+betsoares: posts the ante 12
+almostlikeaa: posts the ante 12
+Pridan Igor: posts the ante 12
+Schubertarn: posts the ante 12
+Pridan Igor: posts small blind 50
+Schubertarn: posts big blind 100
+*** HOLE CARDS ***
+Brauni22: raises 120 to 220
+Originallyy: folds 
+Sent1mental: folds 
+betsoares: folds 
+almostlikeaa: folds 
+Pridan Igor: folds 
+Schubertarn: folds 
+Uncalled bet (120) returned to Brauni22
+Brauni22 collected 334 from pot
+Brauni22: doesn't show hand 
+*** SUMMARY ***
+Total pot 334 | Rake 0 
+Seat 1: Brauni22 collected (334)
+Seat 2: Originallyy folded before Flop (didn't bet)
+Seat 3: Sent1mental folded before Flop (didn't bet)
+Seat 4: betsoares folded before Flop (didn't bet)
+Seat 5: almostlikeaa (button) folded before Flop (didn't bet)
+Seat 6: Pridan Igor (small blind) folded before Flop
+Seat 7: Schubertarn (big blind) folded before Flop
+
+PokerStars Hand #250116404513: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level III (50/100) - 2024/04/22 16:05:30 ET
+Table '3743747148 1' 7-max Seat #6 is the button
+Seat 1: Brauni22 (5380 in chips, $25 bounty) 
+Seat 2: Originallyy (7239 in chips, $25 bounty) 
+Seat 3: Sent1mental (6998 in chips, $25 bounty) 
+Seat 4: betsoares (8020 in chips, $25 bounty) 
+Seat 5: almostlikeaa (8351 in chips, $25 bounty) 
+Seat 6: Pridan Igor (5087 in chips, $25 bounty) 
+Seat 7: Schubertarn (7925 in chips, $25 bounty) 
+Brauni22: posts the ante 12
+Originallyy: posts the ante 12
+Sent1mental: posts the ante 12
+betsoares: posts the ante 12
+almostlikeaa: posts the ante 12
+Pridan Igor: posts the ante 12
+Schubertarn: posts the ante 12
+Schubertarn: posts small blind 50
+Brauni22: posts big blind 100
+*** HOLE CARDS ***
+Originallyy: raises 130 to 230
+Sent1mental: folds 
+betsoares: calls 230
+almostlikeaa: folds 
+Pridan Igor: folds 
+Schubertarn: folds 
+Brauni22: calls 130
+*** FLOP *** [9d 8h Jc]
+Brauni22: checks 
+Originallyy: checks 
+betsoares: checks 
+*** TURN *** [9d 8h Jc] [9h]
+Brauni22: checks 
+Originallyy: bets 593
+betsoares: folds 
+Brauni22: folds 
+Uncalled bet (593) returned to Originallyy
+Originallyy collected 824 from pot
+Originallyy: doesn't show hand 
+*** SUMMARY ***
+Total pot 824 | Rake 0 
+Board [9d 8h Jc 9h]
+Seat 1: Brauni22 (big blind) folded on the Turn
+Seat 2: Originallyy collected (824)
+Seat 3: Sent1mental folded before Flop (didn't bet)
+Seat 4: betsoares folded on the Turn
+Seat 5: almostlikeaa folded before Flop (didn't bet)
+Seat 6: Pridan Igor (button) folded before Flop (didn't bet)
+Seat 7: Schubertarn (small blind) folded before Flop
+
+PokerStars Hand #250116427471: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level III (50/100) - 2024/04/22 16:06:37 ET
+Table '3743747148 1' 7-max Seat #7 is the button
+Seat 1: Brauni22 (5138 in chips, $25 bounty) 
+Seat 2: Originallyy (7821 in chips, $25 bounty) 
+Seat 3: Sent1mental (6986 in chips, $25 bounty) 
+Seat 4: betsoares (7778 in chips, $25 bounty) 
+Seat 5: almostlikeaa (8339 in chips, $25 bounty) 
+Seat 6: Pridan Igor (5075 in chips, $25 bounty) 
+Seat 7: Schubertarn (7863 in chips, $25 bounty) 
+Brauni22: posts the ante 12
+Originallyy: posts the ante 12
+Sent1mental: posts the ante 12
+betsoares: posts the ante 12
+almostlikeaa: posts the ante 12
+Pridan Igor: posts the ante 12
+Schubertarn: posts the ante 12
+Brauni22: posts small blind 50
+Originallyy: posts big blind 100
+*** HOLE CARDS ***
+Sent1mental: folds 
+betsoares: folds 
+almostlikeaa: folds 
+Pridan Igor: folds 
+Schubertarn: folds 
+Brauni22: calls 50
+Originallyy: raises 249 to 349
+Brauni22: calls 249
+*** FLOP *** [Tc 4c Td]
+Brauni22: checks 
+Originallyy: bets 258
+Brauni22: folds 
+Uncalled bet (258) returned to Originallyy
+Originallyy collected 782 from pot
+Originallyy: doesn't show hand 
+*** SUMMARY ***
+Total pot 782 | Rake 0 
+Board [Tc 4c Td]
+Seat 1: Brauni22 (small blind) folded on the Flop
+Seat 2: Originallyy (big blind) collected (782)
+Seat 3: Sent1mental folded before Flop (didn't bet)
+Seat 4: betsoares folded before Flop (didn't bet)
+Seat 5: almostlikeaa folded before Flop (didn't bet)
+Seat 6: Pridan Igor folded before Flop (didn't bet)
+Seat 7: Schubertarn (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250116443608: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level III (50/100) - 2024/04/22 16:07:24 ET
+Table '3743747148 1' 7-max Seat #1 is the button
+Seat 1: Brauni22 (4777 in chips, $25 bounty) 
+Seat 2: Originallyy (8242 in chips, $25 bounty) 
+Seat 3: Sent1mental (6974 in chips, $25 bounty) 
+Seat 4: betsoares (7766 in chips, $25 bounty) 
+Seat 5: almostlikeaa (8327 in chips, $25 bounty) 
+Seat 6: Pridan Igor (5063 in chips, $25 bounty) 
+Seat 7: Schubertarn (7851 in chips, $25 bounty) 
+Brauni22: posts the ante 12
+Originallyy: posts the ante 12
+Sent1mental: posts the ante 12
+betsoares: posts the ante 12
+almostlikeaa: posts the ante 12
+Pridan Igor: posts the ante 12
+Schubertarn: posts the ante 12
+Originallyy: posts small blind 50
+Sent1mental: posts big blind 100
+*** HOLE CARDS ***
+betsoares: folds 
+almostlikeaa: folds 
+Pridan Igor: raises 100 to 200
+Schubertarn: folds 
+Brauni22: calls 200
+Originallyy: folds 
+Sent1mental: folds 
+*** FLOP *** [Qs 5c 2c]
+Pridan Igor: bets 190
+Brauni22: raises 407 to 597
+Pridan Igor: calls 407
+*** TURN *** [Qs 5c 2c] [7h]
+Pridan Igor: bets 1300
+Brauni22: folds 
+Uncalled bet (1300) returned to Pridan Igor
+Pridan Igor collected 1828 from pot
+Pridan Igor: doesn't show hand 
+*** SUMMARY ***
+Total pot 1828 | Rake 0 
+Board [Qs 5c 2c 7h]
+Seat 1: Brauni22 (button) folded on the Turn
+Seat 2: Originallyy (small blind) folded before Flop
+Seat 3: Sent1mental (big blind) folded before Flop
+Seat 4: betsoares folded before Flop (didn't bet)
+Seat 5: almostlikeaa folded before Flop (didn't bet)
+Seat 6: Pridan Igor collected (1828)
+Seat 7: Schubertarn folded before Flop (didn't bet)
+
+PokerStars Hand #250116463973: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/04/22 16:08:23 ET
+Table '3743747148 1' 7-max Seat #2 is the button
+Seat 1: Brauni22 (3968 in chips, $25 bounty) 
+Seat 2: Originallyy (8180 in chips, $25 bounty) 
+Seat 3: Sent1mental (6862 in chips, $25 bounty) 
+Seat 4: betsoares (7754 in chips, $25 bounty) 
+Seat 5: almostlikeaa (8315 in chips, $25 bounty) 
+Seat 6: Pridan Igor (6082 in chips, $25 bounty) 
+Seat 7: Schubertarn (7839 in chips, $25 bounty) 
+Brauni22: posts the ante 16
+Originallyy: posts the ante 16
+Sent1mental: posts the ante 16
+betsoares: posts the ante 16
+almostlikeaa: posts the ante 16
+Pridan Igor: posts the ante 16
+Schubertarn: posts the ante 16
+Sent1mental: posts small blind 60
+betsoares: posts big blind 120
+*** HOLE CARDS ***
+almostlikeaa: folds 
+Pridan Igor: raises 120 to 240
+Schubertarn: folds 
+Brauni22: folds 
+Originallyy: calls 240
+Sent1mental: folds 
+betsoares: calls 120
+*** FLOP *** [Qs 3d 9s]
+betsoares: checks 
+Pridan Igor: bets 268
+Originallyy: calls 268
+betsoares: folds 
+*** TURN *** [Qs 3d 9s] [5s]
+Pridan Igor: bets 1000
+Originallyy: folds 
+Uncalled bet (1000) returned to Pridan Igor
+Pridan Igor collected 1428 from pot
+Pridan Igor: doesn't show hand 
+*** SUMMARY ***
+Total pot 1428 | Rake 0 
+Board [Qs 3d 9s 5s]
+Seat 1: Brauni22 folded before Flop (didn't bet)
+Seat 2: Originallyy (button) folded on the Turn
+Seat 3: Sent1mental (small blind) folded before Flop
+Seat 4: betsoares (big blind) folded on the Flop
+Seat 5: almostlikeaa folded before Flop (didn't bet)
+Seat 6: Pridan Igor collected (1428)
+Seat 7: Schubertarn folded before Flop (didn't bet)
+
+PokerStars Hand #250116492409: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/04/22 16:09:48 ET
+Table '3743747148 1' 7-max Seat #3 is the button
+Seat 2: Originallyy (7656 in chips, $25 bounty) 
+Seat 3: Sent1mental (6786 in chips, $25 bounty) 
+Seat 4: betsoares (7498 in chips, $25 bounty) 
+Seat 5: almostlikeaa (8299 in chips, $25 bounty) 
+Seat 6: Pridan Igor (6986 in chips, $25 bounty) 
+Seat 7: Schubertarn (7823 in chips, $25 bounty) 
+Originallyy: posts the ante 16
+Sent1mental: posts the ante 16
+betsoares: posts the ante 16
+almostlikeaa: posts the ante 16
+Pridan Igor: posts the ante 16
+Schubertarn: posts the ante 16
+betsoares: posts small blind 60
+almostlikeaa: posts big blind 120
+*** HOLE CARDS ***
+Pridan Igor: folds 
+Schubertarn: folds 
+Originallyy: folds 
+Sent1mental: folds 
+Kenny9947 is disconnected 
+betsoares: calls 60
+almostlikeaa: checks 
+*** FLOP *** [2h Td 8c]
+betsoares: bets 120
+almostlikeaa: calls 120
+*** TURN *** [2h Td 8c] [8s]
+betsoares: checks 
+almostlikeaa: bets 240
+betsoares: folds 
+Uncalled bet (240) returned to almostlikeaa
+almostlikeaa collected 576 from pot
+almostlikeaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 576 | Rake 0 
+Board [2h Td 8c 8s]
+Seat 2: Originallyy folded before Flop (didn't bet)
+Seat 3: Sent1mental (button) folded before Flop (didn't bet)
+Seat 4: betsoares (small blind) folded on the Turn
+Seat 5: almostlikeaa (big blind) collected (576)
+Seat 6: Pridan Igor folded before Flop (didn't bet)
+Seat 7: Schubertarn folded before Flop (didn't bet)
+
+PokerStars Hand #250116507715: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/04/22 16:10:31 ET
+Table '3743747148 1' 7-max Seat #4 is the button
+Seat 1: Kenny9947 (7000 in chips, $25 bounty) 
+Seat 2: Originallyy (7640 in chips, $25 bounty) 
+Seat 3: Sent1mental (6770 in chips, $25 bounty) 
+Seat 4: betsoares (7242 in chips, $25 bounty) 
+Seat 5: almostlikeaa (8619 in chips, $25 bounty) 
+Seat 6: Pridan Igor (6970 in chips, $25 bounty) 
+Seat 7: Schubertarn (7807 in chips, $25 bounty) 
+Kenny9947: posts the ante 16
+Originallyy: posts the ante 16
+Sent1mental: posts the ante 16
+betsoares: posts the ante 16
+almostlikeaa: posts the ante 16
+Pridan Igor: posts the ante 16
+Schubertarn: posts the ante 16
+almostlikeaa: posts small blind 60
+Pridan Igor: posts big blind 120
+*** HOLE CARDS ***
+Schubertarn: folds 
+Kenny9947: folds 
+Originallyy: folds 
+Sent1mental: raises 150 to 270
+betsoares: folds 
+almostlikeaa: folds 
+Pridan Igor: calls 150
+*** FLOP *** [Kc 7s 5h]
+Pridan Igor: checks 
+Sent1mental: bets 498
+Pridan Igor: folds 
+Uncalled bet (498) returned to Sent1mental
+Sent1mental collected 712 from pot
+Sent1mental: doesn't show hand 
+*** SUMMARY ***
+Total pot 712 | Rake 0 
+Board [Kc 7s 5h]
+Seat 1: Kenny9947 folded before Flop (didn't bet)
+Seat 2: Originallyy folded before Flop (didn't bet)
+Seat 3: Sent1mental collected (712)
+Seat 4: betsoares (button) folded before Flop (didn't bet)
+Seat 5: almostlikeaa (small blind) folded before Flop
+Seat 6: Pridan Igor (big blind) folded on the Flop
+Seat 7: Schubertarn folded before Flop (didn't bet)
+
+PokerStars Hand #250116523070: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/04/22 16:11:15 ET
+Table '3743747148 1' 7-max Seat #5 is the button
+Seat 1: Kenny9947 (6984 in chips, $25 bounty) 
+Seat 2: Originallyy (7624 in chips, $25 bounty) 
+Seat 3: Sent1mental (7196 in chips, $25 bounty) 
+Seat 4: betsoares (7226 in chips, $25 bounty) 
+Seat 5: almostlikeaa (8543 in chips, $25 bounty) 
+Seat 6: Pridan Igor (6684 in chips, $25 bounty) 
+Seat 7: Schubertarn (7791 in chips, $25 bounty) 
+Kenny9947: posts the ante 16
+Originallyy: posts the ante 16
+Sent1mental: posts the ante 16
+betsoares: posts the ante 16
+almostlikeaa: posts the ante 16
+Pridan Igor: posts the ante 16
+Schubertarn: posts the ante 16
+Pridan Igor: posts small blind 60
+Schubertarn: posts big blind 120
+*** HOLE CARDS ***
+Kenny9947: folds 
+Originallyy: raises 180 to 300
+Sent1mental: folds 
+betsoares: folds 
+almostlikeaa: raises 540 to 840
+Pridan Igor: folds 
+Schubertarn: folds 
+Originallyy: raises 6768 to 7608 and is all-in
+almostlikeaa: calls 6768
+*** FLOP *** [4s 8d 2h]
+*** TURN *** [4s 8d 2h] [9s]
+*** RIVER *** [4s 8d 2h 9s] [2d]
+*** SHOW DOWN ***
+Originallyy: shows [Jc Js] (two pair, Jacks and Deuces)
+almostlikeaa: shows [As Qs] (a pair of Deuces)
+Originallyy collected 15508 from pot
+*** SUMMARY ***
+Total pot 15508 | Rake 0 
+Board [4s 8d 2h 9s 2d]
+Seat 1: Kenny9947 folded before Flop (didn't bet)
+Seat 2: Originallyy showed [Jc Js] and won (15508) with two pair, Jacks and Deuces
+Seat 3: Sent1mental folded before Flop (didn't bet)
+Seat 4: betsoares folded before Flop (didn't bet)
+Seat 5: almostlikeaa (button) showed [As Qs] and lost with a pair of Deuces
+Seat 6: Pridan Igor (small blind) folded before Flop
+Seat 7: Schubertarn (big blind) folded before Flop
+
+PokerStars Hand #250116538641: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/04/22 16:12:00 ET
+Table '3743747148 1' 7-max Seat #6 is the button
+Seat 1: Kenny9947 (6968 in chips, $25 bounty) 
+Seat 2: Originallyy (15508 in chips, $25 bounty) 
+Seat 3: Sent1mental (7180 in chips, $25 bounty) 
+Seat 4: betsoares (7210 in chips, $25 bounty) 
+Seat 5: almostlikeaa (919 in chips, $25 bounty) 
+Seat 6: Pridan Igor (6608 in chips, $25 bounty) 
+Seat 7: Schubertarn (7655 in chips, $25 bounty) 
+Kenny9947: posts the ante 16
+Originallyy: posts the ante 16
+Sent1mental: posts the ante 16
+betsoares: posts the ante 16
+almostlikeaa: posts the ante 16
+Pridan Igor: posts the ante 16
+Schubertarn: posts the ante 16
+Schubertarn: posts small blind 60
+Kenny9947: posts big blind 120
+*** HOLE CARDS ***
+Originallyy: folds 
+Sent1mental: raises 150 to 270
+betsoares: folds 
+almostlikeaa: folds 
+Pridan Igor: raises 690 to 960
+Schubertarn: folds 
+Kenny9947: folds 
+Sent1mental: folds 
+Uncalled bet (690) returned to Pridan Igor
+Pridan Igor collected 832 from pot
+Pridan Igor: doesn't show hand 
+*** SUMMARY ***
+Total pot 832 | Rake 0 
+Seat 1: Kenny9947 (big blind) folded before Flop
+Seat 2: Originallyy folded before Flop (didn't bet)
+Seat 3: Sent1mental folded before Flop
+Seat 4: betsoares folded before Flop (didn't bet)
+Seat 5: almostlikeaa folded before Flop (didn't bet)
+Seat 6: Pridan Igor (button) collected (832)
+Seat 7: Schubertarn (small blind) folded before Flop
+
+PokerStars Hand #250116556272: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/04/22 16:12:50 ET
+Table '3743747148 1' 7-max Seat #7 is the button
+Seat 1: Kenny9947 (6832 in chips, $25 bounty) 
+Seat 2: Originallyy (15492 in chips, $25 bounty) 
+Seat 3: Sent1mental (6894 in chips, $25 bounty) 
+Seat 4: betsoares (7194 in chips, $25 bounty) 
+Seat 5: almostlikeaa (903 in chips, $25 bounty) 
+Seat 6: Pridan Igor (7154 in chips, $25 bounty) 
+Seat 7: Schubertarn (7579 in chips, $25 bounty) 
+Kenny9947: posts the ante 16
+Originallyy: posts the ante 16
+Sent1mental: posts the ante 16
+betsoares: posts the ante 16
+almostlikeaa: posts the ante 16
+Pridan Igor: posts the ante 16
+Schubertarn: posts the ante 16
+Kenny9947: posts small blind 60
+Originallyy: posts big blind 120
+*** HOLE CARDS ***
+Sent1mental: raises 150 to 270
+betsoares: folds 
+almostlikeaa: raises 617 to 887 and is all-in
+Pridan Igor: folds 
+Schubertarn: folds 
+Kenny9947: folds 
+Originallyy: folds 
+Sent1mental: calls 617
+*** FLOP *** [3h 6s 6h]
+*** TURN *** [3h 6s 6h] [6d]
+*** RIVER *** [3h 6s 6h 6d] [3d]
+*** SHOW DOWN ***
+Sent1mental: shows [Kc Tc] (a full house, Sixes full of Threes)
+almostlikeaa: shows [9d 9c] (a full house, Sixes full of Nines)
+almostlikeaa collected 2066 from pot
+*** SUMMARY ***
+Total pot 2066 | Rake 0 
+Board [3h 6s 6h 6d 3d]
+Seat 1: Kenny9947 (small blind) folded before Flop
+Seat 2: Originallyy (big blind) folded before Flop
+Seat 3: Sent1mental showed [Kc Tc] and lost with a full house, Sixes full of Threes
+Seat 4: betsoares folded before Flop (didn't bet)
+Seat 5: almostlikeaa showed [9d 9c] and won (2066) with a full house, Sixes full of Nines
+Seat 6: Pridan Igor folded before Flop (didn't bet)
+Seat 7: Schubertarn (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250116572391: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/04/22 16:13:37 ET
+Table '3743747148 1' 7-max Seat #1 is the button
+Seat 1: Kenny9947 (6756 in chips, $25 bounty) 
+Seat 2: Originallyy (15356 in chips, $25 bounty) 
+Seat 3: Sent1mental (5991 in chips, $25 bounty) 
+Seat 4: betsoares (7178 in chips, $25 bounty) 
+Seat 5: almostlikeaa (2066 in chips, $25 bounty) 
+Seat 6: Pridan Igor (7138 in chips, $25 bounty) 
+Seat 7: Schubertarn (7563 in chips, $25 bounty) 
+Kenny9947: posts the ante 16
+Originallyy: posts the ante 16
+Sent1mental: posts the ante 16
+betsoares: posts the ante 16
+almostlikeaa: posts the ante 16
+Pridan Igor: posts the ante 16
+Schubertarn: posts the ante 16
+Originallyy: posts small blind 60
+Sent1mental: posts big blind 120
+*** HOLE CARDS ***
+betsoares: folds 
+almostlikeaa: folds 
+Pridan Igor: folds 
+Schubertarn: folds 
+Kenny9947: raises 132 to 252
+Originallyy: folds 
+Sent1mental: folds 
+Uncalled bet (132) returned to Kenny9947
+Kenny9947 collected 412 from pot
+Kenny9947: doesn't show hand 
+*** SUMMARY ***
+Total pot 412 | Rake 0 
+Seat 1: Kenny9947 (button) collected (412)
+Seat 2: Originallyy (small blind) folded before Flop
+Seat 3: Sent1mental (big blind) folded before Flop
+Seat 4: betsoares folded before Flop (didn't bet)
+Seat 5: almostlikeaa folded before Flop (didn't bet)
+Seat 6: Pridan Igor folded before Flop (didn't bet)
+Seat 7: Schubertarn folded before Flop (didn't bet)
+
+PokerStars Hand #250116581645: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/04/22 16:14:03 ET
+Table '3743747148 1' 7-max Seat #2 is the button
+Seat 1: Kenny9947 (7032 in chips, $25 bounty) 
+Seat 2: Originallyy (15280 in chips, $25 bounty) 
+Seat 3: Sent1mental (5855 in chips, $25 bounty) 
+Seat 4: betsoares (7162 in chips, $25 bounty) 
+Seat 5: almostlikeaa (2050 in chips, $25 bounty) 
+Seat 6: Pridan Igor (7122 in chips, $25 bounty) 
+Seat 7: Schubertarn (7547 in chips, $25 bounty) 
+Kenny9947: posts the ante 16
+Originallyy: posts the ante 16
+Sent1mental: posts the ante 16
+betsoares: posts the ante 16
+almostlikeaa: posts the ante 16
+Pridan Igor: posts the ante 16
+Schubertarn: posts the ante 16
+Sent1mental: posts small blind 60
+betsoares: posts big blind 120
+*** HOLE CARDS ***
+almostlikeaa: raises 360 to 480
+Pridan Igor: folds 
+Schubertarn: folds 
+Kenny9947: folds 
+Originallyy: folds 
+Sent1mental: folds 
+betsoares: calls 360
+*** FLOP *** [3d 5d 4s]
+betsoares: checks 
+almostlikeaa: bets 1554 and is all-in
+betsoares: folds 
+Uncalled bet (1554) returned to almostlikeaa
+almostlikeaa collected 1132 from pot
+almostlikeaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 1132 | Rake 0 
+Board [3d 5d 4s]
+Seat 1: Kenny9947 folded before Flop (didn't bet)
+Seat 2: Originallyy (button) folded before Flop (didn't bet)
+Seat 3: Sent1mental (small blind) folded before Flop
+Seat 4: betsoares (big blind) folded on the Flop
+Seat 5: almostlikeaa collected (1132)
+Seat 6: Pridan Igor folded before Flop (didn't bet)
+Seat 7: Schubertarn folded before Flop (didn't bet)
+
+PokerStars Hand #250116596276: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/04/22 16:14:45 ET
+Table '3743747148 1' 7-max Seat #3 is the button
+Seat 1: Kenny9947 (7016 in chips, $25 bounty) 
+Seat 2: Originallyy (15264 in chips, $25 bounty) 
+Seat 3: Sent1mental (5779 in chips, $25 bounty) 
+Seat 4: betsoares (6666 in chips, $25 bounty) 
+Seat 5: almostlikeaa (2686 in chips, $25 bounty) 
+Seat 6: Pridan Igor (7106 in chips, $25 bounty) 
+Seat 7: Schubertarn (7531 in chips, $25 bounty) 
+Kenny9947: posts the ante 16
+Originallyy: posts the ante 16
+Sent1mental: posts the ante 16
+betsoares: posts the ante 16
+almostlikeaa: posts the ante 16
+Pridan Igor: posts the ante 16
+Schubertarn: posts the ante 16
+betsoares: posts small blind 60
+almostlikeaa: posts big blind 120
+*** HOLE CARDS ***
+Pridan Igor: folds 
+Schubertarn: folds 
+Kenny9947: folds 
+Originallyy: raises 180 to 300
+Sent1mental: folds 
+betsoares: folds 
+almostlikeaa: folds 
+Uncalled bet (180) returned to Originallyy
+Originallyy collected 412 from pot
+Originallyy: doesn't show hand 
+*** SUMMARY ***
+Total pot 412 | Rake 0 
+Seat 1: Kenny9947 folded before Flop (didn't bet)
+Seat 2: Originallyy collected (412)
+Seat 3: Sent1mental (button) folded before Flop (didn't bet)
+Seat 4: betsoares (small blind) folded before Flop
+Seat 5: almostlikeaa (big blind) folded before Flop
+Seat 6: Pridan Igor folded before Flop (didn't bet)
+Seat 7: Schubertarn folded before Flop (didn't bet)
+
+PokerStars Hand #250116607557: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/04/22 16:15:17 ET
+Table '3743747148 1' 7-max Seat #4 is the button
+Seat 1: Kenny9947 (7000 in chips, $25 bounty) 
+Seat 2: Originallyy (15540 in chips, $25 bounty) 
+Seat 3: Sent1mental (5763 in chips, $25 bounty) 
+Seat 4: betsoares (6590 in chips, $25 bounty) 
+Seat 5: almostlikeaa (2550 in chips, $25 bounty) 
+Seat 6: Pridan Igor (7090 in chips, $25 bounty) 
+Seat 7: Schubertarn (7515 in chips, $25 bounty) 
+Kenny9947: posts the ante 16
+Originallyy: posts the ante 16
+Sent1mental: posts the ante 16
+betsoares: posts the ante 16
+almostlikeaa: posts the ante 16
+Pridan Igor: posts the ante 16
+Schubertarn: posts the ante 16
+almostlikeaa: posts small blind 60
+Pridan Igor: posts big blind 120
+*** HOLE CARDS ***
+Schubertarn: raises 120 to 240
+Kenny9947: folds 
+Originallyy: folds 
+Sent1mental: folds 
+betsoares: folds 
+almostlikeaa: folds 
+Pridan Igor: calls 120
+*** FLOP *** [2h Jd 3s]
+Pridan Igor: checks 
+Schubertarn: bets 170
+Pridan Igor: calls 170
+*** TURN *** [2h Jd 3s] [Td]
+Pridan Igor: checks 
+Schubertarn: bets 506
+Pridan Igor: calls 506
+*** RIVER *** [2h Jd 3s Td] [8c]
+Pridan Igor: checks 
+Schubertarn: bets 2160
+Pridan Igor: folds 
+Uncalled bet (2160) returned to Schubertarn
+Schubertarn collected 2004 from pot
+Schubertarn: doesn't show hand 
+*** SUMMARY ***
+Total pot 2004 | Rake 0 
+Board [2h Jd 3s Td 8c]
+Seat 1: Kenny9947 folded before Flop (didn't bet)
+Seat 2: Originallyy folded before Flop (didn't bet)
+Seat 3: Sent1mental folded before Flop (didn't bet)
+Seat 4: betsoares (button) folded before Flop (didn't bet)
+Seat 5: almostlikeaa (small blind) folded before Flop
+Seat 6: Pridan Igor (big blind) folded on the River
+Seat 7: Schubertarn collected (2004)
+
+PokerStars Hand #250116646665: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:17:09 ET
+Table '3743747148 1' 7-max Seat #5 is the button
+Seat 1: Kenny9947 (6984 in chips, $25 bounty) 
+Seat 2: Originallyy (15524 in chips, $25 bounty) 
+Seat 3: Sent1mental (5747 in chips, $25 bounty) 
+Seat 4: betsoares (6574 in chips, $25 bounty) 
+Seat 5: almostlikeaa (2474 in chips, $25 bounty) 
+Seat 6: Pridan Igor (6158 in chips, $25 bounty) 
+Seat 7: Schubertarn (8587 in chips, $25 bounty) 
+Kenny9947: posts the ante 20
+Originallyy: posts the ante 20
+Sent1mental: posts the ante 20
+betsoares: posts the ante 20
+almostlikeaa: posts the ante 20
+Pridan Igor: posts the ante 20
+Schubertarn: posts the ante 20
+Pridan Igor: posts small blind 80
+Schubertarn: posts big blind 160
+*** HOLE CARDS ***
+Kenny9947: folds 
+Originallyy: folds 
+Sent1mental: raises 200 to 360
+betsoares: folds 
+almostlikeaa: folds 
+Pridan Igor: raises 920 to 1280
+Schubertarn: folds 
+Sent1mental: raises 4447 to 5727 and is all-in
+Pridan Igor: calls 4447
+*** FLOP *** [Ac 5h 2h]
+*** TURN *** [Ac 5h 2h] [3d]
+*** RIVER *** [Ac 5h 2h 3d] [As]
+*** SHOW DOWN ***
+Pridan Igor: shows [Ks Ad] (three of a kind, Aces)
+Sent1mental: shows [8d 8h] (two pair, Aces and Eights)
+Pridan Igor collected 11754 from pot
+Pridan Igor wins $12.50 for eliminating Sent1mental and their own bounty increases by $12.50 to $37.50
+Sent1mental finished the tournament
+*** SUMMARY ***
+Total pot 11754 | Rake 0 
+Board [Ac 5h 2h 3d As]
+Seat 1: Kenny9947 folded before Flop (didn't bet)
+Seat 2: Originallyy folded before Flop (didn't bet)
+Seat 3: Sent1mental showed [8d 8h] and lost with two pair, Aces and Eights
+Seat 4: betsoares folded before Flop (didn't bet)
+Seat 5: almostlikeaa (button) folded before Flop (didn't bet)
+Seat 6: Pridan Igor (small blind) showed [Ks Ad] and won (11754) with three of a kind, Aces
+Seat 7: Schubertarn (big blind) folded before Flop

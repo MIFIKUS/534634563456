@@ -1,0 +1,2052 @@
+PokerStars Hand #250117141832: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:41:23 ET
+Table '3743747148 5' 7-max Seat #1 is the button
+Seat 1: SvZff (22119 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (28588 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (7849 in chips, $37.50 bounty) 
+Seat 4: blun96don (2808 in chips, $25 bounty) 
+Seat 5: farooo263 (6536 in chips, $25 bounty) 
+Seat 6: mellov (5607 in chips, $25 bounty) 
+Seat 7: Killinfields (22681 in chips, $37.50 bounty) 
+SvZff: posts the ante 40
+4bet_multibet!: posts the ante 40
+VÍTOR DO POSTE: posts the ante 40
+blun96don: posts the ante 40
+farooo263: posts the ante 40
+mellov: posts the ante 40
+Killinfields: posts the ante 40
+4bet_multibet!: posts small blind 150
+VÍTOR DO POSTE: posts big blind 300
+*** HOLE CARDS ***
+blun96don: folds 
+farooo263: folds 
+mellov: raises 300 to 600
+Killinfields: folds 
+SvZff: folds 
+4bet_multibet!: folds 
+VÍTOR DO POSTE: calls 300
+*** FLOP *** [6c Qd Ts]
+VÍTOR DO POSTE: checks 
+mellov: bets 408
+VÍTOR DO POSTE: folds 
+Uncalled bet (408) returned to mellov
+mellov collected 1630 from pot
+mellov: doesn't show hand 
+*** SUMMARY ***
+Total pot 1630 | Rake 0 
+Board [6c Qd Ts]
+Seat 1: SvZff (button) folded before Flop (didn't bet)
+Seat 2: 4bet_multibet! (small blind) folded before Flop
+Seat 3: VÍTOR DO POSTE (big blind) folded on the Flop
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: mellov collected (1630)
+Seat 7: Killinfields folded before Flop (didn't bet)
+
+PokerStars Hand #250117152994: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:41:57 ET
+Table '3743747148 5' 7-max Seat #2 is the button
+Seat 1: SvZff (22079 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (28398 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (7209 in chips, $37.50 bounty) 
+Seat 4: blun96don (2768 in chips, $25 bounty) 
+Seat 5: farooo263 (6496 in chips, $25 bounty) 
+Seat 6: mellov (6597 in chips, $25 bounty) 
+Seat 7: Killinfields (22641 in chips, $37.50 bounty) 
+SvZff: posts the ante 40
+4bet_multibet!: posts the ante 40
+VÍTOR DO POSTE: posts the ante 40
+blun96don: posts the ante 40
+farooo263: posts the ante 40
+mellov: posts the ante 40
+Killinfields: posts the ante 40
+VÍTOR DO POSTE: posts small blind 150
+blun96don: posts big blind 300
+*** HOLE CARDS ***
+farooo263: raises 300 to 600
+mellov: folds 
+Killinfields: folds 
+SvZff: folds 
+4bet_multibet!: folds 
+VÍTOR DO POSTE: folds 
+blun96don: folds 
+Uncalled bet (300) returned to farooo263
+farooo263 collected 1030 from pot
+farooo263: doesn't show hand 
+*** SUMMARY ***
+Total pot 1030 | Rake 0 
+Seat 1: SvZff folded before Flop (didn't bet)
+Seat 2: 4bet_multibet! (button) folded before Flop (didn't bet)
+Seat 3: VÍTOR DO POSTE (small blind) folded before Flop
+Seat 4: blun96don (big blind) folded before Flop
+Seat 5: farooo263 collected (1030)
+Seat 6: mellov folded before Flop (didn't bet)
+Seat 7: Killinfields folded before Flop (didn't bet)
+
+PokerStars Hand #250117159650: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:42:18 ET
+Table '3743747148 5' 7-max Seat #3 is the button
+Seat 1: SvZff (22039 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (28358 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (7019 in chips, $37.50 bounty) 
+Seat 4: blun96don (2428 in chips, $25 bounty) 
+Seat 5: farooo263 (7186 in chips, $25 bounty) 
+Seat 6: mellov (6557 in chips, $25 bounty) 
+Seat 7: Killinfields (22601 in chips, $37.50 bounty) 
+SvZff: posts the ante 40
+4bet_multibet!: posts the ante 40
+VÍTOR DO POSTE: posts the ante 40
+blun96don: posts the ante 40
+farooo263: posts the ante 40
+mellov: posts the ante 40
+Killinfields: posts the ante 40
+blun96don: posts small blind 150
+farooo263: posts big blind 300
+*** HOLE CARDS ***
+mellov: folds 
+Killinfields: folds 
+SvZff: folds 
+4bet_multibet!: raises 399 to 699
+VÍTOR DO POSTE: folds 
+blun96don: calls 549
+farooo263: folds 
+*** FLOP *** [Ks 7h Tc]
+blun96don: checks 
+4bet_multibet!: bets 1775
+blun96don: folds 
+Uncalled bet (1775) returned to 4bet_multibet!
+4bet_multibet! collected 1978 from pot
+4bet_multibet!: doesn't show hand 
+*** SUMMARY ***
+Total pot 1978 | Rake 0 
+Board [Ks 7h Tc]
+Seat 1: SvZff folded before Flop (didn't bet)
+Seat 2: 4bet_multibet! collected (1978)
+Seat 3: VÍTOR DO POSTE (button) folded before Flop (didn't bet)
+Seat 4: blun96don (small blind) folded on the Flop
+Seat 5: farooo263 (big blind) folded before Flop
+Seat 6: mellov folded before Flop (didn't bet)
+Seat 7: Killinfields folded before Flop (didn't bet)
+
+PokerStars Hand #250117170536: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:42:51 ET
+Table '3743747148 5' 7-max Seat #4 is the button
+Seat 1: SvZff (21999 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (29597 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (6979 in chips, $37.50 bounty) 
+Seat 4: blun96don (1689 in chips, $25 bounty) 
+Seat 5: farooo263 (6846 in chips, $25 bounty) 
+Seat 6: mellov (6517 in chips, $25 bounty) 
+Seat 7: Killinfields (22561 in chips, $37.50 bounty) 
+SvZff: posts the ante 40
+4bet_multibet!: posts the ante 40
+VÍTOR DO POSTE: posts the ante 40
+blun96don: posts the ante 40
+farooo263: posts the ante 40
+mellov: posts the ante 40
+Killinfields: posts the ante 40
+farooo263: posts small blind 150
+mellov: posts big blind 300
+*** HOLE CARDS ***
+Killinfields: folds 
+SvZff: folds 
+4bet_multibet!: folds 
+VÍTOR DO POSTE: folds 
+blun96don: raises 1349 to 1649 and is all-in
+farooo263: folds 
+mellov: calls 1349
+*** FLOP *** [Jd Kh 5c]
+*** TURN *** [Jd Kh 5c] [5s]
+*** RIVER *** [Jd Kh 5c 5s] [6d]
+*** SHOW DOWN ***
+mellov: shows [8d 3d] (a pair of Fives)
+blun96don: shows [Qc Ks] (two pair, Kings and Fives)
+blun96don collected 3728 from pot
+*** SUMMARY ***
+Total pot 3728 | Rake 0 
+Board [Jd Kh 5c 5s 6d]
+Seat 1: SvZff folded before Flop (didn't bet)
+Seat 2: 4bet_multibet! folded before Flop (didn't bet)
+Seat 3: VÍTOR DO POSTE folded before Flop (didn't bet)
+Seat 4: blun96don (button) showed [Qc Ks] and won (3728) with two pair, Kings and Fives
+Seat 5: farooo263 (small blind) folded before Flop
+Seat 6: mellov (big blind) showed [8d 3d] and lost with a pair of Fives
+Seat 7: Killinfields folded before Flop (didn't bet)
+
+PokerStars Hand #250117180733: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:43:22 ET
+Table '3743747148 5' 7-max Seat #5 is the button
+Seat 1: SvZff (21959 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (29557 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (6939 in chips, $37.50 bounty) 
+Seat 4: blun96don (3728 in chips, $25 bounty) 
+Seat 5: farooo263 (6656 in chips, $25 bounty) 
+Seat 6: mellov (4828 in chips, $25 bounty) 
+Seat 7: Killinfields (22521 in chips, $37.50 bounty) 
+SvZff: posts the ante 50
+4bet_multibet!: posts the ante 50
+VÍTOR DO POSTE: posts the ante 50
+blun96don: posts the ante 50
+farooo263: posts the ante 50
+mellov: posts the ante 50
+Killinfields: posts the ante 50
+mellov: posts small blind 200
+Killinfields: posts big blind 400
+*** HOLE CARDS ***
+SvZff: raises 400 to 800
+4bet_multibet!: folds 
+VÍTOR DO POSTE: folds 
+blun96don: folds 
+farooo263: calls 800
+mellov: folds 
+Killinfields: calls 400
+*** FLOP *** [7d 6s 5d]
+Killinfields: bets 974
+SvZff: raises 2143 to 3117
+farooo263: folds 
+Killinfields: folds 
+Uncalled bet (2143) returned to SvZff
+SvZff collected 4898 from pot
+SvZff: doesn't show hand 
+*** SUMMARY ***
+Total pot 4898 | Rake 0 
+Board [7d 6s 5d]
+Seat 1: SvZff collected (4898)
+Seat 2: 4bet_multibet! folded before Flop (didn't bet)
+Seat 3: VÍTOR DO POSTE folded before Flop (didn't bet)
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 (button) folded on the Flop
+Seat 6: mellov (small blind) folded before Flop
+Seat 7: Killinfields (big blind) folded on the Flop
+
+PokerStars Hand #250117196522: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:44:10 ET
+Table '3743747148 5' 7-max Seat #6 is the button
+Seat 1: SvZff (25033 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (29507 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (6889 in chips, $37.50 bounty) 
+Seat 4: blun96don (3678 in chips, $25 bounty) 
+Seat 5: farooo263 (5806 in chips, $25 bounty) 
+Seat 6: mellov (4578 in chips, $25 bounty) 
+Seat 7: Killinfields (20697 in chips, $37.50 bounty) 
+SvZff: posts the ante 50
+4bet_multibet!: posts the ante 50
+VÍTOR DO POSTE: posts the ante 50
+blun96don: posts the ante 50
+farooo263: posts the ante 50
+mellov: posts the ante 50
+Killinfields: posts the ante 50
+Killinfields: posts small blind 200
+SvZff: posts big blind 400
+*** HOLE CARDS ***
+4bet_multibet!: raises 456 to 856
+VÍTOR DO POSTE: folds 
+blun96don: folds 
+farooo263: folds 
+mellov: folds 
+Killinfields: raises 2662 to 3518
+SvZff: folds 
+4bet_multibet!: calls 2662
+*** FLOP *** [3d 6h Qs]
+Killinfields: bets 2569
+4bet_multibet!: folds 
+Uncalled bet (2569) returned to Killinfields
+Killinfields collected 7786 from pot
+Killinfields: doesn't show hand 
+*** SUMMARY ***
+Total pot 7786 | Rake 0 
+Board [3d 6h Qs]
+Seat 1: SvZff (big blind) folded before Flop
+Seat 2: 4bet_multibet! folded on the Flop
+Seat 3: VÍTOR DO POSTE folded before Flop (didn't bet)
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: mellov (button) folded before Flop (didn't bet)
+Seat 7: Killinfields (small blind) collected (7786)
+
+PokerStars Hand #250117216259: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:45:10 ET
+Table '3743747148 5' 7-max Seat #7 is the button
+Seat 1: SvZff (24583 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (25939 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (6839 in chips, $37.50 bounty) 
+Seat 4: blun96don (3628 in chips, $25 bounty) 
+Seat 5: farooo263 (5756 in chips, $25 bounty) 
+Seat 6: mellov (4528 in chips, $25 bounty) 
+Seat 7: Killinfields (24915 in chips, $37.50 bounty) 
+SvZff: posts the ante 50
+4bet_multibet!: posts the ante 50
+VÍTOR DO POSTE: posts the ante 50
+blun96don: posts the ante 50
+farooo263: posts the ante 50
+mellov: posts the ante 50
+Killinfields: posts the ante 50
+SvZff: posts small blind 200
+4bet_multibet!: posts big blind 400
+*** HOLE CARDS ***
+VÍTOR DO POSTE: folds 
+blun96don: calls 400
+farooo263: folds 
+mellov: folds 
+Killinfields: folds 
+SvZff: raises 800 to 1200
+4bet_multibet!: folds 
+blun96don: calls 800
+*** FLOP *** [6h 9h 7s]
+SvZff: bets 600
+blun96don: raises 1778 to 2378 and is all-in
+SvZff: calls 1778
+*** TURN *** [6h 9h 7s] [9d]
+*** RIVER *** [6h 9h 7s 9d] [5c]
+*** SHOW DOWN ***
+SvZff: shows [Ac As] (two pair, Aces and Nines)
+blun96don: shows [Kd 8d] (a straight, Five to Nine)
+blun96don collected 7906 from pot
+*** SUMMARY ***
+Total pot 7906 | Rake 0 
+Board [6h 9h 7s 9d 5c]
+Seat 1: SvZff (small blind) showed [Ac As] and lost with two pair, Aces and Nines
+Seat 2: 4bet_multibet! (big blind) folded before Flop
+Seat 3: VÍTOR DO POSTE folded before Flop (didn't bet)
+Seat 4: blun96don showed [Kd 8d] and won (7906) with a straight, Five to Nine
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: mellov folded before Flop (didn't bet)
+Seat 7: Killinfields (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250117238804: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:46:18 ET
+Table '3743747148 5' 7-max Seat #1 is the button
+Seat 1: SvZff (20955 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (25489 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (6789 in chips, $37.50 bounty) 
+Seat 4: blun96don (7906 in chips, $25 bounty) 
+Seat 5: farooo263 (5706 in chips, $25 bounty) 
+Seat 6: mellov (4478 in chips, $25 bounty) 
+Seat 7: Killinfields (24865 in chips, $37.50 bounty) 
+SvZff: posts the ante 50
+4bet_multibet!: posts the ante 50
+VÍTOR DO POSTE: posts the ante 50
+blun96don: posts the ante 50
+farooo263: posts the ante 50
+mellov: posts the ante 50
+Killinfields: posts the ante 50
+4bet_multibet!: posts small blind 200
+VÍTOR DO POSTE: posts big blind 400
+*** HOLE CARDS ***
+blun96don: folds 
+farooo263: folds 
+mellov: folds 
+Killinfields: folds 
+SvZff: folds 
+4bet_multibet!: calls 200
+VÍTOR DO POSTE: raises 800 to 1200
+4bet_multibet!: folds 
+Uncalled bet (800) returned to VÍTOR DO POSTE
+VÍTOR DO POSTE collected 1150 from pot
+VÍTOR DO POSTE: doesn't show hand 
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Seat 1: SvZff (button) folded before Flop (didn't bet)
+Seat 2: 4bet_multibet! (small blind) folded before Flop
+Seat 3: VÍTOR DO POSTE (big blind) collected (1150)
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: mellov folded before Flop (didn't bet)
+Seat 7: Killinfields folded before Flop (didn't bet)
+
+PokerStars Hand #250117246998: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:46:43 ET
+Table '3743747148 5' 7-max Seat #2 is the button
+Seat 1: SvZff (20905 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (25039 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (7489 in chips, $37.50 bounty) 
+Seat 4: blun96don (7856 in chips, $25 bounty) 
+Seat 5: farooo263 (5656 in chips, $25 bounty) 
+Seat 6: mellov (4428 in chips, $25 bounty) 
+Seat 7: Killinfields (24815 in chips, $37.50 bounty) 
+SvZff: posts the ante 50
+4bet_multibet!: posts the ante 50
+VÍTOR DO POSTE: posts the ante 50
+blun96don: posts the ante 50
+farooo263: posts the ante 50
+mellov: posts the ante 50
+Killinfields: posts the ante 50
+VÍTOR DO POSTE: posts small blind 200
+blun96don: posts big blind 400
+*** HOLE CARDS ***
+farooo263: folds 
+mellov: folds 
+Killinfields: folds 
+SvZff: raises 400 to 800
+4bet_multibet!: folds 
+VÍTOR DO POSTE: folds 
+blun96don: folds 
+Uncalled bet (400) returned to SvZff
+SvZff collected 1350 from pot
+SvZff: doesn't show hand 
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Seat 1: SvZff collected (1350)
+Seat 2: 4bet_multibet! (button) folded before Flop (didn't bet)
+Seat 3: VÍTOR DO POSTE (small blind) folded before Flop
+Seat 4: blun96don (big blind) folded before Flop
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: mellov folded before Flop (didn't bet)
+Seat 7: Killinfields folded before Flop (didn't bet)
+
+PokerStars Hand #250117257156: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:47:13 ET
+Table '3743747148 5' 7-max Seat #3 is the button
+Seat 1: SvZff (21805 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (24989 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (7239 in chips, $37.50 bounty) 
+Seat 4: blun96don (7406 in chips, $25 bounty) 
+Seat 5: farooo263 (5606 in chips, $25 bounty) 
+Seat 6: mellov (4378 in chips, $25 bounty) 
+Seat 7: Killinfields (24765 in chips, $37.50 bounty) 
+SvZff: posts the ante 50
+4bet_multibet!: posts the ante 50
+VÍTOR DO POSTE: posts the ante 50
+blun96don: posts the ante 50
+farooo263: posts the ante 50
+mellov: posts the ante 50
+Killinfields: posts the ante 50
+blun96don: posts small blind 200
+farooo263: posts big blind 400
+*** HOLE CARDS ***
+mellov: folds 
+Killinfields: raises 440 to 840
+SvZff: folds 
+4bet_multibet!: folds 
+VÍTOR DO POSTE: folds 
+blun96don: folds 
+farooo263: folds 
+Uncalled bet (440) returned to Killinfields
+Killinfields collected 1350 from pot
+Killinfields: doesn't show hand 
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Seat 1: SvZff folded before Flop (didn't bet)
+Seat 2: 4bet_multibet! folded before Flop (didn't bet)
+Seat 3: VÍTOR DO POSTE (button) folded before Flop (didn't bet)
+Seat 4: blun96don (small blind) folded before Flop
+Seat 5: farooo263 (big blind) folded before Flop
+Seat 6: mellov folded before Flop (didn't bet)
+Seat 7: Killinfields collected (1350)
+
+PokerStars Hand #250117268077: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:47:47 ET
+Table '3743747148 5' 7-max Seat #4 is the button
+Seat 1: SvZff (21755 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (24939 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (7189 in chips, $37.50 bounty) 
+Seat 4: blun96don (7156 in chips, $25 bounty) 
+Seat 5: farooo263 (5156 in chips, $25 bounty) 
+Seat 6: mellov (4328 in chips, $25 bounty) 
+Seat 7: Killinfields (25665 in chips, $37.50 bounty) 
+SvZff: posts the ante 50
+4bet_multibet!: posts the ante 50
+VÍTOR DO POSTE: posts the ante 50
+blun96don: posts the ante 50
+farooo263: posts the ante 50
+mellov: posts the ante 50
+Killinfields: posts the ante 50
+farooo263: posts small blind 200
+mellov: posts big blind 400
+*** HOLE CARDS ***
+Killinfields: folds 
+SvZff: folds 
+4bet_multibet!: folds 
+VÍTOR DO POSTE: folds 
+blun96don: folds 
+farooo263: raises 4706 to 5106 and is all-in
+mellov: folds 
+Uncalled bet (4706) returned to farooo263
+farooo263 collected 1150 from pot
+farooo263: doesn't show hand 
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Seat 1: SvZff folded before Flop (didn't bet)
+Seat 2: 4bet_multibet! folded before Flop (didn't bet)
+Seat 3: VÍTOR DO POSTE folded before Flop (didn't bet)
+Seat 4: blun96don (button) folded before Flop (didn't bet)
+Seat 5: farooo263 (small blind) collected (1150)
+Seat 6: mellov (big blind) folded before Flop
+Seat 7: Killinfields folded before Flop (didn't bet)
+
+PokerStars Hand #250117277786: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:48:16 ET
+Table '3743747148 5' 7-max Seat #5 is the button
+Seat 1: SvZff (21705 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (24889 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (7139 in chips, $37.50 bounty) 
+Seat 4: blun96don (7106 in chips, $25 bounty) 
+Seat 5: farooo263 (5856 in chips, $25 bounty) 
+Seat 6: mellov (3878 in chips, $25 bounty) 
+Seat 7: Killinfields (25615 in chips, $37.50 bounty) 
+SvZff: posts the ante 50
+4bet_multibet!: posts the ante 50
+VÍTOR DO POSTE: posts the ante 50
+blun96don: posts the ante 50
+farooo263: posts the ante 50
+mellov: posts the ante 50
+Killinfields: posts the ante 50
+mellov: posts small blind 200
+Killinfields: posts big blind 400
+*** HOLE CARDS ***
+SvZff: folds 
+4bet_multibet!: folds 
+VÍTOR DO POSTE: folds 
+blun96don: folds 
+farooo263: folds 
+mellov: raises 3428 to 3828 and is all-in
+Killinfields: calls 3428
+*** FLOP *** [9c Td Ts]
+*** TURN *** [9c Td Ts] [7d]
+*** RIVER *** [9c Td Ts 7d] [2d]
+*** SHOW DOWN ***
+mellov: shows [Qc 4h] (a pair of Tens)
+Killinfields: shows [Kc 4c] (a pair of Tens - King kicker)
+Killinfields collected 8006 from pot
+Killinfields wins $12.50 for eliminating mellov and their own bounty increases by $12.50 to $50
+mellov finished the tournament
+*** SUMMARY ***
+Total pot 8006 | Rake 0 
+Board [9c Td Ts 7d 2d]
+Seat 1: SvZff folded before Flop (didn't bet)
+Seat 2: 4bet_multibet! folded before Flop (didn't bet)
+Seat 3: VÍTOR DO POSTE folded before Flop (didn't bet)
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 (button) folded before Flop (didn't bet)
+Seat 6: mellov (small blind) showed [Qc 4h] and lost with a pair of Tens
+Seat 7: Killinfields (big blind) showed [Kc 4c] and won (8006) with a pair of Tens
+
+PokerStars Hand #250117286456: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:48:43 ET
+Table '3743747148 5' 7-max Seat #7 is the button
+Seat 1: SvZff (21655 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (24839 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (7089 in chips, $37.50 bounty) 
+Seat 4: blun96don (7056 in chips, $25 bounty) 
+Seat 5: farooo263 (5806 in chips, $25 bounty) 
+Seat 7: Killinfields (29743 in chips, $50 bounty) 
+SvZff: posts the ante 50
+4bet_multibet!: posts the ante 50
+VÍTOR DO POSTE: posts the ante 50
+blun96don: posts the ante 50
+farooo263: posts the ante 50
+Killinfields: posts the ante 50
+SvZff: posts small blind 200
+4bet_multibet!: posts big blind 400
+*** HOLE CARDS ***
+VÍTOR DO POSTE: raises 416 to 816
+blun96don: folds 
+farooo263: folds 
+Killinfields: folds 
+SvZff: folds 
+4bet_multibet!: folds 
+Uncalled bet (416) returned to VÍTOR DO POSTE
+VÍTOR DO POSTE collected 1300 from pot
+VÍTOR DO POSTE: doesn't show hand 
+Gutlaufen is disconnected 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 1: SvZff (small blind) folded before Flop
+Seat 2: 4bet_multibet! (big blind) folded before Flop
+Seat 3: VÍTOR DO POSTE collected (1300)
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 7: Killinfields (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250117294578: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:49:08 ET
+Table '3743747148 5' 7-max Seat #1 is the button
+Seat 1: SvZff (21405 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (24389 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (7939 in chips, $37.50 bounty) 
+Seat 4: blun96don (7006 in chips, $25 bounty) 
+Seat 5: farooo263 (5756 in chips, $25 bounty) 
+Seat 6: Gutlaufen (16197 in chips, $25 bounty) 
+Seat 7: Killinfields (29693 in chips, $50 bounty) 
+SvZff: posts the ante 50
+4bet_multibet!: posts the ante 50
+VÍTOR DO POSTE: posts the ante 50
+blun96don: posts the ante 50
+farooo263: posts the ante 50
+Gutlaufen: posts the ante 50
+Killinfields: posts the ante 50
+4bet_multibet!: posts small blind 200
+VÍTOR DO POSTE: posts big blind 400
+*** HOLE CARDS ***
+blun96don: folds 
+farooo263: folds 
+Gutlaufen: folds 
+Killinfields: folds 
+SvZff: folds 
+4bet_multibet!: calls 200
+VÍTOR DO POSTE: raises 800 to 1200
+4bet_multibet!: calls 800
+*** FLOP *** [Kd 7s Ad]
+4bet_multibet!: checks 
+VÍTOR DO POSTE: bets 688
+4bet_multibet!: calls 688
+*** TURN *** [Kd 7s Ad] [Td]
+4bet_multibet!: checks 
+VÍTOR DO POSTE: bets 1362
+4bet_multibet!: raises 4790 to 6152
+VÍTOR DO POSTE: folds 
+Uncalled bet (4790) returned to 4bet_multibet!
+4bet_multibet! collected 6850 from pot
+4bet_multibet!: doesn't show hand 
+*** SUMMARY ***
+Total pot 6850 | Rake 0 
+Board [Kd 7s Ad Td]
+Seat 1: SvZff (button) folded before Flop (didn't bet)
+Seat 2: 4bet_multibet! (small blind) collected (6850)
+Seat 3: VÍTOR DO POSTE (big blind) folded on the Turn
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: Gutlaufen folded before Flop (didn't bet)
+Seat 7: Killinfields folded before Flop (didn't bet)
+
+PokerStars Hand #250117311811: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:50:01 ET
+Table '3743747148 5' 7-max Seat #2 is the button
+Seat 1: SvZff (21355 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (27939 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (4639 in chips, $37.50 bounty) 
+Seat 4: blun96don (6956 in chips, $25 bounty) 
+Seat 5: farooo263 (5706 in chips, $25 bounty) 
+Seat 6: Gutlaufen (16147 in chips, $25 bounty) 
+Seat 7: Killinfields (29643 in chips, $50 bounty) 
+SvZff: posts the ante 50
+4bet_multibet!: posts the ante 50
+VÍTOR DO POSTE: posts the ante 50
+blun96don: posts the ante 50
+farooo263: posts the ante 50
+Gutlaufen: posts the ante 50
+Killinfields: posts the ante 50
+VÍTOR DO POSTE: posts small blind 200
+blun96don: posts big blind 400
+*** HOLE CARDS ***
+farooo263: raises 400 to 800
+Gutlaufen: raises 1200 to 2000
+Killinfields: folds 
+SvZff: folds 
+4bet_multibet!: folds 
+VÍTOR DO POSTE: folds 
+blun96don: folds 
+farooo263: raises 3656 to 5656 and is all-in
+Gutlaufen: calls 3656
+*** FLOP *** [2s 4d Th]
+*** TURN *** [2s 4d Th] [5s]
+*** RIVER *** [2s 4d Th 5s] [8c]
+*** SHOW DOWN ***
+farooo263: shows [Qh Qc] (a pair of Queens)
+Gutlaufen: shows [Kd As] (high card Ace)
+farooo263 collected 12262 from pot
+*** SUMMARY ***
+Total pot 12262 | Rake 0 
+Board [2s 4d Th 5s 8c]
+Seat 1: SvZff folded before Flop (didn't bet)
+Seat 2: 4bet_multibet! (button) folded before Flop (didn't bet)
+Seat 3: VÍTOR DO POSTE (small blind) folded before Flop
+Seat 4: blun96don (big blind) folded before Flop
+Seat 5: farooo263 showed [Qh Qc] and won (12262) with a pair of Queens
+Seat 6: Gutlaufen showed [Kd As] and lost with high card Ace
+Seat 7: Killinfields folded before Flop (didn't bet)
+
+PokerStars Hand #250117325069: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/04/22 16:50:42 ET
+Table '3743747148 5' 7-max Seat #3 is the button
+Seat 1: SvZff (21305 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (27889 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (4389 in chips, $37.50 bounty) 
+Seat 4: blun96don (6506 in chips, $25 bounty) 
+Seat 5: farooo263 (12262 in chips, $25 bounty) 
+Seat 6: Gutlaufen (10441 in chips, $25 bounty) 
+Seat 7: Killinfields (29593 in chips, $50 bounty) 
+SvZff: posts the ante 60
+4bet_multibet!: posts the ante 60
+VÍTOR DO POSTE: posts the ante 60
+blun96don: posts the ante 60
+farooo263: posts the ante 60
+Gutlaufen: posts the ante 60
+Killinfields: posts the ante 60
+blun96don: posts small blind 250
+farooo263: posts big blind 500
+*** HOLE CARDS ***
+Gutlaufen: folds 
+Killinfields: folds 
+SvZff: folds 
+4bet_multibet!: folds 
+VÍTOR DO POSTE: folds 
+blun96don: folds 
+Uncalled bet (250) returned to farooo263
+farooo263 collected 920 from pot
+farooo263: doesn't show hand 
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Seat 1: SvZff folded before Flop (didn't bet)
+Seat 2: 4bet_multibet! folded before Flop (didn't bet)
+Seat 3: VÍTOR DO POSTE (button) folded before Flop (didn't bet)
+Seat 4: blun96don (small blind) folded before Flop
+Seat 5: farooo263 (big blind) collected (920)
+Seat 6: Gutlaufen folded before Flop (didn't bet)
+Seat 7: Killinfields folded before Flop (didn't bet)
+
+PokerStars Hand #250117331256: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/04/22 16:51:02 ET
+Table '3743747148 5' 7-max Seat #4 is the button
+Seat 1: SvZff (21245 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (27829 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (4329 in chips, $37.50 bounty) 
+Seat 4: blun96don (6196 in chips, $25 bounty) 
+Seat 5: farooo263 (12872 in chips, $25 bounty) 
+Seat 6: Gutlaufen (10381 in chips, $25 bounty) 
+Seat 7: Killinfields (29533 in chips, $50 bounty) 
+SvZff: posts the ante 60
+4bet_multibet!: posts the ante 60
+VÍTOR DO POSTE: posts the ante 60
+blun96don: posts the ante 60
+farooo263: posts the ante 60
+Gutlaufen: posts the ante 60
+Killinfields: posts the ante 60
+farooo263: posts small blind 250
+Gutlaufen: posts big blind 500
+*** HOLE CARDS ***
+Killinfields: raises 550 to 1050
+SvZff: folds 
+4bet_multibet!: folds 
+VÍTOR DO POSTE: folds 
+blun96don: folds 
+farooo263: folds 
+Gutlaufen: calls 550
+*** FLOP *** [8c Qs 7s]
+Gutlaufen: checks 
+Killinfields: bets 664
+Gutlaufen: folds 
+Uncalled bet (664) returned to Killinfields
+Killinfields collected 2770 from pot
+Killinfields: doesn't show hand 
+*** SUMMARY ***
+Total pot 2770 | Rake 0 
+Board [8c Qs 7s]
+Seat 1: SvZff folded before Flop (didn't bet)
+Seat 2: 4bet_multibet! folded before Flop (didn't bet)
+Seat 3: VÍTOR DO POSTE folded before Flop (didn't bet)
+Seat 4: blun96don (button) folded before Flop (didn't bet)
+Seat 5: farooo263 (small blind) folded before Flop
+Seat 6: Gutlaufen (big blind) folded on the Flop
+Seat 7: Killinfields collected (2770)
+
+PokerStars Hand #250117343769: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/04/22 16:51:40 ET
+Table '3743747148 5' 7-max Seat #5 is the button
+Seat 1: SvZff (21185 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (27769 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (4269 in chips, $37.50 bounty) 
+Seat 4: blun96don (6136 in chips, $25 bounty) 
+Seat 5: farooo263 (12562 in chips, $25 bounty) 
+Seat 6: Gutlaufen (9271 in chips, $25 bounty) 
+Seat 7: Killinfields (31193 in chips, $50 bounty) 
+SvZff: posts the ante 60
+4bet_multibet!: posts the ante 60
+VÍTOR DO POSTE: posts the ante 60
+blun96don: posts the ante 60
+farooo263: posts the ante 60
+Gutlaufen: posts the ante 60
+Killinfields: posts the ante 60
+Gutlaufen: posts small blind 250
+Killinfields: posts big blind 500
+*** HOLE CARDS ***
+SvZff: folds 
+4bet_multibet!: raises 570 to 1070
+VÍTOR DO POSTE: folds 
+blun96don: folds 
+farooo263: folds 
+Gutlaufen: folds 
+Killinfields: calls 570
+*** FLOP *** [9d 4d 8d]
+Killinfields: checks 
+4bet_multibet!: bets 1012
+Killinfields: raises 2659 to 3671
+4bet_multibet!: calls 2659
+*** TURN *** [9d 4d 8d] [2h]
+Killinfields: bets 5584
+4bet_multibet!: folds 
+Uncalled bet (5584) returned to Killinfields
+Killinfields collected 10152 from pot
+Killinfields: doesn't show hand 
+*** SUMMARY ***
+Total pot 10152 | Rake 0 
+Board [9d 4d 8d 2h]
+Seat 1: SvZff folded before Flop (didn't bet)
+Seat 2: 4bet_multibet! folded on the Turn
+Seat 3: VÍTOR DO POSTE folded before Flop (didn't bet)
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 (button) folded before Flop (didn't bet)
+Seat 6: Gutlaufen (small blind) folded before Flop
+Seat 7: Killinfields (big blind) collected (10152)
+
+PokerStars Hand #250117372817: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/04/22 16:53:12 ET
+Table '3743747148 5' 7-max Seat #6 is the button
+Seat 1: SvZff (21125 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (22968 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (4209 in chips, $37.50 bounty) 
+Seat 4: blun96don (6076 in chips, $25 bounty) 
+Seat 5: farooo263 (12502 in chips, $25 bounty) 
+Seat 6: Gutlaufen (8961 in chips, $25 bounty) 
+Seat 7: Killinfields (36544 in chips, $50 bounty) 
+SvZff: posts the ante 60
+4bet_multibet!: posts the ante 60
+VÍTOR DO POSTE: posts the ante 60
+blun96don: posts the ante 60
+farooo263: posts the ante 60
+Gutlaufen: posts the ante 60
+Killinfields: posts the ante 60
+Killinfields: posts small blind 250
+SvZff: posts big blind 500
+*** HOLE CARDS ***
+4bet_multibet!: folds 
+VÍTOR DO POSTE: folds 
+blun96don: folds 
+farooo263: folds 
+Gutlaufen: folds 
+Killinfields: folds 
+Uncalled bet (250) returned to SvZff
+SvZff collected 920 from pot
+SvZff: doesn't show hand 
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Seat 1: SvZff (big blind) collected (920)
+Seat 2: 4bet_multibet! folded before Flop (didn't bet)
+Seat 3: VÍTOR DO POSTE folded before Flop (didn't bet)
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: Gutlaufen (button) folded before Flop (didn't bet)
+Seat 7: Killinfields (small blind) folded before Flop
+
+PokerStars Hand #250117382217: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/04/22 16:53:41 ET
+Table '3743747148 5' 7-max Seat #7 is the button
+Seat 1: SvZff (21735 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (22908 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (4149 in chips, $37.50 bounty) 
+Seat 4: blun96don (6016 in chips, $25 bounty) 
+Seat 5: farooo263 (12442 in chips, $25 bounty) 
+Seat 6: Gutlaufen (8901 in chips, $25 bounty) 
+Seat 7: Killinfields (36234 in chips, $50 bounty) 
+SvZff: posts the ante 60
+4bet_multibet!: posts the ante 60
+VÍTOR DO POSTE: posts the ante 60
+blun96don: posts the ante 60
+farooo263: posts the ante 60
+Gutlaufen: posts the ante 60
+Killinfields: posts the ante 60
+SvZff: posts small blind 250
+4bet_multibet!: posts big blind 500
+*** HOLE CARDS ***
+VÍTOR DO POSTE: folds 
+blun96don: calls 500
+farooo263: folds 
+Gutlaufen: folds 
+Killinfields: raises 1200 to 1700
+SvZff: folds 
+4bet_multibet!: folds 
+blun96don: raises 4256 to 5956 and is all-in
+Killinfields: calls 4256
+*** FLOP *** [8c Js 8d]
+*** TURN *** [8c Js 8d] [Td]
+*** RIVER *** [8c Js 8d Td] [6c]
+*** SHOW DOWN ***
+blun96don: shows [Ts Th] (a full house, Tens full of Eights)
+Killinfields: shows [5h As] (a pair of Eights)
+blun96don collected 13082 from pot
+*** SUMMARY ***
+Total pot 13082 | Rake 0 
+Board [8c Js 8d Td 6c]
+Seat 1: SvZff (small blind) folded before Flop
+Seat 2: 4bet_multibet! (big blind) folded before Flop
+Seat 3: VÍTOR DO POSTE folded before Flop (didn't bet)
+Seat 4: blun96don showed [Ts Th] and won (13082) with a full house, Tens full of Eights
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: Gutlaufen folded before Flop (didn't bet)
+Seat 7: Killinfields (button) showed [5h As] and lost with a pair of Eights
+
+PokerStars Hand #250117396110: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/04/22 16:54:24 ET
+Table '3743747148 5' 7-max Seat #1 is the button
+Seat 1: SvZff (21425 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (22348 in chips, $50 bounty) 
+Seat 3: VÍTOR DO POSTE (4089 in chips, $37.50 bounty) 
+Seat 4: blun96don (13082 in chips, $25 bounty) 
+Seat 5: farooo263 (12382 in chips, $25 bounty) 
+Seat 6: Gutlaufen (8841 in chips, $25 bounty) 
+Seat 7: Killinfields (30218 in chips, $50 bounty) 
+SvZff: posts the ante 60
+4bet_multibet!: posts the ante 60
+VÍTOR DO POSTE: posts the ante 60
+blun96don: posts the ante 60
+farooo263: posts the ante 60
+Gutlaufen: posts the ante 60
+Killinfields: posts the ante 60
+4bet_multibet!: posts small blind 250
+VÍTOR DO POSTE: posts big blind 500
+*** HOLE CARDS ***
+blun96don: calls 500
+farooo263: folds 
+Gutlaufen: folds 
+Killinfields: calls 500
+SvZff: folds 
+4bet_multibet!: calls 250
+VÍTOR DO POSTE: checks 
+*** FLOP *** [2d 9d 3d]
+4bet_multibet!: checks 
+VÍTOR DO POSTE: checks 
+blun96don: checks 
+Killinfields: checks 
+*** TURN *** [2d 9d 3d] [9h]
+4bet_multibet!: checks 
+VÍTOR DO POSTE: bets 1500
+blun96don: raises 5420 to 6920
+Killinfields: folds 
+4bet_multibet!: folds 
+VÍTOR DO POSTE: calls 2029 and is all-in
+Uncalled bet (3391) returned to blun96don
+*** RIVER *** [2d 9d 3d 9h] [6s]
+*** SHOW DOWN ***
+VÍTOR DO POSTE: shows [Js 9c] (three of a kind, Nines)
+blun96don: shows [Qd 8d] (a flush, Queen high)
+blun96don collected 9478 from pot
+blun96don wins $18.75 for eliminating VÍTOR DO POSTE and their own bounty increases by $18.75 to $43.75
+VÍTOR DO POSTE finished the tournament
+*** SUMMARY ***
+Total pot 9478 | Rake 0 
+Board [2d 9d 3d 9h 6s]
+Seat 1: SvZff (button) folded before Flop (didn't bet)
+Seat 2: 4bet_multibet! (small blind) folded on the Turn
+Seat 3: VÍTOR DO POSTE (big blind) showed [Js 9c] and lost with three of a kind, Nines
+Seat 4: blun96don showed [Qd 8d] and won (9478) with a flush, Queen high
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: Gutlaufen folded before Flop (didn't bet)
+Seat 7: Killinfields folded on the Turn
+
+PokerStars Hand #250117501189: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/04/22 17:01:29 ET
+Table '3743747148 5' 7-max Seat #2 is the button
+Seat 1: SvZff (21365 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (21788 in chips, $50 bounty) 
+Seat 3: vodar (7000 in chips) out of hand (moved from another table into small blind)
+Seat 4: blun96don (18471 in chips, $43.75 bounty) 
+Seat 5: farooo263 (12322 in chips, $25 bounty) 
+Seat 6: Gutlaufen (8781 in chips, $25 bounty) 
+Seat 7: Killinfields (29658 in chips, $50 bounty) 
+vodar will be allowed to play after the button
+SvZff: posts the ante 60
+4bet_multibet!: posts the ante 60
+blun96don: posts the ante 60
+farooo263: posts the ante 60
+Gutlaufen: posts the ante 60
+Killinfields: posts the ante 60
+blun96don: posts small blind 250
+farooo263: posts big blind 500
+*** HOLE CARDS ***
+Gutlaufen: raises 550 to 1050
+Killinfields: raises 1800 to 2850
+SvZff: raises 18455 to 21305 and is all-in
+4bet_multibet!: folds 
+blun96don: folds 
+farooo263: folds 
+Gutlaufen: folds 
+Killinfields: folds 
+Uncalled bet (18455) returned to SvZff
+SvZff collected 7860 from pot
+SvZff: doesn't show hand 
+*** SUMMARY ***
+Total pot 7860 | Rake 0 
+Seat 1: SvZff collected (7860)
+Seat 2: 4bet_multibet! (button) folded before Flop (didn't bet)
+Seat 4: blun96don (small blind) folded before Flop
+Seat 5: farooo263 (big blind) folded before Flop
+Seat 6: Gutlaufen folded before Flop
+Seat 7: Killinfields folded before Flop
+
+PokerStars Hand #250117515784: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/04/22 17:02:16 ET
+Table '3743747148 5' 7-max Seat #4 is the button
+Seat 1: SvZff (26315 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (21728 in chips, $50 bounty) 
+Seat 3: vodar (7000 in chips, $25 bounty) 
+Seat 4: blun96don (18161 in chips, $43.75 bounty) 
+Seat 5: farooo263 (11762 in chips, $25 bounty) 
+Seat 6: Gutlaufen (7671 in chips, $25 bounty) 
+Seat 7: Killinfields (26748 in chips, $50 bounty) 
+SvZff: posts the ante 60
+4bet_multibet!: posts the ante 60
+vodar: posts the ante 60
+blun96don: posts the ante 60
+farooo263: posts the ante 60
+Gutlaufen: posts the ante 60
+Killinfields: posts the ante 60
+farooo263: posts small blind 250
+Gutlaufen: posts big blind 500
+*** HOLE CARDS ***
+Killinfields: raises 550 to 1050
+SvZff: folds 
+4bet_multibet!: folds 
+vodar: folds 
+blun96don: calls 1050
+farooo263: folds 
+Gutlaufen: raises 6561 to 7611 and is all-in
+Killinfields: folds 
+blun96don: folds 
+Uncalled bet (6561) returned to Gutlaufen
+Gutlaufen collected 3820 from pot
+Gutlaufen: doesn't show hand 
+*** SUMMARY ***
+Total pot 3820 | Rake 0 
+Seat 1: SvZff folded before Flop (didn't bet)
+Seat 2: 4bet_multibet! folded before Flop (didn't bet)
+Seat 3: vodar folded before Flop (didn't bet)
+Seat 4: blun96don (button) folded before Flop
+Seat 5: farooo263 (small blind) folded before Flop
+Seat 6: Gutlaufen (big blind) collected (3820)
+Seat 7: Killinfields folded before Flop
+
+PokerStars Hand #250117527105: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/04/22 17:02:51 ET
+Table '3743747148 5' 7-max Seat #5 is the button
+Seat 1: SvZff (26255 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (21668 in chips, $50 bounty) 
+Seat 3: vodar (6940 in chips, $25 bounty) 
+Seat 4: blun96don (17051 in chips, $43.75 bounty) 
+Seat 5: farooo263 (11452 in chips, $25 bounty) 
+Seat 6: Gutlaufen (10381 in chips, $25 bounty) 
+Seat 7: Killinfields (25638 in chips, $50 bounty) 
+SvZff: posts the ante 60
+4bet_multibet!: posts the ante 60
+vodar: posts the ante 60
+blun96don: posts the ante 60
+farooo263: posts the ante 60
+Gutlaufen: posts the ante 60
+Killinfields: posts the ante 60
+Gutlaufen: posts small blind 250
+Killinfields: posts big blind 500
+*** HOLE CARDS ***
+SvZff: raises 500 to 1000
+4bet_multibet!: folds 
+vodar: folds 
+blun96don: folds 
+farooo263: folds 
+Gutlaufen: folds 
+Killinfields: raises 3170 to 4170
+SvZff: raises 22025 to 26195 and is all-in
+Killinfields: calls 21408 and is all-in
+Uncalled bet (617) returned to SvZff
+*** FLOP *** [3d 9d 9c]
+*** TURN *** [3d 9d 9c] [3h]
+*** RIVER *** [3d 9d 9c 3h] [8d]
+*** SHOW DOWN ***
+Killinfields: shows [Kd Ad] (a flush, Ace high)
+SvZff: shows [As Ks] (two pair, Nines and Threes)
+Killinfields collected 51826 from pot
+*** SUMMARY ***
+Total pot 51826 | Rake 0 
+Board [3d 9d 9c 3h 8d]
+Seat 1: SvZff showed [As Ks] and lost with two pair, Nines and Threes
+Seat 2: 4bet_multibet! folded before Flop (didn't bet)
+Seat 3: vodar folded before Flop (didn't bet)
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 (button) folded before Flop (didn't bet)
+Seat 6: Gutlaufen (small blind) folded before Flop
+Seat 7: Killinfields (big blind) showed [Kd Ad] and won (51826) with a flush, Ace high
+
+PokerStars Hand #250117541606: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/04/22 17:03:37 ET
+Table '3743747148 5' 7-max Seat #6 is the button
+Seat 1: SvZff (617 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (21608 in chips, $50 bounty) 
+Seat 3: vodar (6880 in chips, $25 bounty) 
+Seat 4: blun96don (16991 in chips, $43.75 bounty) 
+Seat 5: farooo263 (11392 in chips, $25 bounty) 
+Seat 6: Gutlaufen (10071 in chips, $25 bounty) 
+Seat 7: Killinfields (51826 in chips, $50 bounty) 
+SvZff: posts the ante 60
+4bet_multibet!: posts the ante 60
+vodar: posts the ante 60
+blun96don: posts the ante 60
+farooo263: posts the ante 60
+Gutlaufen: posts the ante 60
+Killinfields: posts the ante 60
+Killinfields: posts small blind 250
+SvZff: posts big blind 500
+*** HOLE CARDS ***
+4bet_multibet!: folds 
+vodar: folds 
+blun96don: calls 500
+farooo263: calls 500
+Gutlaufen: folds 
+Killinfields: raises 2420 to 2920
+SvZff: calls 57 and is all-in
+blun96don: folds 
+farooo263: calls 2420
+*** FLOP *** [3s Jd Jh]
+Killinfields: bets 1915
+farooo263: calls 1915
+*** TURN *** [3s Jd Jh] [Kc]
+Killinfields: checks 
+farooo263: bets 6497 and is all-in
+Killinfields: calls 6497
+*** RIVER *** [3s Jd Jh Kc] [4h]
+*** SHOW DOWN ***
+Killinfields: shows [Qd Qs] (two pair, Queens and Jacks)
+farooo263: shows [Ks Th] (two pair, Kings and Jacks)
+farooo263 collected 21550 from side pot
+SvZff: shows [9c 2d] (a pair of Jacks)
+farooo263 collected 2591 from main pot
+farooo263 wins $18.75 for eliminating SvZff and their own bounty increases by $18.75 to $43.75
+SvZff finished the tournament
+*** SUMMARY ***
+Total pot 24141 Main pot 2591. Side pot 21550. | Rake 0 
+Board [3s Jd Jh Kc 4h]
+Seat 1: SvZff (big blind) showed [9c 2d] and lost with a pair of Jacks
+Seat 2: 4bet_multibet! folded before Flop (didn't bet)
+Seat 3: vodar folded before Flop (didn't bet)
+Seat 4: blun96don folded before Flop
+Seat 5: farooo263 showed [Ks Th] and won (24141) with two pair, Kings and Jacks
+Seat 6: Gutlaufen (button) folded before Flop (didn't bet)
+Seat 7: Killinfields (small blind) showed [Qd Qs] and lost with two pair, Queens and Jacks
+
+PokerStars Hand #250117570306: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/04/22 17:05:05 ET
+Table '3743747148 5' 7-max Seat #7 is the button
+Seat 2: 4bet_multibet! (21548 in chips, $50 bounty) 
+Seat 3: vodar (6820 in chips, $25 bounty) 
+Seat 4: blun96don (16431 in chips, $43.75 bounty) 
+Seat 5: farooo263 (24141 in chips, $43.75 bounty) 
+Seat 6: Gutlaufen (10011 in chips, $25 bounty) 
+Seat 7: Killinfields (40434 in chips, $50 bounty) 
+4bet_multibet!: posts the ante 80
+vodar: posts the ante 80
+blun96don: posts the ante 80
+farooo263: posts the ante 80
+Gutlaufen: posts the ante 80
+Killinfields: posts the ante 80
+4bet_multibet!: posts small blind 300
+vodar: posts big blind 600
+*** HOLE CARDS ***
+blun96don: folds 
+farooo263: folds 
+Gutlaufen: raises 660 to 1260
+Killinfields: calls 1260
+4bet_multibet!: folds 
+R0HR is disconnected 
+vodar: raises 5480 to 6740 and is all-in
+Gutlaufen: folds 
+Killinfields: calls 5480
+*** FLOP *** [5c Jd Ts]
+*** TURN *** [5c Jd Ts] [4d]
+*** RIVER *** [5c Jd Ts 4d] [6s]
+*** SHOW DOWN ***
+vodar: shows [Ah Ks] (high card Ace)
+Killinfields: shows [Jh Qd] (a pair of Jacks)
+Killinfields collected 15520 from pot
+Killinfields wins $12.50 for eliminating vodar and their own bounty increases by $12.50 to $62.50
+vodar finished the tournament
+*** SUMMARY ***
+Total pot 15520 | Rake 0 
+Board [5c Jd Ts 4d 6s]
+Seat 2: 4bet_multibet! (small blind) folded before Flop
+Seat 3: vodar (big blind) showed [Ah Ks] and lost with high card Ace
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: Gutlaufen folded before Flop
+Seat 7: Killinfields (button) showed [Jh Qd] and won (15520) with a pair of Jacks
+
+PokerStars Hand #250117584734: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/04/22 17:05:49 ET
+Table '3743747148 5' 7-max Seat #2 is the button
+Seat 1: R0HR (12848 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (21168 in chips, $50 bounty) 
+Seat 4: blun96don (16351 in chips, $43.75 bounty) 
+Seat 5: farooo263 (24061 in chips, $43.75 bounty) 
+Seat 6: Gutlaufen (8671 in chips, $25 bounty) 
+Seat 7: Killinfields (49134 in chips, $62.50 bounty) 
+R0HR: posts the ante 80
+4bet_multibet!: posts the ante 80
+blun96don: posts the ante 80
+farooo263: posts the ante 80
+Gutlaufen: posts the ante 80
+Killinfields: posts the ante 80
+blun96don: posts small blind 300
+farooo263: posts big blind 600
+*** HOLE CARDS ***
+Gutlaufen: folds 
+Killinfields: folds 
+R0HR: raises 660 to 1260
+Don Raffaell is disconnected 
+4bet_multibet!: raises 2340 to 3600
+blun96don: folds 
+farooo263: folds 
+R0HR: folds 
+Uncalled bet (2340) returned to 4bet_multibet!
+4bet_multibet! collected 3900 from pot
+4bet_multibet!: doesn't show hand 
+*** SUMMARY ***
+Total pot 3900 | Rake 0 
+Seat 1: R0HR folded before Flop
+Seat 2: 4bet_multibet! (button) collected (3900)
+Seat 4: blun96don (small blind) folded before Flop
+Seat 5: farooo263 (big blind) folded before Flop
+Seat 6: Gutlaufen folded before Flop (didn't bet)
+Seat 7: Killinfields folded before Flop (didn't bet)
+
+PokerStars Hand #250117610998: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/04/22 17:07:10 ET
+Table '3743747148 5' 7-max Seat #4 is the button
+Seat 1: R0HR (11508 in chips, $37.50 bounty) 
+Seat 2: 4bet_multibet! (23728 in chips, $50 bounty) 
+Seat 3: Don Raffaell (11271 in chips, $37.50 bounty) 
+Seat 4: blun96don (15971 in chips, $43.75 bounty) 
+Seat 5: farooo263 (23381 in chips, $43.75 bounty) 
+Seat 6: Gutlaufen (8591 in chips, $25 bounty) 
+Seat 7: Killinfields (49054 in chips, $62.50 bounty) 
+R0HR: posts the ante 80
+4bet_multibet!: posts the ante 80
+Don Raffaell: posts the ante 80
+blun96don: posts the ante 80
+farooo263: posts the ante 80
+Gutlaufen: posts the ante 80
+Killinfields: posts the ante 80
+farooo263: posts small blind 300
+Gutlaufen: posts big blind 600
+*** HOLE CARDS ***
+Killinfields: raises 660 to 1260
+R0HR: folds 
+4bet_multibet!: folds 
+Don Raffaell: folds 
+blun96don: calls 1260
+farooo263: folds 
+Gutlaufen: folds 
+*** FLOP *** [4h 6c 5h]
+Killinfields: checks 
+blun96don: checks 
+*** TURN *** [4h 6c 5h] [9s]
+Killinfields: bets 2189
+blun96don: folds 
+Uncalled bet (2189) returned to Killinfields
+Killinfields collected 3980 from pot
+Killinfields: doesn't show hand 
+*** SUMMARY ***
+Total pot 3980 | Rake 0 
+Board [4h 6c 5h 9s]
+Seat 1: R0HR folded before Flop (didn't bet)
+Seat 2: 4bet_multibet! folded before Flop (didn't bet)
+Seat 3: Don Raffaell folded before Flop (didn't bet)
+Seat 4: blun96don (button) folded on the Turn
+Seat 5: farooo263 (small blind) folded before Flop
+Seat 6: Gutlaufen (big blind) folded before Flop
+Seat 7: Killinfields collected (3980)
+
+PokerStars Hand #250117629388: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/04/22 17:08:06 ET
+Table '3743747148 5' 7-max Seat #5 is the button
+Seat 1: R0HR (11428 in chips, $37.50 bounty) 
+Seat 3: Don Raffaell (11191 in chips, $37.50 bounty) 
+Seat 4: blun96don (14631 in chips, $43.75 bounty) 
+Seat 5: farooo263 (23001 in chips, $43.75 bounty) 
+Seat 6: Gutlaufen (7911 in chips, $25 bounty) 
+Seat 7: Killinfields (51694 in chips, $62.50 bounty) 
+R0HR: posts the ante 80
+Don Raffaell: posts the ante 80
+blun96don: posts the ante 80
+farooo263: posts the ante 80
+Gutlaufen: posts the ante 80
+Killinfields: posts the ante 80
+Gutlaufen: posts small blind 300
+Killinfields: posts big blind 600
+*** HOLE CARDS ***
+R0HR: folds 
+Don Raffaell: folds 
+blun96don: folds 
+farooo263: folds 
+776659992 is disconnected 
+Gutlaufen: raises 7231 to 7831 and is all-in
+Killinfields: folds 
+Uncalled bet (7231) returned to Gutlaufen
+Gutlaufen collected 1680 from pot
+Gutlaufen: doesn't show hand 
+*** SUMMARY ***
+Total pot 1680 | Rake 0 
+Seat 1: R0HR folded before Flop (didn't bet)
+Seat 3: Don Raffaell folded before Flop (didn't bet)
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 (button) folded before Flop (didn't bet)
+Seat 6: Gutlaufen (small blind) collected (1680)
+Seat 7: Killinfields (big blind) folded before Flop
+
+PokerStars Hand #250117635556: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/04/22 17:08:25 ET
+Table '3743747148 5' 7-max Seat #6 is the button
+Seat 1: R0HR (11348 in chips, $37.50 bounty) 
+Seat 2: 776659992 (17220 in chips, $50 bounty) 
+Seat 3: Don Raffaell (11111 in chips, $37.50 bounty) 
+Seat 4: blun96don (14551 in chips, $43.75 bounty) 
+Seat 5: farooo263 (22921 in chips, $43.75 bounty) 
+Seat 6: Gutlaufen (8911 in chips, $25 bounty) 
+Seat 7: Killinfields (51014 in chips, $62.50 bounty) 
+R0HR: posts the ante 80
+776659992: posts the ante 80
+Don Raffaell: posts the ante 80
+blun96don: posts the ante 80
+farooo263: posts the ante 80
+Gutlaufen: posts the ante 80
+Killinfields: posts the ante 80
+Killinfields: posts small blind 300
+R0HR: posts big blind 600
+*** HOLE CARDS ***
+776659992: folds 
+Don Raffaell: folds 
+blun96don: folds 
+farooo263: folds 
+Gutlaufen: raises 660 to 1260
+Killinfields: folds 
+R0HR: calls 660
+*** FLOP *** [Qs 9c Td]
+R0HR: checks 
+Gutlaufen: bets 600
+R0HR: calls 600
+*** TURN *** [Qs 9c Td] [6c]
+R0HR: checks 
+Gutlaufen: checks 
+*** RIVER *** [Qs 9c Td 6c] [2h]
+R0HR: bets 9000
+Gutlaufen: calls 6971 and is all-in
+Uncalled bet (2029) returned to R0HR
+*** SHOW DOWN ***
+R0HR: shows [5c Kd] (high card King)
+Gutlaufen: shows [Ts Kh] (a pair of Tens)
+Gutlaufen collected 18522 from pot
+*** SUMMARY ***
+Total pot 18522 | Rake 0 
+Board [Qs 9c Td 6c 2h]
+Seat 1: R0HR (big blind) showed [5c Kd] and lost with high card King
+Seat 2: 776659992 folded before Flop (didn't bet)
+Seat 3: Don Raffaell folded before Flop (didn't bet)
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: Gutlaufen (button) showed [Ts Kh] and won (18522) with a pair of Tens
+Seat 7: Killinfields (small blind) folded before Flop
+
+PokerStars Hand #250117662909: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/04/22 17:09:48 ET
+Table '3743747148 5' 7-max Seat #7 is the button
+Seat 1: R0HR (2437 in chips, $37.50 bounty) 
+Seat 2: 776659992 (17140 in chips, $50 bounty) 
+Seat 3: Don Raffaell (11031 in chips, $37.50 bounty) 
+Seat 4: blun96don (14471 in chips, $43.75 bounty) 
+Seat 5: farooo263 (22841 in chips, $43.75 bounty) 
+Seat 6: Gutlaufen (18522 in chips, $25 bounty) 
+Seat 7: Killinfields (50634 in chips, $62.50 bounty) 
+R0HR: posts the ante 80
+776659992: posts the ante 80
+Don Raffaell: posts the ante 80
+blun96don: posts the ante 80
+farooo263: posts the ante 80
+Gutlaufen: posts the ante 80
+Killinfields: posts the ante 80
+R0HR: posts small blind 300
+776659992: posts big blind 600
+*** HOLE CARDS ***
+Don Raffaell: raises 660 to 1260
+blun96don: folds 
+farooo263: folds 
+Gutlaufen: calls 1260
+Killinfields: folds 
+R0HR: folds 
+776659992: calls 660
+*** FLOP *** [2s Qh 6h]
+776659992: checks 
+Don Raffaell: bets 1560
+Gutlaufen: calls 1560
+776659992: folds 
+*** TURN *** [2s Qh 6h] [8d]
+Don Raffaell: checks 
+Gutlaufen: bets 1262
+Don Raffaell: folds 
+Uncalled bet (1262) returned to Gutlaufen
+Gutlaufen collected 7760 from pot
+Gutlaufen: doesn't show hand 
+*** SUMMARY ***
+Total pot 7760 | Rake 0 
+Board [2s Qh 6h 8d]
+Seat 1: R0HR (small blind) folded before Flop
+Seat 2: 776659992 (big blind) folded on the Flop
+Seat 3: Don Raffaell folded on the Turn
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: Gutlaufen collected (7760)
+Seat 7: Killinfields (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250117685950: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XII (350/700) - 2024/04/22 17:10:58 ET
+Table '3743747148 5' 7-max Seat #1 is the button
+Seat 1: R0HR (2057 in chips, $37.50 bounty) 
+Seat 2: 776659992 (15800 in chips, $50 bounty) 
+Seat 3: Don Raffaell (8131 in chips, $37.50 bounty) 
+Seat 4: blun96don (14391 in chips, $43.75 bounty) 
+Seat 5: farooo263 (22761 in chips, $43.75 bounty) 
+Seat 6: Gutlaufen (23382 in chips, $25 bounty) 
+Seat 7: Killinfields (50554 in chips, $62.50 bounty) 
+R0HR: posts the ante 90
+776659992: posts the ante 90
+Don Raffaell: posts the ante 90
+blun96don: posts the ante 90
+farooo263: posts the ante 90
+Gutlaufen: posts the ante 90
+Killinfields: posts the ante 90
+776659992: posts small blind 350
+Don Raffaell: posts big blind 700
+*** HOLE CARDS ***
+blun96don: folds 
+farooo263: folds 
+Gutlaufen: raises 770 to 1470
+Killinfields: calls 1470
+R0HR: folds 
+776659992: folds 
+Don Raffaell: folds 
+*** FLOP *** [Qs Js 4h]
+Gutlaufen: checks 
+Killinfields: checks 
+*** TURN *** [Qs Js 4h] [5c]
+Gutlaufen: checks 
+Killinfields: bets 1525
+Gutlaufen: folds 
+Uncalled bet (1525) returned to Killinfields
+Killinfields collected 4620 from pot
+Killinfields: doesn't show hand 
+*** SUMMARY ***
+Total pot 4620 | Rake 0 
+Board [Qs Js 4h 5c]
+Seat 1: R0HR (button) folded before Flop (didn't bet)
+Seat 2: 776659992 (small blind) folded before Flop
+Seat 3: Don Raffaell (big blind) folded before Flop
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: Gutlaufen folded on the Turn
+Seat 7: Killinfields collected (4620)
+
+PokerStars Hand #250117714001: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XII (350/700) - 2024/04/22 17:12:23 ET
+Table '3743747148 5' 7-max Seat #2 is the button
+Seat 1: R0HR (1967 in chips, $37.50 bounty) 
+Seat 2: 776659992 (15360 in chips, $50 bounty) 
+Seat 3: Don Raffaell (7341 in chips, $37.50 bounty) 
+Seat 4: blun96don (14301 in chips, $43.75 bounty) 
+Seat 5: farooo263 (22671 in chips, $43.75 bounty) 
+Seat 6: Gutlaufen (21822 in chips, $25 bounty) 
+Seat 7: Killinfields (53614 in chips, $62.50 bounty) 
+R0HR: posts the ante 90
+776659992: posts the ante 90
+Don Raffaell: posts the ante 90
+blun96don: posts the ante 90
+farooo263: posts the ante 90
+Gutlaufen: posts the ante 90
+Killinfields: posts the ante 90
+Don Raffaell: posts small blind 350
+blun96don: posts big blind 700
+*** HOLE CARDS ***
+farooo263: folds 
+Gutlaufen: folds 
+Killinfields: folds 
+R0HR: folds 
+776659992: folds 
+Don Raffaell: folds 
+Uncalled bet (350) returned to blun96don
+blun96don collected 1330 from pot
+*** SUMMARY ***
+Total pot 1330 | Rake 0 
+Seat 1: R0HR folded before Flop (didn't bet)
+Seat 2: 776659992 (button) folded before Flop (didn't bet)
+Seat 3: Don Raffaell (small blind) folded before Flop
+Seat 4: blun96don (big blind) collected (1330)
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: Gutlaufen folded before Flop (didn't bet)
+Seat 7: Killinfields folded before Flop (didn't bet)
+
+PokerStars Hand #250117721608: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XII (350/700) - 2024/04/22 17:12:47 ET
+Table '3743747148 5' 7-max Seat #3 is the button
+Seat 1: R0HR (1877 in chips, $37.50 bounty) 
+Seat 2: 776659992 (15270 in chips, $50 bounty) 
+Seat 3: Don Raffaell (6901 in chips, $37.50 bounty) 
+Seat 4: blun96don (15191 in chips, $43.75 bounty) 
+Seat 5: farooo263 (22581 in chips, $43.75 bounty) 
+Seat 6: Gutlaufen (21732 in chips, $25 bounty) 
+Seat 7: Killinfields (53524 in chips, $62.50 bounty) 
+R0HR: posts the ante 90
+776659992: posts the ante 90
+Don Raffaell: posts the ante 90
+blun96don: posts the ante 90
+farooo263: posts the ante 90
+Gutlaufen: posts the ante 90
+Killinfields: posts the ante 90
+blun96don: posts small blind 350
+farooo263: posts big blind 700
+*** HOLE CARDS ***
+Gutlaufen: folds 
+Killinfields: raises 770 to 1470
+R0HR: folds 
+776659992: calls 1470
+Don Raffaell: folds 
+blun96don: calls 1120
+farooo263: folds 
+*** FLOP *** [9c 8c 8s]
+blun96don: checks 
+Killinfields: checks 
+776659992: bets 1400
+blun96don: calls 1400
+Killinfields: folds 
+*** TURN *** [9c 8c 8s] [Ad]
+blun96don: checks 
+776659992: bets 1400
+blun96don: raises 10831 to 12231 and is all-in
+776659992: calls 10831
+*** RIVER *** [9c 8c 8s Ad] [5d]
+*** SHOW DOWN ***
+blun96don: shows [Td 8d] (three of a kind, Eights)
+776659992: shows [6c Ac] (two pair, Aces and Eights)
+blun96don collected 33002 from pot
+*** SUMMARY ***
+Total pot 33002 | Rake 0 
+Board [9c 8c 8s Ad 5d]
+Seat 1: R0HR folded before Flop (didn't bet)
+Seat 2: 776659992 showed [6c Ac] and lost with two pair, Aces and Eights
+Seat 3: Don Raffaell (button) folded before Flop (didn't bet)
+Seat 4: blun96don (small blind) showed [Td 8d] and won (33002) with three of a kind, Eights
+Seat 5: farooo263 (big blind) folded before Flop
+Seat 6: Gutlaufen folded before Flop (didn't bet)
+Seat 7: Killinfields folded on the Flop
+
+PokerStars Hand #250117745953: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XII (350/700) - 2024/04/22 17:14:01 ET
+Table '3743747148 5' 7-max Seat #4 is the button
+Seat 1: R0HR (1787 in chips, $37.50 bounty) 
+Seat 2: 776659992 (79 in chips, $50 bounty) 
+Seat 3: Don Raffaell (6811 in chips, $37.50 bounty) 
+Seat 4: blun96don (33002 in chips, $43.75 bounty) 
+Seat 5: farooo263 (21791 in chips, $43.75 bounty) 
+Seat 6: Gutlaufen (21642 in chips, $25 bounty) 
+Seat 7: Killinfields (51964 in chips, $62.50 bounty) 
+R0HR: posts the ante 90
+776659992: posts the ante 79 and is all-in
+Don Raffaell: posts the ante 90
+blun96don: posts the ante 90
+farooo263: posts the ante 90
+Gutlaufen: posts the ante 90
+Killinfields: posts the ante 90
+farooo263: posts small blind 350
+Gutlaufen: posts big blind 700
+*** HOLE CARDS ***
+Killinfields: calls 700
+R0HR: raises 997 to 1697 and is all-in
+Don Raffaell: raises 5024 to 6721 and is all-in
+blun96don: folds 
+farooo263: folds 
+Gutlaufen: folds 
+Killinfields: calls 6021
+*** FLOP *** [5c 2h 7c]
+*** TURN *** [5c 2h 7c] [8s]
+*** RIVER *** [5c 2h 7c 8s] [Ah]
+*** SHOW DOWN ***
+Killinfields: shows [Ts 8h] (a pair of Eights)
+Don Raffaell: shows [7d Kh] (a pair of Sevens)
+Killinfields collected 10048 from side pot-2 
+R0HR: shows [As Th] (a pair of Aces)
+R0HR collected 6207 from side pot-1 
+776659992: shows [2d 5d] (two pair, Fives and Deuces)
+776659992 collected 553 from main pot
+Killinfields wins $18.75 for eliminating Don Raffaell and their own bounty increases by $18.75 to $81.25
+Don Raffaell finished the tournament in 170th place
+*** SUMMARY ***
+Total pot 16808 Main pot 553. Side pot-1 6207. Side pot-2 10048. | Rake 0 
+Board [5c 2h 7c 8s Ah]
+Seat 1: R0HR showed [As Th] and won (6207) with a pair of Aces
+Seat 2: 776659992 showed [2d 5d] and won (553) with two pair, Fives and Deuces
+Seat 3: Don Raffaell showed [7d Kh] and lost with a pair of Sevens
+Seat 4: blun96don (button) folded before Flop (didn't bet)
+Seat 5: farooo263 (small blind) folded before Flop
+Seat 6: Gutlaufen (big blind) folded before Flop
+Seat 7: Killinfields showed [Ts 8h] and won (10048) with a pair of Eights
+
+PokerStars Hand #250117759655: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XII (350/700) - 2024/04/22 17:14:42 ET
+Table '3743747148 5' 7-max Seat #5 is the button
+Seat 1: R0HR (6207 in chips, $37.50 bounty) 
+Seat 2: 776659992 (553 in chips, $50 bounty) 
+Seat 4: blun96don (32912 in chips, $43.75 bounty) 
+Seat 5: farooo263 (21351 in chips, $43.75 bounty) 
+Seat 6: Gutlaufen (20852 in chips, $25 bounty) 
+Seat 7: Killinfields (55201 in chips, $81.25 bounty) 
+R0HR: posts the ante 90
+776659992: posts the ante 90
+blun96don: posts the ante 90
+farooo263: posts the ante 90
+Gutlaufen: posts the ante 90
+Killinfields: posts the ante 90
+Gutlaufen: posts small blind 350
+Killinfields: posts big blind 700
+*** HOLE CARDS ***
+R0HR: folds 
+776659992: calls 463 and is all-in
+1426395 is disconnected 
+blun96don: raises 32122 to 32822 and is all-in
+farooo263: folds 
+Gutlaufen: folds 
+Killinfields: folds 
+Uncalled bet (32122) returned to blun96don
+*** FLOP *** [3d Kc 6h]
+*** TURN *** [3d Kc 6h] [Tc]
+*** RIVER *** [3d Kc 6h Tc] [Qh]
+*** SHOW DOWN ***
+blun96don: shows [9c Ah] (high card Ace)
+blun96don collected 474 from side pot
+776659992: shows [4d 9d] (high card King)
+blun96don collected 2279 from main pot
+blun96don wins $25 for eliminating 776659992 and their own bounty increases by $25 to $68.75
+776659992 finished the tournament in 168th place
+*** SUMMARY ***
+Total pot 2753 Main pot 2279. Side pot 474. | Rake 0 
+Board [3d Kc 6h Tc Qh]
+Seat 1: R0HR folded before Flop (didn't bet)
+Seat 2: 776659992 showed [4d 9d] and lost with high card King
+Seat 4: blun96don showed [9c Ah] and won (2753) with high card Ace
+Seat 5: farooo263 (button) folded before Flop (didn't bet)
+Seat 6: Gutlaufen (small blind) folded before Flop
+Seat 7: Killinfields (big blind) folded before Flop
+
+PokerStars Hand #250117770557: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XII (350/700) - 2024/04/22 17:15:15 ET
+Table '3743747148 5' 7-max Seat #6 is the button
+Seat 1: R0HR (6117 in chips, $37.50 bounty) 
+Seat 3: 1426395 (63213 in chips, $106.25 bounty) 
+Seat 4: blun96don (34875 in chips, $68.75 bounty) 
+Seat 5: farooo263 (21261 in chips, $43.75 bounty) 
+Seat 6: Gutlaufen (20412 in chips, $25 bounty) 
+Seat 7: Killinfields (54411 in chips, $81.25 bounty) 
+R0HR: posts the ante 90
+1426395: posts the ante 90
+blun96don: posts the ante 90
+farooo263: posts the ante 90
+Gutlaufen: posts the ante 90
+Killinfields: posts the ante 90
+Killinfields: posts small blind 350
+R0HR: posts big blind 700
+*** HOLE CARDS ***
+1426395: folds 
+blun96don: folds 
+farooo263: raises 1400 to 2100
+Gutlaufen: folds 
+Killinfields: calls 1750
+R0HR: folds 
+*** FLOP *** [4d Jd Kh]
+Killinfields: checks 
+farooo263: checks 
+*** TURN *** [4d Jd Kh] [8h]
+Killinfields: bets 5090
+low elo noob is disconnected 
+farooo263: calls 5090
+*** RIVER *** [4d Jd Kh 8h] [5s]
+Killinfields: bets 14920
+farooo263: folds 
+Uncalled bet (14920) returned to Killinfields
+Killinfields collected 15620 from pot
+Killinfields: doesn't show hand 
+*** SUMMARY ***
+Total pot 15620 | Rake 0 
+Board [4d Jd Kh 8h 5s]
+Seat 1: R0HR (big blind) folded before Flop
+Seat 3: 1426395 folded before Flop (didn't bet)
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 folded on the River
+Seat 6: Gutlaufen (button) folded before Flop (didn't bet)
+Seat 7: Killinfields (small blind) collected (15620)
+
+PokerStars Hand #250117806095: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XII (350/700) - 2024/04/22 17:17:04 ET
+Table '3743747148 5' 7-max Seat #7 is the button
+Seat 1: R0HR (5327 in chips, $37.50 bounty) 
+Seat 2: low elo noob (32808 in chips, $62.50 bounty) 
+Seat 3: 1426395 (63123 in chips, $106.25 bounty) 
+Seat 4: blun96don (34785 in chips, $68.75 bounty) 
+Seat 5: farooo263 (13981 in chips, $43.75 bounty) 
+Seat 6: Gutlaufen (20322 in chips, $25 bounty) 
+Seat 7: Killinfields (62751 in chips, $81.25 bounty) 
+R0HR: posts the ante 90
+low elo noob: posts the ante 90
+1426395: posts the ante 90
+blun96don: posts the ante 90
+farooo263: posts the ante 90
+Gutlaufen: posts the ante 90
+Killinfields: posts the ante 90
+R0HR: posts small blind 350
+low elo noob: posts big blind 700
+*** HOLE CARDS ***
+1426395: folds 
+blun96don: folds 
+farooo263: folds 
+Gutlaufen: raises 770 to 1470
+Killinfields: folds 
+R0HR: folds 
+low elo noob: calls 770
+*** FLOP *** [7h 8d 2d]
+low elo noob: checks 
+Gutlaufen: bets 1294
+low elo noob: raises 2500 to 3794
+Gutlaufen: raises 4498 to 8292
+low elo noob: calls 4498
+*** TURN *** [7h 8d 2d] [5c]
+low elo noob: bets 22956 and is all-in
+Gutlaufen: calls 10470 and is all-in
+Uncalled bet (12486) returned to low elo noob
+*** RIVER *** [7h 8d 2d 5c] [8h]
+*** SHOW DOWN ***
+low elo noob: shows [8c 5s] (a full house, Eights full of Fives)
+Gutlaufen: shows [9d Td] (a pair of Eights)
+low elo noob collected 41444 from pot
+low elo noob wins $12.50 for eliminating Gutlaufen and their own bounty increases by $12.50 to $75
+Gutlaufen finished the tournament in 153rd place
+*** SUMMARY ***
+Total pot 41444 | Rake 0 
+Board [7h 8d 2d 5c 8h]
+Seat 1: R0HR (small blind) folded before Flop
+Seat 2: low elo noob (big blind) showed [8c 5s] and won (41444) with a full house, Eights full of Fives
+Seat 3: 1426395 folded before Flop (didn't bet)
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: Gutlaufen showed [9d Td] and lost with a pair of Eights
+Seat 7: Killinfields (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250117832904: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XIII (400/800) - 2024/04/22 17:18:26 ET
+Table '3743747148 5' 7-max Seat #1 is the button
+Seat 1: R0HR (4887 in chips, $37.50 bounty) 
+Seat 2: low elo noob (53930 in chips, $75 bounty) 
+Seat 3: 1426395 (63033 in chips, $106.25 bounty) 
+Seat 4: blun96don (34695 in chips, $68.75 bounty) 
+Seat 5: farooo263 (13891 in chips, $43.75 bounty) 
+Seat 7: Killinfields (62661 in chips, $81.25 bounty) 
+R0HR: posts the ante 100
+low elo noob: posts the ante 100
+1426395: posts the ante 100
+blun96don: posts the ante 100
+farooo263: posts the ante 100
+Killinfields: posts the ante 100
+low elo noob: posts small blind 400
+1426395: posts big blind 800
+*** HOLE CARDS ***
+blun96don: calls 800
+farooo263: folds 
+Killinfields: folds 
+R0HR: folds 
+low elo noob: calls 400
+1426395: checks 
+*** FLOP *** [3c 9c 5h]
+low elo noob: checks 
+1426395: checks 
+blun96don: bets 1600
+low elo noob: folds 
+1426395: raises 4000 to 5600
+blun96don: calls 4000
+*** TURN *** [3c 9c 5h] [Js]
+1426395: bets 4000
+blun96don: calls 4000
+*** RIVER *** [3c 9c 5h Js] [Tc]
+1426395: checks 
+blun96don: bets 9600
+1426395: folds 
+Uncalled bet (9600) returned to blun96don
+blun96don collected 22200 from pot
+*** SUMMARY ***
+Total pot 22200 | Rake 0 
+Board [3c 9c 5h Js Tc]
+Seat 1: R0HR (button) folded before Flop (didn't bet)
+Seat 2: low elo noob (small blind) folded on the Flop
+Seat 3: 1426395 (big blind) folded on the River
+Seat 4: blun96don collected (22200)
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 7: Killinfields folded before Flop (didn't bet)
+
+PokerStars Hand #250117858516: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XIII (400/800) - 2024/04/22 17:19:44 ET
+Table '3743747148 5' 7-max Seat #2 is the button
+Seat 1: R0HR (4787 in chips, $37.50 bounty) 
+Seat 2: low elo noob (53030 in chips, $75 bounty) 
+Seat 3: 1426395 (52533 in chips, $106.25 bounty) 
+Seat 4: blun96don (46395 in chips, $68.75 bounty) 
+Seat 5: farooo263 (13791 in chips, $43.75 bounty) 
+Seat 7: Killinfields (62561 in chips, $81.25 bounty) 
+R0HR: posts the ante 100
+low elo noob: posts the ante 100
+1426395: posts the ante 100
+blun96don: posts the ante 100
+farooo263: posts the ante 100
+Killinfields: posts the ante 100
+1426395: posts small blind 400
+blun96don: posts big blind 800
+*** HOLE CARDS ***
+farooo263: folds 
+Killinfields: raises 880 to 1680
+R0HR: folds 
+low elo noob: folds 
+1426395: folds 
+blun96don: calls 880
+*** FLOP *** [6h Ad 3h]
+blun96don: checks 
+Killinfields: bets 2398
+blun96don: calls 2398
+*** TURN *** [6h Ad 3h] [8c]
+blun96don: checks 
+Killinfields: bets 9156
+blun96don: folds 
+Uncalled bet (9156) returned to Killinfields
+Killinfields collected 9156 from pot
+Killinfields: doesn't show hand 
+*** SUMMARY ***
+Total pot 9156 | Rake 0 
+Board [6h Ad 3h 8c]
+Seat 1: R0HR folded before Flop (didn't bet)
+Seat 2: low elo noob (button) folded before Flop (didn't bet)
+Seat 3: 1426395 (small blind) folded before Flop
+Seat 4: blun96don (big blind) folded on the Turn
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 7: Killinfields collected (9156)
+
+PokerStars Hand #250117883352: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XIII (400/800) - 2024/04/22 17:21:01 ET
+Table '3743747148 5' 7-max Seat #3 is the button
+Seat 1: R0HR (4687 in chips, $37.50 bounty) 
+Seat 2: low elo noob (52930 in chips, $75 bounty) 
+Seat 3: 1426395 (52033 in chips, $106.25 bounty) 
+Seat 4: blun96don (42217 in chips, $68.75 bounty) 
+Seat 5: farooo263 (13691 in chips, $43.75 bounty) 
+Seat 7: Killinfields (67539 in chips, $81.25 bounty) 
+R0HR: posts the ante 100
+low elo noob: posts the ante 100
+1426395: posts the ante 100
+blun96don: posts the ante 100
+farooo263: posts the ante 100
+Killinfields: posts the ante 100
+blun96don: posts small blind 400
+farooo263: posts big blind 800
+*** HOLE CARDS ***
+Killinfields: raises 880 to 1680
+R0HR: folds 
+low elo noob: folds 
+1426395: folds 
+blun96don: folds 
+farooo263: calls 880
+*** FLOP *** [Js 7d 3s]
+farooo263: checks 
+tutuca1987 is disconnected 
+Killinfields: bets 1198
+farooo263: folds 
+Uncalled bet (1198) returned to Killinfields
+Killinfields collected 4360 from pot
+Killinfields: doesn't show hand 
+*** SUMMARY ***
+Total pot 4360 | Rake 0 
+Board [Js 7d 3s]
+Seat 1: R0HR folded before Flop (didn't bet)
+Seat 2: low elo noob folded before Flop (didn't bet)
+Seat 3: 1426395 (button) folded before Flop (didn't bet)
+Seat 4: blun96don (small blind) folded before Flop
+Seat 5: farooo263 (big blind) folded on the Flop
+Seat 7: Killinfields collected (4360)
+
+PokerStars Hand #250117895376: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XIII (400/800) - 2024/04/22 17:21:38 ET
+Table '3743747148 5' 7-max Seat #4 is the button
+Seat 1: R0HR (4587 in chips, $37.50 bounty) 
+Seat 2: low elo noob (52830 in chips, $75 bounty) 
+Seat 3: 1426395 (51933 in chips, $106.25 bounty) 
+Seat 4: blun96don (41717 in chips, $68.75 bounty) 
+Seat 5: farooo263 (11911 in chips, $43.75 bounty) 
+Seat 6: tutuca1987 (4957 in chips, $37.50 bounty) 
+Seat 7: Killinfields (70119 in chips, $81.25 bounty) 
+R0HR: posts the ante 100
+low elo noob: posts the ante 100
+1426395: posts the ante 100
+blun96don: posts the ante 100
+farooo263: posts the ante 100
+tutuca1987: posts the ante 100
+Killinfields: posts the ante 100
+farooo263: posts small blind 400
+tutuca1987: posts big blind 800
+*** HOLE CARDS ***
+Killinfields: raises 880 to 1680
+R0HR: folds 
+low elo noob: folds 
+1426395: folds 
+blun96don: calls 1680
+farooo263: folds 
+tutuca1987: raises 3177 to 4857 and is all-in
+Killinfields: raises 3991 to 8848
+blun96don: folds 
+Uncalled bet (3991) returned to Killinfields
+*** FLOP *** [Js Ad 5c]
+*** TURN *** [Js Ad 5c] [4s]
+*** RIVER *** [Js Ad 5c 4s] [7h]
+*** SHOW DOWN ***
+tutuca1987: shows [Jh Jc] (three of a kind, Jacks)
+Killinfields: shows [8h 9c] (high card Ace)
+tutuca1987 collected 12494 from pot
+*** SUMMARY ***
+Total pot 12494 | Rake 0 
+Board [Js Ad 5c 4s 7h]
+Seat 1: R0HR folded before Flop (didn't bet)
+Seat 2: low elo noob folded before Flop (didn't bet)
+Seat 3: 1426395 folded before Flop (didn't bet)
+Seat 4: blun96don (button) folded before Flop
+Seat 5: farooo263 (small blind) folded before Flop
+Seat 6: tutuca1987 (big blind) showed [Jh Jc] and won (12494) with three of a kind, Jacks
+Seat 7: Killinfields showed [8h 9c] and lost with high card Ace
+
+PokerStars Hand #250117911291: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XIII (400/800) - 2024/04/22 17:22:27 ET
+Table '3743747148 5' 7-max Seat #5 is the button
+Seat 1: R0HR (4487 in chips, $37.50 bounty) 
+Seat 2: low elo noob (52730 in chips, $75 bounty) 
+Seat 3: 1426395 (51833 in chips, $106.25 bounty) 
+Seat 4: blun96don (39937 in chips, $68.75 bounty) 
+Seat 5: farooo263 (11411 in chips, $43.75 bounty) 
+Seat 6: tutuca1987 (12494 in chips, $37.50 bounty) 
+Seat 7: Killinfields (65162 in chips, $81.25 bounty) 
+R0HR: posts the ante 100
+low elo noob: posts the ante 100
+1426395: posts the ante 100
+blun96don: posts the ante 100
+farooo263: posts the ante 100
+tutuca1987: posts the ante 100
+Killinfields: posts the ante 100
+tutuca1987: posts small blind 400
+Killinfields: posts big blind 800
+*** HOLE CARDS ***
+R0HR: raises 3587 to 4387 and is all-in
+low elo noob: raises 48243 to 52630 and is all-in
+1426395: folds 
+blun96don: calls 39837 and is all-in
+farooo263: folds 
+tutuca1987: folds 
+Killinfields: folds 
+Uncalled bet (12793) returned to low elo noob
+*** FLOP *** [Kd 3d 3s]
+*** TURN *** [Kd 3d 3s] [7c]
+*** RIVER *** [Kd 3d 3s 7c] [4c]
+*** SHOW DOWN ***
+low elo noob: shows [Qd As] (a pair of Threes)
+blun96don: shows [Jd Jh] (two pair, Jacks and Threes)
+blun96don collected 70900 from side pot
+R0HR: shows [4h 4d] (a full house, Fours full of Threes)
+R0HR collected 15061 from main pot
+*** SUMMARY ***
+Total pot 85961 Main pot 15061. Side pot 70900. | Rake 0 
+Board [Kd 3d 3s 7c 4c]
+Seat 1: R0HR showed [4h 4d] and won (15061) with a full house, Fours full of Threes
+Seat 2: low elo noob showed [Qd As] and lost with a pair of Threes
+Seat 3: 1426395 folded before Flop (didn't bet)
+Seat 4: blun96don showed [Jd Jh] and won (70900) with two pair, Jacks and Threes
+Seat 5: farooo263 (button) folded before Flop (didn't bet)
+Seat 6: tutuca1987 (small blind) folded before Flop
+Seat 7: Killinfields (big blind) folded before Flop
+
+PokerStars Hand #250117929444: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XIII (400/800) - 2024/04/22 17:23:23 ET
+Table '3743747148 5' 7-max Seat #6 is the button
+Seat 1: R0HR (15061 in chips, $37.50 bounty) 
+Seat 2: low elo noob (12793 in chips, $75 bounty) 
+Seat 3: 1426395 (51733 in chips, $106.25 bounty) 
+Seat 4: blun96don (70900 in chips, $68.75 bounty) 
+Seat 5: farooo263 (11311 in chips, $43.75 bounty) 
+Seat 6: tutuca1987 (11994 in chips, $37.50 bounty) 
+Seat 7: Killinfields (64262 in chips, $81.25 bounty) 
+R0HR: posts the ante 100
+low elo noob: posts the ante 100
+1426395: posts the ante 100
+blun96don: posts the ante 100
+farooo263: posts the ante 100
+tutuca1987: posts the ante 100
+Killinfields: posts the ante 100
+Killinfields: posts small blind 400
+R0HR: posts big blind 800
+*** HOLE CARDS ***
+low elo noob: raises 800 to 1600
+1426395: folds 
+blun96don: calls 1600
+farooo263: folds 
+tutuca1987: folds 
+Killinfields: folds 
+R0HR: folds 
+*** FLOP *** [2c 7d 5h]
+low elo noob: checks 
+blun96don: checks 
+*** TURN *** [2c 7d 5h] [Kd]
+low elo noob: bets 2550
+blun96don: folds 
+Uncalled bet (2550) returned to low elo noob
+low elo noob collected 5100 from pot
+low elo noob: doesn't show hand 
+*** SUMMARY ***
+Total pot 5100 | Rake 0 
+Board [2c 7d 5h Kd]
+Seat 1: R0HR (big blind) folded before Flop
+Seat 2: low elo noob collected (5100)
+Seat 3: 1426395 folded before Flop (didn't bet)
+Seat 4: blun96don folded on the Turn
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: tutuca1987 (button) folded before Flop (didn't bet)
+Seat 7: Killinfields (small blind) folded before Flop
+
+PokerStars Hand #250117944405: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XIII (400/800) - 2024/04/22 17:24:10 ET
+Table '3743747148 5' 7-max Seat #7 is the button
+Seat 1: R0HR (14161 in chips, $37.50 bounty) 
+Seat 2: low elo noob (16193 in chips, $75 bounty) 
+Seat 3: 1426395 (51633 in chips, $106.25 bounty) 
+Seat 4: blun96don (69200 in chips, $68.75 bounty) 
+Seat 5: farooo263 (11211 in chips, $43.75 bounty) 
+Seat 6: tutuca1987 (11894 in chips, $37.50 bounty) 
+Seat 7: Killinfields (63762 in chips, $81.25 bounty) 
+R0HR: posts the ante 100
+low elo noob: posts the ante 100
+1426395: posts the ante 100
+blun96don: posts the ante 100
+farooo263: posts the ante 100
+tutuca1987: posts the ante 100
+Killinfields: posts the ante 100
+R0HR: posts small blind 400
+low elo noob: posts big blind 800
+*** HOLE CARDS ***
+1426395: folds 
+blun96don: folds 
+farooo263: folds 
+tutuca1987: folds 
+Killinfields: raises 880 to 1680
+R0HR: raises 12381 to 14061 and is all-in
+low elo noob: folds 
+Killinfields: folds 
+Uncalled bet (12381) returned to R0HR
+R0HR collected 4860 from pot
+R0HR: doesn't show hand 
+*** SUMMARY ***
+Total pot 4860 | Rake 0 
+Seat 1: R0HR (small blind) collected (4860)
+Seat 2: low elo noob (big blind) folded before Flop
+Seat 3: 1426395 folded before Flop (didn't bet)
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: tutuca1987 folded before Flop (didn't bet)
+Seat 7: Killinfields (button) folded before Flop
+
+PokerStars Hand #250117950881: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level XIII (400/800) - 2024/04/22 17:24:30 ET
+Table '3743747148 5' 7-max Seat #1 is the button
+Seat 1: R0HR (17241 in chips, $37.50 bounty) 
+Seat 2: low elo noob (15293 in chips, $75 bounty) 
+Seat 3: 1426395 (51533 in chips, $106.25 bounty) 
+Seat 4: blun96don (69100 in chips, $68.75 bounty) 
+Seat 5: farooo263 (11111 in chips, $43.75 bounty) 
+Seat 6: tutuca1987 (11794 in chips, $37.50 bounty) 
+Seat 7: Killinfields (61982 in chips, $81.25 bounty) 
+R0HR: posts the ante 100
+low elo noob: posts the ante 100
+1426395: posts the ante 100
+blun96don: posts the ante 100
+farooo263: posts the ante 100
+tutuca1987: posts the ante 100
+Killinfields: posts the ante 100
+low elo noob: posts small blind 400
+1426395: posts big blind 800
+*** HOLE CARDS ***
+blun96don: folds 
+farooo263: folds 
+tutuca1987: raises 10894 to 11694 and is all-in
+Killinfields: folds 
+R0HR: folds 
+low elo noob: folds 
+1426395: calls 10894
+*** FLOP *** [Th Td 5h]
+*** TURN *** [Th Td 5h] [6h]
+*** RIVER *** [Th Td 5h 6h] [6d]
+*** SHOW DOWN ***
+1426395: shows [5s 5c] (a full house, Fives full of Tens)
+tutuca1987: shows [Ac Jc] (two pair, Tens and Sixes)
+1426395 collected 24488 from pot
+1426395 wins $18.75 for eliminating tutuca1987 and their own bounty increases by $18.75 to $125
+tutuca1987 finished the tournament in 134th place
+*** SUMMARY ***
+Total pot 24488 | Rake 0 
+Board [Th Td 5h 6h 6d]
+Seat 1: R0HR (button) folded before Flop (didn't bet)
+Seat 2: low elo noob (small blind) folded before Flop
+Seat 3: 1426395 (big blind) showed [5s 5c] and won (24488) with a full house, Fives full of Tens
+Seat 4: blun96don folded before Flop (didn't bet)
+Seat 5: farooo263 folded before Flop (didn't bet)
+Seat 6: tutuca1987 showed [Ac Jc] and lost with two pair, Tens and Sixes
+Seat 7: Killinfields folded before Flop (didn't bet)

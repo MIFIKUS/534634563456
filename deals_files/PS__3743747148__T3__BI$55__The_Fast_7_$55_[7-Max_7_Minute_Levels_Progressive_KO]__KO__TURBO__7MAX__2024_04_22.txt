@@ -1,0 +1,1747 @@
+PokerStars Hand #250116452720: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level III (50/100) - 2024/04/22 16:07:51 ET
+Table '3743747148 3' 7-max Seat #3 is the button
+Seat 1: mrcoffee01 (8122 in chips, $25 bounty) 
+Seat 2: raph1910 (6313 in chips, $25 bounty) 
+Seat 3: Just_smile2024 (10264 in chips, $25 bounty) 
+Seat 4: daniel5389 (6540 in chips, $25 bounty) 
+Seat 5: TakiToRivers (7000 in chips, $25 bounty) 
+Seat 6: Dreamwalker228 (4884 in chips, $25 bounty) 
+Seat 7: unsen1 (11815 in chips, $37.50 bounty) 
+mrcoffee01: posts the ante 12
+raph1910: posts the ante 12
+Just_smile2024: posts the ante 12
+daniel5389: posts the ante 12
+TakiToRivers: posts the ante 12
+Dreamwalker228: posts the ante 12
+unsen1: posts the ante 12
+daniel5389: posts small blind 50
+TakiToRivers: posts big blind 100
+*** HOLE CARDS ***
+Dreamwalker228: folds 
+unsen1: raises 120 to 220
+mrcoffee01: folds 
+raph1910: folds 
+Just_smile2024: folds 
+daniel5389: folds 
+TakiToRivers: calls 120
+*** FLOP *** [As Jd Jh]
+TakiToRivers: checks 
+unsen1: bets 126
+TakiToRivers: calls 126
+*** TURN *** [As Jd Jh] [Ts]
+TakiToRivers: checks 
+unsen1: checks 
+*** RIVER *** [As Jd Jh Ts] [6d]
+TakiToRivers: bets 273
+unsen1: folds 
+Uncalled bet (273) returned to TakiToRivers
+TakiToRivers collected 826 from pot
+TakiToRivers: doesn't show hand 
+*** SUMMARY ***
+Total pot 826 | Rake 0 
+Board [As Jd Jh Ts 6d]
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: Just_smile2024 (button) folded before Flop (didn't bet)
+Seat 4: daniel5389 (small blind) folded before Flop
+Seat 5: TakiToRivers (big blind) collected (826)
+Seat 6: Dreamwalker228 folded before Flop (didn't bet)
+Seat 7: unsen1 folded on the River
+
+PokerStars Hand #250116476408: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/04/22 16:09:00 ET
+Table '3743747148 3' 7-max Seat #4 is the button
+Seat 1: mrcoffee01 (8110 in chips, $25 bounty) 
+Seat 2: raph1910 (6301 in chips, $25 bounty) 
+Seat 3: Just_smile2024 (10252 in chips, $25 bounty) 
+Seat 4: daniel5389 (6478 in chips, $25 bounty) 
+Seat 5: TakiToRivers (7468 in chips, $25 bounty) 
+Seat 6: Dreamwalker228 (4872 in chips, $25 bounty) 
+Seat 7: unsen1 (11457 in chips, $37.50 bounty) 
+mrcoffee01: posts the ante 16
+raph1910: posts the ante 16
+Just_smile2024: posts the ante 16
+daniel5389: posts the ante 16
+TakiToRivers: posts the ante 16
+Dreamwalker228: posts the ante 16
+unsen1: posts the ante 16
+TakiToRivers: posts small blind 60
+Dreamwalker228: posts big blind 120
+*** HOLE CARDS ***
+unsen1: raises 144 to 264
+mrcoffee01: folds 
+raph1910: raises 516 to 780
+Just_smile2024: folds 
+daniel5389: folds 
+TakiToRivers: folds 
+Dreamwalker228: folds 
+unsen1: calls 516
+*** FLOP *** [4h Kd 9c]
+unsen1: checks 
+raph1910: bets 611
+unsen1: folds 
+Uncalled bet (611) returned to raph1910
+raph1910 collected 1852 from pot
+raph1910: doesn't show hand 
+*** SUMMARY ***
+Total pot 1852 | Rake 0 
+Board [4h Kd 9c]
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 collected (1852)
+Seat 3: Just_smile2024 folded before Flop (didn't bet)
+Seat 4: daniel5389 (button) folded before Flop (didn't bet)
+Seat 5: TakiToRivers (small blind) folded before Flop
+Seat 6: Dreamwalker228 (big blind) folded before Flop
+Seat 7: unsen1 folded on the Flop
+
+PokerStars Hand #250116494427: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/04/22 16:09:53 ET
+Table '3743747148 3' 7-max Seat #5 is the button
+Seat 1: mrcoffee01 (8094 in chips, $25 bounty) 
+Seat 2: raph1910 (7357 in chips, $25 bounty) 
+Seat 3: Just_smile2024 (10236 in chips, $25 bounty) 
+Seat 4: daniel5389 (6462 in chips, $25 bounty) 
+Seat 5: TakiToRivers (7392 in chips, $25 bounty) 
+Seat 6: Dreamwalker228 (4736 in chips, $25 bounty) 
+Seat 7: unsen1 (10661 in chips, $37.50 bounty) 
+mrcoffee01: posts the ante 16
+raph1910: posts the ante 16
+Just_smile2024: posts the ante 16
+daniel5389: posts the ante 16
+TakiToRivers: posts the ante 16
+Dreamwalker228: posts the ante 16
+unsen1: posts the ante 16
+Dreamwalker228: posts small blind 60
+unsen1: posts big blind 120
+*** HOLE CARDS ***
+mrcoffee01: folds 
+raph1910: folds 
+Just_smile2024: folds 
+daniel5389: folds 
+TakiToRivers: raises 120 to 240
+Dreamwalker228: raises 780 to 1020
+unsen1: folds 
+TakiToRivers: calls 780
+*** FLOP *** [Kd 8s 5c]
+Dreamwalker228: bets 658
+TakiToRivers: calls 658
+*** TURN *** [Kd 8s 5c] [9d]
+Dreamwalker228: bets 3042 and is all-in
+TakiToRivers: calls 3042
+*** RIVER *** [Kd 8s 5c 9d] [2c]
+*** SHOW DOWN ***
+Dreamwalker228: shows [Jc Kh] (a pair of Kings)
+TakiToRivers: shows [8d 7d] (a pair of Eights)
+Dreamwalker228 collected 9672 from pot
+*** SUMMARY ***
+Total pot 9672 | Rake 0 
+Board [Kd 8s 5c 9d 2c]
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: Just_smile2024 folded before Flop (didn't bet)
+Seat 4: daniel5389 folded before Flop (didn't bet)
+Seat 5: TakiToRivers (button) showed [8d 7d] and lost with a pair of Eights
+Seat 6: Dreamwalker228 (small blind) showed [Jc Kh] and won (9672) with a pair of Kings
+Seat 7: unsen1 (big blind) folded before Flop
+
+PokerStars Hand #250116516100: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/04/22 16:10:55 ET
+Table '3743747148 3' 7-max Seat #6 is the button
+Seat 1: mrcoffee01 (8078 in chips, $25 bounty) 
+Seat 2: raph1910 (7341 in chips, $25 bounty) 
+Seat 3: Just_smile2024 (10220 in chips, $25 bounty) 
+Seat 4: daniel5389 (6446 in chips, $25 bounty) 
+Seat 5: TakiToRivers (2656 in chips, $25 bounty) 
+Seat 6: Dreamwalker228 (9672 in chips, $25 bounty) 
+Seat 7: unsen1 (10525 in chips, $37.50 bounty) 
+mrcoffee01: posts the ante 16
+raph1910: posts the ante 16
+Just_smile2024: posts the ante 16
+daniel5389: posts the ante 16
+TakiToRivers: posts the ante 16
+Dreamwalker228: posts the ante 16
+unsen1: posts the ante 16
+unsen1: posts small blind 60
+mrcoffee01: posts big blind 120
+*** HOLE CARDS ***
+raph1910: folds 
+Just_smile2024: folds 
+daniel5389: raises 120 to 240
+TakiToRivers: folds 
+Dreamwalker228: raises 720 to 960
+unsen1: folds 
+mrcoffee01: folds 
+daniel5389: folds 
+Uncalled bet (720) returned to Dreamwalker228
+Dreamwalker228 collected 772 from pot
+Dreamwalker228: doesn't show hand 
+*** SUMMARY ***
+Total pot 772 | Rake 0 
+Seat 1: mrcoffee01 (big blind) folded before Flop
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: Just_smile2024 folded before Flop (didn't bet)
+Seat 4: daniel5389 folded before Flop
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 6: Dreamwalker228 (button) collected (772)
+Seat 7: unsen1 (small blind) folded before Flop
+
+PokerStars Hand #250116534612: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/04/22 16:11:48 ET
+Table '3743747148 3' 7-max Seat #7 is the button
+Seat 1: mrcoffee01 (7942 in chips, $25 bounty) 
+Seat 2: raph1910 (7325 in chips, $25 bounty) 
+Seat 3: Just_smile2024 (10204 in chips, $25 bounty) 
+Seat 4: daniel5389 (6190 in chips, $25 bounty) 
+Seat 5: TakiToRivers (2640 in chips, $25 bounty) 
+Seat 6: Dreamwalker228 (10188 in chips, $25 bounty) 
+Seat 7: unsen1 (10449 in chips, $37.50 bounty) 
+mrcoffee01: posts the ante 16
+raph1910: posts the ante 16
+Just_smile2024: posts the ante 16
+daniel5389: posts the ante 16
+TakiToRivers: posts the ante 16
+Dreamwalker228: posts the ante 16
+unsen1: posts the ante 16
+mrcoffee01: posts small blind 60
+raph1910: posts big blind 120
+*** HOLE CARDS ***
+Just_smile2024: raises 120 to 240
+daniel5389: raises 420 to 660
+TakiToRivers: folds 
+Dreamwalker228: folds 
+unsen1: folds 
+mrcoffee01: folds 
+raph1910: folds 
+Just_smile2024: calls 420
+*** FLOP *** [8d 8s 9c]
+Just_smile2024: checks 
+daniel5389: bets 403
+Just_smile2024: calls 403
+*** TURN *** [8d 8s 9c] [Ks]
+Just_smile2024: checks 
+daniel5389: bets 1330
+Just_smile2024: calls 1330
+*** RIVER *** [8d 8s 9c Ks] [Kd]
+Just_smile2024: checks 
+daniel5389: checks 
+*** SHOW DOWN ***
+Just_smile2024: shows [3h 3c] (two pair, Kings and Eights)
+daniel5389: shows [9s Ts] (two pair, Kings and Nines)
+daniel5389 collected 5078 from pot
+*** SUMMARY ***
+Total pot 5078 | Rake 0 
+Board [8d 8s 9c Ks Kd]
+Seat 1: mrcoffee01 (small blind) folded before Flop
+Seat 2: raph1910 (big blind) folded before Flop
+Seat 3: Just_smile2024 showed [3h 3c] and lost with two pair, Kings and Eights
+Seat 4: daniel5389 showed [9s Ts] and won (5078) with two pair, Kings and Nines
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 6: Dreamwalker228 folded before Flop (didn't bet)
+Seat 7: unsen1 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250116553937: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/04/22 16:12:44 ET
+Table '3743747148 3' 7-max Seat #1 is the button
+Seat 1: mrcoffee01 (7866 in chips, $25 bounty) 
+Seat 2: raph1910 (7189 in chips, $25 bounty) 
+Seat 3: Just_smile2024 (7795 in chips, $25 bounty) 
+Seat 4: daniel5389 (8859 in chips, $25 bounty) 
+Seat 5: TakiToRivers (2624 in chips, $25 bounty) 
+Seat 6: Dreamwalker228 (10172 in chips, $25 bounty) 
+Seat 7: unsen1 (10433 in chips, $37.50 bounty) 
+mrcoffee01: posts the ante 16
+raph1910: posts the ante 16
+Just_smile2024: posts the ante 16
+daniel5389: posts the ante 16
+TakiToRivers: posts the ante 16
+Dreamwalker228: posts the ante 16
+unsen1: posts the ante 16
+raph1910: posts small blind 60
+Just_smile2024: posts big blind 120
+*** HOLE CARDS ***
+daniel5389: folds 
+TakiToRivers: folds 
+Dreamwalker228: folds 
+unsen1: folds 
+mrcoffee01: folds 
+raph1910: raises 276 to 396
+Just_smile2024: raises 7383 to 7779 and is all-in
+raph1910: folds 
+Uncalled bet (7383) returned to Just_smile2024
+Just_smile2024 collected 904 from pot
+Just_smile2024: doesn't show hand 
+*** SUMMARY ***
+Total pot 904 | Rake 0 
+Seat 1: mrcoffee01 (button) folded before Flop (didn't bet)
+Seat 2: raph1910 (small blind) folded before Flop
+Seat 3: Just_smile2024 (big blind) collected (904)
+Seat 4: daniel5389 folded before Flop (didn't bet)
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 6: Dreamwalker228 folded before Flop (didn't bet)
+Seat 7: unsen1 folded before Flop (didn't bet)
+
+PokerStars Hand #250116565564: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/04/22 16:13:17 ET
+Table '3743747148 3' 7-max Seat #2 is the button
+Seat 1: mrcoffee01 (7850 in chips, $25 bounty) 
+Seat 2: raph1910 (6777 in chips, $25 bounty) 
+Seat 3: Just_smile2024 (8287 in chips, $25 bounty) 
+Seat 4: daniel5389 (8843 in chips, $25 bounty) 
+Seat 5: TakiToRivers (2608 in chips, $25 bounty) 
+Seat 6: Dreamwalker228 (10156 in chips, $25 bounty) 
+Seat 7: unsen1 (10417 in chips, $37.50 bounty) 
+mrcoffee01: posts the ante 16
+raph1910: posts the ante 16
+Just_smile2024: posts the ante 16
+daniel5389: posts the ante 16
+TakiToRivers: posts the ante 16
+Dreamwalker228: posts the ante 16
+unsen1: posts the ante 16
+Just_smile2024: posts small blind 60
+daniel5389: posts big blind 120
+*** HOLE CARDS ***
+TakiToRivers: folds 
+Dreamwalker228: raises 120 to 240
+unsen1: folds 
+mrcoffee01: calls 240
+raph1910: folds 
+Just_smile2024: folds 
+daniel5389: calls 120
+*** FLOP *** [7h 5h Td]
+daniel5389: checks 
+Dreamwalker228: checks 
+mrcoffee01: checks 
+*** TURN *** [7h 5h Td] [5d]
+daniel5389: bets 491
+Dreamwalker228: folds 
+mrcoffee01: calls 491
+*** RIVER *** [7h 5h Td 5d] [Qd]
+daniel5389: checks 
+mrcoffee01: bets 1380
+daniel5389: folds 
+Uncalled bet (1380) returned to mrcoffee01
+mrcoffee01 collected 1874 from pot
+mrcoffee01: doesn't show hand 
+*** SUMMARY ***
+Total pot 1874 | Rake 0 
+Board [7h 5h Td 5d Qd]
+Seat 1: mrcoffee01 collected (1874)
+Seat 2: raph1910 (button) folded before Flop (didn't bet)
+Seat 3: Just_smile2024 (small blind) folded before Flop
+Seat 4: daniel5389 (big blind) folded on the River
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 6: Dreamwalker228 folded on the Turn
+Seat 7: unsen1 folded before Flop (didn't bet)
+
+PokerStars Hand #250116598203: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/04/22 16:14:50 ET
+Table '3743747148 3' 7-max Seat #3 is the button
+Seat 1: mrcoffee01 (8977 in chips, $25 bounty) 
+Seat 2: raph1910 (6761 in chips, $25 bounty) 
+Seat 3: Just_smile2024 (8211 in chips, $25 bounty) 
+Seat 4: daniel5389 (8096 in chips, $25 bounty) 
+Seat 5: TakiToRivers (2592 in chips, $25 bounty) 
+Seat 6: Dreamwalker228 (9900 in chips, $25 bounty) 
+Seat 7: unsen1 (10401 in chips, $37.50 bounty) 
+mrcoffee01: posts the ante 16
+raph1910: posts the ante 16
+Just_smile2024: posts the ante 16
+daniel5389: posts the ante 16
+TakiToRivers: posts the ante 16
+Dreamwalker228: posts the ante 16
+unsen1: posts the ante 16
+daniel5389: posts small blind 60
+TakiToRivers: posts big blind 120
+*** HOLE CARDS ***
+Dreamwalker228: raises 120 to 240
+unsen1: folds 
+mrcoffee01: folds 
+raph1910: folds 
+Just_smile2024: calls 240
+daniel5389: folds 
+TakiToRivers: calls 120
+*** FLOP *** [7d 2s 6c]
+TakiToRivers: checks 
+Dreamwalker228: checks 
+Just_smile2024: bets 446
+TakiToRivers: folds 
+Dreamwalker228: folds 
+Uncalled bet (446) returned to Just_smile2024
+Just_smile2024 collected 892 from pot
+Just_smile2024: doesn't show hand 
+*** SUMMARY ***
+Total pot 892 | Rake 0 
+Board [7d 2s 6c]
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: Just_smile2024 (button) collected (892)
+Seat 4: daniel5389 (small blind) folded before Flop
+Seat 5: TakiToRivers (big blind) folded on the Flop
+Seat 6: Dreamwalker228 folded on the Flop
+Seat 7: unsen1 folded before Flop (didn't bet)
+
+PokerStars Hand #250116618388: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:15:47 ET
+Table '3743747148 3' 7-max Seat #4 is the button
+Seat 1: mrcoffee01 (8961 in chips, $25 bounty) 
+Seat 2: raph1910 (6745 in chips, $25 bounty) 
+Seat 3: Just_smile2024 (8847 in chips, $25 bounty) 
+Seat 4: daniel5389 (8020 in chips, $25 bounty) 
+Seat 5: TakiToRivers (2336 in chips, $25 bounty) 
+Seat 6: Dreamwalker228 (9644 in chips, $25 bounty) 
+Seat 7: unsen1 (10385 in chips, $37.50 bounty) 
+mrcoffee01: posts the ante 20
+raph1910: posts the ante 20
+Just_smile2024: posts the ante 20
+daniel5389: posts the ante 20
+TakiToRivers: posts the ante 20
+Dreamwalker228: posts the ante 20
+unsen1: posts the ante 20
+TakiToRivers: posts small blind 80
+Dreamwalker228: posts big blind 160
+*** HOLE CARDS ***
+unsen1: folds 
+mrcoffee01: folds 
+raph1910: raises 160 to 320
+Just_smile2024: raises 8507 to 8827 and is all-in
+daniel5389: folds 
+TakiToRivers: calls 2236 and is all-in
+Dreamwalker228: folds 
+raph1910: folds 
+Uncalled bet (6511) returned to Just_smile2024
+*** FLOP *** [Th 8c As]
+*** TURN *** [Th 8c As] [Jc]
+*** RIVER *** [Th 8c As Jc] [5d]
+*** SHOW DOWN ***
+TakiToRivers: shows [Ah Ks] (a pair of Aces)
+Just_smile2024: shows [2h Kh] (high card Ace)
+TakiToRivers collected 5252 from pot
+*** SUMMARY ***
+Total pot 5252 | Rake 0 
+Board [Th 8c As Jc 5d]
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 folded before Flop
+Seat 3: Just_smile2024 showed [2h Kh] and lost with high card Ace
+Seat 4: daniel5389 (button) folded before Flop (didn't bet)
+Seat 5: TakiToRivers (small blind) showed [Ah Ks] and won (5252) with a pair of Aces
+Seat 6: Dreamwalker228 (big blind) folded before Flop
+Seat 7: unsen1 folded before Flop (didn't bet)
+
+PokerStars Hand #250116634621: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:16:34 ET
+Table '3743747148 3' 7-max Seat #5 is the button
+Seat 1: mrcoffee01 (8941 in chips, $25 bounty) 
+Seat 2: raph1910 (6405 in chips, $25 bounty) 
+Seat 3: Just_smile2024 (6511 in chips, $25 bounty) 
+Seat 4: daniel5389 (8000 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5252 in chips, $25 bounty) 
+Seat 6: Dreamwalker228 (9464 in chips, $25 bounty) 
+Seat 7: unsen1 (10365 in chips, $37.50 bounty) 
+mrcoffee01: posts the ante 20
+raph1910: posts the ante 20
+Just_smile2024: posts the ante 20
+daniel5389: posts the ante 20
+TakiToRivers: posts the ante 20
+Dreamwalker228: posts the ante 20
+unsen1: posts the ante 20
+Dreamwalker228: posts small blind 80
+unsen1: posts big blind 160
+*** HOLE CARDS ***
+mrcoffee01: folds 
+raph1910: folds 
+Just_smile2024: folds 
+daniel5389: folds 
+TakiToRivers: folds 
+Dreamwalker228: raises 400 to 560
+unsen1: calls 400
+*** FLOP *** [7h 7d 3d]
+Dreamwalker228: bets 364
+unsen1: folds 
+Uncalled bet (364) returned to Dreamwalker228
+Dreamwalker228 collected 1260 from pot
+Dreamwalker228: doesn't show hand 
+*** SUMMARY ***
+Total pot 1260 | Rake 0 
+Board [7h 7d 3d]
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: Just_smile2024 folded before Flop (didn't bet)
+Seat 4: daniel5389 folded before Flop (didn't bet)
+Seat 5: TakiToRivers (button) folded before Flop (didn't bet)
+Seat 6: Dreamwalker228 (small blind) collected (1260)
+Seat 7: unsen1 (big blind) folded on the Flop
+
+PokerStars Hand #250116646505: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:17:08 ET
+Table '3743747148 3' 7-max Seat #6 is the button
+Seat 1: mrcoffee01 (8921 in chips, $25 bounty) 
+Seat 2: raph1910 (6385 in chips, $25 bounty) 
+Seat 3: Just_smile2024 (6491 in chips, $25 bounty) 
+Seat 4: daniel5389 (7980 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5232 in chips, $25 bounty) 
+Seat 6: Dreamwalker228 (10144 in chips, $25 bounty) 
+Seat 7: unsen1 (9785 in chips, $37.50 bounty) 
+mrcoffee01: posts the ante 20
+raph1910: posts the ante 20
+Just_smile2024: posts the ante 20
+daniel5389: posts the ante 20
+TakiToRivers: posts the ante 20
+Dreamwalker228: posts the ante 20
+unsen1: posts the ante 20
+unsen1: posts small blind 80
+mrcoffee01: posts big blind 160
+*** HOLE CARDS ***
+raph1910: folds 
+Just_smile2024: raises 160 to 320
+daniel5389: folds 
+TakiToRivers: folds 
+Dreamwalker228: folds 
+unsen1: raises 800 to 1120
+mrcoffee01: folds 
+Just_smile2024: calls 800
+*** FLOP *** [5d 5c Ac]
+unsen1: bets 838
+Just_smile2024: calls 838
+*** TURN *** [5d 5c Ac] [2h]
+unsen1: bets 1391
+Just_smile2024: folds 
+Uncalled bet (1391) returned to unsen1
+unsen1 collected 4216 from pot
+unsen1: doesn't show hand 
+*** SUMMARY ***
+Total pot 4216 | Rake 0 
+Board [5d 5c Ac 2h]
+Seat 1: mrcoffee01 (big blind) folded before Flop
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: Just_smile2024 folded on the Turn
+Seat 4: daniel5389 folded before Flop (didn't bet)
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 6: Dreamwalker228 (button) folded before Flop (didn't bet)
+Seat 7: unsen1 (small blind) collected (4216)
+
+PokerStars Hand #250116666272: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:18:05 ET
+Table '3743747148 3' 7-max Seat #7 is the button
+Seat 1: mrcoffee01 (8741 in chips, $25 bounty) 
+Seat 2: raph1910 (6365 in chips, $25 bounty) 
+Seat 3: Just_smile2024 (4513 in chips, $25 bounty) 
+Seat 4: daniel5389 (7960 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5212 in chips, $25 bounty) 
+Seat 6: Dreamwalker228 (10124 in chips, $25 bounty) 
+Seat 7: unsen1 (12023 in chips, $37.50 bounty) 
+mrcoffee01: posts the ante 20
+raph1910: posts the ante 20
+Just_smile2024: posts the ante 20
+daniel5389: posts the ante 20
+TakiToRivers: posts the ante 20
+Dreamwalker228: posts the ante 20
+unsen1: posts the ante 20
+mrcoffee01: posts small blind 80
+raph1910: posts big blind 160
+*** HOLE CARDS ***
+Just_smile2024: raises 4333 to 4493 and is all-in
+daniel5389: folds 
+TakiToRivers: folds 
+Dreamwalker228: folds 
+unsen1: calls 4493
+mrcoffee01: folds 
+raph1910: folds 
+*** FLOP *** [Ts 6s 9d]
+*** TURN *** [Ts 6s 9d] [6h]
+*** RIVER *** [Ts 6s 9d 6h] [9s]
+*** SHOW DOWN ***
+Just_smile2024: shows [Jc Qh] (two pair, Nines and Sixes)
+unsen1: shows [As Ks] (a flush, Ace high)
+unsen1 collected 9366 from pot
+unsen1 wins $12.50 for eliminating Just_smile2024 and their own bounty increases by $12.50 to $50
+Just_smile2024 finished the tournament
+*** SUMMARY ***
+Total pot 9366 | Rake 0 
+Board [Ts 6s 9d 6h 9s]
+Seat 1: mrcoffee01 (small blind) folded before Flop
+Seat 2: raph1910 (big blind) folded before Flop
+Seat 3: Just_smile2024 showed [Jc Qh] and lost with two pair, Nines and Sixes
+Seat 4: daniel5389 folded before Flop (didn't bet)
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 6: Dreamwalker228 folded before Flop (didn't bet)
+Seat 7: unsen1 (button) showed [As Ks] and won (9366) with a flush, Ace high
+
+PokerStars Hand #250116682907: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:18:53 ET
+Table '3743747148 3' 7-max Seat #1 is the button
+Seat 1: mrcoffee01 (8641 in chips, $25 bounty) 
+Seat 2: raph1910 (6185 in chips, $25 bounty) 
+Seat 4: daniel5389 (7940 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5192 in chips, $25 bounty) 
+Seat 6: Dreamwalker228 (10104 in chips, $25 bounty) 
+Seat 7: unsen1 (16876 in chips, $50 bounty) 
+mrcoffee01: posts the ante 20
+raph1910: posts the ante 20
+daniel5389: posts the ante 20
+TakiToRivers: posts the ante 20
+Dreamwalker228: posts the ante 20
+unsen1: posts the ante 20
+raph1910: posts small blind 80
+daniel5389: posts big blind 160
+*** HOLE CARDS ***
+TakiToRivers: folds 
+Dreamwalker228: raises 160 to 320
+MAKKAPAKK is disconnected 
+unsen1: folds 
+mrcoffee01: folds 
+raph1910: folds 
+daniel5389: calls 160
+*** FLOP *** [Qh 7d Td]
+daniel5389: checks 
+Dreamwalker228: bets 243
+daniel5389: calls 243
+*** TURN *** [Qh 7d Td] [Kh]
+daniel5389: checks 
+Dreamwalker228: checks 
+*** RIVER *** [Qh 7d Td Kh] [9s]
+daniel5389: bets 809
+Dreamwalker228: folds 
+Uncalled bet (809) returned to daniel5389
+daniel5389 collected 1326 from pot
+daniel5389: doesn't show hand 
+*** SUMMARY ***
+Total pot 1326 | Rake 0 
+Board [Qh 7d Td Kh 9s]
+Seat 1: mrcoffee01 (button) folded before Flop (didn't bet)
+Seat 2: raph1910 (small blind) folded before Flop
+Seat 4: daniel5389 (big blind) collected (1326)
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 6: Dreamwalker228 folded on the River
+Seat 7: unsen1 folded before Flop (didn't bet)
+
+PokerStars Hand #250116701893: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:19:48 ET
+Table '3743747148 3' 7-max Seat #2 is the button
+Seat 1: mrcoffee01 (8621 in chips, $25 bounty) 
+Seat 2: raph1910 (6085 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (7000 in chips) out of hand (moved from another table into small blind)
+Seat 4: daniel5389 (8683 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5172 in chips, $25 bounty) 
+Seat 6: Dreamwalker228 (9521 in chips, $25 bounty) 
+Seat 7: unsen1 (16856 in chips, $50 bounty) 
+MAKKAPAKK will be allowed to play after the button
+mrcoffee01: posts the ante 20
+raph1910: posts the ante 20
+daniel5389: posts the ante 20
+TakiToRivers: posts the ante 20
+Dreamwalker228: posts the ante 20
+unsen1: posts the ante 20
+daniel5389: posts small blind 80
+TakiToRivers: posts big blind 160
+*** HOLE CARDS ***
+Dreamwalker228: folds 
+unsen1: folds 
+mrcoffee01: raises 192 to 352
+raph1910: folds 
+daniel5389: folds 
+TakiToRivers: calls 192
+*** FLOP *** [2c Td Ad]
+TakiToRivers: checks 
+mrcoffee01: bets 352
+TakiToRivers: calls 352
+*** TURN *** [2c Td Ad] [7h]
+TakiToRivers: checks 
+mrcoffee01: bets 960
+TakiToRivers: folds 
+Uncalled bet (960) returned to mrcoffee01
+mrcoffee01 collected 1608 from pot
+mrcoffee01: doesn't show hand 
+*** SUMMARY ***
+Total pot 1608 | Rake 0 
+Board [2c Td Ad 7h]
+Seat 1: mrcoffee01 collected (1608)
+Seat 2: raph1910 (button) folded before Flop (didn't bet)
+Seat 4: daniel5389 (small blind) folded before Flop
+Seat 5: TakiToRivers (big blind) folded on the Turn
+Seat 6: Dreamwalker228 folded before Flop (didn't bet)
+Seat 7: unsen1 folded before Flop (didn't bet)
+
+PokerStars Hand #250116727487: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:21:02 ET
+Table '3743747148 3' 7-max Seat #4 is the button
+Seat 1: mrcoffee01 (9505 in chips, $25 bounty) 
+Seat 2: raph1910 (6065 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (7000 in chips, $25 bounty) 
+Seat 4: daniel5389 (8583 in chips, $25 bounty) 
+Seat 5: TakiToRivers (4448 in chips, $25 bounty) 
+Seat 7: unsen1 (16836 in chips, $50 bounty) 
+mrcoffee01: posts the ante 20
+raph1910: posts the ante 20
+MAKKAPAKK: posts the ante 20
+daniel5389: posts the ante 20
+TakiToRivers: posts the ante 20
+unsen1: posts the ante 20
+TakiToRivers: posts small blind 80
+unsen1: posts big blind 160
+*** HOLE CARDS ***
+mrcoffee01: folds 
+raph1910: folds 
+MAKKAPAKK: folds 
+daniel5389: raises 160 to 320
+TakiToRivers: calls 240
+unsen1: raises 1080 to 1400
+daniel5389: folds 
+TakiToRivers: folds 
+Uncalled bet (1080) returned to unsen1
+unsen1 collected 1080 from pot
+unsen1: doesn't show hand 
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: MAKKAPAKK folded before Flop (didn't bet)
+Seat 4: daniel5389 (button) folded before Flop
+Seat 5: TakiToRivers (small blind) folded before Flop
+Seat 7: unsen1 (big blind) collected (1080)
+
+PokerStars Hand #250116740150: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:21:39 ET
+Table '3743747148 3' 7-max Seat #5 is the button
+Seat 1: mrcoffee01 (9485 in chips, $25 bounty) 
+Seat 2: raph1910 (6045 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (6980 in chips, $25 bounty) 
+Seat 4: daniel5389 (8243 in chips, $25 bounty) 
+Seat 5: TakiToRivers (4108 in chips, $25 bounty) 
+Seat 7: unsen1 (17576 in chips, $50 bounty) 
+mrcoffee01: posts the ante 20
+raph1910: posts the ante 20
+MAKKAPAKK: posts the ante 20
+daniel5389: posts the ante 20
+TakiToRivers: posts the ante 20
+unsen1: posts the ante 20
+unsen1: posts small blind 80
+mrcoffee01: posts big blind 160
+*** HOLE CARDS ***
+raph1910: folds 
+MAKKAPAKK: folds 
+daniel5389: raises 160 to 320
+TakiToRivers: folds 
+unsen1: calls 240
+mrcoffee01: raises 1200 to 1520
+daniel5389: folds 
+unsen1: folds 
+Uncalled bet (1200) returned to mrcoffee01
+mrcoffee01 collected 1080 from pot
+mrcoffee01: doesn't show hand 
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Seat 1: mrcoffee01 (big blind) collected (1080)
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: MAKKAPAKK folded before Flop (didn't bet)
+Seat 4: daniel5389 folded before Flop
+Seat 5: TakiToRivers (button) folded before Flop (didn't bet)
+Seat 7: unsen1 (small blind) folded before Flop
+
+PokerStars Hand #250116751210: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:22:10 ET
+Table '3743747148 3' 7-max Seat #7 is the button
+Seat 1: mrcoffee01 (10225 in chips, $25 bounty) 
+Seat 2: raph1910 (6025 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (6960 in chips, $25 bounty) 
+Seat 4: daniel5389 (7903 in chips, $25 bounty) 
+Seat 5: TakiToRivers (4088 in chips, $25 bounty) 
+Seat 7: unsen1 (17236 in chips, $50 bounty) 
+mrcoffee01: posts the ante 20
+raph1910: posts the ante 20
+MAKKAPAKK: posts the ante 20
+daniel5389: posts the ante 20
+TakiToRivers: posts the ante 20
+unsen1: posts the ante 20
+mrcoffee01: posts small blind 80
+raph1910: posts big blind 160
+*** HOLE CARDS ***
+MAKKAPAKK: folds 
+daniel5389: folds 
+TakiToRivers: raises 160 to 320
+unsen1: folds 
+mrcoffee01: folds 
+raph1910: folds 
+Uncalled bet (160) returned to TakiToRivers
+TakiToRivers collected 520 from pot
+TakiToRivers: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 1: mrcoffee01 (small blind) folded before Flop
+Seat 2: raph1910 (big blind) folded before Flop
+Seat 3: MAKKAPAKK folded before Flop (didn't bet)
+Seat 4: daniel5389 folded before Flop (didn't bet)
+Seat 5: TakiToRivers collected (520)
+Seat 7: unsen1 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250116762289: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:22:42 ET
+Table '3743747148 3' 7-max Seat #1 is the button
+Seat 1: mrcoffee01 (10125 in chips, $25 bounty) 
+Seat 2: raph1910 (5845 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (6940 in chips, $25 bounty) 
+Seat 4: daniel5389 (7883 in chips, $25 bounty) 
+Seat 5: TakiToRivers (4428 in chips, $25 bounty) 
+Seat 7: unsen1 (17216 in chips, $50 bounty) 
+mrcoffee01: posts the ante 25
+raph1910: posts the ante 25
+MAKKAPAKK: posts the ante 25
+daniel5389: posts the ante 25
+TakiToRivers: posts the ante 25
+unsen1: posts the ante 25
+raph1910: posts small blind 100
+MAKKAPAKK: posts big blind 200
+*** HOLE CARDS ***
+daniel5389: raises 200 to 400
+TakiToRivers: folds 
+unsen1: calls 400
+mrcoffee01: folds 
+raph1910: folds 
+MAKKAPAKK: folds 
+*** FLOP *** [As 7d 5c]
+daniel5389: checks 
+unsen1: bets 413
+daniel5389: calls 413
+*** TURN *** [As 7d 5c] [5s]
+daniel5389: checks 
+unsen1: bets 1858
+daniel5389: calls 1858
+*** RIVER *** [As 7d 5c 5s] [9s]
+daniel5389: checks 
+unsen1: bets 5600
+daniel5389: calls 5187 and is all-in
+Uncalled bet (413) returned to unsen1
+*** SHOW DOWN ***
+unsen1: shows [5h 7h] (a full house, Fives full of Sevens)
+daniel5389: shows [7s 8s] (a flush, Ace high)
+unsen1 collected 16166 from pot
+unsen1 wins $12.50 for eliminating daniel5389 and their own bounty increases by $12.50 to $62.50
+daniel5389 finished the tournament
+*** SUMMARY ***
+Total pot 16166 | Rake 0 
+Board [As 7d 5c 5s 9s]
+Seat 1: mrcoffee01 (button) folded before Flop (didn't bet)
+Seat 2: raph1910 (small blind) folded before Flop
+Seat 3: MAKKAPAKK (big blind) folded before Flop
+Seat 4: daniel5389 showed [7s 8s] and lost with a flush, Ace high
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 7: unsen1 showed [5h 7h] and won (16166) with a full house, Fives full of Sevens
+
+PokerStars Hand #250116795072: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:24:17 ET
+Table '3743747148 3' 7-max Seat #2 is the button
+Seat 1: mrcoffee01 (10100 in chips, $25 bounty) 
+Seat 2: raph1910 (5720 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (6715 in chips, $25 bounty) 
+Seat 5: TakiToRivers (4403 in chips, $25 bounty) 
+Seat 6: rinsed999 (7000 in chips, $25 bounty) 
+Seat 7: unsen1 (25499 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 25
+raph1910: posts the ante 25
+MAKKAPAKK: posts the ante 25
+TakiToRivers: posts the ante 25
+rinsed999: posts the ante 25
+unsen1: posts the ante 25
+MAKKAPAKK: posts small blind 100
+TakiToRivers: posts big blind 200
+*** HOLE CARDS ***
+rinsed999: folds 
+unsen1: folds 
+mrcoffee01: folds 
+raph1910: raises 200 to 400
+MAKKAPAKK: folds 
+TakiToRivers: calls 200
+*** FLOP *** [6c Tc 9d]
+TakiToRivers: checks 
+raph1910: bets 347
+TakiToRivers: raises 1153 to 1500
+raph1910: folds 
+Uncalled bet (1153) returned to TakiToRivers
+TakiToRivers collected 1744 from pot
+TakiToRivers: doesn't show hand 
+*** SUMMARY ***
+Total pot 1744 | Rake 0 
+Board [6c Tc 9d]
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 (button) folded on the Flop
+Seat 3: MAKKAPAKK (small blind) folded before Flop
+Seat 5: TakiToRivers (big blind) collected (1744)
+Seat 6: rinsed999 folded before Flop (didn't bet)
+Seat 7: unsen1 folded before Flop (didn't bet)
+
+PokerStars Hand #250116813193: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:25:09 ET
+Table '3743747148 3' 7-max Seat #3 is the button
+Seat 1: mrcoffee01 (10075 in chips, $25 bounty) 
+Seat 2: raph1910 (4948 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (6590 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5375 in chips, $25 bounty) 
+Seat 6: rinsed999 (6975 in chips, $25 bounty) 
+Seat 7: unsen1 (25474 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 25
+raph1910: posts the ante 25
+MAKKAPAKK: posts the ante 25
+TakiToRivers: posts the ante 25
+rinsed999: posts the ante 25
+unsen1: posts the ante 25
+TakiToRivers: posts small blind 100
+rinsed999: posts big blind 200
+*** HOLE CARDS ***
+unsen1: folds 
+mrcoffee01: folds 
+raph1910: folds 
+MAKKAPAKK: folds 
+TakiToRivers: folds 
+Uncalled bet (100) returned to rinsed999
+rinsed999 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: MAKKAPAKK (button) folded before Flop (didn't bet)
+Seat 5: TakiToRivers (small blind) folded before Flop
+Seat 6: rinsed999 (big blind) collected (350)
+Seat 7: unsen1 folded before Flop (didn't bet)
+
+PokerStars Hand #250116822620: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:25:37 ET
+Table '3743747148 3' 7-max Seat #5 is the button
+Seat 1: mrcoffee01 (10050 in chips, $25 bounty) 
+Seat 2: raph1910 (4923 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (6565 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5250 in chips, $25 bounty) 
+Seat 6: rinsed999 (7200 in chips, $25 bounty) 
+Seat 7: unsen1 (25449 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 25
+raph1910: posts the ante 25
+MAKKAPAKK: posts the ante 25
+TakiToRivers: posts the ante 25
+rinsed999: posts the ante 25
+unsen1: posts the ante 25
+rinsed999: posts small blind 100
+unsen1: posts big blind 200
+*** HOLE CARDS ***
+mrcoffee01: folds 
+raph1910: folds 
+MAKKAPAKK: raises 300 to 500
+TakiToRivers: folds 
+rinsed999: calls 400
+unsen1: calls 300
+*** FLOP *** [4h Kd Tc]
+rinsed999: checks 
+unsen1: checks 
+MAKKAPAKK: checks 
+*** TURN *** [4h Kd Tc] [2s]
+rinsed999: checks 
+unsen1: checks 
+MAKKAPAKK: bets 800
+rinsed999: calls 800
+unsen1: folds 
+*** RIVER *** [4h Kd Tc 2s] [2c]
+rinsed999: checks 
+MAKKAPAKK: bets 1365
+rinsed999: calls 1365
+*** SHOW DOWN ***
+MAKKAPAKK: shows [Ac Td] (two pair, Tens and Deuces)
+rinsed999: mucks hand 
+MAKKAPAKK collected 5980 from pot
+*** SUMMARY ***
+Total pot 5980 | Rake 0 
+Board [4h Kd Tc 2s 2c]
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: MAKKAPAKK showed [Ac Td] and won (5980) with two pair, Tens and Deuces
+Seat 5: TakiToRivers (button) folded before Flop (didn't bet)
+Seat 6: rinsed999 (small blind) mucked
+Seat 7: unsen1 (big blind) folded on the Turn
+
+PokerStars Hand #250116842837: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:26:37 ET
+Table '3743747148 3' 7-max Seat #6 is the button
+Seat 1: mrcoffee01 (10025 in chips, $25 bounty) 
+Seat 2: raph1910 (4898 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (9855 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5225 in chips, $25 bounty) 
+Seat 6: rinsed999 (4510 in chips, $25 bounty) 
+Seat 7: unsen1 (24924 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 25
+raph1910: posts the ante 25
+MAKKAPAKK: posts the ante 25
+TakiToRivers: posts the ante 25
+rinsed999: posts the ante 25
+unsen1: posts the ante 25
+unsen1: posts small blind 100
+mrcoffee01: posts big blind 200
+*** HOLE CARDS ***
+raph1910: folds 
+MAKKAPAKK: folds 
+TakiToRivers: folds 
+rinsed999: raises 4285 to 4485 and is all-in
+unsen1: calls 4385
+mrcoffee01: folds 
+*** FLOP *** [7h 5s 9d]
+*** TURN *** [7h 5s 9d] [Ks]
+*** RIVER *** [7h 5s 9d Ks] [2h]
+*** SHOW DOWN ***
+unsen1: shows [As Tc] (high card Ace)
+rinsed999: shows [Qd 9c] (a pair of Nines)
+rinsed999 collected 9320 from pot
+*** SUMMARY ***
+Total pot 9320 | Rake 0 
+Board [7h 5s 9d Ks 2h]
+Seat 1: mrcoffee01 (big blind) folded before Flop
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: MAKKAPAKK folded before Flop (didn't bet)
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 6: rinsed999 (button) showed [Qd 9c] and won (9320) with a pair of Nines
+Seat 7: unsen1 (small blind) showed [As Tc] and lost with high card Ace
+
+PokerStars Hand #250116855263: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:27:13 ET
+Table '3743747148 3' 7-max Seat #7 is the button
+Seat 1: mrcoffee01 (9800 in chips, $25 bounty) 
+Seat 2: raph1910 (4873 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (9830 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5200 in chips, $25 bounty) 
+Seat 6: rinsed999 (9320 in chips, $25 bounty) 
+Seat 7: unsen1 (20414 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 25
+raph1910: posts the ante 25
+MAKKAPAKK: posts the ante 25
+TakiToRivers: posts the ante 25
+rinsed999: posts the ante 25
+unsen1: posts the ante 25
+mrcoffee01: posts small blind 100
+raph1910: posts big blind 200
+*** HOLE CARDS ***
+MAKKAPAKK: folds 
+TakiToRivers: folds 
+rinsed999: folds 
+unsen1: raises 220 to 420
+mrcoffee01: folds 
+raph1910: calls 220
+*** FLOP *** [Jh Qs As]
+raph1910: checks 
+unsen1: bets 300
+raph1910: calls 300
+*** TURN *** [Jh Qs As] [Qh]
+raph1910: checks 
+unsen1: checks 
+*** RIVER *** [Jh Qs As Qh] [8s]
+raph1910: checks 
+unsen1: bets 1100
+raph1910: folds 
+Uncalled bet (1100) returned to unsen1
+unsen1 collected 1690 from pot
+unsen1: doesn't show hand 
+*** SUMMARY ***
+Total pot 1690 | Rake 0 
+Board [Jh Qs As Qh 8s]
+Seat 1: mrcoffee01 (small blind) folded before Flop
+Seat 2: raph1910 (big blind) folded on the River
+Seat 3: MAKKAPAKK folded before Flop (didn't bet)
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 6: rinsed999 folded before Flop (didn't bet)
+Seat 7: unsen1 (button) collected (1690)
+
+PokerStars Hand #250116887739: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:28:49 ET
+Table '3743747148 3' 7-max Seat #1 is the button
+Seat 1: mrcoffee01 (9675 in chips, $25 bounty) 
+Seat 2: raph1910 (4128 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (9805 in chips, $25 bounty) 
+Seat 4: Emanuel03B (7000 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5175 in chips, $25 bounty) 
+Seat 6: rinsed999 (9295 in chips, $25 bounty) 
+Seat 7: unsen1 (21359 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 25
+raph1910: posts the ante 25
+MAKKAPAKK: posts the ante 25
+Emanuel03B: posts the ante 25
+TakiToRivers: posts the ante 25
+rinsed999: posts the ante 25
+unsen1: posts the ante 25
+raph1910: posts small blind 100
+MAKKAPAKK: posts big blind 200
+*** HOLE CARDS ***
+Emanuel03B: folds 
+TakiToRivers: folds 
+rinsed999: folds 
+unsen1: raises 220 to 420
+mrcoffee01: folds 
+raph1910: calls 320
+MAKKAPAKK: folds 
+*** FLOP *** [7h Jh 6c]
+raph1910: bets 401
+unsen1: calls 401
+*** TURN *** [7h Jh 6c] [Tc]
+raph1910: checks 
+unsen1: checks 
+*** RIVER *** [7h Jh 6c Tc] [Td]
+raph1910: bets 1331
+unsen1: calls 1331
+*** SHOW DOWN ***
+raph1910: shows [9s Ts] (three of a kind, Tens)
+unsen1: mucks hand 
+raph1910 collected 4679 from pot
+*** SUMMARY ***
+Total pot 4679 | Rake 0 
+Board [7h Jh 6c Tc Td]
+Seat 1: mrcoffee01 (button) folded before Flop (didn't bet)
+Seat 2: raph1910 (small blind) showed [9s Ts] and won (4679) with three of a kind, Tens
+Seat 3: MAKKAPAKK (big blind) folded before Flop
+Seat 4: Emanuel03B folded before Flop (didn't bet)
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 6: rinsed999 folded before Flop (didn't bet)
+Seat 7: unsen1 mucked
+
+PokerStars Hand #250116912820: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/04/22 16:30:03 ET
+Table '3743747148 3' 7-max Seat #2 is the button
+Seat 1: mrcoffee01 (9650 in chips, $25 bounty) 
+Seat 2: raph1910 (6630 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (9580 in chips, $25 bounty) 
+Seat 4: Emanuel03B (6975 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5150 in chips, $25 bounty) 
+Seat 6: rinsed999 (9270 in chips, $25 bounty) 
+Seat 7: unsen1 (19182 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 30
+raph1910: posts the ante 30
+MAKKAPAKK: posts the ante 30
+Emanuel03B: posts the ante 30
+TakiToRivers: posts the ante 30
+rinsed999: posts the ante 30
+unsen1: posts the ante 30
+MAKKAPAKK: posts small blind 125
+Emanuel03B: posts big blind 250
+*** HOLE CARDS ***
+TakiToRivers: folds 
+rinsed999: raises 250 to 500
+unsen1: folds 
+mrcoffee01: folds 
+raph1910: raises 6100 to 6600 and is all-in
+MAKKAPAKK: folds 
+Emanuel03B: folds 
+rinsed999: folds 
+Uncalled bet (6100) returned to raph1910
+raph1910 collected 1585 from pot
+raph1910: doesn't show hand 
+*** SUMMARY ***
+Total pot 1585 | Rake 0 
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 (button) collected (1585)
+Seat 3: MAKKAPAKK (small blind) folded before Flop
+Seat 4: Emanuel03B (big blind) folded before Flop
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 6: rinsed999 folded before Flop
+Seat 7: unsen1 folded before Flop (didn't bet)
+
+PokerStars Hand #250116924039: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/04/22 16:30:35 ET
+Table '3743747148 3' 7-max Seat #3 is the button
+Seat 1: mrcoffee01 (9620 in chips, $25 bounty) 
+Seat 2: raph1910 (7685 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (9425 in chips, $25 bounty) 
+Seat 4: Emanuel03B (6695 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5120 in chips, $25 bounty) 
+Seat 6: rinsed999 (8740 in chips, $25 bounty) 
+Seat 7: unsen1 (19152 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 30
+raph1910: posts the ante 30
+MAKKAPAKK: posts the ante 30
+Emanuel03B: posts the ante 30
+TakiToRivers: posts the ante 30
+rinsed999: posts the ante 30
+unsen1: posts the ante 30
+Emanuel03B: posts small blind 125
+TakiToRivers: posts big blind 250
+*** HOLE CARDS ***
+rinsed999: folds 
+unsen1: folds 
+mrcoffee01: folds 
+raph1910: folds 
+MAKKAPAKK: folds 
+Emanuel03B: folds 
+Uncalled bet (125) returned to TakiToRivers
+TakiToRivers collected 460 from pot
+TakiToRivers: doesn't show hand 
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: MAKKAPAKK (button) folded before Flop (didn't bet)
+Seat 4: Emanuel03B (small blind) folded before Flop
+Seat 5: TakiToRivers (big blind) collected (460)
+Seat 6: rinsed999 folded before Flop (didn't bet)
+Seat 7: unsen1 folded before Flop (didn't bet)
+
+PokerStars Hand #250116940977: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/04/22 16:31:25 ET
+Table '3743747148 3' 7-max Seat #4 is the button
+Seat 1: mrcoffee01 (9590 in chips, $25 bounty) 
+Seat 2: raph1910 (7655 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (9395 in chips, $25 bounty) 
+Seat 4: Emanuel03B (6540 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5425 in chips, $25 bounty) 
+Seat 6: rinsed999 (8710 in chips, $25 bounty) 
+Seat 7: unsen1 (19122 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 30
+raph1910: posts the ante 30
+MAKKAPAKK: posts the ante 30
+Emanuel03B: posts the ante 30
+TakiToRivers: posts the ante 30
+rinsed999: posts the ante 30
+unsen1: posts the ante 30
+TakiToRivers: posts small blind 125
+rinsed999: posts big blind 250
+*** HOLE CARDS ***
+unsen1: folds 
+mrcoffee01: raises 300 to 550
+raph1910: calls 550
+MAKKAPAKK: folds 
+Emanuel03B: raises 5960 to 6510 and is all-in
+TakiToRivers: folds 
+rinsed999: folds 
+mrcoffee01: folds 
+raph1910: calls 5960
+*** FLOP *** [2s 6d 2d]
+*** TURN *** [2s 6d 2d] [7d]
+*** RIVER *** [2s 6d 2d 7d] [4s]
+*** SHOW DOWN ***
+raph1910: shows [Ks Ad] (a pair of Deuces)
+Emanuel03B: shows [9d 9c] (two pair, Nines and Deuces)
+Emanuel03B collected 14155 from pot
+*** SUMMARY ***
+Total pot 14155 | Rake 0 
+Board [2s 6d 2d 7d 4s]
+Seat 1: mrcoffee01 folded before Flop
+Seat 2: raph1910 showed [Ks Ad] and lost with a pair of Deuces
+Seat 3: MAKKAPAKK folded before Flop (didn't bet)
+Seat 4: Emanuel03B (button) showed [9d 9c] and won (14155) with two pair, Nines and Deuces
+Seat 5: TakiToRivers (small blind) folded before Flop
+Seat 6: rinsed999 (big blind) folded before Flop
+Seat 7: unsen1 folded before Flop (didn't bet)
+
+PokerStars Hand #250116963787: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/04/22 16:32:31 ET
+Table '3743747148 3' 7-max Seat #5 is the button
+Seat 1: mrcoffee01 (9010 in chips, $25 bounty) 
+Seat 2: raph1910 (1115 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (9365 in chips, $25 bounty) 
+Seat 4: Emanuel03B (14155 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5270 in chips, $25 bounty) 
+Seat 6: rinsed999 (8430 in chips, $25 bounty) 
+Seat 7: unsen1 (19092 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 30
+raph1910: posts the ante 30
+MAKKAPAKK: posts the ante 30
+Emanuel03B: posts the ante 30
+TakiToRivers: posts the ante 30
+rinsed999: posts the ante 30
+unsen1: posts the ante 30
+rinsed999: posts small blind 125
+unsen1: posts big blind 250
+*** HOLE CARDS ***
+mrcoffee01: folds 
+raph1910: folds 
+MAKKAPAKK: raises 250 to 500
+Emanuel03B: folds 
+TakiToRivers: folds 
+rinsed999: calls 375
+unsen1: calls 250
+*** FLOP *** [4s Qs Kh]
+rinsed999: checks 
+unsen1: checks 
+MAKKAPAKK: bets 750
+rinsed999: folds 
+unsen1: calls 750
+*** TURN *** [4s Qs Kh] [Tc]
+unsen1: checks 
+MAKKAPAKK: checks 
+*** RIVER *** [4s Qs Kh Tc] [4d]
+unsen1: bets 1798
+MAKKAPAKK: raises 6287 to 8085 and is all-in
+unsen1: folds 
+Uncalled bet (6287) returned to MAKKAPAKK
+MAKKAPAKK collected 6806 from pot
+MAKKAPAKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 6806 | Rake 0 
+Board [4s Qs Kh Tc 4d]
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: MAKKAPAKK collected (6806)
+Seat 4: Emanuel03B folded before Flop (didn't bet)
+Seat 5: TakiToRivers (button) folded before Flop (didn't bet)
+Seat 6: rinsed999 (small blind) folded on the Flop
+Seat 7: unsen1 (big blind) folded on the River
+
+PokerStars Hand #250116989185: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/04/22 16:33:46 ET
+Table '3743747148 3' 7-max Seat #6 is the button
+Seat 1: mrcoffee01 (8980 in chips, $25 bounty) 
+Seat 2: raph1910 (1085 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (13093 in chips, $25 bounty) 
+Seat 4: Emanuel03B (14125 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5240 in chips, $25 bounty) 
+Seat 6: rinsed999 (7900 in chips, $25 bounty) 
+Seat 7: unsen1 (16014 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 30
+raph1910: posts the ante 30
+MAKKAPAKK: posts the ante 30
+Emanuel03B: posts the ante 30
+TakiToRivers: posts the ante 30
+rinsed999: posts the ante 30
+unsen1: posts the ante 30
+unsen1: posts small blind 125
+mrcoffee01: posts big blind 250
+*** HOLE CARDS ***
+raph1910: folds 
+MAKKAPAKK: raises 250 to 500
+Emanuel03B: folds 
+TakiToRivers: folds 
+rinsed999: folds 
+unsen1: folds 
+mrcoffee01: calls 250
+*** FLOP *** [5c Ks 3c]
+mrcoffee01: checks 
+MAKKAPAKK: checks 
+*** TURN *** [5c Ks 3c] [Jh]
+mrcoffee01: checks 
+MAKKAPAKK: checks 
+*** RIVER *** [5c Ks 3c Jh] [9d]
+mrcoffee01: checks 
+MAKKAPAKK: checks 
+*** SHOW DOWN ***
+mrcoffee01: shows [9c Ts] (a pair of Nines)
+MAKKAPAKK: mucks hand 
+mrcoffee01 collected 1335 from pot
+*** SUMMARY ***
+Total pot 1335 | Rake 0 
+Board [5c Ks 3c Jh 9d]
+Seat 1: mrcoffee01 (big blind) showed [9c Ts] and won (1335) with a pair of Nines
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: MAKKAPAKK mucked
+Seat 4: Emanuel03B folded before Flop (didn't bet)
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 6: rinsed999 (button) folded before Flop (didn't bet)
+Seat 7: unsen1 (small blind) folded before Flop
+
+PokerStars Hand #250117014675: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/04/22 16:35:01 ET
+Table '3743747148 3' 7-max Seat #7 is the button
+Seat 1: mrcoffee01 (9785 in chips, $25 bounty) 
+Seat 2: raph1910 (1055 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (12563 in chips, $25 bounty) 
+Seat 4: Emanuel03B (14095 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5210 in chips, $25 bounty) 
+Seat 6: rinsed999 (7870 in chips, $25 bounty) 
+Seat 7: unsen1 (15859 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 30
+raph1910: posts the ante 30
+MAKKAPAKK: posts the ante 30
+Emanuel03B: posts the ante 30
+TakiToRivers: posts the ante 30
+rinsed999: posts the ante 30
+unsen1: posts the ante 30
+mrcoffee01: posts small blind 125
+raph1910: posts big blind 250
+*** HOLE CARDS ***
+MAKKAPAKK: folds 
+Emanuel03B: folds 
+TakiToRivers: folds 
+rinsed999: raises 750 to 1000
+unsen1: folds 
+mrcoffee01 has timed out
+mrcoffee01: folds 
+mrcoffee01 is sitting out
+mrcoffee01 has returned
+raph1910: raises 25 to 1025 and is all-in
+rinsed999: calls 25
+*** FLOP *** [Jc Qc Kd]
+*** TURN *** [Jc Qc Kd] [3d]
+*** RIVER *** [Jc Qc Kd 3d] [Kh]
+*** SHOW DOWN ***
+raph1910: shows [6c Ah] (a pair of Kings)
+rinsed999: shows [5d As] (a pair of Kings)
+raph1910 collected 1193 from pot
+rinsed999 collected 1192 from pot
+*** SUMMARY ***
+Total pot 2385 | Rake 0 
+Board [Jc Qc Kd 3d Kh]
+Seat 1: mrcoffee01 (small blind) folded before Flop
+Seat 2: raph1910 (big blind) showed [6c Ah] and won (1193) with a pair of Kings
+Seat 3: MAKKAPAKK folded before Flop (didn't bet)
+Seat 4: Emanuel03B folded before Flop (didn't bet)
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 6: rinsed999 showed [5d As] and won (1192) with a pair of Kings
+Seat 7: unsen1 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250117032813: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/04/22 16:35:55 ET
+Table '3743747148 3' 7-max Seat #1 is the button
+Seat 1: mrcoffee01 (9630 in chips, $25 bounty) 
+Seat 2: raph1910 (1193 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (12533 in chips, $25 bounty) 
+Seat 4: Emanuel03B (14065 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5180 in chips, $25 bounty) 
+Seat 6: rinsed999 (8007 in chips, $25 bounty) 
+Seat 7: unsen1 (15829 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 30
+raph1910: posts the ante 30
+MAKKAPAKK: posts the ante 30
+Emanuel03B: posts the ante 30
+TakiToRivers: posts the ante 30
+rinsed999: posts the ante 30
+unsen1: posts the ante 30
+raph1910: posts small blind 125
+MAKKAPAKK: posts big blind 250
+*** HOLE CARDS ***
+Emanuel03B: folds 
+TakiToRivers: raises 250 to 500
+rinsed999: folds 
+unsen1: folds 
+mrcoffee01: folds 
+raph1910: folds 
+MAKKAPAKK: calls 250
+*** FLOP *** [3d 2c Kc]
+MAKKAPAKK: checks 
+TakiToRivers: bets 334
+MAKKAPAKK: folds 
+Uncalled bet (334) returned to TakiToRivers
+TakiToRivers collected 1335 from pot
+TakiToRivers: doesn't show hand 
+*** SUMMARY ***
+Total pot 1335 | Rake 0 
+Board [3d 2c Kc]
+Seat 1: mrcoffee01 (button) folded before Flop (didn't bet)
+Seat 2: raph1910 (small blind) folded before Flop
+Seat 3: MAKKAPAKK (big blind) folded on the Flop
+Seat 4: Emanuel03B folded before Flop (didn't bet)
+Seat 5: TakiToRivers collected (1335)
+Seat 6: rinsed999 folded before Flop (didn't bet)
+Seat 7: unsen1 folded before Flop (didn't bet)
+
+PokerStars Hand #250117050989: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:36:49 ET
+Table '3743747148 3' 7-max Seat #2 is the button
+Seat 1: mrcoffee01 (9600 in chips, $25 bounty) 
+Seat 2: raph1910 (1038 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (12003 in chips, $25 bounty) 
+Seat 4: Emanuel03B (14035 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5985 in chips, $25 bounty) 
+Seat 6: rinsed999 (7977 in chips, $25 bounty) 
+Seat 7: unsen1 (15799 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 40
+raph1910: posts the ante 40
+MAKKAPAKK: posts the ante 40
+Emanuel03B: posts the ante 40
+TakiToRivers: posts the ante 40
+rinsed999: posts the ante 40
+unsen1: posts the ante 40
+MAKKAPAKK: posts small blind 150
+Emanuel03B: posts big blind 300
+*** HOLE CARDS ***
+TakiToRivers: folds 
+rinsed999: folds 
+unsen1: folds 
+mrcoffee01: folds 
+raph1910: raises 698 to 998 and is all-in
+MAKKAPAKK: raises 10965 to 11963 and is all-in
+Emanuel03B: folds 
+Uncalled bet (10965) returned to MAKKAPAKK
+*** FLOP *** [Jd 4h Tc]
+*** TURN *** [Jd 4h Tc] [5d]
+*** RIVER *** [Jd 4h Tc 5d] [Ks]
+*** SHOW DOWN ***
+MAKKAPAKK: shows [Qd Jh] (a pair of Jacks)
+raph1910: shows [Ts Th] (three of a kind, Tens)
+raph1910 collected 2576 from pot
+*** SUMMARY ***
+Total pot 2576 | Rake 0 
+Board [Jd 4h Tc 5d Ks]
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 (button) showed [Ts Th] and won (2576) with three of a kind, Tens
+Seat 3: MAKKAPAKK (small blind) showed [Qd Jh] and lost with a pair of Jacks
+Seat 4: Emanuel03B (big blind) folded before Flop
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 6: rinsed999 folded before Flop (didn't bet)
+Seat 7: unsen1 folded before Flop (didn't bet)
+
+PokerStars Hand #250117065536: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:37:32 ET
+Table '3743747148 3' 7-max Seat #3 is the button
+Seat 1: mrcoffee01 (9560 in chips, $25 bounty) 
+Seat 2: raph1910 (2576 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (10965 in chips, $25 bounty) 
+Seat 4: Emanuel03B (13695 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5945 in chips, $25 bounty) 
+Seat 6: rinsed999 (7937 in chips, $25 bounty) 
+Seat 7: unsen1 (15759 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 40
+raph1910: posts the ante 40
+MAKKAPAKK: posts the ante 40
+Emanuel03B: posts the ante 40
+TakiToRivers: posts the ante 40
+rinsed999: posts the ante 40
+unsen1: posts the ante 40
+Emanuel03B: posts small blind 150
+TakiToRivers: posts big blind 300
+*** HOLE CARDS ***
+rinsed999: folds 
+unsen1: folds 
+mrcoffee01 has timed out
+mrcoffee01: folds 
+mrcoffee01 is sitting out
+mrcoffee01 has returned
+raph1910: folds 
+MAKKAPAKK: folds 
+Emanuel03B: calls 150
+TakiToRivers: checks 
+*** FLOP *** [3s As 4s]
+Emanuel03B: checks 
+TakiToRivers: bets 581
+Emanuel03B: folds 
+Uncalled bet (581) returned to TakiToRivers
+TakiToRivers collected 880 from pot
+TakiToRivers: doesn't show hand 
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [3s As 4s]
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: MAKKAPAKK (button) folded before Flop (didn't bet)
+Seat 4: Emanuel03B (small blind) folded on the Flop
+Seat 5: TakiToRivers (big blind) collected (880)
+Seat 6: rinsed999 folded before Flop (didn't bet)
+Seat 7: unsen1 folded before Flop (didn't bet)
+
+PokerStars Hand #250117084547: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:38:30 ET
+Table '3743747148 3' 7-max Seat #4 is the button
+Seat 1: mrcoffee01 (9520 in chips, $25 bounty) 
+Seat 2: raph1910 (2536 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (10925 in chips, $25 bounty) 
+Seat 4: Emanuel03B (13355 in chips, $25 bounty) 
+Seat 5: TakiToRivers (6485 in chips, $25 bounty) 
+Seat 6: rinsed999 (7897 in chips, $25 bounty) 
+Seat 7: unsen1 (15719 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 40
+raph1910: posts the ante 40
+MAKKAPAKK: posts the ante 40
+Emanuel03B: posts the ante 40
+TakiToRivers: posts the ante 40
+rinsed999: posts the ante 40
+unsen1: posts the ante 40
+TakiToRivers: posts small blind 150
+rinsed999: posts big blind 300
+*** HOLE CARDS ***
+unsen1: folds 
+mrcoffee01: folds 
+raph1910: folds 
+MAKKAPAKK: folds 
+Emanuel03B: raises 300 to 600
+TakiToRivers: folds 
+rinsed999: calls 300
+*** FLOP *** [2c Ac Ah]
+rinsed999: checks 
+Emanuel03B: checks 
+*** TURN *** [2c Ac Ah] [2d]
+rinsed999: checks 
+Emanuel03B: checks 
+*** RIVER *** [2c Ac Ah 2d] [Kc]
+rinsed999: checks 
+Emanuel03B: bets 600
+rinsed999: folds 
+Uncalled bet (600) returned to Emanuel03B
+Emanuel03B collected 1630 from pot
+*** SUMMARY ***
+Total pot 1630 | Rake 0 
+Board [2c Ac Ah 2d Kc]
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: MAKKAPAKK folded before Flop (didn't bet)
+Seat 4: Emanuel03B (button) collected (1630)
+Seat 5: TakiToRivers (small blind) folded before Flop
+Seat 6: rinsed999 (big blind) folded on the River
+Seat 7: unsen1 folded before Flop (didn't bet)
+
+PokerStars Hand #250117097813: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:39:10 ET
+Table '3743747148 3' 7-max Seat #5 is the button
+Seat 1: mrcoffee01 (9480 in chips, $25 bounty) 
+Seat 2: raph1910 (2496 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (10885 in chips, $25 bounty) 
+Seat 4: Emanuel03B (14345 in chips, $25 bounty) 
+Seat 5: TakiToRivers (6295 in chips, $25 bounty) 
+Seat 6: rinsed999 (7257 in chips, $25 bounty) 
+Seat 7: unsen1 (15679 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 40
+raph1910: posts the ante 40
+MAKKAPAKK: posts the ante 40
+Emanuel03B: posts the ante 40
+TakiToRivers: posts the ante 40
+rinsed999: posts the ante 40
+unsen1: posts the ante 40
+rinsed999: posts small blind 150
+unsen1: posts big blind 300
+*** HOLE CARDS ***
+mrcoffee01: folds 
+raph1910: folds 
+MAKKAPAKK: folds 
+Emanuel03B: folds 
+TakiToRivers: raises 300 to 600
+rinsed999: calls 450
+unsen1: folds 
+*** FLOP *** [2c 3d 7d]
+rinsed999: checks 
+TakiToRivers: checks 
+*** TURN *** [2c 3d 7d] [As]
+rinsed999: checks 
+TakiToRivers: checks 
+*** RIVER *** [2c 3d 7d As] [Qs]
+rinsed999: checks 
+TakiToRivers: checks 
+*** SHOW DOWN ***
+rinsed999: shows [7s Ks] (a pair of Sevens)
+TakiToRivers: mucks hand 
+rinsed999 collected 1780 from pot
+*** SUMMARY ***
+Total pot 1780 | Rake 0 
+Board [2c 3d 7d As Qs]
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: MAKKAPAKK folded before Flop (didn't bet)
+Seat 4: Emanuel03B folded before Flop (didn't bet)
+Seat 5: TakiToRivers (button) mucked
+Seat 6: rinsed999 (small blind) showed [7s Ks] and won (1780) with a pair of Sevens
+Seat 7: unsen1 (big blind) folded before Flop
+
+PokerStars Hand #250117114834: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:40:02 ET
+Table '3743747148 3' 7-max Seat #6 is the button
+Seat 1: mrcoffee01 (9440 in chips, $25 bounty) 
+Seat 2: raph1910 (2456 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (10845 in chips, $25 bounty) 
+Seat 4: Emanuel03B (14305 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5655 in chips, $25 bounty) 
+Seat 6: rinsed999 (8397 in chips, $25 bounty) 
+Seat 7: unsen1 (15339 in chips, $62.50 bounty) 
+mrcoffee01: posts the ante 40
+raph1910: posts the ante 40
+MAKKAPAKK: posts the ante 40
+Emanuel03B: posts the ante 40
+TakiToRivers: posts the ante 40
+rinsed999: posts the ante 40
+unsen1: posts the ante 40
+unsen1: posts small blind 150
+mrcoffee01: posts big blind 300
+*** HOLE CARDS ***
+raph1910: folds 
+MAKKAPAKK: folds 
+Emanuel03B: folds 
+TakiToRivers: folds 
+rinsed999: raises 300 to 600
+unsen1: raises 1500 to 2100
+mrcoffee01: folds 
+rinsed999: raises 6257 to 8357 and is all-in
+unsen1: calls 6257
+*** FLOP *** [Kd Ks Jh]
+*** TURN *** [Kd Ks Jh] [Qs]
+*** RIVER *** [Kd Ks Jh Qs] [3c]
+*** SHOW DOWN ***
+unsen1: shows [Ac Kc] (three of a kind, Kings)
+rinsed999: shows [Qh Ah] (two pair, Kings and Queens)
+unsen1 collected 17294 from pot
+unsen1 wins $12.50 for eliminating rinsed999 and their own bounty increases by $12.50 to $75
+rinsed999 finished the tournament
+*** SUMMARY ***
+Total pot 17294 | Rake 0 
+Board [Kd Ks Jh Qs 3c]
+Seat 1: mrcoffee01 (big blind) folded before Flop
+Seat 2: raph1910 folded before Flop (didn't bet)
+Seat 3: MAKKAPAKK folded before Flop (didn't bet)
+Seat 4: Emanuel03B folded before Flop (didn't bet)
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 6: rinsed999 (button) showed [Qh Ah] and lost with two pair, Kings and Queens
+Seat 7: unsen1 (small blind) showed [Ac Kc] and won (17294) with three of a kind, Kings
+
+PokerStars Hand #250117130587: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:40:49 ET
+Table '3743747148 3' 7-max Seat #7 is the button
+Seat 1: mrcoffee01 (9100 in chips, $25 bounty) 
+Seat 2: raph1910 (2416 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (10805 in chips, $25 bounty) 
+Seat 4: Emanuel03B (14265 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5615 in chips, $25 bounty) 
+Seat 7: unsen1 (24236 in chips, $75 bounty) 
+mrcoffee01: posts the ante 40
+raph1910: posts the ante 40
+MAKKAPAKK: posts the ante 40
+Emanuel03B: posts the ante 40
+TakiToRivers: posts the ante 40
+unsen1: posts the ante 40
+mrcoffee01: posts small blind 150
+raph1910: posts big blind 300
+*** HOLE CARDS ***
+MAKKAPAKK: folds 
+Emanuel03B: folds 
+TakiToRivers: folds 
+unsen1: raises 330 to 630
+mrcoffee01: folds 
+raph1910: folds 
+Uncalled bet (330) returned to unsen1
+unsen1 collected 990 from pot
+unsen1: doesn't show hand 
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Seat 1: mrcoffee01 (small blind) folded before Flop
+Seat 2: raph1910 (big blind) folded before Flop
+Seat 3: MAKKAPAKK folded before Flop (didn't bet)
+Seat 4: Emanuel03B folded before Flop (didn't bet)
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 7: unsen1 (button) collected (990)
+
+PokerStars Hand #250117140491: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:41:19 ET
+Table '3743747148 3' 7-max Seat #1 is the button
+Seat 1: mrcoffee01 (8910 in chips, $25 bounty) 
+Seat 2: raph1910 (2076 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (10765 in chips, $25 bounty) 
+Seat 4: Emanuel03B (14225 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5575 in chips, $25 bounty) 
+Seat 7: unsen1 (24886 in chips, $75 bounty) 
+mrcoffee01: posts the ante 40
+raph1910: posts the ante 40
+MAKKAPAKK: posts the ante 40
+Emanuel03B: posts the ante 40
+TakiToRivers: posts the ante 40
+unsen1: posts the ante 40
+raph1910: posts small blind 150
+MAKKAPAKK: posts big blind 300
+*** HOLE CARDS ***
+Emanuel03B: folds 
+TakiToRivers: folds 
+unsen1: raises 330 to 630
+mrcoffee01: folds 
+raph1910: folds 
+MAKKAPAKK: raises 2670 to 3300
+unsen1: folds 
+Uncalled bet (2670) returned to MAKKAPAKK
+MAKKAPAKK collected 1650 from pot
+MAKKAPAKK: doesn't show hand 
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Seat 1: mrcoffee01 (button) folded before Flop (didn't bet)
+Seat 2: raph1910 (small blind) folded before Flop
+Seat 3: MAKKAPAKK (big blind) collected (1650)
+Seat 4: Emanuel03B folded before Flop (didn't bet)
+Seat 5: TakiToRivers folded before Flop (didn't bet)
+Seat 7: unsen1 folded before Flop
+
+PokerStars Hand #250117150890: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:41:51 ET
+Table '3743747148 3' 7-max Seat #2 is the button
+Seat 1: mrcoffee01 (8870 in chips, $25 bounty) 
+Seat 2: raph1910 (1886 in chips, $25 bounty) 
+Seat 3: MAKKAPAKK (11745 in chips, $25 bounty) 
+Seat 4: Emanuel03B (14185 in chips, $25 bounty) 
+Seat 5: TakiToRivers (5535 in chips, $25 bounty) 
+Seat 7: unsen1 (24216 in chips, $75 bounty) 
+mrcoffee01: posts the ante 40
+raph1910: posts the ante 40
+MAKKAPAKK: posts the ante 40
+Emanuel03B: posts the ante 40
+TakiToRivers: posts the ante 40
+unsen1: posts the ante 40
+MAKKAPAKK: posts small blind 150
+Emanuel03B: posts big blind 300
+*** HOLE CARDS ***
+TakiToRivers: raises 300 to 600
+unsen1: calls 600
+mrcoffee01: folds 
+raph1910: folds 
+MAKKAPAKK: raises 2400 to 3000
+Emanuel03B: folds 
+TakiToRivers: raises 2495 to 5495 and is all-in
+unsen1: folds 
+MAKKAPAKK: calls 2495
+*** FLOP *** [Qs 4s Ts]
+*** TURN *** [Qs 4s Ts] [Ac]
+*** RIVER *** [Qs 4s Ts Ac] [6h]
+*** SHOW DOWN ***
+MAKKAPAKK: shows [Kh Ks] (a pair of Kings)
+TakiToRivers: shows [Jd Js] (a pair of Jacks)
+MAKKAPAKK collected 12130 from pot
+MAKKAPAKK wins $12.50 for eliminating TakiToRivers and their own bounty increases by $12.50 to $37.50
+TakiToRivers finished the tournament
+*** SUMMARY ***
+Total pot 12130 | Rake 0 
+Board [Qs 4s Ts Ac 6h]
+Seat 1: mrcoffee01 folded before Flop (didn't bet)
+Seat 2: raph1910 (button) folded before Flop (didn't bet)
+Seat 3: MAKKAPAKK (small blind) showed [Kh Ks] and won (12130) with a pair of Kings
+Seat 4: Emanuel03B (big blind) folded before Flop
+Seat 5: TakiToRivers showed [Jd Js] and lost with a pair of Jacks
+Seat 7: unsen1 folded before Flop

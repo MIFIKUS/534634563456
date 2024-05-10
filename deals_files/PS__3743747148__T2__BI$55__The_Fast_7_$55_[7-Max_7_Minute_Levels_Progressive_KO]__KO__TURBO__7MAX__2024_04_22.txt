@@ -1,0 +1,2213 @@
+PokerStars Hand #250116632570: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:16:28 ET
+Table '3743747148 2' 7-max Seat #2 is the button
+Seat 1: Voca94 (4457 in chips, $25 bounty) 
+Seat 2: verybadday (8349 in chips, $25 bounty) 
+Seat 3: drope$tyle (7350 in chips, $25 bounty) 
+Seat 5: Thom_Silva (14519 in chips, $37.50 bounty) 
+Seat 6: Quirurjico (5400 in chips, $25 bounty) 
+Seat 7: skarpet2 (6330 in chips, $25 bounty) 
+Voca94: posts the ante 20
+verybadday: posts the ante 20
+drope$tyle: posts the ante 20
+Thom_Silva: posts the ante 20
+Quirurjico: posts the ante 20
+skarpet2: posts the ante 20
+drope$tyle: posts small blind 80
+Thom_Silva: posts big blind 160
+*** HOLE CARDS ***
+Quirurjico: folds 
+skarpet2: folds 
+Voca94: folds 
+verybadday: raises 208 to 368
+drope$tyle: folds 
+Thom_Silva: calls 208
+*** FLOP *** [7h 7d 2s]
+Thom_Silva: bets 309
+verybadday: folds 
+Uncalled bet (309) returned to Thom_Silva
+Thom_Silva collected 936 from pot
+*** SUMMARY ***
+Total pot 936 | Rake 0 
+Board [7h 7d 2s]
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday (button) folded on the Flop
+Seat 3: drope$tyle (small blind) folded before Flop
+Seat 5: Thom_Silva (big blind) collected (936)
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250116651749: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:17:23 ET
+Table '3743747148 2' 7-max Seat #3 is the button
+Seat 1: Voca94 (4437 in chips, $25 bounty) 
+Seat 2: verybadday (7961 in chips, $25 bounty) 
+Seat 3: drope$tyle (7250 in chips, $25 bounty) 
+Seat 5: Thom_Silva (15067 in chips, $37.50 bounty) 
+Seat 6: Quirurjico (5380 in chips, $25 bounty) 
+Seat 7: skarpet2 (6310 in chips, $25 bounty) 
+Voca94: posts the ante 20
+verybadday: posts the ante 20
+drope$tyle: posts the ante 20
+Thom_Silva: posts the ante 20
+Quirurjico: posts the ante 20
+skarpet2: posts the ante 20
+Thom_Silva: posts small blind 80
+Quirurjico: posts big blind 160
+*** HOLE CARDS ***
+skarpet2: folds 
+Voca94: folds 
+verybadday: folds 
+drope$tyle: raises 160 to 320
+Thom_Silva: folds 
+Schubertarn is disconnected 
+Quirurjico: calls 160
+*** FLOP *** [6s 2s 4s]
+Quirurjico: checks 
+drope$tyle: bets 230
+Quirurjico: calls 230
+*** TURN *** [6s 2s 4s] [Jd]
+Quirurjico: checks 
+drope$tyle: bets 951
+Quirurjico: calls 951
+*** RIVER *** [6s 2s 4s Jd] [7d]
+Quirurjico: checks 
+drope$tyle: checks 
+*** SHOW DOWN ***
+Quirurjico: shows [Kd Js] (a pair of Jacks)
+drope$tyle: mucks hand 
+Quirurjico collected 3202 from pot
+*** SUMMARY ***
+Total pot 3202 | Rake 0 
+Board [6s 2s 4s Jd 7d]
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle (button) mucked
+Seat 5: Thom_Silva (small blind) folded before Flop
+Seat 6: Quirurjico (big blind) showed [Kd Js] and won (3202) with a pair of Jacks
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250116683551: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:18:55 ET
+Table '3743747148 2' 7-max Seat #5 is the button
+Seat 1: Voca94 (4417 in chips, $25 bounty) 
+Seat 2: verybadday (7941 in chips, $25 bounty) 
+Seat 3: drope$tyle (5729 in chips, $25 bounty) 
+Seat 4: Schubertarn (8407 in chips, $25 bounty) 
+Seat 5: Thom_Silva (14967 in chips, $37.50 bounty) 
+Seat 6: Quirurjico (7061 in chips, $25 bounty) 
+Seat 7: skarpet2 (6290 in chips, $25 bounty) 
+Voca94: posts the ante 20
+verybadday: posts the ante 20
+drope$tyle: posts the ante 20
+Schubertarn: posts the ante 20
+Thom_Silva: posts the ante 20
+Quirurjico: posts the ante 20
+skarpet2: posts the ante 20
+Quirurjico: posts small blind 80
+skarpet2: posts big blind 160
+*** HOLE CARDS ***
+Voca94: folds 
+verybadday: folds 
+drope$tyle: folds 
+Schubertarn: folds 
+Thom_Silva: raises 174 to 334
+Quirurjico: folds 
+skarpet2: calls 174
+*** FLOP *** [6c Qd 5c]
+skarpet2: checks 
+Thom_Silva: bets 293
+skarpet2: calls 293
+*** TURN *** [6c Qd 5c] [Td]
+skarpet2: checks 
+Thom_Silva: checks 
+*** RIVER *** [6c Qd 5c Td] [Tc]
+skarpet2: checks 
+Thom_Silva: checks 
+*** SHOW DOWN ***
+skarpet2: shows [5d 4d] (two pair, Tens and Fives)
+Thom_Silva: mucks hand 
+skarpet2 collected 1474 from pot
+*** SUMMARY ***
+Total pot 1474 | Rake 0 
+Board [6c Qd 5c Td Tc]
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle folded before Flop (didn't bet)
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: Thom_Silva (button) mucked
+Seat 6: Quirurjico (small blind) folded before Flop
+Seat 7: skarpet2 (big blind) showed [5d 4d] and won (1474) with two pair, Tens and Fives
+
+PokerStars Hand #250116704625: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:19:56 ET
+Table '3743747148 2' 7-max Seat #6 is the button
+Seat 1: Voca94 (4397 in chips, $25 bounty) 
+Seat 2: verybadday (7921 in chips, $25 bounty) 
+Seat 3: drope$tyle (5709 in chips, $25 bounty) 
+Seat 4: Schubertarn (8387 in chips, $25 bounty) 
+Seat 5: Thom_Silva (14320 in chips, $37.50 bounty) 
+Seat 6: Quirurjico (6961 in chips, $25 bounty) 
+Seat 7: skarpet2 (7117 in chips, $25 bounty) 
+Voca94: posts the ante 20
+verybadday: posts the ante 20
+drope$tyle: posts the ante 20
+Schubertarn: posts the ante 20
+Thom_Silva: posts the ante 20
+Quirurjico: posts the ante 20
+skarpet2: posts the ante 20
+skarpet2: posts small blind 80
+Voca94: posts big blind 160
+*** HOLE CARDS ***
+verybadday: folds 
+drope$tyle: folds 
+Schubertarn: raises 160 to 320
+Thom_Silva: folds 
+Quirurjico: calls 320
+skarpet2: raises 6777 to 7097 and is all-in
+Voca94: folds 
+Schubertarn: folds 
+Quirurjico: folds 
+Uncalled bet (6777) returned to skarpet2
+skarpet2 collected 1260 from pot
+skarpet2: doesn't show hand 
+*** SUMMARY ***
+Total pot 1260 | Rake 0 
+Seat 1: Voca94 (big blind) folded before Flop
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle folded before Flop (didn't bet)
+Seat 4: Schubertarn folded before Flop
+Seat 5: Thom_Silva folded before Flop (didn't bet)
+Seat 6: Quirurjico (button) folded before Flop
+Seat 7: skarpet2 (small blind) collected (1260)
+
+PokerStars Hand #250116716896: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:20:32 ET
+Table '3743747148 2' 7-max Seat #7 is the button
+Seat 1: Voca94 (4217 in chips, $25 bounty) 
+Seat 2: verybadday (7901 in chips, $25 bounty) 
+Seat 3: drope$tyle (5689 in chips, $25 bounty) 
+Seat 4: Schubertarn (8047 in chips, $25 bounty) 
+Seat 5: Thom_Silva (14300 in chips, $37.50 bounty) 
+Seat 6: Quirurjico (6621 in chips, $25 bounty) 
+Seat 7: skarpet2 (8037 in chips, $25 bounty) 
+Voca94: posts the ante 20
+verybadday: posts the ante 20
+drope$tyle: posts the ante 20
+Schubertarn: posts the ante 20
+Thom_Silva: posts the ante 20
+Quirurjico: posts the ante 20
+skarpet2: posts the ante 20
+Voca94: posts small blind 80
+verybadday: posts big blind 160
+*** HOLE CARDS ***
+drope$tyle: folds 
+Schubertarn: folds 
+Thom_Silva: folds 
+Quirurjico: raises 192 to 352
+skarpet2: folds 
+Voca94: raises 3845 to 4197 and is all-in
+verybadday: folds 
+Quirurjico: folds 
+Uncalled bet (3845) returned to Voca94
+Voca94 collected 1004 from pot
+Voca94: doesn't show hand 
+*** SUMMARY ***
+Total pot 1004 | Rake 0 
+Seat 1: Voca94 (small blind) collected (1004)
+Seat 2: verybadday (big blind) folded before Flop
+Seat 3: drope$tyle folded before Flop (didn't bet)
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: Thom_Silva folded before Flop (didn't bet)
+Seat 6: Quirurjico folded before Flop
+Seat 7: skarpet2 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250116728725: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:21:06 ET
+Table '3743747148 2' 7-max Seat #1 is the button
+Seat 1: Voca94 (4849 in chips, $25 bounty) 
+Seat 2: verybadday (7721 in chips, $25 bounty) 
+Seat 3: drope$tyle (5669 in chips, $25 bounty) 
+Seat 4: Schubertarn (8027 in chips, $25 bounty) 
+Seat 5: Thom_Silva (14280 in chips, $37.50 bounty) 
+Seat 6: Quirurjico (6249 in chips, $25 bounty) 
+Seat 7: skarpet2 (8017 in chips, $25 bounty) 
+Voca94: posts the ante 20
+verybadday: posts the ante 20
+drope$tyle: posts the ante 20
+Schubertarn: posts the ante 20
+Thom_Silva: posts the ante 20
+Quirurjico: posts the ante 20
+skarpet2: posts the ante 20
+verybadday: posts small blind 80
+drope$tyle: posts big blind 160
+*** HOLE CARDS ***
+Schubertarn: folds 
+Thom_Silva: folds 
+Quirurjico: folds 
+skarpet2: folds 
+Voca94: raises 160 to 320
+verybadday: folds 
+drope$tyle: folds 
+Uncalled bet (160) returned to Voca94
+Voca94 collected 540 from pot
+Voca94: doesn't show hand 
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Seat 1: Voca94 (button) collected (540)
+Seat 2: verybadday (small blind) folded before Flop
+Seat 3: drope$tyle (big blind) folded before Flop
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: Thom_Silva folded before Flop (didn't bet)
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250116737998: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:21:32 ET
+Table '3743747148 2' 7-max Seat #2 is the button
+Seat 1: Voca94 (5209 in chips, $25 bounty) 
+Seat 2: verybadday (7621 in chips, $25 bounty) 
+Seat 3: drope$tyle (5489 in chips, $25 bounty) 
+Seat 4: Schubertarn (8007 in chips, $25 bounty) 
+Seat 6: Quirurjico (6229 in chips, $25 bounty) 
+Seat 7: skarpet2 (7997 in chips, $25 bounty) 
+Voca94: posts the ante 20
+verybadday: posts the ante 20
+drope$tyle: posts the ante 20
+Schubertarn: posts the ante 20
+Quirurjico: posts the ante 20
+skarpet2: posts the ante 20
+drope$tyle: posts small blind 80
+Schubertarn: posts big blind 160
+*** HOLE CARDS ***
+Quirurjico: folds 
+tsüüri is disconnected 
+skarpet2: folds 
+Voca94: folds 
+verybadday: folds 
+drope$tyle: raises 240 to 400
+Schubertarn: raises 1040 to 1440
+drope$tyle: folds 
+Uncalled bet (1040) returned to Schubertarn
+Schubertarn collected 920 from pot
+Schubertarn: doesn't show hand 
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday (button) folded before Flop (didn't bet)
+Seat 3: drope$tyle (small blind) folded before Flop
+Seat 4: Schubertarn (big blind) collected (920)
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250116751682: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/04/22 16:22:12 ET
+Table '3743747148 2' 7-max Seat #3 is the button
+Seat 1: Voca94 (5189 in chips, $25 bounty) 
+Seat 2: verybadday (7601 in chips, $25 bounty) 
+Seat 3: drope$tyle (5069 in chips, $25 bounty) 
+Seat 4: Schubertarn (8507 in chips, $25 bounty) 
+Seat 5: tsüüri (7000 in chips, $25 bounty) 
+Seat 6: Quirurjico (6209 in chips, $25 bounty) 
+Seat 7: skarpet2 (7977 in chips, $25 bounty) 
+Voca94: posts the ante 20
+verybadday: posts the ante 20
+drope$tyle: posts the ante 20
+Schubertarn: posts the ante 20
+tsüüri: posts the ante 20
+Quirurjico: posts the ante 20
+skarpet2: posts the ante 20
+Schubertarn: posts small blind 80
+tsüüri: posts big blind 160
+*** HOLE CARDS ***
+Quirurjico: folds 
+skarpet2: raises 160 to 320
+Voca94: folds 
+verybadday: folds 
+drope$tyle: folds 
+Schubertarn: folds 
+tsüüri: calls 160
+*** FLOP *** [2d 6d Ks]
+tsüüri: checks 
+skarpet2: bets 160
+tsüüri: calls 160
+*** TURN *** [2d 6d Ks] [7h]
+tsüüri: checks 
+skarpet2: checks 
+*** RIVER *** [2d 6d Ks 7h] [8h]
+tsüüri: bets 160
+skarpet2: calls 160
+*** SHOW DOWN ***
+tsüüri: shows [6c 9c] (a pair of Sixes)
+skarpet2: mucks hand 
+tsüüri collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [2d 6d Ks 7h 8h]
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle (button) folded before Flop (didn't bet)
+Seat 4: Schubertarn (small blind) folded before Flop
+Seat 5: tsüüri (big blind) showed [6c 9c] and won (1500) with a pair of Sixes
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 mucked
+
+PokerStars Hand #250116764755: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:22:49 ET
+Table '3743747148 2' 7-max Seat #4 is the button
+Seat 1: Voca94 (5169 in chips, $25 bounty) 
+Seat 2: verybadday (7581 in chips, $25 bounty) 
+Seat 3: drope$tyle (5049 in chips, $25 bounty) 
+Seat 4: Schubertarn (8407 in chips, $25 bounty) 
+Seat 5: tsüüri (7840 in chips, $25 bounty) 
+Seat 6: Quirurjico (6189 in chips, $25 bounty) 
+Seat 7: skarpet2 (7317 in chips, $25 bounty) 
+Voca94: posts the ante 25
+verybadday: posts the ante 25
+drope$tyle: posts the ante 25
+Schubertarn: posts the ante 25
+tsüüri: posts the ante 25
+Quirurjico: posts the ante 25
+skarpet2: posts the ante 25
+tsüüri: posts small blind 100
+Quirurjico: posts big blind 200
+*** HOLE CARDS ***
+skarpet2: folds 
+Voca94: folds 
+verybadday: folds 
+drope$tyle: folds 
+Schubertarn: folds 
+tsüüri: folds 
+Uncalled bet (100) returned to Quirurjico
+Quirurjico collected 375 from pot
+Quirurjico: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle folded before Flop (didn't bet)
+Seat 4: Schubertarn (button) folded before Flop (didn't bet)
+Seat 5: tsüüri (small blind) folded before Flop
+Seat 6: Quirurjico (big blind) collected (375)
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250116769359: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:23:03 ET
+Table '3743747148 2' 7-max Seat #5 is the button
+Seat 1: Voca94 (5144 in chips, $25 bounty) 
+Seat 2: verybadday (7556 in chips, $25 bounty) 
+Seat 3: drope$tyle (5024 in chips, $25 bounty) 
+Seat 4: Schubertarn (8382 in chips, $25 bounty) 
+Seat 5: tsüüri (7715 in chips, $25 bounty) 
+Seat 6: Quirurjico (6439 in chips, $25 bounty) 
+Seat 7: skarpet2 (7292 in chips, $25 bounty) 
+Voca94: posts the ante 25
+verybadday: posts the ante 25
+drope$tyle: posts the ante 25
+Schubertarn: posts the ante 25
+tsüüri: posts the ante 25
+Quirurjico: posts the ante 25
+skarpet2: posts the ante 25
+Quirurjico: posts small blind 100
+skarpet2: posts big blind 200
+*** HOLE CARDS ***
+Voca94: folds 
+verybadday: folds 
+drope$tyle: folds 
+Schubertarn: folds 
+tsüüri: raises 200 to 400
+Quirurjico: raises 1100 to 1500
+skarpet2: folds 
+tsüüri: folds 
+Uncalled bet (1100) returned to Quirurjico
+Quirurjico collected 1175 from pot
+Quirurjico: doesn't show hand 
+*** SUMMARY ***
+Total pot 1175 | Rake 0 
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle folded before Flop (didn't bet)
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: tsüüri (button) folded before Flop
+Seat 6: Quirurjico (small blind) collected (1175)
+Seat 7: skarpet2 (big blind) folded before Flop
+
+PokerStars Hand #250116779185: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:23:31 ET
+Table '3743747148 2' 7-max Seat #6 is the button
+Seat 1: Voca94 (5119 in chips, $25 bounty) 
+Seat 2: verybadday (7531 in chips, $25 bounty) 
+Seat 3: drope$tyle (4999 in chips, $25 bounty) 
+Seat 4: Schubertarn (8357 in chips, $25 bounty) 
+Seat 5: tsüüri (7290 in chips, $25 bounty) 
+Seat 6: Quirurjico (7189 in chips, $25 bounty) 
+Seat 7: skarpet2 (7067 in chips, $25 bounty) 
+Voca94: posts the ante 25
+verybadday: posts the ante 25
+drope$tyle: posts the ante 25
+Schubertarn: posts the ante 25
+tsüüri: posts the ante 25
+Quirurjico: posts the ante 25
+skarpet2: posts the ante 25
+skarpet2: posts small blind 100
+Voca94: posts big blind 200
+*** HOLE CARDS ***
+verybadday: folds 
+drope$tyle: raises 200 to 400
+Schubertarn: folds 
+tsüüri: folds 
+Quirurjico: calls 400
+skarpet2: raises 6642 to 7042 and is all-in
+Voca94: folds 
+drope$tyle: calls 4574 and is all-in
+Quirurjico: folds 
+Uncalled bet (2068) returned to skarpet2
+*** FLOP *** [Kh 8s 5c]
+*** TURN *** [Kh 8s 5c] [4s]
+*** RIVER *** [Kh 8s 5c 4s] [7s]
+*** SHOW DOWN ***
+skarpet2: shows [9c As] (high card Ace)
+drope$tyle: shows [Ts Th] (a pair of Tens)
+drope$tyle collected 10723 from pot
+*** SUMMARY ***
+Total pot 10723 | Rake 0 
+Board [Kh 8s 5c 4s 7s]
+Seat 1: Voca94 (big blind) folded before Flop
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle showed [Ts Th] and won (10723) with a pair of Tens
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: tsüüri folded before Flop (didn't bet)
+Seat 6: Quirurjico (button) folded before Flop
+Seat 7: skarpet2 (small blind) showed [9c As] and lost with high card Ace
+
+PokerStars Hand #250116792643: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:24:10 ET
+Table '3743747148 2' 7-max Seat #7 is the button
+Seat 1: Voca94 (4894 in chips, $25 bounty) 
+Seat 2: verybadday (7506 in chips, $25 bounty) 
+Seat 3: drope$tyle (10723 in chips, $25 bounty) 
+Seat 4: Schubertarn (8332 in chips, $25 bounty) 
+Seat 5: tsüüri (7265 in chips, $25 bounty) 
+Seat 6: Quirurjico (6764 in chips, $25 bounty) 
+Seat 7: skarpet2 (2068 in chips, $25 bounty) 
+Voca94: posts the ante 25
+verybadday: posts the ante 25
+drope$tyle: posts the ante 25
+Schubertarn: posts the ante 25
+tsüüri: posts the ante 25
+Quirurjico: posts the ante 25
+skarpet2: posts the ante 25
+Voca94: posts small blind 100
+verybadday: posts big blind 200
+*** HOLE CARDS ***
+drope$tyle: raises 200 to 400
+Schubertarn: folds 
+tsüüri: folds 
+Quirurjico: folds 
+skarpet2: folds 
+Voca94: raises 4469 to 4869 and is all-in
+verybadday: folds 
+drope$tyle: folds 
+Uncalled bet (4469) returned to Voca94
+Voca94 collected 1175 from pot
+Voca94: doesn't show hand 
+*** SUMMARY ***
+Total pot 1175 | Rake 0 
+Seat 1: Voca94 (small blind) collected (1175)
+Seat 2: verybadday (big blind) folded before Flop
+Seat 3: drope$tyle folded before Flop
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: tsüüri folded before Flop (didn't bet)
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250116800074: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:24:31 ET
+Table '3743747148 2' 7-max Seat #1 is the button
+Seat 1: Voca94 (5644 in chips, $25 bounty) 
+Seat 2: verybadday (7281 in chips, $25 bounty) 
+Seat 3: drope$tyle (10298 in chips, $25 bounty) 
+Seat 4: Schubertarn (8307 in chips, $25 bounty) 
+Seat 5: tsüüri (7240 in chips, $25 bounty) 
+Seat 6: Quirurjico (6739 in chips, $25 bounty) 
+Seat 7: skarpet2 (2043 in chips, $25 bounty) 
+Voca94: posts the ante 25
+verybadday: posts the ante 25
+drope$tyle: posts the ante 25
+Schubertarn: posts the ante 25
+tsüüri: posts the ante 25
+Quirurjico: posts the ante 25
+skarpet2: posts the ante 25
+verybadday: posts small blind 100
+drope$tyle: posts big blind 200
+*** HOLE CARDS ***
+Schubertarn: folds 
+tsüüri: folds 
+Quirurjico: raises 240 to 440
+skarpet2: folds 
+Voca94: folds 
+verybadday: folds 
+drope$tyle: calls 240
+*** FLOP *** [Ad 3d Qd]
+drope$tyle: checks 
+Quirurjico: bets 289
+drope$tyle: calls 289
+*** TURN *** [Ad 3d Qd] [Kc]
+drope$tyle: checks 
+Quirurjico: bets 1053
+drope$tyle: folds 
+Uncalled bet (1053) returned to Quirurjico
+Quirurjico collected 1733 from pot
+Quirurjico: doesn't show hand 
+*** SUMMARY ***
+Total pot 1733 | Rake 0 
+Board [Ad 3d Qd Kc]
+Seat 1: Voca94 (button) folded before Flop (didn't bet)
+Seat 2: verybadday (small blind) folded before Flop
+Seat 3: drope$tyle (big blind) folded on the Turn
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: tsüüri folded before Flop (didn't bet)
+Seat 6: Quirurjico collected (1733)
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250116815480: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:25:16 ET
+Table '3743747148 2' 7-max Seat #2 is the button
+Seat 1: Voca94 (5619 in chips, $25 bounty) 
+Seat 2: verybadday (7156 in chips, $25 bounty) 
+Seat 3: drope$tyle (9544 in chips, $25 bounty) 
+Seat 4: Schubertarn (8282 in chips, $25 bounty) 
+Seat 5: tsüüri (7215 in chips, $25 bounty) 
+Seat 6: Quirurjico (7718 in chips, $25 bounty) 
+Seat 7: skarpet2 (2018 in chips, $25 bounty) 
+Voca94: posts the ante 25
+verybadday: posts the ante 25
+drope$tyle: posts the ante 25
+Schubertarn: posts the ante 25
+tsüüri: posts the ante 25
+Quirurjico: posts the ante 25
+skarpet2: posts the ante 25
+drope$tyle: posts small blind 100
+Schubertarn: posts big blind 200
+*** HOLE CARDS ***
+tsüüri: folds 
+Quirurjico: folds 
+skarpet2: folds 
+Voca94: folds 
+verybadday: folds 
+drope$tyle: raises 360 to 560
+Schubertarn: raises 1040 to 1600
+drope$tyle: folds 
+Uncalled bet (1040) returned to Schubertarn
+Schubertarn collected 1295 from pot
+Schubertarn: doesn't show hand 
+*** SUMMARY ***
+Total pot 1295 | Rake 0 
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday (button) folded before Flop (didn't bet)
+Seat 3: drope$tyle (small blind) folded before Flop
+Seat 4: Schubertarn (big blind) collected (1295)
+Seat 5: tsüüri folded before Flop (didn't bet)
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250116825013: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:25:44 ET
+Table '3743747148 2' 7-max Seat #3 is the button
+Seat 1: Voca94 (5594 in chips, $25 bounty) 
+Seat 2: verybadday (7131 in chips, $25 bounty) 
+Seat 3: drope$tyle (8959 in chips, $25 bounty) 
+Seat 4: Schubertarn (8992 in chips, $25 bounty) 
+Seat 5: tsüüri (7190 in chips, $25 bounty) 
+Seat 6: Quirurjico (7693 in chips, $25 bounty) 
+Seat 7: skarpet2 (1993 in chips, $25 bounty) 
+Voca94: posts the ante 25
+verybadday: posts the ante 25
+drope$tyle: posts the ante 25
+Schubertarn: posts the ante 25
+tsüüri: posts the ante 25
+Quirurjico: posts the ante 25
+skarpet2: posts the ante 25
+Schubertarn: posts small blind 100
+tsüüri: posts big blind 200
+*** HOLE CARDS ***
+Quirurjico: folds 
+skarpet2: raises 1768 to 1968 and is all-in
+Voca94: folds 
+verybadday: folds 
+drope$tyle: folds 
+Schubertarn: raises 6999 to 8967 and is all-in
+tsüüri: calls 6965 and is all-in
+Uncalled bet (1802) returned to Schubertarn
+*** FLOP *** [Ks Qh 2c]
+*** TURN *** [Ks Qh 2c] [7h]
+*** RIVER *** [Ks Qh 2c 7h] [2s]
+*** SHOW DOWN ***
+Schubertarn: shows [Ah 9s] (a pair of Deuces)
+tsüüri: shows [Jh Ts] (a pair of Deuces - lower kicker)
+Schubertarn collected 10394 from side pot
+skarpet2: shows [Qd Jc] (two pair, Queens and Deuces)
+skarpet2 collected 6079 from main pot
+Schubertarn wins $12.50 for eliminating tsüüri and their own bounty increases by $12.50 to $37.50
+tsüüri finished the tournament
+*** SUMMARY ***
+Total pot 16473 Main pot 6079. Side pot 10394. | Rake 0 
+Board [Ks Qh 2c 7h 2s]
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle (button) folded before Flop (didn't bet)
+Seat 4: Schubertarn (small blind) showed [Ah 9s] and won (10394) with a pair of Deuces
+Seat 5: tsüüri (big blind) showed [Jh Ts] and lost with a pair of Deuces
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 showed [Qd Jc] and won (6079) with two pair, Queens and Deuces
+
+PokerStars Hand #250116835748: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:26:15 ET
+Table '3743747148 2' 7-max Seat #4 is the button
+Seat 1: Voca94 (5569 in chips, $25 bounty) 
+Seat 2: verybadday (7106 in chips, $25 bounty) 
+Seat 3: drope$tyle (8934 in chips, $25 bounty) 
+Seat 4: Schubertarn (12196 in chips, $37.50 bounty) 
+Seat 6: Quirurjico (7668 in chips, $25 bounty) 
+Seat 7: skarpet2 (6079 in chips, $25 bounty) 
+Voca94: posts the ante 25
+verybadday: posts the ante 25
+drope$tyle: posts the ante 25
+Schubertarn: posts the ante 25
+Quirurjico: posts the ante 25
+skarpet2: posts the ante 25
+Quirurjico: posts small blind 100
+skarpet2: posts big blind 200
+*** HOLE CARDS ***
+Voca94: folds 
+verybadday: folds 
+drope$tyle: raises 4440 to 4640
+Schubertarn: folds 
+Quirurjico: folds 
+skarpet2: folds 
+Uncalled bet (4440) returned to drope$tyle
+drope$tyle collected 650 from pot
+drope$tyle: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle collected (650)
+Seat 4: Schubertarn (button) folded before Flop (didn't bet)
+Seat 6: Quirurjico (small blind) folded before Flop
+Seat 7: skarpet2 (big blind) folded before Flop
+
+PokerStars Hand #250116846619: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:26:47 ET
+Table '3743747148 2' 7-max Seat #6 is the button
+Seat 1: Voca94 (5544 in chips, $25 bounty) 
+Seat 2: verybadday (7081 in chips, $25 bounty) 
+Seat 3: drope$tyle (9359 in chips, $25 bounty) 
+Seat 4: Schubertarn (12171 in chips, $37.50 bounty) 
+Seat 6: Quirurjico (7543 in chips, $25 bounty) 
+Seat 7: skarpet2 (5854 in chips, $25 bounty) 
+Voca94: posts the ante 25
+verybadday: posts the ante 25
+drope$tyle: posts the ante 25
+Schubertarn: posts the ante 25
+Quirurjico: posts the ante 25
+skarpet2: posts the ante 25
+skarpet2: posts small blind 100
+Voca94: posts big blind 200
+*** HOLE CARDS ***
+fi0r is disconnected 
+verybadday: folds 
+drope$tyle: raises 200 to 400
+Schubertarn: folds 
+Quirurjico: calls 400
+skarpet2: folds 
+Voca94: raises 1200 to 1600
+drope$tyle: raises 7734 to 9334 and is all-in
+Quirurjico: folds 
+Voca94: folds 
+Uncalled bet (7734) returned to drope$tyle
+drope$tyle collected 3850 from pot
+drope$tyle: doesn't show hand 
+*** SUMMARY ***
+Total pot 3850 | Rake 0 
+Seat 1: Voca94 (big blind) folded before Flop
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle collected (3850)
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 6: Quirurjico (button) folded before Flop
+Seat 7: skarpet2 (small blind) folded before Flop
+
+PokerStars Hand #250116863935: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:27:39 ET
+Table '3743747148 2' 7-max Seat #7 is the button
+Seat 1: Voca94 (3919 in chips, $25 bounty) 
+Seat 2: verybadday (7056 in chips, $25 bounty) 
+Seat 3: drope$tyle (11584 in chips, $25 bounty) 
+Seat 4: Schubertarn (12146 in chips, $37.50 bounty) 
+Seat 5: fi0r (7000 in chips, $25 bounty) 
+Seat 6: Quirurjico (7118 in chips, $25 bounty) 
+Seat 7: skarpet2 (5729 in chips, $25 bounty) 
+Voca94: posts the ante 25
+verybadday: posts the ante 25
+drope$tyle: posts the ante 25
+Schubertarn: posts the ante 25
+fi0r: posts the ante 25
+Quirurjico: posts the ante 25
+skarpet2: posts the ante 25
+Voca94: posts small blind 100
+verybadday: posts big blind 200
+*** HOLE CARDS ***
+drope$tyle: folds 
+Schubertarn: folds 
+fi0r: folds 
+Quirurjico: folds 
+skarpet2: folds 
+Voca94: calls 100
+verybadday: checks 
+*** FLOP *** [Qh 3d Tc]
+Voca94: bets 200
+verybadday: folds 
+Uncalled bet (200) returned to Voca94
+Voca94 collected 575 from pot
+Voca94: doesn't show hand 
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Board [Qh 3d Tc]
+Seat 1: Voca94 (small blind) collected (575)
+Seat 2: verybadday (big blind) folded on the Flop
+Seat 3: drope$tyle folded before Flop (didn't bet)
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: fi0r folded before Flop (didn't bet)
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250116871127: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:28:00 ET
+Table '3743747148 2' 7-max Seat #1 is the button
+Seat 1: Voca94 (4269 in chips, $25 bounty) 
+Seat 2: verybadday (6831 in chips, $25 bounty) 
+Seat 3: drope$tyle (11559 in chips, $25 bounty) 
+Seat 4: Schubertarn (12121 in chips, $37.50 bounty) 
+Seat 5: fi0r (6975 in chips, $25 bounty) 
+Seat 6: Quirurjico (7093 in chips, $25 bounty) 
+Seat 7: skarpet2 (5704 in chips, $25 bounty) 
+Voca94: posts the ante 25
+verybadday: posts the ante 25
+drope$tyle: posts the ante 25
+Schubertarn: posts the ante 25
+fi0r: posts the ante 25
+Quirurjico: posts the ante 25
+skarpet2: posts the ante 25
+verybadday: posts small blind 100
+drope$tyle: posts big blind 200
+*** HOLE CARDS ***
+Schubertarn: folds 
+fi0r: raises 200 to 400
+Quirurjico: folds 
+skarpet2: folds 
+Voca94: folds 
+verybadday: folds 
+drope$tyle: folds 
+Uncalled bet (200) returned to fi0r
+fi0r collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: Voca94 (button) folded before Flop (didn't bet)
+Seat 2: verybadday (small blind) folded before Flop
+Seat 3: drope$tyle (big blind) folded before Flop
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: fi0r collected (675)
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250116881525: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:28:30 ET
+Table '3743747148 2' 7-max Seat #2 is the button
+Seat 1: Voca94 (4244 in chips, $25 bounty) 
+Seat 2: verybadday (6706 in chips, $25 bounty) 
+Seat 3: drope$tyle (11334 in chips, $25 bounty) 
+Seat 4: Schubertarn (12096 in chips, $37.50 bounty) 
+Seat 5: fi0r (7425 in chips, $25 bounty) 
+Seat 6: Quirurjico (7068 in chips, $25 bounty) 
+Seat 7: skarpet2 (5679 in chips, $25 bounty) 
+Voca94: posts the ante 25
+verybadday: posts the ante 25
+drope$tyle: posts the ante 25
+Schubertarn: posts the ante 25
+fi0r: posts the ante 25
+Quirurjico: posts the ante 25
+skarpet2: posts the ante 25
+drope$tyle: posts small blind 100
+Schubertarn: posts big blind 200
+*** HOLE CARDS ***
+fi0r: folds 
+Quirurjico: folds 
+skarpet2: folds 
+Voca94: folds 
+verybadday: folds 
+drope$tyle: raises 360 to 560
+Schubertarn: folds 
+Uncalled bet (360) returned to drope$tyle
+drope$tyle collected 575 from pot
+drope$tyle: doesn't show hand 
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday (button) folded before Flop (didn't bet)
+Seat 3: drope$tyle (small blind) collected (575)
+Seat 4: Schubertarn (big blind) folded before Flop
+Seat 5: fi0r folded before Flop (didn't bet)
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250116891375: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/04/22 16:28:59 ET
+Table '3743747148 2' 7-max Seat #3 is the button
+Seat 1: Voca94 (4219 in chips, $25 bounty) 
+Seat 2: verybadday (6681 in chips, $25 bounty) 
+Seat 3: drope$tyle (11684 in chips, $25 bounty) 
+Seat 4: Schubertarn (11871 in chips, $37.50 bounty) 
+Seat 5: fi0r (7400 in chips, $25 bounty) 
+Seat 6: Quirurjico (7043 in chips, $25 bounty) 
+Seat 7: skarpet2 (5654 in chips, $25 bounty) 
+Voca94: posts the ante 25
+verybadday: posts the ante 25
+drope$tyle: posts the ante 25
+Schubertarn: posts the ante 25
+fi0r: posts the ante 25
+Quirurjico: posts the ante 25
+skarpet2: posts the ante 25
+Schubertarn: posts small blind 100
+fi0r: posts big blind 200
+*** HOLE CARDS ***
+Quirurjico: folds 
+skarpet2: folds 
+Voca94: folds 
+verybadday: folds 
+drope$tyle: raises 200 to 400
+Schubertarn: raises 1200 to 1600
+fi0r: folds 
+drope$tyle: calls 1200
+*** FLOP *** [Jc 7d Qd]
+Schubertarn: checks 
+drope$tyle: checks 
+*** TURN *** [Jc 7d Qd] [Kh]
+Schubertarn: checks 
+drope$tyle: checks 
+*** RIVER *** [Jc 7d Qd Kh] [7h]
+Schubertarn: bets 2900
+drope$tyle: folds 
+Uncalled bet (2900) returned to Schubertarn
+Schubertarn collected 3575 from pot
+Schubertarn: doesn't show hand 
+*** SUMMARY ***
+Total pot 3575 | Rake 0 
+Board [Jc 7d Qd Kh 7h]
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle (button) folded on the River
+Seat 4: Schubertarn (small blind) collected (3575)
+Seat 5: fi0r (big blind) folded before Flop
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250116919969: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/04/22 16:30:23 ET
+Table '3743747148 2' 7-max Seat #4 is the button
+Seat 1: Voca94 (4194 in chips, $25 bounty) 
+Seat 2: verybadday (6656 in chips, $25 bounty) 
+Seat 3: drope$tyle (10059 in chips, $25 bounty) 
+Seat 4: Schubertarn (13821 in chips, $37.50 bounty) 
+Seat 5: fi0r (7175 in chips, $25 bounty) 
+Seat 6: Quirurjico (7018 in chips, $25 bounty) 
+Seat 7: skarpet2 (5629 in chips, $25 bounty) 
+Voca94: posts the ante 30
+verybadday: posts the ante 30
+drope$tyle: posts the ante 30
+Schubertarn: posts the ante 30
+fi0r: posts the ante 30
+Quirurjico: posts the ante 30
+skarpet2: posts the ante 30
+fi0r: posts small blind 125
+Quirurjico: posts big blind 250
+*** HOLE CARDS ***
+skarpet2: folds 
+Voca94: folds 
+verybadday: raises 250 to 500
+drope$tyle: folds 
+Schubertarn: folds 
+fi0r: calls 375
+Quirurjico: calls 250
+*** FLOP *** [Ts 6h 6s]
+fi0r: checks 
+Quirurjico: checks 
+verybadday: bets 500
+fi0r: folds 
+Quirurjico: folds 
+Uncalled bet (500) returned to verybadday
+verybadday collected 1710 from pot
+verybadday: doesn't show hand 
+*** SUMMARY ***
+Total pot 1710 | Rake 0 
+Board [Ts 6h 6s]
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday collected (1710)
+Seat 3: drope$tyle folded before Flop (didn't bet)
+Seat 4: Schubertarn (button) folded before Flop (didn't bet)
+Seat 5: fi0r (small blind) folded on the Flop
+Seat 6: Quirurjico (big blind) folded on the Flop
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250116938592: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/04/22 16:31:18 ET
+Table '3743747148 2' 7-max Seat #5 is the button
+Seat 1: Voca94 (4164 in chips, $25 bounty) 
+Seat 2: verybadday (7836 in chips, $25 bounty) 
+Seat 3: drope$tyle (10029 in chips, $25 bounty) 
+Seat 4: Schubertarn (13791 in chips, $37.50 bounty) 
+Seat 5: fi0r (6645 in chips, $25 bounty) 
+Seat 6: Quirurjico (6488 in chips, $25 bounty) 
+Seat 7: skarpet2 (5599 in chips, $25 bounty) 
+Voca94: posts the ante 30
+verybadday: posts the ante 30
+drope$tyle: posts the ante 30
+Schubertarn: posts the ante 30
+fi0r: posts the ante 30
+Quirurjico: posts the ante 30
+skarpet2: posts the ante 30
+Quirurjico: posts small blind 125
+skarpet2: posts big blind 250
+*** HOLE CARDS ***
+Voca94: raises 250 to 500
+verybadday: folds 
+drope$tyle: folds 
+Schubertarn: folds 
+fi0r: calls 500
+Quirurjico: folds 
+skarpet2: folds 
+*** FLOP *** [2c Qd 6s]
+Voca94: bets 476
+fi0r: calls 476
+*** TURN *** [2c Qd 6s] [7d]
+Voca94: bets 3158 and is all-in
+fi0r: folds 
+Uncalled bet (3158) returned to Voca94
+Voca94 collected 2537 from pot
+Voca94: doesn't show hand 
+*** SUMMARY ***
+Total pot 2537 | Rake 0 
+Board [2c Qd 6s 7d]
+Seat 1: Voca94 collected (2537)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle folded before Flop (didn't bet)
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: fi0r (button) folded on the Turn
+Seat 6: Quirurjico (small blind) folded before Flop
+Seat 7: skarpet2 (big blind) folded before Flop
+
+PokerStars Hand #250116958209: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/04/22 16:32:15 ET
+Table '3743747148 2' 7-max Seat #6 is the button
+Seat 1: Voca94 (5695 in chips, $25 bounty) 
+Seat 2: verybadday (7806 in chips, $25 bounty) 
+Seat 3: drope$tyle (9999 in chips, $25 bounty) 
+Seat 4: Schubertarn (13761 in chips, $37.50 bounty) 
+Seat 5: fi0r (5639 in chips, $25 bounty) 
+Seat 6: Quirurjico (6333 in chips, $25 bounty) 
+Seat 7: skarpet2 (5319 in chips, $25 bounty) 
+Voca94: posts the ante 30
+verybadday: posts the ante 30
+drope$tyle: posts the ante 30
+Schubertarn: posts the ante 30
+fi0r: posts the ante 30
+Quirurjico: posts the ante 30
+skarpet2: posts the ante 30
+skarpet2: posts small blind 125
+Voca94: posts big blind 250
+*** HOLE CARDS ***
+verybadday: folds 
+drope$tyle: folds 
+Schubertarn: folds 
+fi0r: raises 375 to 625
+Quirurjico: folds 
+skarpet2: folds 
+Voca94: calls 375
+*** FLOP *** [7s 4h Jc]
+Voca94: checks 
+fi0r: checks 
+*** TURN *** [7s 4h Jc] [8s]
+Voca94: bets 476
+fi0r: calls 476
+*** RIVER *** [7s 4h Jc 8s] [7c]
+Voca94: bets 4564 and is all-in
+fi0r: folds 
+Uncalled bet (4564) returned to Voca94
+Voca94 collected 2537 from pot
+Voca94: doesn't show hand 
+*** SUMMARY ***
+Total pot 2537 | Rake 0 
+Board [7s 4h Jc 8s 7c]
+Seat 1: Voca94 (big blind) collected (2537)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle folded before Flop (didn't bet)
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: fi0r folded on the River
+Seat 6: Quirurjico (button) folded before Flop (didn't bet)
+Seat 7: skarpet2 (small blind) folded before Flop
+
+PokerStars Hand #250116977196: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/04/22 16:33:11 ET
+Table '3743747148 2' 7-max Seat #7 is the button
+Seat 1: Voca94 (7101 in chips, $25 bounty) 
+Seat 2: verybadday (7776 in chips, $25 bounty) 
+Seat 3: drope$tyle (9969 in chips, $25 bounty) 
+Seat 4: Schubertarn (13731 in chips, $37.50 bounty) 
+Seat 5: fi0r (4508 in chips, $25 bounty) 
+Seat 6: Quirurjico (6303 in chips, $25 bounty) 
+Seat 7: skarpet2 (5164 in chips, $25 bounty) 
+Voca94: posts the ante 30
+verybadday: posts the ante 30
+drope$tyle: posts the ante 30
+Schubertarn: posts the ante 30
+fi0r: posts the ante 30
+Quirurjico: posts the ante 30
+skarpet2: posts the ante 30
+Voca94: posts small blind 125
+verybadday: posts big blind 250
+*** HOLE CARDS ***
+drope$tyle: folds 
+Schubertarn: raises 250 to 500
+fi0r: calls 500
+Quirurjico: folds 
+skarpet2: folds 
+Voca94: folds 
+verybadday: folds 
+*** FLOP *** [2s Qh 2c]
+Schubertarn: checks 
+fi0r: checks 
+*** TURN *** [2s Qh 2c] [Jd]
+Schubertarn: checks 
+fi0r: bets 1189
+Schubertarn: folds 
+Uncalled bet (1189) returned to fi0r
+fi0r collected 1585 from pot
+*** SUMMARY ***
+Total pot 1585 | Rake 0 
+Board [2s Qh 2c Jd]
+Seat 1: Voca94 (small blind) folded before Flop
+Seat 2: verybadday (big blind) folded before Flop
+Seat 3: drope$tyle folded before Flop (didn't bet)
+Seat 4: Schubertarn folded on the Turn
+Seat 5: fi0r collected (1585)
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250117001854: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/04/22 16:34:23 ET
+Table '3743747148 2' 7-max Seat #1 is the button
+Seat 1: Voca94 (6946 in chips, $25 bounty) 
+Seat 2: verybadday (7496 in chips, $25 bounty) 
+Seat 3: drope$tyle (9939 in chips, $25 bounty) 
+Seat 4: Schubertarn (13201 in chips, $37.50 bounty) 
+Seat 5: fi0r (5563 in chips, $25 bounty) 
+Seat 6: Quirurjico (6273 in chips, $25 bounty) 
+Seat 7: skarpet2 (5134 in chips, $25 bounty) 
+Voca94: posts the ante 30
+verybadday: posts the ante 30
+drope$tyle: posts the ante 30
+Schubertarn: posts the ante 30
+fi0r: posts the ante 30
+Quirurjico: posts the ante 30
+skarpet2: posts the ante 30
+verybadday: posts small blind 125
+drope$tyle: posts big blind 250
+*** HOLE CARDS ***
+Schubertarn: raises 250 to 500
+fi0r: calls 500
+Quirurjico: folds 
+skarpet2: folds 
+Voca94: raises 6416 to 6916 and is all-in
+verybadday: folds 
+drope$tyle: folds 
+Schubertarn: folds 
+fi0r: folds 
+Uncalled bet (6416) returned to Voca94
+Voca94 collected 2085 from pot
+Voca94: doesn't show hand 
+*** SUMMARY ***
+Total pot 2085 | Rake 0 
+Seat 1: Voca94 (button) collected (2085)
+Seat 2: verybadday (small blind) folded before Flop
+Seat 3: drope$tyle (big blind) folded before Flop
+Seat 4: Schubertarn folded before Flop
+Seat 5: fi0r folded before Flop
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250117012879: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/04/22 16:34:56 ET
+Table '3743747148 2' 7-max Seat #2 is the button
+Seat 1: Voca94 (8501 in chips, $25 bounty) 
+Seat 2: verybadday (7341 in chips, $25 bounty) 
+Seat 3: drope$tyle (9659 in chips, $25 bounty) 
+Seat 4: Schubertarn (12671 in chips, $37.50 bounty) 
+Seat 5: fi0r (5033 in chips, $25 bounty) 
+Seat 6: Quirurjico (6243 in chips, $25 bounty) 
+Seat 7: skarpet2 (5104 in chips, $25 bounty) 
+Voca94: posts the ante 30
+verybadday: posts the ante 30
+drope$tyle: posts the ante 30
+Schubertarn: posts the ante 30
+fi0r: posts the ante 30
+Quirurjico: posts the ante 30
+skarpet2: posts the ante 30
+drope$tyle: posts small blind 125
+Schubertarn: posts big blind 250
+*** HOLE CARDS ***
+fi0r: raises 835 to 1085
+Quirurjico: folds 
+skarpet2: folds 
+Voca94: folds 
+verybadday: raises 6226 to 7311 and is all-in
+drope$tyle: folds 
+Schubertarn: folds 
+fi0r: calls 3918 and is all-in
+Uncalled bet (2308) returned to verybadday
+*** FLOP *** [Kh Kd Js]
+*** TURN *** [Kh Kd Js] [5d]
+*** RIVER *** [Kh Kd Js 5d] [Ad]
+*** SHOW DOWN ***
+fi0r: shows [Ks Jd] (a full house, Kings full of Jacks)
+verybadday: shows [Kc Ac] (a full house, Kings full of Aces)
+verybadday collected 10591 from pot
+verybadday wins $12.50 for eliminating fi0r and their own bounty increases by $12.50 to $37.50
+fi0r finished the tournament
+*** SUMMARY ***
+Total pot 10591 | Rake 0 
+Board [Kh Kd Js 5d Ad]
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday (button) showed [Kc Ac] and won (10591) with a full house, Kings full of Aces
+Seat 3: drope$tyle (small blind) folded before Flop
+Seat 4: Schubertarn (big blind) folded before Flop
+Seat 5: fi0r showed [Ks Jd] and lost with a full house, Kings full of Jacks
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250117024252: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/04/22 16:35:29 ET
+Table '3743747148 2' 7-max Seat #3 is the button
+Seat 1: Voca94 (8471 in chips, $25 bounty) 
+Seat 2: verybadday (12899 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (9504 in chips, $25 bounty) 
+Seat 4: Schubertarn (12391 in chips, $37.50 bounty) 
+Seat 6: Quirurjico (6213 in chips, $25 bounty) 
+Seat 7: skarpet2 (5074 in chips, $25 bounty) 
+Voca94: posts the ante 30
+verybadday: posts the ante 30
+drope$tyle: posts the ante 30
+Schubertarn: posts the ante 30
+Quirurjico: posts the ante 30
+skarpet2: posts the ante 30
+Schubertarn: posts small blind 125
+Quirurjico: posts big blind 250
+*** HOLE CARDS ***
+skarpet2: folds 
+Voca94: folds 
+verybadday: folds 
+drope$tyle: folds 
+Schubertarn: folds 
+Uncalled bet (125) returned to Quirurjico
+Quirurjico collected 430 from pot
+Quirurjico: doesn't show hand 
+*** SUMMARY ***
+Total pot 430 | Rake 0 
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle (button) folded before Flop (didn't bet)
+Seat 4: Schubertarn (small blind) folded before Flop
+Seat 6: Quirurjico (big blind) collected (430)
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250117035252: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/04/22 16:36:02 ET
+Table '3743747148 2' 7-max Seat #4 is the button
+Seat 1: Voca94 (8441 in chips, $25 bounty) 
+Seat 2: verybadday (12869 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (9474 in chips, $25 bounty) 
+Seat 4: Schubertarn (12236 in chips, $37.50 bounty) 
+Seat 6: Quirurjico (6488 in chips, $25 bounty) 
+Seat 7: skarpet2 (5044 in chips, $25 bounty) 
+Voca94: posts the ante 30
+verybadday: posts the ante 30
+drope$tyle: posts the ante 30
+Schubertarn: posts the ante 30
+Quirurjico: posts the ante 30
+skarpet2: posts the ante 30
+Quirurjico: posts small blind 125
+skarpet2: posts big blind 250
+*** HOLE CARDS ***
+Voca94: folds 
+verybadday: folds 
+drope$tyle: raises 250 to 500
+Schubertarn: folds 
+Quirurjico: folds 
+skarpet2: folds 
+Uncalled bet (250) returned to drope$tyle
+drope$tyle collected 805 from pot
+drope$tyle: doesn't show hand 
+*** SUMMARY ***
+Total pot 805 | Rake 0 
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle collected (805)
+Seat 4: Schubertarn (button) folded before Flop (didn't bet)
+Seat 6: Quirurjico (small blind) folded before Flop
+Seat 7: skarpet2 (big blind) folded before Flop
+
+PokerStars Hand #250117045394: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:36:33 ET
+Table '3743747148 2' 7-max Seat #6 is the button
+Seat 1: Voca94 (8411 in chips, $25 bounty) 
+Seat 2: verybadday (12839 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (9999 in chips, $25 bounty) 
+Seat 4: Schubertarn (12206 in chips, $37.50 bounty) 
+Seat 6: Quirurjico (6333 in chips, $25 bounty) 
+Seat 7: skarpet2 (4764 in chips, $25 bounty) 
+Voca94: posts the ante 40
+verybadday: posts the ante 40
+drope$tyle: posts the ante 40
+Schubertarn: posts the ante 40
+Quirurjico: posts the ante 40
+skarpet2: posts the ante 40
+skarpet2: posts small blind 150
+Voca94: posts big blind 300
+*** HOLE CARDS ***
+verybadday: folds 
+SabDur is disconnected 
+drope$tyle: folds 
+Schubertarn: folds 
+Quirurjico: folds 
+skarpet2: folds 
+Uncalled bet (150) returned to Voca94
+Voca94 collected 540 from pot
+Voca94: doesn't show hand 
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Seat 1: Voca94 (big blind) collected (540)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle folded before Flop (didn't bet)
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 6: Quirurjico (button) folded before Flop (didn't bet)
+Seat 7: skarpet2 (small blind) folded before Flop
+
+PokerStars Hand #250117054750: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:37:01 ET
+Table '3743747148 2' 7-max Seat #7 is the button
+Seat 1: Voca94 (8761 in chips, $25 bounty) 
+Seat 2: verybadday (12799 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (9959 in chips, $25 bounty) 
+Seat 4: Schubertarn (12166 in chips, $37.50 bounty) 
+Seat 5: SabDur (19121 in chips, $50 bounty) 
+Seat 6: Quirurjico (6293 in chips, $25 bounty) 
+Seat 7: skarpet2 (4574 in chips, $25 bounty) 
+Voca94: posts the ante 40
+verybadday: posts the ante 40
+drope$tyle: posts the ante 40
+Schubertarn: posts the ante 40
+SabDur: posts the ante 40
+Quirurjico: posts the ante 40
+skarpet2: posts the ante 40
+Voca94: posts small blind 150
+verybadday: posts big blind 300
+*** HOLE CARDS ***
+drope$tyle: folds 
+Schubertarn: folds 
+SabDur: raises 351 to 651
+Quirurjico: folds 
+skarpet2: folds 
+Voca94: folds 
+verybadday: calls 351
+*** FLOP *** [Qc As 3h]
+verybadday: checks 
+SabDur: bets 572
+verybadday: calls 572
+*** TURN *** [Qc As 3h] [4c]
+verybadday: checks 
+SabDur: bets 1249
+verybadday: raises 2651 to 3900
+SabDur: raises 13958 to 17858 and is all-in
+verybadday: calls 7636 and is all-in
+Uncalled bet (6322) returned to SabDur
+*** RIVER *** [Qc As 3h 4c] [7d]
+*** SHOW DOWN ***
+verybadday: shows [Qd 4d] (two pair, Queens and Fours)
+SabDur: shows [Jh 7h] (a pair of Sevens)
+verybadday collected 25948 from pot
+*** SUMMARY ***
+Total pot 25948 | Rake 0 
+Board [Qc As 3h 4c 7d]
+Seat 1: Voca94 (small blind) folded before Flop
+Seat 2: verybadday (big blind) showed [Qd 4d] and won (25948) with two pair, Queens and Fours
+Seat 3: drope$tyle folded before Flop (didn't bet)
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: SabDur showed [Jh 7h] and lost with a pair of Sevens
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250117084240: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:38:29 ET
+Table '3743747148 2' 7-max Seat #1 is the button
+Seat 1: Voca94 (8571 in chips, $25 bounty) 
+Seat 2: verybadday (25948 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (9919 in chips, $25 bounty) 
+Seat 4: Schubertarn (12126 in chips, $37.50 bounty) 
+Seat 5: SabDur (6322 in chips, $50 bounty) 
+Seat 6: Quirurjico (6253 in chips, $25 bounty) 
+Seat 7: skarpet2 (4534 in chips, $25 bounty) 
+Voca94: posts the ante 40
+verybadday: posts the ante 40
+drope$tyle: posts the ante 40
+Schubertarn: posts the ante 40
+SabDur: posts the ante 40
+Quirurjico: posts the ante 40
+skarpet2: posts the ante 40
+verybadday: posts small blind 150
+drope$tyle: posts big blind 300
+*** HOLE CARDS ***
+Schubertarn: folds 
+SabDur: raises 5982 to 6282 and is all-in
+Quirurjico: folds 
+skarpet2: folds 
+Voca94: folds 
+verybadday: folds 
+drope$tyle: folds 
+Uncalled bet (5982) returned to SabDur
+SabDur collected 1030 from pot
+SabDur: doesn't show hand 
+*** SUMMARY ***
+Total pot 1030 | Rake 0 
+Seat 1: Voca94 (button) folded before Flop (didn't bet)
+Seat 2: verybadday (small blind) folded before Flop
+Seat 3: drope$tyle (big blind) folded before Flop
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: SabDur collected (1030)
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250117091996: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:38:53 ET
+Table '3743747148 2' 7-max Seat #2 is the button
+Seat 1: Voca94 (8531 in chips, $25 bounty) 
+Seat 2: verybadday (25758 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (9579 in chips, $25 bounty) 
+Seat 4: Schubertarn (12086 in chips, $37.50 bounty) 
+Seat 5: SabDur (7012 in chips, $50 bounty) 
+Seat 6: Quirurjico (6213 in chips, $25 bounty) 
+Seat 7: skarpet2 (4494 in chips, $25 bounty) 
+Voca94: posts the ante 40
+verybadday: posts the ante 40
+drope$tyle: posts the ante 40
+Schubertarn: posts the ante 40
+SabDur: posts the ante 40
+Quirurjico: posts the ante 40
+skarpet2: posts the ante 40
+drope$tyle: posts small blind 150
+Schubertarn: posts big blind 300
+*** HOLE CARDS ***
+SabDur: folds 
+Quirurjico: folds 
+skarpet2: folds 
+Voca94: folds 
+verybadday: folds 
+drope$tyle: raises 750 to 1050
+Schubertarn: raises 1350 to 2400
+drope$tyle: raises 7139 to 9539 and is all-in
+Schubertarn: folds 
+Uncalled bet (7139) returned to drope$tyle
+drope$tyle collected 5080 from pot
+drope$tyle: doesn't show hand 
+*** SUMMARY ***
+Total pot 5080 | Rake 0 
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday (button) folded before Flop (didn't bet)
+Seat 3: drope$tyle (small blind) collected (5080)
+Seat 4: Schubertarn (big blind) folded before Flop
+Seat 5: SabDur folded before Flop (didn't bet)
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250117110778: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:39:50 ET
+Table '3743747148 2' 7-max Seat #3 is the button
+Seat 1: Voca94 (8491 in chips, $25 bounty) 
+Seat 2: verybadday (25718 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (12219 in chips, $25 bounty) 
+Seat 4: Schubertarn (9646 in chips, $37.50 bounty) 
+Seat 5: SabDur (6972 in chips, $50 bounty) 
+Seat 6: Quirurjico (6173 in chips, $25 bounty) 
+Seat 7: skarpet2 (4454 in chips, $25 bounty) 
+Voca94: posts the ante 40
+verybadday: posts the ante 40
+drope$tyle: posts the ante 40
+Schubertarn: posts the ante 40
+SabDur: posts the ante 40
+Quirurjico: posts the ante 40
+skarpet2: posts the ante 40
+Schubertarn: posts small blind 150
+SabDur: posts big blind 300
+*** HOLE CARDS ***
+Quirurjico: folds 
+skarpet2: folds 
+Voca94: folds 
+verybadday: folds 
+drope$tyle: folds 
+Schubertarn: calls 150
+SabDur: checks 
+*** FLOP *** [4c Kd 6d]
+Schubertarn: checks 
+SabDur: checks 
+*** TURN *** [4c Kd 6d] [3d]
+Schubertarn: checks 
+SabDur: checks 
+*** RIVER *** [4c Kd 6d 3d] [Ad]
+Schubertarn: checks 
+SabDur: checks 
+*** SHOW DOWN ***
+Schubertarn: shows [4h 5h] (a pair of Fours)
+SabDur: mucks hand 
+Schubertarn collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [4c Kd 6d 3d Ad]
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle (button) folded before Flop (didn't bet)
+Seat 4: Schubertarn (small blind) showed [4h 5h] and won (880) with a pair of Fours
+Seat 5: SabDur (big blind) mucked
+Seat 6: Quirurjico folded before Flop (didn't bet)
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250117130142: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:40:48 ET
+Table '3743747148 2' 7-max Seat #4 is the button
+Seat 1: Voca94 (8451 in chips, $25 bounty) 
+Seat 2: verybadday (25678 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (12179 in chips, $25 bounty) 
+Seat 4: Schubertarn (10186 in chips, $37.50 bounty) 
+Seat 5: SabDur (6632 in chips, $50 bounty) 
+Seat 6: Quirurjico (6133 in chips, $25 bounty) 
+Seat 7: skarpet2 (4414 in chips, $25 bounty) 
+Voca94: posts the ante 40
+verybadday: posts the ante 40
+drope$tyle: posts the ante 40
+Schubertarn: posts the ante 40
+SabDur: posts the ante 40
+Quirurjico: posts the ante 40
+skarpet2: posts the ante 40
+SabDur: posts small blind 150
+Quirurjico: posts big blind 300
+*** HOLE CARDS ***
+skarpet2: folds 
+Voca94: folds 
+verybadday: folds 
+drope$tyle: folds 
+Schubertarn: folds 
+SabDur: folds 
+Uncalled bet (150) returned to Quirurjico
+Quirurjico collected 580 from pot
+Quirurjico: doesn't show hand 
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle folded before Flop (didn't bet)
+Seat 4: Schubertarn (button) folded before Flop (didn't bet)
+Seat 5: SabDur (small blind) folded before Flop
+Seat 6: Quirurjico (big blind) collected (580)
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250117138664: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:41:14 ET
+Table '3743747148 2' 7-max Seat #5 is the button
+Seat 1: Voca94 (8411 in chips, $25 bounty) 
+Seat 2: verybadday (25638 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (12139 in chips, $25 bounty) 
+Seat 4: Schubertarn (10146 in chips, $37.50 bounty) 
+Seat 5: SabDur (6442 in chips, $50 bounty) 
+Seat 6: Quirurjico (6523 in chips, $25 bounty) 
+Seat 7: skarpet2 (4374 in chips, $25 bounty) 
+Voca94: posts the ante 40
+verybadday: posts the ante 40
+drope$tyle: posts the ante 40
+Schubertarn: posts the ante 40
+SabDur: posts the ante 40
+Quirurjico: posts the ante 40
+skarpet2: posts the ante 40
+Quirurjico: posts small blind 150
+skarpet2: posts big blind 300
+*** HOLE CARDS ***
+Voca94: folds 
+verybadday: folds 
+drope$tyle: raises 300 to 600
+Schubertarn: folds 
+SabDur: folds 
+Quirurjico: folds 
+skarpet2: folds 
+Uncalled bet (300) returned to drope$tyle
+drope$tyle collected 1030 from pot
+drope$tyle: doesn't show hand 
+*** SUMMARY ***
+Total pot 1030 | Rake 0 
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle collected (1030)
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: SabDur (button) folded before Flop (didn't bet)
+Seat 6: Quirurjico (small blind) folded before Flop
+Seat 7: skarpet2 (big blind) folded before Flop
+
+PokerStars Hand #250117143308: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:41:28 ET
+Table '3743747148 2' 7-max Seat #6 is the button
+Seat 1: Voca94 (8371 in chips, $25 bounty) 
+Seat 2: verybadday (25598 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (12829 in chips, $25 bounty) 
+Seat 4: Schubertarn (10106 in chips, $37.50 bounty) 
+Seat 5: SabDur (6402 in chips, $50 bounty) 
+Seat 6: Quirurjico (6333 in chips, $25 bounty) 
+Seat 7: skarpet2 (4034 in chips, $25 bounty) 
+Voca94: posts the ante 40
+verybadday: posts the ante 40
+drope$tyle: posts the ante 40
+Schubertarn: posts the ante 40
+SabDur: posts the ante 40
+Quirurjico: posts the ante 40
+skarpet2: posts the ante 40
+skarpet2: posts small blind 150
+Voca94: posts big blind 300
+*** HOLE CARDS ***
+verybadday: folds 
+drope$tyle: folds 
+Schubertarn: folds 
+SabDur: raises 6062 to 6362 and is all-in
+Quirurjico: folds 
+skarpet2: folds 
+Voca94: folds 
+Uncalled bet (6062) returned to SabDur
+SabDur collected 1030 from pot
+SabDur: doesn't show hand 
+*** SUMMARY ***
+Total pot 1030 | Rake 0 
+Seat 1: Voca94 (big blind) folded before Flop
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle folded before Flop (didn't bet)
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: SabDur collected (1030)
+Seat 6: Quirurjico (button) folded before Flop (didn't bet)
+Seat 7: skarpet2 (small blind) folded before Flop
+
+PokerStars Hand #250117148117: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:41:42 ET
+Table '3743747148 2' 7-max Seat #7 is the button
+Seat 1: Voca94 (8031 in chips, $25 bounty) 
+Seat 2: verybadday (25558 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (12789 in chips, $25 bounty) 
+Seat 4: Schubertarn (10066 in chips, $37.50 bounty) 
+Seat 5: SabDur (7092 in chips, $50 bounty) 
+Seat 6: Quirurjico (6293 in chips, $25 bounty) 
+Seat 7: skarpet2 (3844 in chips, $25 bounty) 
+Voca94: posts the ante 40
+verybadday: posts the ante 40
+drope$tyle: posts the ante 40
+Schubertarn: posts the ante 40
+SabDur: posts the ante 40
+Quirurjico: posts the ante 40
+skarpet2: posts the ante 40
+Voca94: posts small blind 150
+verybadday: posts big blind 300
+*** HOLE CARDS ***
+drope$tyle: folds 
+Schubertarn: folds 
+SabDur: folds 
+Quirurjico: raises 300 to 600
+skarpet2: folds 
+Voca94: raises 7391 to 7991 and is all-in
+verybadday: folds 
+Quirurjico: calls 5653 and is all-in
+Uncalled bet (1738) returned to Voca94
+*** FLOP *** [5d Ac 7h]
+*** TURN *** [5d Ac 7h] [Ks]
+*** RIVER *** [5d Ac 7h Ks] [Jc]
+*** SHOW DOWN ***
+Voca94: shows [Ah 3d] (a pair of Aces)
+Quirurjico: shows [9d 9h] (a pair of Nines)
+Voca94 collected 13086 from pot
+Voca94 wins $12.50 for eliminating Quirurjico and their own bounty increases by $12.50 to $37.50
+Quirurjico finished the tournament
+*** SUMMARY ***
+Total pot 13086 | Rake 0 
+Board [5d Ac 7h Ks Jc]
+Seat 1: Voca94 (small blind) showed [Ah 3d] and won (13086) with a pair of Aces
+Seat 2: verybadday (big blind) folded before Flop
+Seat 3: drope$tyle folded before Flop (didn't bet)
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: SabDur folded before Flop (didn't bet)
+Seat 6: Quirurjico showed [9d 9h] and lost with a pair of Nines
+Seat 7: skarpet2 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250117159442: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:42:17 ET
+Table '3743747148 2' 7-max Seat #1 is the button
+Seat 1: Voca94 (14824 in chips, $37.50 bounty) 
+Seat 2: verybadday (25218 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (12749 in chips, $25 bounty) 
+Seat 4: Schubertarn (10026 in chips, $37.50 bounty) 
+Seat 5: SabDur (7052 in chips, $50 bounty) 
+Seat 7: skarpet2 (3804 in chips, $25 bounty) 
+Voca94: posts the ante 40
+verybadday: posts the ante 40
+drope$tyle: posts the ante 40
+Schubertarn: posts the ante 40
+SabDur: posts the ante 40
+skarpet2: posts the ante 40
+verybadday: posts small blind 150
+drope$tyle: posts big blind 300
+*** HOLE CARDS ***
+Schubertarn: folds 
+SabDur: folds 
+skarpet2: folds 
+Voca94: raises 300 to 600
+verybadday: folds 
+drope$tyle: calls 300
+*** FLOP *** [8d Kd 8h]
+drope$tyle: checks 
+Voca94: bets 477
+mrcoffee01 is disconnected 
+drope$tyle: folds 
+Uncalled bet (477) returned to Voca94
+Voca94 collected 1590 from pot
+Voca94: doesn't show hand 
+*** SUMMARY ***
+Total pot 1590 | Rake 0 
+Board [8d Kd 8h]
+Seat 1: Voca94 (button) collected (1590)
+Seat 2: verybadday (small blind) folded before Flop
+Seat 3: drope$tyle (big blind) folded on the Flop
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: SabDur folded before Flop (didn't bet)
+Seat 7: skarpet2 folded before Flop (didn't bet)
+
+PokerStars Hand #250117167329: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:42:41 ET
+Table '3743747148 2' 7-max Seat #2 is the button
+Seat 1: Voca94 (15774 in chips, $37.50 bounty) 
+Seat 2: verybadday (25028 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (12109 in chips, $25 bounty) 
+Seat 4: Schubertarn (9986 in chips, $37.50 bounty) 
+Seat 5: SabDur (7012 in chips, $50 bounty) 
+Seat 6: mrcoffee01 (8830 in chips, $25 bounty) 
+Seat 7: skarpet2 (3764 in chips, $25 bounty) 
+Voca94: posts the ante 40
+verybadday: posts the ante 40
+drope$tyle: posts the ante 40
+Schubertarn: posts the ante 40
+SabDur: posts the ante 40
+mrcoffee01: posts the ante 40
+skarpet2: posts the ante 40
+drope$tyle: posts small blind 150
+Schubertarn: posts big blind 300
+*** HOLE CARDS ***
+SabDur: folds 
+mrcoffee01: folds 
+skarpet2: raises 3424 to 3724 and is all-in
+Voca94: folds 
+verybadday: folds 
+drope$tyle: folds 
+Schubertarn: calls 3424
+*** FLOP *** [Ad Tc Qh]
+*** TURN *** [Ad Tc Qh] [Qs]
+*** RIVER *** [Ad Tc Qh Qs] [4h]
+*** SHOW DOWN ***
+Schubertarn: shows [Jh Ac] (two pair, Aces and Queens)
+skarpet2: shows [Th As] (two pair, Aces and Queens - lower kicker)
+Schubertarn collected 7878 from pot
+skarpet2 is sitting out
+Schubertarn wins $12.50 for eliminating skarpet2 and their own bounty increases by $12.50 to $50
+skarpet2 finished the tournament
+*** SUMMARY ***
+Total pot 7878 | Rake 0 
+Board [Ad Tc Qh Qs 4h]
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday (button) folded before Flop (didn't bet)
+Seat 3: drope$tyle (small blind) folded before Flop
+Seat 4: Schubertarn (big blind) showed [Jh Ac] and won (7878) with two pair, Aces and Queens
+Seat 5: SabDur folded before Flop (didn't bet)
+Seat 6: mrcoffee01 folded before Flop (didn't bet)
+Seat 7: skarpet2 showed [Th As] and lost with two pair, Aces and Queens
+
+PokerStars Hand #250117176137: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/04/22 16:43:08 ET
+Table '3743747148 2' 7-max Seat #3 is the button
+Seat 1: Voca94 (15734 in chips, $37.50 bounty) 
+Seat 2: verybadday (24988 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (11919 in chips, $25 bounty) 
+Seat 4: Schubertarn (14100 in chips, $50 bounty) 
+Seat 5: SabDur (6972 in chips, $50 bounty) 
+Seat 6: mrcoffee01 (8790 in chips, $25 bounty) 
+Voca94: posts the ante 40
+verybadday: posts the ante 40
+drope$tyle: posts the ante 40
+Schubertarn: posts the ante 40
+SabDur: posts the ante 40
+mrcoffee01: posts the ante 40
+Schubertarn: posts small blind 150
+SabDur: posts big blind 300
+*** HOLE CARDS ***
+mrcoffee01: folds 
+Voca94: folds 
+verybadday: folds 
+drope$tyle: raises 450 to 750
+Schubertarn: folds 
+SabDur: folds 
+Uncalled bet (450) returned to drope$tyle
+drope$tyle collected 990 from pot
+drope$tyle: doesn't show hand 
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle (button) collected (990)
+Seat 4: Schubertarn (small blind) folded before Flop
+Seat 5: SabDur (big blind) folded before Flop
+Seat 6: mrcoffee01 folded before Flop (didn't bet)
+
+PokerStars Hand #250117189324: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:43:48 ET
+Table '3743747148 2' 7-max Seat #4 is the button
+Seat 1: Voca94 (15694 in chips, $37.50 bounty) 
+Seat 2: verybadday (24948 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (12569 in chips, $25 bounty) 
+Seat 4: Schubertarn (13910 in chips, $50 bounty) 
+Seat 5: SabDur (6632 in chips, $50 bounty) 
+Seat 6: mrcoffee01 (8750 in chips, $25 bounty) 
+Seat 7: Toni232326 (25201 in chips, $37.50 bounty) 
+Voca94: posts the ante 50
+verybadday: posts the ante 50
+drope$tyle: posts the ante 50
+Schubertarn: posts the ante 50
+SabDur: posts the ante 50
+mrcoffee01: posts the ante 50
+Toni232326: posts the ante 50
+SabDur: posts small blind 200
+mrcoffee01: posts big blind 400
+*** HOLE CARDS ***
+Toni232326: folds 
+Voca94: raises 400 to 800
+verybadday: folds 
+drope$tyle: folds 
+Schubertarn: calls 800
+SabDur: folds 
+mrcoffee01: raises 7900 to 8700 and is all-in
+Voca94: raises 6944 to 15644 and is all-in
+Schubertarn: folds 
+Uncalled bet (6944) returned to Voca94
+*** FLOP *** [Kd Kc 2c]
+*** TURN *** [Kd Kc 2c] [3s]
+*** RIVER *** [Kd Kc 2c 3s] [6d]
+*** SHOW DOWN ***
+mrcoffee01: shows [Ad Jh] (a pair of Kings)
+Voca94: shows [Ah Jd] (a pair of Kings)
+mrcoffee01 collected 9375 from pot
+Voca94 collected 9375 from pot
+*** SUMMARY ***
+Total pot 18750 | Rake 0 
+Board [Kd Kc 2c 3s 6d]
+Seat 1: Voca94 showed [Ah Jd] and won (9375) with a pair of Kings
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle folded before Flop (didn't bet)
+Seat 4: Schubertarn (button) folded before Flop
+Seat 5: SabDur (small blind) folded before Flop
+Seat 6: mrcoffee01 (big blind) showed [Ad Jh] and won (9375) with a pair of Kings
+Seat 7: Toni232326 folded before Flop (didn't bet)
+
+PokerStars Hand #250117202838: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:44:29 ET
+Table '3743747148 2' 7-max Seat #5 is the button
+Seat 1: Voca94 (16319 in chips, $37.50 bounty) 
+Seat 2: verybadday (24898 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (12519 in chips, $25 bounty) 
+Seat 4: Schubertarn (13060 in chips, $50 bounty) 
+Seat 5: SabDur (6382 in chips, $50 bounty) 
+Seat 6: mrcoffee01 (9375 in chips, $25 bounty) 
+Seat 7: Toni232326 (25151 in chips, $37.50 bounty) 
+Voca94: posts the ante 50
+verybadday: posts the ante 50
+drope$tyle: posts the ante 50
+Schubertarn: posts the ante 50
+SabDur: posts the ante 50
+mrcoffee01: posts the ante 50
+Toni232326: posts the ante 50
+mrcoffee01: posts small blind 200
+Toni232326: posts big blind 400
+*** HOLE CARDS ***
+Voca94: folds 
+verybadday: folds 
+drope$tyle: raises 400 to 800
+Schubertarn: folds 
+SabDur: folds 
+mrcoffee01: folds 
+Toni232326: calls 400
+*** FLOP *** [7h 2h As]
+Toni232326: checks 
+drope$tyle: bets 538
+Toni232326: calls 538
+*** TURN *** [7h 2h As] [6d]
+Toni232326: checks 
+drope$tyle: bets 2361
+Toni232326: calls 2361
+*** RIVER *** [7h 2h As 6d] [Qs]
+Toni232326: checks 
+drope$tyle: bets 8770 and is all-in
+Toni232326: calls 8770
+*** SHOW DOWN ***
+drope$tyle: shows [Qd Qc] (three of a kind, Queens)
+Toni232326: shows [Ah 9d] (a pair of Aces)
+drope$tyle collected 25488 from pot
+*** SUMMARY ***
+Total pot 25488 | Rake 0 
+Board [7h 2h As 6d Qs]
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle showed [Qd Qc] and won (25488) with three of a kind, Queens
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: SabDur (button) folded before Flop (didn't bet)
+Seat 6: mrcoffee01 (small blind) folded before Flop
+Seat 7: Toni232326 (big blind) showed [Ah 9d] and lost with a pair of Aces
+
+PokerStars Hand #250117220192: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:45:22 ET
+Table '3743747148 2' 7-max Seat #6 is the button
+Seat 1: Voca94 (16269 in chips, $37.50 bounty) 
+Seat 2: verybadday (24848 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (25488 in chips, $25 bounty) 
+Seat 4: Schubertarn (13010 in chips, $50 bounty) 
+Seat 5: SabDur (6332 in chips, $50 bounty) 
+Seat 6: mrcoffee01 (9125 in chips, $25 bounty) 
+Seat 7: Toni232326 (12632 in chips, $37.50 bounty) 
+Voca94: posts the ante 50
+verybadday: posts the ante 50
+drope$tyle: posts the ante 50
+Schubertarn: posts the ante 50
+SabDur: posts the ante 50
+mrcoffee01: posts the ante 50
+Toni232326: posts the ante 50
+Toni232326: posts small blind 200
+Voca94: posts big blind 400
+*** HOLE CARDS ***
+verybadday: folds 
+drope$tyle: raises 400 to 800
+Schubertarn: raises 1600 to 2400
+SabDur: folds 
+mrcoffee01: folds 
+Toni232326: calls 2200
+Voca94: folds 
+drope$tyle: calls 1600
+*** FLOP *** [5d 8s 2c]
+Toni232326: bets 10182 and is all-in
+drope$tyle: folds 
+Schubertarn: folds 
+Uncalled bet (10182) returned to Toni232326
+Toni232326 collected 7950 from pot
+*** SUMMARY ***
+Total pot 7950 | Rake 0 
+Board [5d 8s 2c]
+Seat 1: Voca94 (big blind) folded before Flop
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle folded on the Flop
+Seat 4: Schubertarn folded on the Flop
+Seat 5: SabDur folded before Flop (didn't bet)
+Seat 6: mrcoffee01 (button) folded before Flop (didn't bet)
+Seat 7: Toni232326 (small blind) collected (7950)
+
+PokerStars Hand #250117232071: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:45:57 ET
+Table '3743747148 2' 7-max Seat #7 is the button
+Seat 1: Voca94 (15819 in chips, $37.50 bounty) 
+Seat 2: verybadday (24798 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (23038 in chips, $25 bounty) 
+Seat 4: Schubertarn (10560 in chips, $50 bounty) 
+Seat 5: SabDur (6282 in chips, $50 bounty) 
+Seat 6: mrcoffee01 (9075 in chips, $25 bounty) 
+Seat 7: Toni232326 (18132 in chips, $37.50 bounty) 
+Voca94: posts the ante 50
+verybadday: posts the ante 50
+drope$tyle: posts the ante 50
+Schubertarn: posts the ante 50
+SabDur: posts the ante 50
+mrcoffee01: posts the ante 50
+Toni232326: posts the ante 50
+Voca94: posts small blind 200
+verybadday: posts big blind 400
+*** HOLE CARDS ***
+drope$tyle: raises 400 to 800
+Schubertarn: folds 
+SabDur: folds 
+mrcoffee01: folds 
+Toni232326: folds 
+Voca94: folds 
+verybadday: folds 
+Uncalled bet (400) returned to drope$tyle
+drope$tyle collected 1350 from pot
+drope$tyle: doesn't show hand 
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Seat 1: Voca94 (small blind) folded before Flop
+Seat 2: verybadday (big blind) folded before Flop
+Seat 3: drope$tyle collected (1350)
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: SabDur folded before Flop (didn't bet)
+Seat 6: mrcoffee01 folded before Flop (didn't bet)
+Seat 7: Toni232326 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250117236772: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:46:12 ET
+Table '3743747148 2' 7-max Seat #1 is the button
+Seat 1: Voca94 (15569 in chips, $37.50 bounty) 
+Seat 2: verybadday (24348 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (23938 in chips, $25 bounty) 
+Seat 4: Schubertarn (10510 in chips, $50 bounty) 
+Seat 5: SabDur (6232 in chips, $50 bounty) 
+Seat 6: mrcoffee01 (9025 in chips, $25 bounty) 
+Seat 7: Toni232326 (18082 in chips, $37.50 bounty) 
+Voca94: posts the ante 50
+verybadday: posts the ante 50
+drope$tyle: posts the ante 50
+Schubertarn: posts the ante 50
+SabDur: posts the ante 50
+mrcoffee01: posts the ante 50
+Toni232326: posts the ante 50
+verybadday: posts small blind 200
+drope$tyle: posts big blind 400
+*** HOLE CARDS ***
+Schubertarn: folds 
+SabDur: folds 
+mrcoffee01: folds 
+Toni232326: folds 
+Voca94: raises 400 to 800
+verybadday: folds 
+drope$tyle: calls 400
+*** FLOP *** [Th 3c 4s]
+drope$tyle: checks 
+Voca94: bets 645
+drope$tyle: raises 1155 to 1800
+Voca94: calls 1155
+*** TURN *** [Th 3c 4s] [4c]
+drope$tyle: bets 2900
+Voca94: folds 
+Uncalled bet (2900) returned to drope$tyle
+drope$tyle collected 5750 from pot
+drope$tyle: doesn't show hand 
+*** SUMMARY ***
+Total pot 5750 | Rake 0 
+Board [Th 3c 4s 4c]
+Seat 1: Voca94 (button) folded on the Turn
+Seat 2: verybadday (small blind) folded before Flop
+Seat 3: drope$tyle (big blind) collected (5750)
+Seat 4: Schubertarn folded before Flop (didn't bet)
+Seat 5: SabDur folded before Flop (didn't bet)
+Seat 6: mrcoffee01 folded before Flop (didn't bet)
+Seat 7: Toni232326 folded before Flop (didn't bet)
+
+PokerStars Hand #250117258035: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:47:16 ET
+Table '3743747148 2' 7-max Seat #2 is the button
+Seat 1: Voca94 (12919 in chips, $37.50 bounty) 
+Seat 2: verybadday (24098 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (27038 in chips, $25 bounty) 
+Seat 4: Schubertarn (10460 in chips, $50 bounty) 
+Seat 5: SabDur (6182 in chips, $50 bounty) 
+Seat 6: mrcoffee01 (8975 in chips, $25 bounty) 
+Seat 7: Toni232326 (18032 in chips, $37.50 bounty) 
+Voca94: posts the ante 50
+verybadday: posts the ante 50
+drope$tyle: posts the ante 50
+Schubertarn: posts the ante 50
+SabDur: posts the ante 50
+mrcoffee01: posts the ante 50
+Toni232326: posts the ante 50
+drope$tyle: posts small blind 200
+Schubertarn: posts big blind 400
+*** HOLE CARDS ***
+SabDur: folds 
+mrcoffee01: folds 
+Toni232326: raises 400 to 800
+Voca94: folds 
+verybadday: folds 
+drope$tyle: folds 
+Schubertarn: calls 400
+*** FLOP *** [Ks 6s 5s]
+Schubertarn: checks 
+Toni232326: checks 
+*** TURN *** [Ks 6s 5s] [Qs]
+Schubertarn: checks 
+Toni232326: bets 2150
+Schubertarn: folds 
+Uncalled bet (2150) returned to Toni232326
+Toni232326 collected 2150 from pot
+*** SUMMARY ***
+Total pot 2150 | Rake 0 
+Board [Ks 6s 5s Qs]
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday (button) folded before Flop (didn't bet)
+Seat 3: drope$tyle (small blind) folded before Flop
+Seat 4: Schubertarn (big blind) folded on the Turn
+Seat 5: SabDur folded before Flop (didn't bet)
+Seat 6: mrcoffee01 folded before Flop (didn't bet)
+Seat 7: Toni232326 collected (2150)
+
+PokerStars Hand #250117278533: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:48:19 ET
+Table '3743747148 2' 7-max Seat #3 is the button
+Seat 1: Voca94 (12869 in chips, $37.50 bounty) 
+Seat 2: verybadday (24048 in chips, $37.50 bounty) 
+Seat 3: drope$tyle (26788 in chips, $25 bounty) 
+Seat 4: Schubertarn (9610 in chips, $50 bounty) 
+Seat 5: SabDur (6132 in chips, $50 bounty) 
+Seat 6: mrcoffee01 (8925 in chips, $25 bounty) 
+Seat 7: Toni232326 (19332 in chips, $37.50 bounty) 
+Voca94: posts the ante 50
+verybadday: posts the ante 50
+drope$tyle: posts the ante 50
+Schubertarn: posts the ante 50
+SabDur: posts the ante 50
+mrcoffee01: posts the ante 50
+Toni232326: posts the ante 50
+Schubertarn: posts small blind 200
+SabDur: posts big blind 400
+*** HOLE CARDS ***
+mrcoffee01: folds 
+Toni232326: raises 400 to 800
+Voca94: folds 
+verybadday: raises 1600 to 2400
+drope$tyle: raises 3000 to 5400
+Schubertarn: raises 4160 to 9560 and is all-in
+SabDur: folds 
+Toni232326: raises 9722 to 19282 and is all-in
+verybadday: raises 4716 to 23998 and is all-in
+drope$tyle: folds 
+Uncalled bet (4716) returned to verybadday
+*** FLOP *** [Qd 4h 2d]
+*** TURN *** [Qd 4h 2d] [Th]
+*** RIVER *** [Qd 4h 2d Th] [Ah]
+*** SHOW DOWN ***
+Toni232326: shows [4c Ac] (two pair, Aces and Fours)
+verybadday: shows [Qh Qc] (three of a kind, Queens)
+verybadday collected 19444 from side pot
+Schubertarn: shows [Ks Kc] (a pair of Kings)
+verybadday collected 34830 from main pot
+verybadday wins $25 for eliminating Schubertarn and their own bounty increases by $25 to $62.50
+verybadday wins $18.75 for eliminating Toni232326 and their own bounty increases by $18.75 to $81.25
+Toni232326 finished the tournament
+Schubertarn finished the tournament
+*** SUMMARY ***
+Total pot 54274 Main pot 34830. Side pot 19444. | Rake 0 
+Board [Qd 4h 2d Th Ah]
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday showed [Qh Qc] and won (54274) with three of a kind, Queens
+Seat 3: drope$tyle (button) folded before Flop
+Seat 4: Schubertarn (small blind) showed [Ks Kc] and lost with a pair of Kings
+Seat 5: SabDur (big blind) folded before Flop
+Seat 6: mrcoffee01 folded before Flop (didn't bet)
+Seat 7: Toni232326 showed [4c Ac] and lost with two pair, Aces and Fours
+
+PokerStars Hand #250117299402: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:49:23 ET
+Table '3743747148 2' 7-max Seat #5 is the button
+Seat 1: Voca94 (12819 in chips, $37.50 bounty) 
+Seat 2: verybadday (58990 in chips, $81.25 bounty) 
+Seat 3: drope$tyle (21338 in chips, $25 bounty) 
+Seat 5: SabDur (5682 in chips, $50 bounty) 
+Seat 6: mrcoffee01 (8875 in chips, $25 bounty) 
+Voca94: posts the ante 50
+verybadday: posts the ante 50
+drope$tyle: posts the ante 50
+SabDur: posts the ante 50
+mrcoffee01: posts the ante 50
+mrcoffee01: posts small blind 200
+Voca94: posts big blind 400
+*** HOLE CARDS ***
+1viciii1 is disconnected 
+verybadday: folds 
+drope$tyle: raises 400 to 800
+SabDur: folds 
+borchardt007 is disconnected 
+mrcoffee01: raises 8025 to 8825 and is all-in
+Voca94: folds 
+drope$tyle: calls 8025
+*** FLOP *** [5d 5c Kh]
+*** TURN *** [5d 5c Kh] [3h]
+*** RIVER *** [5d 5c Kh 3h] [Ts]
+*** SHOW DOWN ***
+mrcoffee01: shows [9s As] (a pair of Fives)
+drope$tyle: shows [Jh Th] (two pair, Tens and Fives)
+drope$tyle collected 18300 from pot
+drope$tyle wins $12.50 for eliminating mrcoffee01 and their own bounty increases by $12.50 to $37.50
+mrcoffee01 finished the tournament
+*** SUMMARY ***
+Total pot 18300 | Rake 0 
+Board [5d 5c Kh 3h Ts]
+Seat 1: Voca94 (big blind) folded before Flop
+Seat 2: verybadday folded before Flop (didn't bet)
+Seat 3: drope$tyle showed [Jh Th] and won (18300) with two pair, Tens and Fives
+Seat 5: SabDur (button) folded before Flop (didn't bet)
+Seat 6: mrcoffee01 (small blind) showed [9s As] and lost with a pair of Fives
+
+PokerStars Hand #250117313873: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/04/22 16:50:08 ET
+Table '3743747148 2' 7-max Seat #1 is the button
+Seat 1: Voca94 (12369 in chips, $37.50 bounty) 
+Seat 2: verybadday (58940 in chips, $81.25 bounty) 
+Seat 3: drope$tyle (30763 in chips, $37.50 bounty) 
+Seat 4: 1viciii1 (17371 in chips, $37.50 bounty) 
+Seat 5: SabDur (5632 in chips, $50 bounty) 
+Seat 7: borchardt007 (41079 in chips, $37.50 bounty) 
+Voca94: posts the ante 50
+verybadday: posts the ante 50
+drope$tyle: posts the ante 50
+1viciii1: posts the ante 50
+SabDur: posts the ante 50
+borchardt007: posts the ante 50
+verybadday: posts small blind 200
+drope$tyle: posts big blind 400
+*** HOLE CARDS ***
+1viciii1: folds 
+SabDur: folds 
+borchardt007: folds 
+Voca94: raises 400 to 800
+verybadday: calls 600
+drope$tyle: calls 400
+*** FLOP *** [Qc 3d Qh]
+verybadday: checks 
+NSS_012 is disconnected 
+drope$tyle: checks 
+Voca94: bets 810
+verybadday: folds 
+drope$tyle: raises 1528 to 2338
+Voca94: folds 
+Uncalled bet (1528) returned to drope$tyle
+drope$tyle collected 4320 from pot
+drope$tyle: doesn't show hand 
+*** SUMMARY ***
+Total pot 4320 | Rake 0 
+Board [Qc 3d Qh]
+Seat 1: Voca94 (button) folded on the Flop
+Seat 2: verybadday (small blind) folded on the Flop
+Seat 3: drope$tyle (big blind) collected (4320)
+Seat 4: 1viciii1 folded before Flop (didn't bet)
+Seat 5: SabDur folded before Flop (didn't bet)
+Seat 7: borchardt007 folded before Flop (didn't bet)
+
+PokerStars Hand #250117344414: Tournament #3743747148, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/04/22 16:51:43 ET
+Table '3743747148 2' 7-max Seat #2 is the button
+Seat 1: Voca94 (10709 in chips, $37.50 bounty) 
+Seat 2: verybadday (58090 in chips, $81.25 bounty) 
+Seat 3: drope$tyle (33423 in chips, $37.50 bounty) 
+Seat 4: 1viciii1 (17321 in chips, $37.50 bounty) 
+Seat 5: SabDur (5582 in chips, $50 bounty) 
+Seat 6: NSS_012 (39037 in chips, $81.25 bounty) 
+Seat 7: borchardt007 (41029 in chips, $37.50 bounty) 
+Voca94: posts the ante 60
+verybadday: posts the ante 60
+drope$tyle: posts the ante 60
+1viciii1: posts the ante 60
+SabDur: posts the ante 60
+NSS_012: posts the ante 60
+borchardt007: posts the ante 60
+drope$tyle: posts small blind 250
+1viciii1: posts big blind 500
+*** HOLE CARDS ***
+SabDur: raises 5022 to 5522 and is all-in
+NSS_012: folds 
+borchardt007: calls 5522
+Voca94: folds 
+verybadday: calls 5522
+drope$tyle: folds 
+1viciii1: folds 
+*** FLOP *** [Qh 8s 5c]
+borchardt007: bets 4500
+verybadday: calls 4500
+*** TURN *** [Qh 8s 5c] [5h]
+borchardt007: checks 
+verybadday: bets 6951
+borchardt007: calls 6951
+*** RIVER *** [Qh 8s 5c 5h] [2h]
+borchardt007: checks 
+verybadday: checks 
+*** SHOW DOWN ***
+borchardt007: shows [Tc Jc] (a pair of Fives)
+verybadday: shows [Ah Qd] (two pair, Queens and Fives)
+verybadday collected 22902 from side pot
+SabDur: mucks hand 
+verybadday collected 17736 from main pot
+verybadday wins $25 for eliminating SabDur and their own bounty increases by $25 to $106.25
+SabDur finished the tournament
+*** SUMMARY ***
+Total pot 40638 Main pot 17736. Side pot 22902. | Rake 0 
+Board [Qh 8s 5c 5h 2h]
+Seat 1: Voca94 folded before Flop (didn't bet)
+Seat 2: verybadday (button) showed [Ah Qd] and won (40638) with two pair, Queens and Fives
+Seat 3: drope$tyle (small blind) folded before Flop
+Seat 4: 1viciii1 (big blind) folded before Flop
+Seat 5: SabDur mucked
+Seat 6: NSS_012 folded before Flop (didn't bet)
+Seat 7: borchardt007 showed [Tc Jc] and lost with a pair of Fives
