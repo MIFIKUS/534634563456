@@ -85,7 +85,9 @@ while True:
 
             print(f'Попытка получить информацию для бд из архива {file_name_for_archive}')
             archive_data_for_db = get_info(f'{PATH_TO_SAVE}\\{file_name_for_archive}')
+
             add_info_to_db.add_additional_archive_info(archive_data_for_db)
+            add_info_to_db.add_tables_additional_info(archive_data_for_db)
 
             os.remove(f'{PATH_TO_SAVE}\\{file_name}')
             delete.delete_deal(file_id)

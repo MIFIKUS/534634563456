@@ -71,3 +71,35 @@ class AddInfo:
 
         self.cursor.execute(query)
 
+    def add_tables_main_info(self, data: dict):
+        tournament_id = data['tournament_id']
+        name = data['name']
+        table_num = data['table_num']
+        gtd = data['gtd']
+        buy_in = data['buy_in']
+        total_buy_in = data['total_buy_in']
+        table_size = data['table_size']
+        speed = data['speed']
+        tournament_type = data['type']
+        archive_name = data['archive_name']
+        script_name = data['script_name']
+
+        query = "INSERT INTO poker.tables (tournament_id, table_num, name, gtd, buy_in, total_buy_in, table_size, speed, tournament_type, archive_name, script_name, create_date)"\
+                f" VALUES ('{tournament_id}', {table_num}, '{name}', '{gtd}', '{buy_in}', '{total_buy_in}', {table_size}, '{speed}', '{tournament_type}', "\
+                f"'{archive_name}', '{script_name}', NOW());"
+
+        print(query)
+
+        self.cursor.execute(query)
+
+    def add_tables_additional_info(self, data: dict):
+        tournament_id = data['tournament_id']
+        files_in_archive = data['files_in_archive']
+        hands = data['hands']
+
+        query = "UPDATE poker.tables SET "\
+                f"files_in_archive = {files_in_archive}, "\
+                f"hands = {hands} "\
+                f"WHERE tournament_id = '{tournament_id}'"
+        print(query)
+        self.cursor.execute(query)
