@@ -77,6 +77,7 @@ class ParseLobby:
 
         #keyboard.tab()
         same = 0
+        gtd = '0'
         while True:
             time.sleep(2)
             counter += 1
