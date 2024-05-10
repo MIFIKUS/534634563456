@@ -12,7 +12,7 @@ class AddTable:
         self.cursor = self._connection.cursor()
 
     def add(self, tournament_id: str, table: str):
-        query = f"INSERT INTO poker.opened_tables (tournament_id, table) VALUES "\
+        query = f"INSERT INTO poker.opened_tables (tournament_id, table_num) VALUES "\
                 f"('{tournament_id}', {table});"
 
         self.cursor.execute(query)
