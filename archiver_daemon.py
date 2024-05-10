@@ -2,6 +2,9 @@ from ClientLauncher.Google.Drive.download import DownloadDeals
 from ClientLauncher.Google.Drive.delete import DeleteDeal
 from ClientLauncher.Google.Sheets.get_config import GetConfig
 
+from ClientLauncher.Database.add_info import AddInfo
+from ClientLauncher.Database.get_info_from_archive import get_info
+
 import zipfile
 import os
 import re
@@ -10,6 +13,8 @@ import time
 
 download = DownloadDeals()
 delete = DeleteDeal()
+
+add_info_to_db = AddInfo()
 
 while True:
     try:
@@ -77,6 +82,10 @@ while True:
                     print('Archive created')
                     if f'{PATH_TO_SAVE}\\{file_name}' not in zipf.namelist():
                         zipf.write(f'{PATH_TO_SAVE}\\{file_name}', arcname=f'{PATH_TO_SAVE}\\{file_name}'.split('\\')[-1])
+
+            print(f'Попытка получить информацию для бд из архива {file_name_for_archive}')
+            archive_data_for_db = get_info(f'{PATH_TO_SAVE}\\{file_name_for_archive}')
+            add_info_to_db.add_additional_archive_info(archive_data_for_db)
 
             os.remove(f'{PATH_TO_SAVE}\\{file_name}')
             delete.delete_deal(file_id)
