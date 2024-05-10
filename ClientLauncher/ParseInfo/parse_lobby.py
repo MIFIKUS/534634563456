@@ -2,6 +2,9 @@ from ClientLauncher.MainFunctions.image import Image
 from ClientLauncher.MainFunctions.mouse_and_keyboard import Mouse, Keyboard
 from ClientLauncher.MainFunctions.windows import Windows
 
+from ClientLauncher.Database.get_info import GetInfo
+from ClientLauncher.Database.add_opened_table import AddTable
+
 from tkinter import Tk
 
 import win32gui
@@ -16,6 +19,9 @@ image = Image()
 mouse = Mouse()
 keyboard = Keyboard()
 windows = Windows()
+
+get_info = GetInfo()
+add_table = AddTable()
 
 clipboard = Tk()
 
@@ -102,6 +108,12 @@ class ParseLobby:
                         tournament_name = ''
                         skip = True
                         break
+                if get_info.table_opened(self._tournament_id, table_num):
+                    print('IN')
+                    skip = True
+
+                else:
+                    add_table.add(self._tournament_id, table_num)
 
             if skip:
                 same += 1

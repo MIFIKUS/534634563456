@@ -20,3 +20,12 @@ class GetInfo:
         if len(result) > 0:
             return True
         return False
+
+    def table_opened(self, tournament_id: str, table: str) -> bool:
+        query = f"SELECT * FROM poker.opened_tables WHERE tournament_id = '{tournament_id}' AND table = {table};"
+        self.cursor.execute(query)
+        result = self.cursor.fetchall()
+
+        if len(result) > 0:
+            return True
+        return False

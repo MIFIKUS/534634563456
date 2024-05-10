@@ -146,14 +146,15 @@ def main():
                 write_deals_per_time()
 
                 write_statistics.set_status(COLLECT_DEALS)
-                for i in get_closed_tables_file():
-                    try:
-                        change_closed_tables(i[0])
-                    except IndexError:
-                        print('список пустой')
-                        break
-                    text = i.split(' ')
-                    handle_closed_tables(text, opened_tables)
+                while len(get_closed_tables_file()):
+                    for i in get_closed_tables_file():
+                        try:
+                            change_closed_tables(i[0])
+                        except IndexError:
+                            print('список пустой')
+                            break
+                        text = i.split(' ')
+                        handle_closed_tables(text, opened_tables)
 
             else:
                 write_files_per_time()
