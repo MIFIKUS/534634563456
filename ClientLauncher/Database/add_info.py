@@ -58,16 +58,15 @@ class AddInfo:
         table_size = data['table_size']
         speed = data['speed']
         tournament_type = data['type']
-        archive_name = data['archive_name']
-        files_in_archive = data['files_in_archive']
+        file_name = data['file_name']
         hands = data['hands']
         script_name = data['script_name']
         create_data = data['create_date']
 
         query = "INSERT INTO poker.tables (tournament_id, name, gtd, buy_in, total_buy_in, table_size, speed, " \
-                "tournament_type, archive_name, files_in_archive, hands, create_date, script_name, table_num)" \
+                "tournament_type, file_name, hands, create_date, script_name, table_num)" \
                 f"(VALUES ({tournament_id}, {name}, {gtd}, {buy_in}, {total_buy_in}, {table_size}, {speed}, {tournament_type}," \
-                f"{archive_name}, {files_in_archive}, {hands}, {create_data}, {script_name}, {table_num});"
+                f"{file_name}, {hands}, {create_data}, {script_name}, {table_num});"
 
         self.cursor.execute(query)
 
@@ -81,12 +80,13 @@ class AddInfo:
         table_size = data['table_size']
         speed = data['speed']
         tournament_type = data['type']
-        archive_name = data['archive_name']
+        file_name = data['file_name']
         script_name = data['script_name']
+        hands = data['hands']
 
-        query = "INSERT INTO poker.tables (tournament_id, table_num, name, gtd, buy_in, total_buy_in, table_size, speed, tournament_type, archive_name, script_name, create_date)"\
-                f" VALUES ('{tournament_id}', {table_num}, '{name}', '{gtd}', '{buy_in}', '{total_buy_in}', {table_size}, '{speed}', '{tournament_type}', "\
-                f"'{archive_name}', '{script_name}', NOW());"
+        query = "INSERT INTO poker.tables (tournament_id, table_num, name, gtd, buy_in, total_buy_in, table_size, speed, tournament_type, hands, file_name, script_name, create_date)"\
+                f" VALUES ('{tournament_id}', {table_num}, '{name}', '{gtd}', '{buy_in}', '{total_buy_in}', {table_size}, '{speed}', '{tournament_type}', {hands} "\
+                f"'{file_name}', '{script_name}', NOW());"
 
         print(query)
 

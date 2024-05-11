@@ -97,8 +97,10 @@ def get_info_for_tables(file_path: str) -> dict:
 
         speed = re.search(f'MAX{separator}(.*?){separator}', file_path).group(1)
 
-        archive_name = file_path.replace(f'T{table_num}{separator}', '').replace('.txt', '.zip')
+        file_name = file_path.replace('.txt', '.zip')
+
+        hands = len(file_txt.read().split('\n\n'))
 
     return {'tournament_id': tournament_id, 'table_num': table_num, 'name': name, 'gtd': gtd, 'buy_in': buy_in,
             'total_buy_in': total_buy_in, 'table_size': table_size, 'speed': speed, 'type': tournament_type,
-            'archive_name': archive_name, 'script_name': SCRIPT_NAME}
+            'archive_name': file_name, 'script_name': SCRIPT_NAME, 'hands': hands}

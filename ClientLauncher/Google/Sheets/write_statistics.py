@@ -24,34 +24,57 @@ class WriteStatistics:
                 print(f'Ошибка в set_status {e}')
 
     def set_opened_tables(self, opened_tables: int):
-        cells = self._open_cells_file()
-        opened_tables_cell = cells.get('opened_tables')
+        while True:
+            try:
+                cells = self._open_cells_file()
+                opened_tables_cell = cells.get('opened_tables')
 
-        self.sh.update(f'{opened_tables_cell}{self.client_row}', [[opened_tables]])
+                self.sh.update(f'{opened_tables_cell}{self.client_row}', [[opened_tables]])
+                break
+            except Exception as e:
+                print(f'Ошибка в set_opened_tables {e}')
 
     def set_files_per_hour(self, files_per_hour: int):
-        cells = self._open_cells_file()
-        files_per_hour_cell = cells.get('files_for_hour')
-
-        self.sh.update(f'{files_per_hour_cell}{self.client_row}', [[files_per_hour]])
+        while True:
+            try:
+                cells = self._open_cells_file()
+                files_per_hour_cell = cells.get('files_for_hours')
+                self.sh.update(f'{files_per_hour_cell}{self.client_row}', [[files_per_hour]])
+                break
+            except Exception as e:
+                print(f'Ошибка в set_files_per_hour {e}')
 
     def set_files_per_days(self, files_per_days: int):
-        cells = self._open_cells_file()
-        files_per_days_cell = cells.get('files_for_days')
-
-        self.sh.update(f'{files_per_days_cell}{self.client_row}', [[files_per_days]])
+        while True:
+            try:
+                cells = self._open_cells_file()
+                files_per_days_cell = cells.get('files_for_days')
+                self.sh.update(f'{files_per_days_cell}{self.client_row}', [[files_per_days]])
+                break
+            except Exception as e:
+                print(f'Ошибка в set_files_per_days {e}')
 
     def set_deals_per_hour(self, deals_per_hour: int):
-        cells = self._open_cells_file()
-        deals_per_hour_cell = cells.get('deals_for_hour')
+        while True:
+            try:
+                cells = self._open_cells_file()
+                deals_per_hour_cell = cells.get('deals_for_hours')
 
-        self.sh.update(f'{deals_per_hour_cell}{self.client_row}', [[deals_per_hour]])
+                self.sh.update(f'{deals_per_hour_cell}{self.client_row}', [[deals_per_hour]])
+                break
+            except Exception as e:
+                print(f'Ошибка в set_deals_per_hour {e}')
 
     def set_deals_per_days(self, deals_per_days: int):
-        cells = self._open_cells_file()
-        deals_per_days_cell = cells.get('deals_for_days')
+        while True:
+            try:
+                cells = self._open_cells_file()
+                deals_per_days_cell = cells.get('deals_for_days')
 
-        self.sh.update(f'{deals_per_days_cell}{self.client_row}', [[deals_per_days]])
+                self.sh.update(f'{deals_per_days_cell}{self.client_row}', [[deals_per_days]])
+                break
+            except Exception as e:
+                print(f'Ошибка в set_deals_per_days {e}')
 
     def _open_cells_file(self):
         with open('ClientLauncher\\Statistics\\statistics_cells.json') as cells_json:

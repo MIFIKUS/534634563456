@@ -130,7 +130,8 @@ def main():
             time.sleep(30)
             try:
                 opened_tables = get_statistics.get_open_tables()
-            except Exception:
+            except Exception as e:
+                print(e)
                 continue
             if opened_tables < 21:
                 write_statistics.set_status(OPENING_TOURNEYS)
