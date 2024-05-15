@@ -117,6 +117,7 @@ def write_deals_per_time():
     write_statistics.set_deals_per_hour(amount_of_deals_hour)
     write_statistics.set_deals_per_days(amount_of_deals_days)
 
+
 def main():
     cleanup_tournaments_data()
     num = 0

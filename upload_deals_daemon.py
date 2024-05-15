@@ -28,11 +28,14 @@ while True:
         for i in files:
             print(f'Попытка получить информацию для БД из файла {i}')
             file_data = get_info_from_file.get_info(f'{i}')
-            file_data_for_tables = get_info_from_file.get_info_for_tables(i)
-            print('Удалось получить информацию')
+            if not file_data
+                print('Не удалось получить информацию для БД')
+            else:
+                file_data_for_tables = get_info_from_file.get_info_for_tables(i)
+                print('Удалось получить информацию')
 
-            add_db_info.add_main_archive_info(file_data)
-            add_db_info.add_tables_main_info(file_data_for_tables)
+                add_db_info.add_main_archive_info(file_data)
+                add_db_info.add_tables_main_info(file_data_for_tables)
 
             print(f'Попытка загрузить на гугл диск файл {i}')
             try:

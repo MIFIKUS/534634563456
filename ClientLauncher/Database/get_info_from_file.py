@@ -18,7 +18,7 @@ separator = name_details['separator']
 free_text = name_details['free_text']
 
 
-def get_info(file_path: str) -> dict:
+def get_info(file_path: str) -> dict or bool:
     def _get_gtd(path: str, tournament_id: str) -> str:
         with open(f'deals_files\\{file_path}', 'r', encoding='utf-8') as tables_json:
             tables_info = json.load(tables_json)
@@ -26,6 +26,8 @@ def get_info(file_path: str) -> dict:
             return tables_info[tournament_id]['gtd']
 
     with open(f'deals_files\\{file_path}', 'r', encoding='utf-8') as file_txt:
+        if not file_txt:
+            return False
         file_list = file_txt.read().split('\n')
 
         id = re.search(f'{free_text}{separator}(.*?){separator}', file_path).group(1)
