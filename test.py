@@ -1,5 +1,6 @@
+with open('deals_files\\PS__3754316023__T3__Big_$22__BI$22__FREEZE__8MAX__REG__2024_05_16.txt') as dsf:
+    asdfsadf = len(dsf.read().split('\n\n'))
+    print(dsf)
+    asdfsadf = len(dsf.read().split('\n\n'))
+    print(asdfsadf)
 
-with open('closed_tables.txt', 'r', encoding='utf-8') as ff:
-    sdf = ff.read().split('\n')
-    f = [a for a in sdf if a != '']
-    print(f)

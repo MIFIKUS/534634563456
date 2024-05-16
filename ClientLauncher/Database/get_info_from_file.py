@@ -71,13 +71,14 @@ def get_info(file_path: str) -> dict or bool:
 
 def get_info_for_tables(file_path: str) -> dict:
     def _get_gtd(path: str, tournament_id: str) -> str:
-        with open(f'deals_files\\{file_path}', 'r', encoding='utf-8') as tables_json:
+        with open('tournaments_data.json', 'r', encoding='utf-8') as tables_json:
             tables_info = json.load(tables_json)
 
             return tables_info[tournament_id]['gtd']
 
     with open(f'deals_files\\{file_path}', 'r', encoding='utf-8') as file_txt:
-        file_list = file_txt.read().split('\n')
+        file_txt = file_txt.read()
+        file_list = file_txt.split('\n')
 
         tournament_id = re.search(f'{free_text}{separator}(.*?){separator}', file_path).group(1)
         tournament_id = tournament_id.replace(' ', '').replace(free_text, '')
@@ -101,8 +102,8 @@ def get_info_for_tables(file_path: str) -> dict:
 
         file_name = file_path.replace('.txt', '.zip')
 
-        hands = len(file_txt.read().split('\n\n'))
+        hands = len(file_txt.split('\n\n'))
 
     return {'tournament_id': tournament_id, 'table_num': table_num, 'name': name, 'gtd': gtd, 'buy_in': buy_in,
             'total_buy_in': total_buy_in, 'table_size': table_size, 'speed': speed, 'type': tournament_type,
-            'archive_name': file_name, 'script_name': SCRIPT_NAME, 'hands': hands}
+            'file_name': file_name, 'script_name': SCRIPT_NAME, 'hands': hands}

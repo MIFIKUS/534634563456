@@ -1,0 +1,3884 @@
+PokerStars Hand #250528329485: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VII (60/120) - 2024/05/16 13:19:23 UTC [2024/05/16 9:19:23 ET]
+Table '3754316073 1' 8-max Seat #1 is the button
+Seat 1: Antfan78 (11072 in chips) 
+Seat 2: SargentoFAHUR (4414 in chips) 
+Seat 3: RyFF247 (6188 in chips) 
+Seat 4: Thain1715 (6693 in chips) 
+Seat 5: Bump&Flex (3643 in chips) 
+Seat 7: bbmand (4988 in chips) 
+Seat 8: 9Jerem (6740 in chips) 
+Antfan78: posts the ante 15
+SargentoFAHUR: posts the ante 15
+RyFF247: posts the ante 15
+Thain1715: posts the ante 15
+Bump&Flex: posts the ante 15
+bbmand: posts the ante 15
+9Jerem: posts the ante 15
+SargentoFAHUR: posts small blind 60
+RyFF247: posts big blind 120
+*** HOLE CARDS ***
+Thain1715: folds 
+Bump&Flex: folds 
+bbmand: raises 240 to 360
+9Jerem: raises 720 to 1080
+Antfan78: folds 
+SargentoFAHUR: folds 
+RyFF247: folds 
+bbmand: folds 
+Uncalled bet (720) returned to 9Jerem
+9Jerem collected 1005 from pot
+9Jerem: doesn't show hand 
+*** SUMMARY ***
+Total pot 1005 | Rake 0 
+Seat 1: Antfan78 (button) folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR (small blind) folded before Flop
+Seat 3: RyFF247 (big blind) folded before Flop
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: Bump&Flex folded before Flop (didn't bet)
+Seat 7: bbmand folded before Flop
+Seat 8: 9Jerem collected (1005)
+
+PokerStars Hand #250528337132: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VII (60/120) - 2024/05/16 13:20:05 UTC [2024/05/16 9:20:05 ET]
+Table '3754316073 1' 8-max Seat #2 is the button
+Seat 1: Antfan78 (11057 in chips) 
+Seat 2: SargentoFAHUR (4339 in chips) 
+Seat 3: RyFF247 (6053 in chips) 
+Seat 4: Thain1715 (6678 in chips) 
+Seat 5: Bump&Flex (3628 in chips) 
+Seat 7: bbmand (4613 in chips) 
+Seat 8: 9Jerem (7370 in chips) 
+Antfan78: posts the ante 15
+SargentoFAHUR: posts the ante 15
+RyFF247: posts the ante 15
+Thain1715: posts the ante 15
+Bump&Flex: posts the ante 15
+bbmand: posts the ante 15
+9Jerem: posts the ante 15
+RyFF247: posts small blind 60
+Thain1715: posts big blind 120
+*** HOLE CARDS ***
+Bump&Flex: folds 
+bbmand: folds 
+9Jerem: folds 
+Antfan78: raises 240 to 360
+SargentoFAHUR: calls 360
+RyFF247: calls 300
+Thain1715: folds 
+*** FLOP *** [Ad 9c 3c]
+RyFF247: checks 
+Antfan78: checks 
+SargentoFAHUR: checks 
+*** TURN *** [Ad 9c 3c] [Kd]
+RyFF247: bets 718
+Antfan78: raises 718 to 1436
+SargentoFAHUR: calls 1436
+RyFF247: calls 718
+*** RIVER *** [Ad 9c 3c Kd] [7c]
+RyFF247: checks 
+Antfan78: bets 1920
+SargentoFAHUR: folds 
+RyFF247: calls 1920
+*** SHOW DOWN ***
+Antfan78: shows [9h 9s] (three of a kind, Nines)
+RyFF247: shows [Kc Jc] (a flush, King high)
+RyFF247 collected 9453 from pot
+*** SUMMARY ***
+Total pot 9453 | Rake 0 
+Board [Ad 9c 3c Kd 7c]
+Seat 1: Antfan78 showed [9h 9s] and lost with three of a kind, Nines
+Seat 2: SargentoFAHUR (button) folded on the River
+Seat 3: RyFF247 (small blind) showed [Kc Jc] and won (9453) with a flush, King high
+Seat 4: Thain1715 (big blind) folded before Flop
+Seat 5: Bump&Flex folded before Flop (didn't bet)
+Seat 7: bbmand folded before Flop (didn't bet)
+Seat 8: 9Jerem folded before Flop (didn't bet)
+
+PokerStars Hand #250528337132: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VII (60/120) - 2024/05/16 13:20:05 UTC [2024/05/16 9:20:05 ET]
+Table '3754316073 1' 8-max Seat #2 is the button
+Seat 1: Antfan78 (11057 in chips) 
+Seat 2: SargentoFAHUR (4339 in chips) 
+Seat 3: RyFF247 (6053 in chips) 
+Seat 4: Thain1715 (6678 in chips) 
+Seat 5: Bump&Flex (3628 in chips) 
+Seat 7: bbmand (4613 in chips) 
+Seat 8: 9Jerem (7370 in chips) 
+Antfan78: posts the ante 15
+SargentoFAHUR: posts the ante 15
+RyFF247: posts the ante 15
+Thain1715: posts the ante 15
+Bump&Flex: posts the ante 15
+bbmand: posts the ante 15
+9Jerem: posts the ante 15
+RyFF247: posts small blind 60
+Thain1715: posts big blind 120
+*** HOLE CARDS ***
+Bump&Flex: folds 
+bbmand: folds 
+9Jerem: folds 
+Antfan78: raises 240 to 360
+SargentoFAHUR: calls 360
+RyFF247: calls 300
+Thain1715: folds 
+*** FLOP *** [Ad 9c 3c]
+RyFF247: checks 
+Antfan78: checks 
+SargentoFAHUR: checks 
+*** TURN *** [Ad 9c 3c] [Kd]
+RyFF247: bets 718
+Antfan78: raises 718 to 1436
+SargentoFAHUR: calls 1436
+RyFF247: calls 718
+*** RIVER *** [Ad 9c 3c Kd] [7c]
+RyFF247: checks 
+Antfan78: bets 1920
+SargentoFAHUR: folds 
+RyFF247: calls 1920
+*** SHOW DOWN ***
+Antfan78: shows [9h 9s] (three of a kind, Nines)
+RyFF247: shows [Kc Jc] (a flush, King high)
+RyFF247 collected 9453 from pot
+*** SUMMARY ***
+Total pot 9453 | Rake 0 
+Board [Ad 9c 3c Kd 7c]
+Seat 1: Antfan78 showed [9h 9s] and lost with three of a kind, Nines
+Seat 2: SargentoFAHUR (button) folded on the River
+Seat 3: RyFF247 (small blind) showed [Kc Jc] and won (9453) with a flush, King high
+Seat 4: Thain1715 (big blind) folded before Flop
+Seat 5: Bump&Flex folded before Flop (didn't bet)
+Seat 7: bbmand folded before Flop (didn't bet)
+Seat 8: 9Jerem folded before Flop (didn't bet)
+
+PokerStars Hand #250528356816: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VII (60/120) - 2024/05/16 13:21:57 UTC [2024/05/16 9:21:57 ET]
+Table '3754316073 1' 8-max Seat #3 is the button
+Seat 1: Antfan78 (7326 in chips) 
+Seat 2: SargentoFAHUR (2528 in chips) 
+Seat 3: RyFF247 (11775 in chips) 
+Seat 4: Thain1715 (6543 in chips) 
+Seat 5: Bump&Flex (3613 in chips) 
+Seat 7: bbmand (4598 in chips) 
+Seat 8: 9Jerem (7355 in chips) 
+Antfan78: posts the ante 15
+SargentoFAHUR: posts the ante 15
+RyFF247: posts the ante 15
+Thain1715: posts the ante 15
+Bump&Flex: posts the ante 15
+bbmand: posts the ante 15
+9Jerem: posts the ante 15
+Thain1715: posts small blind 60
+Bump&Flex: posts big blind 120
+*** HOLE CARDS ***
+bbmand: folds 
+9Jerem: folds 
+Antfan78: folds 
+SargentoFAHUR: folds 
+RyFF247: raises 144 to 264
+Thain1715: folds 
+Bump&Flex: calls 144
+*** FLOP *** [8c 8d 9h]
+Bump&Flex: checks 
+RyFF247: bets 381
+Bump&Flex: folds 
+Uncalled bet (381) returned to RyFF247
+RyFF247 collected 693 from pot
+RyFF247: doesn't show hand 
+*** SUMMARY ***
+Total pot 693 | Rake 0 
+Board [8c 8d 9h]
+Seat 1: Antfan78 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 (button) collected (693)
+Seat 4: Thain1715 (small blind) folded before Flop
+Seat 5: Bump&Flex (big blind) folded on the Flop
+Seat 7: bbmand folded before Flop (didn't bet)
+Seat 8: 9Jerem folded before Flop (didn't bet)
+
+PokerStars Hand #250528356816: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VII (60/120) - 2024/05/16 13:21:57 UTC [2024/05/16 9:21:57 ET]
+Table '3754316073 1' 8-max Seat #3 is the button
+Seat 1: Antfan78 (7326 in chips) 
+Seat 2: SargentoFAHUR (2528 in chips) 
+Seat 3: RyFF247 (11775 in chips) 
+Seat 4: Thain1715 (6543 in chips) 
+Seat 5: Bump&Flex (3613 in chips) 
+Seat 7: bbmand (4598 in chips) 
+Seat 8: 9Jerem (7355 in chips) 
+Antfan78: posts the ante 15
+SargentoFAHUR: posts the ante 15
+RyFF247: posts the ante 15
+Thain1715: posts the ante 15
+Bump&Flex: posts the ante 15
+bbmand: posts the ante 15
+9Jerem: posts the ante 15
+Thain1715: posts small blind 60
+Bump&Flex: posts big blind 120
+*** HOLE CARDS ***
+bbmand: folds 
+9Jerem: folds 
+Antfan78: folds 
+SargentoFAHUR: folds 
+RyFF247: raises 144 to 264
+Thain1715: folds 
+Bump&Flex: calls 144
+*** FLOP *** [8c 8d 9h]
+Bump&Flex: checks 
+RyFF247: bets 381
+Bump&Flex: folds 
+Uncalled bet (381) returned to RyFF247
+RyFF247 collected 693 from pot
+RyFF247: doesn't show hand 
+*** SUMMARY ***
+Total pot 693 | Rake 0 
+Board [8c 8d 9h]
+Seat 1: Antfan78 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 (button) collected (693)
+Seat 4: Thain1715 (small blind) folded before Flop
+Seat 5: Bump&Flex (big blind) folded on the Flop
+Seat 7: bbmand folded before Flop (didn't bet)
+Seat 8: 9Jerem folded before Flop (didn't bet)
+
+PokerStars Hand #250528369240: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VII (60/120) - 2024/05/16 13:23:07 UTC [2024/05/16 9:23:07 ET]
+Table '3754316073 1' 8-max Seat #4 is the button
+Seat 1: Antfan78 (7311 in chips) 
+Seat 2: SargentoFAHUR (2513 in chips) 
+Seat 3: RyFF247 (12189 in chips) 
+Seat 4: Thain1715 (6468 in chips) 
+Seat 5: Bump&Flex (3334 in chips) 
+Seat 7: bbmand (4583 in chips) 
+Seat 8: 9Jerem (7340 in chips) 
+Antfan78: posts the ante 15
+SargentoFAHUR: posts the ante 15
+RyFF247: posts the ante 15
+Thain1715: posts the ante 15
+Bump&Flex: posts the ante 15
+bbmand: posts the ante 15
+9Jerem: posts the ante 15
+Bump&Flex: posts small blind 60
+bbmand: posts big blind 120
+*** HOLE CARDS ***
+9Jerem: folds 
+Antfan78: calls 120
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: raises 300 to 420
+Bump&Flex: folds 
+bbmand: calls 300
+Antfan78: calls 300
+*** FLOP *** [6h Kd 2c]
+bbmand: checks 
+Antfan78: checks 
+Thain1715: bets 356
+bbmand: folds 
+Antfan78: raises 356 to 712
+Thain1715: calls 356
+*** TURN *** [6h Kd 2c] [Qc]
+Antfan78: bets 600
+Thain1715: calls 600
+*** RIVER *** [6h Kd 2c Qc] [Jd]
+Antfan78: checks 
+Thain1715: checks 
+*** SHOW DOWN ***
+Antfan78: shows [8c 9h] (high card King)
+Thain1715: shows [Ah Kc] (a pair of Kings)
+Thain1715 collected 4049 from pot
+*** SUMMARY ***
+Total pot 4049 | Rake 0 
+Board [6h Kd 2c Qc Jd]
+Seat 1: Antfan78 showed [8c 9h] and lost with high card King
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 (button) showed [Ah Kc] and won (4049) with a pair of Kings
+Seat 5: Bump&Flex (small blind) folded before Flop
+Seat 7: bbmand (big blind) folded on the Flop
+Seat 8: 9Jerem folded before Flop (didn't bet)
+
+PokerStars Hand #250528369240: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VII (60/120) - 2024/05/16 13:23:07 UTC [2024/05/16 9:23:07 ET]
+Table '3754316073 1' 8-max Seat #4 is the button
+Seat 1: Antfan78 (7311 in chips) 
+Seat 2: SargentoFAHUR (2513 in chips) 
+Seat 3: RyFF247 (12189 in chips) 
+Seat 4: Thain1715 (6468 in chips) 
+Seat 5: Bump&Flex (3334 in chips) 
+Seat 7: bbmand (4583 in chips) 
+Seat 8: 9Jerem (7340 in chips) 
+Antfan78: posts the ante 15
+SargentoFAHUR: posts the ante 15
+RyFF247: posts the ante 15
+Thain1715: posts the ante 15
+Bump&Flex: posts the ante 15
+bbmand: posts the ante 15
+9Jerem: posts the ante 15
+Bump&Flex: posts small blind 60
+bbmand: posts big blind 120
+*** HOLE CARDS ***
+9Jerem: folds 
+Antfan78: calls 120
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: raises 300 to 420
+Bump&Flex: folds 
+bbmand: calls 300
+Antfan78: calls 300
+*** FLOP *** [6h Kd 2c]
+bbmand: checks 
+Antfan78: checks 
+Thain1715: bets 356
+bbmand: folds 
+Antfan78: raises 356 to 712
+Thain1715: calls 356
+*** TURN *** [6h Kd 2c] [Qc]
+Antfan78: bets 600
+Thain1715: calls 600
+*** RIVER *** [6h Kd 2c Qc] [Jd]
+Antfan78: checks 
+Thain1715: checks 
+*** SHOW DOWN ***
+Antfan78: shows [8c 9h] (high card King)
+Thain1715: shows [Ah Kc] (a pair of Kings)
+Thain1715 collected 4049 from pot
+*** SUMMARY ***
+Total pot 4049 | Rake 0 
+Board [6h Kd 2c Qc Jd]
+Seat 1: Antfan78 showed [8c 9h] and lost with high card King
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 (button) showed [Ah Kc] and won (4049) with a pair of Kings
+Seat 5: Bump&Flex (small blind) folded before Flop
+Seat 7: bbmand (big blind) folded on the Flop
+Seat 8: 9Jerem folded before Flop (didn't bet)
+
+PokerStars Hand #250528391505: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VII (60/120) - 2024/05/16 13:25:11 UTC [2024/05/16 9:25:11 ET]
+Table '3754316073 1' 8-max Seat #5 is the button
+Seat 1: Antfan78 (5564 in chips) 
+Seat 2: SargentoFAHUR (2498 in chips) 
+Seat 3: RyFF247 (12174 in chips) 
+Seat 4: Thain1715 (8770 in chips) 
+Seat 5: Bump&Flex (3259 in chips) 
+Seat 7: bbmand (4148 in chips) 
+Seat 8: 9Jerem (7325 in chips) 
+Antfan78: posts the ante 15
+SargentoFAHUR: posts the ante 15
+RyFF247: posts the ante 15
+Thain1715: posts the ante 15
+Bump&Flex: posts the ante 15
+bbmand: posts the ante 15
+9Jerem: posts the ante 15
+bbmand: posts small blind 60
+9Jerem: posts big blind 120
+*** HOLE CARDS ***
+Antfan78: raises 405 to 525
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+Bump&Flex: folds 
+bbmand: calls 465
+9Jerem: folds 
+*** FLOP *** [Ac 9c Ts]
+bbmand: checks 
+Antfan78: bets 600
+bbmand: calls 600
+*** TURN *** [Ac 9c Ts] [Tc]
+bbmand: checks 
+Antfan78: bets 4424 and is all-in
+bbmand: folds 
+Uncalled bet (4424) returned to Antfan78
+Antfan78 collected 2475 from pot
+Antfan78: doesn't show hand 
+*** SUMMARY ***
+Total pot 2475 | Rake 0 
+Board [Ac 9c Ts Tc]
+Seat 1: Antfan78 collected (2475)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: Bump&Flex (button) folded before Flop (didn't bet)
+Seat 7: bbmand (small blind) folded on the Turn
+Seat 8: 9Jerem (big blind) folded before Flop
+
+PokerStars Hand #250528391505: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VII (60/120) - 2024/05/16 13:25:11 UTC [2024/05/16 9:25:11 ET]
+Table '3754316073 1' 8-max Seat #5 is the button
+Seat 1: Antfan78 (5564 in chips) 
+Seat 2: SargentoFAHUR (2498 in chips) 
+Seat 3: RyFF247 (12174 in chips) 
+Seat 4: Thain1715 (8770 in chips) 
+Seat 5: Bump&Flex (3259 in chips) 
+Seat 7: bbmand (4148 in chips) 
+Seat 8: 9Jerem (7325 in chips) 
+Antfan78: posts the ante 15
+SargentoFAHUR: posts the ante 15
+RyFF247: posts the ante 15
+Thain1715: posts the ante 15
+Bump&Flex: posts the ante 15
+bbmand: posts the ante 15
+9Jerem: posts the ante 15
+bbmand: posts small blind 60
+9Jerem: posts big blind 120
+*** HOLE CARDS ***
+Antfan78: raises 405 to 525
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+Bump&Flex: folds 
+bbmand: calls 465
+9Jerem: folds 
+*** FLOP *** [Ac 9c Ts]
+bbmand: checks 
+Antfan78: bets 600
+bbmand: calls 600
+*** TURN *** [Ac 9c Ts] [Tc]
+bbmand: checks 
+Antfan78: bets 4424 and is all-in
+bbmand: folds 
+Uncalled bet (4424) returned to Antfan78
+Antfan78 collected 2475 from pot
+Antfan78: doesn't show hand 
+*** SUMMARY ***
+Total pot 2475 | Rake 0 
+Board [Ac 9c Ts Tc]
+Seat 1: Antfan78 collected (2475)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: Bump&Flex (button) folded before Flop (didn't bet)
+Seat 7: bbmand (small blind) folded on the Turn
+Seat 8: 9Jerem (big blind) folded before Flop
+
+PokerStars Hand #250528402545: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VII (60/120) - 2024/05/16 13:26:13 UTC [2024/05/16 9:26:13 ET]
+Table '3754316073 1' 8-max Seat #7 is the button
+Seat 1: Antfan78 (6899 in chips) 
+Seat 2: SargentoFAHUR (2483 in chips) 
+Seat 3: RyFF247 (12159 in chips) 
+Seat 4: Thain1715 (8755 in chips) 
+Seat 5: Bump&Flex (3244 in chips) 
+Seat 7: bbmand (3008 in chips) 
+Seat 8: 9Jerem (7190 in chips) 
+Antfan78: posts the ante 15
+SargentoFAHUR: posts the ante 15
+RyFF247: posts the ante 15
+Thain1715: posts the ante 15
+Bump&Flex: posts the ante 15
+bbmand: posts the ante 15
+9Jerem: posts the ante 15
+9Jerem: posts small blind 60
+Antfan78: posts big blind 120
+*** HOLE CARDS ***
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+Bump&Flex: raises 138 to 258
+bbmand: calls 258
+9Jerem: calls 198
+Antfan78: calls 138
+*** FLOP *** [2d 6s 7c]
+9Jerem: checks 
+Antfan78: bets 120
+Bump&Flex: calls 120
+bbmand: calls 120
+9Jerem: calls 120
+*** TURN *** [2d 6s 7c] [Jh]
+9Jerem: checks 
+Antfan78: bets 600
+Bump&Flex: folds 
+bbmand: folds 
+9Jerem: folds 
+Uncalled bet (600) returned to Antfan78
+Antfan78 collected 1617 from pot
+Antfan78: doesn't show hand 
+*** SUMMARY ***
+Total pot 1617 | Rake 0 
+Board [2d 6s 7c Jh]
+Seat 1: Antfan78 (big blind) collected (1617)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: Bump&Flex folded on the Turn
+Seat 7: bbmand (button) folded on the Turn
+Seat 8: 9Jerem (small blind) folded on the Turn
+
+PokerStars Hand #250528402545: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VII (60/120) - 2024/05/16 13:26:13 UTC [2024/05/16 9:26:13 ET]
+Table '3754316073 1' 8-max Seat #7 is the button
+Seat 1: Antfan78 (6899 in chips) 
+Seat 2: SargentoFAHUR (2483 in chips) 
+Seat 3: RyFF247 (12159 in chips) 
+Seat 4: Thain1715 (8755 in chips) 
+Seat 5: Bump&Flex (3244 in chips) 
+Seat 7: bbmand (3008 in chips) 
+Seat 8: 9Jerem (7190 in chips) 
+Antfan78: posts the ante 15
+SargentoFAHUR: posts the ante 15
+RyFF247: posts the ante 15
+Thain1715: posts the ante 15
+Bump&Flex: posts the ante 15
+bbmand: posts the ante 15
+9Jerem: posts the ante 15
+9Jerem: posts small blind 60
+Antfan78: posts big blind 120
+*** HOLE CARDS ***
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+Bump&Flex: raises 138 to 258
+bbmand: calls 258
+9Jerem: calls 198
+Antfan78: calls 138
+*** FLOP *** [2d 6s 7c]
+9Jerem: checks 
+Antfan78: bets 120
+Bump&Flex: calls 120
+bbmand: calls 120
+9Jerem: calls 120
+*** TURN *** [2d 6s 7c] [Jh]
+9Jerem: checks 
+Antfan78: bets 600
+Bump&Flex: folds 
+bbmand: folds 
+9Jerem: folds 
+Uncalled bet (600) returned to Antfan78
+Antfan78 collected 1617 from pot
+Antfan78: doesn't show hand 
+*** SUMMARY ***
+Total pot 1617 | Rake 0 
+Board [2d 6s 7c Jh]
+Seat 1: Antfan78 (big blind) collected (1617)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: Bump&Flex folded on the Turn
+Seat 7: bbmand (button) folded on the Turn
+Seat 8: 9Jerem (small blind) folded on the Turn
+
+PokerStars Hand #250528414497: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VII (60/120) - 2024/05/16 13:27:19 UTC [2024/05/16 9:27:19 ET]
+Table '3754316073 1' 8-max Seat #8 is the button
+Seat 1: Antfan78 (8123 in chips) 
+Seat 2: SargentoFAHUR (2468 in chips) 
+Seat 3: RyFF247 (12144 in chips) 
+Seat 4: Thain1715 (8740 in chips) 
+Seat 5: Bump&Flex (2851 in chips) 
+Seat 7: bbmand (2615 in chips) 
+Seat 8: 9Jerem (6797 in chips) 
+Antfan78: posts the ante 15
+SargentoFAHUR: posts the ante 15
+RyFF247: posts the ante 15
+Thain1715: posts the ante 15
+Bump&Flex: posts the ante 15
+bbmand: posts the ante 15
+9Jerem: posts the ante 15
+Antfan78: posts small blind 60
+SargentoFAHUR: posts big blind 120
+*** HOLE CARDS ***
+RyFF247: folds 
+Thain1715: folds 
+Bump&Flex: folds 
+bbmand: raises 120 to 240
+9Jerem: folds 
+Antfan78: raises 705 to 945
+SargentoFAHUR: folds 
+bbmand: raises 1655 to 2600 and is all-in
+Antfan78: calls 1655
+*** FLOP *** [6d 3d Kh]
+*** TURN *** [6d 3d Kh] [5s]
+*** RIVER *** [6d 3d Kh 5s] [9c]
+*** SHOW DOWN ***
+Antfan78: shows [3s 3c] (three of a kind, Threes)
+bbmand: shows [Td Ac] (high card Ace)
+Antfan78 collected 5425 from pot
+bbmand finished the tournament
+husajn54 is disconnected 
+*** SUMMARY ***
+Total pot 5425 | Rake 0 
+Board [6d 3d Kh 5s 9c]
+Seat 1: Antfan78 (small blind) showed [3s 3c] and won (5425) with three of a kind, Threes
+Seat 2: SargentoFAHUR (big blind) folded before Flop
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: Bump&Flex folded before Flop (didn't bet)
+Seat 7: bbmand showed [Td Ac] and lost with high card Ace
+Seat 8: 9Jerem (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250528414497: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VII (60/120) - 2024/05/16 13:27:19 UTC [2024/05/16 9:27:19 ET]
+Table '3754316073 1' 8-max Seat #8 is the button
+Seat 1: Antfan78 (8123 in chips) 
+Seat 2: SargentoFAHUR (2468 in chips) 
+Seat 3: RyFF247 (12144 in chips) 
+Seat 4: Thain1715 (8740 in chips) 
+Seat 5: Bump&Flex (2851 in chips) 
+Seat 7: bbmand (2615 in chips) 
+Seat 8: 9Jerem (6797 in chips) 
+Antfan78: posts the ante 15
+SargentoFAHUR: posts the ante 15
+RyFF247: posts the ante 15
+Thain1715: posts the ante 15
+Bump&Flex: posts the ante 15
+bbmand: posts the ante 15
+9Jerem: posts the ante 15
+Antfan78: posts small blind 60
+SargentoFAHUR: posts big blind 120
+*** HOLE CARDS ***
+RyFF247: folds 
+Thain1715: folds 
+Bump&Flex: folds 
+bbmand: raises 120 to 240
+9Jerem: folds 
+Antfan78: raises 705 to 945
+SargentoFAHUR: folds 
+bbmand: raises 1655 to 2600 and is all-in
+Antfan78: calls 1655
+*** FLOP *** [6d 3d Kh]
+*** TURN *** [6d 3d Kh] [5s]
+*** RIVER *** [6d 3d Kh 5s] [9c]
+*** SHOW DOWN ***
+Antfan78: shows [3s 3c] (three of a kind, Threes)
+bbmand: shows [Td Ac] (high card Ace)
+Antfan78 collected 5425 from pot
+bbmand finished the tournament
+husajn54 is disconnected 
+*** SUMMARY ***
+Total pot 5425 | Rake 0 
+Board [6d 3d Kh 5s 9c]
+Seat 1: Antfan78 (small blind) showed [3s 3c] and won (5425) with three of a kind, Threes
+Seat 2: SargentoFAHUR (big blind) folded before Flop
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: Bump&Flex folded before Flop (didn't bet)
+Seat 7: bbmand showed [Td Ac] and lost with high card Ace
+Seat 8: 9Jerem (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250528423201: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VII (60/120) - 2024/05/16 13:28:07 UTC [2024/05/16 9:28:07 ET]
+Table '3754316073 1' 8-max Seat #1 is the button
+Seat 1: Antfan78 (10933 in chips) 
+Seat 2: SargentoFAHUR (2333 in chips) 
+Seat 3: RyFF247 (12129 in chips) 
+Seat 4: Thain1715 (8725 in chips) 
+Seat 5: Bump&Flex (2836 in chips) 
+Seat 6: husajn54 (4970 in chips) 
+Seat 8: 9Jerem (6782 in chips) 
+Antfan78: posts the ante 15
+SargentoFAHUR: posts the ante 15
+RyFF247: posts the ante 15
+Thain1715: posts the ante 15
+Bump&Flex: posts the ante 15
+husajn54: posts the ante 15
+9Jerem: posts the ante 15
+SargentoFAHUR: posts small blind 60
+RyFF247: posts big blind 120
+*** HOLE CARDS ***
+Thain1715: folds 
+Bump&Flex: folds 
+husajn54: folds 
+9Jerem: folds 
+Antfan78: folds 
+SargentoFAHUR: raises 2198 to 2318 and is all-in
+RyFF247: folds 
+Uncalled bet (2198) returned to SargentoFAHUR
+SargentoFAHUR collected 345 from pot
+SargentoFAHUR: doesn't show hand 
+*** SUMMARY ***
+Total pot 345 | Rake 0 
+Seat 1: Antfan78 (button) folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR (small blind) collected (345)
+Seat 3: RyFF247 (big blind) folded before Flop
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: Bump&Flex folded before Flop (didn't bet)
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 8: 9Jerem folded before Flop (didn't bet)
+
+PokerStars Hand #250528423201: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VII (60/120) - 2024/05/16 13:28:07 UTC [2024/05/16 9:28:07 ET]
+Table '3754316073 1' 8-max Seat #1 is the button
+Seat 1: Antfan78 (10933 in chips) 
+Seat 2: SargentoFAHUR (2333 in chips) 
+Seat 3: RyFF247 (12129 in chips) 
+Seat 4: Thain1715 (8725 in chips) 
+Seat 5: Bump&Flex (2836 in chips) 
+Seat 6: husajn54 (4970 in chips) 
+Seat 8: 9Jerem (6782 in chips) 
+Antfan78: posts the ante 15
+SargentoFAHUR: posts the ante 15
+RyFF247: posts the ante 15
+Thain1715: posts the ante 15
+Bump&Flex: posts the ante 15
+husajn54: posts the ante 15
+9Jerem: posts the ante 15
+SargentoFAHUR: posts small blind 60
+RyFF247: posts big blind 120
+*** HOLE CARDS ***
+Thain1715: folds 
+Bump&Flex: folds 
+husajn54: folds 
+9Jerem: folds 
+Antfan78: folds 
+SargentoFAHUR: raises 2198 to 2318 and is all-in
+RyFF247: folds 
+Uncalled bet (2198) returned to SargentoFAHUR
+SargentoFAHUR collected 345 from pot
+SargentoFAHUR: doesn't show hand 
+*** SUMMARY ***
+Total pot 345 | Rake 0 
+Seat 1: Antfan78 (button) folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR (small blind) collected (345)
+Seat 3: RyFF247 (big blind) folded before Flop
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: Bump&Flex folded before Flop (didn't bet)
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 8: 9Jerem folded before Flop (didn't bet)
+
+PokerStars Hand #250528427408: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VII (60/120) - 2024/05/16 13:28:31 UTC [2024/05/16 9:28:31 ET]
+Table '3754316073 1' 8-max Seat #2 is the button
+Seat 1: Antfan78 (10918 in chips) 
+Seat 2: SargentoFAHUR (2543 in chips) 
+Seat 3: RyFF247 (11994 in chips) 
+Seat 4: Thain1715 (8710 in chips) 
+Seat 5: Bump&Flex (2821 in chips) 
+Seat 6: husajn54 (4955 in chips) 
+Seat 8: 9Jerem (6767 in chips) 
+Antfan78: posts the ante 15
+SargentoFAHUR: posts the ante 15
+RyFF247: posts the ante 15
+Thain1715: posts the ante 15
+Bump&Flex: posts the ante 15
+husajn54: posts the ante 15
+9Jerem: posts the ante 15
+RyFF247: posts small blind 60
+Thain1715: posts big blind 120
+*** HOLE CARDS ***
+Bump&Flex: raises 120 to 240
+husajn54: folds 
+9Jerem: calls 240
+Antfan78: raises 120 to 360
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+Bump&Flex: raises 2446 to 2806 and is all-in
+9Jerem: calls 2566
+Antfan78: calls 2446
+*** FLOP *** [Ac Jc 2h]
+9Jerem: checks 
+Antfan78: checks 
+*** TURN *** [Ac Jc 2h] [Ks]
+9Jerem: bets 3946 and is all-in
+Antfan78: calls 3946
+*** RIVER *** [Ac Jc 2h Ks] [2d]
+*** SHOW DOWN ***
+9Jerem: shows [7c 7s] (two pair, Sevens and Deuces)
+Antfan78: shows [Th Kc] (two pair, Kings and Deuces)
+Antfan78 collected 7892 from side pot
+Bump&Flex: shows [9s Ts] (a pair of Deuces)
+Antfan78 collected 8703 from main pot
+9Jerem finished the tournament
+Bump&Flex finished the tournament
+*** SUMMARY ***
+Total pot 16595 Main pot 8703. Side pot 7892. | Rake 0 
+Board [Ac Jc 2h Ks 2d]
+Seat 1: Antfan78 showed [Th Kc] and won (16595) with two pair, Kings and Deuces
+Seat 2: SargentoFAHUR (button) folded before Flop (didn't bet)
+Seat 3: RyFF247 (small blind) folded before Flop
+Seat 4: Thain1715 (big blind) folded before Flop
+Seat 5: Bump&Flex showed [9s Ts] and lost with a pair of Deuces
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 8: 9Jerem showed [7c 7s] and lost with two pair, Sevens and Deuces
+
+PokerStars Hand #250528427408: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VII (60/120) - 2024/05/16 13:28:31 UTC [2024/05/16 9:28:31 ET]
+Table '3754316073 1' 8-max Seat #2 is the button
+Seat 1: Antfan78 (10918 in chips) 
+Seat 2: SargentoFAHUR (2543 in chips) 
+Seat 3: RyFF247 (11994 in chips) 
+Seat 4: Thain1715 (8710 in chips) 
+Seat 5: Bump&Flex (2821 in chips) 
+Seat 6: husajn54 (4955 in chips) 
+Seat 8: 9Jerem (6767 in chips) 
+Antfan78: posts the ante 15
+SargentoFAHUR: posts the ante 15
+RyFF247: posts the ante 15
+Thain1715: posts the ante 15
+Bump&Flex: posts the ante 15
+husajn54: posts the ante 15
+9Jerem: posts the ante 15
+RyFF247: posts small blind 60
+Thain1715: posts big blind 120
+*** HOLE CARDS ***
+Bump&Flex: raises 120 to 240
+husajn54: folds 
+9Jerem: calls 240
+Antfan78: raises 120 to 360
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+Bump&Flex: raises 2446 to 2806 and is all-in
+9Jerem: calls 2566
+Antfan78: calls 2446
+*** FLOP *** [Ac Jc 2h]
+9Jerem: checks 
+Antfan78: checks 
+*** TURN *** [Ac Jc 2h] [Ks]
+9Jerem: bets 3946 and is all-in
+Antfan78: calls 3946
+*** RIVER *** [Ac Jc 2h Ks] [2d]
+*** SHOW DOWN ***
+9Jerem: shows [7c 7s] (two pair, Sevens and Deuces)
+Antfan78: shows [Th Kc] (two pair, Kings and Deuces)
+Antfan78 collected 7892 from side pot
+Bump&Flex: shows [9s Ts] (a pair of Deuces)
+Antfan78 collected 8703 from main pot
+9Jerem finished the tournament
+Bump&Flex finished the tournament
+*** SUMMARY ***
+Total pot 16595 Main pot 8703. Side pot 7892. | Rake 0 
+Board [Ac Jc 2h Ks 2d]
+Seat 1: Antfan78 showed [Th Kc] and won (16595) with two pair, Kings and Deuces
+Seat 2: SargentoFAHUR (button) folded before Flop (didn't bet)
+Seat 3: RyFF247 (small blind) folded before Flop
+Seat 4: Thain1715 (big blind) folded before Flop
+Seat 5: Bump&Flex showed [9s Ts] and lost with a pair of Deuces
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 8: 9Jerem showed [7c 7s] and lost with two pair, Sevens and Deuces
+
+PokerStars Hand #250528443647: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VIII (75/150) - 2024/05/16 13:30:01 UTC [2024/05/16 9:30:01 ET]
+Table '3754316073 1' 8-max Seat #3 is the button
+Seat 1: Antfan78 (20746 in chips) 
+Seat 2: SargentoFAHUR (2528 in chips) 
+Seat 3: RyFF247 (11919 in chips) 
+Seat 4: Thain1715 (8575 in chips) 
+Seat 5: HU4FU (4715 in chips) 
+Seat 6: husajn54 (4940 in chips) 
+Antfan78: posts the ante 20
+SargentoFAHUR: posts the ante 20
+RyFF247: posts the ante 20
+Thain1715: posts the ante 20
+HU4FU: posts the ante 20
+husajn54: posts the ante 20
+Thain1715: posts small blind 75
+HU4FU: posts big blind 150
+*** HOLE CARDS ***
+husajn54: folds 
+BrenoSecchin is disconnected 
+Antfan78: raises 150 to 300
+SargentoFAHUR: folds 
+RyFF247: calls 300
+Thain1715: folds 
+HU4FU: raises 4395 to 4695 and is all-in
+Antfan78: folds 
+RyFF247: folds 
+Uncalled bet (4395) returned to HU4FU
+HU4FU collected 1095 from pot
+HU4FU: doesn't show hand 
+*** SUMMARY ***
+Total pot 1095 | Rake 0 
+Seat 1: Antfan78 folded before Flop
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 (button) folded before Flop
+Seat 4: Thain1715 (small blind) folded before Flop
+Seat 5: HU4FU (big blind) collected (1095)
+Seat 6: husajn54 folded before Flop (didn't bet)
+
+PokerStars Hand #250528443647: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VIII (75/150) - 2024/05/16 13:30:01 UTC [2024/05/16 9:30:01 ET]
+Table '3754316073 1' 8-max Seat #3 is the button
+Seat 1: Antfan78 (20746 in chips) 
+Seat 2: SargentoFAHUR (2528 in chips) 
+Seat 3: RyFF247 (11919 in chips) 
+Seat 4: Thain1715 (8575 in chips) 
+Seat 5: HU4FU (4715 in chips) 
+Seat 6: husajn54 (4940 in chips) 
+Antfan78: posts the ante 20
+SargentoFAHUR: posts the ante 20
+RyFF247: posts the ante 20
+Thain1715: posts the ante 20
+HU4FU: posts the ante 20
+husajn54: posts the ante 20
+Thain1715: posts small blind 75
+HU4FU: posts big blind 150
+*** HOLE CARDS ***
+husajn54: folds 
+BrenoSecchin is disconnected 
+Antfan78: raises 150 to 300
+SargentoFAHUR: folds 
+RyFF247: calls 300
+Thain1715: folds 
+HU4FU: raises 4395 to 4695 and is all-in
+Antfan78: folds 
+RyFF247: folds 
+Uncalled bet (4395) returned to HU4FU
+HU4FU collected 1095 from pot
+HU4FU: doesn't show hand 
+*** SUMMARY ***
+Total pot 1095 | Rake 0 
+Seat 1: Antfan78 folded before Flop
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 (button) folded before Flop
+Seat 4: Thain1715 (small blind) folded before Flop
+Seat 5: HU4FU (big blind) collected (1095)
+Seat 6: husajn54 folded before Flop (didn't bet)
+
+PokerStars Hand #250528452754: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VIII (75/150) - 2024/05/16 13:30:51 UTC [2024/05/16 9:30:51 ET]
+Table '3754316073 1' 8-max Seat #4 is the button
+Seat 1: Antfan78 (20426 in chips) 
+Seat 2: SargentoFAHUR (2508 in chips) 
+Seat 3: RyFF247 (11599 in chips) 
+Seat 4: Thain1715 (8480 in chips) 
+Seat 5: HU4FU (5490 in chips) 
+Seat 6: husajn54 (4920 in chips) 
+Seat 7: BrenoSecchin (5000 in chips) 
+Antfan78: posts the ante 20
+SargentoFAHUR: posts the ante 20
+RyFF247: posts the ante 20
+Thain1715: posts the ante 20
+HU4FU: posts the ante 20
+husajn54: posts the ante 20
+BrenoSecchin: posts the ante 20
+HU4FU: posts small blind 75
+husajn54: posts big blind 150
+*** HOLE CARDS ***
+BrenoSecchin: folds 
+Antfan78: folds 
+SargentoFAHUR: folds 
+RyFF247: raises 180 to 330
+Thain1715: raises 720 to 1050
+HU4FU: folds 
+husajn54: folds 
+RyFF247: folds 
+Uncalled bet (720) returned to Thain1715
+Thain1715 collected 1025 from pot
+Thain1715: doesn't show hand 
+*** SUMMARY ***
+Total pot 1025 | Rake 0 
+Seat 1: Antfan78 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop
+Seat 4: Thain1715 (button) collected (1025)
+Seat 5: HU4FU (small blind) folded before Flop
+Seat 6: husajn54 (big blind) folded before Flop
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+
+PokerStars Hand #250528452754: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VIII (75/150) - 2024/05/16 13:30:51 UTC [2024/05/16 9:30:51 ET]
+Table '3754316073 1' 8-max Seat #4 is the button
+Seat 1: Antfan78 (20426 in chips) 
+Seat 2: SargentoFAHUR (2508 in chips) 
+Seat 3: RyFF247 (11599 in chips) 
+Seat 4: Thain1715 (8480 in chips) 
+Seat 5: HU4FU (5490 in chips) 
+Seat 6: husajn54 (4920 in chips) 
+Seat 7: BrenoSecchin (5000 in chips) 
+Antfan78: posts the ante 20
+SargentoFAHUR: posts the ante 20
+RyFF247: posts the ante 20
+Thain1715: posts the ante 20
+HU4FU: posts the ante 20
+husajn54: posts the ante 20
+BrenoSecchin: posts the ante 20
+HU4FU: posts small blind 75
+husajn54: posts big blind 150
+*** HOLE CARDS ***
+BrenoSecchin: folds 
+Antfan78: folds 
+SargentoFAHUR: folds 
+RyFF247: raises 180 to 330
+Thain1715: raises 720 to 1050
+HU4FU: folds 
+husajn54: folds 
+RyFF247: folds 
+Uncalled bet (720) returned to Thain1715
+Thain1715 collected 1025 from pot
+Thain1715: doesn't show hand 
+*** SUMMARY ***
+Total pot 1025 | Rake 0 
+Seat 1: Antfan78 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop
+Seat 4: Thain1715 (button) collected (1025)
+Seat 5: HU4FU (small blind) folded before Flop
+Seat 6: husajn54 (big blind) folded before Flop
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+
+PokerStars Hand #250528459954: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VIII (75/150) - 2024/05/16 13:31:31 UTC [2024/05/16 9:31:31 ET]
+Table '3754316073 1' 8-max Seat #5 is the button
+Seat 1: Antfan78 (20406 in chips) 
+Seat 2: SargentoFAHUR (2488 in chips) 
+Seat 3: RyFF247 (11249 in chips) 
+Seat 4: Thain1715 (9155 in chips) 
+Seat 5: HU4FU (5395 in chips) 
+Seat 6: husajn54 (4750 in chips) 
+Seat 7: BrenoSecchin (4980 in chips) 
+Antfan78: posts the ante 20
+SargentoFAHUR: posts the ante 20
+RyFF247: posts the ante 20
+Thain1715: posts the ante 20
+HU4FU: posts the ante 20
+husajn54: posts the ante 20
+BrenoSecchin: posts the ante 20
+husajn54: posts small blind 75
+BrenoSecchin: posts big blind 150
+*** HOLE CARDS ***
+Antfan78: folds 
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: raises 165 to 315
+husajn54: folds 
+BrenoSecchin: calls 165
+*** FLOP *** [Qh 2c Jd]
+BrenoSecchin: checks 
+HU4FU: checks 
+*** TURN *** [Qh 2c Jd] [6s]
+BrenoSecchin: checks 
+HU4FU: checks 
+*** RIVER *** [Qh 2c Jd 6s] [Jc]
+BrenoSecchin: checks 
+HU4FU: bets 540
+BrenoSecchin: folds 
+Uncalled bet (540) returned to HU4FU
+HU4FU collected 845 from pot
+HU4FU: doesn't show hand 
+*** SUMMARY ***
+Total pot 845 | Rake 0 
+Board [Qh 2c Jd 6s Jc]
+Seat 1: Antfan78 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU (button) collected (845)
+Seat 6: husajn54 (small blind) folded before Flop
+Seat 7: BrenoSecchin (big blind) folded on the River
+
+PokerStars Hand #250528459954: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VIII (75/150) - 2024/05/16 13:31:31 UTC [2024/05/16 9:31:31 ET]
+Table '3754316073 1' 8-max Seat #5 is the button
+Seat 1: Antfan78 (20406 in chips) 
+Seat 2: SargentoFAHUR (2488 in chips) 
+Seat 3: RyFF247 (11249 in chips) 
+Seat 4: Thain1715 (9155 in chips) 
+Seat 5: HU4FU (5395 in chips) 
+Seat 6: husajn54 (4750 in chips) 
+Seat 7: BrenoSecchin (4980 in chips) 
+Antfan78: posts the ante 20
+SargentoFAHUR: posts the ante 20
+RyFF247: posts the ante 20
+Thain1715: posts the ante 20
+HU4FU: posts the ante 20
+husajn54: posts the ante 20
+BrenoSecchin: posts the ante 20
+husajn54: posts small blind 75
+BrenoSecchin: posts big blind 150
+*** HOLE CARDS ***
+Antfan78: folds 
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: raises 165 to 315
+husajn54: folds 
+BrenoSecchin: calls 165
+*** FLOP *** [Qh 2c Jd]
+BrenoSecchin: checks 
+HU4FU: checks 
+*** TURN *** [Qh 2c Jd] [6s]
+BrenoSecchin: checks 
+HU4FU: checks 
+*** RIVER *** [Qh 2c Jd 6s] [Jc]
+BrenoSecchin: checks 
+HU4FU: bets 540
+BrenoSecchin: folds 
+Uncalled bet (540) returned to HU4FU
+HU4FU collected 845 from pot
+HU4FU: doesn't show hand 
+*** SUMMARY ***
+Total pot 845 | Rake 0 
+Board [Qh 2c Jd 6s Jc]
+Seat 1: Antfan78 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU (button) collected (845)
+Seat 6: husajn54 (small blind) folded before Flop
+Seat 7: BrenoSecchin (big blind) folded on the River
+
+PokerStars Hand #250528473057: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VIII (75/150) - 2024/05/16 13:32:42 UTC [2024/05/16 9:32:42 ET]
+Table '3754316073 1' 8-max Seat #6 is the button
+Seat 1: Antfan78 (20386 in chips) 
+Seat 2: SargentoFAHUR (2468 in chips) 
+Seat 3: RyFF247 (11229 in chips) 
+Seat 4: Thain1715 (9135 in chips) 
+Seat 5: HU4FU (5905 in chips) 
+Seat 6: husajn54 (4655 in chips) 
+Seat 7: BrenoSecchin (4645 in chips) 
+Antfan78: posts the ante 20
+SargentoFAHUR: posts the ante 20
+RyFF247: posts the ante 20
+Thain1715: posts the ante 20
+HU4FU: posts the ante 20
+husajn54: posts the ante 20
+BrenoSecchin: posts the ante 20
+BrenoSecchin: posts small blind 75
+Antfan78: posts big blind 150
+*** HOLE CARDS ***
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+Onii94 is disconnected 
+HU4FU: raises 165 to 315
+husajn54: folds 
+BrenoSecchin: calls 240
+Antfan78: raises 435 to 750
+HU4FU: calls 435
+BrenoSecchin: folds 
+*** FLOP *** [7h 4c 2h]
+Antfan78: bets 450
+HU4FU: calls 450
+*** TURN *** [7h 4c 2h] [3d]
+Antfan78: checks 
+HU4FU: bets 975
+Antfan78: folds 
+Uncalled bet (975) returned to HU4FU
+HU4FU collected 2855 from pot
+HU4FU: doesn't show hand 
+*** SUMMARY ***
+Total pot 2855 | Rake 0 
+Board [7h 4c 2h 3d]
+Seat 1: Antfan78 (big blind) folded on the Turn
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU collected (2855)
+Seat 6: husajn54 (button) folded before Flop (didn't bet)
+Seat 7: BrenoSecchin (small blind) folded before Flop
+
+PokerStars Hand #250528473057: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VIII (75/150) - 2024/05/16 13:32:42 UTC [2024/05/16 9:32:42 ET]
+Table '3754316073 1' 8-max Seat #6 is the button
+Seat 1: Antfan78 (20386 in chips) 
+Seat 2: SargentoFAHUR (2468 in chips) 
+Seat 3: RyFF247 (11229 in chips) 
+Seat 4: Thain1715 (9135 in chips) 
+Seat 5: HU4FU (5905 in chips) 
+Seat 6: husajn54 (4655 in chips) 
+Seat 7: BrenoSecchin (4645 in chips) 
+Antfan78: posts the ante 20
+SargentoFAHUR: posts the ante 20
+RyFF247: posts the ante 20
+Thain1715: posts the ante 20
+HU4FU: posts the ante 20
+husajn54: posts the ante 20
+BrenoSecchin: posts the ante 20
+BrenoSecchin: posts small blind 75
+Antfan78: posts big blind 150
+*** HOLE CARDS ***
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+Onii94 is disconnected 
+HU4FU: raises 165 to 315
+husajn54: folds 
+BrenoSecchin: calls 240
+Antfan78: raises 435 to 750
+HU4FU: calls 435
+BrenoSecchin: folds 
+*** FLOP *** [7h 4c 2h]
+Antfan78: bets 450
+HU4FU: calls 450
+*** TURN *** [7h 4c 2h] [3d]
+Antfan78: checks 
+HU4FU: bets 975
+Antfan78: folds 
+Uncalled bet (975) returned to HU4FU
+HU4FU collected 2855 from pot
+HU4FU: doesn't show hand 
+*** SUMMARY ***
+Total pot 2855 | Rake 0 
+Board [7h 4c 2h 3d]
+Seat 1: Antfan78 (big blind) folded on the Turn
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU collected (2855)
+Seat 6: husajn54 (button) folded before Flop (didn't bet)
+Seat 7: BrenoSecchin (small blind) folded before Flop
+
+PokerStars Hand #250528493494: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VIII (75/150) - 2024/05/16 13:34:34 UTC [2024/05/16 9:34:34 ET]
+Table '3754316073 1' 8-max Seat #7 is the button
+Seat 1: Antfan78 (19166 in chips) 
+Seat 2: SargentoFAHUR (2448 in chips) 
+Seat 3: RyFF247 (11209 in chips) 
+Seat 4: Thain1715 (9115 in chips) 
+Seat 5: HU4FU (7540 in chips) 
+Seat 6: husajn54 (4635 in chips) 
+Seat 7: BrenoSecchin (4310 in chips) 
+Seat 8: Onii94 (5000 in chips) out of hand (moved from another table into small blind)
+Onii94 will be allowed to play after the button
+Antfan78: posts the ante 20
+SargentoFAHUR: posts the ante 20
+RyFF247: posts the ante 20
+Thain1715: posts the ante 20
+HU4FU: posts the ante 20
+husajn54: posts the ante 20
+BrenoSecchin: posts the ante 20
+Antfan78: posts small blind 75
+SargentoFAHUR: posts big blind 150
+*** HOLE CARDS ***
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+husajn54: folds 
+BrenoSecchin: raises 150 to 300
+Antfan78: raises 890 to 1190
+SargentoFAHUR: folds 
+BrenoSecchin: calls 890
+*** FLOP *** [Ks 4d 9c]
+Antfan78: bets 17956 and is all-in
+BrenoSecchin: folds 
+Uncalled bet (17956) returned to Antfan78
+Antfan78 collected 2670 from pot
+Antfan78: doesn't show hand 
+*** SUMMARY ***
+Total pot 2670 | Rake 0 
+Board [Ks 4d 9c]
+Seat 1: Antfan78 (small blind) collected (2670)
+Seat 2: SargentoFAHUR (big blind) folded before Flop
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin (button) folded on the Flop
+
+PokerStars Hand #250528493494: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VIII (75/150) - 2024/05/16 13:34:34 UTC [2024/05/16 9:34:34 ET]
+Table '3754316073 1' 8-max Seat #7 is the button
+Seat 1: Antfan78 (19166 in chips) 
+Seat 2: SargentoFAHUR (2448 in chips) 
+Seat 3: RyFF247 (11209 in chips) 
+Seat 4: Thain1715 (9115 in chips) 
+Seat 5: HU4FU (7540 in chips) 
+Seat 6: husajn54 (4635 in chips) 
+Seat 7: BrenoSecchin (4310 in chips) 
+Seat 8: Onii94 (5000 in chips) out of hand (moved from another table into small blind)
+Onii94 will be allowed to play after the button
+Antfan78: posts the ante 20
+SargentoFAHUR: posts the ante 20
+RyFF247: posts the ante 20
+Thain1715: posts the ante 20
+HU4FU: posts the ante 20
+husajn54: posts the ante 20
+BrenoSecchin: posts the ante 20
+Antfan78: posts small blind 75
+SargentoFAHUR: posts big blind 150
+*** HOLE CARDS ***
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+husajn54: folds 
+BrenoSecchin: raises 150 to 300
+Antfan78: raises 890 to 1190
+SargentoFAHUR: folds 
+BrenoSecchin: calls 890
+*** FLOP *** [Ks 4d 9c]
+Antfan78: bets 17956 and is all-in
+BrenoSecchin: folds 
+Uncalled bet (17956) returned to Antfan78
+Antfan78 collected 2670 from pot
+Antfan78: doesn't show hand 
+*** SUMMARY ***
+Total pot 2670 | Rake 0 
+Board [Ks 4d 9c]
+Seat 1: Antfan78 (small blind) collected (2670)
+Seat 2: SargentoFAHUR (big blind) folded before Flop
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin (button) folded on the Flop
+
+PokerStars Hand #250528501714: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VIII (75/150) - 2024/05/16 13:35:20 UTC [2024/05/16 9:35:20 ET]
+Table '3754316073 1' 8-max Seat #1 is the button
+Seat 1: Antfan78 (20626 in chips) 
+Seat 2: SargentoFAHUR (2278 in chips) 
+Seat 3: RyFF247 (11189 in chips) 
+Seat 4: Thain1715 (9095 in chips) 
+Seat 5: HU4FU (7520 in chips) 
+Seat 6: husajn54 (4615 in chips) 
+Seat 7: BrenoSecchin (3100 in chips) 
+Seat 8: Onii94 (5000 in chips) 
+Antfan78: posts the ante 20
+SargentoFAHUR: posts the ante 20
+RyFF247: posts the ante 20
+Thain1715: posts the ante 20
+HU4FU: posts the ante 20
+husajn54: posts the ante 20
+BrenoSecchin: posts the ante 20
+Onii94: posts the ante 20
+SargentoFAHUR: posts small blind 75
+RyFF247: posts big blind 150
+*** HOLE CARDS ***
+Thain1715: folds 
+HU4FU: raises 165 to 315
+husajn54: folds 
+BrenoSecchin: folds 
+Onii94: folds 
+Antfan78: raises 165 to 480
+SargentoFAHUR: folds 
+RyFF247: folds 
+HU4FU: calls 165
+*** FLOP *** [7c 6c Ks]
+HU4FU: checks 
+Antfan78: bets 450
+HU4FU: raises 915 to 1365
+Antfan78: raises 1485 to 2850
+HU4FU: calls 1485
+*** TURN *** [7c 6c Ks] [9s]
+HU4FU: checks 
+Antfan78: bets 17276 and is all-in
+HU4FU: folds 
+Uncalled bet (17276) returned to Antfan78
+Antfan78 collected 7045 from pot
+Antfan78: doesn't show hand 
+*** SUMMARY ***
+Total pot 7045 | Rake 0 
+Board [7c 6c Ks 9s]
+Seat 1: Antfan78 (button) collected (7045)
+Seat 2: SargentoFAHUR (small blind) folded before Flop
+Seat 3: RyFF247 (big blind) folded before Flop
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded on the Turn
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528501714: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VIII (75/150) - 2024/05/16 13:35:20 UTC [2024/05/16 9:35:20 ET]
+Table '3754316073 1' 8-max Seat #1 is the button
+Seat 1: Antfan78 (20626 in chips) 
+Seat 2: SargentoFAHUR (2278 in chips) 
+Seat 3: RyFF247 (11189 in chips) 
+Seat 4: Thain1715 (9095 in chips) 
+Seat 5: HU4FU (7520 in chips) 
+Seat 6: husajn54 (4615 in chips) 
+Seat 7: BrenoSecchin (3100 in chips) 
+Seat 8: Onii94 (5000 in chips) 
+Antfan78: posts the ante 20
+SargentoFAHUR: posts the ante 20
+RyFF247: posts the ante 20
+Thain1715: posts the ante 20
+HU4FU: posts the ante 20
+husajn54: posts the ante 20
+BrenoSecchin: posts the ante 20
+Onii94: posts the ante 20
+SargentoFAHUR: posts small blind 75
+RyFF247: posts big blind 150
+*** HOLE CARDS ***
+Thain1715: folds 
+HU4FU: raises 165 to 315
+husajn54: folds 
+BrenoSecchin: folds 
+Onii94: folds 
+Antfan78: raises 165 to 480
+SargentoFAHUR: folds 
+RyFF247: folds 
+HU4FU: calls 165
+*** FLOP *** [7c 6c Ks]
+HU4FU: checks 
+Antfan78: bets 450
+HU4FU: raises 915 to 1365
+Antfan78: raises 1485 to 2850
+HU4FU: calls 1485
+*** TURN *** [7c 6c Ks] [9s]
+HU4FU: checks 
+Antfan78: bets 17276 and is all-in
+HU4FU: folds 
+Uncalled bet (17276) returned to Antfan78
+Antfan78 collected 7045 from pot
+Antfan78: doesn't show hand 
+*** SUMMARY ***
+Total pot 7045 | Rake 0 
+Board [7c 6c Ks 9s]
+Seat 1: Antfan78 (button) collected (7045)
+Seat 2: SargentoFAHUR (small blind) folded before Flop
+Seat 3: RyFF247 (big blind) folded before Flop
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded on the Turn
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528528409: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VIII (75/150) - 2024/05/16 13:37:43 UTC [2024/05/16 9:37:43 ET]
+Table '3754316073 1' 8-max Seat #2 is the button
+Seat 1: Antfan78 (24321 in chips) 
+Seat 2: SargentoFAHUR (2183 in chips) 
+Seat 3: RyFF247 (11019 in chips) 
+Seat 4: Thain1715 (9075 in chips) 
+Seat 5: HU4FU (4170 in chips) 
+Seat 6: husajn54 (4595 in chips) 
+Seat 7: BrenoSecchin (3080 in chips) 
+Seat 8: Onii94 (4980 in chips) 
+Antfan78: posts the ante 20
+SargentoFAHUR: posts the ante 20
+RyFF247: posts the ante 20
+Thain1715: posts the ante 20
+HU4FU: posts the ante 20
+husajn54: posts the ante 20
+BrenoSecchin: posts the ante 20
+Onii94: posts the ante 20
+RyFF247: posts small blind 75
+Thain1715: posts big blind 150
+*** HOLE CARDS ***
+HU4FU: folds 
+husajn54: raises 150 to 300
+BrenoSecchin: folds 
+Onii94: folds 
+Antfan78: folds 
+SargentoFAHUR: raises 1863 to 2163 and is all-in
+RyFF247: folds 
+Thain1715: folds 
+husajn54: calls 1863
+*** FLOP *** [3d 8h 2s]
+*** TURN *** [3d 8h 2s] [4h]
+*** RIVER *** [3d 8h 2s 4h] [Th]
+*** SHOW DOWN ***
+husajn54: shows [Qs Kd] (high card King)
+SargentoFAHUR: shows [Qh Kh] (a flush, King high)
+SargentoFAHUR collected 4711 from pot
+*** SUMMARY ***
+Total pot 4711 | Rake 0 
+Board [3d 8h 2s 4h Th]
+Seat 1: Antfan78 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR (button) showed [Qh Kh] and won (4711) with a flush, King high
+Seat 3: RyFF247 (small blind) folded before Flop
+Seat 4: Thain1715 (big blind) folded before Flop
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 showed [Qs Kd] and lost with high card King
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528528409: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VIII (75/150) - 2024/05/16 13:37:43 UTC [2024/05/16 9:37:43 ET]
+Table '3754316073 1' 8-max Seat #2 is the button
+Seat 1: Antfan78 (24321 in chips) 
+Seat 2: SargentoFAHUR (2183 in chips) 
+Seat 3: RyFF247 (11019 in chips) 
+Seat 4: Thain1715 (9075 in chips) 
+Seat 5: HU4FU (4170 in chips) 
+Seat 6: husajn54 (4595 in chips) 
+Seat 7: BrenoSecchin (3080 in chips) 
+Seat 8: Onii94 (4980 in chips) 
+Antfan78: posts the ante 20
+SargentoFAHUR: posts the ante 20
+RyFF247: posts the ante 20
+Thain1715: posts the ante 20
+HU4FU: posts the ante 20
+husajn54: posts the ante 20
+BrenoSecchin: posts the ante 20
+Onii94: posts the ante 20
+RyFF247: posts small blind 75
+Thain1715: posts big blind 150
+*** HOLE CARDS ***
+HU4FU: folds 
+husajn54: raises 150 to 300
+BrenoSecchin: folds 
+Onii94: folds 
+Antfan78: folds 
+SargentoFAHUR: raises 1863 to 2163 and is all-in
+RyFF247: folds 
+Thain1715: folds 
+husajn54: calls 1863
+*** FLOP *** [3d 8h 2s]
+*** TURN *** [3d 8h 2s] [4h]
+*** RIVER *** [3d 8h 2s 4h] [Th]
+*** SHOW DOWN ***
+husajn54: shows [Qs Kd] (high card King)
+SargentoFAHUR: shows [Qh Kh] (a flush, King high)
+SargentoFAHUR collected 4711 from pot
+*** SUMMARY ***
+Total pot 4711 | Rake 0 
+Board [3d 8h 2s 4h Th]
+Seat 1: Antfan78 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR (button) showed [Qh Kh] and won (4711) with a flush, King high
+Seat 3: RyFF247 (small blind) folded before Flop
+Seat 4: Thain1715 (big blind) folded before Flop
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 showed [Qs Kd] and lost with high card King
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528539551: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VIII (75/150) - 2024/05/16 13:38:43 UTC [2024/05/16 9:38:43 ET]
+Table '3754316073 1' 8-max Seat #3 is the button
+Seat 1: Antfan78 (24301 in chips) 
+Seat 2: SargentoFAHUR (4711 in chips) 
+Seat 3: RyFF247 (10924 in chips) 
+Seat 4: Thain1715 (8905 in chips) 
+Seat 5: HU4FU (4150 in chips) 
+Seat 6: husajn54 (2412 in chips) 
+Seat 7: BrenoSecchin (3060 in chips) 
+Seat 8: Onii94 (4960 in chips) 
+Antfan78: posts the ante 20
+SargentoFAHUR: posts the ante 20
+RyFF247: posts the ante 20
+Thain1715: posts the ante 20
+HU4FU: posts the ante 20
+husajn54: posts the ante 20
+BrenoSecchin: posts the ante 20
+Onii94: posts the ante 20
+Thain1715: posts small blind 75
+HU4FU: posts big blind 150
+*** HOLE CARDS ***
+husajn54: raises 150 to 300
+BrenoSecchin: folds 
+Onii94: folds 
+Antfan78: calls 300
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+*** FLOP *** [Jd Jh 3s]
+husajn54: bets 225
+Antfan78: folds 
+Uncalled bet (225) returned to husajn54
+husajn54 collected 985 from pot
+husajn54: doesn't show hand 
+*** SUMMARY ***
+Total pot 985 | Rake 0 
+Board [Jd Jh 3s]
+Seat 1: Antfan78 folded on the Flop
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 (button) folded before Flop (didn't bet)
+Seat 4: Thain1715 (small blind) folded before Flop
+Seat 5: HU4FU (big blind) folded before Flop
+Seat 6: husajn54 collected (985)
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528539551: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level VIII (75/150) - 2024/05/16 13:38:43 UTC [2024/05/16 9:38:43 ET]
+Table '3754316073 1' 8-max Seat #3 is the button
+Seat 1: Antfan78 (24301 in chips) 
+Seat 2: SargentoFAHUR (4711 in chips) 
+Seat 3: RyFF247 (10924 in chips) 
+Seat 4: Thain1715 (8905 in chips) 
+Seat 5: HU4FU (4150 in chips) 
+Seat 6: husajn54 (2412 in chips) 
+Seat 7: BrenoSecchin (3060 in chips) 
+Seat 8: Onii94 (4960 in chips) 
+Antfan78: posts the ante 20
+SargentoFAHUR: posts the ante 20
+RyFF247: posts the ante 20
+Thain1715: posts the ante 20
+HU4FU: posts the ante 20
+husajn54: posts the ante 20
+BrenoSecchin: posts the ante 20
+Onii94: posts the ante 20
+Thain1715: posts small blind 75
+HU4FU: posts big blind 150
+*** HOLE CARDS ***
+husajn54: raises 150 to 300
+BrenoSecchin: folds 
+Onii94: folds 
+Antfan78: calls 300
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+*** FLOP *** [Jd Jh 3s]
+husajn54: bets 225
+Antfan78: folds 
+Uncalled bet (225) returned to husajn54
+husajn54 collected 985 from pot
+husajn54: doesn't show hand 
+*** SUMMARY ***
+Total pot 985 | Rake 0 
+Board [Jd Jh 3s]
+Seat 1: Antfan78 folded on the Flop
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 (button) folded before Flop (didn't bet)
+Seat 4: Thain1715 (small blind) folded before Flop
+Seat 5: HU4FU (big blind) folded before Flop
+Seat 6: husajn54 collected (985)
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528548249: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:39:30 UTC [2024/05/16 9:39:30 ET]
+Table '3754316073 1' 8-max Seat #4 is the button
+Seat 1: Antfan78 (23981 in chips) 
+Seat 2: SargentoFAHUR (4691 in chips) 
+Seat 3: RyFF247 (10904 in chips) 
+Seat 4: Thain1715 (8810 in chips) 
+Seat 5: HU4FU (3980 in chips) 
+Seat 6: husajn54 (3077 in chips) 
+Seat 7: BrenoSecchin (3040 in chips) 
+Seat 8: Onii94 (4940 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+HU4FU: posts small blind 100
+husajn54: posts big blind 200
+*** HOLE CARDS ***
+BrenoSecchin: folds 
+Onii94: folds 
+Antfan78: raises 400 to 600
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+husajn54: calls 400
+*** FLOP *** [Qd 8c 3s]
+husajn54: checks 
+Antfan78: bets 200
+husajn54: calls 200
+*** TURN *** [Qd 8c 3s] [9c]
+husajn54: checks 
+Antfan78: checks 
+*** RIVER *** [Qd 8c 3s 9c] [Jd]
+husajn54: checks 
+Antfan78: checks 
+*** SHOW DOWN ***
+husajn54: shows [3c 6c] (a pair of Threes)
+Antfan78: mucks hand 
+husajn54 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | Rake 0 
+Board [Qd 8c 3s 9c Jd]
+Seat 1: Antfan78 mucked
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 (button) folded before Flop (didn't bet)
+Seat 5: HU4FU (small blind) folded before Flop
+Seat 6: husajn54 (big blind) showed [3c 6c] and won (1900) with a pair of Threes
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528548249: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:39:30 UTC [2024/05/16 9:39:30 ET]
+Table '3754316073 1' 8-max Seat #4 is the button
+Seat 1: Antfan78 (23981 in chips) 
+Seat 2: SargentoFAHUR (4691 in chips) 
+Seat 3: RyFF247 (10904 in chips) 
+Seat 4: Thain1715 (8810 in chips) 
+Seat 5: HU4FU (3980 in chips) 
+Seat 6: husajn54 (3077 in chips) 
+Seat 7: BrenoSecchin (3040 in chips) 
+Seat 8: Onii94 (4940 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+HU4FU: posts small blind 100
+husajn54: posts big blind 200
+*** HOLE CARDS ***
+BrenoSecchin: folds 
+Onii94: folds 
+Antfan78: raises 400 to 600
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+husajn54: calls 400
+*** FLOP *** [Qd 8c 3s]
+husajn54: checks 
+Antfan78: bets 200
+husajn54: calls 200
+*** TURN *** [Qd 8c 3s] [9c]
+husajn54: checks 
+Antfan78: checks 
+*** RIVER *** [Qd 8c 3s 9c] [Jd]
+husajn54: checks 
+Antfan78: checks 
+*** SHOW DOWN ***
+husajn54: shows [3c 6c] (a pair of Threes)
+Antfan78: mucks hand 
+husajn54 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | Rake 0 
+Board [Qd 8c 3s 9c Jd]
+Seat 1: Antfan78 mucked
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 (button) folded before Flop (didn't bet)
+Seat 5: HU4FU (small blind) folded before Flop
+Seat 6: husajn54 (big blind) showed [3c 6c] and won (1900) with a pair of Threes
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528561502: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:40:42 UTC [2024/05/16 9:40:42 ET]
+Table '3754316073 1' 8-max Seat #5 is the button
+Seat 1: Antfan78 (23156 in chips) 
+Seat 2: SargentoFAHUR (4666 in chips) 
+Seat 3: RyFF247 (10879 in chips) 
+Seat 4: Thain1715 (8785 in chips) 
+Seat 5: HU4FU (3855 in chips) 
+Seat 6: husajn54 (4152 in chips) 
+Seat 7: BrenoSecchin (3015 in chips) 
+Seat 8: Onii94 (4915 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+husajn54: posts small blind 100
+BrenoSecchin: posts big blind 200
+*** HOLE CARDS ***
+Onii94: folds 
+Antfan78: folds 
+SargentoFAHUR: folds 
+RyFF247: raises 240 to 440
+Thain1715: folds 
+HU4FU: folds 
+husajn54: folds 
+BrenoSecchin: folds 
+Uncalled bet (240) returned to RyFF247
+RyFF247 collected 700 from pot
+RyFF247: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: Antfan78 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 collected (700)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU (button) folded before Flop (didn't bet)
+Seat 6: husajn54 (small blind) folded before Flop
+Seat 7: BrenoSecchin (big blind) folded before Flop
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528561502: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:40:42 UTC [2024/05/16 9:40:42 ET]
+Table '3754316073 1' 8-max Seat #5 is the button
+Seat 1: Antfan78 (23156 in chips) 
+Seat 2: SargentoFAHUR (4666 in chips) 
+Seat 3: RyFF247 (10879 in chips) 
+Seat 4: Thain1715 (8785 in chips) 
+Seat 5: HU4FU (3855 in chips) 
+Seat 6: husajn54 (4152 in chips) 
+Seat 7: BrenoSecchin (3015 in chips) 
+Seat 8: Onii94 (4915 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+husajn54: posts small blind 100
+BrenoSecchin: posts big blind 200
+*** HOLE CARDS ***
+Onii94: folds 
+Antfan78: folds 
+SargentoFAHUR: folds 
+RyFF247: raises 240 to 440
+Thain1715: folds 
+HU4FU: folds 
+husajn54: folds 
+BrenoSecchin: folds 
+Uncalled bet (240) returned to RyFF247
+RyFF247 collected 700 from pot
+RyFF247: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: Antfan78 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 collected (700)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU (button) folded before Flop (didn't bet)
+Seat 6: husajn54 (small blind) folded before Flop
+Seat 7: BrenoSecchin (big blind) folded before Flop
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528567765: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:41:16 UTC [2024/05/16 9:41:16 ET]
+Table '3754316073 1' 8-max Seat #6 is the button
+Seat 1: Antfan78 (23131 in chips) 
+Seat 2: SargentoFAHUR (4641 in chips) 
+Seat 3: RyFF247 (11354 in chips) 
+Seat 4: Thain1715 (8760 in chips) 
+Seat 5: HU4FU (3830 in chips) 
+Seat 6: husajn54 (4027 in chips) 
+Seat 7: BrenoSecchin (2790 in chips) 
+Seat 8: Onii94 (4890 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+BrenoSecchin: posts small blind 100
+Onii94: posts big blind 200
+*** HOLE CARDS ***
+Antfan78: folds 
+SargentoFAHUR: folds 
+RyFF247: raises 240 to 440
+Thain1715: folds 
+HU4FU: folds 
+husajn54: raises 3562 to 4002 and is all-in
+BrenoSecchin: folds 
+Onii94: folds 
+RyFF247: folds 
+Uncalled bet (3562) returned to husajn54
+husajn54 collected 1380 from pot
+husajn54: doesn't show hand 
+*** SUMMARY ***
+Total pot 1380 | Rake 0 
+Seat 1: Antfan78 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 (button) collected (1380)
+Seat 7: BrenoSecchin (small blind) folded before Flop
+Seat 8: Onii94 (big blind) folded before Flop
+
+PokerStars Hand #250528567765: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:41:16 UTC [2024/05/16 9:41:16 ET]
+Table '3754316073 1' 8-max Seat #6 is the button
+Seat 1: Antfan78 (23131 in chips) 
+Seat 2: SargentoFAHUR (4641 in chips) 
+Seat 3: RyFF247 (11354 in chips) 
+Seat 4: Thain1715 (8760 in chips) 
+Seat 5: HU4FU (3830 in chips) 
+Seat 6: husajn54 (4027 in chips) 
+Seat 7: BrenoSecchin (2790 in chips) 
+Seat 8: Onii94 (4890 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+BrenoSecchin: posts small blind 100
+Onii94: posts big blind 200
+*** HOLE CARDS ***
+Antfan78: folds 
+SargentoFAHUR: folds 
+RyFF247: raises 240 to 440
+Thain1715: folds 
+HU4FU: folds 
+husajn54: raises 3562 to 4002 and is all-in
+BrenoSecchin: folds 
+Onii94: folds 
+RyFF247: folds 
+Uncalled bet (3562) returned to husajn54
+husajn54 collected 1380 from pot
+husajn54: doesn't show hand 
+*** SUMMARY ***
+Total pot 1380 | Rake 0 
+Seat 1: Antfan78 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 (button) collected (1380)
+Seat 7: BrenoSecchin (small blind) folded before Flop
+Seat 8: Onii94 (big blind) folded before Flop
+
+PokerStars Hand #250528576849: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:42:04 UTC [2024/05/16 9:42:04 ET]
+Table '3754316073 1' 8-max Seat #7 is the button
+Seat 1: Antfan78 (23106 in chips) 
+Seat 2: SargentoFAHUR (4616 in chips) 
+Seat 3: RyFF247 (10889 in chips) 
+Seat 4: Thain1715 (8735 in chips) 
+Seat 5: HU4FU (3805 in chips) 
+Seat 6: husajn54 (4942 in chips) 
+Seat 7: BrenoSecchin (2665 in chips) 
+Seat 8: Onii94 (4665 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+Onii94: posts small blind 100
+Antfan78: posts big blind 200
+*** HOLE CARDS ***
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+husajn54: folds 
+BrenoSecchin: raises 200 to 400
+Onii94: folds 
+Antfan78: calls 200
+*** FLOP *** [7h Qd 6d]
+Antfan78: checks 
+BrenoSecchin: bets 341
+Antfan78: calls 341
+*** TURN *** [7h Qd 6d] [3d]
+Antfan78: bets 600
+BrenoSecchin: raises 1299 to 1899 and is all-in
+Antfan78: folds 
+Uncalled bet (1299) returned to BrenoSecchin
+BrenoSecchin collected 2982 from pot
+BrenoSecchin: doesn't show hand 
+*** SUMMARY ***
+Total pot 2982 | Rake 0 
+Board [7h Qd 6d 3d]
+Seat 1: Antfan78 (big blind) folded on the Turn
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin (button) collected (2982)
+Seat 8: Onii94 (small blind) folded before Flop
+
+PokerStars Hand #250528576849: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:42:04 UTC [2024/05/16 9:42:04 ET]
+Table '3754316073 1' 8-max Seat #7 is the button
+Seat 1: Antfan78 (23106 in chips) 
+Seat 2: SargentoFAHUR (4616 in chips) 
+Seat 3: RyFF247 (10889 in chips) 
+Seat 4: Thain1715 (8735 in chips) 
+Seat 5: HU4FU (3805 in chips) 
+Seat 6: husajn54 (4942 in chips) 
+Seat 7: BrenoSecchin (2665 in chips) 
+Seat 8: Onii94 (4665 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+Onii94: posts small blind 100
+Antfan78: posts big blind 200
+*** HOLE CARDS ***
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+husajn54: folds 
+BrenoSecchin: raises 200 to 400
+Onii94: folds 
+Antfan78: calls 200
+*** FLOP *** [7h Qd 6d]
+Antfan78: checks 
+BrenoSecchin: bets 341
+Antfan78: calls 341
+*** TURN *** [7h Qd 6d] [3d]
+Antfan78: bets 600
+BrenoSecchin: raises 1299 to 1899 and is all-in
+Antfan78: folds 
+Uncalled bet (1299) returned to BrenoSecchin
+BrenoSecchin collected 2982 from pot
+BrenoSecchin: doesn't show hand 
+*** SUMMARY ***
+Total pot 2982 | Rake 0 
+Board [7h Qd 6d 3d]
+Seat 1: Antfan78 (big blind) folded on the Turn
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin (button) collected (2982)
+Seat 8: Onii94 (small blind) folded before Flop
+
+PokerStars Hand #250528590068: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:43:15 UTC [2024/05/16 9:43:15 ET]
+Table '3754316073 1' 8-max Seat #8 is the button
+Seat 1: Antfan78 (21740 in chips) 
+Seat 2: SargentoFAHUR (4591 in chips) 
+Seat 3: RyFF247 (10864 in chips) 
+Seat 4: Thain1715 (8710 in chips) 
+Seat 5: HU4FU (3780 in chips) 
+Seat 6: husajn54 (4917 in chips) 
+Seat 7: BrenoSecchin (4281 in chips) 
+Seat 8: Onii94 (4540 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+Antfan78: posts small blind 100
+SargentoFAHUR: posts big blind 200
+*** HOLE CARDS ***
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+husajn54: folds 
+BrenoSecchin: folds 
+Onii94: raises 200 to 400
+Antfan78: calls 300
+SargentoFAHUR: calls 200
+*** FLOP *** [4c Qd Qs]
+Antfan78: checks 
+SargentoFAHUR: checks 
+Onii94: bets 448
+Antfan78: folds 
+SargentoFAHUR: calls 448
+*** TURN *** [4c Qd Qs] [4h]
+SargentoFAHUR: bets 574
+Onii94: raises 574 to 1148
+SargentoFAHUR: calls 574
+*** RIVER *** [4c Qd Qs 4h] [Ah]
+SargentoFAHUR: checks 
+Onii94: checks 
+*** SHOW DOWN ***
+SargentoFAHUR: shows [Th Qc] (a full house, Queens full of Fours)
+Onii94: mucks hand 
+SargentoFAHUR collected 4592 from pot
+*** SUMMARY ***
+Total pot 4592 | Rake 0 
+Board [4c Qd Qs 4h Ah]
+Seat 1: Antfan78 (small blind) folded on the Flop
+Seat 2: SargentoFAHUR (big blind) showed [Th Qc] and won (4592) with a full house, Queens full of Fours
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 (button) mucked
+
+PokerStars Hand #250528590068: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:43:15 UTC [2024/05/16 9:43:15 ET]
+Table '3754316073 1' 8-max Seat #8 is the button
+Seat 1: Antfan78 (21740 in chips) 
+Seat 2: SargentoFAHUR (4591 in chips) 
+Seat 3: RyFF247 (10864 in chips) 
+Seat 4: Thain1715 (8710 in chips) 
+Seat 5: HU4FU (3780 in chips) 
+Seat 6: husajn54 (4917 in chips) 
+Seat 7: BrenoSecchin (4281 in chips) 
+Seat 8: Onii94 (4540 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+Antfan78: posts small blind 100
+SargentoFAHUR: posts big blind 200
+*** HOLE CARDS ***
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+husajn54: folds 
+BrenoSecchin: folds 
+Onii94: raises 200 to 400
+Antfan78: calls 300
+SargentoFAHUR: calls 200
+*** FLOP *** [4c Qd Qs]
+Antfan78: checks 
+SargentoFAHUR: checks 
+Onii94: bets 448
+Antfan78: folds 
+SargentoFAHUR: calls 448
+*** TURN *** [4c Qd Qs] [4h]
+SargentoFAHUR: bets 574
+Onii94: raises 574 to 1148
+SargentoFAHUR: calls 574
+*** RIVER *** [4c Qd Qs 4h] [Ah]
+SargentoFAHUR: checks 
+Onii94: checks 
+*** SHOW DOWN ***
+SargentoFAHUR: shows [Th Qc] (a full house, Queens full of Fours)
+Onii94: mucks hand 
+SargentoFAHUR collected 4592 from pot
+*** SUMMARY ***
+Total pot 4592 | Rake 0 
+Board [4c Qd Qs 4h Ah]
+Seat 1: Antfan78 (small blind) folded on the Flop
+Seat 2: SargentoFAHUR (big blind) showed [Th Qc] and won (4592) with a full house, Queens full of Fours
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 (button) mucked
+
+PokerStars Hand #250528611295: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:45:09 UTC [2024/05/16 9:45:09 ET]
+Table '3754316073 1' 8-max Seat #1 is the button
+Seat 1: Antfan78 (21315 in chips) 
+Seat 2: SargentoFAHUR (7162 in chips) 
+Seat 3: RyFF247 (10839 in chips) 
+Seat 4: Thain1715 (8685 in chips) 
+Seat 5: HU4FU (3755 in chips) 
+Seat 6: husajn54 (4892 in chips) 
+Seat 7: BrenoSecchin (4256 in chips) 
+Seat 8: Onii94 (2519 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+SargentoFAHUR: posts small blind 100
+RyFF247: posts big blind 200
+*** HOLE CARDS ***
+Thain1715: raises 220 to 420
+HU4FU: folds 
+husajn54: folds 
+BrenoSecchin: folds 
+Onii94: folds 
+Antfan78: folds 
+SargentoFAHUR: folds 
+RyFF247: folds 
+Uncalled bet (220) returned to Thain1715
+Thain1715 collected 700 from pot
+Thain1715: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: Antfan78 (button) folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR (small blind) folded before Flop
+Seat 3: RyFF247 (big blind) folded before Flop
+Seat 4: Thain1715 collected (700)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528611295: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:45:09 UTC [2024/05/16 9:45:09 ET]
+Table '3754316073 1' 8-max Seat #1 is the button
+Seat 1: Antfan78 (21315 in chips) 
+Seat 2: SargentoFAHUR (7162 in chips) 
+Seat 3: RyFF247 (10839 in chips) 
+Seat 4: Thain1715 (8685 in chips) 
+Seat 5: HU4FU (3755 in chips) 
+Seat 6: husajn54 (4892 in chips) 
+Seat 7: BrenoSecchin (4256 in chips) 
+Seat 8: Onii94 (2519 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+SargentoFAHUR: posts small blind 100
+RyFF247: posts big blind 200
+*** HOLE CARDS ***
+Thain1715: raises 220 to 420
+HU4FU: folds 
+husajn54: folds 
+BrenoSecchin: folds 
+Onii94: folds 
+Antfan78: folds 
+SargentoFAHUR: folds 
+RyFF247: folds 
+Uncalled bet (220) returned to Thain1715
+Thain1715 collected 700 from pot
+Thain1715: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: Antfan78 (button) folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR (small blind) folded before Flop
+Seat 3: RyFF247 (big blind) folded before Flop
+Seat 4: Thain1715 collected (700)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528617543: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:45:43 UTC [2024/05/16 9:45:43 ET]
+Table '3754316073 1' 8-max Seat #2 is the button
+Seat 1: Antfan78 (21290 in chips) 
+Seat 2: SargentoFAHUR (7037 in chips) 
+Seat 3: RyFF247 (10614 in chips) 
+Seat 4: Thain1715 (9160 in chips) 
+Seat 5: HU4FU (3730 in chips) 
+Seat 6: husajn54 (4867 in chips) 
+Seat 7: BrenoSecchin (4231 in chips) 
+Seat 8: Onii94 (2494 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+RyFF247: posts small blind 100
+Thain1715: posts big blind 200
+*** HOLE CARDS ***
+HU4FU: folds 
+husajn54: folds 
+BrenoSecchin: raises 200 to 400
+Onii94: folds 
+Antfan78: calls 400
+SargentoFAHUR: raises 6612 to 7012 and is all-in
+RyFF247: folds 
+Thain1715: folds 
+BrenoSecchin: folds 
+Antfan78: folds 
+Uncalled bet (6612) returned to SargentoFAHUR
+SargentoFAHUR collected 1700 from pot
+SargentoFAHUR: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 1: Antfan78 folded before Flop
+Seat 2: SargentoFAHUR (button) collected (1700)
+Seat 3: RyFF247 (small blind) folded before Flop
+Seat 4: Thain1715 (big blind) folded before Flop
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin folded before Flop
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528617543: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:45:43 UTC [2024/05/16 9:45:43 ET]
+Table '3754316073 1' 8-max Seat #2 is the button
+Seat 1: Antfan78 (21290 in chips) 
+Seat 2: SargentoFAHUR (7037 in chips) 
+Seat 3: RyFF247 (10614 in chips) 
+Seat 4: Thain1715 (9160 in chips) 
+Seat 5: HU4FU (3730 in chips) 
+Seat 6: husajn54 (4867 in chips) 
+Seat 7: BrenoSecchin (4231 in chips) 
+Seat 8: Onii94 (2494 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+RyFF247: posts small blind 100
+Thain1715: posts big blind 200
+*** HOLE CARDS ***
+HU4FU: folds 
+husajn54: folds 
+BrenoSecchin: raises 200 to 400
+Onii94: folds 
+Antfan78: calls 400
+SargentoFAHUR: raises 6612 to 7012 and is all-in
+RyFF247: folds 
+Thain1715: folds 
+BrenoSecchin: folds 
+Antfan78: folds 
+Uncalled bet (6612) returned to SargentoFAHUR
+SargentoFAHUR collected 1700 from pot
+SargentoFAHUR: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 1: Antfan78 folded before Flop
+Seat 2: SargentoFAHUR (button) collected (1700)
+Seat 3: RyFF247 (small blind) folded before Flop
+Seat 4: Thain1715 (big blind) folded before Flop
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin folded before Flop
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528630934: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:46:53 UTC [2024/05/16 9:46:53 ET]
+Table '3754316073 1' 8-max Seat #3 is the button
+Seat 1: Antfan78 (20865 in chips) 
+Seat 2: SargentoFAHUR (8312 in chips) 
+Seat 3: RyFF247 (10489 in chips) 
+Seat 4: Thain1715 (8935 in chips) 
+Seat 5: HU4FU (3705 in chips) 
+Seat 6: husajn54 (4842 in chips) 
+Seat 7: BrenoSecchin (3806 in chips) 
+Seat 8: Onii94 (2469 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+Thain1715: posts small blind 100
+HU4FU: posts big blind 200
+*** HOLE CARDS ***
+husajn54: folds 
+BrenoSecchin: folds 
+Onii94: folds 
+Antfan78: raises 400 to 600
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+Uncalled bet (400) returned to Antfan78
+Antfan78 collected 700 from pot
+Antfan78: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: Antfan78 collected (700)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 (button) folded before Flop (didn't bet)
+Seat 4: Thain1715 (small blind) folded before Flop
+Seat 5: HU4FU (big blind) folded before Flop
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528630934: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:46:53 UTC [2024/05/16 9:46:53 ET]
+Table '3754316073 1' 8-max Seat #3 is the button
+Seat 1: Antfan78 (20865 in chips) 
+Seat 2: SargentoFAHUR (8312 in chips) 
+Seat 3: RyFF247 (10489 in chips) 
+Seat 4: Thain1715 (8935 in chips) 
+Seat 5: HU4FU (3705 in chips) 
+Seat 6: husajn54 (4842 in chips) 
+Seat 7: BrenoSecchin (3806 in chips) 
+Seat 8: Onii94 (2469 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+Thain1715: posts small blind 100
+HU4FU: posts big blind 200
+*** HOLE CARDS ***
+husajn54: folds 
+BrenoSecchin: folds 
+Onii94: folds 
+Antfan78: raises 400 to 600
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+Uncalled bet (400) returned to Antfan78
+Antfan78 collected 700 from pot
+Antfan78: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: Antfan78 collected (700)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 (button) folded before Flop (didn't bet)
+Seat 4: Thain1715 (small blind) folded before Flop
+Seat 5: HU4FU (big blind) folded before Flop
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528635639: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:47:18 UTC [2024/05/16 9:47:18 ET]
+Table '3754316073 1' 8-max Seat #4 is the button
+Seat 1: Antfan78 (21340 in chips) 
+Seat 2: SargentoFAHUR (8287 in chips) 
+Seat 3: RyFF247 (10464 in chips) 
+Seat 4: Thain1715 (8810 in chips) 
+Seat 5: HU4FU (3480 in chips) 
+Seat 6: husajn54 (4817 in chips) 
+Seat 7: BrenoSecchin (3781 in chips) 
+Seat 8: Onii94 (2444 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+HU4FU: posts small blind 100
+husajn54: posts big blind 200
+*** HOLE CARDS ***
+BrenoSecchin: raises 200 to 400
+Onii94: folds 
+Antfan78: folds 
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+husajn54: folds 
+Uncalled bet (200) returned to BrenoSecchin
+BrenoSecchin collected 700 from pot
+BrenoSecchin: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: Antfan78 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 (button) folded before Flop (didn't bet)
+Seat 5: HU4FU (small blind) folded before Flop
+Seat 6: husajn54 (big blind) folded before Flop
+Seat 7: BrenoSecchin collected (700)
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528635639: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:47:18 UTC [2024/05/16 9:47:18 ET]
+Table '3754316073 1' 8-max Seat #4 is the button
+Seat 1: Antfan78 (21340 in chips) 
+Seat 2: SargentoFAHUR (8287 in chips) 
+Seat 3: RyFF247 (10464 in chips) 
+Seat 4: Thain1715 (8810 in chips) 
+Seat 5: HU4FU (3480 in chips) 
+Seat 6: husajn54 (4817 in chips) 
+Seat 7: BrenoSecchin (3781 in chips) 
+Seat 8: Onii94 (2444 in chips) 
+Antfan78: posts the ante 25
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+HU4FU: posts small blind 100
+husajn54: posts big blind 200
+*** HOLE CARDS ***
+BrenoSecchin: raises 200 to 400
+Onii94: folds 
+Antfan78: folds 
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+husajn54: folds 
+Uncalled bet (200) returned to BrenoSecchin
+BrenoSecchin collected 700 from pot
+BrenoSecchin: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: Antfan78 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 (button) folded before Flop (didn't bet)
+Seat 5: HU4FU (small blind) folded before Flop
+Seat 6: husajn54 (big blind) folded before Flop
+Seat 7: BrenoSecchin collected (700)
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528643332: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:47:58 UTC [2024/05/16 9:47:58 ET]
+Table '3754316073 1' 8-max Seat #5 is the button
+Seat 2: SargentoFAHUR (8262 in chips) 
+Seat 3: RyFF247 (10439 in chips) 
+Seat 4: Thain1715 (8785 in chips) 
+Seat 5: HU4FU (3355 in chips) 
+Seat 6: husajn54 (4592 in chips) 
+Seat 7: BrenoSecchin (4256 in chips) 
+Seat 8: Onii94 (2419 in chips) 
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+husajn54: posts small blind 100
+BrenoSecchin: posts big blind 200
+*** HOLE CARDS ***
+Onii94: folds 
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: raises 200 to 400
+HU4FU: folds 
+husajn54: folds 
+BrenoSecchin: folds 
+Uncalled bet (200) returned to Thain1715
+Thain1715 collected 675 from pot
+Thain1715: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 collected (675)
+Seat 5: HU4FU (button) folded before Flop (didn't bet)
+Seat 6: husajn54 (small blind) folded before Flop
+Seat 7: BrenoSecchin (big blind) folded before Flop
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528643332: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:47:58 UTC [2024/05/16 9:47:58 ET]
+Table '3754316073 1' 8-max Seat #5 is the button
+Seat 2: SargentoFAHUR (8262 in chips) 
+Seat 3: RyFF247 (10439 in chips) 
+Seat 4: Thain1715 (8785 in chips) 
+Seat 5: HU4FU (3355 in chips) 
+Seat 6: husajn54 (4592 in chips) 
+Seat 7: BrenoSecchin (4256 in chips) 
+Seat 8: Onii94 (2419 in chips) 
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+husajn54: posts small blind 100
+BrenoSecchin: posts big blind 200
+*** HOLE CARDS ***
+Onii94: folds 
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: raises 200 to 400
+HU4FU: folds 
+husajn54: folds 
+BrenoSecchin: folds 
+Uncalled bet (200) returned to Thain1715
+Thain1715 collected 675 from pot
+Thain1715: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 collected (675)
+Seat 5: HU4FU (button) folded before Flop (didn't bet)
+Seat 6: husajn54 (small blind) folded before Flop
+Seat 7: BrenoSecchin (big blind) folded before Flop
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528649155: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:48:29 UTC [2024/05/16 9:48:29 ET]
+Table '3754316073 1' 8-max Seat #6 is the button
+Seat 2: SargentoFAHUR (8237 in chips) 
+Seat 3: RyFF247 (10414 in chips) 
+Seat 4: Thain1715 (9235 in chips) 
+Seat 5: HU4FU (3330 in chips) 
+Seat 6: husajn54 (4467 in chips) 
+Seat 7: BrenoSecchin (4031 in chips) 
+Seat 8: Onii94 (2394 in chips) 
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+BrenoSecchin: posts small blind 100
+Onii94: posts big blind 200
+*** HOLE CARDS ***
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+husajn54: raises 200 to 400
+BrenoSecchin: folds 
+Onii94: calls 200
+*** FLOP *** [9d 5h Ad]
+Onii94: checks 
+husajn54: bets 400
+Onii94: raises 1406 to 1806
+husajn54: raises 1406 to 3212
+Onii94: calls 163 and is all-in
+Uncalled bet (1243) returned to husajn54
+*** TURN *** [9d 5h Ad] [4h]
+*** RIVER *** [9d 5h Ad 4h] [Kh]
+*** SHOW DOWN ***
+Onii94: shows [5s 4d] (two pair, Fives and Fours)
+husajn54: shows [As 8h] (a pair of Aces)
+Onii94 collected 5013 from pot
+*** SUMMARY ***
+Total pot 5013 | Rake 0 
+Board [9d 5h Ad 4h Kh]
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 (button) showed [As 8h] and lost with a pair of Aces
+Seat 7: BrenoSecchin (small blind) folded before Flop
+Seat 8: Onii94 (big blind) showed [5s 4d] and won (5013) with two pair, Fives and Fours
+
+PokerStars Hand #250528649155: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level IX (100/200) - 2024/05/16 13:48:29 UTC [2024/05/16 9:48:29 ET]
+Table '3754316073 1' 8-max Seat #6 is the button
+Seat 2: SargentoFAHUR (8237 in chips) 
+Seat 3: RyFF247 (10414 in chips) 
+Seat 4: Thain1715 (9235 in chips) 
+Seat 5: HU4FU (3330 in chips) 
+Seat 6: husajn54 (4467 in chips) 
+Seat 7: BrenoSecchin (4031 in chips) 
+Seat 8: Onii94 (2394 in chips) 
+SargentoFAHUR: posts the ante 25
+RyFF247: posts the ante 25
+Thain1715: posts the ante 25
+HU4FU: posts the ante 25
+husajn54: posts the ante 25
+BrenoSecchin: posts the ante 25
+Onii94: posts the ante 25
+BrenoSecchin: posts small blind 100
+Onii94: posts big blind 200
+*** HOLE CARDS ***
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+husajn54: raises 200 to 400
+BrenoSecchin: folds 
+Onii94: calls 200
+*** FLOP *** [9d 5h Ad]
+Onii94: checks 
+husajn54: bets 400
+Onii94: raises 1406 to 1806
+husajn54: raises 1406 to 3212
+Onii94: calls 163 and is all-in
+Uncalled bet (1243) returned to husajn54
+*** TURN *** [9d 5h Ad] [4h]
+*** RIVER *** [9d 5h Ad 4h] [Kh]
+*** SHOW DOWN ***
+Onii94: shows [5s 4d] (two pair, Fives and Fours)
+husajn54: shows [As 8h] (a pair of Aces)
+Onii94 collected 5013 from pot
+*** SUMMARY ***
+Total pot 5013 | Rake 0 
+Board [9d 5h Ad 4h Kh]
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 (button) showed [As 8h] and lost with a pair of Aces
+Seat 7: BrenoSecchin (small blind) folded before Flop
+Seat 8: Onii94 (big blind) showed [5s 4d] and won (5013) with two pair, Fives and Fours
+
+PokerStars Hand #250528658620: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:49:19 UTC [2024/05/16 9:49:19 ET]
+Table '3754316073 1' 8-max Seat #7 is the button
+Seat 2: SargentoFAHUR (8212 in chips) 
+Seat 3: RyFF247 (10389 in chips) 
+Seat 4: Thain1715 (9210 in chips) 
+Seat 5: HU4FU (3305 in chips) 
+Seat 6: husajn54 (2073 in chips) 
+Seat 7: BrenoSecchin (3906 in chips) 
+Seat 8: Onii94 (5013 in chips) 
+SargentoFAHUR: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+husajn54: posts the ante 30
+BrenoSecchin: posts the ante 30
+Onii94: posts the ante 30
+Onii94: posts small blind 125
+SargentoFAHUR: posts big blind 250
+*** HOLE CARDS ***
+RyFF247: raises 300 to 550
+Thain1715: folds 
+HU4FU: folds 
+husajn54: folds 
+augustokm10 is disconnected 
+BrenoSecchin: folds 
+Onii94: folds 
+SargentoFAHUR: calls 300
+*** FLOP *** [Kh Ad Qc]
+SargentoFAHUR: checks 
+RyFF247: bets 474
+SargentoFAHUR: folds 
+Uncalled bet (474) returned to RyFF247
+RyFF247 collected 1435 from pot
+RyFF247: doesn't show hand 
+*** SUMMARY ***
+Total pot 1435 | Rake 0 
+Board [Kh Ad Qc]
+Seat 2: SargentoFAHUR (big blind) folded on the Flop
+Seat 3: RyFF247 collected (1435)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin (button) folded before Flop (didn't bet)
+Seat 8: Onii94 (small blind) folded before Flop
+
+PokerStars Hand #250528658620: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:49:19 UTC [2024/05/16 9:49:19 ET]
+Table '3754316073 1' 8-max Seat #7 is the button
+Seat 2: SargentoFAHUR (8212 in chips) 
+Seat 3: RyFF247 (10389 in chips) 
+Seat 4: Thain1715 (9210 in chips) 
+Seat 5: HU4FU (3305 in chips) 
+Seat 6: husajn54 (2073 in chips) 
+Seat 7: BrenoSecchin (3906 in chips) 
+Seat 8: Onii94 (5013 in chips) 
+SargentoFAHUR: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+husajn54: posts the ante 30
+BrenoSecchin: posts the ante 30
+Onii94: posts the ante 30
+Onii94: posts small blind 125
+SargentoFAHUR: posts big blind 250
+*** HOLE CARDS ***
+RyFF247: raises 300 to 550
+Thain1715: folds 
+HU4FU: folds 
+husajn54: folds 
+augustokm10 is disconnected 
+BrenoSecchin: folds 
+Onii94: folds 
+SargentoFAHUR: calls 300
+*** FLOP *** [Kh Ad Qc]
+SargentoFAHUR: checks 
+RyFF247: bets 474
+SargentoFAHUR: folds 
+Uncalled bet (474) returned to RyFF247
+RyFF247 collected 1435 from pot
+RyFF247: doesn't show hand 
+*** SUMMARY ***
+Total pot 1435 | Rake 0 
+Board [Kh Ad Qc]
+Seat 2: SargentoFAHUR (big blind) folded on the Flop
+Seat 3: RyFF247 collected (1435)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin (button) folded before Flop (didn't bet)
+Seat 8: Onii94 (small blind) folded before Flop
+
+PokerStars Hand #250528668610: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:50:12 UTC [2024/05/16 9:50:12 ET]
+Table '3754316073 1' 8-max Seat #8 is the button
+Seat 1: augustokm10 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 2: SargentoFAHUR (7632 in chips) 
+Seat 3: RyFF247 (11244 in chips) 
+Seat 4: Thain1715 (9180 in chips) 
+Seat 5: HU4FU (3275 in chips) 
+Seat 6: husajn54 (2043 in chips) 
+Seat 7: BrenoSecchin (3876 in chips) 
+Seat 8: Onii94 (4858 in chips) 
+augustokm10 will be allowed to play after the button
+SargentoFAHUR: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+husajn54: posts the ante 30
+BrenoSecchin: posts the ante 30
+Onii94: posts the ante 30
+SargentoFAHUR: posts small blind 125
+RyFF247: posts big blind 250
+*** HOLE CARDS ***
+Thain1715: folds 
+HU4FU: folds 
+husajn54: folds 
+BrenoSecchin: raises 3596 to 3846 and is all-in
+Onii94: raises 982 to 4828 and is all-in
+SargentoFAHUR: folds 
+RyFF247: folds 
+Uncalled bet (982) returned to Onii94
+*** FLOP *** [4s 4c 3d]
+*** TURN *** [4s 4c 3d] [2s]
+*** RIVER *** [4s 4c 3d 2s] [6h]
+*** SHOW DOWN ***
+BrenoSecchin: shows [2h Ah] (two pair, Fours and Deuces)
+Onii94: shows [Ad Td] (a pair of Fours)
+BrenoSecchin collected 8277 from pot
+*** SUMMARY ***
+Total pot 8277 | Rake 0 
+Board [4s 4c 3d 2s 6h]
+Seat 2: SargentoFAHUR (small blind) folded before Flop
+Seat 3: RyFF247 (big blind) folded before Flop
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin showed [2h Ah] and won (8277) with two pair, Fours and Deuces
+Seat 8: Onii94 (button) showed [Ad Td] and lost with a pair of Fours
+
+PokerStars Hand #250528668610: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:50:12 UTC [2024/05/16 9:50:12 ET]
+Table '3754316073 1' 8-max Seat #8 is the button
+Seat 1: augustokm10 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 2: SargentoFAHUR (7632 in chips) 
+Seat 3: RyFF247 (11244 in chips) 
+Seat 4: Thain1715 (9180 in chips) 
+Seat 5: HU4FU (3275 in chips) 
+Seat 6: husajn54 (2043 in chips) 
+Seat 7: BrenoSecchin (3876 in chips) 
+Seat 8: Onii94 (4858 in chips) 
+augustokm10 will be allowed to play after the button
+SargentoFAHUR: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+husajn54: posts the ante 30
+BrenoSecchin: posts the ante 30
+Onii94: posts the ante 30
+SargentoFAHUR: posts small blind 125
+RyFF247: posts big blind 250
+*** HOLE CARDS ***
+Thain1715: folds 
+HU4FU: folds 
+husajn54: folds 
+BrenoSecchin: raises 3596 to 3846 and is all-in
+Onii94: raises 982 to 4828 and is all-in
+SargentoFAHUR: folds 
+RyFF247: folds 
+Uncalled bet (982) returned to Onii94
+*** FLOP *** [4s 4c 3d]
+*** TURN *** [4s 4c 3d] [2s]
+*** RIVER *** [4s 4c 3d 2s] [6h]
+*** SHOW DOWN ***
+BrenoSecchin: shows [2h Ah] (two pair, Fours and Deuces)
+Onii94: shows [Ad Td] (a pair of Fours)
+BrenoSecchin collected 8277 from pot
+*** SUMMARY ***
+Total pot 8277 | Rake 0 
+Board [4s 4c 3d 2s 6h]
+Seat 2: SargentoFAHUR (small blind) folded before Flop
+Seat 3: RyFF247 (big blind) folded before Flop
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 folded before Flop (didn't bet)
+Seat 7: BrenoSecchin showed [2h Ah] and won (8277) with two pair, Fours and Deuces
+Seat 8: Onii94 (button) showed [Ad Td] and lost with a pair of Fours
+
+PokerStars Hand #250528677274: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:50:59 UTC [2024/05/16 9:50:59 ET]
+Table '3754316073 1' 8-max Seat #2 is the button
+Seat 1: augustokm10 (5000 in chips) 
+Seat 2: SargentoFAHUR (7477 in chips) 
+Seat 3: RyFF247 (10964 in chips) 
+Seat 4: Thain1715 (9150 in chips) 
+Seat 5: HU4FU (3245 in chips) 
+Seat 6: husajn54 (2013 in chips) 
+Seat 7: BrenoSecchin (8277 in chips) 
+Seat 8: Onii94 (982 in chips) 
+augustokm10: posts the ante 30
+SargentoFAHUR: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+husajn54: posts the ante 30
+BrenoSecchin: posts the ante 30
+Onii94: posts the ante 30
+RyFF247: posts small blind 125
+Thain1715: posts big blind 250
+*** HOLE CARDS ***
+HU4FU: folds 
+husajn54: raises 1733 to 1983 and is all-in
+BrenoSecchin: folds 
+Onii94: folds 
+augustokm10: folds 
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: calls 1733
+*** FLOP *** [Qs 2s 5c]
+*** TURN *** [Qs 2s 5c] [4h]
+*** RIVER *** [Qs 2s 5c 4h] [5d]
+*** SHOW DOWN ***
+Thain1715: shows [Qh Ad] (two pair, Queens and Fives)
+husajn54: shows [Js Qc] (two pair, Queens and Fives - lower kicker)
+Thain1715 collected 4331 from pot
+husajn54 finished the tournament
+*** SUMMARY ***
+Total pot 4331 | Rake 0 
+Board [Qs 2s 5c 4h 5d]
+Seat 1: augustokm10 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR (button) folded before Flop (didn't bet)
+Seat 3: RyFF247 (small blind) folded before Flop
+Seat 4: Thain1715 (big blind) showed [Qh Ad] and won (4331) with two pair, Queens and Fives
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 showed [Js Qc] and lost with two pair, Queens and Fives
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528677274: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:50:59 UTC [2024/05/16 9:50:59 ET]
+Table '3754316073 1' 8-max Seat #2 is the button
+Seat 1: augustokm10 (5000 in chips) 
+Seat 2: SargentoFAHUR (7477 in chips) 
+Seat 3: RyFF247 (10964 in chips) 
+Seat 4: Thain1715 (9150 in chips) 
+Seat 5: HU4FU (3245 in chips) 
+Seat 6: husajn54 (2013 in chips) 
+Seat 7: BrenoSecchin (8277 in chips) 
+Seat 8: Onii94 (982 in chips) 
+augustokm10: posts the ante 30
+SargentoFAHUR: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+husajn54: posts the ante 30
+BrenoSecchin: posts the ante 30
+Onii94: posts the ante 30
+RyFF247: posts small blind 125
+Thain1715: posts big blind 250
+*** HOLE CARDS ***
+HU4FU: folds 
+husajn54: raises 1733 to 1983 and is all-in
+BrenoSecchin: folds 
+Onii94: folds 
+augustokm10: folds 
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: calls 1733
+*** FLOP *** [Qs 2s 5c]
+*** TURN *** [Qs 2s 5c] [4h]
+*** RIVER *** [Qs 2s 5c 4h] [5d]
+*** SHOW DOWN ***
+Thain1715: shows [Qh Ad] (two pair, Queens and Fives)
+husajn54: shows [Js Qc] (two pair, Queens and Fives - lower kicker)
+Thain1715 collected 4331 from pot
+husajn54 finished the tournament
+*** SUMMARY ***
+Total pot 4331 | Rake 0 
+Board [Qs 2s 5c 4h 5d]
+Seat 1: augustokm10 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR (button) folded before Flop (didn't bet)
+Seat 3: RyFF247 (small blind) folded before Flop
+Seat 4: Thain1715 (big blind) showed [Qh Ad] and won (4331) with two pair, Queens and Fives
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: husajn54 showed [Js Qc] and lost with two pair, Queens and Fives
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 folded before Flop (didn't bet)
+
+PokerStars Hand #250528683672: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:51:33 UTC [2024/05/16 9:51:33 ET]
+Table '3754316073 1' 8-max Seat #3 is the button
+Seat 1: augustokm10 (4970 in chips) 
+Seat 2: SargentoFAHUR (7447 in chips) 
+Seat 3: RyFF247 (10809 in chips) 
+Seat 4: Thain1715 (11468 in chips) 
+Seat 5: HU4FU (3215 in chips) 
+Seat 7: BrenoSecchin (8247 in chips) 
+Seat 8: Onii94 (952 in chips) 
+augustokm10: posts the ante 30
+SargentoFAHUR: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+BrenoSecchin: posts the ante 30
+Onii94: posts the ante 30
+Thain1715: posts small blind 125
+HU4FU: posts big blind 250
+*** HOLE CARDS ***
+BrenoSecchin: folds 
+Onii94: raises 672 to 922 and is all-in
+augustokm10: folds 
+SargentoFAHUR: calls 922
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+*** FLOP *** [8h 9c Kc]
+*** TURN *** [8h 9c Kc] [Jd]
+*** RIVER *** [8h 9c Kc Jd] [3h]
+*** SHOW DOWN ***
+Onii94: shows [Qh 5h] (high card King)
+SargentoFAHUR: shows [6d As] (high card Ace)
+SargentoFAHUR collected 2429 from pot
+Onii94 finished the tournament
+*** SUMMARY ***
+Total pot 2429 | Rake 0 
+Board [8h 9c Kc Jd 3h]
+Seat 1: augustokm10 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR showed [6d As] and won (2429) with high card Ace
+Seat 3: RyFF247 (button) folded before Flop (didn't bet)
+Seat 4: Thain1715 (small blind) folded before Flop
+Seat 5: HU4FU (big blind) folded before Flop
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 showed [Qh 5h] and lost with high card King
+
+PokerStars Hand #250528683672: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:51:33 UTC [2024/05/16 9:51:33 ET]
+Table '3754316073 1' 8-max Seat #3 is the button
+Seat 1: augustokm10 (4970 in chips) 
+Seat 2: SargentoFAHUR (7447 in chips) 
+Seat 3: RyFF247 (10809 in chips) 
+Seat 4: Thain1715 (11468 in chips) 
+Seat 5: HU4FU (3215 in chips) 
+Seat 7: BrenoSecchin (8247 in chips) 
+Seat 8: Onii94 (952 in chips) 
+augustokm10: posts the ante 30
+SargentoFAHUR: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+BrenoSecchin: posts the ante 30
+Onii94: posts the ante 30
+Thain1715: posts small blind 125
+HU4FU: posts big blind 250
+*** HOLE CARDS ***
+BrenoSecchin: folds 
+Onii94: raises 672 to 922 and is all-in
+augustokm10: folds 
+SargentoFAHUR: calls 922
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+*** FLOP *** [8h 9c Kc]
+*** TURN *** [8h 9c Kc] [Jd]
+*** RIVER *** [8h 9c Kc Jd] [3h]
+*** SHOW DOWN ***
+Onii94: shows [Qh 5h] (high card King)
+SargentoFAHUR: shows [6d As] (high card Ace)
+SargentoFAHUR collected 2429 from pot
+Onii94 finished the tournament
+*** SUMMARY ***
+Total pot 2429 | Rake 0 
+Board [8h 9c Kc Jd 3h]
+Seat 1: augustokm10 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR showed [6d As] and won (2429) with high card Ace
+Seat 3: RyFF247 (button) folded before Flop (didn't bet)
+Seat 4: Thain1715 (small blind) folded before Flop
+Seat 5: HU4FU (big blind) folded before Flop
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: Onii94 showed [Qh 5h] and lost with high card King
+
+PokerStars Hand #250528691414: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:52:15 UTC [2024/05/16 9:52:15 ET]
+Table '3754316073 1' 8-max Seat #4 is the button
+Seat 1: augustokm10 (4940 in chips) 
+Seat 2: SargentoFAHUR (8924 in chips) 
+Seat 3: RyFF247 (10779 in chips) 
+Seat 4: Thain1715 (11313 in chips) 
+Seat 5: HU4FU (2935 in chips) 
+Seat 7: BrenoSecchin (8217 in chips) 
+augustokm10: posts the ante 30
+SargentoFAHUR: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+BrenoSecchin: posts the ante 30
+HU4FU: posts small blind 125
+BrenoSecchin: posts big blind 250
+*** HOLE CARDS ***
+@ominiaur02 is disconnected 
+augustokm10: folds 
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: calls 125
+BrenoSecchin: checks 
+*** FLOP *** [4c Kc 8d]
+HU4FU: bets 250
+BrenoSecchin: folds 
+Uncalled bet (250) returned to HU4FU
+HU4FU collected 680 from pot
+HU4FU: doesn't show hand 
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [4c Kc 8d]
+Seat 1: augustokm10 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 (button) folded before Flop (didn't bet)
+Seat 5: HU4FU (small blind) collected (680)
+Seat 7: BrenoSecchin (big blind) folded on the Flop
+
+PokerStars Hand #250528691414: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:52:15 UTC [2024/05/16 9:52:15 ET]
+Table '3754316073 1' 8-max Seat #4 is the button
+Seat 1: augustokm10 (4940 in chips) 
+Seat 2: SargentoFAHUR (8924 in chips) 
+Seat 3: RyFF247 (10779 in chips) 
+Seat 4: Thain1715 (11313 in chips) 
+Seat 5: HU4FU (2935 in chips) 
+Seat 7: BrenoSecchin (8217 in chips) 
+augustokm10: posts the ante 30
+SargentoFAHUR: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+BrenoSecchin: posts the ante 30
+HU4FU: posts small blind 125
+BrenoSecchin: posts big blind 250
+*** HOLE CARDS ***
+@ominiaur02 is disconnected 
+augustokm10: folds 
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: calls 125
+BrenoSecchin: checks 
+*** FLOP *** [4c Kc 8d]
+HU4FU: bets 250
+BrenoSecchin: folds 
+Uncalled bet (250) returned to HU4FU
+HU4FU collected 680 from pot
+HU4FU: doesn't show hand 
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [4c Kc 8d]
+Seat 1: augustokm10 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 (button) folded before Flop (didn't bet)
+Seat 5: HU4FU (small blind) collected (680)
+Seat 7: BrenoSecchin (big blind) folded on the Flop
+
+PokerStars Hand #250528700906: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:53:06 UTC [2024/05/16 9:53:06 ET]
+Table '3754316073 1' 8-max Seat #5 is the button
+Seat 1: augustokm10 (4910 in chips) 
+Seat 2: SargentoFAHUR (8894 in chips) 
+Seat 3: RyFF247 (10749 in chips) 
+Seat 4: Thain1715 (11283 in chips) 
+Seat 5: HU4FU (3335 in chips) 
+Seat 7: BrenoSecchin (7937 in chips) 
+Seat 8: @ominiaur02 (2961 in chips) 
+augustokm10: posts the ante 30
+SargentoFAHUR: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+BrenoSecchin: posts small blind 125
+@ominiaur02: posts big blind 250
+*** HOLE CARDS ***
+augustokm10: folds 
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+BrenoSecchin: raises 7657 to 7907 and is all-in
+@ominiaur02: folds 
+Uncalled bet (7657) returned to BrenoSecchin
+BrenoSecchin collected 710 from pot
+BrenoSecchin: doesn't show hand 
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Seat 1: augustokm10 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU (button) folded before Flop (didn't bet)
+Seat 7: BrenoSecchin (small blind) collected (710)
+Seat 8: @ominiaur02 (big blind) folded before Flop
+
+PokerStars Hand #250528700906: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:53:06 UTC [2024/05/16 9:53:06 ET]
+Table '3754316073 1' 8-max Seat #5 is the button
+Seat 1: augustokm10 (4910 in chips) 
+Seat 2: SargentoFAHUR (8894 in chips) 
+Seat 3: RyFF247 (10749 in chips) 
+Seat 4: Thain1715 (11283 in chips) 
+Seat 5: HU4FU (3335 in chips) 
+Seat 7: BrenoSecchin (7937 in chips) 
+Seat 8: @ominiaur02 (2961 in chips) 
+augustokm10: posts the ante 30
+SargentoFAHUR: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+BrenoSecchin: posts small blind 125
+@ominiaur02: posts big blind 250
+*** HOLE CARDS ***
+augustokm10: folds 
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+BrenoSecchin: raises 7657 to 7907 and is all-in
+@ominiaur02: folds 
+Uncalled bet (7657) returned to BrenoSecchin
+BrenoSecchin collected 710 from pot
+BrenoSecchin: doesn't show hand 
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Seat 1: augustokm10 folded before Flop (didn't bet)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU (button) folded before Flop (didn't bet)
+Seat 7: BrenoSecchin (small blind) collected (710)
+Seat 8: @ominiaur02 (big blind) folded before Flop
+
+PokerStars Hand #250528706361: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:53:35 UTC [2024/05/16 9:53:35 ET]
+Table '3754316073 1' 8-max Seat #7 is the button
+Seat 1: augustokm10 (4880 in chips) 
+Seat 2: SargentoFAHUR (8864 in chips) 
+Seat 3: RyFF247 (10719 in chips) 
+Seat 4: Thain1715 (11253 in chips) 
+Seat 5: HU4FU (3305 in chips) 
+Seat 7: BrenoSecchin (8367 in chips) 
+Seat 8: @ominiaur02 (2681 in chips) 
+augustokm10: posts the ante 30
+SargentoFAHUR: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+@ominiaur02: posts small blind 125
+augustokm10: posts big blind 250
+*** HOLE CARDS ***
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+BrenoSecchin: raises 250 to 500
+@ominiaur02: folds 
+augustokm10: calls 250
+*** FLOP *** [9s Kh Th]
+augustokm10: checks 
+BrenoSecchin: checks 
+*** TURN *** [9s Kh Th] [5c]
+augustokm10: bets 935
+BrenoSecchin: folds 
+Uncalled bet (935) returned to augustokm10
+paulinijo is disconnected 
+augustokm10 collected 1335 from pot
+augustokm10: doesn't show hand 
+*** SUMMARY ***
+Total pot 1335 | Rake 0 
+Board [9s Kh Th 5c]
+Seat 1: augustokm10 (big blind) collected (1335)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 7: BrenoSecchin (button) folded on the Turn
+Seat 8: @ominiaur02 (small blind) folded before Flop
+
+PokerStars Hand #250528706361: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:53:35 UTC [2024/05/16 9:53:35 ET]
+Table '3754316073 1' 8-max Seat #7 is the button
+Seat 1: augustokm10 (4880 in chips) 
+Seat 2: SargentoFAHUR (8864 in chips) 
+Seat 3: RyFF247 (10719 in chips) 
+Seat 4: Thain1715 (11253 in chips) 
+Seat 5: HU4FU (3305 in chips) 
+Seat 7: BrenoSecchin (8367 in chips) 
+Seat 8: @ominiaur02 (2681 in chips) 
+augustokm10: posts the ante 30
+SargentoFAHUR: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+@ominiaur02: posts small blind 125
+augustokm10: posts big blind 250
+*** HOLE CARDS ***
+SargentoFAHUR: folds 
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: folds 
+BrenoSecchin: raises 250 to 500
+@ominiaur02: folds 
+augustokm10: calls 250
+*** FLOP *** [9s Kh Th]
+augustokm10: checks 
+BrenoSecchin: checks 
+*** TURN *** [9s Kh Th] [5c]
+augustokm10: bets 935
+BrenoSecchin: folds 
+Uncalled bet (935) returned to augustokm10
+paulinijo is disconnected 
+augustokm10 collected 1335 from pot
+augustokm10: doesn't show hand 
+*** SUMMARY ***
+Total pot 1335 | Rake 0 
+Board [9s Kh Th 5c]
+Seat 1: augustokm10 (big blind) collected (1335)
+Seat 2: SargentoFAHUR folded before Flop (didn't bet)
+Seat 3: RyFF247 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 7: BrenoSecchin (button) folded on the Turn
+Seat 8: @ominiaur02 (small blind) folded before Flop
+
+PokerStars Hand #250528714834: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:54:20 UTC [2024/05/16 9:54:20 ET]
+Table '3754316073 1' 8-max Seat #8 is the button
+Seat 1: augustokm10 (5685 in chips) 
+Seat 3: RyFF247 (10689 in chips) 
+Seat 4: Thain1715 (11223 in chips) 
+Seat 5: HU4FU (3275 in chips) 
+Seat 6: paulinijo (5000 in chips) 
+Seat 7: BrenoSecchin (7837 in chips) 
+Seat 8: @ominiaur02 (2526 in chips) 
+augustokm10: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+paulinijo: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+augustokm10: posts small blind 125
+RyFF247: posts big blind 250
+*** HOLE CARDS ***
+Thain1715: raises 275 to 525
+HU4FU: folds 
+paulinijo: folds 
+BrenoSecchin: folds 
+@ominiaur02: folds 
+augustokm10: raises 5130 to 5655 and is all-in
+RyFF247: folds 
+Thain1715: folds 
+Uncalled bet (5130) returned to augustokm10
+augustokm10 collected 1510 from pot
+augustokm10: doesn't show hand 
+*** SUMMARY ***
+Total pot 1510 | Rake 0 
+Seat 1: augustokm10 (small blind) collected (1510)
+Seat 3: RyFF247 (big blind) folded before Flop
+Seat 4: Thain1715 folded before Flop
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: paulinijo folded before Flop (didn't bet)
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: @ominiaur02 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250528714834: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:54:20 UTC [2024/05/16 9:54:20 ET]
+Table '3754316073 1' 8-max Seat #8 is the button
+Seat 1: augustokm10 (5685 in chips) 
+Seat 3: RyFF247 (10689 in chips) 
+Seat 4: Thain1715 (11223 in chips) 
+Seat 5: HU4FU (3275 in chips) 
+Seat 6: paulinijo (5000 in chips) 
+Seat 7: BrenoSecchin (7837 in chips) 
+Seat 8: @ominiaur02 (2526 in chips) 
+augustokm10: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+paulinijo: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+augustokm10: posts small blind 125
+RyFF247: posts big blind 250
+*** HOLE CARDS ***
+Thain1715: raises 275 to 525
+HU4FU: folds 
+paulinijo: folds 
+BrenoSecchin: folds 
+@ominiaur02: folds 
+augustokm10: raises 5130 to 5655 and is all-in
+RyFF247: folds 
+Thain1715: folds 
+Uncalled bet (5130) returned to augustokm10
+augustokm10 collected 1510 from pot
+augustokm10: doesn't show hand 
+*** SUMMARY ***
+Total pot 1510 | Rake 0 
+Seat 1: augustokm10 (small blind) collected (1510)
+Seat 3: RyFF247 (big blind) folded before Flop
+Seat 4: Thain1715 folded before Flop
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: paulinijo folded before Flop (didn't bet)
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: @ominiaur02 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #250528719754: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:54:47 UTC [2024/05/16 9:54:47 ET]
+Table '3754316073 1' 8-max Seat #1 is the button
+Seat 1: augustokm10 (6640 in chips) 
+Seat 3: RyFF247 (10409 in chips) 
+Seat 4: Thain1715 (10668 in chips) 
+Seat 5: HU4FU (3245 in chips) 
+Seat 6: paulinijo (4970 in chips) 
+Seat 7: BrenoSecchin (7807 in chips) 
+Seat 8: @ominiaur02 (2496 in chips) 
+augustokm10: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+paulinijo: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+RyFF247: posts small blind 125
+Thain1715: posts big blind 250
+*** HOLE CARDS ***
+HU4FU: folds 
+paulinijo: folds 
+BrenoSecchin: raises 250 to 500
+@ominiaur02: folds 
+augustokm10: folds 
+RyFF247: folds 
+Thain1715: folds 
+Uncalled bet (250) returned to BrenoSecchin
+BrenoSecchin collected 835 from pot
+BrenoSecchin: doesn't show hand 
+*** SUMMARY ***
+Total pot 835 | Rake 0 
+Seat 1: augustokm10 (button) folded before Flop (didn't bet)
+Seat 3: RyFF247 (small blind) folded before Flop
+Seat 4: Thain1715 (big blind) folded before Flop
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: paulinijo folded before Flop (didn't bet)
+Seat 7: BrenoSecchin collected (835)
+Seat 8: @ominiaur02 folded before Flop (didn't bet)
+
+PokerStars Hand #250528719754: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:54:47 UTC [2024/05/16 9:54:47 ET]
+Table '3754316073 1' 8-max Seat #1 is the button
+Seat 1: augustokm10 (6640 in chips) 
+Seat 3: RyFF247 (10409 in chips) 
+Seat 4: Thain1715 (10668 in chips) 
+Seat 5: HU4FU (3245 in chips) 
+Seat 6: paulinijo (4970 in chips) 
+Seat 7: BrenoSecchin (7807 in chips) 
+Seat 8: @ominiaur02 (2496 in chips) 
+augustokm10: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+paulinijo: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+RyFF247: posts small blind 125
+Thain1715: posts big blind 250
+*** HOLE CARDS ***
+HU4FU: folds 
+paulinijo: folds 
+BrenoSecchin: raises 250 to 500
+@ominiaur02: folds 
+augustokm10: folds 
+RyFF247: folds 
+Thain1715: folds 
+Uncalled bet (250) returned to BrenoSecchin
+BrenoSecchin collected 835 from pot
+BrenoSecchin: doesn't show hand 
+*** SUMMARY ***
+Total pot 835 | Rake 0 
+Seat 1: augustokm10 (button) folded before Flop (didn't bet)
+Seat 3: RyFF247 (small blind) folded before Flop
+Seat 4: Thain1715 (big blind) folded before Flop
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: paulinijo folded before Flop (didn't bet)
+Seat 7: BrenoSecchin collected (835)
+Seat 8: @ominiaur02 folded before Flop (didn't bet)
+
+PokerStars Hand #250528722754: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:55:03 UTC [2024/05/16 9:55:03 ET]
+Table '3754316073 1' 8-max Seat #3 is the button
+Seat 1: augustokm10 (6610 in chips) 
+Seat 3: RyFF247 (10254 in chips) 
+Seat 4: Thain1715 (10388 in chips) 
+Seat 5: HU4FU (3215 in chips) 
+Seat 6: paulinijo (4940 in chips) 
+Seat 7: BrenoSecchin (8362 in chips) 
+Seat 8: @ominiaur02 (2466 in chips) 
+augustokm10: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+paulinijo: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+Thain1715: posts small blind 125
+HU4FU: posts big blind 250
+*** HOLE CARDS ***
+paulinijo: folds 
+BrenoSecchin: folds 
+@ominiaur02: folds 
+augustokm10: raises 250 to 500
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: calls 250
+*** FLOP *** [Jh 6s 3h]
+HU4FU: checks 
+augustokm10: bets 334
+HU4FU: raises 2351 to 2685 and is all-in
+augustokm10: calls 2351
+*** TURN *** [Jh 6s 3h] [Th]
+*** RIVER *** [Jh 6s 3h Th] [Jc]
+*** SHOW DOWN ***
+HU4FU: shows [8c 3c] (two pair, Jacks and Threes)
+augustokm10: shows [As Kd] (a pair of Jacks)
+HU4FU collected 6705 from pot
+*** SUMMARY ***
+Total pot 6705 | Rake 0 
+Board [Jh 6s 3h Th Jc]
+Seat 1: augustokm10 showed [As Kd] and lost with a pair of Jacks
+Seat 3: RyFF247 (button) folded before Flop (didn't bet)
+Seat 4: Thain1715 (small blind) folded before Flop
+Seat 5: HU4FU (big blind) showed [8c 3c] and won (6705) with two pair, Jacks and Threes
+Seat 6: paulinijo folded before Flop (didn't bet)
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: @ominiaur02 folded before Flop (didn't bet)
+
+PokerStars Hand #250528722754: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 13:55:03 UTC [2024/05/16 9:55:03 ET]
+Table '3754316073 1' 8-max Seat #3 is the button
+Seat 1: augustokm10 (6610 in chips) 
+Seat 3: RyFF247 (10254 in chips) 
+Seat 4: Thain1715 (10388 in chips) 
+Seat 5: HU4FU (3215 in chips) 
+Seat 6: paulinijo (4940 in chips) 
+Seat 7: BrenoSecchin (8362 in chips) 
+Seat 8: @ominiaur02 (2466 in chips) 
+augustokm10: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+paulinijo: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+Thain1715: posts small blind 125
+HU4FU: posts big blind 250
+*** HOLE CARDS ***
+paulinijo: folds 
+BrenoSecchin: folds 
+@ominiaur02: folds 
+augustokm10: raises 250 to 500
+RyFF247: folds 
+Thain1715: folds 
+HU4FU: calls 250
+*** FLOP *** [Jh 6s 3h]
+HU4FU: checks 
+augustokm10: bets 334
+HU4FU: raises 2351 to 2685 and is all-in
+augustokm10: calls 2351
+*** TURN *** [Jh 6s 3h] [Th]
+*** RIVER *** [Jh 6s 3h Th] [Jc]
+*** SHOW DOWN ***
+HU4FU: shows [8c 3c] (two pair, Jacks and Threes)
+augustokm10: shows [As Kd] (a pair of Jacks)
+HU4FU collected 6705 from pot
+*** SUMMARY ***
+Total pot 6705 | Rake 0 
+Board [Jh 6s 3h Th Jc]
+Seat 1: augustokm10 showed [As Kd] and lost with a pair of Jacks
+Seat 3: RyFF247 (button) folded before Flop (didn't bet)
+Seat 4: Thain1715 (small blind) folded before Flop
+Seat 5: HU4FU (big blind) showed [8c 3c] and won (6705) with two pair, Jacks and Threes
+Seat 6: paulinijo folded before Flop (didn't bet)
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: @ominiaur02 folded before Flop (didn't bet)
+
+PokerStars Hand #250528781731: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 14:01:15 UTC [2024/05/16 10:01:15 ET]
+Table '3754316073 1' 8-max Seat #4 is the button
+Seat 1: augustokm10 (3395 in chips) 
+Seat 3: RyFF247 (10224 in chips) 
+Seat 4: Thain1715 (10233 in chips) 
+Seat 5: HU4FU (6705 in chips) 
+Seat 6: paulinijo (4910 in chips) 
+Seat 7: BrenoSecchin (8332 in chips) 
+Seat 8: @ominiaur02 (2436 in chips) 
+augustokm10: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+paulinijo: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+HU4FU: posts small blind 125
+paulinijo: posts big blind 250
+*** HOLE CARDS ***
+BrenoSecchin: folds 
+@ominiaur02: folds 
+augustokm10: folds 
+RyFF247: raises 300 to 550
+Thain1715: raises 1200 to 1750
+HU4FU: folds 
+paulinijo: folds 
+Holden123123 is disconnected 
+RyFF247: calls 1200
+*** FLOP *** [3s 2d As]
+RyFF247: checks 
+Thain1715: bets 400
+RyFF247: folds 
+Uncalled bet (400) returned to Thain1715
+Thain1715 collected 4085 from pot
+Thain1715: doesn't show hand 
+*** SUMMARY ***
+Total pot 4085 | Rake 0 
+Board [3s 2d As]
+Seat 1: augustokm10 folded before Flop (didn't bet)
+Seat 3: RyFF247 folded on the Flop
+Seat 4: Thain1715 (button) collected (4085)
+Seat 5: HU4FU (small blind) folded before Flop
+Seat 6: paulinijo (big blind) folded before Flop
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: @ominiaur02 folded before Flop (didn't bet)
+
+PokerStars Hand #250528781731: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 14:01:15 UTC [2024/05/16 10:01:15 ET]
+Table '3754316073 1' 8-max Seat #4 is the button
+Seat 1: augustokm10 (3395 in chips) 
+Seat 3: RyFF247 (10224 in chips) 
+Seat 4: Thain1715 (10233 in chips) 
+Seat 5: HU4FU (6705 in chips) 
+Seat 6: paulinijo (4910 in chips) 
+Seat 7: BrenoSecchin (8332 in chips) 
+Seat 8: @ominiaur02 (2436 in chips) 
+augustokm10: posts the ante 30
+RyFF247: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+paulinijo: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+HU4FU: posts small blind 125
+paulinijo: posts big blind 250
+*** HOLE CARDS ***
+BrenoSecchin: folds 
+@ominiaur02: folds 
+augustokm10: folds 
+RyFF247: raises 300 to 550
+Thain1715: raises 1200 to 1750
+HU4FU: folds 
+paulinijo: folds 
+Holden123123 is disconnected 
+RyFF247: calls 1200
+*** FLOP *** [3s 2d As]
+RyFF247: checks 
+Thain1715: bets 400
+RyFF247: folds 
+Uncalled bet (400) returned to Thain1715
+Thain1715 collected 4085 from pot
+Thain1715: doesn't show hand 
+*** SUMMARY ***
+Total pot 4085 | Rake 0 
+Board [3s 2d As]
+Seat 1: augustokm10 folded before Flop (didn't bet)
+Seat 3: RyFF247 folded on the Flop
+Seat 4: Thain1715 (button) collected (4085)
+Seat 5: HU4FU (small blind) folded before Flop
+Seat 6: paulinijo (big blind) folded before Flop
+Seat 7: BrenoSecchin folded before Flop (didn't bet)
+Seat 8: @ominiaur02 folded before Flop (didn't bet)
+
+PokerStars Hand #250528794114: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 14:02:22 UTC [2024/05/16 10:02:22 ET]
+Table '3754316073 1' 8-max Seat #5 is the button
+Seat 1: augustokm10 (3365 in chips) 
+Seat 2: Holden123123 (3800 in chips) 
+Seat 4: Thain1715 (12538 in chips) 
+Seat 5: HU4FU (6550 in chips) 
+Seat 6: paulinijo (4630 in chips) 
+Seat 7: BrenoSecchin (8302 in chips) 
+Seat 8: @ominiaur02 (2406 in chips) 
+augustokm10: posts the ante 30
+Holden123123: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+paulinijo: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+paulinijo: posts small blind 125
+BrenoSecchin: posts big blind 250
+*** HOLE CARDS ***
+@ominiaur02: folds 
+augustokm10: folds 
+Holden123123: raises 3520 to 3770 and is all-in
+Thain1715: folds 
+HU4FU: folds 
+paulinijo: folds 
+BrenoSecchin: folds 
+Uncalled bet (3520) returned to Holden123123
+Holden123123 collected 835 from pot
+Holden123123: doesn't show hand 
+*** SUMMARY ***
+Total pot 835 | Rake 0 
+Seat 1: augustokm10 folded before Flop (didn't bet)
+Seat 2: Holden123123 collected (835)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU (button) folded before Flop (didn't bet)
+Seat 6: paulinijo (small blind) folded before Flop
+Seat 7: BrenoSecchin (big blind) folded before Flop
+Seat 8: @ominiaur02 folded before Flop (didn't bet)
+
+PokerStars Hand #250528794114: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 14:02:22 UTC [2024/05/16 10:02:22 ET]
+Table '3754316073 1' 8-max Seat #5 is the button
+Seat 1: augustokm10 (3365 in chips) 
+Seat 2: Holden123123 (3800 in chips) 
+Seat 4: Thain1715 (12538 in chips) 
+Seat 5: HU4FU (6550 in chips) 
+Seat 6: paulinijo (4630 in chips) 
+Seat 7: BrenoSecchin (8302 in chips) 
+Seat 8: @ominiaur02 (2406 in chips) 
+augustokm10: posts the ante 30
+Holden123123: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+paulinijo: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+paulinijo: posts small blind 125
+BrenoSecchin: posts big blind 250
+*** HOLE CARDS ***
+@ominiaur02: folds 
+augustokm10: folds 
+Holden123123: raises 3520 to 3770 and is all-in
+Thain1715: folds 
+HU4FU: folds 
+paulinijo: folds 
+BrenoSecchin: folds 
+Uncalled bet (3520) returned to Holden123123
+Holden123123 collected 835 from pot
+Holden123123: doesn't show hand 
+*** SUMMARY ***
+Total pot 835 | Rake 0 
+Seat 1: augustokm10 folded before Flop (didn't bet)
+Seat 2: Holden123123 collected (835)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU (button) folded before Flop (didn't bet)
+Seat 6: paulinijo (small blind) folded before Flop
+Seat 7: BrenoSecchin (big blind) folded before Flop
+Seat 8: @ominiaur02 folded before Flop (didn't bet)
+
+PokerStars Hand #250528798511: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 14:02:45 UTC [2024/05/16 10:02:45 ET]
+Table '3754316073 1' 8-max Seat #6 is the button
+Seat 1: augustokm10 (3335 in chips) 
+Seat 2: Holden123123 (4355 in chips) 
+Seat 4: Thain1715 (12508 in chips) 
+Seat 5: HU4FU (6520 in chips) 
+Seat 6: paulinijo (4475 in chips) 
+Seat 7: BrenoSecchin (8022 in chips) 
+Seat 8: @ominiaur02 (2376 in chips) 
+augustokm10: posts the ante 30
+Holden123123: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+paulinijo: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+BrenoSecchin: posts small blind 125
+@ominiaur02: posts big blind 250
+*** HOLE CARDS ***
+augustokm10: folds 
+Holden123123: folds 
+Thain1715: folds 
+HU4FU: folds 
+paulinijo: raises 4195 to 4445 and is all-in
+BrenoSecchin: folds 
+@ominiaur02: folds 
+Uncalled bet (4195) returned to paulinijo
+paulinijo collected 835 from pot
+paulinijo: doesn't show hand 
+*** SUMMARY ***
+Total pot 835 | Rake 0 
+Seat 1: augustokm10 folded before Flop (didn't bet)
+Seat 2: Holden123123 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: paulinijo (button) collected (835)
+Seat 7: BrenoSecchin (small blind) folded before Flop
+Seat 8: @ominiaur02 (big blind) folded before Flop
+
+PokerStars Hand #250528798511: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 14:02:45 UTC [2024/05/16 10:02:45 ET]
+Table '3754316073 1' 8-max Seat #6 is the button
+Seat 1: augustokm10 (3335 in chips) 
+Seat 2: Holden123123 (4355 in chips) 
+Seat 4: Thain1715 (12508 in chips) 
+Seat 5: HU4FU (6520 in chips) 
+Seat 6: paulinijo (4475 in chips) 
+Seat 7: BrenoSecchin (8022 in chips) 
+Seat 8: @ominiaur02 (2376 in chips) 
+augustokm10: posts the ante 30
+Holden123123: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+paulinijo: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+BrenoSecchin: posts small blind 125
+@ominiaur02: posts big blind 250
+*** HOLE CARDS ***
+augustokm10: folds 
+Holden123123: folds 
+Thain1715: folds 
+HU4FU: folds 
+paulinijo: raises 4195 to 4445 and is all-in
+BrenoSecchin: folds 
+@ominiaur02: folds 
+Uncalled bet (4195) returned to paulinijo
+paulinijo collected 835 from pot
+paulinijo: doesn't show hand 
+*** SUMMARY ***
+Total pot 835 | Rake 0 
+Seat 1: augustokm10 folded before Flop (didn't bet)
+Seat 2: Holden123123 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: paulinijo (button) collected (835)
+Seat 7: BrenoSecchin (small blind) folded before Flop
+Seat 8: @ominiaur02 (big blind) folded before Flop
+
+PokerStars Hand #250528803499: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 14:03:11 UTC [2024/05/16 10:03:11 ET]
+Table '3754316073 1' 8-max Seat #7 is the button
+Seat 1: augustokm10 (3305 in chips) 
+Seat 2: Holden123123 (4325 in chips) 
+Seat 4: Thain1715 (12478 in chips) 
+Seat 5: HU4FU (6490 in chips) 
+Seat 6: paulinijo (5030 in chips) 
+Seat 7: BrenoSecchin (7867 in chips) 
+Seat 8: @ominiaur02 (2096 in chips) 
+augustokm10: posts the ante 30
+Holden123123: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+paulinijo: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+@ominiaur02: posts small blind 125
+augustokm10: posts big blind 250
+*** HOLE CARDS ***
+Holden123123: folds 
+Thain1715: folds 
+HU4FU: folds 
+paulinijo: folds 
+BrenoSecchin: raises 7587 to 7837 and is all-in
+@ominiaur02: calls 1941 and is all-in
+augustokm10: calls 3025 and is all-in
+Uncalled bet (4562) returned to BrenoSecchin
+*** FLOP *** [Kh 2s Qh]
+*** TURN *** [Kh 2s Qh] [3h]
+*** RIVER *** [Kh 2s Qh 3h] [Td]
+*** SHOW DOWN ***
+augustokm10: shows [Ac Ts] (a pair of Tens)
+BrenoSecchin: shows [3c 3s] (three of a kind, Threes)
+BrenoSecchin collected 2418 from side pot
+@ominiaur02: shows [Ad Qc] (a pair of Queens)
+BrenoSecchin collected 6408 from main pot
+augustokm10 finished the tournament in 65th place
+@ominiaur02 finished the tournament in 66th place
+*** SUMMARY ***
+Total pot 8826 Main pot 6408. Side pot 2418. | Rake 0 
+Board [Kh 2s Qh 3h Td]
+Seat 1: augustokm10 (big blind) showed [Ac Ts] and lost with a pair of Tens
+Seat 2: Holden123123 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: paulinijo folded before Flop (didn't bet)
+Seat 7: BrenoSecchin (button) showed [3c 3s] and won (8826) with three of a kind, Threes
+Seat 8: @ominiaur02 (small blind) showed [Ad Qc] and lost with a pair of Queens
+
+PokerStars Hand #250528803499: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 14:03:11 UTC [2024/05/16 10:03:11 ET]
+Table '3754316073 1' 8-max Seat #7 is the button
+Seat 1: augustokm10 (3305 in chips) 
+Seat 2: Holden123123 (4325 in chips) 
+Seat 4: Thain1715 (12478 in chips) 
+Seat 5: HU4FU (6490 in chips) 
+Seat 6: paulinijo (5030 in chips) 
+Seat 7: BrenoSecchin (7867 in chips) 
+Seat 8: @ominiaur02 (2096 in chips) 
+augustokm10: posts the ante 30
+Holden123123: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+paulinijo: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+@ominiaur02: posts small blind 125
+augustokm10: posts big blind 250
+*** HOLE CARDS ***
+Holden123123: folds 
+Thain1715: folds 
+HU4FU: folds 
+paulinijo: folds 
+BrenoSecchin: raises 7587 to 7837 and is all-in
+@ominiaur02: calls 1941 and is all-in
+augustokm10: calls 3025 and is all-in
+Uncalled bet (4562) returned to BrenoSecchin
+*** FLOP *** [Kh 2s Qh]
+*** TURN *** [Kh 2s Qh] [3h]
+*** RIVER *** [Kh 2s Qh 3h] [Td]
+*** SHOW DOWN ***
+augustokm10: shows [Ac Ts] (a pair of Tens)
+BrenoSecchin: shows [3c 3s] (three of a kind, Threes)
+BrenoSecchin collected 2418 from side pot
+@ominiaur02: shows [Ad Qc] (a pair of Queens)
+BrenoSecchin collected 6408 from main pot
+augustokm10 finished the tournament in 65th place
+@ominiaur02 finished the tournament in 66th place
+*** SUMMARY ***
+Total pot 8826 Main pot 6408. Side pot 2418. | Rake 0 
+Board [Kh 2s Qh 3h Td]
+Seat 1: augustokm10 (big blind) showed [Ac Ts] and lost with a pair of Tens
+Seat 2: Holden123123 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: paulinijo folded before Flop (didn't bet)
+Seat 7: BrenoSecchin (button) showed [3c 3s] and won (8826) with three of a kind, Threes
+Seat 8: @ominiaur02 (small blind) showed [Ad Qc] and lost with a pair of Queens
+
+PokerStars Hand #250528803499: Tournament #3754316073, $24.55+$2.45 USD Hold'em No Limit - Level X (125/250) - 2024/05/16 14:03:11 UTC [2024/05/16 10:03:11 ET]
+Table '3754316073 1' 8-max Seat #7 is the button
+Seat 1: augustokm10 (3305 in chips) 
+Seat 2: Holden123123 (4325 in chips) 
+Seat 4: Thain1715 (12478 in chips) 
+Seat 5: HU4FU (6490 in chips) 
+Seat 6: paulinijo (5030 in chips) 
+Seat 7: BrenoSecchin (7867 in chips) 
+Seat 8: @ominiaur02 (2096 in chips) 
+augustokm10: posts the ante 30
+Holden123123: posts the ante 30
+Thain1715: posts the ante 30
+HU4FU: posts the ante 30
+paulinijo: posts the ante 30
+BrenoSecchin: posts the ante 30
+@ominiaur02: posts the ante 30
+@ominiaur02: posts small blind 125
+augustokm10: posts big blind 250
+*** HOLE CARDS ***
+Holden123123: folds 
+Thain1715: folds 
+HU4FU: folds 
+paulinijo: folds 
+BrenoSecchin: raises 7587 to 7837 and is all-in
+@ominiaur02: calls 1941 and is all-in
+augustokm10: calls 3025 and is all-in
+Uncalled bet (4562) returned to BrenoSecchin
+*** FLOP *** [Kh 2s Qh]
+*** TURN *** [Kh 2s Qh] [3h]
+*** RIVER *** [Kh 2s Qh 3h] [Td]
+*** SHOW DOWN ***
+augustokm10: shows [Ac Ts] (a pair of Tens)
+BrenoSecchin: shows [3c 3s] (three of a kind, Threes)
+BrenoSecchin collected 2418 from side pot
+@ominiaur02: shows [Ad Qc] (a pair of Queens)
+BrenoSecchin collected 6408 from main pot
+augustokm10 finished the tournament in 65th place
+@ominiaur02 finished the tournament in 66th place
+*** SUMMARY ***
+Total pot 8826 Main pot 6408. Side pot 2418. | Rake 0 
+Board [Kh 2s Qh 3h Td]
+Seat 1: augustokm10 (big blind) showed [Ac Ts] and lost with a pair of Tens
+Seat 2: Holden123123 folded before Flop (didn't bet)
+Seat 4: Thain1715 folded before Flop (didn't bet)
+Seat 5: HU4FU folded before Flop (didn't bet)
+Seat 6: paulinijo folded before Flop (didn't bet)
+Seat 7: BrenoSecchin (button) showed [3c 3s] and won (8826) with three of a kind, Threes
+Seat 8: @ominiaur02 (small blind) showed [Ad Qc] and lost with a pair of Queens
