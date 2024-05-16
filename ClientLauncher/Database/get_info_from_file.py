@@ -20,7 +20,7 @@ free_text = name_details['free_text']
 
 def get_info(file_path: str) -> dict or bool:
     def _get_gtd(path: str, tournament_id: str) -> str:
-        with open(f'deals_files\\{file_path}', 'r', encoding='utf-8') as tables_json:
+        with open('tournaments_data.json', 'r', encoding='utf-8') as tables_json:
             tables_info = json.load(tables_json)
 
             return tables_info[tournament_id]['gtd']

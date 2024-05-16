@@ -62,7 +62,8 @@ def add_new_tables(amount_of_tables, num):
 def get_closed_tables_file():
     try:
         with open('closed_tables.txt') as closed_tables_txt:
-            return closed_tables_txt.read().split('\n')
+            tables =  closed_tables_txt.read().split('\n')
+            return [table_row for table_row in tables if table_row != '']
     except AttributeError as e:
         print('closed tables пустой', e)
         return []
