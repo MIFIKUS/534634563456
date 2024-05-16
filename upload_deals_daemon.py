@@ -28,7 +28,7 @@ while True:
         for i in files:
             print(f'Попытка получить информацию для БД из файла {i}')
             file_data = get_info_from_file.get_info(f'{i}')
-            if not file_data
+            if not file_data:
                 print('Не удалось получить информацию для БД')
             else:
                 file_data_for_tables = get_info_from_file.get_info_for_tables(i)
