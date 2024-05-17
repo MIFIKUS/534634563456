@@ -10,12 +10,15 @@ get_info = GetInfo()
 
 
 class AddInfo:
-    def __init__(self):
-        self._connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
-        self._connection.autocommit = True
-        self.cursor = self._connection.cursor()
+    _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+    _connection.autocommit = True
+    cursor = _connection.cursor()
 
     def add_main_archive_info(self, data: dict):
+        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+        _connection.autocommit = True
+        cursor = _connection.cursor()
+
         tournament_id = data['tournament_id']
         name = data['name']
         gtd = data['gtd']
@@ -36,12 +39,18 @@ class AddInfo:
 
             while True:
                 try:
-                    self.cursor.execute(query)
+                    cursor.execute(query)
                     break
                 except Exception as e:
                     print(e)
 
+        _connection.disconnect()
+
     def add_additional_archive_info(self, data: dict):
+        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+        _connection.autocommit = True
+        cursor = _connection.cursor()
+
         tournament_id = data['tournament_id']
         files_in_archive = data['files_in_archive']
         hands = data['hands']
@@ -53,12 +62,18 @@ class AddInfo:
                 f"WHERE tournament_id = '{tournament_id}'"
         while True:
             try:
-                self.cursor.execute(query)
+                cursor.execute(query)
                 break
             except Exception as e:
                 print(e)
 
+        _connection.disconnect()
+
     def add_tables_info(self, data: dict):
+        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+        _connection.autocommit = True
+        cursor = _connection.cursor()
+
         tournament_id = data['tournament_id']
         table_num = data['table_num']
         name = data['name']
@@ -80,12 +95,18 @@ class AddInfo:
 
         while True:
             try:
-                self.cursor.execute(query)
+                cursor.execute(query)
                 break
             except Exception as e:
                 print(e)
 
+        _connection.disconnect()
+
     def add_tables_main_info(self, data: dict):
+        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+        _connection.autocommit = True
+        cursor = _connection.cursor()
+
         tournament_id = data['tournament_id']
         name = data['name']
         table_num = data['table_num']
@@ -103,15 +124,20 @@ class AddInfo:
                 f" VALUES ('{tournament_id}', {table_num}, '{name}', '{gtd}', '{buy_in}', '{total_buy_in}', {table_size}, '{speed}', '{tournament_type}', {hands}, "\
                 f"'{file_name}', '{script_name}', NOW());"
 
-
         while True:
             try:
-                self.cursor.execute(query)
+                cursor.execute(query)
                 break
             except Exception as e:
                 print(e)
 
+        _connection.disconnect()
+
     def add_tables_additional_info(self, data: dict):
+        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+        _connection.autocommit = True
+        cursor = _connection.cursor()
+
         tournament_id = data['tournament_id']
         files_in_archive = data['files_in_archive']
         hands = data['hands']
@@ -123,7 +149,9 @@ class AddInfo:
 
         while True:
             try:
-                self.cursor.execute(query)
+                cursor.execute(query)
                 break
             except Exception as e:
                 print(e)
+
+        _connection.disconnect()
