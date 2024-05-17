@@ -100,7 +100,7 @@ def get_info_for_tables(file_path: str) -> dict:
 
         speed = re.search(f'MAX{separator}(.*?){separator}', file_path).group(1)
 
-        file_name = file_path.replace('.txt', '.zip')
+        file_name = file_path
 
         hands = len(file_txt.split('\n\n'))
 

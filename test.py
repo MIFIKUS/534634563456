@@ -1,6 +1,11 @@
-with open('deals_files\\PS__3754316023__T3__Big_$22__BI$22__FREEZE__8MAX__REG__2024_05_16.txt') as dsf:
-    asdfsadf = len(dsf.read().split('\n\n'))
-    print(dsf)
-    asdfsadf = len(dsf.read().split('\n\n'))
-    print(asdfsadf)
+import itertools
+import requests
 
+def generate_links(length=4):
+    characters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
+    for code in itertools.product(characters, repeat=length):
+        yield f"https://wdho.ru/{''.join(code)}"
+
+generator = generate_links()
+
+for i in range(10000):
