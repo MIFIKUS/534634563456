@@ -11,6 +11,8 @@ from ClientLauncher.Naming.create_file_name import CreateFileName
 from ClientLauncher.Database.deals import DealsAndFiles
 
 from ClientLauncher.extensions.work_statuses import *
+from ClientLauncher.extensions.duplicates import delete_duplicates
+
 
 import time
 import json
@@ -94,6 +96,8 @@ def write_deals_in_file(deals, tournament_id, table_num):
         return
     with open(f'deals_files\\{file}', 'w', encoding='utf-8') as deals_file_txt:
         deals_file_txt.write(deals)
+
+    delete_duplicates(f'deals_files\\{file}')
 
 
 def handle_closed_tables(data, opened_tables: int):

@@ -86,7 +86,6 @@ class TablesControl:
             except AttributeError as e:
                 print(f'Ошибка {e}')
 
-
     def get_closed_table_in_hand_history_menu(self, closed_table):
         def _reset_hand_history():
             mouse.move_and_click(1400, 60)

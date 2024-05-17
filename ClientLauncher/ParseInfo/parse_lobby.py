@@ -203,6 +203,7 @@ class ParseLobby:
         return files
 
     def _get_lobby_gtd(self):
+        time.sleep(1)
         hwnd = win32gui.GetForegroundWindow()
         header = win32gui.GetWindowText(hwnd)
 
