@@ -100,6 +100,7 @@ class TournamentActions:
 
             y_counter += 26
             num += 1
+            amount_of_opened_tables = windows.get_amount_of_opened_tables()
             print(f'amount of tables {amount_of_opened_tables}')
             if amount_of_opened_tables == 21:
                 return num

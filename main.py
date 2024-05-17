@@ -51,6 +51,7 @@ def cleanup_tournaments_data():
     with open('tournaments_data.json', 'w') as tournament_data_json:
         tournament_data_json.write('{}')
 
+
 def add_new_tables(amount_of_tables, num):
     windows.get_main_window()
     num = tournament_actions.switch_tournaments(amount_of_tables, num)
@@ -94,6 +95,7 @@ def write_deals_in_file(deals, tournament_id, table_num):
     with open(f'deals_files\\{file}', 'w', encoding='utf-8') as deals_file_txt:
         deals_file_txt.write(deals)
 
+
 def handle_closed_tables(data, opened_tables: int):
     print('opened tables изменен')
     instant_history_controller.open_instant_hand_history_menu()
@@ -104,12 +106,14 @@ def handle_closed_tables(data, opened_tables: int):
         deals_and_files.add_file()
         del deal
 
+
 def write_files_per_time():
     amount_of_files_per_hour = deals_and_files.get_amount_files_for_time()
     amount_of_files_per_days = deals_and_files.get_amount_files_for_time(True)
 
     write_statistics.set_files_per_hour(amount_of_files_per_hour)
     write_statistics.set_files_per_days(amount_of_files_per_days)
+
 
 def write_deals_per_time():
     amount_of_deals_hour = deals_and_files.get_amount_deals_for_time()
