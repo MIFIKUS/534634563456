@@ -59,7 +59,7 @@ class TournamentActions:
             amount_of_opened_tables = windows.get_amount_of_opened_tables()
             write_stats.set_opened_tables(amount_of_opened_tables)
 
-            if amount_of_opened_tables == amount_of_tables:
+            if amount_of_opened_tables == 21:
                 return num
 
             mouse.move_and_click(self._tournament_x, self._tournament_y + y_counter)
@@ -100,8 +100,10 @@ class TournamentActions:
 
             y_counter += 26
             num += 1
+
             amount_of_opened_tables = windows.get_amount_of_opened_tables()
             print(f'amount of tables {amount_of_opened_tables}')
+
             if amount_of_opened_tables == 21:
                 return num
 

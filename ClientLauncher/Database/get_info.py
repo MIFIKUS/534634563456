@@ -14,7 +14,7 @@ class GetInfo:
 
         while True:
             try:
-                self.cursor.execute(query)
+                cursor.execute(query)
                 break
             except Exception as e:
                 print(e)
