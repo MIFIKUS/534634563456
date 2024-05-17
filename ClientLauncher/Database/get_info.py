@@ -14,7 +14,12 @@ class GetInfo:
     def tournament_in_db(self, tournament_id: str) -> bool:
         query = f"SELECT * FROM poker.archives WHERE tournament_id = '{tournament_id}';"
 
-        self.cursor.execute(query)
+        while True:
+            try:
+                self.cursor.execute(query)
+                break
+            except Exception as e:
+                print(e)
         result = self.cursor.fetchall()
 
         if len(result) > 0:
@@ -23,7 +28,12 @@ class GetInfo:
 
     def table_opened(self, tournament_id: str, table: str) -> bool:
         query = f"SELECT * FROM poker.opened_tables WHERE tournament_id = '{tournament_id}' AND table_num = {table};"
-        self.cursor.execute(query)
+        while True:
+            try:
+                self.cursor.execute(query)
+                break
+            except Exception as e:
+                print(e)
         result = self.cursor.fetchall()
 
         if len(result) > 0:

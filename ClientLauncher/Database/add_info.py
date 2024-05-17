@@ -1,6 +1,7 @@
 import mysql.connector
 from ClientLauncher.Database.get_info import GetInfo
 
+
 HOST = '193.233.75.95'
 USERNAME = 'ps123321'
 PASSWORD = 'qwert'
@@ -14,7 +15,7 @@ class AddInfo:
         self._connection.autocommit = True
         self.cursor = self._connection.cursor()
 
-    def add_main_archive_info(self, data:dict):
+    def add_main_archive_info(self, data: dict):
         tournament_id = data['tournament_id']
         name = data['name']
         gtd = data['gtd']
@@ -33,9 +34,14 @@ class AddInfo:
 
             print(query)
 
-            self.cursor.execute(query)
+            while True:
+                try:
+                    self.cursor.execute(query)
+                    break
+                except Exception as e:
+                    print(e)
 
-    def add_additional_archive_info(self, data:dict):
+    def add_additional_archive_info(self, data: dict):
         tournament_id = data['tournament_id']
         files_in_archive = data['files_in_archive']
         hands = data['hands']
@@ -45,8 +51,12 @@ class AddInfo:
                 f"hands = {hands} ,"\
                 f"modify_date = NOW()"\
                 f"WHERE tournament_id = '{tournament_id}'"
-        print(query)
-        self.cursor.execute(query)
+        while True:
+            try:
+                self.cursor.execute(query)
+                break
+            except Exception as e:
+                print(e)
 
     def add_tables_info(self, data: dict):
         tournament_id = data['tournament_id']
@@ -68,7 +78,12 @@ class AddInfo:
                 f"(VALUES ({tournament_id}, {name}, {gtd}, {buy_in}, {total_buy_in}, {table_size}, {speed}, {tournament_type}," \
                 f"{file_name}, {hands}, {create_data}, {script_name}, {table_num});"
 
-        self.cursor.execute(query)
+        while True:
+            try:
+                self.cursor.execute(query)
+                break
+            except Exception as e:
+                print(e)
 
     def add_tables_main_info(self, data: dict):
         tournament_id = data['tournament_id']
@@ -88,9 +103,13 @@ class AddInfo:
                 f" VALUES ('{tournament_id}', {table_num}, '{name}', '{gtd}', '{buy_in}', '{total_buy_in}', {table_size}, '{speed}', '{tournament_type}', {hands}, "\
                 f"'{file_name}', '{script_name}', NOW());"
 
-        print(query)
 
-        self.cursor.execute(query)
+        while True:
+            try:
+                self.cursor.execute(query)
+                break
+            except Exception as e:
+                print(e)
 
     def add_tables_additional_info(self, data: dict):
         tournament_id = data['tournament_id']
@@ -101,5 +120,10 @@ class AddInfo:
                 f"files_in_archive = {files_in_archive}, "\
                 f"hands = {hands} "\
                 f"WHERE tournament_id = '{tournament_id}'"
-        print(query)
-        self.cursor.execute(query)
+
+        while True:
+            try:
+                self.cursor.execute(query)
+                break
+            except Exception as e:
+                print(e)
