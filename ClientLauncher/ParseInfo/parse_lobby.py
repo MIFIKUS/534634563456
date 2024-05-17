@@ -5,6 +5,8 @@ from ClientLauncher.MainFunctions.windows import Windows
 from ClientLauncher.Database.get_info import GetInfo
 from ClientLauncher.Database.add_opened_table import AddTable
 
+from ClientLauncher.extensions.error_handler import do_without_error
+
 from tkinter import Tk
 
 import win32gui
@@ -92,11 +94,11 @@ class ParseLobby:
                 if not skip:
                     break
                 keyboard.copy()
-                table_num = clipboard.clipboard_get()
+                table_num = do_without_error(clipboard.clipboard_get)
                 if len(str(table_num)) > 3:
                     for _ in range(2):
                         keyboard.copy()
-                    table_num = clipboard.clipboard_get()
+                    table_num = do_without_error(clipboard.clipboard_get)
 
                 if table_num in availible_tables:
                     break

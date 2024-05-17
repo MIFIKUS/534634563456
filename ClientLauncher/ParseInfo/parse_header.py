@@ -2,6 +2,8 @@ from ClientLauncher.MainFunctions.image import Image
 from ClientLauncher.MainFunctions.mouse_and_keyboard import Keyboard
 from ClientLauncher.MainFunctions.windows import Windows
 
+from ClientLauncher.extensions.error_handler import do_without_error
+
 from tkinter import Tk
 
 image = Image()
@@ -50,7 +52,7 @@ class GetType:
 
     def _get_tournament_id(self):
         keyboard.copy()
-        return cliboard.clipboard_get()
+        return do_without_error(cliboard.clipboard_get)
 
     def _get_tourney_speed(self, num):
         SPEED_LIST = {

@@ -7,6 +7,8 @@ from ClientLauncher.Google.Sheets.get_statistics import GetStatistics
 
 from ClientLauncher.Database.deals import DealsAndFiles
 
+from ClientLauncher.extensions.error_handler import do_without_error
+
 from tkinter import Tk
 
 from gspread.exceptions import APIError
@@ -157,7 +159,7 @@ class TablesControl:
 
         keyboard.copy_fast()
         deals = []
-        deal = clipboard.clipboard_get()
+        deal = do_without_error(clipboard.clipboard_get)
 
         deals.append(deal)
 
@@ -166,7 +168,7 @@ class TablesControl:
             same = 0
             for _ in range(2):
                 keyboard.copy_fast()
-                deal = clipboard.clipboard_get()
+                deal = do_without_error(clipboard.clipboard_get)
 
                 if deal in deals:
                     same += 1

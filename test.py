@@ -1,11 +1,8 @@
-import itertools
-import requests
+from ClientLauncher.extensions.error_handler import do_without_error
 
-def generate_links(length=4):
-    characters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
-    for code in itertools.product(characters, repeat=length):
-        yield f"https://wdho.ru/{''.join(code)}"
+def a():
+    return 11
 
-generator = generate_links()
 
-for i in range(10000):
+print(do_without_error(a))
+
