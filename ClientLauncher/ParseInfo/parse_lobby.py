@@ -100,10 +100,11 @@ class ParseLobby:
                         keyboard.copy()
                     table_num = do_without_error(clipboard.clipboard_get)
 
-                if table_num in availible_tables:
-                    break
-
                 skip = False
+
+                if table_num in availible_tables:
+                    continue
+
                 for i in self._get_deal_files():
                     if f'T{table_num}' in i and self._tournament_id in i:
                         print('IN')
