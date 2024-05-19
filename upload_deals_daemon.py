@@ -26,26 +26,29 @@ while True:
     files = get_filled_files(PATH_TO_DEALS)
     if files:
         for i in files:
-            print(f'Попытка получить информацию для БД из файла {i}')
-            file_data = get_info_from_file.get_info(f'{i}')
-            if not file_data:
-                print('Не удалось получить информацию для БД')
-            else:
-                file_data_for_tables = get_info_from_file.get_info_for_tables(i)
-                print('Удалось получить информацию')
-
-                add_db_info.add_main_archive_info(file_data)
-                add_db_info.add_tables_main_info(file_data_for_tables)
-
-            print(f'Попытка загрузить на гугл диск файл {i}')
             try:
-                upload.upload_deal(i)
-                print('Удалось загрузить файл')
-                print('Попытка удалить файл')
+                print(f'Попытка получить информацию для БД из файла {i}')
+                file_data = get_info_from_file.get_info(f'{i}')
+                if not file_data:
+                    print('Не удалось получить информацию для БД')
+                else:
+                    file_data_for_tables = get_info_from_file.get_info_for_tables(i)
+                    print('Удалось получить информацию')
+
+                    add_db_info.add_main_archive_info(file_data)
+                    add_db_info.add_tables_main_info(file_data_for_tables)
+
+                print(f'Попытка загрузить на гугл диск файл {i}')
                 try:
-                    os.remove(f'deals_files\\{i}')
-                    print('Удалось удалить файл')
+                    upload.upload_deal(i)
+                    print('Удалось загрузить файл')
+                    print('Попытка удалить файл')
+                    try:
+                        os.remove(f'deals_files\\{i}')
+                        print('Удалось удалить файл')
+                    except Exception as e:
+                        print(f'Не удалось удалить файл Ошибка {e}')
                 except Exception as e:
-                    print(f'Не удалось удалить файл Ошибка {e}')
+                    print(f'Не удалось загрузить файл Ошибка {e}')
             except Exception as e:
-                print(f'Не удалось загрузить файл Ошибка {e}')
+                print(e)
