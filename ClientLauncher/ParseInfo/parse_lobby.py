@@ -103,7 +103,7 @@ class ParseLobby:
                 skip = False
 
                 if table_num in availible_tables:
-                    continue
+                    skip = True
 
                 for i in self._get_deal_files():
                     if f'T{table_num}' in i and self._tournament_id in i:
