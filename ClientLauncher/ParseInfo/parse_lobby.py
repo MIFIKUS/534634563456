@@ -177,7 +177,6 @@ class ParseLobby:
             if ' - ' in table_text:
                 return table_text.split(' - ')[0]
 
-
     def _open_table(self):
         keyboard.enter()
 

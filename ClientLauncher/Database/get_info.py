@@ -26,6 +26,26 @@ class GetInfo:
             return True
         return False
 
+    def table_in_db(self, tournament_id: str, table_num) -> bool:
+        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+        _connection.autocommit = True
+        cursor = _connection.cursor()
+        query = f"SELECT * FROM poker.tables WHERE tournament_id = '{tournament_id}' AND table_num = {table_num};"
+
+        while True:
+            try:
+                cursor.execute(query)
+                break
+            except Exception as e:
+                print(e)
+        result = cursor.fetchall()
+
+        _connection.disconnect()
+
+        if len(result) > 0:
+            return True
+        return False
+
     def table_opened(self, tournament_id: str, table: str) -> bool:
         _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
         _connection.autocommit = True

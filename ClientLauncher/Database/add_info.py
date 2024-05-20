@@ -88,19 +88,21 @@ class AddInfo:
         script_name = data['script_name']
         create_data = data['create_date']
 
-        query = "INSERT INTO poker.tables (tournament_id, name, gtd, buy_in, total_buy_in, table_size, speed, " \
-                "tournament_type, file_name, hands, create_date, script_name, table_num)" \
-                f"(VALUES ({tournament_id}, {name}, {gtd}, {buy_in}, {total_buy_in}, {table_size}, {speed}, {tournament_type}," \
-                f"{file_name}, {hands}, {create_data}, {script_name}, {table_num});"
+        if not get_info.table_in_db(tournament_id, table_num):
 
-        while True:
-            try:
-                cursor.execute(query)
-                break
-            except Exception as e:
-                print(e)
+            query = "INSERT INTO poker.tables (tournament_id, name, gtd, buy_in, total_buy_in, table_size, speed, " \
+                    "tournament_type, file_name, hands, create_date, script_name, table_num)" \
+                    f"(VALUES ({tournament_id}, {name}, {gtd}, {buy_in}, {total_buy_in}, {table_size}, {speed}, {tournament_type}," \
+                    f"{file_name}, {hands}, {create_data}, {script_name}, {table_num});"
 
-        _connection.disconnect()
+            while True:
+                try:
+                    cursor.execute(query)
+                    break
+                except Exception as e:
+                    print(e)
+
+            _connection.disconnect()
 
     def add_tables_main_info(self, data: dict):
         _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
