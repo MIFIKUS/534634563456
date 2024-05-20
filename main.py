@@ -13,7 +13,6 @@ from ClientLauncher.Database.deals import DealsAndFiles
 from ClientLauncher.extensions.work_statuses import *
 from ClientLauncher.extensions.duplicates import delete_duplicates
 
-
 import time
 import json
 import os
@@ -177,4 +176,5 @@ def main():
 
 
 if __name__ == '__main__':
+    os.system('')
     main()

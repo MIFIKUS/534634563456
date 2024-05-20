@@ -1,3 +1,2 @@
-a = [1,2,2,2]
-
-print(a.__getitem__(5))
+import os
+os.system("python closed_tables_daemon.py")

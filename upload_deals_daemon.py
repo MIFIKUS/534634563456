@@ -52,3 +52,4 @@ while True:
                     print(f'Не удалось загрузить файл Ошибка {e}')
             except Exception as e:
                 print(e)
+                continue
