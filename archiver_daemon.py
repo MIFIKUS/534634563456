@@ -75,12 +75,12 @@ while True:
             if check_if_archive_exists(file_name_for_archive):
                 print('Archive exists')
                 with zipfile.ZipFile(f'{PATH_TO_SAVE}\\{file_name_for_archive}', 'a') as zipf:
-                    if f'{PATH_TO_SAVE}\\{file_name}' not in zipf.namelist():
+                    if file_name not in zipf.namelist():
                         zipf.write(f'{PATH_TO_SAVE}\\{file_name}', arcname=f'{PATH_TO_SAVE}\\{file_name}'.split('\\')[-1])
             else:
                 with zipfile.ZipFile(f'{PATH_TO_SAVE}\\{file_name_for_archive}', 'w') as zipf:
                     print('Archive created')
-                    if f'{PATH_TO_SAVE}\\{file_name}' not in zipf.namelist():
+                    if file_name not in zipf.namelist():
                         zipf.write(f'{PATH_TO_SAVE}\\{file_name}', arcname=f'{PATH_TO_SAVE}\\{file_name}'.split('\\')[-1])
 
             print(f'Попытка получить информацию для бд из архива {file_name_for_archive}')
