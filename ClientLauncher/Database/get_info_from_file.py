@@ -54,10 +54,10 @@ def get_info(file_path: str) -> dict or bool:
 
         total_buy_in = re.search(f'BI(.*?){separator}', file_path).group(1)
 
-        print(f'BI{total_buy_in}{separator} {separator}')
+        print(total_buy_in)
 
-        tournament_type = re.search(f'{total_buy_in.replace('$', '')}{separator}(.*?){separator}', file_path).group(1)
-
+        tournament_type = re.search(f'BI{total_buy_in.replace('$', r'\$')}{separator}(.*?){separator}', file_path).group(1)
+        print(tournament_type)
         table_size = re.search(f'{separator}{tournament_type}{separator}(.*?)MAX', file_path).group(1)
         print(table_size)
 
