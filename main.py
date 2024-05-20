@@ -115,16 +115,14 @@ def write_files_per_time():
     amount_of_files_per_hour = deals_and_files.get_amount_files_for_time()
     amount_of_files_per_days = deals_and_files.get_amount_files_for_time(True)
 
-    write_statistics.set_files_per_hour(amount_of_files_per_hour)
-    write_statistics.set_files_per_days(amount_of_files_per_days)
+    write_statistics.set_files_per_time(amount_of_files_per_days, amount_of_files_per_hour)
 
 
 def write_deals_per_time():
     amount_of_deals_hour = deals_and_files.get_amount_deals_for_time()
     amount_of_deals_days = deals_and_files.get_amount_deals_for_time(True)
 
-    write_statistics.set_deals_per_hour(amount_of_deals_hour)
-    write_statistics.set_deals_per_days(amount_of_deals_days)
+    write_statistics.set_deals_per_time(amount_of_deals_days, amount_of_deals_hour)
 
 
 def main():

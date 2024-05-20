@@ -2,8 +2,6 @@
   "ip": "A",
   "status": "C",
   "opened_tables": "D",
-  "files_for_days": "E",
-  "files_for_hours": "F",
-  "deals_for_days": "G",
-  "deals_for_hours": "H"
+  "files_for_time": "E",
+  "deals_for_time": "F"
 }
