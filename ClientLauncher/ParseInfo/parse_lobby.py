@@ -115,6 +115,9 @@ class ParseLobby:
                         keyboard.arrow_down()
                         skip = True
                         break
+                    else:
+                        skip = False
+
                 if get_info.table_opened(self._tournament_id, table_num):
                     print('IN')
                     keyboard.arrow_down()
@@ -122,7 +125,6 @@ class ParseLobby:
 
                 else:
                     add_table.add(self._tournament_id, table_num)
-                    skip = False
 
             if skip:
                 same += 1
