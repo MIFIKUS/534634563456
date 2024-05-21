@@ -48,9 +48,11 @@ class ParseLobby:
         tables_info = self._get_availible_tables()
         availible_tables = tables_info[0]
         tournament_name = tables_info[1]
+        try:
+            lobby_gtd = tables_info[2]
+        except Exception:
+            lobby_gtd = None
 
-        try: lobby_gtd = tables_info[2]
-        except Exception: lobby_gtd = None
         opened_tables = self._amount_of_opened_tables + len(availible_tables)
         self._write_opened_tables(availible_tables, tournament_name, lobby_gtd)
         return {'id': lobby_id, 'availible_tables': availible_tables, 'opened_tables': opened_tables, 'tournament_name': tournament_name}
@@ -89,7 +91,7 @@ class ParseLobby:
             amount_of_tables = windows.get_amount_of_opened_tables()
             if amount_of_tables == 21:
                 print(f'Открыто столов: {self._amount_of_opened_tables + len(availible_tables)}')
-                return availible_tables, tournament_name
+                return availible_tables, tournament_name, gtd
 
             skip = True
             for tries_to_open in range(3):
@@ -111,13 +113,11 @@ class ParseLobby:
                     if f'T{table_num}' in i and self._tournament_id in i:
                         print('IN')
                         keyboard.arrow_down()
-                        tournament_name = ''
                         skip = True
                         break
                 if get_info.table_opened(self._tournament_id, table_num):
                     print('IN')
                     keyboard.arrow_down()
-                    tournament_name = ''
                     skip = True
 
                 else:
