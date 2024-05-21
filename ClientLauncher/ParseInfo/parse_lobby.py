@@ -122,6 +122,7 @@ class ParseLobby:
 
                 else:
                     add_table.add(self._tournament_id, table_num)
+                    skip = False
 
             if skip:
                 same += 1

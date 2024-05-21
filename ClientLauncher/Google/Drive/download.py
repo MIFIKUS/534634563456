@@ -10,7 +10,12 @@ class DownloadDeals:
         self._service = auth.get_service()
 
     def get_all_files(self):
-        results = self._service.files().list(pageSize=100, fields="nextPageToken, files(id, name, mimeType)").execute()
+        while True:
+            try:
+                results = self._service.files().list(pageSize=100, fields="nextPageToken, files(id, name, mimeType)").execute()
+                break
+            except Exception as e:
+                print(e)
 
         return results
 
