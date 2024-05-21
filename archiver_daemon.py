@@ -5,6 +5,8 @@ from ClientLauncher.Google.Sheets.get_config import GetConfig
 from ClientLauncher.Database.add_info import AddInfo
 from ClientLauncher.Database.get_info_from_archive import get_info
 
+from ClientLauncher.extensions.error_handler import do_without_error
+
 import zipfile
 import os
 import re
@@ -44,12 +46,14 @@ def get_filenames_and_ids(files):
 
         return filenames_and_ids
 
+
 def check_if_archive_exists(file_name: str):
     file_name = file_name.replace('.txt', '.zip')
 
     if file_name in os.listdir(PATH_TO_SAVE):
         return True
     return False
+
 
 def get_filename(filename):
     pattern = f'T(.*?){separator}'
@@ -86,8 +90,7 @@ while True:
             print(f'Попытка получить информацию для бд из архива {file_name_for_archive}')
             archive_data_for_db = get_info(f'{PATH_TO_SAVE}\\{file_name_for_archive}')
 
-            add_info_to_db.add_additional_archive_info(archive_data_for_db)
-            #add_info_to_db.add_tables_additional_info(archive_data_for_db)
+            do_without_error(add_info_to_db.add_additional_archive_info, archive_data_for_db)
 
             os.remove(f'{PATH_TO_SAVE}\\{file_name}')
             delete.delete_deal(file_id)
