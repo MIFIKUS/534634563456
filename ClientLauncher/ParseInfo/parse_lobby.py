@@ -183,7 +183,7 @@ class ParseLobby:
     def _write_opened_tables(self, availible_tables, tournament_name, gtd):
         tournament_data = self._open_tournament_file()
         print(self._tournament_id)
-        if gtd:
+        if gtd != '0':
             tournament_data.get(self._tournament_id).update({'availible_tables': availible_tables, 'tournament_name': tournament_name, 'gtd': gtd})
         else:
             tournament_data.get(self._tournament_id).update({'availible_tables': availible_tables, 'tournament_name': tournament_name})
