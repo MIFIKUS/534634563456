@@ -29,7 +29,10 @@ class DownloadDeals:
         downloader = MediaIoBaseDownload(fh, request)
         done = False
 
-        while not done:
-            status, done = downloader.next_chunk()
-            print("Download %d%%." % int(status.progress() * 100))
-        print('Файл скачан')
+        try:
+            while not done:
+                status, done = downloader.next_chunk()
+                print("Download %d%%." % int(status.progress() * 100))
+            print('Файл скачан')
+        except Exception as e:
+            print(f"Ошибка при скачивании файла {e}")
