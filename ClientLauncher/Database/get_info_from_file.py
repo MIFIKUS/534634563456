@@ -85,26 +85,47 @@ def get_info_for_tables(file_path: str) -> dict:
         tournament_id = re.search(f'{free_text}{separator}(.*?){separator}', file_path).group(1)
         tournament_id = tournament_id.replace(' ', '').replace(free_text, '')
 
+        print('get_info_for_tables')
+        print(tournament_id)
+
         table_num = re.search(f'T(.*?){separator}', file_path).group(1)
+        print(table_num)
 
         name = re.search(f'{table_num}{separator}(.*?){separator}', file_path).group(1)
         name = name.replace(' ', '').replace(separator, '')
 
+        print(name)
+
         gtd = _get_gtd(file_path, tournament_id)
+
+        print(gtd)
 
         buy_in = '$' + re.search(r',\s\$(.*?)\sUSD', file_list[0]).group(1)
 
+        print(buy_in)
+
         total_buy_in = re.search(f'BI(.*?){separator}', file_path).group(1)
+
+        print(total_buy_in)
 
         tournament_type = re.search(f'{total_buy_in.replace('$', '')}{separator}(.*?){separator}', file_path).group(1)
 
+        print(tournament_type)
+
         table_size = re.search(f'{separator}{tournament_type}{separator}(.*?)MAX', file_path).group(1)
 
+        print(table_size)
+
         speed = re.search(f'MAX{separator}(.*?){separator}', file_path).group(1)
+        print(speed)
 
         file_name = file_path
 
+        print(file_name)
+
         hands = len(file_txt.split('\n\n'))
+
+        print(hands)
 
     return {'tournament_id': tournament_id, 'table_num': table_num, 'name': name, 'gtd': gtd, 'buy_in': buy_in,
             'total_buy_in': total_buy_in, 'table_size': table_size, 'speed': speed, 'type': tournament_type,
