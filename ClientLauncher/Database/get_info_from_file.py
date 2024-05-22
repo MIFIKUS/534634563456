@@ -78,6 +78,12 @@ def get_info_for_tables(file_path: str) -> dict:
 
             return tables_info[tournament_id]['gtd']
 
+    def _get_tournament_type(tournament_id: str) -> str:
+        with open('tournaments_data.json', 'r', encoding='utf-8') as tables_json:
+            tables_info = json.load(tables_json)
+
+            return tables_info[tournament_id]['game_type']
+
     with open(f'deals_files\\{file_path}', 'r', encoding='utf-8') as file_txt:
         file_txt = file_txt.read()
         file_list = file_txt.split('\n')
@@ -108,7 +114,7 @@ def get_info_for_tables(file_path: str) -> dict:
 
         print(total_buy_in)
 
-        tournament_type = re.search(f'{total_buy_in.replace('$', '')}{separator}(.*?){separator}', file_path).group(1)
+        tournament_type = _get_tournament_type(tournament_id)
 
         print(tournament_type)
 
