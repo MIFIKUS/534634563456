@@ -1,5 +1,6 @@
-from ClientLauncher.Statistics.get_ip import get_ip
 from ClientLauncher.Google.Sheets.url import GOOGLE_SHEET_URL
+from ClientLauncher.extensions.get_config_data import get_google_row
+
 import gspread
 import json
 
@@ -9,7 +10,7 @@ class GetStatistics:
         path_to_credentials = 'services_files\\google_credentials.json'
         self.gs = gspread.service_account(path_to_credentials)
         self.sh = self.gs.open_by_url(GOOGLE_SHEET_URL).get_worksheet(1)
-        self._row = 2
+        self._row = get_google_row()
 
     def get_open_tables(self):
         while True:

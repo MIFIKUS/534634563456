@@ -81,10 +81,13 @@ class ParseLobby:
         counter = 0
         tournament_name = ''
 
-        #keyboard.tab()
         same = 0
         gtd = '0'
+
+        tables = []
+
         while True:
+            skip = False
             time.sleep(2)
             counter += 1
 
@@ -93,71 +96,68 @@ class ParseLobby:
                 print(f'Открыто столов: {self._amount_of_opened_tables + len(availible_tables)}')
                 return availible_tables, tournament_name, gtd
 
-            skip = True
-            for tries_to_open in range(3):
-                if not skip:
-                    break
+            for _ in range(2):
                 keyboard.copy()
-                table_num = do_without_error(clipboard.clipboard_get)
-                if len(str(table_num)) > 3:
-                    for _ in range(2):
-                        keyboard.copy()
-                    table_num = do_without_error(clipboard.clipboard_get)
+            table_num = do_without_error(clipboard.clipboard_get)
 
-                skip = False
+            if table_num in tables:
+                return availible_tables, tournament_name, gtd
 
-                if table_num in availible_tables:
+            if table_num in availible_tables:
+                keyboard.arrow_down()
+                continue
+
+            for i in self._get_deal_files():
+                if f'PS__{self._tournament_id}__T{table_num}' == '__'.join(i.split('__')[:3]):
+                    print('IN')
                     skip = True
+                    tables.append(table_num)
+                    break
+                else:
+                    skip = False
 
-                for i in self._get_deal_files():
-                    if f'T{table_num}' in i and self._tournament_id in i:
-                        print('IN')
-                        keyboard.arrow_down()
-                        skip = True
-                        break
-                    else:
-                        skip = False
-
+            if not skip:
                 if get_info.table_opened(self._tournament_id, table_num):
                     print('IN')
+                    tables.append(table_num)
                     keyboard.arrow_down()
-                    skip = True
+                    continue
 
                 else:
                     add_table.add(self._tournament_id, table_num)
-
-            if skip:
-                same += 1
-                if same == 2:
-                    break
+                    tables.append(table_num)
+            else:
+                keyboard.arrow_down()
                 continue
 
-            else:
-                fails = 0
-                self._open_table()
-                while True:
-                    try:
-                        if fails >= 150:
-                            keyboard.tab()
-                            time.sleep(2)
-                            self._open_table()
-                            fails = 0
-                        tournament_name = self._get_tournament_name()
-                        tournament_name = tournament_name.replace(',', '')
-                        break
-                    except Exception as e:
-                        fails += 1
-                        print(f'Не удалось получить название стола, пробуем еще раз\nОшибка {e}')
 
-                gtd = self._get_lobby_gtd()
+            fails = 0
+            self._open_table()
 
-                time.sleep(2)
+            while True:
+                try:
+                    if fails >= 150:
+                        time.sleep(2)
+                        self._open_table()
+                        fails = 0
 
-                mouse.move_and_click(250, 50)
-#                windows.open_window_by_hwnd(self._hwnd)
-                time.sleep(1)
-                keyboard.arrow_down()
+                    tournament_name = self._get_tournament_name()
+                    tournament_name = tournament_name.replace(',', '')
+                    break
 
+                except Exception as e:
+                    fails += 1
+                    print(f'Не удалось получить название стола, пробуем еще раз\nОшибка {e}')
+
+            gtd = self._get_lobby_gtd()
+
+            time.sleep(2)
+            mouse.move_and_click(250, 50)
+            time.sleep(1)
+
+            keyboard.arrow_down()
+
+            tables.append(table_num)
             availible_tables.append(table_num)
 
         return availible_tables, tournament_name, gtd

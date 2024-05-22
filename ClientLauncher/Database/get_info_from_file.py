@@ -1,6 +1,9 @@
 from ClientLauncher.Google.Sheets.get_config import GetConfig
+from ClientLauncher.extensions.get_config_data import get_script_name
+
 import re
 import json
+
 
 while True:
     try:
@@ -9,8 +12,7 @@ while True:
     except Exception:
         pass
 
-SCRIPT_NAME = 'ТЕСТ'
-
+SCRIPT_NAME = get_script_name()
 
 name_details = get_config.get_name_details()
 

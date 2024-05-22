@@ -1,5 +1,5 @@
 from ClientLauncher.Google.Sheets.url import GOOGLE_SHEET_URL
-from ClientLauncher.Statistics.get_ip import get_ip
+from ClientLauncher.extensions.get_config_data import get_google_row
 
 import gspread
 import json
@@ -10,7 +10,7 @@ class WriteStatistics:
         path_to_credentials = 'services_files\\google_credentials.json'
         self.gs = gspread.service_account(path_to_credentials)
         self.sh = self.gs.open_by_url(GOOGLE_SHEET_URL).get_worksheet(1)
-        self.client_row = 2
+        self.client_row = get_google_row()
 
     def set_status(self, status):
         while True:
