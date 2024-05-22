@@ -24,8 +24,11 @@ def get_info(file_path: str) -> dict or bool:
     def _get_gtd(path: str, tournament_id: str) -> str:
         with open('tournaments_data.json', 'r', encoding='utf-8') as tables_json:
             tables_info = json.load(tables_json)
+            _gtd = tables_info[tournament_id].get('gtd')
 
-            return tables_info[tournament_id]['gtd']
+            if _gtd:
+                return _gtd
+            return '0'
 
     with open(f'deals_files\\{file_path}', 'r', encoding='utf-8') as file_txt:
         if not file_txt:
@@ -76,7 +79,11 @@ def get_info_for_tables(file_path: str) -> dict:
         with open('tournaments_data.json', 'r', encoding='utf-8') as tables_json:
             tables_info = json.load(tables_json)
 
-            return tables_info[tournament_id]['gtd']
+            _gtd = tables_info[tournament_id].get('gtd')
+
+            if _gtd:
+                return _gtd
+            return '0'
 
     def _get_tournament_type(tournament_id: str) -> str:
         with open('tournaments_data.json', 'r', encoding='utf-8') as tables_json:
