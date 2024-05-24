@@ -26,9 +26,3 @@ class GetStatistics:
         with open('ClientLauncher\\Statistics\\statistics_cells.json') as statistics_json:
             return json.load(statistics_json)
 
-    def _get_cell_num_for_client(self):
-        while True:
-            try:
-                return self.sh.find(self._ip).row
-            except Exception as e:
-                print(f"ошибка в _get_cell_num_for_client {e}")

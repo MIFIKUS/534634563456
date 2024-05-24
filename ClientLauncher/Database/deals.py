@@ -31,7 +31,7 @@ class DealsAndFiles:
         else:
             cell_name = 'deals_per_hour'
 
-        amount_of_time_to_collect = int(config.get_collect_data()['deals_per_days'])
+        amount_of_time_to_collect = int(config.get_collect_data()[cell_name])
 
         if is_days:
             amount_of_time_to_collect *= 24

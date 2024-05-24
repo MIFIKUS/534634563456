@@ -104,7 +104,7 @@ def get_info_for_tables(file_path: str) -> dict:
         table_num = re.search(f'T(.*?){separator}', file_path).group(1)
         print(table_num)
 
-        name = re.search(f'{table_num}{separator}(.*?){separator}', file_path).group(1)
+        name = re.search(f'T{table_num}{separator}(.*?){separator}', file_path).group(1)
         name = name.replace(' ', '').replace(separator, '')
 
         print(name)

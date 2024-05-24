@@ -24,6 +24,7 @@ class GetConfig:
                 return config
             except Exception as e:
                 print(f"ошибка в get_name_format {e}")
+
     def get_database_data(self) -> dict:
         while True:
             try:

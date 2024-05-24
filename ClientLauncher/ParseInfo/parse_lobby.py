@@ -70,7 +70,10 @@ class ParseLobby:
         availible_tables = []
         tables_in_file = self._get_tables_from_file()
         print(tables_in_file)
-        mouse.move_and_click(680, 160)
+
+        for _ in range(2):
+            mouse.move_and_click(680, 160)
+
         time.sleep(1)
 
         for _ in range(5):

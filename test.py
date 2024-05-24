@@ -1,6 +1,7 @@
 from ClientLauncher.Database.get_info_from_file import get_info_for_tables
 
+a = get_info_for_tables('PS__3740601912__T12__SCOOP_104-L_$33_NLHE_[Turbo_The_Copacabana]__BI$33__FREEZE__FalseMAX__REG__2024_05_23.txt')
 
-a = 'PS__3755480609__T14__Hot_$16.50__BI$16.50__FREEZE__8MAX__TURBO__2024_05_22.txt'
 
-print(get_info_for_tables(a))
+print(a)
+
