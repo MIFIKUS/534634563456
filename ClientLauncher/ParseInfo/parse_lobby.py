@@ -127,12 +127,16 @@ class ParseLobby:
                     continue
 
                 else:
-                    add_table.add(self._tournament_id, table_num)
-                    tables.append(table_num)
+                    try:
+                        add_table.add(self._tournament_id, table_num)
+                        tables.append(table_num)
+                    except Exception as e:
+                        print(e)
+                        return availible_tables, tournament_name, gtd
+
             else:
                 keyboard.arrow_down()
                 continue
-
 
             fails = 0
             self._open_table()
