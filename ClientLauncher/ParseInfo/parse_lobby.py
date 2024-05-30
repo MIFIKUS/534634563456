@@ -224,5 +224,14 @@ class ParseLobby:
         hwnd = win32gui.GetForegroundWindow()
         header = win32gui.GetWindowText(hwnd)
 
-        return re.search(r', (\$.+?) Gtd', header).group(1)
+        gtd = re.search(r', (\$.+?) Gtd', header).group(1)
+        if 'NLHE' in gtd:
+            try:
+                gtd = re.search(r", \$(.*?)K", gtd).group(0)
+            except Exception as e:
+                print(e)
+                return gtd
+            gtd.replace(' ', '')
+            gtd.replace(',', '')
+            return gtd
         
