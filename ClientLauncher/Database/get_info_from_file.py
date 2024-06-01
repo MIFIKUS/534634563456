@@ -136,7 +136,7 @@ def get_info_for_tables(file_path: str) -> dict:
 
         print(file_name)
 
-        hands = len(file_txt.split('\n\n'))
+        hands = len(file_txt.split('PokerStars'))
 
         print(hands)
 

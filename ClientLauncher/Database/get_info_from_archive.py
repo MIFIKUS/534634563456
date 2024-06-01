@@ -24,7 +24,6 @@ def get_info(file_path: str) -> dict:
 
         for i in zipf.namelist():
             content = zipf.read(i).decode('utf-8')
-            print(len(content.split('\n\n')))
-            hands += len(re.split(r'\n\s*\n', content))
+            hands += len(content.split('PokerStars'))
 
         return {'tournament_id': tournament_id, 'files_in_archive': files_in_archive, 'hands': hands}
