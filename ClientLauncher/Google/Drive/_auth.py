@@ -3,8 +3,8 @@ from googleapiclient.discovery import build
 
 
 class ServiceAcc:
-    def __init__(self):
-        self._service_acc_file = 'services_files\\google_credentials.json'
+    def __init__(self, service_acc_file='services_files\\google_credentials.json'):
+        self._service_acc_file = service_acc_file
         self._scopes = ['https://www.googleapis.com/auth/drive']
 
         self._credentials = service_account.Credentials.from_service_account_file(

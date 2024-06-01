@@ -2,12 +2,11 @@ from googleapiclient.http import MediaIoBaseDownload
 from ClientLauncher.Google.Drive._auth import ServiceAcc
 import io
 
-auth = ServiceAcc()
-
 
 class DownloadDeals:
-    def __init__(self):
-        self._service = auth.get_service()
+    def __init__(self, service_acc_file):
+        self.auth = ServiceAcc(service_acc_file)
+        self._service = self.auth.get_service()
 
     def get_all_files(self):
         while True:

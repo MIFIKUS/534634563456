@@ -13,9 +13,6 @@ import re
 import time
 
 
-download = DownloadDeals()
-delete = DeleteDeal()
-
 add_info_to_db = AddInfo()
 
 while True:
@@ -27,7 +24,7 @@ while True:
 
 
 DELAY = 20
-PATH_TO_SAVE = 'E:\\poker'
+PATH_TO_SAVE = 'D:\\deals'
 
 name_details = config.get_name_details()
 
@@ -67,31 +64,37 @@ def get_filename(filename):
 
 
 while True:
-    files = download.get_all_files()
-    data = get_filenames_and_ids(files)
-    print(data)
-    if data:
-        for file_name, file_id in data.items():
-            file_name_for_archive = get_filename(file_name)
-            download.download_file(file_id, file_name, PATH_TO_SAVE)
-            print(f'file_name {file_name} archive_name {file_name_for_archive}')
+    for acc_file in os.listdir('services_files'):
+        acc_file_path = f'services_files\\{acc_file}'
 
-            if check_if_archive_exists(file_name_for_archive):
-                print('Archive exists')
-                with zipfile.ZipFile(f'{PATH_TO_SAVE}\\{file_name_for_archive}', 'a') as zipf:
-                    if file_name not in zipf.namelist():
-                        zipf.write(f'{PATH_TO_SAVE}\\{file_name}', arcname=f'{PATH_TO_SAVE}\\{file_name}'.split('\\')[-1])
-            else:
-                with zipfile.ZipFile(f'{PATH_TO_SAVE}\\{file_name_for_archive}', 'w') as zipf:
-                    print('Archive created')
-                    if file_name not in zipf.namelist():
-                        zipf.write(f'{PATH_TO_SAVE}\\{file_name}', arcname=f'{PATH_TO_SAVE}\\{file_name}'.split('\\')[-1])
+        download = DownloadDeals(acc_file_path)
+        delete = DeleteDeal(acc_file_path)
 
-            print(f'Попытка получить информацию для бд из архива {file_name_for_archive}')
-            archive_data_for_db = get_info(f'{PATH_TO_SAVE}\\{file_name_for_archive}')
+        files = download.get_all_files()
+        data = get_filenames_and_ids(files)
+        print(data)
+        if data:
+            for file_name, file_id in data.items():
+                file_name_for_archive = get_filename(file_name)
+                download.download_file(file_id, file_name, PATH_TO_SAVE)
+                print(f'file_name {file_name} archive_name {file_name_for_archive}')
 
-            do_without_error(add_info_to_db.add_additional_archive_info, archive_data_for_db)
+                if check_if_archive_exists(file_name_for_archive):
+                    print('Archive exists')
+                    with zipfile.ZipFile(f'{PATH_TO_SAVE}\\{file_name_for_archive}', 'a') as zipf:
+                        if file_name not in zipf.namelist():
+                            zipf.write(f'{PATH_TO_SAVE}\\{file_name}', arcname=f'{PATH_TO_SAVE}\\{file_name}'.split('\\')[-1])
+                else:
+                    with zipfile.ZipFile(f'{PATH_TO_SAVE}\\{file_name_for_archive}', 'w') as zipf:
+                        print('Archive created')
+                        if file_name not in zipf.namelist():
+                            zipf.write(f'{PATH_TO_SAVE}\\{file_name}', arcname=f'{PATH_TO_SAVE}\\{file_name}'.split('\\')[-1])
 
-            os.remove(f'{PATH_TO_SAVE}\\{file_name}')
-            delete.delete_deal(file_id)
-            time.sleep(2)
+                print(f'Попытка получить информацию для бд из архива {file_name_for_archive}')
+                archive_data_for_db = get_info(f'{PATH_TO_SAVE}\\{file_name_for_archive}')
+
+                do_without_error(add_info_to_db.add_additional_archive_info, archive_data_for_db)
+
+                os.remove(f'{PATH_TO_SAVE}\\{file_name}')
+                delete.delete_deal(file_id)
+                time.sleep(2)
