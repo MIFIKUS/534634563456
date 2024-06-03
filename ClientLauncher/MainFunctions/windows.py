@@ -61,7 +61,10 @@ class Windows:
 
     def _find_windows(self, window_name):
         def __is_toplevel(hwnd):
-            return win32gui.GetParent(hwnd) == 0 and win32gui.IsWindowVisible(hwnd)
+            try:
+                return win32gui.GetParent(hwnd) == 0 and win32gui.IsWindowVisible(hwnd)
+            except Exception:
+                return None
 
         hwnd_list = []
 
