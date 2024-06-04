@@ -90,6 +90,9 @@ class AddInfo:
 
         if not get_info.table_in_db(tournament_id, table_num):
 
+            gtd = gtd.replace(' ', '')
+            gtd = gtd.replace(',', '')
+
             query = "INSERT INTO poker.tables (tournament_id, name, gtd, buy_in, total_buy_in, table_size, speed, " \
                     "tournament_type, file_name, hands, create_date, script_name, table_num)" \
                     f"(VALUES ({tournament_id}, {name}, {gtd}, {buy_in}, {total_buy_in}, {table_size}, {speed}, {tournament_type}," \
@@ -121,6 +124,9 @@ class AddInfo:
         file_name = data['file_name']
         script_name = data['script_name']
         hands = data['hands']
+
+        gtd = gtd.replace(' ', '')
+        gtd = gtd.replace(',', '')
 
         query = "INSERT INTO poker.tables (tournament_id, table_num, name, gtd, buy_in, total_buy_in, table_size, speed, tournament_type, hands, file_name, script_name, create_date)"\
                 f" VALUES ('{tournament_id}', {table_num}, '{name}', '{gtd}', '{buy_in}', '{total_buy_in}', {table_size}, '{speed}', '{tournament_type}', {hands}, "\
