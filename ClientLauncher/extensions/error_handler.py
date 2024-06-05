@@ -13,3 +13,4 @@ def do_without_error(func, args=None):
             except Exception as e:
                 print(e)
                 pass
+

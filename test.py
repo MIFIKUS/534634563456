@@ -1,25 +1,80 @@
-import logging
+a = """NEO13	
+Ninja99	
+Trivian	
+sley	
+itoni	
+ok4rin	
+Nahlobu4u	
+Biofire	
+ALABA	
+Bulochka	
+Сиська1	
+Сиська2	
+ChosSorc	
+Мати	S1imShady
+Batasay	Cuke
+Свиныч	
+Писюнчик	
+ZEMLYA	
+orionus	
+галченок	
+F3	
+НюхачПісьок	
+BigDigOwner 	
+ДядяВолодя	
+BelPeol	
+Porsche	
+Harrier	
+АнальныйКлещ	
+Daaabu	
+ИгрокЧленом	
+Рокфордыч	
+ФиолЧлен	
+Фермер	
+Hollabolla	holz
+ВеселыйФармер	
+АлхимкаЧленом	Ликвидус
+r3make	
+Членыч	
+RachelRoxxx	
+ShadowBlade	
+Some	
+К0ЗАК	
+Никитаа	
+zBrz	
+DeadlyBlow	
+guard26	
+Legalaiz	
+Киря	
+boms	
+Ифрит	
+HugoBoss	
+ИграюЧленом	
+Iskanderchik	
+оПЛЯ	
+Yola	
+Укимаги	
+mayba	
+Fa1conWay	
+TomiKai	
+Icasperl	
+jeens	
+rale	tirel
+Членистор	
+troublemakerme	
+krambambulya	
+Rozvell	
+Анальный Ювелир 	"""
 
-# Создать экземпляр логгера
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.DEBUG)  # Установить уровень логирования на DEBUG
 
-# Создать обработчик для вывода в консоль
-console_handler = logging.StreamHandler()
-console_handler.setLevel(logging.DEBUG)  # Установить уровень для вывода в консоль
-formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
-console_handler.setFormatter(formatter)
-logger.addHandler(console_handler)  # Добавить обработчик в логгер
-
-# Создать обработчик для сохранения в файл
-file_handler = logging.FileHandler('my_logs.log')
-file_handler.setLevel(logging.DEBUG)  # Установить уровень для сохранения в файл
-file_handler.setFormatter(formatter)
-logger.addHandler(file_handler)  # Добавить обработчик в логгер
-
-# Вывести сообщения
-logger.debug("Debug message")
-logger.info("Info message")
-logger.warning("Warning message")
-logger.error("Error message")
-logger.critical("Critical message")
+b = a.split('\n')
+LIST = ""
+num = 2
+print('{')
+for i in b:
+    for j in i.split('	'):
+        if len(j) < 2:
+            continue
+        print(f'"{j}": "G{num}",')
+    num += 1
+print('}')

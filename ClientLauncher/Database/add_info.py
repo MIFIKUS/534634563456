@@ -1,6 +1,6 @@
-import mysql.connector
 from ClientLauncher.Database.get_info import GetInfo
-
+import mysql.connector
+import traceback
 
 HOST = '193.233.75.95'
 USERNAME = 'ps123321'
@@ -10,14 +10,24 @@ get_info = GetInfo()
 
 
 class AddInfo:
-    _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
-    _connection.autocommit = True
-    cursor = _connection.cursor()
+    while True:
+        try:
+            _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+            _connection.autocommit = True
+            cursor = _connection.cursor()
+            break
+        except Exception:
+            traceback.print_exc()
 
     def add_main_archive_info(self, data: dict):
-        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
-        _connection.autocommit = True
-        cursor = _connection.cursor()
+        while True:
+            try:
+                _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+                _connection.autocommit = True
+                cursor = _connection.cursor()
+                break
+            except Exception:
+                traceback.print_exc()
 
         tournament_id = data['tournament_id']
         name = data['name']
@@ -47,9 +57,14 @@ class AddInfo:
         _connection.disconnect()
 
     def add_additional_archive_info(self, data: dict):
-        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
-        _connection.autocommit = True
-        cursor = _connection.cursor()
+        while True:
+            try:
+                _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+                _connection.autocommit = True
+                cursor = _connection.cursor()
+                break
+            except Exception:
+                traceback.print_exc()
 
         tournament_id = data['tournament_id']
         files_in_archive = data['files_in_archive']
@@ -70,9 +85,14 @@ class AddInfo:
         _connection.disconnect()
 
     def add_tables_info(self, data: dict):
-        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
-        _connection.autocommit = True
-        cursor = _connection.cursor()
+        while True:
+            try:
+                _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+                _connection.autocommit = True
+                cursor = _connection.cursor()
+                break
+            except Exception:
+                traceback.print_exc()
 
         tournament_id = data['tournament_id']
         table_num = data['table_num']
@@ -108,9 +128,14 @@ class AddInfo:
             _connection.disconnect()
 
     def add_tables_main_info(self, data: dict):
-        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
-        _connection.autocommit = True
-        cursor = _connection.cursor()
+        while True:
+            try:
+                _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+                _connection.autocommit = True
+                cursor = _connection.cursor()
+                break
+            except Exception:
+                traceback.print_exc()
 
         tournament_id = data['tournament_id']
         name = data['name']
@@ -142,9 +167,14 @@ class AddInfo:
         _connection.disconnect()
 
     def add_tables_additional_info(self, data: dict):
-        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
-        _connection.autocommit = True
-        cursor = _connection.cursor()
+        while True:
+            try:
+                _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+                _connection.autocommit = True
+                cursor = _connection.cursor()
+                break
+            except Exception:
+                traceback.print_exc()
 
         tournament_id = data['tournament_id']
         files_in_archive = data['files_in_archive']
