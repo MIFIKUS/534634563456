@@ -1,80 +1,16 @@
-a = """NEO13	
-Ninja99	
-Trivian	
-sley	
-itoni	
-ok4rin	
-Nahlobu4u	
-Biofire	
-ALABA	
-Bulochka	
-Сиська1	
-Сиська2	
-ChosSorc	
-Мати	S1imShady
-Batasay	Cuke
-Свиныч	
-Писюнчик	
-ZEMLYA	
-orionus	
-галченок	
-F3	
-НюхачПісьок	
-BigDigOwner 	
-ДядяВолодя	
-BelPeol	
-Porsche	
-Harrier	
-АнальныйКлещ	
-Daaabu	
-ИгрокЧленом	
-Рокфордыч	
-ФиолЧлен	
-Фермер	
-Hollabolla	holz
-ВеселыйФармер	
-АлхимкаЧленом	Ликвидус
-r3make	
-Членыч	
-RachelRoxxx	
-ShadowBlade	
-Some	
-К0ЗАК	
-Никитаа	
-zBrz	
-DeadlyBlow	
-guard26	
-Legalaiz	
-Киря	
-boms	
-Ифрит	
-HugoBoss	
-ИграюЧленом	
-Iskanderchik	
-оПЛЯ	
-Yola	
-Укимаги	
-mayba	
-Fa1conWay	
-TomiKai	
-Icasperl	
-jeens	
-rale	tirel
-Членистор	
-troublemakerme	
-krambambulya	
-Rozvell	
-Анальный Ювелир 	"""
+from google.oauth2 import service_account
+from googleapiclient.discovery import build
 
 
-b = a.split('\n')
-LIST = ""
-num = 2
-print('{')
-for i in b:
-    for j in i.split('	'):
-        if len(j) < 2:
-            continue
-        print(f'"{j}": "G{num}",')
-    num += 1
-print('}')
+
+
+_scopes = ['https://www.googleapis.com/auth/drive']
+
+_credentials = service_account.Credentials.from_service_account_file('google_credentials.json', scopes=_scopes)
+_service = build('drive', 'v3', credentials=_credentials)
+
+
+
+results = _service.files().list(pageSize=100, fields="nextPageToken, files(id, name, mimeType)").execute()
+
+print(results)

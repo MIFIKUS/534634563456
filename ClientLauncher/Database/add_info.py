@@ -153,16 +153,17 @@ class AddInfo:
         gtd = gtd.replace(' ', '')
         gtd = gtd.replace(',', '')
 
-        query = "INSERT INTO poker.tables (tournament_id, table_num, name, gtd, buy_in, total_buy_in, table_size, speed, tournament_type, hands, file_name, script_name, create_date)"\
-                f" VALUES ('{tournament_id}', {table_num}, '{name}', '{gtd}', '{buy_in}', '{total_buy_in}', {table_size}, '{speed}', '{tournament_type}', {hands}, "\
-                f"'{file_name}', '{script_name}', NOW());"
+        if not get_info.table_in_db(tournament_id, table_num):
+            query = "INSERT INTO poker.tables (tournament_id, table_num, name, gtd, buy_in, total_buy_in, table_size, speed, tournament_type, hands, file_name, script_name, create_date)"\
+                    f" VALUES ('{tournament_id}', {table_num}, '{name}', '{gtd}', '{buy_in}', '{total_buy_in}', {table_size}, '{speed}', '{tournament_type}', {hands}, "\
+                    f"'{file_name}', '{script_name}', NOW());"
 
-        while True:
-            try:
-                cursor.execute(query)
-                break
-            except Exception as e:
-                print(e)
+            while True:
+                try:
+                    cursor.execute(query)
+                    break
+                except Exception as e:
+                    print(e)
 
         _connection.disconnect()
 
