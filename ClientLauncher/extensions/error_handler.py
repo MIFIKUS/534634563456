@@ -1,3 +1,6 @@
+import traceback
+
+
 def do_without_error(func, args=None):
     if not args:
         while True:
@@ -14,3 +17,13 @@ def do_without_error(func, args=None):
                 print(e)
                 pass
 
+
+def endless_error_handler(func):
+    def wrapper(*args, **kwargs):
+        while True:
+            try:
+                result = func(*args, **kwargs)
+                return result
+            except Exception:
+                traceback.print_exc()
+    return wrapper

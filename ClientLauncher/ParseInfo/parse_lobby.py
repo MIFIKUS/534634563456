@@ -175,7 +175,7 @@ class ParseLobby:
             try:
                 hwnd = win32gui.GetForegroundWindow()
                 table_text = win32gui.GetWindowText(hwnd)
-                re.search(r'^(.*), \$', table_text).group(1)
+                re.search(r'^(.*), \$(.*)K', table_text).group(1)
                 got_name = True
                 break
             except:

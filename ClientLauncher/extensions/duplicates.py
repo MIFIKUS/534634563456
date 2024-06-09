@@ -19,9 +19,12 @@ def delete_duplicates(path_to_file: str):
             break
 
         necessary_rows = text_list[0:2]
-
-        main_row = necessary_rows[0]
-        hand_num = re.search(r'#(.*?):', main_row).group(1)
+        try:
+            main_row = necessary_rows[0]
+            hand_num = re.search(r'#(.*?):', main_row).group(1)
+        except Exception as e:
+            print(e)
+            continue
 
         dict_of_deals.update({hand_num: j})
 

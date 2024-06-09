@@ -1,16 +1,6 @@
-from google.oauth2 import service_account
-from googleapiclient.discovery import build
+import re
+
+a = '30% Progressive KO, $11 NLHE [Turbo, Deep Stacks], $1.5K - 100/200 - Tournament 3757079248 Table 9'
 
 
-
-
-_scopes = ['https://www.googleapis.com/auth/drive']
-
-_credentials = service_account.Credentials.from_service_account_file('google_credentials.json', scopes=_scopes)
-_service = build('drive', 'v3', credentials=_credentials)
-
-
-
-results = _service.files().list(pageSize=100, fields="nextPageToken, files(id, name, mimeType)").execute()
-
-print(results)
+print(re.search(r'^(.*), \$(.*)K', a).group(1))
