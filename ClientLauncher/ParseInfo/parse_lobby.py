@@ -182,6 +182,10 @@ class ParseLobby:
                 continue
 
         if got_name:
+            splited_header = re.split(r', | \$', table_text)
+            if len(splited_header) > 2:
+                return ', '.join(splited_header[0:-1])
+
             return table_text.split(', $')[0]
         else:
             if ' - ' in table_text:
@@ -216,22 +220,18 @@ class ParseLobby:
             return None
 
     def _get_deal_files(self):
-        files =  os.listdir('deals_files')
+        files = os.listdir('deals_files')
         return files
 
     def _get_lobby_gtd(self):
         time.sleep(1)
         hwnd = win32gui.GetForegroundWindow()
         header = win32gui.GetWindowText(hwnd)
+        splited_header = re.split(r', | \$', header)
+
+        if len(splited_header) > 2:
+            gtd = re.search(r'(\$.+?)K', splited_header[-1]).group(1)
+            return gtd
 
         gtd = re.search(r', (\$.+?) Gtd', header).group(1)
-        if 'NLHE' in gtd:
-            try:
-                gtd = re.search(r", \$(.*?)K", gtd).group(0)
-            except Exception as e:
-                print(e)
-                return gtd
-            gtd.replace(' ', '')
-            gtd.replace(',', '')
-            return gtd
-        
+        return gtd
