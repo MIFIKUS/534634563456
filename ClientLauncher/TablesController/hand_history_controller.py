@@ -60,10 +60,8 @@ class TablesControl:
                 closed_tables = list(set(list_of_tables) - set(tables))
 
                 if closed_tables:
-                    print('Есть разница в столах')
                     list_of_tables = tables
                 else:
-                    print('Нет разница в столах')
                     list_of_tables = tables
                     continue
 
