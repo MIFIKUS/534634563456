@@ -108,8 +108,8 @@ class GetType:
 
     def _get_tourney_buy_in(self, num):
         image.take_screenshot('imgs\\screenshots\\buy_in\\buy_in.png',
-                              area_of_screenshot=(580, 250 + (num * 26),
-                                                  680, 263 + (num * 26)))
+                              area_of_screenshot=(578, 250 + (num * 26),
+                                                  682, 263 + (num * 26)))
         buy_in = image.image_to_string('imgs\\screenshots\\buy_in\\buy_in.png', True)
 
         buy_in = buy_in.replace('\n', '')
