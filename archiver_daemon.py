@@ -44,11 +44,15 @@ def get_filenames_and_ids(files):
         return filenames_and_ids
 
 
-def check_if_archive_exists(file_name: str):
-    file_name = file_name.replace('.txt', '.zip')
+def get_tournament_id(filename: str) -> str:
+    return re.search(r'PS__(.*?)__T', filename).group(1)
 
-    if file_name in os.listdir(PATH_TO_SAVE):
-        return True
+
+def check_if_archive_exists(tournament_id: str) -> bool:
+    for i in os.listdir(PATH_TO_SAVE):
+        existed_tournament_id = get_tournament_id(i)
+        if tournament_id == existed_tournament_id:
+            return True
     return False
 
 
@@ -75,11 +79,14 @@ while True:
         print(data)
         if data:
             for file_name, file_id in data.items():
+
                 file_name_for_archive = get_filename(file_name)
+                tournament_id = get_tournament_id(file_name)
+
                 download.download_file(file_id, file_name, PATH_TO_SAVE)
                 print(f'file_name {file_name} archive_name {file_name_for_archive}')
 
-                if check_if_archive_exists(file_name_for_archive):
+                if check_if_archive_exists(tournament_id):
                     print('Archive exists')
                     with zipfile.ZipFile(f'{PATH_TO_SAVE}\\{file_name_for_archive}', 'a') as zipf:
                         if file_name not in zipf.namelist():
