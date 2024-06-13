@@ -1,4 +1,5 @@
 from ClientLauncher.Database.get_info import GetInfo
+from ClientLauncher.extensions.error_handler import endless_error_handler
 import mysql.connector
 import traceback
 
@@ -19,15 +20,11 @@ class AddInfo:
         except Exception:
             traceback.print_exc()
 
+    @endless_error_handler
     def add_main_archive_info(self, data: dict):
-        while True:
-            try:
-                _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
-                _connection.autocommit = True
-                cursor = _connection.cursor()
-                break
-            except Exception:
-                traceback.print_exc()
+        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+        _connection.autocommit = True
+        cursor = _connection.cursor()
 
         tournament_id = data['tournament_id']
         name = data['name']
@@ -38,7 +35,6 @@ class AddInfo:
         speed = data['speed']
         tournament_type = data['type']
         archive_name = data['archive_name']
-
         if not get_info.tournament_in_db(tournament_id):
 
             query = "INSERT INTO poker.archives (tournament_id, name, gtd, buy_in, total_buy_in, table_size, speed, tournament_type, archive_name, create_date)"\
@@ -46,25 +42,15 @@ class AddInfo:
                     f"'{archive_name}', NOW());"
 
             print(query)
-
-            while True:
-                try:
-                    cursor.execute(query)
-                    break
-                except Exception as e:
-                    print(e)
+            cursor.execute(query)
 
         _connection.disconnect()
 
+    @endless_error_handler
     def add_additional_archive_info(self, data: dict):
-        while True:
-            try:
-                _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
-                _connection.autocommit = True
-                cursor = _connection.cursor()
-                break
-            except Exception:
-                traceback.print_exc()
+        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+        _connection.autocommit = True
+        cursor = _connection.cursor()
 
         tournament_id = data['tournament_id']
         files_in_archive = data['files_in_archive']
@@ -75,12 +61,8 @@ class AddInfo:
                 f"hands = {hands} ,"\
                 f"modify_date = NOW()"\
                 f"WHERE tournament_id = '{tournament_id}'"
-        while True:
-            try:
-                cursor.execute(query)
-                break
-            except Exception as e:
-                print(e)
+
+        cursor.execute(query)
 
         _connection.disconnect()
 
@@ -127,15 +109,11 @@ class AddInfo:
 
             _connection.disconnect()
 
+    @endless_error_handler
     def add_tables_main_info(self, data: dict):
-        while True:
-            try:
-                _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
-                _connection.autocommit = True
-                cursor = _connection.cursor()
-                break
-            except Exception:
-                traceback.print_exc()
+        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+        _connection.autocommit = True
+        cursor = _connection.cursor()
 
         tournament_id = data['tournament_id']
         name = data['name']
@@ -158,12 +136,7 @@ class AddInfo:
                     f" VALUES ('{tournament_id}', {table_num}, '{name}', '{gtd}', '{buy_in}', '{total_buy_in}', {table_size}, '{speed}', '{tournament_type}', {hands}, "\
                     f"'{file_name}', '{script_name}', NOW());"
 
-            while True:
-                try:
-                    cursor.execute(query)
-                    break
-                except Exception as e:
-                    print(e)
+            cursor.execute(query)
 
         _connection.disconnect()
 
