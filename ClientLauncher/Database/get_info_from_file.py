@@ -24,8 +24,11 @@ def get_info(file_path: str) -> dict or bool:
     def _get_gtd(path: str, tournament_id: str) -> str:
         with open('tournaments_data.json', 'r', encoding='utf-8') as tables_json:
             tables_info = json.load(tables_json)
-            _gtd = tables_info[tournament_id].get('gtd')
-
+            tournament_info = tables_info.get(tournament_id)
+            if tournament_info:
+                _gtd = tournament_info.get('gtd')
+            else:
+                return '0'
             if _gtd:
                 return _gtd
             return '0'
