@@ -27,14 +27,23 @@ class AddInfo:
         cursor = _connection.cursor()
 
         tournament_id = data['tournament_id']
+        print(f'tournament_id {tournament_id}')
         name = data['name']
+        print(f'name {name}')
         gtd = data['gtd']
+        print(f'gtd {gtd}')
         buy_in = data['buy_in']
+        print(f'buy_in {buy_in}')
         total_buy_in = data['total_buy_in']
+        print(f'total buy_in {total_buy_in}')
         table_size = data['table_size']
+        print(f'table_size {table_size}')
         speed = data['speed']
+        print(f'speed {speed}')
         tournament_type = data['type']
+        print(f'tournament_type {tournament_type}')
         archive_name = data['archive_name']
+        print(f'archive_name {archive_name}')
         if not get_info.tournament_in_db(tournament_id):
 
             query = "INSERT INTO poker.archives (tournament_id, name, gtd, buy_in, total_buy_in, table_size, speed, tournament_type, archive_name, create_date)"\
