@@ -134,12 +134,16 @@ def get_info_for_tables(file_path: str) -> dict:
 
         print(tournament_type)
 
-        table_size = re.search(f'{separator}{tournament_type}{separator}(.*?)MAX', file_path).group(1)
-
-        print(table_size)
-
         speed = re.search(f'MAX{separator}(.*?){separator}', file_path).group(1)
         print(speed)
+
+        table_size = re.search(f'{separator}{tournament_type}{separator}(.*?)MAX', file_path)
+        if table_size:
+            table_size = table_size.group(1)
+        else:
+            table_size = '-'
+
+        print(table_size)
 
         file_name = file_path
 
