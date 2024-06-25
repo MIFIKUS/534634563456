@@ -1,3 +1,5 @@
+from ClientLauncher.extensions.get_config_data import get_pokerstars_version
+
 from PIL import Image as pil
 import pyscreenshot
 
@@ -59,7 +61,12 @@ class Image:
 
     def image_to_string(self, image_name, is_digits):
         if is_digits is True:
-            text = pytesseract.image_to_string(image_name, config='--psm 6 -c tessedit_char_whitelist=0123456789.%(/)$')
+            if get_pokerstars_version().upper() == 'ES':
+                text = pytesseract.image_to_string(image_name,
+                                                   config='--psm 6 -c tessedit_char_whitelist=0123456789.%(/)€')
+            else:
+                text = pytesseract.image_to_string(image_name,
+                                                   config='--psm 6 -c tessedit_char_whitelist=0123456789.%(/)$')
             print(text)
             return text
         text = pytesseract.image_to_string(image_name, lang='eng', config='--psm 3')

@@ -6,11 +6,11 @@ from ClientLauncher.Database.get_info import GetInfo
 from ClientLauncher.Database.add_opened_table import AddTable
 
 from ClientLauncher.extensions.error_handler import do_without_error
+from ClientLauncher.extensions.get_config_data import get_pokerstars_version
 
 from tkinter import Tk
 
 import win32gui
-
 import re
 import time
 import json
@@ -175,18 +175,32 @@ class ParseLobby:
             try:
                 hwnd = win32gui.GetForegroundWindow()
                 table_text = win32gui.GetWindowText(hwnd)
-                re.search(r'^(.*), \$(.*)K', table_text).group(1)
-                got_name = True
-                break
+                if get_pokerstars_version().upper() == 'ES':
+                    if '|' in table_text or ', €' in table_text:
+                        got_name = True
+                        break
+                else:
+                    re.search(r'^(.*), \$(.*)K', table_text).group(1)
+
+                    got_name = True
+                    break
             except:
                 continue
 
         if got_name:
-            splited_header = re.split(r', | \$', table_text)
-            if len(splited_header) > 2:
-                return ', '.join(splited_header[0:-1])
+            if get_pokerstars_version().upper() == 'ES':
+                if '|' in table_text:
+                    return table_text.split(' | ')[0]
+                elif ', €' in table_text:
+                    return table_text.split(', €')[0]
+                else:
+                    return 'False'
+            else:
+                splited_header = re.split(r', | \$', table_text)
+                if len(splited_header) > 2:
+                    return ', '.join(splited_header[0:-1])
 
-            return table_text.split(', $')[0]
+                return table_text.split(', $')[0]
         else:
             if ' - ' in table_text:
                 return table_text.split(' - ')[0]
@@ -227,11 +241,21 @@ class ParseLobby:
         time.sleep(1)
         hwnd = win32gui.GetForegroundWindow()
         header = win32gui.GetWindowText(hwnd)
-        splited_header = re.split(r', | \$', header)
-
-        if len(splited_header) > 2:
-            gtd = re.search(r'(\$.+?)K', splited_header[-1]).group(1)
+        if get_pokerstars_version().upper() == 'ES':
+            try:
+                gtd = re.search(r', (€.+?) Gtd', header).group(1)
+                print(',', gtd)
+            except:
+                gtd = re.search(r'\| (€.+?) Gtd', header).group(1)
+                print('|', gtd)
             return gtd
 
-        gtd = re.search(r', (\$.+?) Gtd', header).group(1)
-        return gtd
+        else:
+            splited_header = re.split(r', | \$', header)
+
+            if len(splited_header) > 2:
+                gtd = re.search(r'(\$.+?)K', splited_header[-1]).group(1)
+                return gtd
+
+            gtd = re.search(r', (\$.+?) Gtd', header).group(1)
+            return gtd

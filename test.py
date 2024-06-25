@@ -1,7 +1,18 @@
 import re
+import time
+import win32gui
 
-a = '30% Progressive KO, $11 NLHE [Turbo, Deep Stacks], $1.5K - 100/200 - Tournament 3757079248 Table 9'
+a = 'Bigger €50 | €4,000 Gtd - 600/1,200 ante 150 - Tournament 3769315911 Table 4'
 
 
-print(', '.join(re.split(r', | \$', a)[0:-1]))
+#print(', '.join(re.split(r'^[^ |\|]+', a)[0:-1]))
 #print(a.split(', $'))
+
+#print(re.search(r', (€.+?) Gtd', a).group(1))
+
+print(re.search(r'\| (€.+?) Gtd', a).group(1))
+time.sleep(5)
+
+a = win32gui.GetForegroundWindow()
+
+print(win32gui.GetWindowText(a))

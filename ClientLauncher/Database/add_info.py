@@ -1,5 +1,8 @@
 from ClientLauncher.Database.get_info import GetInfo
+
 from ClientLauncher.extensions.error_handler import endless_error_handler
+from ClientLauncher.extensions.get_config_data import get_pokerstars_version
+
 import mysql.connector
 import traceback
 
@@ -8,6 +11,12 @@ USERNAME = 'ps123321'
 PASSWORD = 'qwert'
 
 get_info = GetInfo()
+
+
+if get_pokerstars_version().upper() == 'ES':
+    database_name = 'pokerstars_es'
+else:
+    database_name = 'poker'
 
 
 class AddInfo:
@@ -20,7 +29,6 @@ class AddInfo:
         except Exception:
             traceback.print_exc()
 
-    @endless_error_handler
     def add_main_archive_info(self, data: dict):
         _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
         _connection.autocommit = True
@@ -46,7 +54,7 @@ class AddInfo:
         print(f'archive_name {archive_name}')
         if not get_info.tournament_in_db(tournament_id):
 
-            query = "INSERT INTO poker.archives (tournament_id, name, gtd, buy_in, total_buy_in, table_size, speed, tournament_type, archive_name, create_date)"\
+            query = f"INSERT INTO {database_name}.archives (tournament_id, name, gtd, buy_in, total_buy_in, table_size, speed, tournament_type, archive_name, create_date)"\
                     f" VALUES ('{tournament_id}', '{name}', '{gtd}', '{buy_in}', '{total_buy_in}', {table_size}, '{speed}', '{tournament_type}'," \
                     f"'{archive_name}', NOW());"
 
@@ -65,7 +73,7 @@ class AddInfo:
         files_in_archive = data['files_in_archive']
         hands = data['hands']
 
-        query = "UPDATE poker.archives SET "\
+        query = f"UPDATE {database_name}.archives SET "\
                 f"files_in_archive = {files_in_archive}, "\
                 f"hands = {hands} ,"\
                 f"modify_date = NOW()"\
@@ -104,7 +112,7 @@ class AddInfo:
             gtd = gtd.replace(' ', '')
             gtd = gtd.replace(',', '')
 
-            query = "INSERT INTO poker.tables (tournament_id, name, gtd, buy_in, total_buy_in, table_size, speed, " \
+            query = f"INSERT INTO {database_name}.tables (tournament_id, name, gtd, buy_in, total_buy_in, table_size, speed, " \
                     "tournament_type, file_name, hands, create_date, script_name, table_num)" \
                     f"(VALUES ({tournament_id}, {name}, {gtd}, {buy_in}, {total_buy_in}, {table_size}, {speed}, {tournament_type}," \
                     f"{file_name}, {hands}, {create_data}, {script_name}, {table_num});"
@@ -118,7 +126,6 @@ class AddInfo:
 
             _connection.disconnect()
 
-    @endless_error_handler
     def add_tables_main_info(self, data: dict):
         _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
         _connection.autocommit = True
@@ -141,7 +148,7 @@ class AddInfo:
         gtd = gtd.replace(',', '')
 
         if not get_info.table_in_db(tournament_id, table_num):
-            query = "INSERT INTO poker.tables (tournament_id, table_num, name, gtd, buy_in, total_buy_in, table_size, speed, tournament_type, hands, file_name, script_name, create_date)"\
+            query = f"INSERT INTO {database_name}.tables (tournament_id, table_num, name, gtd, buy_in, total_buy_in, table_size, speed, tournament_type, hands, file_name, script_name, create_date)"\
                     f" VALUES ('{tournament_id}', {table_num}, '{name}', '{gtd}', '{buy_in}', '{total_buy_in}', {table_size}, '{speed}', '{tournament_type}', {hands}, "\
                     f"'{file_name}', '{script_name}', NOW());"
 
@@ -163,7 +170,7 @@ class AddInfo:
         files_in_archive = data['files_in_archive']
         hands = data['hands']
 
-        query = "UPDATE poker.tables SET "\
+        query = f"UPDATE {database_name}.tables SET "\
                 f"files_in_archive = {files_in_archive}, "\
                 f"hands = {hands} "\
                 f"WHERE tournament_id = '{tournament_id}'"

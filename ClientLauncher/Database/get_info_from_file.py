@@ -1,5 +1,5 @@
 from ClientLauncher.Google.Sheets.get_config import GetConfig
-from ClientLauncher.extensions.get_config_data import get_script_name
+from ClientLauncher.extensions.get_config_data import get_script_name, get_pokerstars_version
 
 import re
 import json
@@ -9,7 +9,8 @@ while True:
     try:
         get_config = GetConfig()
         break
-    except Exception:
+    except Exception as e:
+        print(e)
         pass
 
 SCRIPT_NAME = get_script_name()
@@ -55,8 +56,10 @@ def get_info(file_path: str) -> dict or bool:
 
         #сюда gtd
         gtd = _get_gtd(file_path, id)
-
-        buy_in = '$' + re.search(r',\s\$(.*?)\sUSD', file_list[0]).group(1)
+        if get_pokerstars_version().upper() == 'ES':
+            buy_in = '€' + re.search(r',\s€(.*?)\sEUR', file_list[0]).group(1)
+        else:
+            buy_in = '$' + re.search(r',\s\$(.*?)\sUSD', file_list[0]).group(1)
 
         print(buy_in)
 
@@ -64,7 +67,11 @@ def get_info(file_path: str) -> dict or bool:
 
         print(total_buy_in)
 
-        tournament_type = re.search(f'BI{total_buy_in.replace('$', r'\$')}{separator}(.*?){separator}', file_path).group(1)
+        if get_pokerstars_version().upper() == 'ES':
+            tournament_type = re.search(f'BI{total_buy_in}{separator}(.*?){separator}', file_path).group(1)
+        else:
+            tournament_type = re.search(f'BI{total_buy_in.replace('$', r'\$')}{separator}(.*?){separator}', file_path).group(1)
+
         print(tournament_type)
         table_size = re.search(f'{separator}{tournament_type}{separator}(.*?)MAX', file_path).group(1)
         print(table_size)
@@ -122,7 +129,10 @@ def get_info_for_tables(file_path: str) -> dict:
 
         print(gtd)
 
-        buy_in = '$' + re.search(r',\s\$(.*?)\sUSD', file_list[0]).group(1)
+        if get_pokerstars_version().upper() == 'ES':
+            buy_in = '€' + re.search(r',\s€(.*?)\sEUR', file_list[0]).group(1)
+        else:
+            buy_in = '$' + re.search(r',\s\$(.*?)\sUSD', file_list[0]).group(1)
 
         print(buy_in)
 

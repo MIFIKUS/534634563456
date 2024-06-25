@@ -1,9 +1,15 @@
 from ClientLauncher.extensions.error_handler import endless_error_handler
+from ClientLauncher.extensions.get_config_data import get_pokerstars_version
 import mysql.connector
 
 HOST = '193.233.75.95'
 USERNAME = 'ps123321'
 PASSWORD = 'qwert'
+
+if get_pokerstars_version().upper() == 'ES':
+    database_name = 'pokerstars_es'
+else:
+    database_name = 'poker'
 
 
 class GetInfo:
@@ -12,7 +18,7 @@ class GetInfo:
         _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
         _connection.autocommit = True
         cursor = _connection.cursor()
-        query = f"SELECT * FROM poker.archives WHERE tournament_id = '{tournament_id}';"
+        query = f"SELECT * FROM {database_name}.archives WHERE tournament_id = '{tournament_id}';"
 
         cursor.execute(query)
 
@@ -24,12 +30,11 @@ class GetInfo:
             return True
         return False
 
-    @endless_error_handler
     def table_in_db(self, tournament_id: str, table_num) -> bool:
         _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
         _connection.autocommit = True
         cursor = _connection.cursor()
-        query = f"SELECT * FROM poker.tables WHERE tournament_id = '{tournament_id}' AND table_num = {table_num};"
+        query = f"SELECT * FROM {database_name}.tables WHERE tournament_id = '{tournament_id}' AND table_num = {table_num};"
 
         cursor.execute(query)
 
@@ -47,7 +52,7 @@ class GetInfo:
         _connection.autocommit = True
         cursor = _connection.cursor()
 
-        query = f"SELECT * FROM poker.opened_tables WHERE tournament_id = '{tournament_id}' AND table_num = {table};"
+        query = f"SELECT * FROM {database_name}.opened_tables WHERE tournament_id = '{tournament_id}' AND table_num = {table};"
 
         cursor.execute(query)
 

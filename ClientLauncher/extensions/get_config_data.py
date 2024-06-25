@@ -14,3 +14,8 @@ def get_script_name() -> str:
 def get_google_row() -> int:
     config = open_file()
     return config['GOOGLE_SHEETS_ROW']
+
+
+def get_pokerstars_version() -> str:
+    config = open_file()
+    return config['POKERSTARS_VERSION']

@@ -3,6 +3,7 @@ from ClientLauncher.MainFunctions.mouse_and_keyboard import Keyboard
 from ClientLauncher.MainFunctions.windows import Windows
 
 from ClientLauncher.extensions.error_handler import do_without_error
+from ClientLauncher.extensions.get_config_data import get_pokerstars_version
 
 from tkinter import Tk
 
@@ -62,8 +63,8 @@ class GetType:
             'slow.png': 'SLOW'
         }
 
-        image.take_screenshot('imgs\\screenshots\\speed\\tourney_speed.png', area_of_screenshot=(484, 251 + (num * 26),
-                                                                                                             501, 262 + (num * 26)))
+        image.take_screenshot('imgs\\screenshots\\speed\\tourney_speed.png', area_of_screenshot=(484, 257 + (num * 26),
+                                                                                                             501, 268 + (num * 26)))
         path_to_speed_templates = 'imgs\\templates\\speed\\'
 
         for i in self._list_of_speeds:
@@ -71,8 +72,8 @@ class GetType:
                 return SPEED_LIST.get(i)
 
     def _get_tourney_game_type(self, num):
-        image.take_screenshot('imgs\\screenshots\\knockouts\\game_type.png', area_of_screenshot=(467, 250 + (num * 26),
-                                                                                                             482, 263 + (num * 26)))
+        image.take_screenshot('imgs\\screenshots\\knockouts\\game_type.png', area_of_screenshot=(467, 256 + (num * 26),
+                                                                                                             482, 269 + (num * 26)))
 
         path_to_knockouts_templates = 'imgs\\templates\\knockouts\\'
 
@@ -82,8 +83,8 @@ class GetType:
                 is_there_knockout = True
 
         if is_there_knockout:
-            image.take_screenshot('imgs\\screenshots\\knockouts\\game_type_color.png', area_of_screenshot=(470, 256 + (num * 26),
-                                                                                                                       471, 257 + (num * 26)))
+            image.take_screenshot('imgs\\screenshots\\knockouts\\game_type_color.png', area_of_screenshot=(470, 262 + (num * 26),
+                                                                                                                       471, 263 + (num * 26)))
 
             if image.matching('imgs\\screenshots\\knockouts\\game_type_color.png', 'imgs\\templates\\knockouts\\progressive.png'):
                 return 'KO'
@@ -95,8 +96,8 @@ class GetType:
         return 'FREEZE'
 
     def _get_tourney_players_amount(self, num):
-        image.take_screenshot('imgs\\screenshots\\players_amount\\players_amount_color.png', area_of_screenshot=(506, 250 + (num * 26),
-                                                  507, 263 + (num * 26)))
+        image.take_screenshot('imgs\\screenshots\\players_amount\\players_amount_color.png', area_of_screenshot=(506, 256 + (num * 26),
+                                                                                                                            507, 269 + (num * 26)))
         color = image.get_main_color('imgs\\screenshots\\players_amount\\players_amount_color.png')
 
         for amount, color_list in self._list_of_players_amount.items():
@@ -108,8 +109,8 @@ class GetType:
 
     def _get_tourney_buy_in(self, num):
         image.take_screenshot('imgs\\screenshots\\buy_in\\buy_in.png',
-                              area_of_screenshot=(578, 250 + (num * 26),
-                                                  682, 263 + (num * 26)))
+                              area_of_screenshot=(578, 255 + (num * 26),
+                                                  682, 269 + (num * 26)))
         buy_in = image.image_to_string('imgs\\screenshots\\buy_in\\buy_in.png', True)
 
         buy_in = buy_in.replace('\n', '')
@@ -123,6 +124,10 @@ class GetType:
             except Exception:
                 print('Не удалось получить бай ин')
                 windows.get_main_window()
+
+        if get_pokerstars_version().upper() == 'ES':
+            if '€' not in buy_in:
+                buy_in = '€' + buy_in
 
         return buy_in
 

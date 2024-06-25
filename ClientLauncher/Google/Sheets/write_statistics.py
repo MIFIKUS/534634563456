@@ -1,15 +1,21 @@
 from ClientLauncher.Google.Sheets.url import GOOGLE_SHEET_URL
-from ClientLauncher.extensions.get_config_data import get_google_row
+from ClientLauncher.extensions.get_config_data import get_google_row, get_pokerstars_version
 
 import gspread
 import json
+
+
+if get_pokerstars_version().upper() == 'ES':
+    worksheet_num = 5
+else:
+    worksheet_num = 1
 
 
 class WriteStatistics:
     def __init__(self):
         path_to_credentials = 'services_files\\google_credentials.json'
         self.gs = gspread.service_account(path_to_credentials)
-        self.sh = self.gs.open_by_url(GOOGLE_SHEET_URL).get_worksheet(1)
+        self.sh = self.gs.open_by_url(GOOGLE_SHEET_URL).get_worksheet(worksheet_num)
         self.client_row = get_google_row()
 
     def set_status(self, status):
