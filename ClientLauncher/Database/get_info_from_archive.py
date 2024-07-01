@@ -7,7 +7,8 @@ while True:
     try:
         get_config = GetConfig()
         break
-    except Exception:
+    except Exception as e:
+        print(e)
         pass
 
 

@@ -115,6 +115,9 @@ class GetType:
 
         buy_in = buy_in.replace('\n', '')
         buy_in = buy_in.replace(',', '')
+
+        buy_in = buy_in.replace('(', '')
+        buy_in = buy_in.replace('(', '')
         while True:
             try:
                 if buy_in[-1] == '.':
@@ -131,6 +134,8 @@ class GetType:
 
                 buy_in = buy_in.replace('\n', '')
                 buy_in = buy_in.replace(',', '')
+                buy_in = buy_in.replace('(', '')
+                buy_in = buy_in.replace('(', '')
 
         if get_pokerstars_version().upper() == 'ES':
             if '€' not in buy_in:

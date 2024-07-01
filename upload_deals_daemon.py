@@ -1,3 +1,5 @@
+import traceback
+
 from ClientLauncher.Google.Drive.upload import UploadDeals
 from ClientLauncher.Database import get_info_from_file
 from ClientLauncher.Database.add_info import AddInfo
@@ -65,5 +67,5 @@ while True:
                     print(f'Не удалось загрузить файл Ошибка {e}')
                     continue
             except Exception as e:
-                print(e)
+                traceback.print_exc()
                 continue

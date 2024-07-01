@@ -65,6 +65,8 @@ def get_info(file_path: str) -> dict or bool:
 
         total_buy_in = re.search(f'BI(.*?){separator}', file_path).group(1)
 
+        total_buy_in = total_buy_in.replace('(', '')
+
         print(total_buy_in)
 
         if get_pokerstars_version().upper() == 'ES':
