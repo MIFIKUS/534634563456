@@ -124,6 +124,13 @@ class GetType:
             except Exception:
                 print('Не удалось получить бай ин')
                 windows.get_main_window()
+                image.take_screenshot('imgs\\screenshots\\buy_in\\buy_in.png',
+                                      area_of_screenshot=(578, 255 + (num * 26),
+                                                          682, 269 + (num * 26)))
+                buy_in = image.image_to_string('imgs\\screenshots\\buy_in\\buy_in.png', True)
+
+                buy_in = buy_in.replace('\n', '')
+                buy_in = buy_in.replace(',', '')
 
         if get_pokerstars_version().upper() == 'ES':
             if '€' not in buy_in:
