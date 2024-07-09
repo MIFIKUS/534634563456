@@ -152,6 +152,7 @@ class AddInfo:
                     f" VALUES ('{tournament_id}', {table_num}, '{name}', '{gtd}', '{buy_in}', '{total_buy_in}', {table_size}, '{speed}', '{tournament_type}', {hands}, "\
                     f"'{file_name}', '{script_name}', NOW());"
 
+            print('\n', query)
             cursor.execute(query)
 
         _connection.disconnect()

@@ -153,7 +153,7 @@ def get_info_for_tables(file_path: str) -> dict:
         if table_size:
             table_size = table_size.group(1)
         else:
-            table_size = '-'
+            table_size = '0'
 
         print(table_size)
 
