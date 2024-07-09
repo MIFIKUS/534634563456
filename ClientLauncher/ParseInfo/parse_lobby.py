@@ -11,6 +11,8 @@ from ClientLauncher.extensions.get_config_data import get_pokerstars_version
 from tkinter import Tk
 
 import win32gui
+
+import string
 import re
 import time
 import json
@@ -190,20 +192,42 @@ class ParseLobby:
         if got_name:
             if get_pokerstars_version().upper() == 'ES':
                 if '|' in table_text:
-                    return table_text.split(' | ')[0]
+                    tournament_name = table_text.split(' | ')[0]
+                    if tournament_name[-1] in string.digits:
+                        tournament_name += '€'
+
+                    return tournament_name
+
                 elif ', €' in table_text:
-                    return table_text.split(', €')[0]
+                    tournament_name = table_text.split(', €')[0]
+                    if tournament_name[-1] in string.digits:
+                        tournament_name += '€'
+                    return tournament_name
+
                 else:
                     return 'False'
             else:
                 splited_header = re.split(r', | \$', table_text)
                 if len(splited_header) > 2:
-                    return ', '.join(splited_header[0:-1])
+                    tournament_name = ', '.join(splited_header[0:-1])
+                    if tournament_name[-1] in string.digits:
+                        tournament_name += '$'
 
-                return table_text.split(', $')[0]
+                    return tournament_name
+
+                else:
+                    tournament_name = table_text.split(', $')[0]
+                    if tournament_name[-1] in string.digits:
+                        tournament_name += '$'
+                    return tournament_name
+
         else:
             if ' - ' in table_text:
-                return table_text.split(' - ')[0]
+                tournament_name = table_text.split(' - ')[0]
+                if tournament_name[-1] in string.digits:
+                    tournament_name += '$'
+
+                return tournament_name
 
     def _open_table(self):
         keyboard.enter()
