@@ -1,3 +1,5 @@
+import string
+
 from ClientLauncher.Google.Sheets.get_config import GetConfig
 from ClientLauncher.extensions.get_config_data import get_script_name, get_pokerstars_version
 
@@ -142,14 +144,23 @@ def get_info_for_tables(file_path: str) -> dict:
 
         print(total_buy_in)
 
-        tournament_type = _get_tournament_type(tournament_id)
+        #tournament_type = _get_tournament_type(tournament_id)
+
+        tournament_type = re.search(f'BI{total_buy_in.replace('$', '\$')}__(.*?)MAX', file_path).group(1)
+        tournament_type = tournament_type.replace('__', '')
+
+        for x in string.digits:
+            tournament_type = tournament_type.replace(x, '')
 
         print(tournament_type)
 
         speed = re.search(f'MAX{separator}(.*?){separator}', file_path).group(1)
         print(speed)
 
-        table_size = re.search(f'{separator}{tournament_type}{separator}(.*?)MAX', file_path)
+        #table_size = re.search(f'{separator}{tournament_type}{separator}(.*?)MAX', file_path)
+
+        table_size = re.search(r"' (.*?)-max", file_list[1])
+
         if table_size:
             table_size = table_size.group(1)
         else:
