@@ -210,24 +210,27 @@ class ParseLobby:
                 splited_header = re.split(r', | \$', table_text)
                 if len(splited_header) > 2:
                     tournament_name = ', '.join(splited_header[0:-1])
-                    if tournament_name[-1] in string.digits:
-                        tournament_name += '$'
-
-                    return tournament_name
+                    return self._handle_tournament_name(tournament_name)
 
                 else:
                     tournament_name = table_text.split(', $')[0]
-                    if tournament_name[-1] in string.digits:
-                        tournament_name += '$'
-                    return tournament_name
+                    return self._handle_tournament_name(tournament_name)
 
         else:
             if ' - ' in table_text:
                 tournament_name = table_text.split(' - ')[0]
-                if tournament_name[-1] in string.digits:
-                    tournament_name += '$'
+                return self._handle_tournament_name(tournament_name)
 
-                return tournament_name
+    def _handle_tournament_name(self, tournament_name: str) -> str:
+        tournament_name = tournament_name.split('_')
+        tournament_list = []
+
+        for i in tournament_name:
+            if i[0] in string.digits and '$' not in i[0]:
+                x = '$' + i
+            tournament_list.append(x)
+
+        return '_'.join(tournament_name)
 
     def _open_table(self):
         keyboard.enter()
