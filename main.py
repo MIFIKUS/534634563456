@@ -179,19 +179,6 @@ def main():
                 logging.warning('Ошибка при получении открытых столов из таблицы', exc_info=True)
                 continue
 
-            if opened_tables < 21:
-                logging.debug('Колличество столов меньше чем 21')
-                write_statistics.set_status(OPENING_TOURNEYS)
-                logging.debug('Задан статус открытия турнира')
-
-                write_files_per_time()
-                logging.debug('Записаны файлы за время в таблицу')
-                write_deals_per_time()
-                logging.debug('Записаны раздачи за время в таблицу')
-
-                amount_of_add_tables = 21 - opened_tables
-                num = add_new_tables(amount_of_add_tables, num)
-
             if len(get_closed_tables_file()) > 0:
                 logging.debug('Есть столы в списке закрытых')
 
@@ -215,6 +202,19 @@ def main():
 
                         text = i.split(' ')
                         handle_closed_tables(text, opened_tables)
+
+            if opened_tables < 21:
+                logging.debug('Колличество столов меньше чем 21')
+                write_statistics.set_status(OPENING_TOURNEYS)
+                logging.debug('Задан статус открытия турнира')
+
+                write_files_per_time()
+                logging.debug('Записаны файлы за время в таблицу')
+                write_deals_per_time()
+                logging.debug('Записаны раздачи за время в таблицу')
+
+                amount_of_add_tables = 21 - opened_tables
+                num = add_new_tables(amount_of_add_tables, num)
 
             else:
                 write_files_per_time()
