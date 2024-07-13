@@ -1,3 +1,5 @@
+import traceback
+
 from ClientLauncher.extensions.error_handler import endless_error_handler
 from ClientLauncher.extensions.get_config_data import get_pokerstars_version
 import mysql.connector
@@ -13,53 +15,69 @@ else:
 
 
 class GetInfo:
-    @endless_error_handler
     def tournament_in_db(self, tournament_id: str) -> bool:
-        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
-        _connection.autocommit = True
-        cursor = _connection.cursor()
-        query = f"SELECT * FROM {database_name}.archives WHERE tournament_id = '{tournament_id}';"
+        while True:
+            try:
+                _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+                _connection.autocommit = True
+                cursor = _connection.cursor()
+                query = f"SELECT * FROM {database_name}.archives WHERE tournament_id = '{tournament_id}';"
 
-        cursor.execute(query)
+                print(f'tournament_in_db query {query}')
 
-        result = cursor.fetchall()
+                cursor.execute(query)
 
-        _connection.disconnect()
+                result = cursor.fetchall()
 
-        if len(result) > 0:
-            return True
-        return False
+                _connection.disconnect()
+
+                if len(result) > 0:
+                    return True
+                return False
+            except Exception:
+                traceback.print_exc()
 
     def table_in_db(self, tournament_id: str, table_num) -> bool:
-        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
-        _connection.autocommit = True
-        cursor = _connection.cursor()
-        query = f"SELECT * FROM {database_name}.tables WHERE tournament_id = '{tournament_id}' AND table_num = {table_num};"
+        while True:
+            try:
+                _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+                _connection.autocommit = True
+                cursor = _connection.cursor()
+                query = f"SELECT * FROM {database_name}.tables WHERE tournament_id = '{tournament_id}' AND table_num = {table_num};"
 
-        cursor.execute(query)
+                print(f'table_in_db query {query}')
 
-        result = cursor.fetchall()
+                cursor.execute(query)
 
-        _connection.disconnect()
+                result = cursor.fetchall()
 
-        if len(result) > 0:
-            return True
-        return False
+                _connection.disconnect()
 
-    @endless_error_handler
+                if len(result) > 0:
+                    return True
+                return False
+            except Exception:
+                traceback.print_exc()
+
     def table_opened(self, tournament_id: str, table: str) -> bool:
-        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
-        _connection.autocommit = True
-        cursor = _connection.cursor()
+        while True:
+            try:
+                _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+                _connection.autocommit = True
+                cursor = _connection.cursor()
 
-        query = f"SELECT * FROM {database_name}.opened_tables WHERE tournament_id = '{tournament_id}' AND table_num = {table};"
+                query = f"SELECT * FROM {database_name}.opened_tables WHERE tournament_id = '{tournament_id}' AND table_num = {table};"
 
-        cursor.execute(query)
+                print(f'table_opened query {query}')
 
-        result = cursor.fetchall()
+                cursor.execute(query)
 
-        _connection.disconnect()
+                result = cursor.fetchall()
 
-        if len(result) > 0:
-            return True
-        return False
+                _connection.disconnect()
+
+                if len(result) > 0:
+                    return True
+                return False
+            except Exception:
+                traceback.print_exc()

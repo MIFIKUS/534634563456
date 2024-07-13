@@ -227,8 +227,8 @@ class ParseLobby:
 
         for i in tournament_name:
             if i[0] in string.digits and '$' not in i[0]:
-                x = '$' + i
-            tournament_list.append(x)
+                i = '$' + i
+            tournament_list.append(i)
 
         return '_'.join(tournament_name)
 

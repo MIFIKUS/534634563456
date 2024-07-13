@@ -20,6 +20,8 @@ class AddTable:
         query = f"INSERT INTO {database_name}.opened_tables (tournament_id, table_num) VALUES "\
                 f"('{tournament_id}', {table});"
 
+        print(f'add query {query}')
+
         cursor.execute(query)
 
         _connection.disconnect()
