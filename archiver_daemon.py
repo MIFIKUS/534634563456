@@ -44,13 +44,18 @@ def get_filenames_and_ids(files):
         return filenames_and_ids
 
 
-def get_tournament_id(filename: str) -> str:
-    return re.search(r'PS__(.*?)__T', filename).group(1)
+def get_tournament_id(filename: str, is_archive: bool) -> str:
+    if not is_archive:
+        pattern = r'PS__(.*?)__'
+    else:
+        pattern = r'PS__(.*?)__T'
+
+    return re.search(pattern, filename).group(1)
 
 
 def check_if_archive_exists(tournament_id: str) -> bool:
     for i in os.listdir(PATH_TO_SAVE):
-        existed_tournament_id = get_tournament_id(i)
+        existed_tournament_id = get_tournament_id(i, True)
         if tournament_id == existed_tournament_id:
             return True
     return False
@@ -81,7 +86,7 @@ while True:
             for file_name, file_id in data.items():
 
                 file_name_for_archive = get_filename(file_name)
-                tournament_id = get_tournament_id(file_name)
+                tournament_id = get_tournament_id(file_name, False)
 
                 download.download_file(file_id, file_name, PATH_TO_SAVE)
                 print(f'file_name {file_name} archive_name {file_name_for_archive}')

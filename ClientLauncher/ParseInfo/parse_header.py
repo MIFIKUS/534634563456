@@ -117,7 +117,7 @@ class GetType:
         buy_in = buy_in.replace(',', '')
 
         buy_in = buy_in.replace('(', '')
-        buy_in = buy_in.replace('(', '')
+        buy_in = buy_in.replace(')', '')
         while True:
             try:
                 if buy_in[-1] == '.':

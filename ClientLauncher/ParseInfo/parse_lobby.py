@@ -193,16 +193,11 @@ class ParseLobby:
             if get_pokerstars_version().upper() == 'ES':
                 if '|' in table_text:
                     tournament_name = table_text.split(' | ')[0]
-                    if tournament_name[-1] in string.digits:
-                        tournament_name += '€'
-
-                    return tournament_name
+                    return self._handle_tournament_name(tournament_name)
 
                 elif ', €' in table_text:
                     tournament_name = table_text.split(', €')[0]
-                    if tournament_name[-1] in string.digits:
-                        tournament_name += '€'
-                    return tournament_name
+                    return self._handle_tournament_name(tournament_name)
 
                 else:
                     return 'False'
@@ -222,13 +217,19 @@ class ParseLobby:
                 return self._handle_tournament_name(tournament_name)
 
     def _handle_tournament_name(self, tournament_name: str) -> str:
-        tournament_name = tournament_name.split('_')
+        tournament_name = tournament_name.split(' ')
         tournament_list = []
 
-        for i in tournament_name:
-            if i[0] in string.digits and '$' not in i[0]:
-                i = '$' + i
-            tournament_list.append(i)
+        if get_pokerstars_version().upper() == 'ES':
+            for i in tournament_name:
+                if i[0] in string.digits and '€' not in i[0]:
+                    i = '€' + i
+                tournament_list.append(i)
+        else:
+            for i in tournament_name:
+                if i[0] in string.digits and '$' not in i[0]:
+                    i = '$' + i
+                tournament_list.append(i)
 
         return '_'.join(tournament_name)
 
