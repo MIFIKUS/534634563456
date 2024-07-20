@@ -45,10 +45,13 @@ def get_filenames_and_ids(files):
 
 
 def get_tournament_id(filename: str, is_archive: bool) -> str:
-    if not is_archive:
+    if is_archive:
         pattern = r'PS__(.*?)__'
     else:
         pattern = r'PS__(.*?)__T'
+
+    print(f'is_archive {is_archive}')
+    print(f'tournament_id_filename {filename}')
 
     return re.search(pattern, filename).group(1)
 

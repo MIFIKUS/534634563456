@@ -52,8 +52,11 @@ class GetType:
         return {tournament_id: {'game_type': game_type, 'speed': speed, 'players_amount': players_amount, 'buy_in': buy_in}}
 
     def _get_tournament_id(self):
-        keyboard.copy()
-        return do_without_error(cliboard.clipboard_get)
+        tournament_id = ''
+        while len(tournament_id) != 10:
+            keyboard.copy()
+            tournament_id = do_without_error(cliboard.clipboard_get)
+        return tournament_id
 
     def _get_tourney_speed(self, num):
         SPEED_LIST = {

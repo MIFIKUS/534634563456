@@ -1,6 +1,11 @@
 from ClientLauncher.Google.Sheets.get_config import GetConfig
+from ClientLauncher.extensions.get_config_data import get_pokerstars_version
+
 import datetime
+import string
+
 import pytz
+
 
 while True:
     try:
@@ -43,6 +48,19 @@ class CreateFileName:
                 tournament_name = str(data.get(row))
                 tournament_name = tournament_name.replace(' ', '_')
                 tournament_name = tournament_name.replace(':', '')
+
+                tournament_name_fixed = []
+
+                for i in tournament_name.split('_'):
+                    if i[0] in string.digits:
+                        if get_pokerstars_version().upper() == 'ES':
+                            i = '€' + i
+                        else:
+                            i = '$' + i
+
+                        tournament_name_fixed.append(i)
+
+                tournament_name = tournament_name_fixed
 
                 file_name += tournament_name
             else:
