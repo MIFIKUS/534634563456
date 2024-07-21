@@ -82,7 +82,7 @@ class AddInfo:
                 query = f"UPDATE {database_name}.archives SET "\
                         f"files_in_archive = {files_in_archive}, "\
                         f"hands = {hands} ,"\
-                        f"modify_date = NOW()"\
+                        f"modify_date = NOW() "\
                         f"WHERE tournament_id = '{tournament_id}'"
 
                 print(f'add_additional_archive_info query {query}')
@@ -204,3 +204,4 @@ class AddInfo:
                 print(e)
 
         _connection.disconnect()
+АТ

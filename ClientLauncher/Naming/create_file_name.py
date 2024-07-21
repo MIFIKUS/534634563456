@@ -60,7 +60,7 @@ class CreateFileName:
 
                         tournament_name_fixed.append(i)
 
-                tournament_name = tournament_name_fixed
+                tournament_name = '_'.join(tournament_name_fixed)
 
                 file_name += tournament_name
             else:
