@@ -95,6 +95,7 @@ def get_closed_tables_file():
         print('closed tables пустой', e)
         return []
 
+
 def change_closed_tables(table_id):
     tables = get_closed_tables_file()
     a = ''

@@ -204,4 +204,3 @@ class AddInfo:
                 print(e)
 
         _connection.disconnect()
-АТ

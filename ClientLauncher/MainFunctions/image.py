@@ -11,6 +11,7 @@ import pytesseract
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
+
 class Image:
     def matching(self, main_image_name, template_image_name, need_for_taking_screenshot=False, threshold=0.8,
                  func=None, area_of_screenshot=None):
