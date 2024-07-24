@@ -58,7 +58,7 @@ class CreateFileName:
                         else:
                             i = '$' + i
 
-                        tournament_name_fixed.append(i)
+                    tournament_name_fixed.append(i)
 
                 tournament_name = '_'.join(tournament_name_fixed)
 
