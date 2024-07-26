@@ -162,11 +162,6 @@ def main():
     num = 0
     opened_tables = get_statistics.get_open_tables()
     logging.debug(f'На данный момент открыто {opened_tables} столов')
-    if opened_tables < 21:
-        logging.debug('Столов меньше чем 21')
-        amount_of_add_tables = 21 - opened_tables
-        logging.debug('Начало открытия новых столов')
-        add_new_tables(amount_of_add_tables, num)
 
     while True:
         try:
