@@ -160,7 +160,7 @@ class LobbyActions:
     @staticmethod
     def close_banner():
         def _check_banner() -> bool:
-            image.take_screenshot('imgs\\screenshots\\is_there_cross.png', (1560, 240, 251, 266))
+            image.take_screenshot('imgs\\screenshots\\is_there_cross.png', (1560, 238, 1580, 266))
             return image.matching('imgs\\screenshots\\is_there_cross.png',
                                   'imgs\\templates\\banner_cross.png')
 
