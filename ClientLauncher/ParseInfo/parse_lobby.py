@@ -177,6 +177,9 @@ class ParseLobby:
             try:
                 hwnd = win32gui.GetForegroundWindow()
                 table_text = win32gui.GetWindowText(hwnd)
+
+                print(f'table_text {table_text}')
+
                 if get_pokerstars_version().upper() == 'ES':
                     if '|' in table_text or ', €' in table_text:
                         got_name = True
@@ -193,28 +196,28 @@ class ParseLobby:
             if get_pokerstars_version().upper() == 'ES':
                 if '|' in table_text:
                     tournament_name = table_text.split(' | ')[0]
-                    return self._handle_tournament_name(tournament_name)
+                    return tournament_name
 
                 elif ', €' in table_text:
                     tournament_name = table_text.split(', €')[0]
-                    return self._handle_tournament_name(tournament_name)
+                    return tournament_name
 
                 else:
                     return 'False'
             else:
-                splited_header = re.split(r', | \$', table_text)
+                splited_header = table_text.split(', $')
                 if len(splited_header) > 2:
                     tournament_name = ', '.join(splited_header[0:-1])
-                    return self._handle_tournament_name(tournament_name)
+                    return tournament_name
 
                 else:
                     tournament_name = table_text.split(', $')[0]
-                    return self._handle_tournament_name(tournament_name)
+                    return tournament_name
 
         else:
             if ' - ' in table_text:
                 tournament_name = table_text.split(' - ')[0]
-                return self._handle_tournament_name(tournament_name)
+                return tournament_name
 
     def _handle_tournament_name(self, tournament_name: str) -> str:
         tournament_name = tournament_name.split(' ')
