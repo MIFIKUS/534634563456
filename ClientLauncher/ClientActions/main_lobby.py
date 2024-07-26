@@ -1,4 +1,5 @@
 from ClientLauncher.MainFunctions.mouse_and_keyboard import Mouse, Keyboard
+from ClientLauncher.MainFunctions.image import Image
 from ClientLauncher.MainFunctions.windows import Windows
 
 from ClientLauncher.ParseInfo.parse_header import GetType
@@ -18,6 +19,7 @@ import json
 mouse = Mouse()
 keyboard = Keyboard()
 windows = Windows()
+image = Image()
 
 parse_header = GetType()
 
@@ -135,3 +137,34 @@ class TournamentActions:
     def _get_tournament_file(self):
         with open('tournaments_data.json') as tournaments_data_json:
             return json.load(tournaments_data_json)
+
+
+class LobbyActions:
+    @staticmethod
+    def reset_wight():
+        def _open_settings():
+            mouse.move_and_click(1570, 240)
+
+        def _choose_reset_checkbox():
+            mouse.move_and_click(870, 617)
+
+        def _apply():
+            mouse.move_and_click(880, 710)
+
+        _open_settings()
+        time.sleep(2)
+
+        _choose_reset_checkbox()
+        _apply()
+
+    @staticmethod
+    def close_banner():
+        def _check_banner() -> bool:
+            image.take_screenshot('imgs\\screenshots\\is_there_cross.png', (1560, 240, 251, 266))
+            return image.matching('imgs\\screenshots\\is_there_cross.png',
+                                  'imgs\\templates\\banner_cross.png')
+
+        if _check_banner():
+            mouse.move_and_click(1570, 250)
+            time.sleep(1)
+

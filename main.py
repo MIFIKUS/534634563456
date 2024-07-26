@@ -1,6 +1,6 @@
 from ClientLauncher.MainFunctions.windows import Windows
 
-from ClientLauncher.ClientActions.main_lobby import TournamentActions
+from ClientLauncher.ClientActions.main_lobby import TournamentActions, LobbyActions
 from ClientLauncher.TablesController.hand_history_controller import TablesControl, InstantHandHistoryController
 
 from ClientLauncher.Google.Sheets.get_statistics import GetStatistics
@@ -157,7 +157,13 @@ def write_deals_per_time():
 
 
 def main():
+    windows.get_main_window()
+
+    LobbyActions.close_banner()
+    LobbyActions.reset_wight()
+
     cleanup_tournaments_data()
+
     logging.debug('Список турниров в файле очищен')
     num = 0
     opened_tables = get_statistics.get_open_tables()
