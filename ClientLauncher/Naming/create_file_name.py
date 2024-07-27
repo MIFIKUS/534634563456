@@ -49,19 +49,6 @@ class CreateFileName:
                 tournament_name = tournament_name.replace(' ', '_')
                 tournament_name = tournament_name.replace(':', '')
 
-                tournament_name_fixed = []
-
-                for i in tournament_name.split('_'):
-                    if i[0] in string.digits:
-                        if get_pokerstars_version().upper() == 'ES':
-                            i = '€' + i
-                        else:
-                            i = '$' + i
-
-                    tournament_name_fixed.append(i)
-
-                tournament_name = '_'.join(tournament_name_fixed)
-
                 file_name += tournament_name
             else:
 
