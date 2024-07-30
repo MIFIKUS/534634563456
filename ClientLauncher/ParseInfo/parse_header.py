@@ -43,6 +43,8 @@ class GetType:
 
     def get_header_info(self, num):
         tournament_id = self._get_tournament_id()
+        if not tournament_id:
+            return False
         game_type = self._get_tourney_game_type(num)
         speed = self._get_tourney_speed(num)
         if not speed:
@@ -53,9 +55,13 @@ class GetType:
 
     def _get_tournament_id(self):
         tournament_id = ''
-        while len(tournament_id) != 10:
-            keyboard.copy()
-            tournament_id = do_without_error(cliboard.clipboard_get)
+
+        for _ in range(3):
+            if len(tournament_id) != 10:
+                keyboard.copy()
+                tournament_id = do_without_error(cliboard.clipboard_get)
+            else:
+                break
         return tournament_id
 
     def _get_tourney_speed(self, num):
