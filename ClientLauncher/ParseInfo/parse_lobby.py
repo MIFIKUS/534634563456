@@ -29,6 +29,8 @@ add_table = AddTable()
 
 clipboard = Tk()
 
+AMOUNT_OF_TRIES_TO_COPY_TABLE = 3
+
 
 class ParseLobby:
     def __init__(self, hwnd, amount_of_opened_tables, tournament_id, file):
@@ -91,7 +93,7 @@ class ParseLobby:
 
         tables = []
 
-        while True:
+        for _ in range(AMOUNT_OF_TRIES_TO_COPY_TABLE):
             skip = False
             time.sleep(2)
             counter += 1

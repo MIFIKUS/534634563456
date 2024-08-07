@@ -13,6 +13,7 @@ else:
 
 class AddTable:
     def add(self, tournament_id: str, table: str):
+        for _ in
         _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
         _connection.autocommit = True
         cursor = _connection.cursor()
