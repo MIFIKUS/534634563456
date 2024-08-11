@@ -13,9 +13,13 @@ from tkinter import Tk
 
 from gspread.exceptions import APIError
 
+from pywinauto.application import Application
+
+import win32gui
+import win32process
+
 import time
 import re
-
 
 mouse = Mouse()
 keyboard = Keyboard()
@@ -23,7 +27,6 @@ windows = Windows()
 image = Image()
 
 clipboard = Tk()
-
 
 while True:
     try:
@@ -85,12 +88,6 @@ class TablesControl:
                 print(f'Ошибка {e}')
 
     def get_closed_table_in_hand_history_menu(self, closed_table):
-        def _reset_hand_history():
-            mouse.move_and_click(1400, 60)
-            keyboard.end()
-            time.sleep(1)
-            mouse.move_and_click(1400, 60)
-
         def _get_table_id_and_table(table_header):
             print(f'table_header {table_header}')
 
@@ -99,57 +96,30 @@ class TablesControl:
 
             return table_id, table_num
 
+        def _get_all_tables_from_check_box(app: Application) -> list:
+            return app.child_window(class_name='ComboBox').texts()
+
+        def _get_necessary_checkbox_text(tables: list or tuple,
+                                         necessary_table: str, necessary_tournament_id: str) -> str:
+            for i in tables:
+                if necessary_table in table_num and necessary_tournament_id == table_id:
+                    return i
+
+        def _select_necessary_table(app: Application, table_name: str):
+            app.child_window(class_name='ComboBox').select(table_name)
+
+        _, instant_hand_history_pid = win32process.GetWindowThreadProcessId(win32gui.GetForegroundWindow())
+        instant_hand_history_window = Application(backend='win32').connect(process=instant_hand_history_pid).InstantHandHistory
+
         table_id, table_num = _get_table_id_and_table(closed_table)
         table_num = table_num.replace(' ', '')
         table_num = table_num.replace('\n', '')
         table_num = 'Table' + table_num
-        
-        _reset_hand_history()
 
-        table_names = []
+        available_tables = _get_all_tables_from_check_box(instant_hand_history_window)
+        table_text = _get_necessary_checkbox_text(available_tables, table_num, table_id)
 
-        found = False
-        while True:
-            print(f'Поиск {table_id} Стол {table_num}')
-            time.sleep(0.5)
-            not_found = False
-            try:
-                image.take_screenshot('imgs\\screenshots\\instant_hand_history\\table_name.png', (5, 43, 670, 68))
-                time.sleep(0.5)
-            except Exception as e:
-                print(e)
-                _reset_hand_history()
-                continue
-            table_name = image.image_to_string('imgs\\screenshots\\instant_hand_history\\table_name.png', False)
-            print(f'table_name {table_name}')
-                
-            if 'all' in table_name.lower():
-                return False
-
-            table_name = table_name.replace(' ', '')
-            table_name = table_name.replace('\n', '')
-            table_name = table_name.replace('.', '')
-            table_name = table_name.replace(',', '')
-                    
-            try:
-                table_name_for_seat = 'Table' + re.search(r'Table(.*)', table_name).group(1)
-                    
-            except AttributeError:
-                print('Не удалось получить название стола')
-                return False
-            print(f'ID: {table_id} TABLE: {table_name_for_seat}')
-            if table_id in table_name and table_num == table_name_for_seat:
-                break
-            if table_name in table_names:
-                continue
-            table_names.append(table_name)
-
-            if not_found:
-                return False
-            if found:
-                break
-
-            keyboard.arrow_up()
+        _select_necessary_table(table_text)
 
     def get_table_deal(self):
         mouse.move_and_click(900, 120)
