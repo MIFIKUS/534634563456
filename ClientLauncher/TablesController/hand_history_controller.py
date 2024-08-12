@@ -102,7 +102,9 @@ class TablesControl:
         def _get_necessary_checkbox_text(tables: list or tuple,
                                          necessary_table: str, necessary_tournament_id: str) -> str:
             for i in tables:
-                if necessary_table in table_num and necessary_tournament_id == table_id:
+                table_id = i.split(' ')[0].replace('T', '')
+                table_num = i.split(' ')[- 1]
+                if necessary_table == table_num and necessary_tournament_id == table_id:
                     return i
 
         def _select_necessary_table(app: Application, table_name: str):
@@ -114,12 +116,14 @@ class TablesControl:
         table_id, table_num = _get_table_id_and_table(closed_table)
         table_num = table_num.replace(' ', '')
         table_num = table_num.replace('\n', '')
-        table_num = 'Table' + table_num
 
         available_tables = _get_all_tables_from_check_box(instant_hand_history_window)
         table_text = _get_necessary_checkbox_text(available_tables, table_num, table_id)
 
-        _select_necessary_table(table_text)
+        if table_text:
+            _select_necessary_table(instant_hand_history_window, table_text)
+        else:
+            return False
 
     def get_table_deal(self):
         mouse.move_and_click(900, 120)
