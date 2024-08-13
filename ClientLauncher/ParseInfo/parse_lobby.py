@@ -93,7 +93,7 @@ class ParseLobby:
 
         tables = []
 
-        for _ in range(AMOUNT_OF_TRIES_TO_COPY_TABLE):
+        while True:
             skip = False
             time.sleep(2)
             counter += 1
