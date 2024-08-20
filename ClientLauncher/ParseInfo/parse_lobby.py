@@ -103,9 +103,11 @@ class ParseLobby:
                 print(f'Открыто столов: {self._amount_of_opened_tables + len(availible_tables)}')
                 return availible_tables, tournament_name, gtd
 
-            for _ in range(2):
+            table_num = '123123123'
+
+            while len(table_num) > 3:
                 keyboard.copy()
-            table_num = do_without_error(clipboard.clipboard_get)
+                table_num = do_without_error(clipboard.clipboard_get)
 
             if table_num in tables:
                 return availible_tables, tournament_name, gtd
