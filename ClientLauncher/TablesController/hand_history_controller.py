@@ -104,11 +104,19 @@ class TablesControl:
             for i in tables:
                 table_id = i.split(' ')[0].replace('T', '')
                 table_num = i.split(' ')[- 1]
+                print(f'Проверка подходит ли {table_id} {table_num}')
                 if necessary_table == table_num and necessary_tournament_id == table_id:
+                    print(f'Подходит {table_id} {table_num}')
                     return i
+            print('Не найдено нужного стола')
 
         def _select_necessary_table(app: Application, table_name: str):
-            app.child_window(class_name='ComboBox').select(table_name)
+            try:
+                print(f'Попытка выбрать стол {table_name}')
+                app.child_window(class_name='ComboBox').select(table_name)
+                print('Удалось выбрать стол')
+            except Exception:
+                print('Не удалось выбрать стол')
 
         _, instant_hand_history_pid = win32process.GetWindowThreadProcessId(win32gui.GetForegroundWindow())
         instant_hand_history_window = Application(backend='win32').connect(process=instant_hand_history_pid).InstantHandHistory
@@ -117,8 +125,12 @@ class TablesControl:
         table_num = table_num.replace(' ', '')
         table_num = table_num.replace('\n', '')
 
+        print(f'Стол который нужно найти {table_id} {table_num}')
+
         available_tables = _get_all_tables_from_check_box(instant_hand_history_window)
         table_text = _get_necessary_checkbox_text(available_tables, table_num, table_id)
+
+        print(f'table_text {table_text} type {type(table_text)}')
 
         if table_text:
             _select_necessary_table(instant_hand_history_window, table_text)
