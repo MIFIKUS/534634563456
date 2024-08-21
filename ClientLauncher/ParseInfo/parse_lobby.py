@@ -189,7 +189,7 @@ class ParseLobby:
                         got_name = True
                         break
                 else:
-                    re.search(r'^(.*), \$(.*)K', table_text).group(1)
+                    re.search(r'^(.*), \$(.*)Gtd', table_text).group(1)
 
                     got_name = True
                     break
