@@ -13,6 +13,9 @@ else:
 
 class AddTable:
     def add(self, tournament_id: str, table: str):
+        if not table or not tournament_id:
+            print(f'Нету айди турнира или номера стола чтобы добавить его в бд tournament_id {tournament_id} table {table}')
+            return
         _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
         _connection.autocommit = True
         cursor = _connection.cursor()
