@@ -184,13 +184,7 @@ class ParseLobby:
 
                 print(f'table_text {table_text}')
 
-                if get_pokerstars_version().upper() == 'ES':
-                    if '|' in table_text or ', €' in table_text:
-                        got_name = True
-                        break
-                else:
-                    re.search(r'^(.*), \$(.*)Gtd', table_text).group(1)
-
+                if 'ante' in table_text:
                     got_name = True
                     break
             except:
