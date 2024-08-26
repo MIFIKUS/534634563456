@@ -62,6 +62,8 @@ class GetType:
                 tournament_id = do_without_error(cliboard.clipboard_get)
             else:
                 break
+        if len(tournament_id) != 10:
+            return False
         return tournament_id
 
     def _get_tourney_speed(self, num):
