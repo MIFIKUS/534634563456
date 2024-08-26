@@ -49,9 +49,13 @@ deals_and_files = DealsAndFiles()
 class InstantHandHistoryController:
     def open_instant_hand_history_menu(self):
         keyboard.ctrl_i()
-        time.sleep(4)
-        hwnd = windows.get_hwnd_by_name('Instant Hand History')
-        windows.open_fullscreen_window_by_hwnd(hwnd)
+        while True:
+            try:
+                hwnd = windows.get_hwnd_by_name('Instant Hand History')
+                windows.open_fullscreen_window_by_hwnd(hwnd)
+                break
+            except:
+                pass
 
 
 class TablesControl:
