@@ -51,6 +51,7 @@ class AddInfo:
                 speed = data['speed']
                 print(f'speed {speed}')
                 tournament_type = data['type']
+                tournament_type = tournament_type.replace('False', '')
                 print(f'tournament_type {tournament_type}')
                 archive_name = data['archive_name']
                 print(f'archive_name {archive_name}')
@@ -123,6 +124,8 @@ class AddInfo:
             gtd = gtd.replace(' ', '')
             gtd = gtd.replace(',', '')
 
+            tournament_type = tournament_type.replace('False', '')
+
             query = f"INSERT INTO {database_name}.tables (tournament_id, name, gtd, buy_in, total_buy_in, table_size, speed, " \
                     "tournament_type, file_name, hands, create_date, script_name, table_num)" \
                     f"(VALUES ({tournament_id}, {name}, {gtd}, {buy_in}, {total_buy_in}, {table_size}, {speed}, {tournament_type}," \
@@ -158,6 +161,8 @@ class AddInfo:
                 file_name = data['file_name']
                 script_name = data['script_name']
                 hands = data['hands']
+
+                tournament_type = tournament_type.replace('False', '')
 
                 gtd = gtd.replace(' ', '')
                 gtd = gtd.replace(',', '')
