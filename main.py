@@ -98,14 +98,14 @@ def get_closed_tables_file():
 
 def change_closed_tables(table_id):
     tables = get_closed_tables_file()
-    a = ''
+    a = []
     for i in tables:
         if table_id in i:
             continue
-        a += i
+        a.append(i)
 
     with open('closed_tables.txt', 'w') as closed_tables_txt:
-        closed_tables_txt.write(a)
+        closed_tables_txt.write('\n'.join(a))
 
 
 def write_deals_in_file(deals, tournament_id, table_num):
