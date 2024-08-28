@@ -105,7 +105,10 @@ class ParseLobby:
 
             table_num = '123123123'
 
+            counter_table_num = 0
             while len(table_num) > 3:
+                if counter_table_num > 15:
+                    return availible_tables, tournament_name, gtd
                 keyboard.copy()
                 table_num = do_without_error(clipboard.clipboard_get)
 
