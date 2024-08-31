@@ -165,8 +165,8 @@ class ParseLobby:
                     fails += 1
                     print(f'Не удалось получить название стола, пробуем еще раз\nОшибка {e}')
 
-            gtd = self._get_lobby_gtd()
-
+            #gtd = self._get_lobby_gtd()
+            #print(f'gtd получен {gtd}')
             time.sleep(2)
             mouse.move_and_click(250, 50)
             time.sleep(1)
@@ -188,6 +188,7 @@ class ParseLobby:
                 print(f'table_text {table_text}')
 
                 if 'ante' in table_text:
+                    print('table_text получен')
                     got_name = True
                     break
             except:
@@ -207,6 +208,7 @@ class ParseLobby:
                     return 'False'
             else:
                 splited_header = table_text.split(', $')
+                print(f'splited_header {splited_header}')
                 if len(splited_header) > 2:
                     tournament_name = ', '.join(splited_header[0:-1])
                     return tournament_name
