@@ -164,7 +164,7 @@ class LobbyActions:
             return image.matching('imgs\\screenshots\\is_there_cross.png',
                                   'imgs\\templates\\banner_cross.png')
 
-        if _check_banner():
-            mouse.move_and_click(1570, 250)
-            time.sleep(1)
+
+        mouse.move_and_click(1575, 225)
+        time.sleep(1)
 
