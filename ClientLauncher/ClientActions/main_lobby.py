@@ -172,7 +172,6 @@ class LobbyActions:
             return image.matching('imgs\\screenshots\\is_there_cross.png',
                                   'imgs\\templates\\banner_cross.png')
 
-
-        mouse.move_and_click(1575, 225)
+        mouse.move_and_click(1575, 251)
         time.sleep(1)
 
