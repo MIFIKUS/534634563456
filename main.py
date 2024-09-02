@@ -159,7 +159,6 @@ def write_deals_per_time():
 def main():
     windows.get_main_window()
 
-    LobbyActions.close_banner()
     LobbyActions.reset_wight()
 
     cleanup_tournaments_data()
@@ -170,6 +169,7 @@ def main():
     logging.debug(f'На данный момент открыто {opened_tables} столов')
 
     while True:
+        LobbyActions.close_banner()
         try:
             logging.debug('Задержка 30 секунд')
             time.sleep(30)
