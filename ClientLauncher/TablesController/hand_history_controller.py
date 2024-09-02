@@ -53,6 +53,7 @@ class InstantHandHistoryController:
             try:
                 hwnd = windows.get_hwnd_by_name('Instant Hand History')
                 windows.open_fullscreen_window_by_hwnd(hwnd)
+                print(f'Instant Hand History открыт')
                 break
             except:
                 pass

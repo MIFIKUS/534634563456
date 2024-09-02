@@ -107,8 +107,10 @@ class ParseLobby:
 
             counter_table_num = 0
             while len(table_num) > 3:
+                print('Длина номера стола превышает 3. Пробуем получить еще раз')
                 counter_table_num += 1
                 if counter_table_num > 15:
+                    print('Не удалось получить номер стола')
                     return availible_tables, tournament_name, gtd
                 keyboard.copy()
                 table_num = do_without_error(clipboard.clipboard_get)

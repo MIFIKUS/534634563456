@@ -63,7 +63,10 @@ class GetType:
             else:
                 break
         if len(tournament_id) != 10:
+            print('Не удалось получить ID турнира')
             return False
+
+        print(f'ID турнира {tournament_id}')
         return tournament_id
 
     def _get_tourney_speed(self, num):
@@ -80,6 +83,7 @@ class GetType:
 
         for i in self._list_of_speeds:
             if image.matching('imgs\\screenshots\\speed\\tourney_speed.png', path_to_speed_templates+i):
+                print(f'Скорость турнира {SPEED_LIST.get(i)}')
                 return SPEED_LIST.get(i)
 
     def _get_tourney_game_type(self, num):
@@ -98,12 +102,15 @@ class GetType:
                                                                                                                        471, 263 + (num * 26)))
 
             if image.matching('imgs\\screenshots\\knockouts\\game_type_color.png', 'imgs\\templates\\knockouts\\progressive.png'):
+                print('Тип турнира KO')
                 return 'KO'
 
         else:
             if image.matching('imgs\\screenshots\\knockouts\\game_type.png', 'imgs\\templates\\knockouts\\mystery.png'):
+                print('Тип турнира MYSTERY')
                 return 'MYSTERY'
 
+        print('Тип турнира FREEZE')
         return 'FREEZE'
 
     def _get_tourney_players_amount(self, num):
@@ -115,6 +122,7 @@ class GetType:
             color_min = color_list.get('low')
             color_max = color_list.get('high')
             if color_min[0] <= color[0] <= color_max[0] and color_min[1] <= color[1] <= color_max[1] and color_min[2] <= color[2] <= color_max[2]:
+                print(f'Количество игроков {amount}')
                 return amount
         return False
 
@@ -152,5 +160,6 @@ class GetType:
             if '€' not in buy_in:
                 buy_in = '€' + buy_in
 
+        print(f'Бай ин {buy_in}')
         return buy_in
 

@@ -52,7 +52,7 @@ class TournamentActions:
         num -= 1
         if not num or num <= 0:
             num = 0
-
+        print(f'Попытка открыть турнир №{num}')
         y_counter = 26 * num
         mouse.move_and_click(900, 70)
         main_hwnd = win32gui.GetForegroundWindow()
@@ -60,6 +60,7 @@ class TournamentActions:
 
         for _ in range(20):
             amount_of_opened_tables = windows.get_amount_of_opened_tables()
+            print(f'Количество открытых столов {amount_of_opened_tables}')
             write_stats.set_opened_tables(amount_of_opened_tables)
 
             if amount_of_opened_tables == 21:
@@ -67,20 +68,23 @@ class TournamentActions:
 
             mouse.move_and_click(self._tournament_x, self._tournament_y + y_counter)
             tournament_info = parse_header.get_header_info(num)
+            print(f'Информация из хедера {tournament_info}')
             if tournament_info is False:
                 print('Просмотрены все доступные турниры')
                 return 0
 
-            print(f'tournament_info {tournament_info}')
             file = self._get_tournament_file()
             print(f'file {file}')
 
             self._write_tournament_info(tournament_info)
 
+            print('Турнир открывается')
             self._open_tournament()
             time.sleep(3)
 
             tournament_hwnd = self._get_tournament_hwnd()
+            print(f'HWND лобби турнира {tournament_hwnd}')
+
             windows.open_fullscreen_window_by_hwnd(tournament_hwnd)
             time.sleep(3)
 
@@ -88,10 +92,14 @@ class TournamentActions:
 
             lobby_info = lobby.get_lobby_info()
 
+            print(f'Lobby Info {lobby_info}')
+
             tournament_info_for_cycle = self._get_tournament_info(str(''.join(tournament_info.keys())))
             tournament_info_for_cycle.update({'tournament_id': str(''.join(tournament_info.keys()))})
 
             availble_tables = lobby_info.get('availible_tables')
+
+            print(f'Список откртытых столов в этом турнире {availble_tables}')
 
             for table in availble_tables:
                 filename = file_name.get_file_name(tournament_info_for_cycle, table)
