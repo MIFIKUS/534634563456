@@ -233,10 +233,10 @@ def main():
                 write_statistics.set_status(WAITING)
                 print('Задан статус ожидания открытых столов')
 
-        except Exception as e:
+        except Exception:
             write_statistics.set_status(BREAK)
             print('Задан статус сломался')
-            logging.error('Ошибка в боте', exc_info=True)
+            traceback.print_exc()
             return
 
 
