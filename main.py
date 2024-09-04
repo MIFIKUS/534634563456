@@ -105,7 +105,7 @@ def change_closed_tables(table_id):
         if table_id in i:
             continue
         a.append(i)
-
+    a.append('\n')
     with open('closed_tables.txt', 'w') as closed_tables_txt:
         closed_tables_txt.write('\n'.join(a))
 
