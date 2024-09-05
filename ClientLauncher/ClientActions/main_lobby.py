@@ -110,11 +110,10 @@ class TournamentActions:
         windows.open_fullscreen_window_by_hwnd(main_hwnd)
 
         y_counter += 26
-        num += 1
+        num += 2
 
         amount_of_opened_tables = windows.get_amount_of_opened_tables()
         print(f'amount of tables {amount_of_opened_tables}')
-
 
         return num
 
