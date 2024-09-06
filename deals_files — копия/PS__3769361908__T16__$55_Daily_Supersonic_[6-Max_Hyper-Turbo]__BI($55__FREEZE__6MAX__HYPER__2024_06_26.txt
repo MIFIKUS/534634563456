@@ -1,0 +1,1775 @@
+PokerStars Hand #251209421633: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/26 22:24:48 UTC [2024/06/26 18:24:48 ET]
+Table '3769361908 16' 6-max Seat #4 is the button
+Seat 1: fofAAoBR (24308 in chips) 
+Seat 2: SAS_IDS0804 (9940 in chips) 
+Seat 3: JonzStars (4132 in chips) 
+Seat 4: MagoDelBaralho (8756 in chips) 
+Seat 5: VICTOR TXR1 (9617 in chips) 
+Seat 6: XxJoaoFeraxX (11346 in chips) 
+fofAAoBR: posts the ante 60
+SAS_IDS0804: posts the ante 60
+JonzStars: posts the ante 60
+MagoDelBaralho: posts the ante 60
+VICTOR TXR1: posts the ante 60
+XxJoaoFeraxX: posts the ante 60
+VICTOR TXR1: posts small blind 125
+XxJoaoFeraxX: posts big blind 250
+*** HOLE CARDS ***
+fofAAoBR: folds 
+SAS_IDS0804: folds 
+JonzStars: raises 250 to 500
+MagoDelBaralho: folds 
+VICTOR TXR1: folds 
+XxJoaoFeraxX: folds 
+Uncalled bet (250) returned to JonzStars
+JonzStars collected 985 from pot
+*** SUMMARY ***
+Total pot 985 | Rake 0 
+Seat 1: fofAAoBR folded before Flop (didn't bet)
+Seat 2: SAS_IDS0804 folded before Flop (didn't bet)
+Seat 3: JonzStars collected (985)
+Seat 4: MagoDelBaralho (button) folded before Flop (didn't bet)
+Seat 5: VICTOR TXR1 (small blind) folded before Flop
+Seat 6: XxJoaoFeraxX (big blind) folded before Flop
+
+PokerStars Hand #251209428726: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/26 22:25:14 UTC [2024/06/26 18:25:14 ET]
+Table '3769361908 16' 6-max Seat #5 is the button
+Seat 1: fofAAoBR (24248 in chips) 
+Seat 2: SAS_IDS0804 (9880 in chips) 
+Seat 3: JonzStars (4807 in chips) 
+Seat 4: MagoDelBaralho (8696 in chips) 
+Seat 5: VICTOR TXR1 (9432 in chips) 
+Seat 6: XxJoaoFeraxX (11036 in chips) 
+fofAAoBR: posts the ante 60
+SAS_IDS0804: posts the ante 60
+JonzStars: posts the ante 60
+MagoDelBaralho: posts the ante 60
+VICTOR TXR1: posts the ante 60
+XxJoaoFeraxX: posts the ante 60
+XxJoaoFeraxX: posts small blind 125
+fofAAoBR: posts big blind 250
+*** HOLE CARDS ***
+SAS_IDS0804: folds 
+JonzStars: folds 
+MagoDelBaralho: folds 
+VICTOR TXR1: folds 
+XxJoaoFeraxX: calls 125
+fofAAoBR: raises 750 to 1000
+XxJoaoFeraxX: folds 
+Uncalled bet (750) returned to fofAAoBR
+fofAAoBR collected 860 from pot
+fofAAoBR: doesn't show hand 
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Seat 1: fofAAoBR (big blind) collected (860)
+Seat 2: SAS_IDS0804 folded before Flop (didn't bet)
+Seat 3: JonzStars folded before Flop (didn't bet)
+Seat 4: MagoDelBaralho folded before Flop (didn't bet)
+Seat 5: VICTOR TXR1 (button) folded before Flop (didn't bet)
+Seat 6: XxJoaoFeraxX (small blind) folded before Flop
+
+PokerStars Hand #251209440366: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/26 22:25:56 UTC [2024/06/26 18:25:56 ET]
+Table '3769361908 16' 6-max Seat #6 is the button
+Seat 1: fofAAoBR (24798 in chips) 
+Seat 2: SAS_IDS0804 (9820 in chips) 
+Seat 3: JonzStars (4747 in chips) 
+Seat 4: MagoDelBaralho (8636 in chips) 
+Seat 5: VICTOR TXR1 (9372 in chips) 
+Seat 6: XxJoaoFeraxX (10726 in chips) 
+fofAAoBR: posts the ante 60
+SAS_IDS0804: posts the ante 60
+JonzStars: posts the ante 60
+MagoDelBaralho: posts the ante 60
+VICTOR TXR1: posts the ante 60
+XxJoaoFeraxX: posts the ante 60
+fofAAoBR: posts small blind 125
+SAS_IDS0804: posts big blind 250
+*** HOLE CARDS ***
+JonzStars: folds 
+MagoDelBaralho: folds 
+VICTOR TXR1: folds 
+XxJoaoFeraxX: raises 250 to 500
+fofAAoBR: calls 375
+SAS_IDS0804: calls 250
+*** FLOP *** [2d Jd Qd]
+fofAAoBR: checks 
+SAS_IDS0804: checks 
+XxJoaoFeraxX: checks 
+*** TURN *** [2d Jd Qd] [Tc]
+fofAAoBR: checks 
+SAS_IDS0804: checks 
+XxJoaoFeraxX: checks 
+*** RIVER *** [2d Jd Qd Tc] [Th]
+fofAAoBR: checks 
+SAS_IDS0804: checks 
+XxJoaoFeraxX: bets 614
+fofAAoBR: folds 
+SAS_IDS0804: folds 
+Uncalled bet (614) returned to XxJoaoFeraxX
+XxJoaoFeraxX collected 1860 from pot
+XxJoaoFeraxX: doesn't show hand 
+*** SUMMARY ***
+Total pot 1860 | Rake 0 
+Board [2d Jd Qd Tc Th]
+Seat 1: fofAAoBR (small blind) folded on the River
+Seat 2: SAS_IDS0804 (big blind) folded on the River
+Seat 3: JonzStars folded before Flop (didn't bet)
+Seat 4: MagoDelBaralho folded before Flop (didn't bet)
+Seat 5: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 6: XxJoaoFeraxX (button) collected (1860)
+
+PokerStars Hand #251209470341: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:27:44 UTC [2024/06/26 18:27:44 ET]
+Table '3769361908 16' 6-max Seat #1 is the button
+Seat 1: fofAAoBR (24238 in chips) 
+Seat 2: SAS_IDS0804 (9260 in chips) 
+Seat 3: JonzStars (4687 in chips) 
+Seat 4: MagoDelBaralho (8576 in chips) 
+Seat 5: VICTOR TXR1 (9312 in chips) 
+Seat 6: XxJoaoFeraxX (12026 in chips) 
+fofAAoBR: posts the ante 75
+SAS_IDS0804: posts the ante 75
+JonzStars: posts the ante 75
+MagoDelBaralho: posts the ante 75
+VICTOR TXR1: posts the ante 75
+XxJoaoFeraxX: posts the ante 75
+SAS_IDS0804: posts small blind 150
+JonzStars: posts big blind 300
+*** HOLE CARDS ***
+MagoDelBaralho: folds 
+VICTOR TXR1: raises 348 to 648
+XxJoaoFeraxX: folds 
+fofAAoBR: calls 648
+SAS_IDS0804: folds 
+JonzStars: folds 
+*** FLOP *** [9h Ks 3s]
+VICTOR TXR1: checks 
+fofAAoBR: checks 
+*** TURN *** [9h Ks 3s] [7c]
+VICTOR TXR1: bets 1500
+fofAAoBR: calls 1500
+*** RIVER *** [9h Ks 3s 7c] [5d]
+VICTOR TXR1: checks 
+fofAAoBR: checks 
+*** SHOW DOWN ***
+VICTOR TXR1: shows [Ah 5h] (a pair of Fives)
+fofAAoBR: shows [Jh Jd] (a pair of Jacks)
+fofAAoBR collected 5196 from pot
+*** SUMMARY ***
+Total pot 5196 | Rake 0 
+Board [9h Ks 3s 7c 5d]
+Seat 1: fofAAoBR (button) showed [Jh Jd] and won (5196) with a pair of Jacks
+Seat 2: SAS_IDS0804 (small blind) folded before Flop
+Seat 3: JonzStars (big blind) folded before Flop
+Seat 4: MagoDelBaralho folded before Flop (didn't bet)
+Seat 5: VICTOR TXR1 showed [Ah 5h] and lost with a pair of Fives
+Seat 6: XxJoaoFeraxX folded before Flop (didn't bet)
+
+PokerStars Hand #251209485644: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:28:38 UTC [2024/06/26 18:28:38 ET]
+Table '3769361908 16' 6-max Seat #2 is the button
+Seat 1: fofAAoBR (27211 in chips) 
+Seat 2: SAS_IDS0804 (9035 in chips) 
+Seat 3: JonzStars (4312 in chips) 
+Seat 4: MagoDelBaralho (8501 in chips) 
+Seat 5: VICTOR TXR1 (7089 in chips) 
+Seat 6: XxJoaoFeraxX (11951 in chips) 
+fofAAoBR: posts the ante 75
+SAS_IDS0804: posts the ante 75
+JonzStars: posts the ante 75
+MagoDelBaralho: posts the ante 75
+VICTOR TXR1: posts the ante 75
+XxJoaoFeraxX: posts the ante 75
+JonzStars: posts small blind 150
+MagoDelBaralho: posts big blind 300
+*** HOLE CARDS ***
+VICTOR TXR1: folds 
+XxJoaoFeraxX: folds 
+fofAAoBR: raises 300 to 600
+SAS_IDS0804: folds 
+JonzStars: raises 3637 to 4237 and is all-in
+MagoDelBaralho: folds 
+fofAAoBR: folds 
+Uncalled bet (3637) returned to JonzStars
+JonzStars collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | Rake 0 
+Seat 1: fofAAoBR folded before Flop
+Seat 2: SAS_IDS0804 (button) folded before Flop (didn't bet)
+Seat 3: JonzStars (small blind) collected (1950)
+Seat 4: MagoDelBaralho (big blind) folded before Flop
+Seat 5: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 6: XxJoaoFeraxX folded before Flop (didn't bet)
+
+PokerStars Hand #251209492386: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:29:03 UTC [2024/06/26 18:29:03 ET]
+Table '3769361908 16' 6-max Seat #3 is the button
+Seat 1: fofAAoBR (26536 in chips) 
+Seat 2: SAS_IDS0804 (8960 in chips) 
+Seat 3: JonzStars (5587 in chips) 
+Seat 4: MagoDelBaralho (8126 in chips) 
+Seat 6: XxJoaoFeraxX (11876 in chips) 
+fofAAoBR: posts the ante 75
+SAS_IDS0804: posts the ante 75
+JonzStars: posts the ante 75
+MagoDelBaralho: posts the ante 75
+XxJoaoFeraxX: posts the ante 75
+MagoDelBaralho: posts small blind 150
+XxJoaoFeraxX: posts big blind 300
+*** HOLE CARDS ***
+fofAAoBR: folds 
+SAS_IDS0804: folds 
+JonzStars: folds 
+MagoDelBaralho: folds 
+Uncalled bet (150) returned to XxJoaoFeraxX
+XxJoaoFeraxX collected 675 from pot
+XxJoaoFeraxX: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: fofAAoBR folded before Flop (didn't bet)
+Seat 2: SAS_IDS0804 folded before Flop (didn't bet)
+Seat 3: JonzStars (button) folded before Flop (didn't bet)
+Seat 4: MagoDelBaralho (small blind) folded before Flop
+Seat 6: XxJoaoFeraxX (big blind) collected (675)
+
+PokerStars Hand #251209502783: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:29:40 UTC [2024/06/26 18:29:40 ET]
+Table '3769361908 16' 6-max Seat #4 is the button
+Seat 1: fofAAoBR (26461 in chips) 
+Seat 2: SAS_IDS0804 (8885 in chips) 
+Seat 3: JonzStars (5512 in chips) 
+Seat 4: MagoDelBaralho (7901 in chips) 
+Seat 6: XxJoaoFeraxX (12326 in chips) 
+fofAAoBR: posts the ante 100
+SAS_IDS0804: posts the ante 100
+JonzStars: posts the ante 100
+MagoDelBaralho: posts the ante 100
+XxJoaoFeraxX: posts the ante 100
+XxJoaoFeraxX: posts small blind 200
+fofAAoBR: posts big blind 400
+*** HOLE CARDS ***
+SAS_IDS0804: folds 
+JonzStars: folds 
+MagoDelBaralho: folds 
+XxJoaoFeraxX: calls 200
+fofAAoBR: checks 
+*** FLOP *** [5h Tc Ad]
+XxJoaoFeraxX: checks 
+fofAAoBR: bets 400
+XxJoaoFeraxX: calls 400
+*** TURN *** [5h Tc Ad] [2d]
+XxJoaoFeraxX: checks 
+fofAAoBR: bets 1470
+XxJoaoFeraxX: folds 
+Uncalled bet (1470) returned to fofAAoBR
+fofAAoBR collected 2100 from pot
+fofAAoBR: doesn't show hand 
+*** SUMMARY ***
+Total pot 2100 | Rake 0 
+Board [5h Tc Ad 2d]
+Seat 1: fofAAoBR (big blind) collected (2100)
+Seat 2: SAS_IDS0804 folded before Flop (didn't bet)
+Seat 3: JonzStars folded before Flop (didn't bet)
+Seat 4: MagoDelBaralho (button) folded before Flop (didn't bet)
+Seat 6: XxJoaoFeraxX (small blind) folded on the Turn
+
+PokerStars Hand #251209516322: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:30:28 UTC [2024/06/26 18:30:28 ET]
+Table '3769361908 16' 6-max Seat #6 is the button
+Seat 1: fofAAoBR (27661 in chips) 
+Seat 2: SAS_IDS0804 (8785 in chips) 
+Seat 3: JonzStars (5412 in chips) 
+Seat 4: MagoDelBaralho (7801 in chips) 
+Seat 6: XxJoaoFeraxX (11426 in chips) 
+fofAAoBR: posts the ante 100
+SAS_IDS0804: posts the ante 100
+JonzStars: posts the ante 100
+MagoDelBaralho: posts the ante 100
+XxJoaoFeraxX: posts the ante 100
+fofAAoBR: posts small blind 200
+SAS_IDS0804: posts big blind 400
+*** HOLE CARDS ***
+JonzStars: folds 
+MagoDelBaralho: folds 
+XxJoaoFeraxX: raises 400 to 800
+fofAAoBR: folds 
+SAS_IDS0804: calls 400
+*** FLOP *** [5s Qh 3s]
+SAS_IDS0804: checks 
+XxJoaoFeraxX: checks 
+*** TURN *** [5s Qh 3s] [As]
+SAS_IDS0804: checks 
+XxJoaoFeraxX: checks 
+*** RIVER *** [5s Qh 3s As] [2d]
+SAS_IDS0804: bets 7885 and is all-in
+XxJoaoFeraxX: folds 
+Uncalled bet (7885) returned to SAS_IDS0804
+SAS_IDS0804 collected 2300 from pot
+SAS_IDS0804: doesn't show hand 
+*** SUMMARY ***
+Total pot 2300 | Rake 0 
+Board [5s Qh 3s As 2d]
+Seat 1: fofAAoBR (small blind) folded before Flop
+Seat 2: SAS_IDS0804 (big blind) collected (2300)
+Seat 3: JonzStars folded before Flop (didn't bet)
+Seat 4: MagoDelBaralho folded before Flop (didn't bet)
+Seat 6: XxJoaoFeraxX (button) folded on the River
+
+PokerStars Hand #251209539009: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:31:51 UTC [2024/06/26 18:31:51 ET]
+Table '3769361908 16' 6-max Seat #1 is the button
+Seat 1: fofAAoBR (27361 in chips) 
+Seat 2: SAS_IDS0804 (10185 in chips) 
+Seat 3: JonzStars (5312 in chips) 
+Seat 4: MagoDelBaralho (7701 in chips) 
+Seat 5: mila is best (10000 in chips) 
+Seat 6: XxJoaoFeraxX (10526 in chips) 
+fofAAoBR: posts the ante 100
+SAS_IDS0804: posts the ante 100
+JonzStars: posts the ante 100
+MagoDelBaralho: posts the ante 100
+mila is best: posts the ante 100
+XxJoaoFeraxX: posts the ante 100
+SAS_IDS0804: posts small blind 200
+JonzStars: posts big blind 400
+*** HOLE CARDS ***
+MagoDelBaralho: folds 
+mila is best: raises 400 to 800
+XxJoaoFeraxX: folds 
+fofAAoBR: calls 800
+SAS_IDS0804: folds 
+JonzStars: calls 400
+*** FLOP *** [Ad Td 5d]
+JonzStars: checks 
+mila is best: checks 
+fofAAoBR: checks 
+*** TURN *** [Ad Td 5d] [Jc]
+JonzStars: checks 
+mila is best: checks 
+fofAAoBR: checks 
+*** RIVER *** [Ad Td 5d Jc] [Kh]
+JonzStars: checks 
+mila is best: checks 
+fofAAoBR: checks 
+*** SHOW DOWN ***
+JonzStars: shows [7d Th] (a pair of Tens)
+mila is best: shows [Ts 8s] (a pair of Tens)
+fofAAoBR: mucks hand 
+JonzStars collected 1600 from pot
+mila is best collected 1600 from pot
+*** SUMMARY ***
+Total pot 3200 | Rake 0 
+Board [Ad Td 5d Jc Kh]
+Seat 1: fofAAoBR (button) mucked
+Seat 2: SAS_IDS0804 (small blind) folded before Flop
+Seat 3: JonzStars (big blind) showed [7d Th] and won (1600) with a pair of Tens
+Seat 4: MagoDelBaralho folded before Flop (didn't bet)
+Seat 5: mila is best showed [Ts 8s] and won (1600) with a pair of Tens
+Seat 6: XxJoaoFeraxX folded before Flop (didn't bet)
+
+PokerStars Hand #251209556302: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:32:55 UTC [2024/06/26 18:32:55 ET]
+Table '3769361908 16' 6-max Seat #2 is the button
+Seat 1: fofAAoBR (26461 in chips) 
+Seat 2: SAS_IDS0804 (9885 in chips) 
+Seat 3: JonzStars (6012 in chips) 
+Seat 4: MagoDelBaralho (7601 in chips) 
+Seat 5: mila is best (10700 in chips) 
+Seat 6: XxJoaoFeraxX (10426 in chips) 
+fofAAoBR: posts the ante 125
+SAS_IDS0804: posts the ante 125
+JonzStars: posts the ante 125
+MagoDelBaralho: posts the ante 125
+mila is best: posts the ante 125
+XxJoaoFeraxX: posts the ante 125
+JonzStars: posts small blind 250
+MagoDelBaralho: posts big blind 500
+*** HOLE CARDS ***
+mila is best: folds 
+XxJoaoFeraxX: raises 500 to 1000
+fofAAoBR: folds 
+SAS_IDS0804: folds 
+JonzStars: folds 
+MagoDelBaralho: raises 6476 to 7476 and is all-in
+XxJoaoFeraxX: folds 
+Uncalled bet (6476) returned to MagoDelBaralho
+MagoDelBaralho collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | Rake 0 
+Seat 1: fofAAoBR folded before Flop (didn't bet)
+Seat 2: SAS_IDS0804 (button) folded before Flop (didn't bet)
+Seat 3: JonzStars (small blind) folded before Flop
+Seat 4: MagoDelBaralho (big blind) collected (3000)
+Seat 5: mila is best folded before Flop (didn't bet)
+Seat 6: XxJoaoFeraxX folded before Flop
+
+PokerStars Hand #251209564298: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:33:24 UTC [2024/06/26 18:33:24 ET]
+Table '3769361908 16' 6-max Seat #3 is the button
+Seat 1: fofAAoBR (26336 in chips) 
+Seat 2: SAS_IDS0804 (9760 in chips) 
+Seat 3: JonzStars (5637 in chips) 
+Seat 4: MagoDelBaralho (9476 in chips) 
+Seat 5: mila is best (10575 in chips) 
+Seat 6: XxJoaoFeraxX (9301 in chips) 
+fofAAoBR: posts the ante 125
+SAS_IDS0804: posts the ante 125
+JonzStars: posts the ante 125
+MagoDelBaralho: posts the ante 125
+mila is best: posts the ante 125
+XxJoaoFeraxX: posts the ante 125
+MagoDelBaralho: posts small blind 250
+mila is best: posts big blind 500
+*** HOLE CARDS ***
+XxJoaoFeraxX: raises 500 to 1000
+fofAAoBR: folds 
+SAS_IDS0804: folds 
+JonzStars: folds 
+MagoDelBaralho: folds 
+mila is best: raises 9450 to 10450 and is all-in
+XxJoaoFeraxX: folds 
+Uncalled bet (9450) returned to mila is best
+mila is best collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | Rake 0 
+Seat 1: fofAAoBR folded before Flop (didn't bet)
+Seat 2: SAS_IDS0804 folded before Flop (didn't bet)
+Seat 3: JonzStars (button) folded before Flop (didn't bet)
+Seat 4: MagoDelBaralho (small blind) folded before Flop
+Seat 5: mila is best (big blind) collected (3000)
+Seat 6: XxJoaoFeraxX folded before Flop
+
+PokerStars Hand #251209574005: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:34:01 UTC [2024/06/26 18:34:01 ET]
+Table '3769361908 16' 6-max Seat #4 is the button
+Seat 1: fofAAoBR (26211 in chips) 
+Seat 2: SAS_IDS0804 (9635 in chips) 
+Seat 3: JonzStars (5512 in chips) 
+Seat 4: MagoDelBaralho (9101 in chips) 
+Seat 5: mila is best (12450 in chips) 
+Seat 6: XxJoaoFeraxX (8176 in chips) 
+fofAAoBR: posts the ante 125
+SAS_IDS0804: posts the ante 125
+JonzStars: posts the ante 125
+MagoDelBaralho: posts the ante 125
+mila is best: posts the ante 125
+XxJoaoFeraxX: posts the ante 125
+mila is best: posts small blind 250
+XxJoaoFeraxX: posts big blind 500
+*** HOLE CARDS ***
+fofAAoBR: raises 500 to 1000
+SAS_IDS0804: folds 
+JonzStars: folds 
+MagoDelBaralho: folds 
+mila is best: folds 
+XxJoaoFeraxX: calls 500
+*** FLOP *** [9s 5s 8h]
+XxJoaoFeraxX: checks 
+fofAAoBR: checks 
+*** TURN *** [9s 5s 8h] [Ah]
+XxJoaoFeraxX: checks 
+fofAAoBR: bets 1500
+XxJoaoFeraxX: calls 1500
+*** RIVER *** [9s 5s 8h Ah] [Ac]
+XxJoaoFeraxX: checks 
+fofAAoBR: checks 
+*** SHOW DOWN ***
+XxJoaoFeraxX: shows [6c As] (three of a kind, Aces)
+fofAAoBR: mucks hand 
+XxJoaoFeraxX collected 6000 from pot
+*** SUMMARY ***
+Total pot 6000 | Rake 0 
+Board [9s 5s 8h Ah Ac]
+Seat 1: fofAAoBR mucked
+Seat 2: SAS_IDS0804 folded before Flop (didn't bet)
+Seat 3: JonzStars folded before Flop (didn't bet)
+Seat 4: MagoDelBaralho (button) folded before Flop (didn't bet)
+Seat 5: mila is best (small blind) folded before Flop
+Seat 6: XxJoaoFeraxX (big blind) showed [6c As] and won (6000) with three of a kind, Aces
+
+PokerStars Hand #251209588098: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:34:53 UTC [2024/06/26 18:34:53 ET]
+Table '3769361908 16' 6-max Seat #5 is the button
+Seat 1: fofAAoBR (23586 in chips) 
+Seat 2: SAS_IDS0804 (9510 in chips) 
+Seat 3: JonzStars (5387 in chips) 
+Seat 4: MagoDelBaralho (8976 in chips) 
+Seat 5: mila is best (12075 in chips) 
+Seat 6: XxJoaoFeraxX (11551 in chips) 
+fofAAoBR: posts the ante 125
+SAS_IDS0804: posts the ante 125
+JonzStars: posts the ante 125
+MagoDelBaralho: posts the ante 125
+mila is best: posts the ante 125
+XxJoaoFeraxX: posts the ante 125
+XxJoaoFeraxX: posts small blind 250
+fofAAoBR: posts big blind 500
+*** HOLE CARDS ***
+SAS_IDS0804: folds 
+JonzStars: raises 4762 to 5262 and is all-in
+MagoDelBaralho: folds 
+mila is best: folds 
+XxJoaoFeraxX: folds 
+fofAAoBR: folds 
+Uncalled bet (4762) returned to JonzStars
+JonzStars collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | Rake 0 
+Seat 1: fofAAoBR (big blind) folded before Flop
+Seat 2: SAS_IDS0804 folded before Flop (didn't bet)
+Seat 3: JonzStars collected (2000)
+Seat 4: MagoDelBaralho folded before Flop (didn't bet)
+Seat 5: mila is best (button) folded before Flop (didn't bet)
+Seat 6: XxJoaoFeraxX (small blind) folded before Flop
+
+PokerStars Hand #251209593806: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:35:14 UTC [2024/06/26 18:35:14 ET]
+Table '3769361908 16' 6-max Seat #6 is the button
+Seat 1: fofAAoBR (22961 in chips) 
+Seat 2: SAS_IDS0804 (9385 in chips) 
+Seat 3: JonzStars (6762 in chips) 
+Seat 4: MagoDelBaralho (8851 in chips) 
+Seat 5: mila is best (11950 in chips) 
+Seat 6: XxJoaoFeraxX (11176 in chips) 
+fofAAoBR: posts the ante 150
+SAS_IDS0804: posts the ante 150
+JonzStars: posts the ante 150
+MagoDelBaralho: posts the ante 150
+mila is best: posts the ante 150
+XxJoaoFeraxX: posts the ante 150
+fofAAoBR: posts small blind 300
+SAS_IDS0804: posts big blind 600
+*** HOLE CARDS ***
+JonzStars: raises 6012 to 6612 and is all-in
+MagoDelBaralho: folds 
+mila is best: folds 
+XxJoaoFeraxX: folds 
+fofAAoBR: folds 
+SAS_IDS0804: folds 
+Uncalled bet (6012) returned to JonzStars
+JonzStars collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: fofAAoBR (small blind) folded before Flop
+Seat 2: SAS_IDS0804 (big blind) folded before Flop
+Seat 3: JonzStars collected (2400)
+Seat 4: MagoDelBaralho folded before Flop (didn't bet)
+Seat 5: mila is best folded before Flop (didn't bet)
+Seat 6: XxJoaoFeraxX (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209600919: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:35:41 UTC [2024/06/26 18:35:41 ET]
+Table '3769361908 16' 6-max Seat #1 is the button
+Seat 1: fofAAoBR (22511 in chips) 
+Seat 2: SAS_IDS0804 (8635 in chips) 
+Seat 3: JonzStars (8412 in chips) 
+Seat 4: MagoDelBaralho (8701 in chips) 
+Seat 5: mila is best (11800 in chips) 
+Seat 6: XxJoaoFeraxX (11026 in chips) 
+fofAAoBR: posts the ante 150
+SAS_IDS0804: posts the ante 150
+JonzStars: posts the ante 150
+MagoDelBaralho: posts the ante 150
+mila is best: posts the ante 150
+XxJoaoFeraxX: posts the ante 150
+SAS_IDS0804: posts small blind 300
+JonzStars: posts big blind 600
+*** HOLE CARDS ***
+MagoDelBaralho: folds 
+mila is best: raises 600 to 1200
+XxJoaoFeraxX: folds 
+fofAAoBR: raises 1800 to 3000
+SAS_IDS0804: folds 
+JonzStars: folds 
+mila is best: calls 1800
+*** FLOP *** [9c Kc 2h]
+mila is best: checks 
+fofAAoBR: bets 900
+mila is best: calls 900
+*** TURN *** [9c Kc 2h] [As]
+mila is best: checks 
+fofAAoBR: bets 2100
+mila is best: folds 
+Uncalled bet (2100) returned to fofAAoBR
+fofAAoBR collected 9600 from pot
+fofAAoBR: doesn't show hand 
+*** SUMMARY ***
+Total pot 9600 | Rake 0 
+Board [9c Kc 2h As]
+Seat 1: fofAAoBR (button) collected (9600)
+Seat 2: SAS_IDS0804 (small blind) folded before Flop
+Seat 3: JonzStars (big blind) folded before Flop
+Seat 4: MagoDelBaralho folded before Flop (didn't bet)
+Seat 5: mila is best folded on the Turn
+Seat 6: XxJoaoFeraxX folded before Flop (didn't bet)
+
+PokerStars Hand #251209616592: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:36:39 UTC [2024/06/26 18:36:39 ET]
+Table '3769361908 16' 6-max Seat #2 is the button
+Seat 1: fofAAoBR (28061 in chips) 
+Seat 2: SAS_IDS0804 (8185 in chips) 
+Seat 3: JonzStars (7662 in chips) 
+Seat 4: MagoDelBaralho (8551 in chips) 
+Seat 5: mila is best (7750 in chips) 
+Seat 6: XxJoaoFeraxX (10876 in chips) 
+fofAAoBR: posts the ante 150
+SAS_IDS0804: posts the ante 150
+JonzStars: posts the ante 150
+MagoDelBaralho: posts the ante 150
+mila is best: posts the ante 150
+XxJoaoFeraxX: posts the ante 150
+JonzStars: posts small blind 300
+MagoDelBaralho: posts big blind 600
+*** HOLE CARDS ***
+mila is best: folds 
+XxJoaoFeraxX: raises 600 to 1200
+fofAAoBR: folds 
+SAS_IDS0804: folds 
+JonzStars: folds 
+MagoDelBaralho: raises 7201 to 8401 and is all-in
+XxJoaoFeraxX: folds 
+Uncalled bet (7201) returned to MagoDelBaralho
+MagoDelBaralho collected 3600 from pot
+*** SUMMARY ***
+Total pot 3600 | Rake 0 
+Seat 1: fofAAoBR folded before Flop (didn't bet)
+Seat 2: SAS_IDS0804 (button) folded before Flop (didn't bet)
+Seat 3: JonzStars (small blind) folded before Flop
+Seat 4: MagoDelBaralho (big blind) collected (3600)
+Seat 5: mila is best folded before Flop (didn't bet)
+Seat 6: XxJoaoFeraxX folded before Flop
+
+PokerStars Hand #251209627110: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:37:19 UTC [2024/06/26 18:37:19 ET]
+Table '3769361908 16' 6-max Seat #3 is the button
+Seat 1: fofAAoBR (27911 in chips) 
+Seat 2: SAS_IDS0804 (8035 in chips) 
+Seat 3: JonzStars (7212 in chips) 
+Seat 4: MagoDelBaralho (10801 in chips) 
+Seat 5: mila is best (7600 in chips) 
+Seat 6: XxJoaoFeraxX (9526 in chips) 
+fofAAoBR: posts the ante 150
+SAS_IDS0804: posts the ante 150
+JonzStars: posts the ante 150
+MagoDelBaralho: posts the ante 150
+mila is best: posts the ante 150
+XxJoaoFeraxX: posts the ante 150
+MagoDelBaralho: posts small blind 300
+mila is best: posts big blind 600
+*** HOLE CARDS ***
+XxJoaoFeraxX: folds 
+fofAAoBR: raises 720 to 1320
+SAS_IDS0804: folds 
+JonzStars: folds 
+MagoDelBaralho: folds 
+mila is best: calls 720
+*** FLOP *** [3s Qc 7h]
+mila is best: checks 
+fofAAoBR: bets 1267
+mila is best: calls 1267
+*** TURN *** [3s Qc 7h] [Th]
+mila is best: checks 
+fofAAoBR: checks 
+*** RIVER *** [3s Qc 7h Th] [6d]
+mila is best: checks 
+fofAAoBR: checks 
+*** SHOW DOWN ***
+mila is best: shows [3c 6c] (two pair, Sixes and Threes)
+fofAAoBR: mucks hand 
+mila is best collected 6374 from pot
+*** SUMMARY ***
+Total pot 6374 | Rake 0 
+Board [3s Qc 7h Th 6d]
+Seat 1: fofAAoBR mucked
+Seat 2: SAS_IDS0804 folded before Flop (didn't bet)
+Seat 3: JonzStars (button) folded before Flop (didn't bet)
+Seat 4: MagoDelBaralho (small blind) folded before Flop
+Seat 5: mila is best (big blind) showed [3c 6c] and won (6374) with two pair, Sixes and Threes
+Seat 6: XxJoaoFeraxX folded before Flop (didn't bet)
+
+PokerStars Hand #251209639696: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:38:06 UTC [2024/06/26 18:38:06 ET]
+Table '3769361908 16' 6-max Seat #4 is the button
+Seat 1: fofAAoBR (25174 in chips) 
+Seat 2: SAS_IDS0804 (7885 in chips) 
+Seat 3: JonzStars (7062 in chips) 
+Seat 4: MagoDelBaralho (10351 in chips) 
+Seat 5: mila is best (11237 in chips) 
+Seat 6: XxJoaoFeraxX (9376 in chips) 
+fofAAoBR: posts the ante 150
+SAS_IDS0804: posts the ante 150
+JonzStars: posts the ante 150
+MagoDelBaralho: posts the ante 150
+mila is best: posts the ante 150
+XxJoaoFeraxX: posts the ante 150
+mila is best: posts small blind 300
+XxJoaoFeraxX: posts big blind 600
+*** HOLE CARDS ***
+fofAAoBR: folds 
+SAS_IDS0804: raises 600 to 1200
+JonzStars: folds 
+MagoDelBaralho: folds 
+mila is best: folds 
+XxJoaoFeraxX: folds 
+Uncalled bet (600) returned to SAS_IDS0804
+SAS_IDS0804 collected 2400 from pot
+SAS_IDS0804: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: fofAAoBR folded before Flop (didn't bet)
+Seat 2: SAS_IDS0804 collected (2400)
+Seat 3: JonzStars folded before Flop (didn't bet)
+Seat 4: MagoDelBaralho (button) folded before Flop (didn't bet)
+Seat 5: mila is best (small blind) folded before Flop
+Seat 6: XxJoaoFeraxX (big blind) folded before Flop
+
+PokerStars Hand #251209649665: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:38:43 UTC [2024/06/26 18:38:43 ET]
+Table '3769361908 16' 6-max Seat #5 is the button
+Seat 1: fofAAoBR (25024 in chips) 
+Seat 2: SAS_IDS0804 (9535 in chips) 
+Seat 3: JonzStars (6912 in chips) 
+Seat 4: MagoDelBaralho (10201 in chips) 
+Seat 5: mila is best (10787 in chips) 
+Seat 6: XxJoaoFeraxX (8626 in chips) 
+fofAAoBR: posts the ante 200
+SAS_IDS0804: posts the ante 200
+JonzStars: posts the ante 200
+MagoDelBaralho: posts the ante 200
+mila is best: posts the ante 200
+XxJoaoFeraxX: posts the ante 200
+XxJoaoFeraxX: posts small blind 400
+fofAAoBR: posts big blind 800
+*** HOLE CARDS ***
+SAS_IDS0804: folds 
+JonzStars: raises 800 to 1600
+MagoDelBaralho: folds 
+mila is best: folds 
+XxJoaoFeraxX: folds 
+fofAAoBR: calls 800
+*** FLOP *** [Td Kh Qs]
+fofAAoBR: checks 
+JonzStars: bets 5112 and is all-in
+fofAAoBR: folds 
+Uncalled bet (5112) returned to JonzStars
+JonzStars collected 4800 from pot
+*** SUMMARY ***
+Total pot 4800 | Rake 0 
+Board [Td Kh Qs]
+Seat 1: fofAAoBR (big blind) folded on the Flop
+Seat 2: SAS_IDS0804 folded before Flop (didn't bet)
+Seat 3: JonzStars collected (4800)
+Seat 4: MagoDelBaralho folded before Flop (didn't bet)
+Seat 5: mila is best (button) folded before Flop (didn't bet)
+Seat 6: XxJoaoFeraxX (small blind) folded before Flop
+
+PokerStars Hand #251209657584: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:39:13 UTC [2024/06/26 18:39:13 ET]
+Table '3769361908 16' 6-max Seat #6 is the button
+Seat 1: fofAAoBR (23224 in chips) 
+Seat 2: SAS_IDS0804 (9335 in chips) 
+Seat 3: JonzStars (9912 in chips) 
+Seat 4: MagoDelBaralho (10001 in chips) 
+Seat 5: mila is best (10587 in chips) 
+Seat 6: XxJoaoFeraxX (8026 in chips) 
+fofAAoBR: posts the ante 200
+SAS_IDS0804: posts the ante 200
+JonzStars: posts the ante 200
+MagoDelBaralho: posts the ante 200
+mila is best: posts the ante 200
+XxJoaoFeraxX: posts the ante 200
+fofAAoBR: posts small blind 400
+SAS_IDS0804: posts big blind 800
+*** HOLE CARDS ***
+JonzStars: folds 
+MagoDelBaralho: folds 
+mila is best: raises 9587 to 10387 and is all-in
+XxJoaoFeraxX: folds 
+fofAAoBR: folds 
+SAS_IDS0804: calls 8335 and is all-in
+Uncalled bet (1252) returned to mila is best
+*** FLOP *** [Js 6c Jh]
+*** TURN *** [Js 6c Jh] [7d]
+*** RIVER *** [Js 6c Jh 7d] [Qh]
+*** SHOW DOWN ***
+SAS_IDS0804: shows [As 3d] (a pair of Jacks)
+mila is best: shows [Ad Kc] (a pair of Jacks - Ace+King kicker)
+mila is best collected 19870 from pot
+SAS_IDS0804 finished the tournament
+*** SUMMARY ***
+Total pot 19870 | Rake 0 
+Board [Js 6c Jh 7d Qh]
+Seat 1: fofAAoBR (small blind) folded before Flop
+Seat 2: SAS_IDS0804 (big blind) showed [As 3d] and lost with a pair of Jacks
+Seat 3: JonzStars folded before Flop (didn't bet)
+Seat 4: MagoDelBaralho folded before Flop (didn't bet)
+Seat 5: mila is best showed [Ad Kc] and won (19870) with a pair of Jacks
+Seat 6: XxJoaoFeraxX (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209666190: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:39:45 UTC [2024/06/26 18:39:45 ET]
+Table '3769361908 16' 6-max Seat #1 is the button
+Seat 1: fofAAoBR (22624 in chips) 
+Seat 3: JonzStars (9712 in chips) 
+Seat 4: MagoDelBaralho (9801 in chips) 
+Seat 5: mila is best (21122 in chips) 
+Seat 6: XxJoaoFeraxX (7826 in chips) 
+fofAAoBR: posts the ante 200
+JonzStars: posts the ante 200
+MagoDelBaralho: posts the ante 200
+mila is best: posts the ante 200
+XxJoaoFeraxX: posts the ante 200
+JonzStars: posts small blind 400
+MagoDelBaralho: posts big blind 800
+*** HOLE CARDS ***
+mila is best: folds 
+XxJoaoFeraxX: raises 6826 to 7626 and is all-in
+fofAAoBR: folds 
+JonzStars: folds 
+MagoDelBaralho: folds 
+Uncalled bet (6826) returned to XxJoaoFeraxX
+XxJoaoFeraxX collected 3000 from pot
+XxJoaoFeraxX: doesn't show hand 
+*** SUMMARY ***
+Total pot 3000 | Rake 0 
+Seat 1: fofAAoBR (button) folded before Flop (didn't bet)
+Seat 3: JonzStars (small blind) folded before Flop
+Seat 4: MagoDelBaralho (big blind) folded before Flop
+Seat 5: mila is best folded before Flop (didn't bet)
+Seat 6: XxJoaoFeraxX collected (3000)
+
+PokerStars Hand #251209672029: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:40:07 UTC [2024/06/26 18:40:07 ET]
+Table '3769361908 16' 6-max Seat #3 is the button
+Seat 1: fofAAoBR (22424 in chips) 
+Seat 3: JonzStars (9112 in chips) 
+Seat 4: MagoDelBaralho (8801 in chips) 
+Seat 5: mila is best (20922 in chips) 
+Seat 6: XxJoaoFeraxX (9826 in chips) 
+fofAAoBR: posts the ante 200
+JonzStars: posts the ante 200
+MagoDelBaralho: posts the ante 200
+mila is best: posts the ante 200
+XxJoaoFeraxX: posts the ante 200
+MagoDelBaralho: posts small blind 400
+mila is best: posts big blind 800
+*** HOLE CARDS ***
+XxJoaoFeraxX: folds 
+fofAAoBR: raises 800 to 1600
+passat1g is disconnected 
+JonzStars: folds 
+MagoDelBaralho: folds 
+mila is best: calls 800
+*** FLOP *** [Jd 6s Jh]
+mila is best: checks 
+fofAAoBR: bets 1518
+mila is best: calls 1518
+*** TURN *** [Jd 6s Jh] [7h]
+mila is best: checks 
+fofAAoBR: bets 4800
+mila is best: folds 
+Uncalled bet (4800) returned to fofAAoBR
+fofAAoBR collected 7636 from pot
+fofAAoBR: doesn't show hand 
+*** SUMMARY ***
+Total pot 7636 | Rake 0 
+Board [Jd 6s Jh 7h]
+Seat 1: fofAAoBR collected (7636)
+Seat 3: JonzStars (button) folded before Flop (didn't bet)
+Seat 4: MagoDelBaralho (small blind) folded before Flop
+Seat 5: mila is best (big blind) folded on the Turn
+Seat 6: XxJoaoFeraxX folded before Flop (didn't bet)
+
+PokerStars Hand #251209685063: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:40:57 UTC [2024/06/26 18:40:57 ET]
+Table '3769361908 16' 6-max Seat #4 is the button
+Seat 2: passat1g (15144 in chips) 
+Seat 3: JonzStars (8912 in chips) 
+Seat 4: MagoDelBaralho (8201 in chips) 
+Seat 5: mila is best (17604 in chips) 
+Seat 6: XxJoaoFeraxX (9626 in chips) 
+passat1g: posts the ante 200
+JonzStars: posts the ante 200
+MagoDelBaralho: posts the ante 200
+mila is best: posts the ante 200
+XxJoaoFeraxX: posts the ante 200
+mila is best: posts small blind 400
+XxJoaoFeraxX: posts big blind 800
+*** HOLE CARDS ***
+passat1g: raises 800 to 1600
+JonzStars: folds 
+MagoDelBaralho: folds 
+mila is best: calls 1200
+nzlking is disconnected 
+XxJoaoFeraxX: folds 
+*** FLOP *** [Th Jd Qh]
+mila is best: checks 
+passat1g: bets 3550
+mila is best: raises 12254 to 15804 and is all-in
+passat1g: calls 9794 and is all-in
+Uncalled bet (2460) returned to mila is best
+*** TURN *** [Th Jd Qh] [Qc]
+*** RIVER *** [Th Jd Qh Qc] [Ad]
+*** SHOW DOWN ***
+mila is best: shows [9h 8d] (a straight, Eight to Queen)
+passat1g: shows [Ts Js] (two pair, Queens and Jacks)
+mila is best collected 31688 from pot
+passat1g finished the tournament
+*** SUMMARY ***
+Total pot 31688 | Rake 0 
+Board [Th Jd Qh Qc Ad]
+Seat 2: passat1g showed [Ts Js] and lost with two pair, Queens and Jacks
+Seat 3: JonzStars folded before Flop (didn't bet)
+Seat 4: MagoDelBaralho (button) folded before Flop (didn't bet)
+Seat 5: mila is best (small blind) showed [9h 8d] and won (31688) with a straight, Eight to Queen
+Seat 6: XxJoaoFeraxX (big blind) folded before Flop
+
+PokerStars Hand #251209698954: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:41:50 UTC [2024/06/26 18:41:50 ET]
+Table '3769361908 16' 6-max Seat #5 is the button
+Seat 1: nzlking (10000 in chips) 
+Seat 3: JonzStars (8712 in chips) 
+Seat 4: MagoDelBaralho (8001 in chips) 
+Seat 5: mila is best (34148 in chips) 
+Seat 6: XxJoaoFeraxX (8626 in chips) 
+nzlking: posts the ante 250
+JonzStars: posts the ante 250
+MagoDelBaralho: posts the ante 250
+mila is best: posts the ante 250
+XxJoaoFeraxX: posts the ante 250
+XxJoaoFeraxX: posts small blind 500
+nzlking: posts big blind 1000
+*** HOLE CARDS ***
+JonzStars: folds 
+MagoDelBaralho: raises 6751 to 7751 and is all-in
+mila is best: folds 
+XxJoaoFeraxX: folds 
+nzlking: calls 6751
+*** FLOP *** [Kc 8c Qs]
+*** TURN *** [Kc 8c Qs] [3s]
+*** RIVER *** [Kc 8c Qs 3s] [Ac]
+*** SHOW DOWN ***
+nzlking: shows [Td Ad] (a pair of Aces)
+MagoDelBaralho: shows [Ks 5s] (a pair of Kings)
+nzlking collected 17252 from pot
+MagoDelBaralho finished the tournament
+Joe Santana is disconnected 
+*** SUMMARY ***
+Total pot 17252 | Rake 0 
+Board [Kc 8c Qs 3s Ac]
+Seat 1: nzlking (big blind) showed [Td Ad] and won (17252) with a pair of Aces
+Seat 3: JonzStars folded before Flop (didn't bet)
+Seat 4: MagoDelBaralho showed [Ks 5s] and lost with a pair of Kings
+Seat 5: mila is best (button) folded before Flop (didn't bet)
+Seat 6: XxJoaoFeraxX (small blind) folded before Flop
+
+PokerStars Hand #251209707489: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:42:23 UTC [2024/06/26 18:42:23 ET]
+Table '3769361908 16' 6-max Seat #6 is the button
+Seat 1: nzlking (19251 in chips) 
+Seat 2: Joe Santana (13150 in chips) 
+Seat 3: JonzStars (8462 in chips) 
+Seat 5: mila is best (33898 in chips) 
+Seat 6: XxJoaoFeraxX (7876 in chips) 
+nzlking: posts the ante 250
+Joe Santana: posts the ante 250
+JonzStars: posts the ante 250
+mila is best: posts the ante 250
+XxJoaoFeraxX: posts the ante 250
+nzlking: posts small blind 500
+Joe Santana: posts big blind 1000
+*** HOLE CARDS ***
+JonzStars: raises 7212 to 8212 and is all-in
+mila is best: folds 
+XxJoaoFeraxX: folds 
+nzlking: folds 
+Joe Santana: folds 
+Uncalled bet (7212) returned to JonzStars
+JonzStars collected 3750 from pot
+*** SUMMARY ***
+Total pot 3750 | Rake 0 
+Seat 1: nzlking (small blind) folded before Flop
+Seat 2: Joe Santana (big blind) folded before Flop
+Seat 3: JonzStars collected (3750)
+Seat 5: mila is best folded before Flop (didn't bet)
+Seat 6: XxJoaoFeraxX (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209719767: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:43:11 UTC [2024/06/26 18:43:11 ET]
+Table '3769361908 16' 6-max Seat #1 is the button
+Seat 1: nzlking (18501 in chips) 
+Seat 2: Joe Santana (11900 in chips) 
+Seat 3: JonzStars (10962 in chips) 
+Seat 5: mila is best (33648 in chips) 
+Seat 6: XxJoaoFeraxX (7626 in chips) 
+nzlking: posts the ante 250
+Joe Santana: posts the ante 250
+JonzStars: posts the ante 250
+mila is best: posts the ante 250
+XxJoaoFeraxX: posts the ante 250
+Joe Santana: posts small blind 500
+JonzStars: posts big blind 1000
+*** HOLE CARDS ***
+mila is best: folds 
+XxJoaoFeraxX: folds 
+nzlking: folds 
+Earl of Poker V is disconnected 
+Joe Santana: folds 
+Uncalled bet (500) returned to JonzStars
+JonzStars collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | Rake 0 
+Seat 1: nzlking (button) folded before Flop (didn't bet)
+Seat 2: Joe Santana (small blind) folded before Flop
+Seat 3: JonzStars (big blind) collected (2250)
+Seat 5: mila is best folded before Flop (didn't bet)
+Seat 6: XxJoaoFeraxX folded before Flop (didn't bet)
+
+PokerStars Hand #251209730981: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:43:55 UTC [2024/06/26 18:43:55 ET]
+Table '3769361908 16' 6-max Seat #2 is the button
+Seat 1: nzlking (18251 in chips) 
+Seat 2: Joe Santana (11150 in chips) 
+Seat 3: JonzStars (12462 in chips) 
+Seat 4: Earl of Poker V (10000 in chips) 
+Seat 5: mila is best (33398 in chips) 
+Seat 6: XxJoaoFeraxX (7376 in chips) 
+nzlking: posts the ante 250
+Joe Santana: posts the ante 250
+JonzStars: posts the ante 250
+Earl of Poker V: posts the ante 250
+mila is best: posts the ante 250
+XxJoaoFeraxX: posts the ante 250
+JonzStars: posts small blind 500
+Earl of Poker V: posts big blind 1000
+*** HOLE CARDS ***
+mila is best: raises 1000 to 2000
+XxJoaoFeraxX: folds 
+nzlking: folds 
+Joe Santana: folds 
+JonzStars: folds 
+Earl of Poker V: folds 
+Uncalled bet (1000) returned to mila is best
+mila is best collected 4000 from pot
+*** SUMMARY ***
+Total pot 4000 | Rake 0 
+Seat 1: nzlking folded before Flop (didn't bet)
+Seat 2: Joe Santana (button) folded before Flop (didn't bet)
+Seat 3: JonzStars (small blind) folded before Flop
+Seat 4: Earl of Poker V (big blind) folded before Flop
+Seat 5: mila is best collected (4000)
+Seat 6: XxJoaoFeraxX folded before Flop (didn't bet)
+
+PokerStars Hand #251209734654: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:44:09 UTC [2024/06/26 18:44:09 ET]
+Table '3769361908 16' 6-max Seat #3 is the button
+Seat 1: nzlking (18001 in chips) 
+Seat 2: Joe Santana (10900 in chips) 
+Seat 3: JonzStars (11712 in chips) 
+Seat 4: Earl of Poker V (8750 in chips) 
+Seat 5: mila is best (36148 in chips) 
+Seat 6: XxJoaoFeraxX (7126 in chips) 
+nzlking: posts the ante 250
+Joe Santana: posts the ante 250
+JonzStars: posts the ante 250
+Earl of Poker V: posts the ante 250
+mila is best: posts the ante 250
+XxJoaoFeraxX: posts the ante 250
+Earl of Poker V: posts small blind 500
+mila is best: posts big blind 1000
+*** HOLE CARDS ***
+XxJoaoFeraxX: raises 5876 to 6876 and is all-in
+nzlking: folds 
+Joe Santana: folds 
+JonzStars: folds 
+Earl of Poker V: folds 
+mila is best: calls 5876
+*** FLOP *** [4c 7c 8s]
+*** TURN *** [4c 7c 8s] [3c]
+*** RIVER *** [4c 7c 8s 3c] [4s]
+*** SHOW DOWN ***
+mila is best: shows [3h Qh] (two pair, Fours and Threes)
+XxJoaoFeraxX: shows [Jh Kd] (a pair of Fours)
+mila is best collected 15752 from pot
+XxJoaoFeraxX finished the tournament
+*** SUMMARY ***
+Total pot 15752 | Rake 0 
+Board [4c 7c 8s 3c 4s]
+Seat 1: nzlking folded before Flop (didn't bet)
+Seat 2: Joe Santana folded before Flop (didn't bet)
+Seat 3: JonzStars (button) folded before Flop (didn't bet)
+Seat 4: Earl of Poker V (small blind) folded before Flop
+Seat 5: mila is best (big blind) showed [3h Qh] and won (15752) with two pair, Fours and Threes
+Seat 6: XxJoaoFeraxX showed [Jh Kd] and lost with a pair of Fours
+
+PokerStars Hand #251209742837: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:44:41 UTC [2024/06/26 18:44:41 ET]
+Table '3769361908 16' 6-max Seat #4 is the button
+Seat 1: nzlking (17751 in chips) 
+Seat 2: Joe Santana (10650 in chips) 
+Seat 3: JonzStars (11462 in chips) 
+Seat 4: Earl of Poker V (8000 in chips) 
+Seat 5: mila is best (44774 in chips) 
+nzlking: posts the ante 300
+Joe Santana: posts the ante 300
+JonzStars: posts the ante 300
+Earl of Poker V: posts the ante 300
+mila is best: posts the ante 300
+mila is best: posts small blind 600
+nzlking: posts big blind 1200
+*** HOLE CARDS ***
+Joe Santana: folds 
+escabofildo is disconnected 
+JonzStars: folds 
+Earl of Poker V: raises 6500 to 7700 and is all-in
+mila is best: folds 
+nzlking: folds 
+Uncalled bet (6500) returned to Earl of Poker V
+Earl of Poker V collected 4500 from pot
+Earl of Poker V: doesn't show hand 
+*** SUMMARY ***
+Total pot 4500 | Rake 0 
+Seat 1: nzlking (big blind) folded before Flop
+Seat 2: Joe Santana folded before Flop (didn't bet)
+Seat 3: JonzStars folded before Flop (didn't bet)
+Seat 4: Earl of Poker V (button) collected (4500)
+Seat 5: mila is best (small blind) folded before Flop
+
+PokerStars Hand #251209749124: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:45:05 UTC [2024/06/26 18:45:05 ET]
+Table '3769361908 16' 6-max Seat #5 is the button
+Seat 1: nzlking (16251 in chips) 
+Seat 3: JonzStars (11162 in chips) 
+Seat 4: Earl of Poker V (11000 in chips) 
+Seat 5: mila is best (43874 in chips) 
+Seat 6: escabofildo (10000 in chips) out of hand (moved from another table into small blind)
+escabofildo will be allowed to play after the button
+nzlking: posts the ante 300
+JonzStars: posts the ante 300
+Earl of Poker V: posts the ante 300
+mila is best: posts the ante 300
+nzlking: posts small blind 600
+JonzStars: posts big blind 1200
+*** HOLE CARDS ***
+Earl of Poker V: folds 
+mila is best: raises 1200 to 2400
+4sasss is disconnected 
+nzlking: folds 
+JonzStars: calls 1200
+*** FLOP *** [Qc 5s Tc]
+JonzStars: checks 
+mila is best: checks 
+*** TURN *** [Qc 5s Tc] [Jd]
+JonzStars: checks 
+mila is best: checks 
+*** RIVER *** [Qc 5s Tc Jd] [3h]
+JonzStars: checks 
+mila is best: bets 2400
+JonzStars: folds 
+Uncalled bet (2400) returned to mila is best
+mila is best collected 6600 from pot
+*** SUMMARY ***
+Total pot 6600 | Rake 0 
+Board [Qc 5s Tc Jd 3h]
+Seat 1: nzlking (small blind) folded before Flop
+Seat 3: JonzStars (big blind) folded on the River
+Seat 4: Earl of Poker V folded before Flop (didn't bet)
+Seat 5: mila is best (button) collected (6600)
+
+PokerStars Hand #251209760257: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:45:48 UTC [2024/06/26 18:45:48 ET]
+Table '3769361908 16' 6-max Seat #1 is the button
+Seat 1: nzlking (15351 in chips) 
+Seat 2: 4sasss (10000 in chips) out of hand (moved from another table into small blind)
+Seat 3: JonzStars (8462 in chips) 
+Seat 4: Earl of Poker V (10700 in chips) 
+Seat 5: mila is best (47774 in chips) 
+Seat 6: escabofildo (10000 in chips) 
+4sasss will be allowed to play after the button
+nzlking: posts the ante 300
+JonzStars: posts the ante 300
+Earl of Poker V: posts the ante 300
+mila is best: posts the ante 300
+escabofildo: posts the ante 300
+JonzStars: posts small blind 600
+Earl of Poker V: posts big blind 1200
+*** HOLE CARDS ***
+mila is best: folds 
+escabofildo: folds 
+nzlking: folds 
+JonzStars: raises 6600 to 7800
+Earl of Poker V: folds 
+Uncalled bet (6600) returned to JonzStars
+JonzStars collected 3900 from pot
+*** SUMMARY ***
+Total pot 3900 | Rake 0 
+Seat 1: nzlking (button) folded before Flop (didn't bet)
+Seat 3: JonzStars (small blind) collected (3900)
+Seat 4: Earl of Poker V (big blind) folded before Flop
+Seat 5: mila is best folded before Flop (didn't bet)
+Seat 6: escabofildo folded before Flop (didn't bet)
+
+PokerStars Hand #251209764202: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:46:04 UTC [2024/06/26 18:46:04 ET]
+Table '3769361908 16' 6-max Seat #3 is the button
+Seat 1: nzlking (15051 in chips) 
+Seat 2: 4sasss (10000 in chips) 
+Seat 3: JonzStars (10862 in chips) 
+Seat 4: Earl of Poker V (9200 in chips) 
+Seat 5: mila is best (47474 in chips) 
+Seat 6: escabofildo (9700 in chips) 
+nzlking: posts the ante 300
+4sasss: posts the ante 300
+JonzStars: posts the ante 300
+Earl of Poker V: posts the ante 300
+mila is best: posts the ante 300
+escabofildo: posts the ante 300
+Earl of Poker V: posts small blind 600
+mila is best: posts big blind 1200
+*** HOLE CARDS ***
+escabofildo: folds 
+nzlking: folds 
+4sasss: raises 8500 to 9700 and is all-in
+JonzStars: folds 
+Earl of Poker V: calls 8300 and is all-in
+mila is best: folds 
+Uncalled bet (800) returned to 4sasss
+*** FLOP *** [As Kc 7d]
+*** TURN *** [As Kc 7d] [4d]
+*** RIVER *** [As Kc 7d 4d] [9s]
+*** SHOW DOWN ***
+Earl of Poker V: shows [9d Kh] (two pair, Kings and Nines)
+4sasss: shows [3h Ac] (a pair of Aces)
+Earl of Poker V collected 20800 from pot
+*** SUMMARY ***
+Total pot 20800 | Rake 0 
+Board [As Kc 7d 4d 9s]
+Seat 1: nzlking folded before Flop (didn't bet)
+Seat 2: 4sasss showed [3h Ac] and lost with a pair of Aces
+Seat 3: JonzStars (button) folded before Flop (didn't bet)
+Seat 4: Earl of Poker V (small blind) showed [9d Kh] and won (20800) with two pair, Kings and Nines
+Seat 5: mila is best (big blind) folded before Flop
+Seat 6: escabofildo folded before Flop (didn't bet)
+
+PokerStars Hand #251209772343: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:46:35 UTC [2024/06/26 18:46:35 ET]
+Table '3769361908 16' 6-max Seat #4 is the button
+Seat 1: nzlking (14751 in chips) 
+Seat 2: 4sasss (800 in chips) 
+Seat 3: JonzStars (10562 in chips) 
+Seat 4: Earl of Poker V (20800 in chips) 
+Seat 5: mila is best (45974 in chips) 
+Seat 6: escabofildo (9400 in chips) 
+nzlking: posts the ante 300
+4sasss: posts the ante 300
+JonzStars: posts the ante 300
+Earl of Poker V: posts the ante 300
+mila is best: posts the ante 300
+escabofildo: posts the ante 300
+mila is best: posts small blind 600
+escabofildo: posts big blind 1200
+*** HOLE CARDS ***
+nzlking: folds 
+4sasss: calls 500 and is all-in
+JonzStars: folds 
+Earl of Poker V: raises 19300 to 20500 and is all-in
+mila is best: folds 
+escabofildo: calls 7900 and is all-in
+Uncalled bet (11400) returned to Earl of Poker V
+*** FLOP *** [4s 2d 7h]
+*** TURN *** [4s 2d 7h] [Kc]
+*** RIVER *** [4s 2d 7h Kc] [6h]
+*** SHOW DOWN ***
+escabofildo: shows [As Ks] (a pair of Kings)
+Earl of Poker V: shows [Td Qd] (high card King)
+escabofildo collected 17300 from side pot
+4sasss: shows [4c 2h] (two pair, Fours and Deuces)
+4sasss collected 3800 from main pot
+*** SUMMARY ***
+Total pot 21100 Main pot 3800. Side pot 17300. | Rake 0 
+Board [4s 2d 7h Kc 6h]
+Seat 1: nzlking folded before Flop (didn't bet)
+Seat 2: 4sasss showed [4c 2h] and won (3800) with two pair, Fours and Deuces
+Seat 3: JonzStars folded before Flop (didn't bet)
+Seat 4: Earl of Poker V (button) showed [Td Qd] and lost with high card King
+Seat 5: mila is best (small blind) folded before Flop
+Seat 6: escabofildo (big blind) showed [As Ks] and won (17300) with a pair of Kings
+
+PokerStars Hand #251209779752: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:47:04 UTC [2024/06/26 18:47:04 ET]
+Table '3769361908 16' 6-max Seat #5 is the button
+Seat 1: nzlking (14451 in chips) 
+Seat 2: 4sasss (3800 in chips) 
+Seat 3: JonzStars (10262 in chips) 
+Seat 4: Earl of Poker V (11400 in chips) 
+Seat 5: mila is best (45074 in chips) 
+Seat 6: escabofildo (17300 in chips) 
+nzlking: posts the ante 300
+4sasss: posts the ante 300
+JonzStars: posts the ante 300
+Earl of Poker V: posts the ante 300
+mila is best: posts the ante 300
+escabofildo: posts the ante 300
+escabofildo: posts small blind 600
+nzlking: posts big blind 1200
+*** HOLE CARDS ***
+4sasss: raises 2300 to 3500 and is all-in
+JonzStars: folds 
+Earl of Poker V: folds 
+mila is best: raises 41274 to 44774 and is all-in
+escabofildo: folds 
+nzlking: folds 
+Uncalled bet (41274) returned to mila is best
+*** FLOP *** [Ks Ts Qd]
+*** TURN *** [Ks Ts Qd] [7c]
+*** RIVER *** [Ks Ts Qd 7c] [Qh]
+*** SHOW DOWN ***
+4sasss: shows [8d As] (a pair of Queens)
+mila is best: shows [Ad 8c] (a pair of Queens)
+4sasss collected 5300 from pot
+mila is best collected 5300 from pot
+*** SUMMARY ***
+Total pot 10600 | Rake 0 
+Board [Ks Ts Qd 7c Qh]
+Seat 1: nzlking (big blind) folded before Flop
+Seat 2: 4sasss showed [8d As] and won (5300) with a pair of Queens
+Seat 3: JonzStars folded before Flop (didn't bet)
+Seat 4: Earl of Poker V folded before Flop (didn't bet)
+Seat 5: mila is best (button) showed [Ad 8c] and won (5300) with a pair of Queens
+Seat 6: escabofildo (small blind) folded before Flop
+
+PokerStars Hand #251209786581: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:47:31 UTC [2024/06/26 18:47:31 ET]
+Table '3769361908 16' 6-max Seat #6 is the button
+Seat 1: nzlking (12951 in chips) 
+Seat 2: 4sasss (5300 in chips) 
+Seat 3: JonzStars (9962 in chips) 
+Seat 4: Earl of Poker V (11100 in chips) 
+Seat 5: mila is best (46574 in chips) 
+Seat 6: escabofildo (16400 in chips) 
+nzlking: posts the ante 400
+4sasss: posts the ante 400
+JonzStars: posts the ante 400
+Earl of Poker V: posts the ante 400
+mila is best: posts the ante 400
+escabofildo: posts the ante 400
+nzlking: posts small blind 800
+4sasss: posts big blind 1600
+*** HOLE CARDS ***
+JonzStars: raises 7962 to 9562 and is all-in
+Earl of Poker V: raises 1138 to 10700 and is all-in
+mila is best: folds 
+escabofildo: folds 
+nzlking: folds 
+4sasss: folds 
+Uncalled bet (1138) returned to Earl of Poker V
+*** FLOP *** [Kd 9d Kh]
+*** TURN *** [Kd 9d Kh] [8s]
+*** RIVER *** [Kd 9d Kh 8s] [9h]
+*** SHOW DOWN ***
+JonzStars: shows [6c 6s] (two pair, Kings and Nines)
+Earl of Poker V: shows [Ac Qc] (two pair, Kings and Nines - Ace kicker)
+Earl of Poker V collected 23924 from pot
+JonzStars finished the tournament
+*** SUMMARY ***
+Total pot 23924 | Rake 0 
+Board [Kd 9d Kh 8s 9h]
+Seat 1: nzlking (small blind) folded before Flop
+Seat 2: 4sasss (big blind) folded before Flop
+Seat 3: JonzStars showed [6c 6s] and lost with two pair, Kings and Nines
+Seat 4: Earl of Poker V showed [Ac Qc] and won (23924) with two pair, Kings and Nines
+Seat 5: mila is best folded before Flop (didn't bet)
+Seat 6: escabofildo (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209793516: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:47:59 UTC [2024/06/26 18:47:59 ET]
+Table '3769361908 16' 6-max Seat #1 is the button
+Seat 1: nzlking (11751 in chips) 
+Seat 2: 4sasss (3300 in chips) 
+Seat 4: Earl of Poker V (25062 in chips) 
+Seat 5: mila is best (46174 in chips) 
+Seat 6: escabofildo (16000 in chips) 
+nzlking: posts the ante 400
+4sasss: posts the ante 400
+Earl of Poker V: posts the ante 400
+mila is best: posts the ante 400
+escabofildo: posts the ante 400
+4sasss: posts small blind 800
+Earl of Poker V: posts big blind 1600
+*** HOLE CARDS ***
+mila is best: folds 
+escabofildo: raises 14000 to 15600 and is all-in
+nzlking: folds 
+4sasss: folds 
+Earl of Poker V: calls 14000
+*** FLOP *** [Ah Kc 4c]
+lintumies12 is disconnected 
+*** TURN *** [Ah Kc 4c] [9h]
+*** RIVER *** [Ah Kc 4c 9h] [6s]
+*** SHOW DOWN ***
+Earl of Poker V: shows [Ac 8s] (a pair of Aces)
+escabofildo: shows [As 9d] (two pair, Aces and Nines)
+escabofildo collected 34000 from pot
+*** SUMMARY ***
+Total pot 34000 | Rake 0 
+Board [Ah Kc 4c 9h 6s]
+Seat 1: nzlking (button) folded before Flop (didn't bet)
+Seat 2: 4sasss (small blind) folded before Flop
+Seat 4: Earl of Poker V (big blind) showed [Ac 8s] and lost with a pair of Aces
+Seat 5: mila is best folded before Flop (didn't bet)
+Seat 6: escabofildo showed [As 9d] and won (34000) with two pair, Aces and Nines
+
+PokerStars Hand #251209798904: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:48:20 UTC [2024/06/26 18:48:20 ET]
+Table '3769361908 16' 6-max Seat #2 is the button
+Seat 1: nzlking (11351 in chips) 
+Seat 2: 4sasss (2100 in chips) 
+Seat 3: lintumies12 (17370 in chips) out of hand (moved from another table into small blind)
+Seat 4: Earl of Poker V (9062 in chips) 
+Seat 5: mila is best (45774 in chips) 
+Seat 6: escabofildo (34000 in chips) 
+lintumies12 will be allowed to play after the button
+nzlking: posts the ante 400
+4sasss: posts the ante 400
+Earl of Poker V: posts the ante 400
+mila is best: posts the ante 400
+escabofildo: posts the ante 400
+Earl of Poker V: posts small blind 800
+mila is best: posts big blind 1600
+*** HOLE CARDS ***
+escabofildo: folds 
+nzlking: folds 
+4sasss: raises 100 to 1700 and is all-in
+Earl of Poker V: raises 6962 to 8662 and is all-in
+mila is best: calls 7062
+*** FLOP *** [7d 6d 9d]
+*** TURN *** [7d 6d 9d] [Th]
+*** RIVER *** [7d 6d 9d Th] [8c]
+*** SHOW DOWN ***
+Earl of Poker V: shows [Kh 7s] (a straight, Six to Ten)
+mila is best: shows [3c 3h] (a straight, Six to Ten)
+Earl of Poker V collected 6962 from side pot
+mila is best collected 6962 from side pot
+4sasss: shows [3d Kd] (a flush, King high)
+4sasss collected 7100 from main pot
+*** SUMMARY ***
+Total pot 21024 Main pot 7100. Side pot 13924. | Rake 0 
+Board [7d 6d 9d Th 8c]
+Seat 1: nzlking folded before Flop (didn't bet)
+Seat 2: 4sasss (button) showed [3d Kd] and won (7100) with a flush, King high
+Seat 4: Earl of Poker V (small blind) showed [Kh 7s] and won (6962) with a straight, Six to Ten
+Seat 5: mila is best (big blind) showed [3c 3h] and won (6962) with a straight, Six to Ten
+Seat 6: escabofildo folded before Flop (didn't bet)
+
+PokerStars Hand #251209805854: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:48:47 UTC [2024/06/26 18:48:47 ET]
+Table '3769361908 16' 6-max Seat #4 is the button
+Seat 1: nzlking (10951 in chips) 
+Seat 2: 4sasss (7100 in chips) 
+Seat 3: lintumies12 (17370 in chips) 
+Seat 4: Earl of Poker V (6962 in chips) 
+Seat 5: mila is best (43674 in chips) 
+Seat 6: escabofildo (33600 in chips) 
+nzlking: posts the ante 400
+4sasss: posts the ante 400
+lintumies12: posts the ante 400
+Earl of Poker V: posts the ante 400
+mila is best: posts the ante 400
+escabofildo: posts the ante 400
+mila is best: posts small blind 800
+escabofildo: posts big blind 1600
+*** HOLE CARDS ***
+nzlking: folds 
+4sasss: raises 5100 to 6700 and is all-in
+lintumies12: folds 
+Earl of Poker V: folds 
+mila is best: folds 
+escabofildo: calls 5100
+*** FLOP *** [3c 5c 8s]
+*** TURN *** [3c 5c 8s] [Th]
+*** RIVER *** [3c 5c 8s Th] [Kh]
+*** SHOW DOWN ***
+escabofildo: shows [Ad Jc] (high card Ace)
+4sasss: shows [Kc Jd] (a pair of Kings)
+4sasss collected 16600 from pot
+*** SUMMARY ***
+Total pot 16600 | Rake 0 
+Board [3c 5c 8s Th Kh]
+Seat 1: nzlking folded before Flop (didn't bet)
+Seat 2: 4sasss showed [Kc Jd] and won (16600) with a pair of Kings
+Seat 3: lintumies12 folded before Flop (didn't bet)
+Seat 4: Earl of Poker V (button) folded before Flop (didn't bet)
+Seat 5: mila is best (small blind) folded before Flop
+Seat 6: escabofildo (big blind) showed [Ad Jc] and lost with high card Ace
+
+PokerStars Hand #251209815640: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:49:27 UTC [2024/06/26 18:49:27 ET]
+Table '3769361908 16' 6-max Seat #5 is the button
+Seat 1: nzlking (10551 in chips) 
+Seat 2: 4sasss (16600 in chips) 
+Seat 3: lintumies12 (16970 in chips) 
+Seat 4: Earl of Poker V (6562 in chips) 
+Seat 5: mila is best (42474 in chips) 
+Seat 6: escabofildo (26500 in chips) 
+nzlking: posts the ante 400
+4sasss: posts the ante 400
+lintumies12: posts the ante 400
+Earl of Poker V: posts the ante 400
+mila is best: posts the ante 400
+escabofildo: posts the ante 400
+escabofildo: posts small blind 800
+nzlking: posts big blind 1600
+*** HOLE CARDS ***
+4sasss: folds 
+lintumies12: folds 
+Earl of Poker V: folds 
+mila is best: folds 
+escabofildo: raises 24500 to 26100 and is all-in
+nzlking: calls 8551 and is all-in
+Uncalled bet (15949) returned to escabofildo
+*** FLOP *** [Kc Ad 5h]
+*** TURN *** [Kc Ad 5h] [As]
+*** RIVER *** [Kc Ad 5h As] [8c]
+*** SHOW DOWN ***
+escabofildo: shows [3d Ts] (a pair of Aces)
+nzlking: shows [6c Qc] (a pair of Aces - King+Queen kicker)
+nzlking collected 22702 from pot
+*** SUMMARY ***
+Total pot 22702 | Rake 0 
+Board [Kc Ad 5h As 8c]
+Seat 1: nzlking (big blind) showed [6c Qc] and won (22702) with a pair of Aces
+Seat 2: 4sasss folded before Flop (didn't bet)
+Seat 3: lintumies12 folded before Flop (didn't bet)
+Seat 4: Earl of Poker V folded before Flop (didn't bet)
+Seat 5: mila is best (button) folded before Flop (didn't bet)
+Seat 6: escabofildo (small blind) showed [3d Ts] and lost with a pair of Aces
+
+PokerStars Hand #251209828910: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:50:20 UTC [2024/06/26 18:50:20 ET]
+Table '3769361908 16' 6-max Seat #6 is the button
+Seat 1: nzlking (22702 in chips) 
+Seat 2: 4sasss (16200 in chips) 
+Seat 3: lintumies12 (16570 in chips) 
+Seat 4: Earl of Poker V (6162 in chips) 
+Seat 5: mila is best (42074 in chips) 
+Seat 6: escabofildo (15949 in chips) 
+nzlking: posts the ante 500
+4sasss: posts the ante 500
+lintumies12: posts the ante 500
+Earl of Poker V: posts the ante 500
+mila is best: posts the ante 500
+escabofildo: posts the ante 500
+nzlking: posts small blind 1000
+4sasss: posts big blind 2000
+*** HOLE CARDS ***
+lintumies12: folds 
+Earl of Poker V: raises 3662 to 5662 and is all-in
+mila is best: folds 
+escabofildo: folds 
+nzlking: folds 
+4sasss: calls 3662
+*** FLOP *** [Js Ts Ac]
+*** TURN *** [Js Ts Ac] [3c]
+*** RIVER *** [Js Ts Ac 3c] [2s]
+*** SHOW DOWN ***
+4sasss: shows [6c Kh] (high card Ace)
+Earl of Poker V: shows [Jd 8d] (a pair of Jacks)
+Earl of Poker V collected 15324 from pot
+*** SUMMARY ***
+Total pot 15324 | Rake 0 
+Board [Js Ts Ac 3c 2s]
+Seat 1: nzlking (small blind) folded before Flop
+Seat 2: 4sasss (big blind) showed [6c Kh] and lost with high card Ace
+Seat 3: lintumies12 folded before Flop (didn't bet)
+Seat 4: Earl of Poker V showed [Jd 8d] and won (15324) with a pair of Jacks
+Seat 5: mila is best folded before Flop (didn't bet)
+Seat 6: escabofildo (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209838244: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:50:59 UTC [2024/06/26 18:50:59 ET]
+Table '3769361908 16' 6-max Seat #1 is the button
+Seat 1: nzlking (21202 in chips) 
+Seat 2: 4sasss (10038 in chips) 
+Seat 3: lintumies12 (16070 in chips) 
+Seat 4: Earl of Poker V (15324 in chips) 
+Seat 5: mila is best (41574 in chips) 
+Seat 6: escabofildo (15449 in chips) 
+nzlking: posts the ante 500
+4sasss: posts the ante 500
+lintumies12: posts the ante 500
+Earl of Poker V: posts the ante 500
+mila is best: posts the ante 500
+escabofildo: posts the ante 500
+4sasss: posts small blind 1000
+lintumies12: posts big blind 2000
+*** HOLE CARDS ***
+Earl of Poker V: folds 
+mila is best: folds 
+escabofildo: raises 12949 to 14949 and is all-in
+nzlking: folds 
+4sasss: folds 
+lintumies12: calls 12949
+*** FLOP *** [5s Qc 6d]
+*** TURN *** [5s Qc 6d] [6h]
+*** RIVER *** [5s Qc 6d 6h] [Qh]
+*** SHOW DOWN ***
+lintumies12: shows [Jd Qd] (a full house, Queens full of Sixes)
+escabofildo: shows [Ks Ah] (two pair, Queens and Sixes)
+lintumies12 collected 33898 from pot
+escabofildo finished the tournament in 98th place
+*** SUMMARY ***
+Total pot 33898 | Rake 0 
+Board [5s Qc 6d 6h Qh]
+Seat 1: nzlking (button) folded before Flop (didn't bet)
+Seat 2: 4sasss (small blind) folded before Flop
+Seat 3: lintumies12 (big blind) showed [Jd Qd] and won (33898) with a full house, Queens full of Sixes
+Seat 4: Earl of Poker V folded before Flop (didn't bet)
+Seat 5: mila is best folded before Flop (didn't bet)
+Seat 6: escabofildo showed [Ks Ah] and lost with two pair, Queens and Sixes
+
+PokerStars Hand #251209850724: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:51:50 UTC [2024/06/26 18:51:50 ET]
+Table '3769361908 16' 6-max Seat #2 is the button
+Seat 1: nzlking (20702 in chips) 
+Seat 2: 4sasss (8538 in chips) 
+Seat 3: lintumies12 (34519 in chips) 
+Seat 4: Earl of Poker V (14824 in chips) 
+Seat 5: mila is best (41074 in chips) 
+nzlking: posts the ante 500
+4sasss: posts the ante 500
+lintumies12: posts the ante 500
+Earl of Poker V: posts the ante 500
+mila is best: posts the ante 500
+lintumies12: posts small blind 1000
+Earl of Poker V: posts big blind 2000
+*** HOLE CARDS ***
+GabrielTho1 is disconnected 
+mila is best: folds 
+nzlking: raises 18202 to 20202 and is all-in
+4sasss: calls 8038 and is all-in
+lintumies12: folds 
+Earl of Poker V: folds 
+Uncalled bet (12164) returned to nzlking
+*** FLOP *** [2d 3d Td]
+*** TURN *** [2d 3d Td] [6c]
+*** RIVER *** [2d 3d Td 6c] [9d]
+*** SHOW DOWN ***
+nzlking: shows [As 5s] (high card Ace)
+4sasss: shows [Qd Kd] (a flush, King high)
+4sasss collected 21576 from pot
+*** SUMMARY ***
+Total pot 21576 | Rake 0 
+Board [2d 3d Td 6c 9d]
+Seat 1: nzlking showed [As 5s] and lost with high card Ace
+Seat 2: 4sasss (button) showed [Qd Kd] and won (21576) with a flush, King high
+Seat 3: lintumies12 (small blind) folded before Flop
+Seat 4: Earl of Poker V (big blind) folded before Flop
+Seat 5: mila is best folded before Flop (didn't bet)
+
+PokerStars Hand #251209861204: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:52:33 UTC [2024/06/26 18:52:33 ET]
+Table '3769361908 16' 6-max Seat #3 is the button
+Seat 1: nzlking (12164 in chips) 
+Seat 2: 4sasss (21576 in chips) 
+Seat 3: lintumies12 (33019 in chips) 
+Seat 4: Earl of Poker V (12324 in chips) 
+Seat 5: mila is best (40574 in chips) 
+Seat 6: GabrielTho1 (32111 in chips) 
+nzlking: posts the ante 500
+4sasss: posts the ante 500
+lintumies12: posts the ante 500
+Earl of Poker V: posts the ante 500
+mila is best: posts the ante 500
+GabrielTho1: posts the ante 500
+Earl of Poker V: posts small blind 1000
+mila is best: posts big blind 2000
+*** HOLE CARDS ***
+GabrielTho1: folds 
+nzlking: folds 
+4sasss: raises 19076 to 21076 and is all-in
+lintumies12: folds 
+Earl of Poker V: folds 
+mila is best: folds 
+Uncalled bet (19076) returned to 4sasss
+4sasss collected 8000 from pot
+*** SUMMARY ***
+Total pot 8000 | Rake 0 
+Seat 1: nzlking folded before Flop (didn't bet)
+Seat 2: 4sasss collected (8000)
+Seat 3: lintumies12 (button) folded before Flop (didn't bet)
+Seat 4: Earl of Poker V (small blind) folded before Flop
+Seat 5: mila is best (big blind) folded before Flop
+Seat 6: GabrielTho1 folded before Flop (didn't bet)
+
+PokerStars Hand #251209869427: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:53:06 UTC [2024/06/26 18:53:06 ET]
+Table '3769361908 16' 6-max Seat #4 is the button
+Seat 1: nzlking (11664 in chips) 
+Seat 2: 4sasss (27076 in chips) 
+Seat 3: lintumies12 (32519 in chips) 
+Seat 4: Earl of Poker V (10824 in chips) 
+Seat 5: mila is best (38074 in chips) 
+Seat 6: GabrielTho1 (31611 in chips) 
+nzlking: posts the ante 500
+4sasss: posts the ante 500
+lintumies12: posts the ante 500
+Earl of Poker V: posts the ante 500
+mila is best: posts the ante 500
+GabrielTho1: posts the ante 500
+mila is best: posts small blind 1000
+GabrielTho1: posts big blind 2000
+*** HOLE CARDS ***
+nzlking: folds 
+4sasss: folds 
+lintumies12: raises 30019 to 32019 and is all-in
+Earl of Poker V: folds 
+mila is best: folds 
+GabrielTho1: folds 
+Uncalled bet (30019) returned to lintumies12
+lintumies12 collected 8000 from pot
+lintumies12: doesn't show hand 
+*** SUMMARY ***
+Total pot 8000 | Rake 0 
+Seat 1: nzlking folded before Flop (didn't bet)
+Seat 2: 4sasss folded before Flop (didn't bet)
+Seat 3: lintumies12 collected (8000)
+Seat 4: Earl of Poker V (button) folded before Flop (didn't bet)
+Seat 5: mila is best (small blind) folded before Flop
+Seat 6: GabrielTho1 (big blind) folded before Flop
+
+PokerStars Hand #251209884120: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/26 22:54:07 UTC [2024/06/26 18:54:07 ET]
+Table '3769361908 16' 6-max Seat #5 is the button
+Seat 1: nzlking (11164 in chips) 
+Seat 2: 4sasss (26576 in chips) 
+Seat 3: lintumies12 (38019 in chips) 
+Seat 4: Earl of Poker V (10324 in chips) 
+Seat 5: mila is best (36574 in chips) 
+Seat 6: GabrielTho1 (29111 in chips) 
+nzlking: posts the ante 600
+4sasss: posts the ante 600
+lintumies12: posts the ante 600
+Earl of Poker V: posts the ante 600
+mila is best: posts the ante 600
+GabrielTho1: posts the ante 600
+GabrielTho1: posts small blind 1200
+nzlking: posts big blind 2400
+*** HOLE CARDS ***
+4sasss: raises 3600 to 6000
+lintumies12: folds 
+Earl of Poker V: folds 
+mila is best: folds 
+GabrielTho1: folds 
+nzlking: folds 
+Uncalled bet (3600) returned to 4sasss
+4sasss collected 9600 from pot
+*** SUMMARY ***
+Total pot 9600 | Rake 0 
+Seat 1: nzlking (big blind) folded before Flop
+Seat 2: 4sasss collected (9600)
+Seat 3: lintumies12 folded before Flop (didn't bet)
+Seat 4: Earl of Poker V folded before Flop (didn't bet)
+Seat 5: mila is best (button) folded before Flop (didn't bet)
+Seat 6: GabrielTho1 (small blind) folded before Flop
+
+PokerStars Hand #251209893086: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/26 22:54:44 UTC [2024/06/26 18:54:44 ET]
+Table '3769361908 16' 6-max Seat #6 is the button
+Seat 1: nzlking (8164 in chips) 
+Seat 2: 4sasss (33176 in chips) 
+Seat 3: lintumies12 (37419 in chips) 
+Seat 4: Earl of Poker V (9724 in chips) 
+Seat 5: mila is best (35974 in chips) 
+Seat 6: GabrielTho1 (27311 in chips) 
+nzlking: posts the ante 600
+4sasss: posts the ante 600
+lintumies12: posts the ante 600
+Earl of Poker V: posts the ante 600
+mila is best: posts the ante 600
+GabrielTho1: posts the ante 600
+nzlking: posts small blind 1200
+4sasss: posts big blind 2400
+*** HOLE CARDS ***
+lintumies12: raises 34419 to 36819 and is all-in
+Earl of Poker V: calls 9124 and is all-in
+mila is best: folds 
+GabrielTho1: folds 
+nzlking: calls 6364 and is all-in
+4sasss: folds 
+Uncalled bet (27695) returned to lintumies12
+*** FLOP *** [Jh Td Jc]
+*** TURN *** [Jh Td Jc] [2s]
+*** RIVER *** [Jh Td Jc 2s] [9c]
+*** SHOW DOWN ***
+lintumies12: shows [Ad Kc] (a pair of Jacks)
+Earl of Poker V: shows [Th Ts] (a full house, Tens full of Jacks)
+Earl of Poker V collected 3120 from side pot
+nzlking: shows [6h 6d] (two pair, Jacks and Sixes)
+Earl of Poker V collected 28692 from main pot
+nzlking finished the tournament in 73rd place
+*** SUMMARY ***
+Total pot 31812 Main pot 28692. Side pot 3120. | Rake 0 
+Board [Jh Td Jc 2s 9c]
+Seat 1: nzlking (small blind) showed [6h 6d] and lost with two pair, Jacks and Sixes
+Seat 2: 4sasss (big blind) folded before Flop
+Seat 3: lintumies12 showed [Ad Kc] and lost with a pair of Jacks
+Seat 4: Earl of Poker V showed [Th Ts] and won (31812) with a full house, Tens full of Jacks
+Seat 5: mila is best folded before Flop (didn't bet)
+Seat 6: GabrielTho1 (button) folded before Flop (didn't bet)

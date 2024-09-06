@@ -1,0 +1,1325 @@
+PokerStars Hand #251206156355: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level II (40/80) - 2024/06/26 19:40:48 UTC [2024/06/26 15:40:48 ET]
+Table '3769361899 6' 7-max Seat #4 is the button
+Seat 1: babygabriiel (6721 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (3407 in chips, $25 bounty) 
+Seat 3: DTS|Travka (4645 in chips, $25 bounty) 
+Seat 4: sensy10 (6860 in chips, $25 bounty) 
+Seat 5: pelese (11592 in chips, $25 bounty) 
+Seat 6: PlayaaaaH23 (9473 in chips, $25 bounty) 
+Seat 7: Emilohlsson (6972 in chips, $25 bounty) 
+babygabriiel: posts the ante 10
+MaCheCazzoFai: posts the ante 10
+DTS|Travka: posts the ante 10
+sensy10: posts the ante 10
+pelese: posts the ante 10
+PlayaaaaH23: posts the ante 10
+Emilohlsson: posts the ante 10
+pelese: posts small blind 40
+PlayaaaaH23: posts big blind 80
+*** HOLE CARDS ***
+Emilohlsson: folds 
+babygabriiel: raises 80 to 160
+MaCheCazzoFai: folds 
+DTS|Travka: folds 
+sensy10: folds 
+pelese: folds 
+PlayaaaaH23: calls 80
+*** FLOP *** [7c 7h Jd]
+PlayaaaaH23: checks 
+babygabriiel: bets 116
+PlayaaaaH23: folds 
+Uncalled bet (116) returned to babygabriiel
+babygabriiel collected 430 from pot
+babygabriiel: doesn't show hand 
+*** SUMMARY ***
+Total pot 430 | Rake 0 
+Board [7c 7h Jd]
+Seat 1: babygabriiel collected (430)
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: DTS|Travka folded before Flop (didn't bet)
+Seat 4: sensy10 (button) folded before Flop (didn't bet)
+Seat 5: pelese (small blind) folded before Flop
+Seat 6: PlayaaaaH23 (big blind) folded on the Flop
+Seat 7: Emilohlsson folded before Flop (didn't bet)
+
+PokerStars Hand #251206169058: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level II (40/80) - 2024/06/26 19:41:34 UTC [2024/06/26 15:41:34 ET]
+Table '3769361899 6' 7-max Seat #5 is the button
+Seat 1: babygabriiel (6981 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (3397 in chips, $25 bounty) 
+Seat 3: DTS|Travka (4635 in chips, $25 bounty) 
+Seat 4: sensy10 (6850 in chips, $25 bounty) 
+Seat 5: pelese (11542 in chips, $25 bounty) 
+Seat 6: PlayaaaaH23 (9303 in chips, $25 bounty) 
+babygabriiel: posts the ante 10
+MaCheCazzoFai: posts the ante 10
+DTS|Travka: posts the ante 10
+sensy10: posts the ante 10
+pelese: posts the ante 10
+PlayaaaaH23: posts the ante 10
+PlayaaaaH23: posts small blind 40
+babygabriiel: posts big blind 80
+*** HOLE CARDS ***
+MaCheCazzoFai: folds 
+DTS|Travka: folds 
+sensy10: folds 
+pelese: folds 
+PlayaaaaH23: calls 40
+Kyleddd is disconnected 
+babygabriiel: checks 
+*** FLOP *** [As Ad Qh]
+PlayaaaaH23: bets 80
+babygabriiel: folds 
+Uncalled bet (80) returned to PlayaaaaH23
+PlayaaaaH23 collected 220 from pot
+PlayaaaaH23: doesn't show hand 
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [As Ad Qh]
+Seat 1: babygabriiel (big blind) folded on the Flop
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: DTS|Travka folded before Flop (didn't bet)
+Seat 4: sensy10 folded before Flop (didn't bet)
+Seat 5: pelese (button) folded before Flop (didn't bet)
+Seat 6: PlayaaaaH23 (small blind) collected (220)
+
+PokerStars Hand #251206187957: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level II (40/80) - 2024/06/26 19:42:42 UTC [2024/06/26 15:42:42 ET]
+Table '3769361899 6' 7-max Seat #6 is the button
+Seat 1: babygabriiel (6891 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (3387 in chips, $25 bounty) 
+Seat 4: sensy10 (6840 in chips, $25 bounty) 
+Seat 5: pelese (11532 in chips, $25 bounty) 
+Seat 6: PlayaaaaH23 (9433 in chips, $25 bounty) 
+Seat 7: Kyleddd (7000 in chips) out of hand (moved from another table into small blind)
+Kyleddd will be allowed to play after the button
+babygabriiel: posts the ante 10
+MaCheCazzoFai: posts the ante 10
+sensy10: posts the ante 10
+pelese: posts the ante 10
+PlayaaaaH23: posts the ante 10
+babygabriiel: posts small blind 40
+MaCheCazzoFai: posts big blind 80
+*** HOLE CARDS ***
+sensy10: raises 80 to 160
+pelese: folds 
+PlayaaaaH23: folds 
+babygabriiel: folds 
+MaCheCazzoFai: raises 560 to 720
+sensy10: raises 6110 to 6830 and is all-in
+MaCheCazzoFai: calls 2657 and is all-in
+Uncalled bet (3453) returned to sensy10
+*** FLOP *** [4c 7c 6h]
+*** TURN *** [4c 7c 6h] [Jh]
+*** RIVER *** [4c 7c 6h Jh] [7s]
+*** SHOW DOWN ***
+MaCheCazzoFai: shows [Qc Qh] (two pair, Queens and Sevens)
+sensy10: shows [Kh Ad] (a pair of Sevens)
+MaCheCazzoFai collected 6844 from pot
+*** SUMMARY ***
+Total pot 6844 | Rake 0 
+Board [4c 7c 6h Jh 7s]
+Seat 1: babygabriiel (small blind) folded before Flop
+Seat 2: MaCheCazzoFai (big blind) showed [Qc Qh] and won (6844) with two pair, Queens and Sevens
+Seat 4: sensy10 showed [Kh Ad] and lost with a pair of Sevens
+Seat 5: pelese folded before Flop (didn't bet)
+Seat 6: PlayaaaaH23 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251206196941: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level II (40/80) - 2024/06/26 19:43:15 UTC [2024/06/26 15:43:15 ET]
+Table '3769361899 6' 7-max Seat #1 is the button
+Seat 1: babygabriiel (6841 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (6844 in chips, $25 bounty) 
+Seat 4: sensy10 (3453 in chips, $25 bounty) 
+Seat 5: pelese (11522 in chips, $25 bounty) 
+Seat 6: PlayaaaaH23 (9423 in chips, $25 bounty) 
+Seat 7: Kyleddd (7000 in chips, $25 bounty) 
+babygabriiel: posts the ante 10
+MaCheCazzoFai: posts the ante 10
+sensy10: posts the ante 10
+pelese: posts the ante 10
+PlayaaaaH23: posts the ante 10
+Kyleddd: posts the ante 10
+MaCheCazzoFai: posts small blind 40
+sensy10: posts big blind 80
+*** HOLE CARDS ***
+pelese: folds 
+PlayaaaaH23: raises 80 to 160
+Kyleddd: folds 
+babygabriiel: folds 
+MaCheCazzoFai: folds 
+sensy10: calls 80
+*** FLOP *** [6s 9d Js]
+sensy10: checks 
+PlayaaaaH23: bets 680
+sensy10: folds 
+Uncalled bet (680) returned to PlayaaaaH23
+PlayaaaaH23 collected 420 from pot
+PlayaaaaH23: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [6s 9d Js]
+Seat 1: babygabriiel (button) folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai (small blind) folded before Flop
+Seat 4: sensy10 (big blind) folded on the Flop
+Seat 5: pelese folded before Flop (didn't bet)
+Seat 6: PlayaaaaH23 collected (420)
+Seat 7: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #251206213258: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level III (50/100) - 2024/06/26 19:44:14 UTC [2024/06/26 15:44:14 ET]
+Table '3769361899 6' 7-max Seat #2 is the button
+Seat 1: babygabriiel (6831 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (6794 in chips, $25 bounty) 
+Seat 3: ricardons8 (7000 in chips) out of hand (moved from another table into small blind)
+Seat 4: sensy10 (3283 in chips, $25 bounty) 
+Seat 5: pelese (11512 in chips, $25 bounty) 
+Seat 6: PlayaaaaH23 (9673 in chips, $25 bounty) 
+Seat 7: Kyleddd (6990 in chips, $25 bounty) 
+ricardons8 will be allowed to play after the button
+babygabriiel: posts the ante 12
+MaCheCazzoFai: posts the ante 12
+sensy10: posts the ante 12
+pelese: posts the ante 12
+PlayaaaaH23: posts the ante 12
+Kyleddd: posts the ante 12
+sensy10: posts small blind 50
+pelese: posts big blind 100
+*** HOLE CARDS ***
+PlayaaaaH23: folds 
+Kyleddd: folds 
+babygabriiel: folds 
+MaCheCazzoFai: raises 125 to 225
+sensy10: raises 3046 to 3271 and is all-in
+pelese: folds 
+MaCheCazzoFai: folds 
+Uncalled bet (3046) returned to sensy10
+sensy10 collected 622 from pot
+*** SUMMARY ***
+Total pot 622 | Rake 0 
+Seat 1: babygabriiel folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai (button) folded before Flop
+Seat 4: sensy10 (small blind) collected (622)
+Seat 5: pelese (big blind) folded before Flop
+Seat 6: PlayaaaaH23 folded before Flop (didn't bet)
+Seat 7: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #251206221252: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level III (50/100) - 2024/06/26 19:44:44 UTC [2024/06/26 15:44:44 ET]
+Table '3769361899 6' 7-max Seat #4 is the button
+Seat 1: babygabriiel (6819 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (6557 in chips, $25 bounty) 
+Seat 3: ricardons8 (7000 in chips, $25 bounty) 
+Seat 4: sensy10 (3668 in chips, $25 bounty) 
+Seat 5: pelese (11400 in chips, $25 bounty) 
+Seat 6: PlayaaaaH23 (9661 in chips, $25 bounty) 
+Seat 7: Kyleddd (6978 in chips, $25 bounty) 
+babygabriiel: posts the ante 12
+MaCheCazzoFai: posts the ante 12
+ricardons8: posts the ante 12
+sensy10: posts the ante 12
+pelese: posts the ante 12
+PlayaaaaH23: posts the ante 12
+Kyleddd: posts the ante 12
+pelese: posts small blind 50
+PlayaaaaH23: posts big blind 100
+*** HOLE CARDS ***
+Kyleddd: raises 100 to 200
+babygabriiel: folds 
+MaCheCazzoFai: calls 200
+ricardons8: calls 200
+sensy10: folds 
+pelese: raises 1350 to 1550
+PlayaaaaH23: folds 
+Kyleddd: raises 5416 to 6966 and is all-in
+MaCheCazzoFai: folds 
+ricardons8: folds 
+pelese: folds 
+Uncalled bet (5416) returned to Kyleddd
+Kyleddd collected 3684 from pot
+Kyleddd: doesn't show hand 
+*** SUMMARY ***
+Total pot 3684 | Rake 0 
+Seat 1: babygabriiel folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai folded before Flop
+Seat 3: ricardons8 folded before Flop
+Seat 4: sensy10 (button) folded before Flop (didn't bet)
+Seat 5: pelese (small blind) folded before Flop
+Seat 6: PlayaaaaH23 (big blind) folded before Flop
+Seat 7: Kyleddd collected (3684)
+
+PokerStars Hand #251206250691: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level III (50/100) - 2024/06/26 19:46:30 UTC [2024/06/26 15:46:30 ET]
+Table '3769361899 6' 7-max Seat #5 is the button
+Seat 1: babygabriiel (6807 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (6345 in chips, $25 bounty) 
+Seat 3: ricardons8 (6788 in chips, $25 bounty) 
+Seat 4: sensy10 (3656 in chips, $25 bounty) 
+Seat 5: pelese (9838 in chips, $25 bounty) 
+Seat 6: PlayaaaaH23 (9549 in chips, $25 bounty) 
+Seat 7: Kyleddd (9100 in chips, $25 bounty) 
+babygabriiel: posts the ante 12
+MaCheCazzoFai: posts the ante 12
+ricardons8: posts the ante 12
+sensy10: posts the ante 12
+pelese: posts the ante 12
+PlayaaaaH23: posts the ante 12
+Kyleddd: posts the ante 12
+PlayaaaaH23: posts small blind 50
+Kyleddd: posts big blind 100
+*** HOLE CARDS ***
+babygabriiel: folds 
+MaCheCazzoFai: folds 
+ricardons8: folds 
+sensy10: folds 
+pelese: raises 130 to 230
+PlayaaaaH23: raises 670 to 900
+Kyleddd: folds 
+pelese: folds 
+Uncalled bet (670) returned to PlayaaaaH23
+PlayaaaaH23 collected 644 from pot
+PlayaaaaH23: doesn't show hand 
+*** SUMMARY ***
+Total pot 644 | Rake 0 
+Seat 1: babygabriiel folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: ricardons8 folded before Flop (didn't bet)
+Seat 4: sensy10 folded before Flop (didn't bet)
+Seat 5: pelese (button) folded before Flop
+Seat 6: PlayaaaaH23 (small blind) collected (644)
+Seat 7: Kyleddd (big blind) folded before Flop
+
+PokerStars Hand #251206258707: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level III (50/100) - 2024/06/26 19:46:59 UTC [2024/06/26 15:46:59 ET]
+Table '3769361899 6' 7-max Seat #6 is the button
+Seat 1: babygabriiel (6795 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (6333 in chips, $25 bounty) 
+Seat 3: ricardons8 (6776 in chips, $25 bounty) 
+Seat 4: sensy10 (3644 in chips, $25 bounty) 
+Seat 5: pelese (9596 in chips, $25 bounty) 
+Seat 6: PlayaaaaH23 (9951 in chips, $25 bounty) 
+Seat 7: Kyleddd (8988 in chips, $25 bounty) 
+babygabriiel: posts the ante 12
+MaCheCazzoFai: posts the ante 12
+ricardons8: posts the ante 12
+sensy10: posts the ante 12
+pelese: posts the ante 12
+PlayaaaaH23: posts the ante 12
+Kyleddd: posts the ante 12
+Kyleddd: posts small blind 50
+babygabriiel: posts big blind 100
+*** HOLE CARDS ***
+MaCheCazzoFai: raises 125 to 225
+ricardons8: calls 225
+sensy10: folds 
+pelese: folds 
+PlayaaaaH23: folds 
+Kyleddd: folds 
+babygabriiel: calls 125
+*** FLOP *** [Qs Jh 9h]
+babygabriiel: checks 
+MaCheCazzoFai: checks 
+ricardons8: bets 202
+babygabriiel: calls 202
+MaCheCazzoFai: raises 708 to 910
+ricardons8: calls 708
+babygabriiel: calls 708
+*** TURN *** [Qs Jh 9h] [Ts]
+babygabriiel: checks 
+MaCheCazzoFai: checks 
+ricardons8: checks 
+*** RIVER *** [Qs Jh 9h Ts] [Kc]
+babygabriiel: checks 
+MaCheCazzoFai: checks 
+ricardons8: checks 
+*** SHOW DOWN ***
+babygabriiel: shows [Qc Kh] (a straight, Nine to King)
+MaCheCazzoFai: shows [9s Js] (a straight, Nine to King)
+ricardons8: shows [7h 6h] (a straight, Nine to King)
+babygabriiel collected 1180 from pot
+MaCheCazzoFai collected 1180 from pot
+ricardons8 collected 1179 from pot
+*** SUMMARY ***
+Total pot 3539 | Rake 0 
+Board [Qs Jh 9h Ts Kc]
+Seat 1: babygabriiel (big blind) showed [Qc Kh] and won (1180) with a straight, Nine to King
+Seat 2: MaCheCazzoFai showed [9s Js] and won (1180) with a straight, Nine to King
+Seat 3: ricardons8 showed [7h 6h] and won (1179) with a straight, Nine to King
+Seat 4: sensy10 folded before Flop (didn't bet)
+Seat 5: pelese folded before Flop (didn't bet)
+Seat 6: PlayaaaaH23 (button) folded before Flop (didn't bet)
+Seat 7: Kyleddd (small blind) folded before Flop
+
+PokerStars Hand #251206305156: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level III (50/100) - 2024/06/26 19:49:48 UTC [2024/06/26 15:49:48 ET]
+Table '3769361899 6' 7-max Seat #7 is the button
+Seat 1: babygabriiel (6828 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (6366 in chips, $25 bounty) 
+Seat 3: ricardons8 (6808 in chips, $25 bounty) 
+Seat 4: sensy10 (3632 in chips, $25 bounty) 
+Seat 5: pelese (9584 in chips, $25 bounty) 
+Seat 6: PlayaaaaH23 (9939 in chips, $25 bounty) 
+Seat 7: Kyleddd (8926 in chips, $25 bounty) 
+babygabriiel: posts the ante 12
+MaCheCazzoFai: posts the ante 12
+ricardons8: posts the ante 12
+sensy10: posts the ante 12
+pelese: posts the ante 12
+PlayaaaaH23: posts the ante 12
+Kyleddd: posts the ante 12
+babygabriiel: posts small blind 50
+MaCheCazzoFai: posts big blind 100
+*** HOLE CARDS ***
+ricardons8: folds 
+sensy10: raises 100 to 200
+pelese: folds 
+PlayaaaaH23: calls 200
+Kyleddd: calls 200
+babygabriiel: folds 
+MaCheCazzoFai: folds 
+*** FLOP *** [5h 3h Tc]
+sensy10: checks 
+PlayaaaaH23: bets 284
+Kyleddd: calls 284
+sensy10: folds 
+*** TURN *** [5h 3h Tc] [6s]
+PlayaaaaH23: bets 900
+Kyleddd: raises 1730 to 2630
+PlayaaaaH23: raises 6813 to 9443 and is all-in
+Kyleddd: calls 5800 and is all-in
+Uncalled bet (1013) returned to PlayaaaaH23
+*** RIVER *** [5h 3h Tc 6s] [6c]
+*** SHOW DOWN ***
+PlayaaaaH23: shows [3s 3d] (a full house, Threes full of Sixes)
+Kyleddd: shows [6d 6h] (four of a kind, Sixes)
+Kyleddd collected 18262 from pot
+*** SUMMARY ***
+Total pot 18262 | Rake 0 
+Board [5h 3h Tc 6s 6c]
+Seat 1: babygabriiel (small blind) folded before Flop
+Seat 2: MaCheCazzoFai (big blind) folded before Flop
+Seat 3: ricardons8 folded before Flop (didn't bet)
+Seat 4: sensy10 folded on the Flop
+Seat 5: pelese folded before Flop (didn't bet)
+Seat 6: PlayaaaaH23 showed [3s 3d] and lost with a full house, Threes full of Sixes
+Seat 7: Kyleddd (button) showed [6d 6h] and won (18262) with four of a kind, Sixes
+
+PokerStars Hand #251206347726: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/06/26 19:52:19 UTC [2024/06/26 15:52:19 ET]
+Table '3769361899 6' 7-max Seat #1 is the button
+Seat 1: babygabriiel (6766 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (6254 in chips, $25 bounty) 
+Seat 3: ricardons8 (6796 in chips, $25 bounty) 
+Seat 4: sensy10 (3420 in chips, $25 bounty) 
+Seat 5: pelese (9572 in chips, $25 bounty) 
+Seat 6: PlayaaaaH23 (1013 in chips, $25 bounty) 
+Seat 7: Kyleddd (18262 in chips, $25 bounty) 
+babygabriiel: posts the ante 16
+MaCheCazzoFai: posts the ante 16
+ricardons8: posts the ante 16
+sensy10: posts the ante 16
+pelese: posts the ante 16
+PlayaaaaH23: posts the ante 16
+Kyleddd: posts the ante 16
+MaCheCazzoFai: posts small blind 60
+ricardons8: posts big blind 120
+*** HOLE CARDS ***
+sensy10: folds 
+pelese: folds 
+PlayaaaaH23: folds 
+Kyleddd: folds 
+babygabriiel: folds 
+MaCheCazzoFai: calls 60
+ricardons8: raises 300 to 420
+MaCheCazzoFai: calls 300
+*** FLOP *** [Qd Th Ks]
+MaCheCazzoFai: checks 
+ricardons8: checks 
+*** TURN *** [Qd Th Ks] [7h]
+MaCheCazzoFai: bets 952
+ricardons8: folds 
+Uncalled bet (952) returned to MaCheCazzoFai
+MaCheCazzoFai collected 952 from pot
+MaCheCazzoFai: doesn't show hand 
+*** SUMMARY ***
+Total pot 952 | Rake 0 
+Board [Qd Th Ks 7h]
+Seat 1: babygabriiel (button) folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai (small blind) collected (952)
+Seat 3: ricardons8 (big blind) folded on the Turn
+Seat 4: sensy10 folded before Flop (didn't bet)
+Seat 5: pelese folded before Flop (didn't bet)
+Seat 6: PlayaaaaH23 folded before Flop (didn't bet)
+Seat 7: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #251206366279: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/06/26 19:53:25 UTC [2024/06/26 15:53:25 ET]
+Table '3769361899 6' 7-max Seat #2 is the button
+Seat 1: babygabriiel (6750 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (6770 in chips, $25 bounty) 
+Seat 3: ricardons8 (6360 in chips, $25 bounty) 
+Seat 4: sensy10 (3404 in chips, $25 bounty) 
+Seat 5: pelese (9556 in chips, $25 bounty) 
+Seat 6: PlayaaaaH23 (997 in chips, $25 bounty) 
+Seat 7: Kyleddd (18246 in chips, $25 bounty) 
+babygabriiel: posts the ante 16
+MaCheCazzoFai: posts the ante 16
+ricardons8: posts the ante 16
+sensy10: posts the ante 16
+pelese: posts the ante 16
+PlayaaaaH23: posts the ante 16
+Kyleddd: posts the ante 16
+ricardons8: posts small blind 60
+sensy10: posts big blind 120
+*** HOLE CARDS ***
+pelese: raises 156 to 276
+PlayaaaaH23: raises 705 to 981 and is all-in
+Kyleddd: folds 
+babygabriiel: folds 
+MaCheCazzoFai: folds 
+ricardons8: folds 
+sensy10: folds 
+pelese: calls 705
+*** FLOP *** [Ah 3d 9h]
+*** TURN *** [Ah 3d 9h] [8c]
+*** RIVER *** [Ah 3d 9h 8c] [7s]
+*** SHOW DOWN ***
+pelese: shows [5s As] (a pair of Aces)
+PlayaaaaH23: shows [Ac Qc] (a pair of Aces - Queen kicker)
+PlayaaaaH23 collected 2254 from pot
+*** SUMMARY ***
+Total pot 2254 | Rake 0 
+Board [Ah 3d 9h 8c 7s]
+Seat 1: babygabriiel folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai (button) folded before Flop (didn't bet)
+Seat 3: ricardons8 (small blind) folded before Flop
+Seat 4: sensy10 (big blind) folded before Flop
+Seat 5: pelese showed [5s As] and lost with a pair of Aces
+Seat 6: PlayaaaaH23 showed [Ac Qc] and won (2254) with a pair of Aces
+Seat 7: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #251206382448: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/06/26 19:54:22 UTC [2024/06/26 15:54:22 ET]
+Table '3769361899 6' 7-max Seat #3 is the button
+Seat 1: babygabriiel (6734 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (6754 in chips, $25 bounty) 
+Seat 3: ricardons8 (6284 in chips, $25 bounty) 
+Seat 4: sensy10 (3268 in chips, $25 bounty) 
+Seat 5: pelese (8559 in chips, $25 bounty) 
+Seat 6: PlayaaaaH23 (2254 in chips, $25 bounty) 
+Seat 7: Kyleddd (18230 in chips, $25 bounty) 
+babygabriiel: posts the ante 16
+MaCheCazzoFai: posts the ante 16
+ricardons8: posts the ante 16
+sensy10: posts the ante 16
+pelese: posts the ante 16
+PlayaaaaH23: posts the ante 16
+Kyleddd: posts the ante 16
+sensy10: posts small blind 60
+pelese: posts big blind 120
+*** HOLE CARDS ***
+PlayaaaaH23: folds 
+Kyleddd: folds 
+babygabriiel: folds 
+MaCheCazzoFai: folds 
+ricardons8: calls 120
+sensy10: folds 
+pelese: checks 
+*** FLOP *** [8c 7h Kh]
+pelese: checks 
+ricardons8: bets 120
+pelese: raises 360 to 480
+ricardons8: folds 
+Uncalled bet (360) returned to pelese
+pelese collected 652 from pot
+pelese: doesn't show hand 
+*** SUMMARY ***
+Total pot 652 | Rake 0 
+Board [8c 7h Kh]
+Seat 1: babygabriiel folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: ricardons8 (button) folded on the Flop
+Seat 4: sensy10 (small blind) folded before Flop
+Seat 5: pelese (big blind) collected (652)
+Seat 6: PlayaaaaH23 folded before Flop (didn't bet)
+Seat 7: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #251206483601: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/06/26 20:01:50 UTC [2024/06/26 16:01:50 ET]
+Table '3769361899 6' 7-max Seat #4 is the button
+Seat 1: babygabriiel (6718 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (6738 in chips, $25 bounty) 
+Seat 3: ricardons8 (6028 in chips, $25 bounty) 
+Seat 4: sensy10 (3192 in chips, $25 bounty) 
+Seat 5: pelese (8955 in chips, $25 bounty) 
+Seat 6: @tetaschell (7000 in chips, $25 bounty) 
+Seat 7: Kyleddd (18214 in chips, $25 bounty) 
+babygabriiel: posts the ante 16
+MaCheCazzoFai: posts the ante 16
+ricardons8: posts the ante 16
+sensy10: posts the ante 16
+pelese: posts the ante 16
+@tetaschell: posts the ante 16
+Kyleddd: posts the ante 16
+pelese: posts small blind 60
+@tetaschell: posts big blind 120
+*** HOLE CARDS ***
+Kyleddd: folds 
+babygabriiel: folds 
+MaCheCazzoFai: folds 
+ricardons8: folds 
+sensy10: raises 120 to 240
+pelese: folds 
+@tetaschell: folds 
+Uncalled bet (120) returned to sensy10
+sensy10 collected 412 from pot
+*** SUMMARY ***
+Total pot 412 | Rake 0 
+Seat 1: babygabriiel folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: ricardons8 folded before Flop (didn't bet)
+Seat 4: sensy10 (button) collected (412)
+Seat 5: pelese (small blind) folded before Flop
+Seat 6: @tetaschell (big blind) folded before Flop
+Seat 7: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #251206491444: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/06/26 20:02:18 UTC [2024/06/26 16:02:18 ET]
+Table '3769361899 6' 7-max Seat #5 is the button
+Seat 1: babygabriiel (6702 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (6722 in chips, $25 bounty) 
+Seat 3: ricardons8 (6012 in chips, $25 bounty) 
+Seat 4: sensy10 (3468 in chips, $25 bounty) 
+Seat 5: pelese (8879 in chips, $25 bounty) 
+Seat 6: @tetaschell (6864 in chips, $25 bounty) 
+Seat 7: Kyleddd (18198 in chips, $25 bounty) 
+babygabriiel: posts the ante 16
+MaCheCazzoFai: posts the ante 16
+ricardons8: posts the ante 16
+sensy10: posts the ante 16
+pelese: posts the ante 16
+@tetaschell: posts the ante 16
+Kyleddd: posts the ante 16
+@tetaschell: posts small blind 60
+Kyleddd: posts big blind 120
+*** HOLE CARDS ***
+babygabriiel: folds 
+MaCheCazzoFai: raises 180 to 300
+ricardons8: folds 
+sensy10: folds 
+pelese: folds 
+@tetaschell: folds 
+Kyleddd: calls 180
+*** FLOP *** [As 3c Kc]
+Kyleddd: checks 
+MaCheCazzoFai: bets 193
+Kyleddd: folds 
+Uncalled bet (193) returned to MaCheCazzoFai
+MaCheCazzoFai collected 772 from pot
+MaCheCazzoFai: doesn't show hand 
+*** SUMMARY ***
+Total pot 772 | Rake 0 
+Board [As 3c Kc]
+Seat 1: babygabriiel folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai collected (772)
+Seat 3: ricardons8 folded before Flop (didn't bet)
+Seat 4: sensy10 folded before Flop (didn't bet)
+Seat 5: pelese (button) folded before Flop (didn't bet)
+Seat 6: @tetaschell (small blind) folded before Flop
+Seat 7: Kyleddd (big blind) folded on the Flop
+
+PokerStars Hand #251206508188: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/06/26 20:03:18 UTC [2024/06/26 16:03:18 ET]
+Table '3769361899 6' 7-max Seat #6 is the button
+Seat 1: babygabriiel (6686 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (7178 in chips, $25 bounty) 
+Seat 3: ricardons8 (5996 in chips, $25 bounty) 
+Seat 4: sensy10 (3452 in chips, $25 bounty) 
+Seat 5: pelese (8863 in chips, $25 bounty) 
+Seat 6: @tetaschell (6788 in chips, $25 bounty) 
+Seat 7: Kyleddd (17882 in chips, $25 bounty) 
+babygabriiel: posts the ante 16
+MaCheCazzoFai: posts the ante 16
+ricardons8: posts the ante 16
+sensy10: posts the ante 16
+pelese: posts the ante 16
+@tetaschell: posts the ante 16
+Kyleddd: posts the ante 16
+Kyleddd: posts small blind 60
+babygabriiel: posts big blind 120
+*** HOLE CARDS ***
+MaCheCazzoFai: folds 
+ricardons8: folds 
+sensy10: raises 120 to 240
+pelese: calls 240
+@tetaschell: folds 
+Kyleddd: folds 
+babygabriiel: folds 
+*** FLOP *** [5h Jh Qs]
+sensy10: checks 
+pelese: bets 232
+sensy10: calls 232
+*** TURN *** [5h Jh Qs] [2h]
+sensy10: checks 
+pelese: bets 679
+sensy10: calls 679
+*** RIVER *** [5h Jh Qs 2h] [8s]
+sensy10: checks 
+pelese: bets 7696 and is all-in
+sensy10: folds 
+Uncalled bet (7696) returned to pelese
+pelese collected 2594 from pot
+pelese: doesn't show hand 
+*** SUMMARY ***
+Total pot 2594 | Rake 0 
+Board [5h Jh Qs 2h 8s]
+Seat 1: babygabriiel (big blind) folded before Flop
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: ricardons8 folded before Flop (didn't bet)
+Seat 4: sensy10 folded on the River
+Seat 5: pelese collected (2594)
+Seat 6: @tetaschell (button) folded before Flop (didn't bet)
+Seat 7: Kyleddd (small blind) folded before Flop
+
+PokerStars Hand #251206529704: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IV (60/120) - 2024/06/26 20:04:33 UTC [2024/06/26 16:04:33 ET]
+Table '3769361899 6' 7-max Seat #7 is the button
+Seat 1: babygabriiel (6550 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (7162 in chips, $25 bounty) 
+Seat 3: ricardons8 (5980 in chips, $25 bounty) 
+Seat 4: sensy10 (2285 in chips, $25 bounty) 
+Seat 5: pelese (10290 in chips, $25 bounty) 
+Seat 6: @tetaschell (6772 in chips, $25 bounty) 
+Seat 7: Kyleddd (17806 in chips, $25 bounty) 
+babygabriiel: posts the ante 16
+MaCheCazzoFai: posts the ante 16
+ricardons8: posts the ante 16
+sensy10: posts the ante 16
+pelese: posts the ante 16
+@tetaschell: posts the ante 16
+Kyleddd: posts the ante 16
+babygabriiel: posts small blind 60
+MaCheCazzoFai: posts big blind 120
+*** HOLE CARDS ***
+ricardons8: folds 
+sensy10: raises 120 to 240
+pelese: folds 
+@tetaschell: folds 
+Kyleddd: folds 
+babygabriiel: raises 600 to 840
+MaCheCazzoFai: folds 
+sensy10: raises 1429 to 2269 and is all-in
+babygabriiel: calls 1429
+*** FLOP *** [8h 4s 3c]
+*** TURN *** [8h 4s 3c] [Tc]
+*** RIVER *** [8h 4s 3c Tc] [9c]
+*** SHOW DOWN ***
+babygabriiel: shows [Kh Jh] (high card King)
+sensy10: shows [Qd Qc] (a pair of Queens)
+sensy10 collected 4770 from pot
+*** SUMMARY ***
+Total pot 4770 | Rake 0 
+Board [8h 4s 3c Tc 9c]
+Seat 1: babygabriiel (small blind) showed [Kh Jh] and lost with high card King
+Seat 2: MaCheCazzoFai (big blind) folded before Flop
+Seat 3: ricardons8 folded before Flop (didn't bet)
+Seat 4: sensy10 showed [Qd Qc] and won (4770) with a pair of Queens
+Seat 5: pelese folded before Flop (didn't bet)
+Seat 6: @tetaschell folded before Flop (didn't bet)
+Seat 7: Kyleddd (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251206540446: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/06/26 20:05:10 UTC [2024/06/26 16:05:10 ET]
+Table '3769361899 6' 7-max Seat #1 is the button
+Seat 1: babygabriiel (4265 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (7026 in chips, $25 bounty) 
+Seat 3: ricardons8 (5964 in chips, $25 bounty) 
+Seat 4: sensy10 (4770 in chips, $25 bounty) 
+Seat 5: pelese (10274 in chips, $25 bounty) 
+Seat 6: @tetaschell (6756 in chips, $25 bounty) 
+Seat 7: Kyleddd (17790 in chips, $25 bounty) 
+babygabriiel: posts the ante 20
+MaCheCazzoFai: posts the ante 20
+ricardons8: posts the ante 20
+sensy10: posts the ante 20
+pelese: posts the ante 20
+@tetaschell: posts the ante 20
+Kyleddd: posts the ante 20
+MaCheCazzoFai: posts small blind 80
+ricardons8: posts big blind 160
+*** HOLE CARDS ***
+sensy10: folds 
+pelese: folds 
+@tetaschell: folds 
+Kyleddd: folds 
+babygabriiel: folds 
+MaCheCazzoFai: calls 80
+ricardons8: checks 
+*** FLOP *** [Qh 7s Jc]
+MaCheCazzoFai: checks 
+ricardons8: checks 
+*** TURN *** [Qh 7s Jc] [Jh]
+MaCheCazzoFai: checks 
+ricardons8: checks 
+*** RIVER *** [Qh 7s Jc Jh] [3h]
+MaCheCazzoFai: bets 460
+ricardons8: folds 
+Uncalled bet (460) returned to MaCheCazzoFai
+MaCheCazzoFai collected 460 from pot
+MaCheCazzoFai: doesn't show hand 
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Board [Qh 7s Jc Jh 3h]
+Seat 1: babygabriiel (button) folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai (small blind) collected (460)
+Seat 3: ricardons8 (big blind) folded on the River
+Seat 4: sensy10 folded before Flop (didn't bet)
+Seat 5: pelese folded before Flop (didn't bet)
+Seat 6: @tetaschell folded before Flop (didn't bet)
+Seat 7: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #251206560407: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/06/26 20:06:19 UTC [2024/06/26 16:06:19 ET]
+Table '3769361899 6' 7-max Seat #2 is the button
+Seat 1: babygabriiel (4245 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (7306 in chips, $25 bounty) 
+Seat 3: ricardons8 (5784 in chips, $25 bounty) 
+Seat 4: sensy10 (4750 in chips, $25 bounty) 
+Seat 6: @tetaschell (6736 in chips, $25 bounty) 
+Seat 7: Kyleddd (17770 in chips, $25 bounty) 
+babygabriiel: posts the ante 20
+MaCheCazzoFai: posts the ante 20
+ricardons8: posts the ante 20
+sensy10: posts the ante 20
+@tetaschell: posts the ante 20
+Kyleddd: posts the ante 20
+ricardons8: posts small blind 80
+sensy10: posts big blind 160
+*** HOLE CARDS ***
+@tetaschell: raises 160 to 320
+Kyleddd: folds 
+babygabriiel: folds 
+MaCheCazzoFai: folds 
+ricardons8: folds 
+sensy10: calls 160
+*** FLOP *** [9c 7h Jc]
+sensy10: checks 
+@tetaschell: bets 277
+sensy10: calls 277
+*** TURN *** [9c 7h Jc] [5d]
+sensy10: checks 
+@tetaschell: bets 1040
+DAZK998 is disconnected 
+sensy10: calls 1040
+*** RIVER *** [9c 7h Jc 5d] [6c]
+sensy10: bets 3093 and is all-in
+@tetaschell: calls 3093
+*** SHOW DOWN ***
+sensy10: shows [8d 9h] (a straight, Five to Nine)
+@tetaschell: shows [Js Kd] (a pair of Jacks)
+sensy10 collected 9660 from pot
+*** SUMMARY ***
+Total pot 9660 | Rake 0 
+Board [9c 7h Jc 5d 6c]
+Seat 1: babygabriiel folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai (button) folded before Flop (didn't bet)
+Seat 3: ricardons8 (small blind) folded before Flop
+Seat 4: sensy10 (big blind) showed [8d 9h] and won (9660) with a straight, Five to Nine
+Seat 6: @tetaschell showed [Js Kd] and lost with a pair of Jacks
+Seat 7: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #251206604660: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/06/26 20:08:55 UTC [2024/06/26 16:08:55 ET]
+Table '3769361899 6' 7-max Seat #3 is the button
+Seat 1: babygabriiel (4225 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (7286 in chips, $25 bounty) 
+Seat 3: ricardons8 (5684 in chips, $25 bounty) 
+Seat 4: sensy10 (9660 in chips, $25 bounty) 
+Seat 5: DAZK998 (7000 in chips, $25 bounty) 
+Seat 6: @tetaschell (1986 in chips, $25 bounty) 
+Seat 7: Kyleddd (17750 in chips, $25 bounty) 
+babygabriiel: posts the ante 20
+MaCheCazzoFai: posts the ante 20
+ricardons8: posts the ante 20
+sensy10: posts the ante 20
+DAZK998: posts the ante 20
+@tetaschell: posts the ante 20
+Kyleddd: posts the ante 20
+sensy10: posts small blind 80
+DAZK998: posts big blind 160
+*** HOLE CARDS ***
+@tetaschell: folds 
+Kyleddd: folds 
+babygabriiel: folds 
+MaCheCazzoFai: raises 320 to 480
+ricardons8: folds 
+sensy10: folds 
+DAZK998: calls 320
+*** FLOP *** [4h Td 7h]
+DAZK998: checks 
+MaCheCazzoFai: bets 779
+DAZK998: folds 
+Uncalled bet (779) returned to MaCheCazzoFai
+MaCheCazzoFai collected 1180 from pot
+MaCheCazzoFai: doesn't show hand 
+*** SUMMARY ***
+Total pot 1180 | Rake 0 
+Board [4h Td 7h]
+Seat 1: babygabriiel folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai collected (1180)
+Seat 3: ricardons8 (button) folded before Flop (didn't bet)
+Seat 4: sensy10 (small blind) folded before Flop
+Seat 5: DAZK998 (big blind) folded on the Flop
+Seat 6: @tetaschell folded before Flop (didn't bet)
+Seat 7: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #251206617828: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/06/26 20:09:41 UTC [2024/06/26 16:09:41 ET]
+Table '3769361899 6' 7-max Seat #4 is the button
+Seat 1: babygabriiel (4205 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (7966 in chips, $25 bounty) 
+Seat 3: ricardons8 (5664 in chips, $25 bounty) 
+Seat 4: sensy10 (9560 in chips, $25 bounty) 
+Seat 5: DAZK998 (6500 in chips, $25 bounty) 
+Seat 6: @tetaschell (1966 in chips, $25 bounty) 
+Seat 7: Kyleddd (17730 in chips, $25 bounty) 
+babygabriiel: posts the ante 20
+MaCheCazzoFai: posts the ante 20
+ricardons8: posts the ante 20
+sensy10: posts the ante 20
+DAZK998: posts the ante 20
+@tetaschell: posts the ante 20
+Kyleddd: posts the ante 20
+DAZK998: posts small blind 80
+@tetaschell: posts big blind 160
+*** HOLE CARDS ***
+Kyleddd: folds 
+babygabriiel: raises 160 to 320
+MaCheCazzoFai: calls 320
+ricardons8: calls 320
+sensy10: folds 
+DAZK998: folds 
+@tetaschell: folds 
+*** FLOP *** [9s 4s Jh]
+babygabriiel: bets 442
+MaCheCazzoFai: calls 442
+ricardons8: folds 
+*** TURN *** [9s 4s Jh] [Ac]
+babygabriiel: checks 
+MaCheCazzoFai: bets 1112
+babygabriiel: folds 
+Uncalled bet (1112) returned to MaCheCazzoFai
+MaCheCazzoFai collected 2224 from pot
+MaCheCazzoFai: doesn't show hand 
+*** SUMMARY ***
+Total pot 2224 | Rake 0 
+Board [9s 4s Jh Ac]
+Seat 1: babygabriiel folded on the Turn
+Seat 2: MaCheCazzoFai collected (2224)
+Seat 3: ricardons8 folded on the Flop
+Seat 4: sensy10 (button) folded before Flop (didn't bet)
+Seat 5: DAZK998 (small blind) folded before Flop
+Seat 6: @tetaschell (big blind) folded before Flop
+Seat 7: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #251206648239: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level V (80/160) - 2024/06/26 20:11:28 UTC [2024/06/26 16:11:28 ET]
+Table '3769361899 6' 7-max Seat #5 is the button
+Seat 1: babygabriiel (3423 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (9408 in chips, $25 bounty) 
+Seat 3: ricardons8 (5324 in chips, $25 bounty) 
+Seat 4: sensy10 (9540 in chips, $25 bounty) 
+Seat 5: DAZK998 (6400 in chips, $25 bounty) 
+Seat 6: @tetaschell (1786 in chips, $25 bounty) 
+Seat 7: Kyleddd (17710 in chips, $25 bounty) 
+babygabriiel: posts the ante 20
+MaCheCazzoFai: posts the ante 20
+ricardons8: posts the ante 20
+sensy10: posts the ante 20
+DAZK998: posts the ante 20
+@tetaschell: posts the ante 20
+Kyleddd: posts the ante 20
+@tetaschell: posts small blind 80
+Kyleddd: posts big blind 160
+*** HOLE CARDS ***
+babygabriiel: folds 
+MaCheCazzoFai: raises 200 to 360
+ricardons8: folds 
+sensy10: folds 
+DAZK998: folds 
+@tetaschell: folds 
+Kyleddd: folds 
+Uncalled bet (200) returned to MaCheCazzoFai
+MaCheCazzoFai collected 540 from pot
+MaCheCazzoFai: doesn't show hand 
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Seat 1: babygabriiel folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai collected (540)
+Seat 3: ricardons8 folded before Flop (didn't bet)
+Seat 4: sensy10 folded before Flop (didn't bet)
+Seat 5: DAZK998 (button) folded before Flop (didn't bet)
+Seat 6: @tetaschell (small blind) folded before Flop
+Seat 7: Kyleddd (big blind) folded before Flop
+
+PokerStars Hand #251206659201: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/06/26 20:12:06 UTC [2024/06/26 16:12:06 ET]
+Table '3769361899 6' 7-max Seat #6 is the button
+Seat 1: babygabriiel (3403 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (9768 in chips, $25 bounty) 
+Seat 3: ricardons8 (5304 in chips, $25 bounty) 
+Seat 4: sensy10 (9520 in chips, $25 bounty) 
+Seat 5: DAZK998 (6380 in chips, $25 bounty) 
+Seat 6: @tetaschell (1686 in chips, $25 bounty) 
+Seat 7: Kyleddd (17530 in chips, $25 bounty) 
+babygabriiel: posts the ante 25
+MaCheCazzoFai: posts the ante 25
+ricardons8: posts the ante 25
+sensy10: posts the ante 25
+DAZK998: posts the ante 25
+@tetaschell: posts the ante 25
+Kyleddd: posts the ante 25
+Kyleddd: posts small blind 100
+babygabriiel: posts big blind 200
+*** HOLE CARDS ***
+MaCheCazzoFai: folds 
+ricardons8: folds 
+sensy10: raises 200 to 400
+DAZK998: calls 400
+@tetaschell: folds 
+Kyleddd: folds 
+babygabriiel: folds 
+*** FLOP *** [Ts 8s Ad]
+sensy10: bets 740
+DAZK998: folds 
+Uncalled bet (740) returned to sensy10
+sensy10 collected 1275 from pot
+*** SUMMARY ***
+Total pot 1275 | Rake 0 
+Board [Ts 8s Ad]
+Seat 1: babygabriiel (big blind) folded before Flop
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: ricardons8 folded before Flop (didn't bet)
+Seat 4: sensy10 collected (1275)
+Seat 5: DAZK998 folded on the Flop
+Seat 6: @tetaschell (button) folded before Flop (didn't bet)
+Seat 7: Kyleddd (small blind) folded before Flop
+
+PokerStars Hand #251206674372: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/06/26 20:13:00 UTC [2024/06/26 16:13:00 ET]
+Table '3769361899 6' 7-max Seat #7 is the button
+Seat 1: babygabriiel (3178 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (9743 in chips, $25 bounty) 
+Seat 3: ricardons8 (5279 in chips, $25 bounty) 
+Seat 4: sensy10 (10370 in chips, $25 bounty) 
+Seat 5: DAZK998 (5955 in chips, $25 bounty) 
+Seat 6: @tetaschell (1661 in chips, $25 bounty) 
+Seat 7: Kyleddd (17405 in chips, $25 bounty) 
+babygabriiel: posts the ante 25
+MaCheCazzoFai: posts the ante 25
+ricardons8: posts the ante 25
+sensy10: posts the ante 25
+DAZK998: posts the ante 25
+@tetaschell: posts the ante 25
+Kyleddd: posts the ante 25
+babygabriiel: posts small blind 100
+MaCheCazzoFai: posts big blind 200
+*** HOLE CARDS ***
+ricardons8: folds 
+sensy10: raises 200 to 400
+DAZK998: folds 
+@tetaschell: folds 
+Kyleddd: folds 
+babygabriiel: folds 
+MaCheCazzoFai: calls 200
+*** FLOP *** [Th 8s Qc]
+MaCheCazzoFai: checks 
+sensy10: bets 355
+MaCheCazzoFai: raises 893 to 1248
+sensy10: folds 
+Uncalled bet (893) returned to MaCheCazzoFai
+MaCheCazzoFai collected 1785 from pot
+MaCheCazzoFai: doesn't show hand 
+*** SUMMARY ***
+Total pot 1785 | Rake 0 
+Board [Th 8s Qc]
+Seat 1: babygabriiel (small blind) folded before Flop
+Seat 2: MaCheCazzoFai (big blind) collected (1785)
+Seat 3: ricardons8 folded before Flop (didn't bet)
+Seat 4: sensy10 folded on the Flop
+Seat 5: DAZK998 folded before Flop (didn't bet)
+Seat 6: @tetaschell folded before Flop (didn't bet)
+Seat 7: Kyleddd (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251206694495: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/06/26 20:14:13 UTC [2024/06/26 16:14:13 ET]
+Table '3769361899 6' 7-max Seat #1 is the button
+Seat 1: babygabriiel (3053 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (10748 in chips, $25 bounty) 
+Seat 3: ricardons8 (5254 in chips, $25 bounty) 
+Seat 4: sensy10 (9590 in chips, $25 bounty) 
+Seat 5: DAZK998 (5930 in chips, $25 bounty) 
+Seat 6: @tetaschell (1636 in chips, $25 bounty) 
+Seat 7: Kyleddd (17380 in chips, $25 bounty) 
+babygabriiel: posts the ante 25
+MaCheCazzoFai: posts the ante 25
+ricardons8: posts the ante 25
+sensy10: posts the ante 25
+DAZK998: posts the ante 25
+@tetaschell: posts the ante 25
+Kyleddd: posts the ante 25
+MaCheCazzoFai: posts small blind 100
+ricardons8: posts big blind 200
+*** HOLE CARDS ***
+sensy10: raises 200 to 400
+DAZK998: folds 
+@tetaschell: folds 
+Kyleddd: folds 
+babygabriiel: folds 
+MaCheCazzoFai: folds 
+ricardons8: folds 
+Uncalled bet (200) returned to sensy10
+sensy10 collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: babygabriiel (button) folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai (small blind) folded before Flop
+Seat 3: ricardons8 (big blind) folded before Flop
+Seat 4: sensy10 collected (675)
+Seat 5: DAZK998 folded before Flop (didn't bet)
+Seat 6: @tetaschell folded before Flop (didn't bet)
+Seat 7: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #251206701355: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/06/26 20:14:38 UTC [2024/06/26 16:14:38 ET]
+Table '3769361899 6' 7-max Seat #2 is the button
+Seat 1: babygabriiel (3028 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (10623 in chips, $25 bounty) 
+Seat 3: ricardons8 (5029 in chips, $25 bounty) 
+Seat 4: sensy10 (10040 in chips, $25 bounty) 
+Seat 5: DAZK998 (5905 in chips, $25 bounty) 
+Seat 6: @tetaschell (1611 in chips, $25 bounty) 
+Seat 7: Kyleddd (17355 in chips, $25 bounty) 
+babygabriiel: posts the ante 25
+MaCheCazzoFai: posts the ante 25
+ricardons8: posts the ante 25
+sensy10: posts the ante 25
+DAZK998: posts the ante 25
+@tetaschell: posts the ante 25
+Kyleddd: posts the ante 25
+ricardons8: posts small blind 100
+sensy10: posts big blind 200
+*** HOLE CARDS ***
+DAZK998: raises 200 to 400
+@tetaschell: folds 
+Kyleddd: folds 
+babygabriiel: folds 
+MaCheCazzoFai: folds 
+ricardons8: raises 4604 to 5004 and is all-in
+sensy10: folds 
+DAZK998: calls 4604
+*** FLOP *** [7d 8s 5s]
+*** TURN *** [7d 8s 5s] [Kh]
+*** RIVER *** [7d 8s 5s Kh] [9s]
+*** SHOW DOWN ***
+ricardons8: shows [Jd Kd] (a pair of Kings)
+DAZK998: shows [As Ah] (a pair of Aces)
+DAZK998 collected 10383 from pot
+DAZK998 wins $12.50 for eliminating ricardons8 and their own bounty increases by $12.50 to $37.50
+ricardons8 finished the tournament
+*** SUMMARY ***
+Total pot 10383 | Rake 0 
+Board [7d 8s 5s Kh 9s]
+Seat 1: babygabriiel folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai (button) folded before Flop (didn't bet)
+Seat 3: ricardons8 (small blind) showed [Jd Kd] and lost with a pair of Kings
+Seat 4: sensy10 (big blind) folded before Flop
+Seat 5: DAZK998 showed [As Ah] and won (10383) with a pair of Aces
+Seat 6: @tetaschell folded before Flop (didn't bet)
+Seat 7: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #251206714365: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/06/26 20:15:23 UTC [2024/06/26 16:15:23 ET]
+Table '3769361899 6' 7-max Seat #4 is the button
+Seat 1: babygabriiel (3003 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (10598 in chips, $25 bounty) 
+Seat 4: sensy10 (9815 in chips, $25 bounty) 
+Seat 5: DAZK998 (11259 in chips, $37.50 bounty) 
+Seat 6: @tetaschell (1586 in chips, $25 bounty) 
+Seat 7: Kyleddd (17330 in chips, $25 bounty) 
+babygabriiel: posts the ante 25
+MaCheCazzoFai: posts the ante 25
+sensy10: posts the ante 25
+DAZK998: posts the ante 25
+@tetaschell: posts the ante 25
+Kyleddd: posts the ante 25
+DAZK998: posts small blind 100
+@tetaschell: posts big blind 200
+*** HOLE CARDS ***
+vdp2.0 is disconnected 
+Kyleddd: folds 
+babygabriiel: raises 2778 to 2978 and is all-in
+MaCheCazzoFai: folds 
+sensy10: folds 
+DAZK998: folds 
+@tetaschell: folds 
+Uncalled bet (2778) returned to babygabriiel
+babygabriiel collected 650 from pot
+babygabriiel: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 1: babygabriiel collected (650)
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: sensy10 (button) folded before Flop (didn't bet)
+Seat 5: DAZK998 (small blind) folded before Flop
+Seat 6: @tetaschell (big blind) folded before Flop
+Seat 7: Kyleddd folded before Flop (didn't bet)
+
+PokerStars Hand #251206729037: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/06/26 20:16:15 UTC [2024/06/26 16:16:15 ET]
+Table '3769361899 6' 7-max Seat #5 is the button
+Seat 1: babygabriiel (3428 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (10573 in chips, $25 bounty) 
+Seat 3: vdp2.0 (7000 in chips, $25 bounty) 
+Seat 4: sensy10 (9790 in chips, $25 bounty) 
+Seat 5: DAZK998 (11134 in chips, $37.50 bounty) 
+Seat 6: @tetaschell (1361 in chips, $25 bounty) 
+Seat 7: Kyleddd (17305 in chips, $25 bounty) 
+babygabriiel: posts the ante 25
+MaCheCazzoFai: posts the ante 25
+vdp2.0: posts the ante 25
+sensy10: posts the ante 25
+DAZK998: posts the ante 25
+@tetaschell: posts the ante 25
+Kyleddd: posts the ante 25
+@tetaschell: posts small blind 100
+Kyleddd: posts big blind 200
+*** HOLE CARDS ***
+babygabriiel: raises 200 to 400
+MaCheCazzoFai: folds 
+vdp2.0: raises 600 to 1000
+sensy10: folds 
+DAZK998: folds 
+@tetaschell: folds 
+Kyleddd: folds 
+babygabriiel: folds 
+Uncalled bet (600) returned to vdp2.0
+vdp2.0 collected 1275 from pot
+vdp2.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 1275 | Rake 0 
+Seat 1: babygabriiel folded before Flop
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: vdp2.0 collected (1275)
+Seat 4: sensy10 folded before Flop (didn't bet)
+Seat 5: DAZK998 (button) folded before Flop (didn't bet)
+Seat 6: @tetaschell (small blind) folded before Flop
+Seat 7: Kyleddd (big blind) folded before Flop
+
+PokerStars Hand #251206744315: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/06/26 20:17:10 UTC [2024/06/26 16:17:10 ET]
+Table '3769361899 6' 7-max Seat #6 is the button
+Seat 1: babygabriiel (3003 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (10548 in chips, $25 bounty) 
+Seat 3: vdp2.0 (7850 in chips, $25 bounty) 
+Seat 4: sensy10 (9765 in chips, $25 bounty) 
+Seat 5: DAZK998 (11109 in chips, $37.50 bounty) 
+Seat 6: @tetaschell (1236 in chips, $25 bounty) 
+Seat 7: Kyleddd (17080 in chips, $25 bounty) 
+babygabriiel: posts the ante 25
+MaCheCazzoFai: posts the ante 25
+vdp2.0: posts the ante 25
+sensy10: posts the ante 25
+DAZK998: posts the ante 25
+@tetaschell: posts the ante 25
+Kyleddd: posts the ante 25
+Kyleddd: posts small blind 100
+babygabriiel: posts big blind 200
+*** HOLE CARDS ***
+MaCheCazzoFai: folds 
+vdp2.0: folds 
+sensy10: folds 
+DAZK998: raises 200 to 400
+@tetaschell: folds 
+Kyleddd: folds 
+babygabriiel: folds 
+Uncalled bet (200) returned to DAZK998
+DAZK998 collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: babygabriiel (big blind) folded before Flop
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: vdp2.0 folded before Flop (didn't bet)
+Seat 4: sensy10 folded before Flop (didn't bet)
+Seat 5: DAZK998 collected (675)
+Seat 6: @tetaschell (button) folded before Flop (didn't bet)
+Seat 7: Kyleddd (small blind) folded before Flop
+
+PokerStars Hand #251206750982: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/06/26 20:17:34 UTC [2024/06/26 16:17:34 ET]
+Table '3769361899 6' 7-max Seat #7 is the button
+Seat 1: babygabriiel (2778 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (10523 in chips, $25 bounty) 
+Seat 3: vdp2.0 (7825 in chips, $25 bounty) 
+Seat 4: sensy10 (9740 in chips, $25 bounty) 
+Seat 5: DAZK998 (11559 in chips, $37.50 bounty) 
+Seat 6: @tetaschell (1211 in chips, $25 bounty) 
+Seat 7: Kyleddd (16955 in chips, $25 bounty) 
+babygabriiel: posts the ante 25
+MaCheCazzoFai: posts the ante 25
+vdp2.0: posts the ante 25
+sensy10: posts the ante 25
+DAZK998: posts the ante 25
+@tetaschell: posts the ante 25
+Kyleddd: posts the ante 25
+babygabriiel: posts small blind 100
+MaCheCazzoFai: posts big blind 200
+*** HOLE CARDS ***
+vdp2.0: folds 
+sensy10: folds 
+DAZK998: raises 200 to 400
+@tetaschell: folds 
+Kyleddd: folds 
+babygabriiel: folds 
+MaCheCazzoFai: calls 200
+*** FLOP *** [Jd As 7s]
+MaCheCazzoFai: checks 
+DAZK998: bets 469
+MaCheCazzoFai: raises 1007 to 1476
+DAZK998: folds 
+Uncalled bet (1007) returned to MaCheCazzoFai
+MaCheCazzoFai collected 2013 from pot
+MaCheCazzoFai: doesn't show hand 
+*** SUMMARY ***
+Total pot 2013 | Rake 0 
+Board [Jd As 7s]
+Seat 1: babygabriiel (small blind) folded before Flop
+Seat 2: MaCheCazzoFai (big blind) collected (2013)
+Seat 3: vdp2.0 folded before Flop (didn't bet)
+Seat 4: sensy10 folded before Flop (didn't bet)
+Seat 5: DAZK998 folded on the Flop
+Seat 6: @tetaschell folded before Flop (didn't bet)
+Seat 7: Kyleddd (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251206764868: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VI (100/200) - 2024/06/26 20:18:23 UTC [2024/06/26 16:18:23 ET]
+Table '3769361899 6' 7-max Seat #1 is the button
+Seat 1: babygabriiel (2653 in chips, $25 bounty) 
+Seat 2: MaCheCazzoFai (11642 in chips, $25 bounty) 
+Seat 3: vdp2.0 (7800 in chips, $25 bounty) 
+Seat 4: sensy10 (9715 in chips, $25 bounty) 
+Seat 5: DAZK998 (10665 in chips, $37.50 bounty) 
+Seat 6: @tetaschell (1186 in chips, $25 bounty) 
+Seat 7: Kyleddd (16930 in chips, $25 bounty) 
+babygabriiel: posts the ante 25
+MaCheCazzoFai: posts the ante 25
+vdp2.0: posts the ante 25
+sensy10: posts the ante 25
+DAZK998: posts the ante 25
+@tetaschell: posts the ante 25
+Kyleddd: posts the ante 25
+MaCheCazzoFai: posts small blind 100
+vdp2.0: posts big blind 200
+*** HOLE CARDS ***
+sensy10: folds 
+DAZK998: folds 
+@tetaschell: raises 961 to 1161 and is all-in
+Kyleddd: folds 
+babygabriiel: raises 1467 to 2628 and is all-in
+MaCheCazzoFai: raises 8989 to 11617 and is all-in
+vdp2.0: folds 
+Uncalled bet (8989) returned to MaCheCazzoFai
+*** FLOP *** [Jc 9d 3h]
+*** TURN *** [Jc 9d 3h] [5h]
+*** RIVER *** [Jc 9d 3h 5h] [Qs]
+*** SHOW DOWN ***
+MaCheCazzoFai: shows [Jh Th] (a pair of Jacks)
+babygabriiel: shows [Ac 8h] (high card Ace)
+MaCheCazzoFai collected 2934 from side pot
+@tetaschell: shows [8c 6c] (high card Queen)
+MaCheCazzoFai collected 3858 from main pot
+MaCheCazzoFai wins $12.50 for eliminating babygabriiel and their own bounty increases by $12.50 to $37.50
+MaCheCazzoFai wins $12.50 for eliminating @tetaschell and their own bounty increases by $12.50 to $50
+babygabriiel finished the tournament
+@tetaschell finished the tournament
+*** SUMMARY ***
+Total pot 6792 Main pot 3858. Side pot 2934. | Rake 0 
+Board [Jc 9d 3h 5h Qs]
+Seat 1: babygabriiel (button) showed [Ac 8h] and lost with high card Ace
+Seat 2: MaCheCazzoFai (small blind) showed [Jh Th] and won (6792) with a pair of Jacks
+Seat 3: vdp2.0 (big blind) folded before Flop
+Seat 4: sensy10 folded before Flop (didn't bet)
+Seat 5: DAZK998 folded before Flop (didn't bet)
+Seat 6: @tetaschell showed [8c 6c] and lost with high card Queen
+Seat 7: Kyleddd folded before Flop (didn't bet)

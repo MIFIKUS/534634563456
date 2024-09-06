@@ -1,0 +1,1806 @@
+PokerStars Hand #251206793997: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:20:06 UTC [2024/06/26 16:20:06 ET]
+Table '3767885527 93' 8-max Seat #7 is the button
+Seat 1: lucaromanoo1 (161854 in chips) 
+Seat 2: mobky (72000 in chips) 
+Seat 3: supervaganj (155290 in chips) 
+Seat 4: Vamoclan (70599 in chips) 
+Seat 5: pj0901 (232619 in chips) 
+Seat 6: Proosty2 (70728 in chips) 
+Seat 7: gibbo888 (234866 in chips) 
+Seat 8: DR. ELDAR (101766 in chips) 
+lucaromanoo1: posts the ante 500
+mobky: posts the ante 500
+supervaganj: posts the ante 500
+Vamoclan: posts the ante 500
+pj0901: posts the ante 500
+Proosty2: posts the ante 500
+gibbo888: posts the ante 500
+DR. ELDAR: posts the ante 500
+DR. ELDAR: posts small blind 2000
+lucaromanoo1: posts big blind 4000
+*** HOLE CARDS ***
+mobky: calls 4000
+supervaganj: folds 
+Vamoclan: folds 
+pj0901: folds 
+Proosty2: folds 
+gibbo888: folds 
+DR. ELDAR: folds 
+lucaromanoo1: checks 
+*** FLOP *** [4h Kd 3s]
+lucaromanoo1: checks 
+mobky: bets 4000
+lucaromanoo1: calls 4000
+*** TURN *** [4h Kd 3s] [8d]
+lucaromanoo1: checks 
+mobky: bets 11000
+lucaromanoo1: calls 11000
+*** RIVER *** [4h Kd 3s 8d] [5s]
+lucaromanoo1: checks 
+mobky: checks 
+*** SHOW DOWN ***
+lucaromanoo1: shows [Ks 7h] (a pair of Kings)
+mobky: mucks hand 
+lucaromanoo1 collected 44000 from pot
+*** SUMMARY ***
+Total pot 44000 | Rake 0 
+Board [4h Kd 3s 8d 5s]
+Seat 1: lucaromanoo1 (big blind) showed [Ks 7h] and won (44000) with a pair of Kings
+Seat 2: mobky mucked
+Seat 3: supervaganj folded before Flop (didn't bet)
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 folded before Flop (didn't bet)
+Seat 6: Proosty2 folded before Flop (didn't bet)
+Seat 7: gibbo888 (button) folded before Flop (didn't bet)
+Seat 8: DR. ELDAR (small blind) folded before Flop
+
+PokerStars Hand #251206807867: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:20:55 UTC [2024/06/26 16:20:55 ET]
+Table '3767885527 93' 8-max Seat #8 is the button
+Seat 1: lucaromanoo1 (186354 in chips) 
+Seat 2: mobky (52500 in chips) 
+Seat 3: supervaganj (154790 in chips) 
+Seat 4: Vamoclan (70099 in chips) 
+Seat 5: pj0901 (232119 in chips) 
+Seat 6: Proosty2 (70228 in chips) 
+Seat 7: gibbo888 (234366 in chips) 
+Seat 8: DR. ELDAR (99266 in chips) 
+lucaromanoo1: posts the ante 500
+mobky: posts the ante 500
+supervaganj: posts the ante 500
+Vamoclan: posts the ante 500
+pj0901: posts the ante 500
+Proosty2: posts the ante 500
+gibbo888: posts the ante 500
+DR. ELDAR: posts the ante 500
+lucaromanoo1: posts small blind 2000
+mobky: posts big blind 4000
+*** HOLE CARDS ***
+supervaganj: folds 
+Vamoclan: folds 
+pj0901: folds 
+Proosty2: folds 
+gibbo888: folds 
+DR. ELDAR: folds 
+lucaromanoo1: raises 181854 to 185854 and is all-in
+mobky: folds 
+Uncalled bet (181854) returned to lucaromanoo1
+lucaromanoo1 collected 12000 from pot
+lucaromanoo1: doesn't show hand 
+*** SUMMARY ***
+Total pot 12000 | Rake 0 
+Seat 1: lucaromanoo1 (small blind) collected (12000)
+Seat 2: mobky (big blind) folded before Flop
+Seat 3: supervaganj folded before Flop (didn't bet)
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 folded before Flop (didn't bet)
+Seat 6: Proosty2 folded before Flop (didn't bet)
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: DR. ELDAR (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251206820274: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:21:39 UTC [2024/06/26 16:21:39 ET]
+Table '3767885527 93' 8-max Seat #1 is the button
+Seat 1: lucaromanoo1 (193854 in chips) 
+Seat 2: mobky (48000 in chips) 
+Seat 3: supervaganj (154290 in chips) 
+Seat 4: Vamoclan (69599 in chips) 
+Seat 5: pj0901 (231619 in chips) 
+Seat 6: Proosty2 (69728 in chips) 
+Seat 7: gibbo888 (233866 in chips) 
+Seat 8: DR. ELDAR (98766 in chips) 
+lucaromanoo1: posts the ante 500
+mobky: posts the ante 500
+supervaganj: posts the ante 500
+Vamoclan: posts the ante 500
+pj0901: posts the ante 500
+Proosty2: posts the ante 500
+gibbo888: posts the ante 500
+DR. ELDAR: posts the ante 500
+mobky: posts small blind 2000
+supervaganj: posts big blind 4000
+*** HOLE CARDS ***
+Vamoclan: folds 
+pj0901: folds 
+Proosty2: raises 4000 to 8000
+gibbo888: folds 
+DR. ELDAR: folds 
+lucaromanoo1: folds 
+mobky: folds 
+supervaganj: calls 4000
+*** FLOP *** [Kd 2c 5d]
+supervaganj: checks 
+Proosty2: bets 5520
+supervaganj: folds 
+Uncalled bet (5520) returned to Proosty2
+Proosty2 collected 22000 from pot
+Proosty2: doesn't show hand 
+*** SUMMARY ***
+Total pot 22000 | Rake 0 
+Board [Kd 2c 5d]
+Seat 1: lucaromanoo1 (button) folded before Flop (didn't bet)
+Seat 2: mobky (small blind) folded before Flop
+Seat 3: supervaganj (big blind) folded on the Flop
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 folded before Flop (didn't bet)
+Seat 6: Proosty2 collected (22000)
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: DR. ELDAR folded before Flop (didn't bet)
+
+PokerStars Hand #251206830724: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:22:16 UTC [2024/06/26 16:22:16 ET]
+Table '3767885527 93' 8-max Seat #2 is the button
+Seat 1: lucaromanoo1 (193354 in chips) 
+Seat 2: mobky (45500 in chips) 
+Seat 3: supervaganj (145790 in chips) 
+Seat 4: Vamoclan (69099 in chips) 
+Seat 5: pj0901 (231119 in chips) 
+Seat 6: Proosty2 (83228 in chips) 
+Seat 7: gibbo888 (233366 in chips) 
+Seat 8: DR. ELDAR (98266 in chips) 
+lucaromanoo1: posts the ante 500
+mobky: posts the ante 500
+supervaganj: posts the ante 500
+Vamoclan: posts the ante 500
+pj0901: posts the ante 500
+Proosty2: posts the ante 500
+gibbo888: posts the ante 500
+DR. ELDAR: posts the ante 500
+supervaganj: posts small blind 2000
+Vamoclan: posts big blind 4000
+*** HOLE CARDS ***
+pj0901 has timed out
+pj0901: folds 
+pj0901 is sitting out
+Proosty2: raises 4000 to 8000
+pj0901 has returned
+gibbo888: folds 
+DR. ELDAR: folds 
+lucaromanoo1: folds 
+mobky: calls 8000
+supervaganj: folds 
+Vamoclan: folds 
+*** FLOP *** [2h Ts 9c]
+Proosty2: checks 
+mobky: checks 
+*** TURN *** [2h Ts 9c] [8d]
+Proosty2: checks 
+mobky: bets 26000
+Proosty2: folds 
+Uncalled bet (26000) returned to mobky
+mobky collected 26000 from pot
+*** SUMMARY ***
+Total pot 26000 | Rake 0 
+Board [2h Ts 9c 8d]
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: mobky (button) collected (26000)
+Seat 3: supervaganj (small blind) folded before Flop
+Seat 4: Vamoclan (big blind) folded before Flop
+Seat 5: pj0901 folded before Flop (didn't bet)
+Seat 6: Proosty2 folded on the Turn
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: DR. ELDAR folded before Flop (didn't bet)
+
+PokerStars Hand #251206854632: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:23:41 UTC [2024/06/26 16:23:41 ET]
+Table '3767885527 93' 8-max Seat #3 is the button
+Seat 1: lucaromanoo1 (192854 in chips) 
+Seat 2: mobky (63000 in chips) 
+Seat 3: supervaganj (143290 in chips) 
+Seat 4: Vamoclan (64599 in chips) 
+Seat 5: pj0901 (230619 in chips) 
+Seat 6: Proosty2 (74728 in chips) 
+Seat 7: gibbo888 (232866 in chips) 
+Seat 8: DR. ELDAR (97766 in chips) 
+lucaromanoo1: posts the ante 500
+mobky: posts the ante 500
+supervaganj: posts the ante 500
+Vamoclan: posts the ante 500
+pj0901: posts the ante 500
+Proosty2: posts the ante 500
+gibbo888: posts the ante 500
+DR. ELDAR: posts the ante 500
+Vamoclan: posts small blind 2000
+pj0901: posts big blind 4000
+*** HOLE CARDS ***
+Proosty2: folds 
+gibbo888: folds 
+DR. ELDAR: folds 
+lucaromanoo1: folds 
+mobky: raises 4123 to 8123
+supervaganj: folds 
+Vamoclan: folds 
+pj0901: raises 221996 to 230119 and is all-in
+mobky: folds 
+Uncalled bet (221996) returned to pj0901
+pj0901 collected 22246 from pot
+pj0901: doesn't show hand 
+*** SUMMARY ***
+Total pot 22246 | Rake 0 
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: mobky folded before Flop
+Seat 3: supervaganj (button) folded before Flop (didn't bet)
+Seat 4: Vamoclan (small blind) folded before Flop
+Seat 5: pj0901 (big blind) collected (22246)
+Seat 6: Proosty2 folded before Flop (didn't bet)
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: DR. ELDAR folded before Flop (didn't bet)
+
+PokerStars Hand #251206871845: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:24:43 UTC [2024/06/26 16:24:43 ET]
+Table '3767885527 93' 8-max Seat #4 is the button
+Seat 1: lucaromanoo1 (192354 in chips) 
+Seat 2: mobky (54377 in chips) 
+Seat 3: supervaganj (142790 in chips) 
+Seat 4: Vamoclan (62099 in chips) 
+Seat 5: pj0901 (244242 in chips) 
+Seat 6: Proosty2 (74228 in chips) 
+Seat 7: gibbo888 (232366 in chips) 
+Seat 8: DR. ELDAR (97266 in chips) 
+lucaromanoo1: posts the ante 500
+mobky: posts the ante 500
+supervaganj: posts the ante 500
+Vamoclan: posts the ante 500
+pj0901: posts the ante 500
+Proosty2: posts the ante 500
+gibbo888: posts the ante 500
+DR. ELDAR: posts the ante 500
+pj0901: posts small blind 2000
+Proosty2: posts big blind 4000
+*** HOLE CARDS ***
+gibbo888: folds 
+DR. ELDAR: folds 
+lucaromanoo1: folds 
+mobky: folds 
+supervaganj: folds 
+Vamoclan: folds 
+pj0901: raises 239742 to 243742 and is all-in
+Proosty2: folds 
+Uncalled bet (239742) returned to pj0901
+pj0901 collected 12000 from pot
+pj0901: doesn't show hand 
+*** SUMMARY ***
+Total pot 12000 | Rake 0 
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: mobky folded before Flop (didn't bet)
+Seat 3: supervaganj folded before Flop (didn't bet)
+Seat 4: Vamoclan (button) folded before Flop (didn't bet)
+Seat 5: pj0901 (small blind) collected (12000)
+Seat 6: Proosty2 (big blind) folded before Flop
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: DR. ELDAR folded before Flop (didn't bet)
+
+PokerStars Hand #251206877625: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:25:04 UTC [2024/06/26 16:25:04 ET]
+Table '3767885527 93' 8-max Seat #5 is the button
+Seat 1: lucaromanoo1 (191854 in chips) 
+Seat 2: mobky (53877 in chips) 
+Seat 3: supervaganj (142290 in chips) 
+Seat 4: Vamoclan (61599 in chips) 
+Seat 5: pj0901 (251742 in chips) 
+Seat 6: Proosty2 (69728 in chips) 
+Seat 7: gibbo888 (231866 in chips) 
+Seat 8: DR. ELDAR (96766 in chips) 
+lucaromanoo1: posts the ante 500
+mobky: posts the ante 500
+supervaganj: posts the ante 500
+Vamoclan: posts the ante 500
+pj0901: posts the ante 500
+Proosty2: posts the ante 500
+gibbo888: posts the ante 500
+DR. ELDAR: posts the ante 500
+Proosty2: posts small blind 2000
+gibbo888: posts big blind 4000
+*** HOLE CARDS ***
+DR. ELDAR: folds 
+lucaromanoo1: folds 
+mobky: folds 
+supervaganj: folds 
+Vamoclan: folds 
+pj0901: folds 
+Proosty2: calls 2000
+gibbo888: raises 227366 to 231366 and is all-in
+Proosty2: folds 
+Uncalled bet (227366) returned to gibbo888
+gibbo888 collected 12000 from pot
+gibbo888: doesn't show hand 
+*** SUMMARY ***
+Total pot 12000 | Rake 0 
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: mobky folded before Flop (didn't bet)
+Seat 3: supervaganj folded before Flop (didn't bet)
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 (button) folded before Flop (didn't bet)
+Seat 6: Proosty2 (small blind) folded before Flop
+Seat 7: gibbo888 (big blind) collected (12000)
+Seat 8: DR. ELDAR folded before Flop (didn't bet)
+
+PokerStars Hand #251206888352: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:25:42 UTC [2024/06/26 16:25:42 ET]
+Table '3767885527 93' 8-max Seat #6 is the button
+Seat 1: lucaromanoo1 (191354 in chips) 
+Seat 2: mobky (53377 in chips) 
+Seat 3: supervaganj (141790 in chips) 
+Seat 4: Vamoclan (61099 in chips) 
+Seat 5: pj0901 (251242 in chips) 
+Seat 6: Proosty2 (65228 in chips) 
+Seat 7: gibbo888 (239366 in chips) 
+Seat 8: DR. ELDAR (96266 in chips) 
+lucaromanoo1: posts the ante 500
+mobky: posts the ante 500
+supervaganj: posts the ante 500
+Vamoclan: posts the ante 500
+pj0901: posts the ante 500
+Proosty2: posts the ante 500
+gibbo888: posts the ante 500
+DR. ELDAR: posts the ante 500
+gibbo888: posts small blind 2000
+DR. ELDAR: posts big blind 4000
+*** HOLE CARDS ***
+lucaromanoo1: raises 4000 to 8000
+mobky: calls 8000
+supervaganj: folds 
+Vamoclan: folds 
+pj0901: folds 
+Proosty2: folds 
+gibbo888: calls 6000
+DR. ELDAR: calls 4000
+*** FLOP *** [2d Ad 9d]
+gibbo888: checks 
+DR. ELDAR: checks 
+lucaromanoo1: checks 
+mobky: checks 
+*** TURN *** [2d Ad 9d] [Ks]
+gibbo888: bets 15840
+DR. ELDAR: folds 
+lucaromanoo1: folds 
+mobky: folds 
+Uncalled bet (15840) returned to gibbo888
+gibbo888 collected 36000 from pot
+gibbo888: doesn't show hand 
+*** SUMMARY ***
+Total pot 36000 | Rake 0 
+Board [2d Ad 9d Ks]
+Seat 1: lucaromanoo1 folded on the Turn
+Seat 2: mobky folded on the Turn
+Seat 3: supervaganj folded before Flop (didn't bet)
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 folded before Flop (didn't bet)
+Seat 6: Proosty2 (button) folded before Flop (didn't bet)
+Seat 7: gibbo888 (small blind) collected (36000)
+Seat 8: DR. ELDAR (big blind) folded on the Turn
+
+PokerStars Hand #251206903318: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:26:36 UTC [2024/06/26 16:26:36 ET]
+Table '3767885527 93' 8-max Seat #7 is the button
+Seat 1: lucaromanoo1 (182854 in chips) 
+Seat 2: mobky (44877 in chips) 
+Seat 3: supervaganj (141290 in chips) 
+Seat 4: Vamoclan (60599 in chips) 
+Seat 5: pj0901 (250742 in chips) 
+Seat 6: Proosty2 (64728 in chips) 
+Seat 7: gibbo888 (266866 in chips) 
+Seat 8: DR. ELDAR (87766 in chips) 
+lucaromanoo1: posts the ante 625
+mobky: posts the ante 625
+supervaganj: posts the ante 625
+Vamoclan: posts the ante 625
+pj0901: posts the ante 625
+Proosty2: posts the ante 625
+gibbo888: posts the ante 625
+DR. ELDAR: posts the ante 625
+DR. ELDAR: posts small blind 2500
+lucaromanoo1: posts big blind 5000
+*** HOLE CARDS ***
+mobky: folds 
+supervaganj: raises 5000 to 10000
+Vamoclan: folds 
+pj0901: folds 
+Proosty2: folds 
+gibbo888: folds 
+DR. ELDAR: folds 
+lucaromanoo1: calls 5000
+*** FLOP *** [3c Qd Qs]
+lucaromanoo1: checks 
+supervaganj: bets 6900
+lucaromanoo1: raises 15600 to 22500
+supervaganj: folds 
+Uncalled bet (15600) returned to lucaromanoo1
+lucaromanoo1 collected 41300 from pot
+lucaromanoo1: doesn't show hand 
+*** SUMMARY ***
+Total pot 41300 | Rake 0 
+Board [3c Qd Qs]
+Seat 1: lucaromanoo1 (big blind) collected (41300)
+Seat 2: mobky folded before Flop (didn't bet)
+Seat 3: supervaganj folded on the Flop
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 folded before Flop (didn't bet)
+Seat 6: Proosty2 folded before Flop (didn't bet)
+Seat 7: gibbo888 (button) folded before Flop (didn't bet)
+Seat 8: DR. ELDAR (small blind) folded before Flop
+
+PokerStars Hand #251206918858: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:27:32 UTC [2024/06/26 16:27:32 ET]
+Table '3767885527 93' 8-max Seat #8 is the button
+Seat 1: lucaromanoo1 (206629 in chips) 
+Seat 2: mobky (44252 in chips) 
+Seat 3: supervaganj (123765 in chips) 
+Seat 4: Vamoclan (59974 in chips) 
+Seat 5: pj0901 (250117 in chips) 
+Seat 6: Proosty2 (64103 in chips) 
+Seat 7: gibbo888 (266241 in chips) 
+Seat 8: DR. ELDAR (84641 in chips) 
+lucaromanoo1: posts the ante 625
+mobky: posts the ante 625
+supervaganj: posts the ante 625
+Vamoclan: posts the ante 625
+pj0901: posts the ante 625
+Proosty2: posts the ante 625
+gibbo888: posts the ante 625
+DR. ELDAR: posts the ante 625
+lucaromanoo1: posts small blind 2500
+mobky: posts big blind 5000
+*** HOLE CARDS ***
+supervaganj: folds 
+Vamoclan: folds 
+pj0901: raises 5000 to 10000
+Proosty2: folds 
+gibbo888: folds 
+DR. ELDAR: folds 
+lucaromanoo1: calls 7500
+mobky: folds 
+*** FLOP *** [8s 9s 8h]
+lucaromanoo1: checks 
+pj0901: checks 
+*** TURN *** [8s 9s 8h] [2h]
+lucaromanoo1: checks 
+pj0901: checks 
+*** RIVER *** [8s 9s 8h 2h] [Kd]
+lucaromanoo1: checks 
+pj0901: checks 
+*** SHOW DOWN ***
+lucaromanoo1: shows [7h 7s] (two pair, Eights and Sevens)
+pj0901: mucks hand 
+lucaromanoo1 collected 30000 from pot
+*** SUMMARY ***
+Total pot 30000 | Rake 0 
+Board [8s 9s 8h 2h Kd]
+Seat 1: lucaromanoo1 (small blind) showed [7h 7s] and won (30000) with two pair, Eights and Sevens
+Seat 2: mobky (big blind) folded before Flop
+Seat 3: supervaganj folded before Flop (didn't bet)
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 mucked
+Seat 6: Proosty2 folded before Flop (didn't bet)
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: DR. ELDAR (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251206944723: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:29:05 UTC [2024/06/26 16:29:05 ET]
+Table '3767885527 93' 8-max Seat #1 is the button
+Seat 1: lucaromanoo1 (226004 in chips) 
+Seat 2: mobky (38627 in chips) 
+Seat 3: supervaganj (123140 in chips) 
+Seat 4: Vamoclan (59349 in chips) 
+Seat 5: pj0901 (239492 in chips) 
+Seat 6: Proosty2 (63478 in chips) 
+Seat 7: gibbo888 (265616 in chips) 
+Seat 8: DR. ELDAR (84016 in chips) 
+lucaromanoo1: posts the ante 625
+mobky: posts the ante 625
+supervaganj: posts the ante 625
+Vamoclan: posts the ante 625
+pj0901: posts the ante 625
+Proosty2: posts the ante 625
+gibbo888: posts the ante 625
+DR. ELDAR: posts the ante 625
+mobky: posts small blind 2500
+supervaganj: posts big blind 5000
+*** HOLE CARDS ***
+Vamoclan: folds 
+pj0901: folds 
+Proosty2: folds 
+gibbo888: raises 5000 to 10000
+DR. ELDAR: folds 
+lucaromanoo1: folds 
+mobky: folds 
+supervaganj: calls 5000
+*** FLOP *** [Ah 5d 2h]
+supervaganj: checks 
+gibbo888: bets 12100
+supervaganj: folds 
+Uncalled bet (12100) returned to gibbo888
+gibbo888 collected 27500 from pot
+gibbo888: doesn't show hand 
+*** SUMMARY ***
+Total pot 27500 | Rake 0 
+Board [Ah 5d 2h]
+Seat 1: lucaromanoo1 (button) folded before Flop (didn't bet)
+Seat 2: mobky (small blind) folded before Flop
+Seat 3: supervaganj (big blind) folded on the Flop
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 folded before Flop (didn't bet)
+Seat 6: Proosty2 folded before Flop (didn't bet)
+Seat 7: gibbo888 collected (27500)
+Seat 8: DR. ELDAR folded before Flop (didn't bet)
+
+PokerStars Hand #251206960344: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:30:01 UTC [2024/06/26 16:30:01 ET]
+Table '3767885527 93' 8-max Seat #2 is the button
+Seat 1: lucaromanoo1 (225379 in chips) 
+Seat 2: mobky (35502 in chips) 
+Seat 3: supervaganj (112515 in chips) 
+Seat 4: Vamoclan (58724 in chips) 
+Seat 5: pj0901 (238867 in chips) 
+Seat 6: Proosty2 (62853 in chips) 
+Seat 7: gibbo888 (282491 in chips) 
+Seat 8: DR. ELDAR (83391 in chips) 
+lucaromanoo1: posts the ante 625
+mobky: posts the ante 625
+supervaganj: posts the ante 625
+Vamoclan: posts the ante 625
+pj0901: posts the ante 625
+Proosty2: posts the ante 625
+gibbo888: posts the ante 625
+DR. ELDAR: posts the ante 625
+supervaganj: posts small blind 2500
+Vamoclan: posts big blind 5000
+*** HOLE CARDS ***
+pj0901: folds 
+Proosty2: folds 
+gibbo888: folds 
+DR. ELDAR: folds 
+lucaromanoo1: folds 
+mobky: folds 
+supervaganj: raises 106890 to 111890 and is all-in
+Vamoclan: folds 
+Uncalled bet (106890) returned to supervaganj
+supervaganj collected 15000 from pot
+supervaganj: doesn't show hand 
+*** SUMMARY ***
+Total pot 15000 | Rake 0 
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: mobky (button) folded before Flop (didn't bet)
+Seat 3: supervaganj (small blind) collected (15000)
+Seat 4: Vamoclan (big blind) folded before Flop
+Seat 5: pj0901 folded before Flop (didn't bet)
+Seat 6: Proosty2 folded before Flop (didn't bet)
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: DR. ELDAR folded before Flop (didn't bet)
+
+PokerStars Hand #251206971586: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:30:42 UTC [2024/06/26 16:30:42 ET]
+Table '3767885527 93' 8-max Seat #3 is the button
+Seat 1: lucaromanoo1 (224754 in chips) 
+Seat 2: mobky (34877 in chips) 
+Seat 3: supervaganj (121890 in chips) 
+Seat 4: Vamoclan (53099 in chips) 
+Seat 5: pj0901 (238242 in chips) 
+Seat 6: Proosty2 (62228 in chips) 
+Seat 7: gibbo888 (281866 in chips) 
+Seat 8: DR. ELDAR (82766 in chips) 
+lucaromanoo1: posts the ante 625
+mobky: posts the ante 625
+supervaganj: posts the ante 625
+Vamoclan: posts the ante 625
+pj0901: posts the ante 625
+Proosty2: posts the ante 625
+gibbo888: posts the ante 625
+DR. ELDAR: posts the ante 625
+Vamoclan: posts small blind 2500
+pj0901: posts big blind 5000
+*** HOLE CARDS ***
+Proosty2: folds 
+gibbo888: folds 
+DR. ELDAR: folds 
+lucaromanoo1: folds 
+mobky: folds 
+supervaganj: folds 
+Vamoclan: folds 
+Uncalled bet (2500) returned to pj0901
+pj0901 collected 10000 from pot
+pj0901: doesn't show hand 
+*** SUMMARY ***
+Total pot 10000 | Rake 0 
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: mobky folded before Flop (didn't bet)
+Seat 3: supervaganj (button) folded before Flop (didn't bet)
+Seat 4: Vamoclan (small blind) folded before Flop
+Seat 5: pj0901 (big blind) collected (10000)
+Seat 6: Proosty2 folded before Flop (didn't bet)
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: DR. ELDAR folded before Flop (didn't bet)
+
+PokerStars Hand #251206984975: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:31:30 UTC [2024/06/26 16:31:30 ET]
+Table '3767885527 93' 8-max Seat #4 is the button
+Seat 1: lucaromanoo1 (224129 in chips) 
+Seat 2: mobky (34252 in chips) 
+Seat 3: supervaganj (121265 in chips) 
+Seat 4: Vamoclan (49974 in chips) 
+Seat 5: pj0901 (245117 in chips) 
+Seat 6: Proosty2 (61603 in chips) 
+Seat 7: gibbo888 (281241 in chips) 
+Seat 8: DR. ELDAR (82141 in chips) 
+lucaromanoo1: posts the ante 625
+mobky: posts the ante 625
+supervaganj: posts the ante 625
+Vamoclan: posts the ante 625
+pj0901: posts the ante 625
+Proosty2: posts the ante 625
+gibbo888: posts the ante 625
+DR. ELDAR: posts the ante 625
+pj0901: posts small blind 2500
+Proosty2: posts big blind 5000
+*** HOLE CARDS ***
+gibbo888: folds 
+DR. ELDAR: folds 
+lucaromanoo1: folds 
+mobky has timed out
+mobky: folds 
+mobky is sitting out
+mobky has returned
+supervaganj: folds 
+Vamoclan: folds 
+pj0901: raises 239492 to 244492 and is all-in
+Proosty2: folds 
+Uncalled bet (239492) returned to pj0901
+pj0901 collected 15000 from pot
+pj0901: doesn't show hand 
+*** SUMMARY ***
+Total pot 15000 | Rake 0 
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: mobky folded before Flop (didn't bet)
+Seat 3: supervaganj folded before Flop (didn't bet)
+Seat 4: Vamoclan (button) folded before Flop (didn't bet)
+Seat 5: pj0901 (small blind) collected (15000)
+Seat 6: Proosty2 (big blind) folded before Flop
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: DR. ELDAR folded before Flop (didn't bet)
+
+PokerStars Hand #251206999200: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:32:20 UTC [2024/06/26 16:32:20 ET]
+Table '3767885527 93' 8-max Seat #5 is the button
+Seat 1: lucaromanoo1 (223504 in chips) 
+Seat 2: mobky (33627 in chips) 
+Seat 3: supervaganj (120640 in chips) 
+Seat 4: Vamoclan (49349 in chips) 
+Seat 5: pj0901 (254492 in chips) 
+Seat 6: Proosty2 (55978 in chips) 
+Seat 7: gibbo888 (280616 in chips) 
+Seat 8: DR. ELDAR (81516 in chips) 
+lucaromanoo1: posts the ante 625
+mobky: posts the ante 625
+supervaganj: posts the ante 625
+Vamoclan: posts the ante 625
+pj0901: posts the ante 625
+Proosty2: posts the ante 625
+gibbo888: posts the ante 625
+DR. ELDAR: posts the ante 625
+Proosty2: posts small blind 2500
+gibbo888: posts big blind 5000
+*** HOLE CARDS ***
+DR. ELDAR: folds 
+lucaromanoo1: folds 
+mobky: folds 
+supervaganj: raises 5000 to 10000
+Vamoclan: folds 
+pj0901: raises 15000 to 25000
+Proosty2: folds 
+gibbo888: raises 250000 to 275000
+supervaganj: folds 
+pj0901: folds 
+Uncalled bet (250000) returned to gibbo888
+gibbo888 collected 67500 from pot
+gibbo888: doesn't show hand 
+*** SUMMARY ***
+Total pot 67500 | Rake 0 
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: mobky folded before Flop (didn't bet)
+Seat 3: supervaganj folded before Flop
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 (button) folded before Flop
+Seat 6: Proosty2 (small blind) folded before Flop
+Seat 7: gibbo888 (big blind) collected (67500)
+Seat 8: DR. ELDAR folded before Flop (didn't bet)
+
+PokerStars Hand #251207031999: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:34:17 UTC [2024/06/26 16:34:17 ET]
+Table '3767885527 93' 8-max Seat #6 is the button
+Seat 1: lucaromanoo1 (222879 in chips) 
+Seat 2: mobky (33002 in chips) 
+Seat 3: supervaganj (110015 in chips) 
+Seat 4: Vamoclan (48724 in chips) 
+Seat 5: pj0901 (228867 in chips) 
+Seat 6: Proosty2 (52853 in chips) 
+Seat 7: gibbo888 (322491 in chips) 
+Seat 8: DR. ELDAR (80891 in chips) 
+lucaromanoo1: posts the ante 625
+mobky: posts the ante 625
+supervaganj: posts the ante 625
+Vamoclan: posts the ante 625
+pj0901: posts the ante 625
+Proosty2: posts the ante 625
+gibbo888: posts the ante 625
+DR. ELDAR: posts the ante 625
+gibbo888: posts small blind 2500
+DR. ELDAR: posts big blind 5000
+*** HOLE CARDS ***
+lucaromanoo1: raises 5000 to 10000
+mobky: folds 
+supervaganj: folds 
+Vamoclan: folds 
+pj0901: folds 
+Proosty2: folds 
+gibbo888: folds 
+DR. ELDAR: folds 
+Uncalled bet (5000) returned to lucaromanoo1
+lucaromanoo1 collected 17500 from pot
+lucaromanoo1: doesn't show hand 
+*** SUMMARY ***
+Total pot 17500 | Rake 0 
+Seat 1: lucaromanoo1 collected (17500)
+Seat 2: mobky folded before Flop (didn't bet)
+Seat 3: supervaganj folded before Flop (didn't bet)
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 folded before Flop (didn't bet)
+Seat 6: Proosty2 (button) folded before Flop (didn't bet)
+Seat 7: gibbo888 (small blind) folded before Flop
+Seat 8: DR. ELDAR (big blind) folded before Flop
+
+PokerStars Hand #251207037505: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:34:36 UTC [2024/06/26 16:34:36 ET]
+Table '3767885527 93' 8-max Seat #7 is the button
+Seat 1: lucaromanoo1 (234754 in chips) 
+Seat 2: mobky (32377 in chips) 
+Seat 3: supervaganj (109390 in chips) 
+Seat 4: Vamoclan (48099 in chips) 
+Seat 5: pj0901 (228242 in chips) 
+Seat 6: Proosty2 (52228 in chips) 
+Seat 7: gibbo888 (319366 in chips) 
+Seat 8: DR. ELDAR (75266 in chips) 
+lucaromanoo1: posts the ante 625
+mobky: posts the ante 625
+supervaganj: posts the ante 625
+Vamoclan: posts the ante 625
+pj0901: posts the ante 625
+Proosty2: posts the ante 625
+gibbo888: posts the ante 625
+DR. ELDAR: posts the ante 625
+DR. ELDAR: posts small blind 2500
+lucaromanoo1: posts big blind 5000
+*** HOLE CARDS ***
+mobky: folds 
+supervaganj: folds 
+Vamoclan: folds 
+pj0901: raises 5000 to 10000
+Proosty2: folds 
+gibbo888: folds 
+DR. ELDAR: folds 
+lucaromanoo1: calls 5000
+*** FLOP *** [Kh 3h 5h]
+lucaromanoo1: checks 
+pj0901: checks 
+*** TURN *** [Kh 3h 5h] [3d]
+lucaromanoo1: bets 21175
+pj0901: calls 21175
+*** RIVER *** [Kh 3h 5h 3d] [2c]
+lucaromanoo1: bets 70000
+pj0901: calls 70000
+*** SHOW DOWN ***
+lucaromanoo1: shows [Jh 4h] (a flush, King high)
+pj0901: mucks hand 
+lucaromanoo1 collected 209850 from pot
+*** SUMMARY ***
+Total pot 209850 | Rake 0 
+Board [Kh 3h 5h 3d 2c]
+Seat 1: lucaromanoo1 (big blind) showed [Jh 4h] and won (209850) with a flush, King high
+Seat 2: mobky folded before Flop (didn't bet)
+Seat 3: supervaganj folded before Flop (didn't bet)
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 mucked
+Seat 6: Proosty2 folded before Flop (didn't bet)
+Seat 7: gibbo888 (button) folded before Flop (didn't bet)
+Seat 8: DR. ELDAR (small blind) folded before Flop
+
+PokerStars Hand #251207057855: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:35:48 UTC [2024/06/26 16:35:48 ET]
+Table '3767885527 93' 8-max Seat #8 is the button
+Seat 1: lucaromanoo1 (342804 in chips) 
+Seat 2: mobky (31752 in chips) 
+Seat 3: supervaganj (108765 in chips) 
+Seat 4: Vamoclan (47474 in chips) 
+Seat 5: pj0901 (126442 in chips) 
+Seat 6: Proosty2 (51603 in chips) 
+Seat 7: gibbo888 (318741 in chips) 
+Seat 8: DR. ELDAR (72141 in chips) 
+lucaromanoo1: posts the ante 625
+mobky: posts the ante 625
+supervaganj: posts the ante 625
+Vamoclan: posts the ante 625
+pj0901: posts the ante 625
+Proosty2: posts the ante 625
+gibbo888: posts the ante 625
+DR. ELDAR: posts the ante 625
+lucaromanoo1: posts small blind 2500
+mobky: posts big blind 5000
+*** HOLE CARDS ***
+supervaganj: folds 
+Vamoclan: folds 
+pj0901: folds 
+Proosty2: folds 
+gibbo888: folds 
+DR. ELDAR: folds 
+lucaromanoo1: raises 337179 to 342179 and is all-in
+mobky: calls 26127 and is all-in
+Uncalled bet (311052) returned to lucaromanoo1
+*** FLOP *** [Td 3c 3s]
+*** TURN *** [Td 3c 3s] [Th]
+*** RIVER *** [Td 3c 3s Th] [Ks]
+*** SHOW DOWN ***
+lucaromanoo1: shows [8h Ah] (two pair, Tens and Threes)
+mobky: shows [Kh 5h] (two pair, Kings and Tens)
+mobky collected 67254 from pot
+*** SUMMARY ***
+Total pot 67254 | Rake 0 
+Board [Td 3c 3s Th Ks]
+Seat 1: lucaromanoo1 (small blind) showed [8h Ah] and lost with two pair, Tens and Threes
+Seat 2: mobky (big blind) showed [Kh 5h] and won (67254) with two pair, Kings and Tens
+Seat 3: supervaganj folded before Flop (didn't bet)
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 folded before Flop (didn't bet)
+Seat 6: Proosty2 folded before Flop (didn't bet)
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: DR. ELDAR (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207066741: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:36:19 UTC [2024/06/26 16:36:19 ET]
+Table '3767885527 93' 8-max Seat #1 is the button
+Seat 1: lucaromanoo1 (311052 in chips) 
+Seat 2: mobky (67254 in chips) 
+Seat 3: supervaganj (108140 in chips) 
+Seat 4: Vamoclan (46849 in chips) 
+Seat 5: pj0901 (125817 in chips) 
+Seat 6: Proosty2 (50978 in chips) 
+Seat 7: gibbo888 (318116 in chips) 
+Seat 8: DR. ELDAR (71516 in chips) 
+lucaromanoo1: posts the ante 750
+mobky: posts the ante 750
+supervaganj: posts the ante 750
+Vamoclan: posts the ante 750
+pj0901: posts the ante 750
+Proosty2: posts the ante 750
+gibbo888: posts the ante 750
+DR. ELDAR: posts the ante 750
+mobky: posts small blind 3000
+supervaganj: posts big blind 6000
+*** HOLE CARDS ***
+Vamoclan: folds 
+pj0901: folds 
+Proosty2: folds 
+gibbo888: folds 
+DR. ELDAR: folds 
+lucaromanoo1: raises 304302 to 310302 and is all-in
+mobky: calls 63504 and is all-in
+supervaganj: folds 
+Uncalled bet (243798) returned to lucaromanoo1
+*** FLOP *** [2h Ad 7s]
+*** TURN *** [2h Ad 7s] [5s]
+*** RIVER *** [2h Ad 7s 5s] [Jh]
+*** SHOW DOWN ***
+mobky: shows [Kc Ks] (a pair of Kings)
+lucaromanoo1: shows [Ah 5c] (two pair, Aces and Fives)
+lucaromanoo1 collected 145008 from pot
+mobky finished the tournament in 283rd place and received $104.64.
+*** SUMMARY ***
+Total pot 145008 | Rake 0 
+Board [2h Ad 7s 5s Jh]
+Seat 1: lucaromanoo1 (button) showed [Ah 5c] and won (145008) with two pair, Aces and Fives
+Seat 2: mobky (small blind) showed [Kc Ks] and lost with a pair of Kings
+Seat 3: supervaganj (big blind) folded before Flop
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 folded before Flop (didn't bet)
+Seat 6: Proosty2 folded before Flop (didn't bet)
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: DR. ELDAR folded before Flop (didn't bet)
+
+PokerStars Hand #251207074223: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:36:46 UTC [2024/06/26 16:36:46 ET]
+Table '3767885527 93' 8-max Seat #3 is the button
+Seat 1: lucaromanoo1 (388806 in chips) 
+Seat 3: supervaganj (101390 in chips) 
+Seat 4: Vamoclan (46099 in chips) 
+Seat 5: pj0901 (125067 in chips) 
+Seat 6: Proosty2 (50228 in chips) 
+Seat 7: gibbo888 (317366 in chips) 
+Seat 8: DR. ELDAR (70766 in chips) 
+lucaromanoo1: posts the ante 750
+supervaganj: posts the ante 750
+Vamoclan: posts the ante 750
+pj0901: posts the ante 750
+Proosty2: posts the ante 750
+gibbo888: posts the ante 750
+DR. ELDAR: posts the ante 750
+Vamoclan: posts small blind 3000
+pj0901: posts big blind 6000
+*** HOLE CARDS ***
+GUIDAASCANIO is disconnected 
+Proosty2: folds 
+gibbo888: folds 
+DR. ELDAR: raises 64016 to 70016 and is all-in
+lucaromanoo1: folds 
+supervaganj: folds 
+Vamoclan: folds 
+pj0901: folds 
+Uncalled bet (64016) returned to DR. ELDAR
+DR. ELDAR collected 20250 from pot
+DR. ELDAR: doesn't show hand 
+*** SUMMARY ***
+Total pot 20250 | Rake 0 
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 3: supervaganj (button) folded before Flop (didn't bet)
+Seat 4: Vamoclan (small blind) folded before Flop
+Seat 5: pj0901 (big blind) folded before Flop
+Seat 6: Proosty2 folded before Flop (didn't bet)
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: DR. ELDAR collected (20250)
+
+PokerStars Hand #251207085166: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:37:24 UTC [2024/06/26 16:37:24 ET]
+Table '3767885527 93' 8-max Seat #4 is the button
+Seat 1: lucaromanoo1 (388056 in chips) 
+Seat 2: GUIDAASCANIO (100980 in chips) 
+Seat 3: supervaganj (100640 in chips) 
+Seat 4: Vamoclan (42349 in chips) 
+Seat 5: pj0901 (118317 in chips) 
+Seat 6: Proosty2 (49478 in chips) 
+Seat 7: gibbo888 (316616 in chips) 
+Seat 8: DR. ELDAR (84266 in chips) 
+lucaromanoo1: posts the ante 750
+GUIDAASCANIO: posts the ante 750
+supervaganj: posts the ante 750
+Vamoclan: posts the ante 750
+pj0901: posts the ante 750
+Proosty2: posts the ante 750
+gibbo888: posts the ante 750
+DR. ELDAR: posts the ante 750
+pj0901: posts small blind 3000
+Proosty2: posts big blind 6000
+*** HOLE CARDS ***
+gibbo888: folds 
+DR. ELDAR: folds 
+lucaromanoo1: folds 
+GUIDAASCANIO: folds 
+supervaganj: folds 
+Vamoclan: raises 35599 to 41599 and is all-in
+pj0901: folds 
+Proosty2: folds 
+Uncalled bet (35599) returned to Vamoclan
+Vamoclan collected 21000 from pot
+Vamoclan: doesn't show hand 
+*** SUMMARY ***
+Total pot 21000 | Rake 0 
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: GUIDAASCANIO folded before Flop (didn't bet)
+Seat 3: supervaganj folded before Flop (didn't bet)
+Seat 4: Vamoclan (button) collected (21000)
+Seat 5: pj0901 (small blind) folded before Flop
+Seat 6: Proosty2 (big blind) folded before Flop
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: DR. ELDAR folded before Flop (didn't bet)
+
+PokerStars Hand #251207090923: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:37:45 UTC [2024/06/26 16:37:45 ET]
+Table '3767885527 93' 8-max Seat #5 is the button
+Seat 1: lucaromanoo1 (387306 in chips) 
+Seat 2: GUIDAASCANIO (100230 in chips) 
+Seat 3: supervaganj (99890 in chips) 
+Seat 4: Vamoclan (56599 in chips) 
+Seat 5: pj0901 (114567 in chips) 
+Seat 6: Proosty2 (42728 in chips) 
+Seat 7: gibbo888 (315866 in chips) 
+Seat 8: DR. ELDAR (83516 in chips) 
+lucaromanoo1: posts the ante 750
+GUIDAASCANIO: posts the ante 750
+supervaganj: posts the ante 750
+Vamoclan: posts the ante 750
+pj0901: posts the ante 750
+Proosty2: posts the ante 750
+gibbo888: posts the ante 750
+DR. ELDAR: posts the ante 750
+Proosty2: posts small blind 3000
+gibbo888: posts big blind 6000
+*** HOLE CARDS ***
+DR. ELDAR: raises 6600 to 12600
+lucaromanoo1: folds 
+GUIDAASCANIO: folds 
+supervaganj: folds 
+Vamoclan: folds 
+pj0901: raises 11400 to 24000
+Proosty2: folds 
+gibbo888: folds 
+DR. ELDAR: calls 11400
+*** FLOP *** [2d Jc 7h]
+DR. ELDAR: checks 
+pj0901: bets 6000
+DR. ELDAR: calls 6000
+*** TURN *** [2d Jc 7h] [7c]
+DR. ELDAR: checks 
+pj0901: bets 12750
+DR. ELDAR: raises 40016 to 52766 and is all-in
+pj0901: calls 40016
+*** RIVER *** [2d Jc 7h 7c] [3s]
+*** SHOW DOWN ***
+DR. ELDAR: shows [As 5s] (a pair of Sevens)
+pj0901: shows [8c 8s] (two pair, Eights and Sevens)
+pj0901 collected 180532 from pot
+DR. ELDAR finished the tournament in 267th place and received $104.64.
+*** SUMMARY ***
+Total pot 180532 | Rake 0 
+Board [2d Jc 7h 7c 3s]
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: GUIDAASCANIO folded before Flop (didn't bet)
+Seat 3: supervaganj folded before Flop (didn't bet)
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 (button) showed [8c 8s] and won (180532) with two pair, Eights and Sevens
+Seat 6: Proosty2 (small blind) folded before Flop
+Seat 7: gibbo888 (big blind) folded before Flop
+Seat 8: DR. ELDAR showed [As 5s] and lost with a pair of Sevens
+
+PokerStars Hand #251207105841: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:38:38 UTC [2024/06/26 16:38:38 ET]
+Table '3767885527 93' 8-max Seat #6 is the button
+Seat 1: lucaromanoo1 (386556 in chips) 
+Seat 2: GUIDAASCANIO (99480 in chips) 
+Seat 3: supervaganj (99140 in chips) 
+Seat 4: Vamoclan (55849 in chips) 
+Seat 5: pj0901 (211583 in chips) 
+Seat 6: Proosty2 (38978 in chips) 
+Seat 7: gibbo888 (309116 in chips) 
+lucaromanoo1: posts the ante 750
+GUIDAASCANIO: posts the ante 750
+supervaganj: posts the ante 750
+Vamoclan: posts the ante 750
+pj0901: posts the ante 750
+Proosty2: posts the ante 750
+gibbo888: posts the ante 750
+gibbo888: posts small blind 3000
+lucaromanoo1: posts big blind 6000
+*** HOLE CARDS ***
+GUIDAASCANIO: folds 
+supervaganj: folds 
+Vamoclan: folds 
+pj0901: raises 6000 to 12000
+mp5610 is disconnected 
+Proosty2: folds 
+gibbo888: folds 
+lucaromanoo1: calls 6000
+*** FLOP *** [Jd 4c 2s]
+lucaromanoo1: checks 
+pj0901: bets 8063
+lucaromanoo1: calls 8063
+*** TURN *** [Jd 4c 2s] [4s]
+lucaromanoo1: bets 15480
+pj0901: calls 15480
+*** RIVER *** [Jd 4c 2s 4s] [6c]
+lucaromanoo1: checks 
+pj0901: checks 
+*** SHOW DOWN ***
+lucaromanoo1: shows [7c 7d] (two pair, Sevens and Fours)
+pj0901: mucks hand 
+lucaromanoo1 collected 79336 from pot
+*** SUMMARY ***
+Total pot 79336 | Rake 0 
+Board [Jd 4c 2s 4s 6c]
+Seat 1: lucaromanoo1 (big blind) showed [7c 7d] and won (79336) with two pair, Sevens and Fours
+Seat 2: GUIDAASCANIO folded before Flop (didn't bet)
+Seat 3: supervaganj folded before Flop (didn't bet)
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 mucked
+Seat 6: Proosty2 (button) folded before Flop (didn't bet)
+Seat 7: gibbo888 (small blind) folded before Flop
+
+PokerStars Hand #251207125161: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:39:46 UTC [2024/06/26 16:39:46 ET]
+Table '3767885527 93' 8-max Seat #7 is the button
+Seat 1: lucaromanoo1 (429599 in chips) 
+Seat 2: GUIDAASCANIO (98730 in chips) 
+Seat 3: supervaganj (98390 in chips) 
+Seat 4: Vamoclan (55099 in chips) 
+Seat 5: pj0901 (175290 in chips) 
+Seat 6: Proosty2 (38228 in chips) 
+Seat 7: gibbo888 (305366 in chips) 
+Seat 8: mp5610 (121000 in chips) out of hand (moved from another table into small blind)
+mp5610 will be allowed to play after the button
+lucaromanoo1: posts the ante 750
+GUIDAASCANIO: posts the ante 750
+supervaganj: posts the ante 750
+Vamoclan: posts the ante 750
+pj0901: posts the ante 750
+Proosty2: posts the ante 750
+gibbo888: posts the ante 750
+lucaromanoo1: posts small blind 3000
+GUIDAASCANIO: posts big blind 6000
+*** HOLE CARDS ***
+supervaganj: raises 6000 to 12000
+Vamoclan: folds 
+pj0901: folds 
+Proosty2: folds 
+gibbo888: folds 
+lucaromanoo1: folds 
+GUIDAASCANIO: calls 6000
+*** FLOP *** [5d 2s Td]
+GUIDAASCANIO: checks 
+supervaganj: bets 10643
+GUIDAASCANIO: folds 
+Uncalled bet (10643) returned to supervaganj
+supervaganj collected 32250 from pot
+supervaganj: doesn't show hand 
+*** SUMMARY ***
+Total pot 32250 | Rake 0 
+Board [5d 2s Td]
+Seat 1: lucaromanoo1 (small blind) folded before Flop
+Seat 2: GUIDAASCANIO (big blind) folded on the Flop
+Seat 3: supervaganj collected (32250)
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 folded before Flop (didn't bet)
+Seat 6: Proosty2 folded before Flop (didn't bet)
+Seat 7: gibbo888 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207133875: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:40:17 UTC [2024/06/26 16:40:17 ET]
+Table '3767885527 93' 8-max Seat #1 is the button
+Seat 1: lucaromanoo1 (425849 in chips) 
+Seat 2: GUIDAASCANIO (85980 in chips) 
+Seat 3: supervaganj (117890 in chips) 
+Seat 4: Vamoclan (54349 in chips) 
+Seat 5: pj0901 (174540 in chips) 
+Seat 6: Proosty2 (37478 in chips) 
+Seat 7: gibbo888 (304616 in chips) 
+Seat 8: mp5610 (121000 in chips) 
+lucaromanoo1: posts the ante 750
+GUIDAASCANIO: posts the ante 750
+supervaganj: posts the ante 750
+Vamoclan: posts the ante 750
+pj0901: posts the ante 750
+Proosty2: posts the ante 750
+gibbo888: posts the ante 750
+mp5610: posts the ante 750
+GUIDAASCANIO: posts small blind 3000
+supervaganj: posts big blind 6000
+*** HOLE CARDS ***
+Vamoclan: folds 
+pj0901: raises 6000 to 12000
+Proosty2: folds 
+gibbo888: folds 
+mp5610: folds 
+lucaromanoo1: folds 
+GUIDAASCANIO: folds 
+supervaganj: calls 6000
+*** FLOP *** [Th 7s 6h]
+supervaganj: checks 
+pj0901: bets 8250
+supervaganj: calls 8250
+*** TURN *** [Th 7s 6h] [Qh]
+supervaganj: checks 
+pj0901: bets 25800
+supervaganj: folds 
+Uncalled bet (25800) returned to pj0901
+pj0901 collected 49500 from pot
+pj0901: doesn't show hand 
+*** SUMMARY ***
+Total pot 49500 | Rake 0 
+Board [Th 7s 6h Qh]
+Seat 1: lucaromanoo1 (button) folded before Flop (didn't bet)
+Seat 2: GUIDAASCANIO (small blind) folded before Flop
+Seat 3: supervaganj (big blind) folded on the Turn
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 collected (49500)
+Seat 6: Proosty2 folded before Flop (didn't bet)
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: mp5610 folded before Flop (didn't bet)
+
+PokerStars Hand #251207150019: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:41:15 UTC [2024/06/26 16:41:15 ET]
+Table '3767885527 93' 8-max Seat #2 is the button
+Seat 1: lucaromanoo1 (425099 in chips) 
+Seat 2: GUIDAASCANIO (82230 in chips) 
+Seat 3: supervaganj (96890 in chips) 
+Seat 4: Vamoclan (53599 in chips) 
+Seat 5: pj0901 (203040 in chips) 
+Seat 6: Proosty2 (36728 in chips) 
+Seat 7: gibbo888 (303866 in chips) 
+Seat 8: mp5610 (120250 in chips) 
+lucaromanoo1: posts the ante 750
+GUIDAASCANIO: posts the ante 750
+supervaganj: posts the ante 750
+Vamoclan: posts the ante 750
+pj0901: posts the ante 750
+Proosty2: posts the ante 750
+gibbo888: posts the ante 750
+mp5610: posts the ante 750
+supervaganj: posts small blind 3000
+Vamoclan: posts big blind 6000
+*** HOLE CARDS ***
+pj0901 has timed out
+pj0901: folds 
+pj0901 is sitting out
+Proosty2: folds 
+gibbo888: raises 6000 to 12000
+mp5610: folds 
+pj0901 has returned
+lucaromanoo1: calls 12000
+GUIDAASCANIO: folds 
+supervaganj: folds 
+Vamoclan: folds 
+*** FLOP *** [7d 5d 4d]
+gibbo888: bets 26130
+lucaromanoo1: calls 26130
+*** TURN *** [7d 5d 4d] [Ad]
+gibbo888: checks 
+lucaromanoo1: checks 
+*** RIVER *** [7d 5d 4d Ad] [Kh]
+gibbo888: checks 
+lucaromanoo1: bets 50193
+gibbo888: calls 50193
+*** SHOW DOWN ***
+lucaromanoo1: shows [Ah Jd] (a flush, Ace high)
+gibbo888: mucks hand 
+lucaromanoo1 collected 191646 from pot
+*** SUMMARY ***
+Total pot 191646 | Rake 0 
+Board [7d 5d 4d Ad Kh]
+Seat 1: lucaromanoo1 showed [Ah Jd] and won (191646) with a flush, Ace high
+Seat 2: GUIDAASCANIO (button) folded before Flop (didn't bet)
+Seat 3: supervaganj (small blind) folded before Flop
+Seat 4: Vamoclan (big blind) folded before Flop
+Seat 5: pj0901 folded before Flop (didn't bet)
+Seat 6: Proosty2 folded before Flop (didn't bet)
+Seat 7: gibbo888 mucked
+Seat 8: mp5610 folded before Flop (didn't bet)
+
+PokerStars Hand #251207173831: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:42:41 UTC [2024/06/26 16:42:41 ET]
+Table '3767885527 93' 8-max Seat #3 is the button
+Seat 1: lucaromanoo1 (527672 in chips) 
+Seat 2: GUIDAASCANIO (81480 in chips) 
+Seat 3: supervaganj (93140 in chips) 
+Seat 4: Vamoclan (46849 in chips) 
+Seat 5: pj0901 (202290 in chips) 
+Seat 6: Proosty2 (35978 in chips) 
+Seat 7: gibbo888 (214793 in chips) 
+Seat 8: mp5610 (119500 in chips) 
+lucaromanoo1: posts the ante 750
+GUIDAASCANIO: posts the ante 750
+supervaganj: posts the ante 750
+Vamoclan: posts the ante 750
+pj0901: posts the ante 750
+Proosty2: posts the ante 750
+gibbo888: posts the ante 750
+mp5610: posts the ante 750
+Vamoclan: posts small blind 3000
+pj0901: posts big blind 6000
+*** HOLE CARDS ***
+Proosty2: folds 
+gibbo888: folds 
+mp5610: folds 
+lucaromanoo1: folds 
+GUIDAASCANIO: folds 
+supervaganj: raises 6000 to 12000
+Vamoclan: folds 
+pj0901: raises 189540 to 201540 and is all-in
+supervaganj: folds 
+Uncalled bet (189540) returned to pj0901
+pj0901 collected 33000 from pot
+pj0901: doesn't show hand 
+*** SUMMARY ***
+Total pot 33000 | Rake 0 
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: GUIDAASCANIO folded before Flop (didn't bet)
+Seat 3: supervaganj (button) folded before Flop
+Seat 4: Vamoclan (small blind) folded before Flop
+Seat 5: pj0901 (big blind) collected (33000)
+Seat 6: Proosty2 folded before Flop (didn't bet)
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: mp5610 folded before Flop (didn't bet)
+
+PokerStars Hand #251207185765: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:43:24 UTC [2024/06/26 16:43:24 ET]
+Table '3767885527 93' 8-max Seat #4 is the button
+Seat 1: lucaromanoo1 (526922 in chips) 
+Seat 2: GUIDAASCANIO (80730 in chips) 
+Seat 3: supervaganj (80390 in chips) 
+Seat 4: Vamoclan (43099 in chips) 
+Seat 5: pj0901 (222540 in chips) 
+Seat 6: Proosty2 (35228 in chips) 
+Seat 7: gibbo888 (214043 in chips) 
+Seat 8: mp5610 (118750 in chips) 
+lucaromanoo1: posts the ante 750
+GUIDAASCANIO: posts the ante 750
+supervaganj: posts the ante 750
+Vamoclan: posts the ante 750
+pj0901: posts the ante 750
+Proosty2: posts the ante 750
+gibbo888: posts the ante 750
+mp5610: posts the ante 750
+pj0901: posts small blind 3000
+Proosty2: posts big blind 6000
+*** HOLE CARDS ***
+gibbo888: folds 
+mp5610: folds 
+lucaromanoo1: folds 
+GUIDAASCANIO: folds 
+supervaganj: folds 
+Vamoclan: folds 
+pj0901: raises 36000 to 42000
+Proosty2: calls 28478 and is all-in
+Uncalled bet (7522) returned to pj0901
+*** FLOP *** [6h Jd 9c]
+*** TURN *** [6h Jd 9c] [7c]
+*** RIVER *** [6h Jd 9c 7c] [Jh]
+*** SHOW DOWN ***
+pj0901: shows [3h Kh] (a pair of Jacks)
+Proosty2: shows [Qd Qh] (two pair, Queens and Jacks)
+Proosty2 collected 74956 from pot
+*** SUMMARY ***
+Total pot 74956 | Rake 0 
+Board [6h Jd 9c 7c Jh]
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: GUIDAASCANIO folded before Flop (didn't bet)
+Seat 3: supervaganj folded before Flop (didn't bet)
+Seat 4: Vamoclan (button) folded before Flop (didn't bet)
+Seat 5: pj0901 (small blind) showed [3h Kh] and lost with a pair of Jacks
+Seat 6: Proosty2 (big blind) showed [Qd Qh] and won (74956) with two pair, Queens and Jacks
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: mp5610 folded before Flop (didn't bet)
+
+PokerStars Hand #251207195393: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:44:00 UTC [2024/06/26 16:44:00 ET]
+Table '3767885527 93' 8-max Seat #5 is the button
+Seat 1: lucaromanoo1 (526172 in chips) 
+Seat 2: GUIDAASCANIO (79980 in chips) 
+Seat 3: supervaganj (79640 in chips) 
+Seat 4: Vamoclan (42349 in chips) 
+Seat 5: pj0901 (187312 in chips) 
+Seat 6: Proosty2 (74956 in chips) 
+Seat 7: gibbo888 (213293 in chips) 
+Seat 8: mp5610 (118000 in chips) 
+lucaromanoo1: posts the ante 750
+GUIDAASCANIO: posts the ante 750
+supervaganj: posts the ante 750
+Vamoclan: posts the ante 750
+pj0901: posts the ante 750
+Proosty2: posts the ante 750
+gibbo888: posts the ante 750
+mp5610: posts the ante 750
+Proosty2: posts small blind 3000
+gibbo888: posts big blind 6000
+*** HOLE CARDS ***
+mp5610: folds 
+lucaromanoo1: folds 
+GUIDAASCANIO: folds 
+supervaganj: folds 
+Vamoclan: folds 
+pj0901: folds 
+Proosty2: raises 68206 to 74206 and is all-in
+gibbo888: calls 68206
+*** FLOP *** [2s Js 9c]
+*** TURN *** [2s Js 9c] [Ah]
+*** RIVER *** [2s Js 9c Ah] [Jh]
+*** SHOW DOWN ***
+Proosty2: shows [4c Kd] (a pair of Jacks)
+gibbo888: shows [Ac Jc] (a full house, Jacks full of Aces)
+gibbo888 collected 154412 from pot
+Proosty2 finished the tournament in 226th place and received $115.10.
+*** SUMMARY ***
+Total pot 154412 | Rake 0 
+Board [2s Js 9c Ah Jh]
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: GUIDAASCANIO folded before Flop (didn't bet)
+Seat 3: supervaganj folded before Flop (didn't bet)
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 (button) folded before Flop (didn't bet)
+Seat 6: Proosty2 (small blind) showed [4c Kd] and lost with a pair of Jacks
+Seat 7: gibbo888 (big blind) showed [Ac Jc] and won (154412) with a full house, Jacks full of Aces
+Seat 8: mp5610 folded before Flop (didn't bet)
+
+PokerStars Hand #251207203599: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:44:30 UTC [2024/06/26 16:44:30 ET]
+Table '3767885527 93' 8-max Seat #7 is the button
+Seat 1: lucaromanoo1 (525422 in chips) 
+Seat 2: GUIDAASCANIO (79230 in chips) 
+Seat 3: supervaganj (78890 in chips) 
+Seat 4: Vamoclan (41599 in chips) 
+Seat 5: pj0901 (186562 in chips) 
+Seat 7: gibbo888 (292749 in chips) 
+Seat 8: mp5610 (117250 in chips) 
+lucaromanoo1: posts the ante 750
+GUIDAASCANIO: posts the ante 750
+supervaganj: posts the ante 750
+Vamoclan: posts the ante 750
+pj0901: posts the ante 750
+gibbo888: posts the ante 750
+mp5610: posts the ante 750
+mp5610: posts small blind 3000
+lucaromanoo1: posts big blind 6000
+*** HOLE CARDS ***
+GUIDAASCANIO: folds 
+supervaganj: folds 
+Vamoclan: raises 34849 to 40849 and is all-in
+pj0901: folds 
+gibbo888: folds 
+Biguethi339 is disconnected 
+mp5610: folds 
+lucaromanoo1: folds 
+Uncalled bet (34849) returned to Vamoclan
+Vamoclan collected 20250 from pot
+Vamoclan: doesn't show hand 
+*** SUMMARY ***
+Total pot 20250 | Rake 0 
+Seat 1: lucaromanoo1 (big blind) folded before Flop
+Seat 2: GUIDAASCANIO folded before Flop (didn't bet)
+Seat 3: supervaganj folded before Flop (didn't bet)
+Seat 4: Vamoclan collected (20250)
+Seat 5: pj0901 folded before Flop (didn't bet)
+Seat 7: gibbo888 (button) folded before Flop (didn't bet)
+Seat 8: mp5610 (small blind) folded before Flop
+
+PokerStars Hand #251207210628: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:44:56 UTC [2024/06/26 16:44:56 ET]
+Table '3767885527 93' 8-max Seat #8 is the button
+Seat 1: lucaromanoo1 (518672 in chips) 
+Seat 2: GUIDAASCANIO (78480 in chips) 
+Seat 3: supervaganj (78140 in chips) 
+Seat 4: Vamoclan (55099 in chips) 
+Seat 5: pj0901 (185812 in chips) 
+Seat 6: Biguethi339 (231272 in chips) 
+Seat 7: gibbo888 (291999 in chips) 
+Seat 8: mp5610 (113500 in chips) 
+lucaromanoo1: posts the ante 750
+GUIDAASCANIO: posts the ante 750
+supervaganj: posts the ante 750
+Vamoclan: posts the ante 750
+pj0901: posts the ante 750
+Biguethi339: posts the ante 750
+gibbo888: posts the ante 750
+mp5610: posts the ante 750
+lucaromanoo1: posts small blind 3000
+GUIDAASCANIO: posts big blind 6000
+*** HOLE CARDS ***
+supervaganj: folds 
+Vamoclan: raises 48349 to 54349 and is all-in
+pj0901: folds 
+Biguethi339: folds 
+gibbo888: folds 
+mp5610 has timed out
+mp5610: folds 
+mp5610 is sitting out
+lucaromanoo1: folds 
+mp5610 has returned
+GUIDAASCANIO: folds 
+Uncalled bet (48349) returned to Vamoclan
+Vamoclan collected 21000 from pot
+Vamoclan: doesn't show hand 
+*** SUMMARY ***
+Total pot 21000 | Rake 0 
+Seat 1: lucaromanoo1 (small blind) folded before Flop
+Seat 2: GUIDAASCANIO (big blind) folded before Flop
+Seat 3: supervaganj folded before Flop (didn't bet)
+Seat 4: Vamoclan collected (21000)
+Seat 5: pj0901 folded before Flop (didn't bet)
+Seat 6: Biguethi339 folded before Flop (didn't bet)
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: mp5610 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207225080: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:45:48 UTC [2024/06/26 16:45:48 ET]
+Table '3767885527 93' 8-max Seat #1 is the button
+Seat 1: lucaromanoo1 (514922 in chips) 
+Seat 2: GUIDAASCANIO (71730 in chips) 
+Seat 3: supervaganj (77390 in chips) 
+Seat 4: Vamoclan (69349 in chips) 
+Seat 5: pj0901 (185062 in chips) 
+Seat 6: Biguethi339 (230522 in chips) 
+Seat 7: gibbo888 (291249 in chips) 
+Seat 8: mp5610 (112750 in chips) 
+lucaromanoo1: posts the ante 750
+GUIDAASCANIO: posts the ante 750
+supervaganj: posts the ante 750
+Vamoclan: posts the ante 750
+pj0901: posts the ante 750
+Biguethi339: posts the ante 750
+gibbo888: posts the ante 750
+mp5610: posts the ante 750
+GUIDAASCANIO: posts small blind 3000
+supervaganj: posts big blind 6000
+*** HOLE CARDS ***
+Vamoclan: folds 
+pj0901: folds 
+Biguethi339: folds 
+gibbo888: folds 
+mp5610: raises 6000 to 12000
+lucaromanoo1: raises 502172 to 514172 and is all-in
+GUIDAASCANIO: folds 
+supervaganj: folds 
+mp5610: folds 
+Uncalled bet (502172) returned to lucaromanoo1
+lucaromanoo1 collected 39000 from pot
+lucaromanoo1: doesn't show hand 
+*** SUMMARY ***
+Total pot 39000 | Rake 0 
+Seat 1: lucaromanoo1 (button) collected (39000)
+Seat 2: GUIDAASCANIO (small blind) folded before Flop
+Seat 3: supervaganj (big blind) folded before Flop
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 folded before Flop (didn't bet)
+Seat 6: Biguethi339 folded before Flop (didn't bet)
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: mp5610 folded before Flop
+
+PokerStars Hand #251207233575: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:46:19 UTC [2024/06/26 16:46:19 ET]
+Table '3767885527 93' 8-max Seat #2 is the button
+Seat 1: lucaromanoo1 (541172 in chips) 
+Seat 2: GUIDAASCANIO (67980 in chips) 
+Seat 3: supervaganj (70640 in chips) 
+Seat 4: Vamoclan (68599 in chips) 
+Seat 5: pj0901 (184312 in chips) 
+Seat 6: Biguethi339 (229772 in chips) 
+Seat 7: gibbo888 (290499 in chips) 
+Seat 8: mp5610 (100000 in chips) 
+lucaromanoo1: posts the ante 875
+GUIDAASCANIO: posts the ante 875
+supervaganj: posts the ante 875
+Vamoclan: posts the ante 875
+pj0901: posts the ante 875
+Biguethi339: posts the ante 875
+gibbo888: posts the ante 875
+mp5610: posts the ante 875
+supervaganj: posts small blind 3500
+Vamoclan: posts big blind 7000
+*** HOLE CARDS ***
+pj0901: folds 
+Biguethi339: raises 7000 to 14000
+gibbo888: folds 
+mp5610: folds 
+lucaromanoo1: folds 
+GUIDAASCANIO: folds 
+supervaganj: raises 55765 to 69765 and is all-in
+Vamoclan: folds 
+Biguethi339: calls 55765
+*** FLOP *** [9s 6h Tc]
+*** TURN *** [9s 6h Tc] [Ac]
+*** RIVER *** [9s 6h Tc Ac] [4s]
+*** SHOW DOWN ***
+supervaganj: shows [Kc Qd] (high card Ace)
+Biguethi339: shows [9d Td] (two pair, Tens and Nines)
+Biguethi339 collected 153530 from pot
+supervaganj finished the tournament in 211th place and received $115.10.
+*** SUMMARY ***
+Total pot 153530 | Rake 0 
+Board [9s 6h Tc Ac 4s]
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: GUIDAASCANIO (button) folded before Flop (didn't bet)
+Seat 3: supervaganj (small blind) showed [Kc Qd] and lost with high card Ace
+Seat 4: Vamoclan (big blind) folded before Flop
+Seat 5: pj0901 folded before Flop (didn't bet)
+Seat 6: Biguethi339 showed [9d Td] and won (153530) with two pair, Tens and Nines
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: mp5610 folded before Flop (didn't bet)
+
+PokerStars Hand #251207250235: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:47:19 UTC [2024/06/26 16:47:19 ET]
+Table '3767885527 93' 8-max Seat #4 is the button
+Seat 1: lucaromanoo1 (540297 in chips) 
+Seat 2: GUIDAASCANIO (67105 in chips) 
+Seat 4: Vamoclan (60724 in chips) 
+Seat 5: pj0901 (183437 in chips) 
+Seat 6: Biguethi339 (312662 in chips) 
+Seat 7: gibbo888 (289624 in chips) 
+Seat 8: mp5610 (99125 in chips) 
+lucaromanoo1: posts the ante 875
+GUIDAASCANIO: posts the ante 875
+Vamoclan: posts the ante 875
+pj0901: posts the ante 875
+Biguethi339: posts the ante 875
+gibbo888: posts the ante 875
+mp5610: posts the ante 875
+pj0901: posts small blind 3500
+Biguethi339: posts big blind 7000
+*** HOLE CARDS ***
+gibbo888: folds 
+mp5610: folds 
+lucaromanoo1: folds 
+GUIDAASCANIO: folds 
+Vamoclan: folds 
+pj0901: raises 16100 to 23100
+Biguethi339: calls 16100
+*** FLOP *** [4h 7d 4d]
+pj0901: bets 10500
+Biguethi339: calls 10500
+*** TURN *** [4h 7d 4d] [Ts]
+pj0901: checks 
+Biguethi339: checks 
+*** RIVER *** [4h 7d 4d Ts] [9d]
+pj0901: bets 17500
+Biguethi339: folds 
+Uncalled bet (17500) returned to pj0901
+pj0901 collected 73325 from pot
+pj0901: doesn't show hand 
+*** SUMMARY ***
+Total pot 73325 | Rake 0 
+Board [4h 7d 4d Ts 9d]
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: GUIDAASCANIO folded before Flop (didn't bet)
+Seat 4: Vamoclan (button) folded before Flop (didn't bet)
+Seat 5: pj0901 (small blind) collected (73325)
+Seat 6: Biguethi339 (big blind) folded on the River
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: mp5610 folded before Flop (didn't bet)
+
+PokerStars Hand #251207275179: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:48:50 UTC [2024/06/26 16:48:50 ET]
+Table '3767885527 93' 8-max Seat #5 is the button
+Seat 1: lucaromanoo1 (539422 in chips) 
+Seat 2: GUIDAASCANIO (66230 in chips) 
+Seat 4: Vamoclan (59849 in chips) 
+Seat 5: pj0901 (222287 in chips) 
+Seat 6: Biguethi339 (278187 in chips) 
+Seat 7: gibbo888 (288749 in chips) 
+Seat 8: mp5610 (98250 in chips) 
+lucaromanoo1: posts the ante 875
+GUIDAASCANIO: posts the ante 875
+Vamoclan: posts the ante 875
+pj0901: posts the ante 875
+Biguethi339: posts the ante 875
+gibbo888: posts the ante 875
+mp5610: posts the ante 875
+Biguethi339: posts small blind 3500
+gibbo888: posts big blind 7000
+*** HOLE CARDS ***
+mp5610: folds 
+lucaromanoo1: folds 
+GUIDAASCANIO: raises 49000 to 56000
+Lenon318 is disconnected 
+Vamoclan: folds 
+pj0901: folds 
+Biguethi339: folds 
+gibbo888: folds 
+Uncalled bet (49000) returned to GUIDAASCANIO
+GUIDAASCANIO collected 23625 from pot
+GUIDAASCANIO: doesn't show hand 
+*** SUMMARY ***
+Total pot 23625 | Rake 0 
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: GUIDAASCANIO collected (23625)
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 (button) folded before Flop (didn't bet)
+Seat 6: Biguethi339 (small blind) folded before Flop
+Seat 7: gibbo888 (big blind) folded before Flop
+Seat 8: mp5610 folded before Flop (didn't bet)
+
+PokerStars Hand #251207281379: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:49:13 UTC [2024/06/26 16:49:13 ET]
+Table '3767885527 93' 8-max Seat #6 is the button
+Seat 1: lucaromanoo1 (538547 in chips) 
+Seat 2: GUIDAASCANIO (81980 in chips) 
+Seat 3: Lenon318 (58738 in chips) 
+Seat 4: Vamoclan (58974 in chips) 
+Seat 5: pj0901 (221412 in chips) 
+Seat 6: Biguethi339 (273812 in chips) 
+Seat 7: gibbo888 (280874 in chips) 
+Seat 8: mp5610 (97375 in chips) 
+lucaromanoo1: posts the ante 875
+GUIDAASCANIO: posts the ante 875
+Lenon318: posts the ante 875
+Vamoclan: posts the ante 875
+pj0901: posts the ante 875
+Biguethi339: posts the ante 875
+gibbo888: posts the ante 875
+mp5610: posts the ante 875
+gibbo888: posts small blind 3500
+mp5610: posts big blind 7000
+*** HOLE CARDS ***
+lucaromanoo1: folds 
+GUIDAASCANIO: folds 
+Lenon318: folds 
+Vamoclan: folds 
+pj0901: raises 7000 to 14000
+Biguethi339: folds 
+gibbo888: folds 
+mp5610: raises 82500 to 96500 and is all-in
+pj0901: folds 
+Uncalled bet (82500) returned to mp5610
+mp5610 collected 38500 from pot
+*** SUMMARY ***
+Total pot 38500 | Rake 0 
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: GUIDAASCANIO folded before Flop (didn't bet)
+Seat 3: Lenon318 folded before Flop (didn't bet)
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 folded before Flop
+Seat 6: Biguethi339 (button) folded before Flop (didn't bet)
+Seat 7: gibbo888 (small blind) folded before Flop
+Seat 8: mp5610 (big blind) collected (38500)
+
+PokerStars Hand #251207289474: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:49:42 UTC [2024/06/26 16:49:42 ET]
+Table '3767885527 93' 8-max Seat #7 is the button
+Seat 1: lucaromanoo1 (537672 in chips) 
+Seat 2: GUIDAASCANIO (81105 in chips) 
+Seat 3: Lenon318 (57863 in chips) 
+Seat 4: Vamoclan (58099 in chips) 
+Seat 5: pj0901 (206537 in chips) 
+Seat 6: Biguethi339 (272937 in chips) 
+Seat 7: gibbo888 (276499 in chips) 
+Seat 8: mp5610 (121000 in chips) 
+lucaromanoo1: posts the ante 875
+GUIDAASCANIO: posts the ante 875
+Lenon318: posts the ante 875
+Vamoclan: posts the ante 875
+pj0901: posts the ante 875
+Biguethi339: posts the ante 875
+gibbo888: posts the ante 875
+mp5610: posts the ante 875
+mp5610: posts small blind 3500
+lucaromanoo1: posts big blind 7000
+*** HOLE CARDS ***
+GUIDAASCANIO: folds 
+Lenon318: folds 
+Vamoclan: folds 
+pj0901: raises 7000 to 14000
+Biguethi339: raises 24500 to 38500
+gibbo888: folds 
+mp5610: folds 
+lucaromanoo1: folds 
+pj0901: raises 167162 to 205662 and is all-in
+Biguethi339: calls 167162
+*** FLOP *** [4h 6c 3s]
+*** TURN *** [4h 6c 3s] [Tc]
+*** RIVER *** [4h 6c 3s Tc] [8h]
+*** SHOW DOWN ***
+pj0901: shows [As Qh] (high card Ace)
+Biguethi339: shows [Ks Kh] (a pair of Kings)
+Biguethi339 collected 428824 from pot
+pj0901 finished the tournament in 203rd place and received $115.10.
+*** SUMMARY ***
+Total pot 428824 | Rake 0 
+Board [4h 6c 3s Tc 8h]
+Seat 1: lucaromanoo1 (big blind) folded before Flop
+Seat 2: GUIDAASCANIO folded before Flop (didn't bet)
+Seat 3: Lenon318 folded before Flop (didn't bet)
+Seat 4: Vamoclan folded before Flop (didn't bet)
+Seat 5: pj0901 showed [As Qh] and lost with high card Ace
+Seat 6: Biguethi339 showed [Ks Kh] and won (428824) with a pair of Kings
+Seat 7: gibbo888 (button) folded before Flop (didn't bet)
+Seat 8: mp5610 (small blind) folded before Flop
+
+PokerStars Hand #251207302695: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:50:32 UTC [2024/06/26 16:50:32 ET]
+Table '3767885527 93' 8-max Seat #8 is the button
+Seat 1: lucaromanoo1 (529797 in chips) 
+Seat 2: GUIDAASCANIO (80230 in chips) 
+Seat 3: Lenon318 (56988 in chips) 
+Seat 4: Vamoclan (57224 in chips) 
+Seat 6: Biguethi339 (495224 in chips) 
+Seat 7: gibbo888 (275624 in chips) 
+Seat 8: mp5610 (116625 in chips) 
+lucaromanoo1: posts the ante 875
+GUIDAASCANIO: posts the ante 875
+Lenon318: posts the ante 875
+Vamoclan: posts the ante 875
+Biguethi339: posts the ante 875
+gibbo888: posts the ante 875
+mp5610: posts the ante 875
+lucaromanoo1: posts small blind 3500
+GUIDAASCANIO: posts big blind 7000
+*** HOLE CARDS ***
+Lenon318: folds 
+Vamoclan: raises 49349 to 56349 and is all-in
+Biguethi339: folds 
+gibbo888: folds 
+mp5610: folds 
+lucaromanoo1: raises 49349 to 105698
+GUIDAASCANIO: folds 
+Uncalled bet (49349) returned to lucaromanoo1
+*** FLOP *** [5c As Th]
+*** TURN *** [5c As Th] [7c]
+*** RIVER *** [5c As Th 7c] [Kc]
+*** SHOW DOWN ***
+lucaromanoo1: shows [8d Ad] (a pair of Aces)
+Vamoclan: shows [Kh Qs] (a pair of Kings)
+lucaromanoo1 collected 125823 from pot
+Vamoclan finished the tournament in 201st place and received $115.10.
+*** SUMMARY ***
+Total pot 125823 | Rake 0 
+Board [5c As Th 7c Kc]
+Seat 1: lucaromanoo1 (small blind) showed [8d Ad] and won (125823) with a pair of Aces
+Seat 2: GUIDAASCANIO (big blind) folded before Flop
+Seat 3: Lenon318 folded before Flop (didn't bet)
+Seat 4: Vamoclan showed [Kh Qs] and lost with a pair of Kings
+Seat 6: Biguethi339 folded before Flop (didn't bet)
+Seat 7: gibbo888 folded before Flop (didn't bet)
+Seat 8: mp5610 (button) folded before Flop (didn't bet)

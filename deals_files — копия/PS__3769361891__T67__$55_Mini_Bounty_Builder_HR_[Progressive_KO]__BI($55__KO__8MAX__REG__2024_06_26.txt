@@ -1,0 +1,1490 @@
+PokerStars Hand #251204142204: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:23:07 UTC [2024/06/26 13:23:07 ET]
+Table '3769361891 67' 8-max Seat #4 is the button
+Seat 1: koenn8 (107930 in chips, $50 bounty) 
+Seat 2: iOllins (32547 in chips, $37.50 bounty) 
+Seat 3: OManstrom (25043 in chips, $25 bounty) 
+Seat 4: Artuz79 (31173 in chips, $25 bounty) 
+Seat 6: whaleptt (22865 in chips, $25 bounty) 
+Seat 7: rony's123 (19110 in chips, $25 bounty) 
+Seat 8: leotw101 (7845 in chips, $25 bounty) 
+koenn8: posts the ante 70
+iOllins: posts the ante 70
+OManstrom: posts the ante 70
+Artuz79: posts the ante 70
+whaleptt: posts the ante 70
+rony's123: posts the ante 70
+leotw101: posts the ante 70
+whaleptt: posts small blind 250
+rony's123: posts big blind 500
+*** HOLE CARDS ***
+leotw101: folds 
+koenn8: raises 600 to 1100
+iOllins: folds 
+OManstrom: folds 
+Artuz79: folds 
+whaleptt: folds 
+rony's123: folds 
+Uncalled bet (600) returned to koenn8
+koenn8 collected 1740 from pot
+koenn8: doesn't show hand 
+*** SUMMARY ***
+Total pot 1740 | Rake 0 
+Seat 1: koenn8 collected (1740)
+Seat 2: iOllins folded before Flop (didn't bet)
+Seat 3: OManstrom folded before Flop (didn't bet)
+Seat 4: Artuz79 (button) folded before Flop (didn't bet)
+Seat 6: whaleptt (small blind) folded before Flop
+Seat 7: rony's123 (big blind) folded before Flop
+Seat 8: leotw101 folded before Flop (didn't bet)
+
+PokerStars Hand #251204149006: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:23:38 UTC [2024/06/26 13:23:38 ET]
+Table '3769361891 67' 8-max Seat #6 is the button
+Seat 1: koenn8 (109100 in chips, $50 bounty) 
+Seat 2: iOllins (32477 in chips, $37.50 bounty) 
+Seat 3: OManstrom (24973 in chips, $25 bounty) 
+Seat 4: Artuz79 (31103 in chips, $25 bounty) 
+Seat 6: whaleptt (22545 in chips, $25 bounty) 
+Seat 7: rony's123 (18540 in chips, $25 bounty) 
+Seat 8: leotw101 (7775 in chips, $25 bounty) 
+koenn8: posts the ante 70
+iOllins: posts the ante 70
+OManstrom: posts the ante 70
+Artuz79: posts the ante 70
+whaleptt: posts the ante 70
+rony's123: posts the ante 70
+leotw101: posts the ante 70
+rony's123: posts small blind 250
+leotw101: posts big blind 500
+*** HOLE CARDS ***
+koenn8: folds 
+cardinals970 is disconnected 
+iOllins: folds 
+OManstrom: folds 
+Artuz79: raises 600 to 1100
+whaleptt: folds 
+rony's123: folds 
+leotw101: folds 
+Uncalled bet (600) returned to Artuz79
+Artuz79 collected 1740 from pot
+Artuz79: doesn't show hand 
+*** SUMMARY ***
+Total pot 1740 | Rake 0 
+Seat 1: koenn8 folded before Flop (didn't bet)
+Seat 2: iOllins folded before Flop (didn't bet)
+Seat 3: OManstrom folded before Flop (didn't bet)
+Seat 4: Artuz79 collected (1740)
+Seat 6: whaleptt (button) folded before Flop (didn't bet)
+Seat 7: rony's123 (small blind) folded before Flop
+Seat 8: leotw101 (big blind) folded before Flop
+
+PokerStars Hand #251204158930: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:24:22 UTC [2024/06/26 13:24:22 ET]
+Table '3769361891 67' 8-max Seat #7 is the button
+Seat 1: koenn8 (109030 in chips, $50 bounty) 
+Seat 2: iOllins (32407 in chips, $37.50 bounty) 
+Seat 3: OManstrom (24903 in chips, $25 bounty) 
+Seat 4: Artuz79 (32273 in chips, $25 bounty) 
+Seat 5: cardinals970 (25000 in chips, $25 bounty) 
+Seat 6: whaleptt (22475 in chips, $25 bounty) 
+Seat 7: rony's123 (18220 in chips, $25 bounty) 
+Seat 8: leotw101 (7205 in chips, $25 bounty) 
+koenn8: posts the ante 70
+iOllins: posts the ante 70
+OManstrom: posts the ante 70
+Artuz79: posts the ante 70
+cardinals970: posts the ante 70
+whaleptt: posts the ante 70
+rony's123: posts the ante 70
+leotw101: posts the ante 70
+leotw101: posts small blind 250
+koenn8: posts big blind 500
+*** HOLE CARDS ***
+iOllins: folds 
+OManstrom: raises 550 to 1050
+Artuz79: folds 
+cardinals970: calls 1050
+whaleptt: folds 
+rony's123: folds 
+leotw101: folds 
+koenn8: folds 
+*** FLOP *** [8s As Tc]
+OManstrom: checks 
+cardinals970: bets 1057
+OManstrom: calls 1057
+*** TURN *** [8s As Tc] [Ah]
+OManstrom: checks 
+cardinals970: checks 
+*** RIVER *** [8s As Tc Ah] [Qh]
+OManstrom: bets 2762
+cardinals970: folds 
+Uncalled bet (2762) returned to OManstrom
+OManstrom collected 5524 from pot
+*** SUMMARY ***
+Total pot 5524 | Rake 0 
+Board [8s As Tc Ah Qh]
+Seat 1: koenn8 (big blind) folded before Flop
+Seat 2: iOllins folded before Flop (didn't bet)
+Seat 3: OManstrom collected (5524)
+Seat 4: Artuz79 folded before Flop (didn't bet)
+Seat 5: cardinals970 folded on the River
+Seat 6: whaleptt folded before Flop (didn't bet)
+Seat 7: rony's123 (button) folded before Flop (didn't bet)
+Seat 8: leotw101 (small blind) folded before Flop
+
+PokerStars Hand #251204171001: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:25:16 UTC [2024/06/26 13:25:16 ET]
+Table '3769361891 67' 8-max Seat #8 is the button
+Seat 1: koenn8 (108460 in chips, $50 bounty) 
+Seat 3: OManstrom (28250 in chips, $25 bounty) 
+Seat 4: Artuz79 (32203 in chips, $25 bounty) 
+Seat 5: cardinals970 (22823 in chips, $25 bounty) 
+Seat 6: whaleptt (22405 in chips, $25 bounty) 
+Seat 7: rony's123 (18150 in chips, $25 bounty) 
+Seat 8: leotw101 (6885 in chips, $25 bounty) 
+koenn8: posts the ante 70
+OManstrom: posts the ante 70
+Artuz79: posts the ante 70
+cardinals970: posts the ante 70
+whaleptt: posts the ante 70
+rony's123: posts the ante 70
+leotw101: posts the ante 70
+koenn8: posts small blind 250
+OManstrom: posts big blind 500
+*** HOLE CARDS ***
+Artuz79: raises 600 to 1100
+cardinals970: folds 
+whaleptt: folds 
+rony's123: calls 1100
+leotw101: folds 
+koenn8: folds 
+OManstrom: folds 
+*** FLOP *** [Jd 4c Ts]
+Artuz79: bets 1548
+rony's123: calls 1548
+*** TURN *** [Jd 4c Ts] [4d]
+Artuz79: bets 4575
+rony's123: calls 4575
+*** RIVER *** [Jd 4c Ts 4d] [7d]
+Artuz79: checks 
+rony's123: bets 10857 and is all-in
+Artuz79: calls 10857
+*** SHOW DOWN ***
+rony's123: shows [Td Kd] (a flush, King high)
+Artuz79: shows [Jc Tc] (two pair, Jacks and Tens)
+rony's123 collected 37400 from pot
+*** SUMMARY ***
+Total pot 37400 | Rake 0 
+Board [Jd 4c Ts 4d 7d]
+Seat 1: koenn8 (small blind) folded before Flop
+Seat 3: OManstrom (big blind) folded before Flop
+Seat 4: Artuz79 showed [Jc Tc] and lost with two pair, Jacks and Tens
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: whaleptt folded before Flop (didn't bet)
+Seat 7: rony's123 showed [Td Kd] and won (37400) with a flush, King high
+Seat 8: leotw101 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251204197602: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:27:16 UTC [2024/06/26 13:27:16 ET]
+Table '3769361891 67' 8-max Seat #1 is the button
+Seat 1: koenn8 (108140 in chips, $50 bounty) 
+Seat 3: OManstrom (27680 in chips, $25 bounty) 
+Seat 4: Artuz79 (14053 in chips, $25 bounty) 
+Seat 5: cardinals970 (22753 in chips, $25 bounty) 
+Seat 6: whaleptt (22335 in chips, $25 bounty) 
+Seat 7: rony's123 (37400 in chips, $25 bounty) 
+Seat 8: leotw101 (6815 in chips, $25 bounty) 
+koenn8: posts the ante 70
+OManstrom: posts the ante 70
+Artuz79: posts the ante 70
+cardinals970: posts the ante 70
+whaleptt: posts the ante 70
+rony's123: posts the ante 70
+leotw101: posts the ante 70
+OManstrom: posts small blind 250
+Artuz79: posts big blind 500
+*** HOLE CARDS ***
+cardinals970: raises 550 to 1050
+whaleptt: folds 
+rony's123: folds 
+leotw101: folds 
+koenn8: folds 
+OManstrom: folds 
+Artuz79: calls 550
+*** FLOP *** [4c 3d Ad]
+blogods is disconnected 
+Artuz79: checks 
+cardinals970: bets 880
+Artuz79: folds 
+Uncalled bet (880) returned to cardinals970
+cardinals970 collected 2840 from pot
+cardinals970: doesn't show hand 
+*** SUMMARY ***
+Total pot 2840 | Rake 0 
+Board [4c 3d Ad]
+Seat 1: koenn8 (button) folded before Flop (didn't bet)
+Seat 3: OManstrom (small blind) folded before Flop
+Seat 4: Artuz79 (big blind) folded on the Flop
+Seat 5: cardinals970 collected (2840)
+Seat 6: whaleptt folded before Flop (didn't bet)
+Seat 7: rony's123 folded before Flop (didn't bet)
+Seat 8: leotw101 folded before Flop (didn't bet)
+
+PokerStars Hand #251204208861: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VI (300/600) - 2024/06/26 17:28:06 UTC [2024/06/26 13:28:06 ET]
+Table '3769361891 67' 8-max Seat #3 is the button
+Seat 1: koenn8 (108070 in chips, $50 bounty) 
+Seat 2: blogods (25000 in chips, $25 bounty) 
+Seat 3: OManstrom (27360 in chips, $25 bounty) 
+Seat 4: Artuz79 (12933 in chips, $25 bounty) 
+Seat 5: cardinals970 (24473 in chips, $25 bounty) 
+Seat 6: whaleptt (22265 in chips, $25 bounty) 
+Seat 7: rony's123 (37330 in chips, $25 bounty) 
+Seat 8: leotw101 (6745 in chips, $25 bounty) 
+koenn8: posts the ante 80
+blogods: posts the ante 80
+OManstrom: posts the ante 80
+Artuz79: posts the ante 80
+cardinals970: posts the ante 80
+whaleptt: posts the ante 80
+rony's123: posts the ante 80
+leotw101: posts the ante 80
+Artuz79: posts small blind 300
+cardinals970: posts big blind 600
+*** HOLE CARDS ***
+whaleptt: folds 
+rony's123: raises 600 to 1200
+leotw101: folds 
+koenn8: calls 1200
+blogods: folds 
+OManstrom: folds 
+Artuz79: calls 900
+cardinals970: folds 
+*** FLOP *** [Tc 3c 8c]
+Artuz79: checks 
+rony's123: checks 
+koenn8: checks 
+*** TURN *** [Tc 3c 8c] [Kc]
+Artuz79: checks 
+rony's123: checks 
+koenn8: bets 1597
+Artuz79: folds 
+rony's123: folds 
+Uncalled bet (1597) returned to koenn8
+koenn8 collected 4840 from pot
+koenn8: doesn't show hand 
+*** SUMMARY ***
+Total pot 4840 | Rake 0 
+Board [Tc 3c 8c Kc]
+Seat 1: koenn8 collected (4840)
+Seat 2: blogods folded before Flop (didn't bet)
+Seat 3: OManstrom (button) folded before Flop (didn't bet)
+Seat 4: Artuz79 (small blind) folded on the Turn
+Seat 5: cardinals970 (big blind) folded before Flop
+Seat 6: whaleptt folded before Flop (didn't bet)
+Seat 7: rony's123 folded on the Turn
+Seat 8: leotw101 folded before Flop (didn't bet)
+
+PokerStars Hand #251204231685: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VI (300/600) - 2024/06/26 17:29:48 UTC [2024/06/26 13:29:48 ET]
+Table '3769361891 67' 8-max Seat #4 is the button
+Seat 1: koenn8 (111630 in chips, $50 bounty) 
+Seat 2: blogods (24920 in chips, $25 bounty) 
+Seat 3: OManstrom (27280 in chips, $25 bounty) 
+Seat 4: Artuz79 (11653 in chips, $25 bounty) 
+Seat 5: cardinals970 (23793 in chips, $25 bounty) 
+Seat 6: whaleptt (22185 in chips, $25 bounty) 
+Seat 7: rony's123 (36050 in chips, $25 bounty) 
+Seat 8: leotw101 (6665 in chips, $25 bounty) 
+koenn8: posts the ante 80
+blogods: posts the ante 80
+OManstrom: posts the ante 80
+Artuz79: posts the ante 80
+cardinals970: posts the ante 80
+whaleptt: posts the ante 80
+rony's123: posts the ante 80
+leotw101: posts the ante 80
+cardinals970: posts small blind 300
+whaleptt: posts big blind 600
+*** HOLE CARDS ***
+rony's123: folds 
+leotw101: folds 
+koenn8: folds 
+blogods: folds 
+OManstrom: raises 660 to 1260
+Artuz79: folds 
+cardinals970: folds 
+whaleptt: calls 660
+*** FLOP *** [7c 4d 5h]
+whaleptt: bets 865
+OManstrom: calls 865
+*** TURN *** [7c 4d 5h] [9c]
+whaleptt: bets 1713
+OManstrom: raises 3708 to 5421
+whaleptt: folds 
+Uncalled bet (3708) returned to OManstrom
+OManstrom collected 8616 from pot
+*** SUMMARY ***
+Total pot 8616 | Rake 0 
+Board [7c 4d 5h 9c]
+Seat 1: koenn8 folded before Flop (didn't bet)
+Seat 2: blogods folded before Flop (didn't bet)
+Seat 3: OManstrom collected (8616)
+Seat 4: Artuz79 (button) folded before Flop (didn't bet)
+Seat 5: cardinals970 (small blind) folded before Flop
+Seat 6: whaleptt (big blind) folded on the Turn
+Seat 7: rony's123 folded before Flop (didn't bet)
+Seat 8: leotw101 folded before Flop (didn't bet)
+
+PokerStars Hand #251204255891: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VI (300/600) - 2024/06/26 17:31:35 UTC [2024/06/26 13:31:35 ET]
+Table '3769361891 67' 8-max Seat #5 is the button
+Seat 1: koenn8 (111550 in chips, $50 bounty) 
+Seat 2: blogods (24840 in chips, $25 bounty) 
+Seat 3: OManstrom (31978 in chips, $25 bounty) 
+Seat 4: Artuz79 (11573 in chips, $25 bounty) 
+Seat 5: cardinals970 (23413 in chips, $25 bounty) 
+Seat 6: whaleptt (18267 in chips, $25 bounty) 
+Seat 7: rony's123 (35970 in chips, $25 bounty) 
+Seat 8: leotw101 (6585 in chips, $25 bounty) 
+koenn8: posts the ante 80
+blogods: posts the ante 80
+OManstrom: posts the ante 80
+Artuz79: posts the ante 80
+cardinals970: posts the ante 80
+whaleptt: posts the ante 80
+rony's123: posts the ante 80
+leotw101: posts the ante 80
+whaleptt: posts small blind 300
+rony's123: posts big blind 600
+*** HOLE CARDS ***
+leotw101: folds 
+koenn8: folds 
+blogods: folds 
+OManstrom: folds 
+Artuz79: folds 
+cardinals970: folds 
+whaleptt: calls 300
+rony's123: raises 1200 to 1800
+whaleptt: raises 16387 to 18187 and is all-in
+rony's123: folds 
+Uncalled bet (16387) returned to whaleptt
+whaleptt collected 4240 from pot
+whaleptt: doesn't show hand 
+*** SUMMARY ***
+Total pot 4240 | Rake 0 
+Seat 1: koenn8 folded before Flop (didn't bet)
+Seat 2: blogods folded before Flop (didn't bet)
+Seat 3: OManstrom folded before Flop (didn't bet)
+Seat 4: Artuz79 folded before Flop (didn't bet)
+Seat 5: cardinals970 (button) folded before Flop (didn't bet)
+Seat 6: whaleptt (small blind) collected (4240)
+Seat 7: rony's123 (big blind) folded before Flop
+Seat 8: leotw101 folded before Flop (didn't bet)
+
+PokerStars Hand #251204271060: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VI (300/600) - 2024/06/26 17:32:42 UTC [2024/06/26 13:32:42 ET]
+Table '3769361891 67' 8-max Seat #6 is the button
+Seat 1: koenn8 (111470 in chips, $50 bounty) 
+Seat 2: blogods (24760 in chips, $25 bounty) 
+Seat 3: OManstrom (31898 in chips, $25 bounty) 
+Seat 4: Artuz79 (11493 in chips, $25 bounty) 
+Seat 5: cardinals970 (23333 in chips, $25 bounty) 
+Seat 6: whaleptt (20627 in chips, $25 bounty) 
+Seat 7: rony's123 (34090 in chips, $25 bounty) 
+Seat 8: leotw101 (6505 in chips, $25 bounty) 
+koenn8: posts the ante 80
+blogods: posts the ante 80
+OManstrom: posts the ante 80
+Artuz79: posts the ante 80
+cardinals970: posts the ante 80
+whaleptt: posts the ante 80
+rony's123: posts the ante 80
+leotw101: posts the ante 80
+rony's123: posts small blind 300
+leotw101: posts big blind 600
+*** HOLE CARDS ***
+koenn8: folds 
+blogods: folds 
+OManstrom: folds 
+Artuz79: folds 
+cardinals970: folds 
+whaleptt: raises 600 to 1200
+rony's123: calls 900
+leotw101: folds 
+*** FLOP *** [7h 8d Qd]
+rony's123: checks 
+whaleptt: bets 1201
+rony's123: folds 
+Uncalled bet (1201) returned to whaleptt
+whaleptt collected 3640 from pot
+whaleptt: doesn't show hand 
+*** SUMMARY ***
+Total pot 3640 | Rake 0 
+Board [7h 8d Qd]
+Seat 1: koenn8 folded before Flop (didn't bet)
+Seat 2: blogods folded before Flop (didn't bet)
+Seat 3: OManstrom folded before Flop (didn't bet)
+Seat 4: Artuz79 folded before Flop (didn't bet)
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: whaleptt (button) collected (3640)
+Seat 7: rony's123 (small blind) folded on the Flop
+Seat 8: leotw101 (big blind) folded before Flop
+
+PokerStars Hand #251204288946: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VI (300/600) - 2024/06/26 17:34:02 UTC [2024/06/26 13:34:02 ET]
+Table '3769361891 67' 8-max Seat #7 is the button
+Seat 1: koenn8 (111390 in chips, $50 bounty) 
+Seat 2: blogods (24680 in chips, $25 bounty) 
+Seat 3: OManstrom (31818 in chips, $25 bounty) 
+Seat 4: Artuz79 (11413 in chips, $25 bounty) 
+Seat 5: cardinals970 (23253 in chips, $25 bounty) 
+Seat 6: whaleptt (22987 in chips, $25 bounty) 
+Seat 7: rony's123 (32810 in chips, $25 bounty) 
+Seat 8: leotw101 (5825 in chips, $25 bounty) 
+koenn8: posts the ante 80
+blogods: posts the ante 80
+OManstrom: posts the ante 80
+Artuz79: posts the ante 80
+cardinals970: posts the ante 80
+whaleptt: posts the ante 80
+rony's123: posts the ante 80
+leotw101: posts the ante 80
+leotw101: posts small blind 300
+koenn8: posts big blind 600
+*** HOLE CARDS ***
+blogods: raises 720 to 1320
+OManstrom: folds 
+Artuz79: folds 
+cardinals970: folds 
+whaleptt: folds 
+rony's123: folds 
+leotw101: folds 
+koenn8: folds 
+Uncalled bet (720) returned to blogods
+blogods collected 2140 from pot
+*** SUMMARY ***
+Total pot 2140 | Rake 0 
+Seat 1: koenn8 (big blind) folded before Flop
+Seat 2: blogods collected (2140)
+Seat 3: OManstrom folded before Flop (didn't bet)
+Seat 4: Artuz79 folded before Flop (didn't bet)
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: whaleptt folded before Flop (didn't bet)
+Seat 7: rony's123 (button) folded before Flop (didn't bet)
+Seat 8: leotw101 (small blind) folded before Flop
+
+PokerStars Hand #251204295462: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VI (300/600) - 2024/06/26 17:34:31 UTC [2024/06/26 13:34:31 ET]
+Table '3769361891 67' 8-max Seat #8 is the button
+Seat 1: koenn8 (110710 in chips, $50 bounty) 
+Seat 2: blogods (26140 in chips, $25 bounty) 
+Seat 3: OManstrom (31738 in chips, $25 bounty) 
+Seat 4: Artuz79 (11333 in chips, $25 bounty) 
+Seat 5: cardinals970 (23173 in chips, $25 bounty) 
+Seat 6: whaleptt (22907 in chips, $25 bounty) 
+Seat 7: rony's123 (32730 in chips, $25 bounty) 
+Seat 8: leotw101 (5445 in chips, $25 bounty) 
+koenn8: posts the ante 80
+blogods: posts the ante 80
+OManstrom: posts the ante 80
+Artuz79: posts the ante 80
+cardinals970: posts the ante 80
+whaleptt: posts the ante 80
+rony's123: posts the ante 80
+leotw101: posts the ante 80
+koenn8: posts small blind 300
+blogods: posts big blind 600
+*** HOLE CARDS ***
+OManstrom: folds 
+Artuz79: folds 
+cardinals970: raises 660 to 1260
+whaleptt: folds 
+rony's123: folds 
+leotw101: folds 
+koenn8: folds 
+blogods: calls 660
+*** FLOP *** [Jd Qs 2d]
+blogods: checks 
+cardinals970: bets 1073
+blogods: calls 1073
+*** TURN *** [Jd Qs 2d] [Ah]
+blogods: checks 
+cardinals970: bets 3900
+blogods: folds 
+Uncalled bet (3900) returned to cardinals970
+cardinals970 collected 5606 from pot
+cardinals970: doesn't show hand 
+*** SUMMARY ***
+Total pot 5606 | Rake 0 
+Board [Jd Qs 2d Ah]
+Seat 1: koenn8 (small blind) folded before Flop
+Seat 2: blogods (big blind) folded on the Turn
+Seat 3: OManstrom folded before Flop (didn't bet)
+Seat 4: Artuz79 folded before Flop (didn't bet)
+Seat 5: cardinals970 collected (5606)
+Seat 6: whaleptt folded before Flop (didn't bet)
+Seat 7: rony's123 folded before Flop (didn't bet)
+Seat 8: leotw101 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251204307398: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VI (300/600) - 2024/06/26 17:35:23 UTC [2024/06/26 13:35:23 ET]
+Table '3769361891 67' 8-max Seat #1 is the button
+Seat 1: koenn8 (110330 in chips, $50 bounty) 
+Seat 2: blogods (23727 in chips, $25 bounty) 
+Seat 3: OManstrom (31658 in chips, $25 bounty) 
+Seat 4: Artuz79 (11253 in chips, $25 bounty) 
+Seat 5: cardinals970 (26366 in chips, $25 bounty) 
+Seat 6: whaleptt (22827 in chips, $25 bounty) 
+Seat 7: rony's123 (32650 in chips, $25 bounty) 
+Seat 8: leotw101 (5365 in chips, $25 bounty) 
+koenn8: posts the ante 80
+blogods: posts the ante 80
+OManstrom: posts the ante 80
+Artuz79: posts the ante 80
+cardinals970: posts the ante 80
+whaleptt: posts the ante 80
+rony's123: posts the ante 80
+leotw101: posts the ante 80
+blogods: posts small blind 300
+OManstrom: posts big blind 600
+*** HOLE CARDS ***
+Artuz79: folds 
+cardinals970: folds 
+whaleptt: folds 
+rony's123: folds 
+leotw101: raises 4685 to 5285 and is all-in
+koenn8: folds 
+blogods: folds 
+OManstrom: calls 4685
+*** FLOP *** [9h 2s 3s]
+*** TURN *** [9h 2s 3s] [3d]
+*** RIVER *** [9h 2s 3s 3d] [Js]
+*** SHOW DOWN ***
+OManstrom: shows [Td 7h] (a pair of Threes)
+leotw101: shows [Jh Jd] (a full house, Jacks full of Threes)
+leotw101 collected 11510 from pot
+*** SUMMARY ***
+Total pot 11510 | Rake 0 
+Board [9h 2s 3s 3d Js]
+Seat 1: koenn8 (button) folded before Flop (didn't bet)
+Seat 2: blogods (small blind) folded before Flop
+Seat 3: OManstrom (big blind) showed [Td 7h] and lost with a pair of Threes
+Seat 4: Artuz79 folded before Flop (didn't bet)
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: whaleptt folded before Flop (didn't bet)
+Seat 7: rony's123 folded before Flop (didn't bet)
+Seat 8: leotw101 showed [Jh Jd] and won (11510) with a full house, Jacks full of Threes
+
+PokerStars Hand #251204316926: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VI (300/600) - 2024/06/26 17:36:05 UTC [2024/06/26 13:36:05 ET]
+Table '3769361891 67' 8-max Seat #2 is the button
+Seat 1: koenn8 (110250 in chips, $50 bounty) 
+Seat 2: blogods (23347 in chips, $25 bounty) 
+Seat 3: OManstrom (26293 in chips, $25 bounty) 
+Seat 4: Artuz79 (11173 in chips, $25 bounty) 
+Seat 5: cardinals970 (26286 in chips, $25 bounty) 
+Seat 6: whaleptt (22747 in chips, $25 bounty) 
+Seat 7: rony's123 (32570 in chips, $25 bounty) 
+Seat 8: leotw101 (11510 in chips, $25 bounty) 
+koenn8: posts the ante 80
+blogods: posts the ante 80
+OManstrom: posts the ante 80
+Artuz79: posts the ante 80
+cardinals970: posts the ante 80
+whaleptt: posts the ante 80
+rony's123: posts the ante 80
+leotw101: posts the ante 80
+OManstrom: posts small blind 300
+Artuz79: posts big blind 600
+*** HOLE CARDS ***
+cardinals970: raises 600 to 1200
+whaleptt: raises 2100 to 3300
+rony's123: folds 
+leotw101: folds 
+koenn8: folds 
+blogods: folds 
+OManstrom: folds 
+Artuz79: folds 
+cardinals970: raises 22906 to 26206 and is all-in
+whaleptt: folds 
+Uncalled bet (22906) returned to cardinals970
+cardinals970 collected 8140 from pot
+cardinals970: doesn't show hand 
+*** SUMMARY ***
+Total pot 8140 | Rake 0 
+Seat 1: koenn8 folded before Flop (didn't bet)
+Seat 2: blogods (button) folded before Flop (didn't bet)
+Seat 3: OManstrom (small blind) folded before Flop
+Seat 4: Artuz79 (big blind) folded before Flop
+Seat 5: cardinals970 collected (8140)
+Seat 6: whaleptt folded before Flop
+Seat 7: rony's123 folded before Flop (didn't bet)
+Seat 8: leotw101 folded before Flop (didn't bet)
+
+PokerStars Hand #251204324219: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VI (300/600) - 2024/06/26 17:36:38 UTC [2024/06/26 13:36:38 ET]
+Table '3769361891 67' 8-max Seat #3 is the button
+Seat 1: koenn8 (110170 in chips, $50 bounty) 
+Seat 2: blogods (23267 in chips, $25 bounty) 
+Seat 3: OManstrom (25913 in chips, $25 bounty) 
+Seat 4: Artuz79 (10493 in chips, $25 bounty) 
+Seat 5: cardinals970 (31046 in chips, $25 bounty) 
+Seat 6: whaleptt (19367 in chips, $25 bounty) 
+Seat 7: rony's123 (32490 in chips, $25 bounty) 
+Seat 8: leotw101 (11430 in chips, $25 bounty) 
+koenn8: posts the ante 80
+blogods: posts the ante 80
+OManstrom: posts the ante 80
+Artuz79: posts the ante 80
+cardinals970: posts the ante 80
+whaleptt: posts the ante 80
+rony's123: posts the ante 80
+leotw101: posts the ante 80
+Artuz79: posts small blind 300
+cardinals970: posts big blind 600
+*** HOLE CARDS ***
+whaleptt: folds 
+rony's123: folds 
+leotw101: folds 
+koenn8: folds 
+blogods: folds 
+OManstrom: folds 
+Artuz79: folds 
+Uncalled bet (300) returned to cardinals970
+cardinals970 collected 1240 from pot
+cardinals970: doesn't show hand 
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Seat 1: koenn8 folded before Flop (didn't bet)
+Seat 2: blogods folded before Flop (didn't bet)
+Seat 3: OManstrom (button) folded before Flop (didn't bet)
+Seat 4: Artuz79 (small blind) folded before Flop
+Seat 5: cardinals970 (big blind) collected (1240)
+Seat 6: whaleptt folded before Flop (didn't bet)
+Seat 7: rony's123 folded before Flop (didn't bet)
+Seat 8: leotw101 folded before Flop (didn't bet)
+
+PokerStars Hand #251204332965: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VI (300/600) - 2024/06/26 17:37:15 UTC [2024/06/26 13:37:15 ET]
+Table '3769361891 67' 8-max Seat #4 is the button
+Seat 1: koenn8 (110090 in chips, $50 bounty) 
+Seat 2: blogods (23187 in chips, $25 bounty) 
+Seat 3: OManstrom (25833 in chips, $25 bounty) 
+Seat 4: Artuz79 (10113 in chips, $25 bounty) 
+Seat 5: cardinals970 (31906 in chips, $25 bounty) 
+Seat 6: whaleptt (19287 in chips, $25 bounty) 
+Seat 7: rony's123 (32410 in chips, $25 bounty) 
+Seat 8: leotw101 (11350 in chips, $25 bounty) 
+koenn8: posts the ante 80
+blogods: posts the ante 80
+OManstrom: posts the ante 80
+Artuz79: posts the ante 80
+cardinals970: posts the ante 80
+whaleptt: posts the ante 80
+rony's123: posts the ante 80
+leotw101: posts the ante 80
+cardinals970: posts small blind 300
+whaleptt: posts big blind 600
+*** HOLE CARDS ***
+rony's123: folds 
+leotw101: folds 
+koenn8: folds 
+blogods: raises 720 to 1320
+OManstrom: folds 
+Artuz79: raises 8713 to 10033 and is all-in
+cardinals970: folds 
+whaleptt: folds 
+blogods: calls 8713
+*** FLOP *** [9c 3h Qc]
+*** TURN *** [9c 3h Qc] [4h]
+*** RIVER *** [9c 3h Qc 4h] [Jd]
+*** SHOW DOWN ***
+blogods: shows [5s 5d] (a pair of Fives)
+Artuz79: shows [9h 9s] (three of a kind, Nines)
+Artuz79 collected 21606 from pot
+*** SUMMARY ***
+Total pot 21606 | Rake 0 
+Board [9c 3h Qc 4h Jd]
+Seat 1: koenn8 folded before Flop (didn't bet)
+Seat 2: blogods showed [5s 5d] and lost with a pair of Fives
+Seat 3: OManstrom folded before Flop (didn't bet)
+Seat 4: Artuz79 (button) showed [9h 9s] and won (21606) with three of a kind, Nines
+Seat 5: cardinals970 (small blind) folded before Flop
+Seat 6: whaleptt (big blind) folded before Flop
+Seat 7: rony's123 folded before Flop (didn't bet)
+Seat 8: leotw101 folded before Flop (didn't bet)
+
+PokerStars Hand #251204342450: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VII (350/700) - 2024/06/26 17:37:57 UTC [2024/06/26 13:37:57 ET]
+Table '3769361891 67' 8-max Seat #5 is the button
+Seat 1: koenn8 (110010 in chips, $50 bounty) 
+Seat 2: blogods (13074 in chips, $25 bounty) 
+Seat 3: OManstrom (25753 in chips, $25 bounty) 
+Seat 4: Artuz79 (21606 in chips, $25 bounty) 
+Seat 5: cardinals970 (31526 in chips, $25 bounty) 
+Seat 6: whaleptt (18607 in chips, $25 bounty) 
+Seat 7: rony's123 (32330 in chips, $25 bounty) 
+Seat 8: leotw101 (11270 in chips, $25 bounty) 
+koenn8: posts the ante 90
+blogods: posts the ante 90
+OManstrom: posts the ante 90
+Artuz79: posts the ante 90
+cardinals970: posts the ante 90
+whaleptt: posts the ante 90
+rony's123: posts the ante 90
+leotw101: posts the ante 90
+whaleptt: posts small blind 350
+rony's123: posts big blind 700
+*** HOLE CARDS ***
+leotw101: folds 
+koenn8: raises 840 to 1540
+blogods: raises 11444 to 12984 and is all-in
+OManstrom: folds 
+Artuz79: folds 
+cardinals970: folds 
+whaleptt: folds 
+rony's123: folds 
+koenn8: folds 
+Uncalled bet (11444) returned to blogods
+blogods collected 4850 from pot
+*** SUMMARY ***
+Total pot 4850 | Rake 0 
+Seat 1: koenn8 folded before Flop
+Seat 2: blogods collected (4850)
+Seat 3: OManstrom folded before Flop (didn't bet)
+Seat 4: Artuz79 folded before Flop (didn't bet)
+Seat 5: cardinals970 (button) folded before Flop (didn't bet)
+Seat 6: whaleptt (small blind) folded before Flop
+Seat 7: rony's123 (big blind) folded before Flop
+Seat 8: leotw101 folded before Flop (didn't bet)
+
+PokerStars Hand #251204352421: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VII (350/700) - 2024/06/26 17:38:40 UTC [2024/06/26 13:38:40 ET]
+Table '3769361891 67' 8-max Seat #6 is the button
+Seat 1: koenn8 (108380 in chips, $50 bounty) 
+Seat 2: blogods (16294 in chips, $25 bounty) 
+Seat 3: OManstrom (25663 in chips, $25 bounty) 
+Seat 4: Artuz79 (21516 in chips, $25 bounty) 
+Seat 5: cardinals970 (31436 in chips, $25 bounty) 
+Seat 6: whaleptt (18167 in chips, $25 bounty) 
+Seat 7: rony's123 (31540 in chips, $25 bounty) 
+Seat 8: leotw101 (11180 in chips, $25 bounty) 
+koenn8: posts the ante 90
+blogods: posts the ante 90
+OManstrom: posts the ante 90
+Artuz79: posts the ante 90
+cardinals970: posts the ante 90
+whaleptt: posts the ante 90
+rony's123: posts the ante 90
+leotw101: posts the ante 90
+rony's123: posts small blind 350
+leotw101: posts big blind 700
+*** HOLE CARDS ***
+koenn8: folds 
+blogods: folds 
+OManstrom: folds 
+Artuz79: folds 
+cardinals970: folds 
+whaleptt: raises 700 to 1400
+rony's123: folds 
+leotw101: calls 700
+*** FLOP *** [3d Qd 8s]
+leotw101: checks 
+whaleptt: bets 968
+leotw101: folds 
+Uncalled bet (968) returned to whaleptt
+whaleptt collected 3870 from pot
+whaleptt: doesn't show hand 
+*** SUMMARY ***
+Total pot 3870 | Rake 0 
+Board [3d Qd 8s]
+Seat 1: koenn8 folded before Flop (didn't bet)
+Seat 2: blogods folded before Flop (didn't bet)
+Seat 3: OManstrom folded before Flop (didn't bet)
+Seat 4: Artuz79 folded before Flop (didn't bet)
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: whaleptt (button) collected (3870)
+Seat 7: rony's123 (small blind) folded before Flop
+Seat 8: leotw101 (big blind) folded on the Flop
+
+PokerStars Hand #251204360369: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VII (350/700) - 2024/06/26 17:39:15 UTC [2024/06/26 13:39:15 ET]
+Table '3769361891 67' 8-max Seat #7 is the button
+Seat 1: koenn8 (108290 in chips, $50 bounty) 
+Seat 2: blogods (16204 in chips, $25 bounty) 
+Seat 3: OManstrom (25573 in chips, $25 bounty) 
+Seat 4: Artuz79 (21426 in chips, $25 bounty) 
+Seat 5: cardinals970 (31346 in chips, $25 bounty) 
+Seat 6: whaleptt (20547 in chips, $25 bounty) 
+Seat 7: rony's123 (31100 in chips, $25 bounty) 
+Seat 8: leotw101 (9690 in chips, $25 bounty) 
+koenn8: posts the ante 90
+blogods: posts the ante 90
+OManstrom: posts the ante 90
+Artuz79: posts the ante 90
+cardinals970: posts the ante 90
+whaleptt: posts the ante 90
+rony's123: posts the ante 90
+leotw101: posts the ante 90
+leotw101: posts small blind 350
+koenn8: posts big blind 700
+*** HOLE CARDS ***
+blogods: folds 
+OManstrom: folds 
+Artuz79: folds 
+cardinals970: folds 
+whaleptt: folds 
+rony's123: raises 700 to 1400
+leotw101: folds 
+koenn8: folds 
+Uncalled bet (700) returned to rony's123
+rony's123 collected 2470 from pot
+rony's123: doesn't show hand 
+*** SUMMARY ***
+Total pot 2470 | Rake 0 
+Seat 1: koenn8 (big blind) folded before Flop
+Seat 2: blogods folded before Flop (didn't bet)
+Seat 3: OManstrom folded before Flop (didn't bet)
+Seat 4: Artuz79 folded before Flop (didn't bet)
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: whaleptt folded before Flop (didn't bet)
+Seat 7: rony's123 (button) collected (2470)
+Seat 8: leotw101 (small blind) folded before Flop
+
+PokerStars Hand #251204369819: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VII (350/700) - 2024/06/26 17:39:56 UTC [2024/06/26 13:39:56 ET]
+Table '3769361891 67' 8-max Seat #8 is the button
+Seat 1: koenn8 (107500 in chips, $50 bounty) 
+Seat 2: blogods (16114 in chips, $25 bounty) 
+Seat 3: OManstrom (25483 in chips, $25 bounty) 
+Seat 4: Artuz79 (21336 in chips, $25 bounty) 
+Seat 5: cardinals970 (31256 in chips, $25 bounty) 
+Seat 6: whaleptt (20457 in chips, $25 bounty) 
+Seat 7: rony's123 (32780 in chips, $25 bounty) 
+Seat 8: leotw101 (9250 in chips, $25 bounty) 
+koenn8: posts the ante 90
+blogods: posts the ante 90
+OManstrom: posts the ante 90
+Artuz79: posts the ante 90
+cardinals970: posts the ante 90
+whaleptt: posts the ante 90
+rony's123: posts the ante 90
+leotw101: posts the ante 90
+koenn8: posts small blind 350
+blogods: posts big blind 700
+*** HOLE CARDS ***
+OManstrom: folds 
+Artuz79: folds 
+cardinals970: folds 
+whaleptt: folds 
+rony's123: folds 
+leotw101: folds 
+koenn8: raises 1540 to 2240
+blogods: calls 1540
+*** FLOP *** [Js 5d Kh]
+koenn8: bets 1300
+blogods: calls 1300
+*** TURN *** [Js 5d Kh] [Ac]
+koenn8: checks 
+blogods: checks 
+*** RIVER *** [Js 5d Kh Ac] [Kd]
+koenn8: checks 
+blogods: checks 
+*** SHOW DOWN ***
+koenn8: shows [Qh Jh] (two pair, Kings and Jacks)
+blogods: mucks hand 
+koenn8 collected 7800 from pot
+*** SUMMARY ***
+Total pot 7800 | Rake 0 
+Board [Js 5d Kh Ac Kd]
+Seat 1: koenn8 (small blind) showed [Qh Jh] and won (7800) with two pair, Kings and Jacks
+Seat 2: blogods (big blind) mucked
+Seat 3: OManstrom folded before Flop (didn't bet)
+Seat 4: Artuz79 folded before Flop (didn't bet)
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: whaleptt folded before Flop (didn't bet)
+Seat 7: rony's123 folded before Flop (didn't bet)
+Seat 8: leotw101 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251204383906: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VII (350/700) - 2024/06/26 17:40:58 UTC [2024/06/26 13:40:58 ET]
+Table '3769361891 67' 8-max Seat #1 is the button
+Seat 1: koenn8 (111670 in chips, $50 bounty) 
+Seat 2: blogods (12484 in chips, $25 bounty) 
+Seat 3: OManstrom (25393 in chips, $25 bounty) 
+Seat 4: Artuz79 (21246 in chips, $25 bounty) 
+Seat 5: cardinals970 (31166 in chips, $25 bounty) 
+Seat 6: whaleptt (20367 in chips, $25 bounty) 
+Seat 7: rony's123 (32690 in chips, $25 bounty) 
+Seat 8: leotw101 (9160 in chips, $25 bounty) 
+koenn8: posts the ante 90
+blogods: posts the ante 90
+OManstrom: posts the ante 90
+Artuz79: posts the ante 90
+cardinals970: posts the ante 90
+whaleptt: posts the ante 90
+rony's123: posts the ante 90
+leotw101: posts the ante 90
+blogods: posts small blind 350
+OManstrom: posts big blind 700
+*** HOLE CARDS ***
+Artuz79: folds 
+cardinals970: folds 
+whaleptt: folds 
+rony's123: raises 700 to 1400
+leotw101: raises 7670 to 9070 and is all-in
+koenn8: folds 
+blogods: raises 3324 to 12394 and is all-in
+OManstrom: folds 
+rony's123: folds 
+Uncalled bet (3324) returned to blogods
+*** FLOP *** [9d 9h 2h]
+*** TURN *** [9d 9h 2h] [4h]
+*** RIVER *** [9d 9h 2h 4h] [9s]
+*** SHOW DOWN ***
+blogods: shows [Qh Kc] (three of a kind, Nines)
+leotw101: shows [As Qd] (three of a kind, Nines - Ace kicker)
+leotw101 collected 20960 from pot
+*** SUMMARY ***
+Total pot 20960 | Rake 0 
+Board [9d 9h 2h 4h 9s]
+Seat 1: koenn8 (button) folded before Flop (didn't bet)
+Seat 2: blogods (small blind) showed [Qh Kc] and lost with three of a kind, Nines
+Seat 3: OManstrom (big blind) folded before Flop
+Seat 4: Artuz79 folded before Flop (didn't bet)
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: whaleptt folded before Flop (didn't bet)
+Seat 7: rony's123 folded before Flop
+Seat 8: leotw101 showed [As Qd] and won (20960) with three of a kind, Nines
+
+PokerStars Hand #251204398049: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VII (350/700) - 2024/06/26 17:42:00 UTC [2024/06/26 13:42:00 ET]
+Table '3769361891 67' 8-max Seat #2 is the button
+Seat 1: koenn8 (111580 in chips, $50 bounty) 
+Seat 2: blogods (3324 in chips, $25 bounty) 
+Seat 3: OManstrom (24603 in chips, $25 bounty) 
+Seat 4: Artuz79 (21156 in chips, $25 bounty) 
+Seat 5: cardinals970 (31076 in chips, $25 bounty) 
+Seat 6: whaleptt (20277 in chips, $25 bounty) 
+Seat 7: rony's123 (31200 in chips, $25 bounty) 
+Seat 8: leotw101 (20960 in chips, $25 bounty) 
+koenn8: posts the ante 90
+blogods: posts the ante 90
+OManstrom: posts the ante 90
+Artuz79: posts the ante 90
+cardinals970: posts the ante 90
+whaleptt: posts the ante 90
+rony's123: posts the ante 90
+leotw101: posts the ante 90
+OManstrom: posts small blind 350
+Artuz79: posts big blind 700
+*** HOLE CARDS ***
+cardinals970: folds 
+whaleptt: folds 
+rony's123: folds 
+leotw101: folds 
+koenn8: calls 700
+blogods: folds 
+OManstrom: folds 
+Artuz79: raises 2450 to 3150
+koenn8: folds 
+Uncalled bet (2450) returned to Artuz79
+Artuz79 collected 2470 from pot
+Artuz79: doesn't show hand 
+*** SUMMARY ***
+Total pot 2470 | Rake 0 
+Seat 1: koenn8 folded before Flop
+Seat 2: blogods (button) folded before Flop (didn't bet)
+Seat 3: OManstrom (small blind) folded before Flop
+Seat 4: Artuz79 (big blind) collected (2470)
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: whaleptt folded before Flop (didn't bet)
+Seat 7: rony's123 folded before Flop (didn't bet)
+Seat 8: leotw101 folded before Flop (didn't bet)
+
+PokerStars Hand #251204407264: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VII (350/700) - 2024/06/26 17:42:40 UTC [2024/06/26 13:42:40 ET]
+Table '3769361891 67' 8-max Seat #4 is the button
+Seat 1: koenn8 (110790 in chips, $50 bounty) 
+Seat 2: blogods (3234 in chips, $25 bounty) 
+Seat 4: Artuz79 (22836 in chips, $25 bounty) 
+Seat 5: cardinals970 (30986 in chips, $25 bounty) 
+Seat 6: whaleptt (20187 in chips, $25 bounty) 
+Seat 7: rony's123 (31110 in chips, $25 bounty) 
+Seat 8: leotw101 (20870 in chips, $25 bounty) 
+koenn8: posts the ante 90
+blogods: posts the ante 90
+Artuz79: posts the ante 90
+cardinals970: posts the ante 90
+whaleptt: posts the ante 90
+rony's123: posts the ante 90
+leotw101: posts the ante 90
+cardinals970: posts small blind 350
+whaleptt: posts big blind 700
+*** HOLE CARDS ***
+rony's123: folds 
+leotw101: raises 700 to 1400
+koenn8: folds 
+blogods: folds 
+nviDi_ablo is disconnected 
+Artuz79: folds 
+cardinals970: folds 
+whaleptt: folds 
+Uncalled bet (700) returned to leotw101
+leotw101 collected 2380 from pot
+leotw101: doesn't show hand 
+*** SUMMARY ***
+Total pot 2380 | Rake 0 
+Seat 1: koenn8 folded before Flop (didn't bet)
+Seat 2: blogods folded before Flop (didn't bet)
+Seat 4: Artuz79 (button) folded before Flop (didn't bet)
+Seat 5: cardinals970 (small blind) folded before Flop
+Seat 6: whaleptt (big blind) folded before Flop
+Seat 7: rony's123 folded before Flop (didn't bet)
+Seat 8: leotw101 collected (2380)
+
+PokerStars Hand #251204414186: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VII (350/700) - 2024/06/26 17:43:11 UTC [2024/06/26 13:43:11 ET]
+Table '3769361891 67' 8-max Seat #5 is the button
+Seat 1: koenn8 (110700 in chips, $50 bounty) 
+Seat 2: blogods (3144 in chips, $25 bounty) 
+Seat 3: nviDi_ablo (25000 in chips, $25 bounty) 
+Seat 4: Artuz79 (22746 in chips, $25 bounty) 
+Seat 5: cardinals970 (30546 in chips, $25 bounty) 
+Seat 6: whaleptt (19397 in chips, $25 bounty) 
+Seat 7: rony's123 (31020 in chips, $25 bounty) 
+Seat 8: leotw101 (22460 in chips, $25 bounty) 
+koenn8: posts the ante 90
+blogods: posts the ante 90
+nviDi_ablo: posts the ante 90
+Artuz79: posts the ante 90
+cardinals970: posts the ante 90
+whaleptt: posts the ante 90
+rony's123: posts the ante 90
+leotw101: posts the ante 90
+whaleptt: posts small blind 350
+rony's123: posts big blind 700
+*** HOLE CARDS ***
+leotw101: raises 700 to 1400
+koenn8: folds 
+blogods: folds 
+nviDi_ablo: folds 
+Artuz79: folds 
+cardinals970: folds 
+whaleptt: folds 
+rony's123: calls 700
+*** FLOP *** [3s 8h Qd]
+rony's123: checks 
+leotw101: bets 1277
+rony's123: calls 1277
+*** TURN *** [3s 8h Qd] [4s]
+rony's123: checks 
+leotw101: checks 
+*** RIVER *** [3s 8h Qd 4s] [8s]
+rony's123: checks 
+leotw101: bets 5600
+rony's123: folds 
+Uncalled bet (5600) returned to leotw101
+leotw101 collected 6424 from pot
+leotw101: doesn't show hand 
+*** SUMMARY ***
+Total pot 6424 | Rake 0 
+Board [3s 8h Qd 4s 8s]
+Seat 1: koenn8 folded before Flop (didn't bet)
+Seat 2: blogods folded before Flop (didn't bet)
+Seat 3: nviDi_ablo folded before Flop (didn't bet)
+Seat 4: Artuz79 folded before Flop (didn't bet)
+Seat 5: cardinals970 (button) folded before Flop (didn't bet)
+Seat 6: whaleptt (small blind) folded before Flop
+Seat 7: rony's123 (big blind) folded on the River
+Seat 8: leotw101 collected (6424)
+
+PokerStars Hand #251204439100: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VII (350/700) - 2024/06/26 17:45:00 UTC [2024/06/26 13:45:00 ET]
+Table '3769361891 67' 8-max Seat #6 is the button
+Seat 1: koenn8 (110610 in chips, $50 bounty) 
+Seat 2: blogods (3054 in chips, $25 bounty) 
+Seat 3: nviDi_ablo (24910 in chips, $25 bounty) 
+Seat 4: Artuz79 (22656 in chips, $25 bounty) 
+Seat 5: cardinals970 (30456 in chips, $25 bounty) 
+Seat 6: whaleptt (18957 in chips, $25 bounty) 
+Seat 7: rony's123 (28253 in chips, $25 bounty) 
+Seat 8: leotw101 (26117 in chips, $25 bounty) 
+koenn8: posts the ante 90
+blogods: posts the ante 90
+nviDi_ablo: posts the ante 90
+Artuz79: posts the ante 90
+cardinals970: posts the ante 90
+whaleptt: posts the ante 90
+rony's123: posts the ante 90
+leotw101: posts the ante 90
+rony's123: posts small blind 350
+leotw101: posts big blind 700
+*** HOLE CARDS ***
+koenn8: folds 
+blogods: folds 
+nviDi_ablo: folds 
+Artuz79: raises 840 to 1540
+cardinals970: folds 
+whaleptt: folds 
+rony's123: folds 
+leotw101: calls 840
+*** FLOP *** [Ts 7d Ac]
+leotw101: checks 
+Artuz79: bets 1370
+leotw101: calls 1370
+*** TURN *** [Ts 7d Ac] [7c]
+leotw101: bets 2274
+Artuz79: calls 2274
+*** RIVER *** [Ts 7d Ac 7c] [2c]
+leotw101: bets 20843 and is all-in
+Artuz79: folds 
+Uncalled bet (20843) returned to leotw101
+leotw101 collected 11438 from pot
+leotw101: doesn't show hand 
+*** SUMMARY ***
+Total pot 11438 | Rake 0 
+Board [Ts 7d Ac 7c 2c]
+Seat 1: koenn8 folded before Flop (didn't bet)
+Seat 2: blogods folded before Flop (didn't bet)
+Seat 3: nviDi_ablo folded before Flop (didn't bet)
+Seat 4: Artuz79 folded on the River
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: whaleptt (button) folded before Flop (didn't bet)
+Seat 7: rony's123 (small blind) folded before Flop
+Seat 8: leotw101 (big blind) collected (11438)
+
+PokerStars Hand #251204467824: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VII (350/700) - 2024/06/26 17:47:07 UTC [2024/06/26 13:47:07 ET]
+Table '3769361891 67' 8-max Seat #7 is the button
+Seat 1: koenn8 (110520 in chips, $50 bounty) 
+Seat 2: blogods (2964 in chips, $25 bounty) 
+Seat 3: nviDi_ablo (24820 in chips, $25 bounty) 
+Seat 4: Artuz79 (17382 in chips, $25 bounty) 
+Seat 5: cardinals970 (30366 in chips, $25 bounty) 
+Seat 6: whaleptt (18867 in chips, $25 bounty) 
+Seat 7: rony's123 (27813 in chips, $25 bounty) 
+Seat 8: leotw101 (32281 in chips, $25 bounty) 
+koenn8: posts the ante 90
+blogods: posts the ante 90
+nviDi_ablo: posts the ante 90
+Artuz79: posts the ante 90
+cardinals970: posts the ante 90
+whaleptt: posts the ante 90
+rony's123: posts the ante 90
+leotw101: posts the ante 90
+leotw101: posts small blind 350
+koenn8: posts big blind 700
+*** HOLE CARDS ***
+blogods: folds 
+nviDi_ablo: folds 
+Artuz79: raises 840 to 1540
+cardinals970: folds 
+whaleptt: calls 1540
+rony's123: folds 
+leotw101: folds 
+koenn8: calls 840
+*** FLOP *** [3h 2s Kh]
+koenn8: checks 
+Artuz79: checks 
+whaleptt: bets 1878
+koenn8: folds 
+Artuz79: calls 1878
+*** TURN *** [3h 2s Kh] [Kd]
+Artuz79: checks 
+whaleptt: bets 3117
+Artuz79: calls 3117
+*** RIVER *** [3h 2s Kh Kd] [Ks]
+Artuz79: bets 10757 and is all-in
+whaleptt: folds 
+Uncalled bet (10757) returned to Artuz79
+Artuz79 collected 15680 from pot
+Artuz79: doesn't show hand 
+*** SUMMARY ***
+Total pot 15680 | Rake 0 
+Board [3h 2s Kh Kd Ks]
+Seat 1: koenn8 (big blind) folded on the Flop
+Seat 2: blogods folded before Flop (didn't bet)
+Seat 3: nviDi_ablo folded before Flop (didn't bet)
+Seat 4: Artuz79 collected (15680)
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: whaleptt folded on the River
+Seat 7: rony's123 (button) folded before Flop (didn't bet)
+Seat 8: leotw101 (small blind) folded before Flop
+
+PokerStars Hand #251204490918: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:48:51 UTC [2024/06/26 13:48:51 ET]
+Table '3769361891 67' 8-max Seat #8 is the button
+Seat 1: koenn8 (108890 in chips, $50 bounty) 
+Seat 2: blogods (2874 in chips, $25 bounty) 
+Seat 3: nviDi_ablo (24730 in chips, $25 bounty) 
+Seat 4: Artuz79 (26437 in chips, $25 bounty) 
+Seat 5: cardinals970 (30276 in chips, $25 bounty) 
+Seat 6: whaleptt (12242 in chips, $25 bounty) 
+Seat 7: rony's123 (27723 in chips, $25 bounty) 
+Seat 8: leotw101 (31841 in chips, $25 bounty) 
+koenn8: posts the ante 100
+blogods: posts the ante 100
+nviDi_ablo: posts the ante 100
+Artuz79: posts the ante 100
+cardinals970: posts the ante 100
+whaleptt: posts the ante 100
+rony's123: posts the ante 100
+leotw101: posts the ante 100
+koenn8: posts small blind 400
+blogods: posts big blind 800
+*** HOLE CARDS ***
+nviDi_ablo: folds 
+Artuz79: folds 
+cardinals970: folds 
+whaleptt: raises 11342 to 12142 and is all-in
+rony's123: raises 15481 to 27623 and is all-in
+leotw101: folds 
+koenn8: folds 
+blogods: folds 
+Uncalled bet (15481) returned to rony's123
+*** FLOP *** [2s 4d Js]
+*** TURN *** [2s 4d Js] [7c]
+*** RIVER *** [2s 4d Js 7c] [8s]
+*** SHOW DOWN ***
+whaleptt: shows [5h 5d] (a pair of Fives)
+rony's123: shows [8h 8c] (three of a kind, Eights)
+rony's123 collected 26284 from pot
+rony's123 wins $12.50 for eliminating whaleptt and their own bounty increases by $12.50 to $37.50
+whaleptt finished the tournament
+*** SUMMARY ***
+Total pot 26284 | Rake 0 
+Board [2s 4d Js 7c 8s]
+Seat 1: koenn8 (small blind) folded before Flop
+Seat 2: blogods (big blind) folded before Flop
+Seat 3: nviDi_ablo folded before Flop (didn't bet)
+Seat 4: Artuz79 folded before Flop (didn't bet)
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: whaleptt showed [5h 5d] and lost with a pair of Fives
+Seat 7: rony's123 showed [8h 8c] and won (26284) with three of a kind, Eights
+Seat 8: leotw101 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251204501270: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:49:37 UTC [2024/06/26 13:49:37 ET]
+Table '3769361891 67' 8-max Seat #1 is the button
+Seat 1: koenn8 (108390 in chips, $50 bounty) 
+Seat 2: blogods (1974 in chips, $25 bounty) 
+Seat 3: nviDi_ablo (24630 in chips, $25 bounty) 
+Seat 4: Artuz79 (26337 in chips, $25 bounty) 
+Seat 5: cardinals970 (30176 in chips, $25 bounty) 
+Seat 7: rony's123 (41765 in chips, $37.50 bounty) 
+Seat 8: leotw101 (31741 in chips, $25 bounty) 
+koenn8: posts the ante 100
+blogods: posts the ante 100
+nviDi_ablo: posts the ante 100
+Artuz79: posts the ante 100
+cardinals970: posts the ante 100
+rony's123: posts the ante 100
+leotw101: posts the ante 100
+blogods: posts small blind 400
+nviDi_ablo: posts big blind 800
+*** HOLE CARDS ***
+Artuz79: folds 
+cardinals970: folds 
+rony's123: folds 
+leotw101: raises 800 to 1600
+koenn8: folds 
+blogods: raises 274 to 1874 and is all-in
+nviDi_ablo: calls 1074
+leotw101: calls 274
+*** FLOP *** [Tc Jc 6c]
+nviDi_ablo: checks 
+EYSTEINN95 is disconnected 
+leotw101: checks 
+*** TURN *** [Tc Jc 6c] [Qc]
+nviDi_ablo: checks 
+leotw101: checks 
+*** RIVER *** [Tc Jc 6c Qc] [Ad]
+nviDi_ablo: checks 
+leotw101: checks 
+*** SHOW DOWN ***
+blogods: shows [9s 5s] (high card Ace)
+nviDi_ablo: shows [9d Qh] (a pair of Queens)
+leotw101: shows [5d As] (a pair of Aces)
+leotw101 collected 6322 from pot
+leotw101 wins $12.50 for eliminating blogods and their own bounty increases by $12.50 to $37.50
+blogods finished the tournament
+*** SUMMARY ***
+Total pot 6322 | Rake 0 
+Board [Tc Jc 6c Qc Ad]
+Seat 1: koenn8 (button) folded before Flop (didn't bet)
+Seat 2: blogods (small blind) showed [9s 5s] and lost with high card Ace
+Seat 3: nviDi_ablo (big blind) showed [9d Qh] and lost with a pair of Queens
+Seat 4: Artuz79 folded before Flop (didn't bet)
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 7: rony's123 folded before Flop (didn't bet)
+Seat 8: leotw101 showed [5d As] and won (6322) with a pair of Aces
+
+PokerStars Hand #251204514445: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:50:36 UTC [2024/06/26 13:50:36 ET]
+Table '3769361891 67' 8-max Seat #3 is the button
+Seat 1: koenn8 (108290 in chips, $50 bounty) 
+Seat 3: nviDi_ablo (22656 in chips, $25 bounty) 
+Seat 4: Artuz79 (26237 in chips, $25 bounty) 
+Seat 5: cardinals970 (30076 in chips, $25 bounty) 
+Seat 6: EYSTEINN95 (25000 in chips, $25 bounty) 
+Seat 7: rony's123 (41665 in chips, $37.50 bounty) 
+Seat 8: leotw101 (36089 in chips, $37.50 bounty) 
+koenn8: posts the ante 100
+nviDi_ablo: posts the ante 100
+Artuz79: posts the ante 100
+cardinals970: posts the ante 100
+EYSTEINN95: posts the ante 100
+rony's123: posts the ante 100
+leotw101: posts the ante 100
+Artuz79: posts small blind 400
+cardinals970: posts big blind 800
+*** HOLE CARDS ***
+EYSTEINN95: folds 
+rony's123: raises 800 to 1600
+leotw101: raises 3440 to 5040
+koenn8: folds 
+nviDi_ablo: folds 
+Artuz79: folds 
+visuvaineko7 is disconnected 
+cardinals970: folds 
+rony's123: folds 
+Uncalled bet (3440) returned to leotw101
+leotw101 collected 5100 from pot
+leotw101: doesn't show hand 
+*** SUMMARY ***
+Total pot 5100 | Rake 0 
+Seat 1: koenn8 folded before Flop (didn't bet)
+Seat 3: nviDi_ablo (button) folded before Flop (didn't bet)
+Seat 4: Artuz79 (small blind) folded before Flop
+Seat 5: cardinals970 (big blind) folded before Flop
+Seat 6: EYSTEINN95 folded before Flop (didn't bet)
+Seat 7: rony's123 folded before Flop
+Seat 8: leotw101 collected (5100)
+
+PokerStars Hand #251204527553: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:51:35 UTC [2024/06/26 13:51:35 ET]
+Table '3769361891 67' 8-max Seat #4 is the button
+Seat 1: koenn8 (108190 in chips, $50 bounty) 
+Seat 2: visuvaineko7 (25000 in chips, $25 bounty) 
+Seat 3: nviDi_ablo (22556 in chips, $25 bounty) 
+Seat 4: Artuz79 (25737 in chips, $25 bounty) 
+Seat 5: cardinals970 (29176 in chips, $25 bounty) 
+Seat 6: EYSTEINN95 (24900 in chips, $25 bounty) 
+Seat 7: rony's123 (39965 in chips, $37.50 bounty) 
+Seat 8: leotw101 (39489 in chips, $37.50 bounty) 
+koenn8: posts the ante 100
+visuvaineko7: posts the ante 100
+nviDi_ablo: posts the ante 100
+Artuz79: posts the ante 100
+cardinals970: posts the ante 100
+EYSTEINN95: posts the ante 100
+rony's123: posts the ante 100
+leotw101: posts the ante 100
+cardinals970: posts small blind 400
+EYSTEINN95: posts big blind 800
+*** HOLE CARDS ***
+rony's123: raises 800 to 1600
+leotw101: calls 1600
+koenn8: raises 4000 to 5600
+visuvaineko7: folds 
+nviDi_ablo: folds 
+Artuz79: folds 
+cardinals970: folds 
+EYSTEINN95: folds 
+rony's123: folds 
+leotw101: folds 
+Uncalled bet (4000) returned to koenn8
+koenn8 collected 6800 from pot
+koenn8: doesn't show hand 
+*** SUMMARY ***
+Total pot 6800 | Rake 0 
+Seat 1: koenn8 collected (6800)
+Seat 2: visuvaineko7 folded before Flop (didn't bet)
+Seat 3: nviDi_ablo folded before Flop (didn't bet)
+Seat 4: Artuz79 (button) folded before Flop (didn't bet)
+Seat 5: cardinals970 (small blind) folded before Flop
+Seat 6: EYSTEINN95 (big blind) folded before Flop
+Seat 7: rony's123 folded before Flop
+Seat 8: leotw101 folded before Flop
+
+PokerStars Hand #251204539106: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:52:26 UTC [2024/06/26 13:52:26 ET]
+Table '3769361891 67' 8-max Seat #5 is the button
+Seat 1: koenn8 (113290 in chips, $50 bounty) 
+Seat 2: visuvaineko7 (24900 in chips, $25 bounty) 
+Seat 3: nviDi_ablo (22456 in chips, $25 bounty) 
+Seat 4: Artuz79 (25637 in chips, $25 bounty) 
+Seat 5: cardinals970 (28676 in chips, $25 bounty) 
+Seat 6: EYSTEINN95 (24000 in chips, $25 bounty) 
+Seat 7: rony's123 (38265 in chips, $37.50 bounty) 
+Seat 8: leotw101 (37789 in chips, $37.50 bounty) 
+koenn8: posts the ante 100
+visuvaineko7: posts the ante 100
+nviDi_ablo: posts the ante 100
+Artuz79: posts the ante 100
+cardinals970: posts the ante 100
+EYSTEINN95: posts the ante 100
+rony's123: posts the ante 100
+leotw101: posts the ante 100
+EYSTEINN95: posts small blind 400
+rony's123: posts big blind 800
+*** HOLE CARDS ***
+leotw101: folds 
+koenn8: raises 960 to 1760
+visuvaineko7: raises 2240 to 4000
+nviDi_ablo: folds 
+Artuz79: raises 21537 to 25537 and is all-in
+cardinals970: folds 
+EYSTEINN95: folds 
+rony's123: folds 
+koenn8: folds 
+visuvaineko7: calls 20800 and is all-in
+Uncalled bet (737) returned to Artuz79
+*** FLOP *** [Jd Kh 6s]
+*** TURN *** [Jd Kh 6s] [3s]
+*** RIVER *** [Jd Kh 6s 3s] [9s]
+*** SHOW DOWN ***
+visuvaineko7: shows [9d Td] (a pair of Nines)
+Artuz79: shows [Qh Ac] (high card Ace)
+visuvaineko7 collected 53360 from pot
+*** SUMMARY ***
+Total pot 53360 | Rake 0 
+Board [Jd Kh 6s 3s 9s]
+Seat 1: koenn8 folded before Flop
+Seat 2: visuvaineko7 showed [9d Td] and won (53360) with a pair of Nines
+Seat 3: nviDi_ablo folded before Flop (didn't bet)
+Seat 4: Artuz79 showed [Qh Ac] and lost with high card Ace
+Seat 5: cardinals970 (button) folded before Flop (didn't bet)
+Seat 6: EYSTEINN95 (small blind) folded before Flop
+Seat 7: rony's123 (big blind) folded before Flop
+Seat 8: leotw101 folded before Flop (didn't bet)
+
+PokerStars Hand #251204551871: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:53:24 UTC [2024/06/26 13:53:24 ET]
+Table '3769361891 67' 8-max Seat #6 is the button
+Seat 1: koenn8 (111430 in chips, $50 bounty) 
+Seat 2: visuvaineko7 (53360 in chips, $25 bounty) 
+Seat 3: nviDi_ablo (22356 in chips, $25 bounty) 
+Seat 4: Artuz79 (737 in chips, $25 bounty) 
+Seat 5: cardinals970 (28576 in chips, $25 bounty) 
+Seat 6: EYSTEINN95 (23500 in chips, $25 bounty) 
+Seat 7: rony's123 (37365 in chips, $37.50 bounty) 
+Seat 8: leotw101 (37689 in chips, $37.50 bounty) 
+koenn8: posts the ante 100
+visuvaineko7: posts the ante 100
+nviDi_ablo: posts the ante 100
+Artuz79: posts the ante 100
+cardinals970: posts the ante 100
+EYSTEINN95: posts the ante 100
+rony's123: posts the ante 100
+leotw101: posts the ante 100
+rony's123: posts small blind 400
+leotw101: posts big blind 800
+*** HOLE CARDS ***
+koenn8: folds 
+visuvaineko7: raises 1600 to 2400
+nviDi_ablo: folds 
+Artuz79: calls 637 and is all-in
+cardinals970: folds 
+EYSTEINN95: folds 
+rony's123: calls 2000
+leotw101: calls 1600
+*** FLOP *** [2c 9c Td]
+rony's123: checks 
+leotw101: checks 
+visuvaineko7: bets 13600
+rony's123: folds 
+leotw101: folds 
+Uncalled bet (13600) returned to visuvaineko7
+*** TURN *** [2c 9c Td] [5d]
+*** RIVER *** [2c 9c Td 5d] [Jh]
+*** SHOW DOWN ***
+visuvaineko7: shows [Qc 9d] (a pair of Nines)
+visuvaineko7 collected 5289 from side pot
+Artuz79: shows [6s 7c] (high card Jack)
+visuvaineko7 collected 3348 from main pot
+visuvaineko7 wins $12.50 for eliminating Artuz79 and their own bounty increases by $12.50 to $37.50
+Artuz79 finished the tournament
+*** SUMMARY ***
+Total pot 8637 Main pot 3348. Side pot 5289. | Rake 0 
+Board [2c 9c Td 5d Jh]
+Seat 1: koenn8 folded before Flop (didn't bet)
+Seat 2: visuvaineko7 showed [Qc 9d] and won (8637) with a pair of Nines
+Seat 3: nviDi_ablo folded before Flop (didn't bet)
+Seat 4: Artuz79 showed [6s 7c] and lost with high card Jack
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: EYSTEINN95 (button) folded before Flop (didn't bet)
+Seat 7: rony's123 (small blind) folded on the Flop
+Seat 8: leotw101 (big blind) folded on the Flop

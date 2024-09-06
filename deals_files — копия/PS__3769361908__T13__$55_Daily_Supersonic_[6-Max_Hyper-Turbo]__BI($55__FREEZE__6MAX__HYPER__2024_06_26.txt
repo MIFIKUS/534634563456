@@ -1,0 +1,1747 @@
+PokerStars Hand #251209384555: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/26 22:22:34 UTC [2024/06/26 18:22:34 ET]
+Table '3769361908 13' 6-max Seat #1 is the button
+Seat 1: sanatamaria (11150 in chips) 
+Seat 3: giftmyra (5838 in chips) 
+Seat 4: fernandoefv (10310 in chips) 
+Seat 5: laapin (11010 in chips) 
+Seat 6: ratitoBR (11965 in chips) 
+sanatamaria: posts the ante 50
+giftmyra: posts the ante 50
+fernandoefv: posts the ante 50
+laapin: posts the ante 50
+ratitoBR: posts the ante 50
+giftmyra: posts small blind 100
+fernandoefv: posts big blind 200
+*** HOLE CARDS ***
+laapin: raises 300 to 500
+ratitoBR: folds 
+sanatamaria: folds 
+giftmyra: folds 
+fernandoefv: calls 300
+*** FLOP *** [4c Jd Kh]
+fernandoefv: checks 
+laapin: bets 959
+fernandoefv: calls 959
+*** TURN *** [4c Jd Kh] [4d]
+fernandoefv: checks 
+laapin: checks 
+*** RIVER *** [4c Jd Kh 4d] [9s]
+handsfull69 is disconnected 
+fernandoefv: checks 
+laapin: checks 
+*** SHOW DOWN ***
+fernandoefv: shows [Td Qs] (a straight, Nine to King)
+laapin: mucks hand 
+fernandoefv collected 3268 from pot
+*** SUMMARY ***
+Total pot 3268 | Rake 0 
+Board [4c Jd Kh 4d 9s]
+Seat 1: sanatamaria (button) folded before Flop (didn't bet)
+Seat 3: giftmyra (small blind) folded before Flop
+Seat 4: fernandoefv (big blind) showed [Td Qs] and won (3268) with a straight, Nine to King
+Seat 5: laapin mucked
+Seat 6: ratitoBR folded before Flop (didn't bet)
+
+PokerStars Hand #251209404882: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/26 22:23:48 UTC [2024/06/26 18:23:48 ET]
+Table '3769361908 13' 6-max Seat #3 is the button
+Seat 1: sanatamaria (11100 in chips) 
+Seat 2: handsfull69 (10000 in chips) 
+Seat 3: giftmyra (5688 in chips) 
+Seat 4: fernandoefv (12069 in chips) 
+Seat 5: laapin (9501 in chips) 
+Seat 6: ratitoBR (11915 in chips) 
+sanatamaria: posts the ante 60
+handsfull69: posts the ante 60
+giftmyra: posts the ante 60
+fernandoefv: posts the ante 60
+laapin: posts the ante 60
+ratitoBR: posts the ante 60
+fernandoefv: posts small blind 125
+laapin: posts big blind 250
+*** HOLE CARDS ***
+ratitoBR: raises 250 to 500
+sanatamaria: calls 500
+handsfull69: folds 
+giftmyra: folds 
+fernandoefv: folds 
+laapin: folds 
+*** FLOP *** [2d Kd 4h]
+ratitoBR: checks 
+sanatamaria: checks 
+*** TURN *** [2d Kd 4h] [3h]
+ratitoBR: checks 
+sanatamaria: checks 
+*** RIVER *** [2d Kd 4h 3h] [Ad]
+ratitoBR: bets 500
+sanatamaria: calls 500
+*** SHOW DOWN ***
+ratitoBR: shows [Jc Qd] (high card Ace)
+sanatamaria: shows [9h As] (a pair of Aces)
+sanatamaria collected 2735 from pot
+*** SUMMARY ***
+Total pot 2735 | Rake 0 
+Board [2d Kd 4h 3h Ad]
+Seat 1: sanatamaria showed [9h As] and won (2735) with a pair of Aces
+Seat 2: handsfull69 folded before Flop (didn't bet)
+Seat 3: giftmyra (button) folded before Flop (didn't bet)
+Seat 4: fernandoefv (small blind) folded before Flop
+Seat 5: laapin (big blind) folded before Flop
+Seat 6: ratitoBR showed [Jc Qd] and lost with high card Ace
+
+PokerStars Hand #251209416027: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/26 22:24:28 UTC [2024/06/26 18:24:28 ET]
+Table '3769361908 13' 6-max Seat #4 is the button
+Seat 1: sanatamaria (12775 in chips) 
+Seat 2: handsfull69 (9940 in chips) 
+Seat 3: giftmyra (5628 in chips) 
+Seat 4: fernandoefv (11884 in chips) 
+Seat 5: laapin (9191 in chips) 
+Seat 6: ratitoBR (10855 in chips) 
+sanatamaria: posts the ante 60
+handsfull69: posts the ante 60
+giftmyra: posts the ante 60
+fernandoefv: posts the ante 60
+laapin: posts the ante 60
+ratitoBR: posts the ante 60
+laapin: posts small blind 125
+ratitoBR: posts big blind 250
+*** HOLE CARDS ***
+sanatamaria: calls 250
+handsfull69: folds 
+giftmyra: raises 275 to 525
+fernandoefv: folds 
+laapin: raises 8606 to 9131 and is all-in
+ratitoBR: folds 
+sanatamaria: folds 
+giftmyra: calls 5043 and is all-in
+Uncalled bet (3563) returned to laapin
+*** FLOP *** [6h 9c Ts]
+*** TURN *** [6h 9c Ts] [Kc]
+*** RIVER *** [6h 9c Ts Kc] [3c]
+*** SHOW DOWN ***
+laapin: shows [Ah Jd] (high card Ace)
+giftmyra: shows [As Td] (a pair of Tens)
+giftmyra collected 11996 from pot
+*** SUMMARY ***
+Total pot 11996 | Rake 0 
+Board [6h 9c Ts Kc 3c]
+Seat 1: sanatamaria folded before Flop
+Seat 2: handsfull69 folded before Flop (didn't bet)
+Seat 3: giftmyra showed [As Td] and won (11996) with a pair of Tens
+Seat 4: fernandoefv (button) folded before Flop (didn't bet)
+Seat 5: laapin (small blind) showed [Ah Jd] and lost with high card Ace
+Seat 6: ratitoBR (big blind) folded before Flop
+
+PokerStars Hand #251209433415: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/26 22:25:31 UTC [2024/06/26 18:25:31 ET]
+Table '3769361908 13' 6-max Seat #5 is the button
+Seat 1: sanatamaria (12465 in chips) 
+Seat 2: handsfull69 (9880 in chips) 
+Seat 3: giftmyra (11996 in chips) 
+Seat 4: fernandoefv (11824 in chips) 
+Seat 5: laapin (3563 in chips) 
+Seat 6: ratitoBR (10545 in chips) 
+sanatamaria: posts the ante 60
+handsfull69: posts the ante 60
+giftmyra: posts the ante 60
+fernandoefv: posts the ante 60
+laapin: posts the ante 60
+ratitoBR: posts the ante 60
+ratitoBR: posts small blind 125
+sanatamaria: posts big blind 250
+*** HOLE CARDS ***
+handsfull69: folds 
+giftmyra: folds 
+fernandoefv: folds 
+laapin: raises 3253 to 3503 and is all-in
+ratitoBR: raises 6982 to 10485 and is all-in
+sanatamaria: calls 10235
+*** FLOP *** [Ts 7d 2d]
+*** TURN *** [Ts 7d 2d] [Ah]
+*** RIVER *** [Ts 7d 2d Ah] [9c]
+*** SHOW DOWN ***
+ratitoBR: shows [4d 4h] (a pair of Fours)
+sanatamaria: shows [Qc Kh] (high card Ace)
+ratitoBR collected 13964 from side pot
+laapin: shows [5h 7s] (a pair of Sevens)
+laapin collected 10869 from main pot
+*** SUMMARY ***
+Total pot 24833 Main pot 10869. Side pot 13964. | Rake 0 
+Board [Ts 7d 2d Ah 9c]
+Seat 1: sanatamaria (big blind) showed [Qc Kh] and lost with high card Ace
+Seat 2: handsfull69 folded before Flop (didn't bet)
+Seat 3: giftmyra folded before Flop (didn't bet)
+Seat 4: fernandoefv folded before Flop (didn't bet)
+Seat 5: laapin (button) showed [5h 7s] and won (10869) with a pair of Sevens
+Seat 6: ratitoBR (small blind) showed [4d 4h] and won (13964) with a pair of Fours
+
+PokerStars Hand #251209440873: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/26 22:25:58 UTC [2024/06/26 18:25:58 ET]
+Table '3769361908 13' 6-max Seat #6 is the button
+Seat 1: sanatamaria (1920 in chips) 
+Seat 2: handsfull69 (9820 in chips) 
+Seat 3: giftmyra (11936 in chips) 
+Seat 4: fernandoefv (11764 in chips) 
+Seat 5: laapin (10869 in chips) 
+Seat 6: ratitoBR (13964 in chips) 
+sanatamaria: posts the ante 60
+handsfull69: posts the ante 60
+giftmyra: posts the ante 60
+fernandoefv: posts the ante 60
+laapin: posts the ante 60
+ratitoBR: posts the ante 60
+sanatamaria: posts small blind 125
+handsfull69: posts big blind 250
+*** HOLE CARDS ***
+giftmyra: folds 
+fernandoefv: folds 
+laapin: folds 
+ratitoBR: folds 
+sanatamaria: raises 1610 to 1860 and is all-in
+handsfull69: calls 1610
+*** FLOP *** [Qd 3s 5d]
+*** TURN *** [Qd 3s 5d] [9h]
+*** RIVER *** [Qd 3s 5d 9h] [4h]
+*** SHOW DOWN ***
+sanatamaria: shows [Js Tc] (high card Queen)
+handsfull69: shows [Jh 7h] (high card Queen - lower kicker)
+sanatamaria collected 4080 from pot
+*** SUMMARY ***
+Total pot 4080 | Rake 0 
+Board [Qd 3s 5d 9h 4h]
+Seat 1: sanatamaria (small blind) showed [Js Tc] and won (4080) with high card Queen
+Seat 2: handsfull69 (big blind) showed [Jh 7h] and lost with high card Queen
+Seat 3: giftmyra folded before Flop (didn't bet)
+Seat 4: fernandoefv folded before Flop (didn't bet)
+Seat 5: laapin folded before Flop (didn't bet)
+Seat 6: ratitoBR (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209452520: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:26:40 UTC [2024/06/26 18:26:40 ET]
+Table '3769361908 13' 6-max Seat #1 is the button
+Seat 1: sanatamaria (4080 in chips) 
+Seat 2: handsfull69 (7900 in chips) 
+Seat 3: giftmyra (11876 in chips) 
+Seat 4: fernandoefv (11704 in chips) 
+Seat 5: laapin (10809 in chips) 
+Seat 6: ratitoBR (13904 in chips) 
+sanatamaria: posts the ante 75
+handsfull69: posts the ante 75
+giftmyra: posts the ante 75
+fernandoefv: posts the ante 75
+laapin: posts the ante 75
+ratitoBR: posts the ante 75
+handsfull69: posts small blind 150
+giftmyra: posts big blind 300
+*** HOLE CARDS ***
+fernandoefv: raises 300 to 600
+laapin: folds 
+ratitoBR: folds 
+sanatamaria: folds 
+handsfull69: calls 450
+giftmyra: folds 
+*** FLOP *** [Jd 8d Jc]
+handsfull69: bets 975
+fernandoefv: folds 
+Uncalled bet (975) returned to handsfull69
+handsfull69 collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | Rake 0 
+Board [Jd 8d Jc]
+Seat 1: sanatamaria (button) folded before Flop (didn't bet)
+Seat 2: handsfull69 (small blind) collected (1950)
+Seat 3: giftmyra (big blind) folded before Flop
+Seat 4: fernandoefv folded on the Flop
+Seat 5: laapin folded before Flop (didn't bet)
+Seat 6: ratitoBR folded before Flop (didn't bet)
+
+PokerStars Hand #251209467806: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:27:35 UTC [2024/06/26 18:27:35 ET]
+Table '3769361908 13' 6-max Seat #2 is the button
+Seat 1: sanatamaria (4005 in chips) 
+Seat 2: handsfull69 (9175 in chips) 
+Seat 3: giftmyra (11501 in chips) 
+Seat 5: laapin (10734 in chips) 
+Seat 6: ratitoBR (13829 in chips) 
+sanatamaria: posts the ante 75
+handsfull69: posts the ante 75
+giftmyra: posts the ante 75
+laapin: posts the ante 75
+ratitoBR: posts the ante 75
+giftmyra: posts small blind 150
+laapin: posts big blind 300
+*** HOLE CARDS ***
+ratitoBR: folds 
+sanatamaria: folds 
+handsfull69: raises 300 to 600
+giftmyra: folds 
+laapin: folds 
+Uncalled bet (300) returned to handsfull69
+handsfull69 collected 1125 from pot
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 1: sanatamaria folded before Flop (didn't bet)
+Seat 2: handsfull69 (button) collected (1125)
+Seat 3: giftmyra (small blind) folded before Flop
+Seat 5: laapin (big blind) folded before Flop
+Seat 6: ratitoBR folded before Flop (didn't bet)
+
+PokerStars Hand #251209472811: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:27:52 UTC [2024/06/26 18:27:52 ET]
+Table '3769361908 13' 6-max Seat #3 is the button
+Seat 1: sanatamaria (3930 in chips) 
+Seat 2: handsfull69 (9925 in chips) 
+Seat 3: giftmyra (11276 in chips) 
+Seat 5: laapin (10359 in chips) 
+Seat 6: ratitoBR (13754 in chips) 
+sanatamaria: posts the ante 75
+handsfull69: posts the ante 75
+giftmyra: posts the ante 75
+laapin: posts the ante 75
+ratitoBR: posts the ante 75
+laapin: posts small blind 150
+ratitoBR: posts big blind 300
+*** HOLE CARDS ***
+sanatamaria: folds 
+handsfull69: raises 300 to 600
+giftmyra: folds 
+laapin: folds 
+ratitoBR: calls 300
+*** FLOP *** [Jh 8c 7c]
+ratitoBR: checks 
+vip_1985Z is disconnected 
+handsfull69: checks 
+*** TURN *** [Jh 8c 7c] [2h]
+ratitoBR: checks 
+handsfull69: checks 
+*** RIVER *** [Jh 8c 7c 2h] [9d]
+ratitoBR: checks 
+handsfull69: checks 
+*** SHOW DOWN ***
+ratitoBR: shows [2s Ah] (a pair of Deuces)
+handsfull69: shows [4d 4s] (a pair of Fours)
+handsfull69 collected 1725 from pot
+*** SUMMARY ***
+Total pot 1725 | Rake 0 
+Board [Jh 8c 7c 2h 9d]
+Seat 1: sanatamaria folded before Flop (didn't bet)
+Seat 2: handsfull69 showed [4d 4s] and won (1725) with a pair of Fours
+Seat 3: giftmyra (button) folded before Flop (didn't bet)
+Seat 5: laapin (small blind) folded before Flop
+Seat 6: ratitoBR (big blind) showed [2s Ah] and lost with a pair of Deuces
+
+PokerStars Hand #251209485972: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:28:40 UTC [2024/06/26 18:28:40 ET]
+Table '3769361908 13' 6-max Seat #5 is the button
+Seat 1: sanatamaria (3855 in chips) 
+Seat 2: handsfull69 (10975 in chips) 
+Seat 3: giftmyra (11201 in chips) 
+Seat 4: vip_1985Z (10000 in chips) 
+Seat 5: laapin (10134 in chips) 
+Seat 6: ratitoBR (13079 in chips) 
+sanatamaria: posts the ante 75
+handsfull69: posts the ante 75
+giftmyra: posts the ante 75
+vip_1985Z: posts the ante 75
+laapin: posts the ante 75
+ratitoBR: posts the ante 75
+ratitoBR: posts small blind 150
+sanatamaria: posts big blind 300
+*** HOLE CARDS ***
+handsfull69: raises 300 to 600
+giftmyra: folds 
+vip_1985Z: folds 
+laapin: folds 
+ratitoBR: folds 
+sanatamaria: calls 300
+*** FLOP *** [Ks Qs 2h]
+sanatamaria: checks 
+handsfull69: checks 
+*** TURN *** [Ks Qs 2h] [7s]
+sanatamaria: checks 
+handsfull69: checks 
+*** RIVER *** [Ks Qs 2h 7s] [4h]
+sanatamaria: bets 3180 and is all-in
+handsfull69: calls 3180
+*** SHOW DOWN ***
+sanatamaria: shows [9d Kh] (a pair of Kings)
+handsfull69: shows [6h 6s] (a pair of Sixes)
+sanatamaria collected 8160 from pot
+*** SUMMARY ***
+Total pot 8160 | Rake 0 
+Board [Ks Qs 2h 7s 4h]
+Seat 1: sanatamaria (big blind) showed [9d Kh] and won (8160) with a pair of Kings
+Seat 2: handsfull69 showed [6h 6s] and lost with a pair of Sixes
+Seat 3: giftmyra folded before Flop (didn't bet)
+Seat 4: vip_1985Z folded before Flop (didn't bet)
+Seat 5: laapin (button) folded before Flop (didn't bet)
+Seat 6: ratitoBR (small blind) folded before Flop
+
+PokerStars Hand #251209496462: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:29:17 UTC [2024/06/26 18:29:17 ET]
+Table '3769361908 13' 6-max Seat #6 is the button
+Seat 1: sanatamaria (8160 in chips) 
+Seat 2: handsfull69 (7120 in chips) 
+Seat 3: giftmyra (11126 in chips) 
+Seat 4: vip_1985Z (9925 in chips) 
+Seat 5: laapin (10059 in chips) 
+Seat 6: ratitoBR (12854 in chips) 
+sanatamaria: posts the ante 100
+handsfull69: posts the ante 100
+giftmyra: posts the ante 100
+vip_1985Z: posts the ante 100
+laapin: posts the ante 100
+ratitoBR: posts the ante 100
+sanatamaria: posts small blind 200
+handsfull69: posts big blind 400
+*** HOLE CARDS ***
+giftmyra: folds 
+vip_1985Z: folds 
+laapin: folds 
+ratitoBR: folds 
+sanatamaria: folds 
+Uncalled bet (200) returned to handsfull69
+handsfull69 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Seat 1: sanatamaria (small blind) folded before Flop
+Seat 2: handsfull69 (big blind) collected (1000)
+Seat 3: giftmyra folded before Flop (didn't bet)
+Seat 4: vip_1985Z folded before Flop (didn't bet)
+Seat 5: laapin folded before Flop (didn't bet)
+Seat 6: ratitoBR (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209505300: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:29:49 UTC [2024/06/26 18:29:49 ET]
+Table '3769361908 13' 6-max Seat #1 is the button
+Seat 1: sanatamaria (7860 in chips) 
+Seat 2: handsfull69 (7820 in chips) 
+Seat 3: giftmyra (11026 in chips) 
+Seat 4: vip_1985Z (9825 in chips) 
+Seat 5: laapin (9959 in chips) 
+Seat 6: ratitoBR (12754 in chips) 
+sanatamaria: posts the ante 100
+handsfull69: posts the ante 100
+giftmyra: posts the ante 100
+vip_1985Z: posts the ante 100
+laapin: posts the ante 100
+ratitoBR: posts the ante 100
+handsfull69: posts small blind 200
+giftmyra: posts big blind 400
+*** HOLE CARDS ***
+vip_1985Z: folds 
+laapin: folds 
+ratitoBR: folds 
+sanatamaria: folds 
+handsfull69: raises 7320 to 7720 and is all-in
+giftmyra: folds 
+Uncalled bet (7320) returned to handsfull69
+handsfull69 collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Seat 1: sanatamaria (button) folded before Flop (didn't bet)
+Seat 2: handsfull69 (small blind) collected (1400)
+Seat 3: giftmyra (big blind) folded before Flop
+Seat 4: vip_1985Z folded before Flop (didn't bet)
+Seat 5: laapin folded before Flop (didn't bet)
+Seat 6: ratitoBR folded before Flop (didn't bet)
+
+PokerStars Hand #251209514978: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:30:23 UTC [2024/06/26 18:30:23 ET]
+Table '3769361908 13' 6-max Seat #2 is the button
+Seat 1: sanatamaria (7760 in chips) 
+Seat 2: handsfull69 (8720 in chips) 
+Seat 3: giftmyra (10526 in chips) 
+Seat 4: vip_1985Z (9725 in chips) 
+Seat 5: laapin (9859 in chips) 
+Seat 6: ratitoBR (12654 in chips) 
+sanatamaria: posts the ante 100
+handsfull69: posts the ante 100
+giftmyra: posts the ante 100
+vip_1985Z: posts the ante 100
+laapin: posts the ante 100
+ratitoBR: posts the ante 100
+giftmyra: posts small blind 200
+vip_1985Z: posts big blind 400
+*** HOLE CARDS ***
+laapin: folds 
+ratitoBR: folds 
+sanatamaria: folds 
+handsfull69: folds 
+giftmyra: folds 
+Uncalled bet (200) returned to vip_1985Z
+vip_1985Z collected 1000 from pot
+vip_1985Z: doesn't show hand 
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Seat 1: sanatamaria folded before Flop (didn't bet)
+Seat 2: handsfull69 (button) folded before Flop (didn't bet)
+Seat 3: giftmyra (small blind) folded before Flop
+Seat 4: vip_1985Z (big blind) collected (1000)
+Seat 5: laapin folded before Flop (didn't bet)
+Seat 6: ratitoBR folded before Flop (didn't bet)
+
+PokerStars Hand #251209525409: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:31:01 UTC [2024/06/26 18:31:01 ET]
+Table '3769361908 13' 6-max Seat #3 is the button
+Seat 1: sanatamaria (7660 in chips) 
+Seat 2: handsfull69 (8620 in chips) 
+Seat 3: giftmyra (10226 in chips) 
+Seat 4: vip_1985Z (10425 in chips) 
+Seat 5: laapin (9759 in chips) 
+Seat 6: ratitoBR (12554 in chips) 
+sanatamaria: posts the ante 100
+handsfull69: posts the ante 100
+giftmyra: posts the ante 100
+vip_1985Z: posts the ante 100
+laapin: posts the ante 100
+ratitoBR: posts the ante 100
+vip_1985Z: posts small blind 200
+laapin: posts big blind 400
+*** HOLE CARDS ***
+ratitoBR: folds 
+sanatamaria: raises 7160 to 7560 and is all-in
+handsfull69: raises 960 to 8520 and is all-in
+giftmyra: folds 
+vip_1985Z: folds 
+laapin: calls 8120
+*** FLOP *** [Jd Ks 3s]
+*** TURN *** [Jd Ks 3s] [6h]
+*** RIVER *** [Jd Ks 3s 6h] [2c]
+*** SHOW DOWN ***
+laapin: shows [5c 5s] (a pair of Fives)
+handsfull69: shows [9d 9s] (a pair of Nines)
+handsfull69 collected 1920 from side pot
+sanatamaria: shows [Th Kh] (a pair of Kings)
+sanatamaria collected 23480 from main pot
+*** SUMMARY ***
+Total pot 25400 Main pot 23480. Side pot 1920. | Rake 0 
+Board [Jd Ks 3s 6h 2c]
+Seat 1: sanatamaria showed [Th Kh] and won (23480) with a pair of Kings
+Seat 2: handsfull69 showed [9d 9s] and won (1920) with a pair of Nines
+Seat 3: giftmyra (button) folded before Flop (didn't bet)
+Seat 4: vip_1985Z (small blind) folded before Flop
+Seat 5: laapin (big blind) showed [5c 5s] and lost with a pair of Fives
+Seat 6: ratitoBR folded before Flop (didn't bet)
+
+PokerStars Hand #251209534378: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:31:34 UTC [2024/06/26 18:31:34 ET]
+Table '3769361908 13' 6-max Seat #4 is the button
+Seat 1: sanatamaria (23480 in chips) 
+Seat 2: handsfull69 (1920 in chips) 
+Seat 3: giftmyra (10126 in chips) 
+Seat 4: vip_1985Z (10125 in chips) 
+Seat 5: laapin (1139 in chips) 
+Seat 6: ratitoBR (12454 in chips) 
+sanatamaria: posts the ante 100
+handsfull69: posts the ante 100
+giftmyra: posts the ante 100
+vip_1985Z: posts the ante 100
+laapin: posts the ante 100
+ratitoBR: posts the ante 100
+laapin: posts small blind 200
+ratitoBR: posts big blind 400
+*** HOLE CARDS ***
+sanatamaria: folds 
+handsfull69: raises 1420 to 1820 and is all-in
+giftmyra: folds 
+vip_1985Z: calls 1820
+laapin: calls 839 and is all-in
+ratitoBR: folds 
+*** FLOP *** [Tc 5c 3d]
+*** TURN *** [Tc 5c 3d] [3c]
+*** RIVER *** [Tc 5c 3d 3c] [6s]
+*** SHOW DOWN ***
+handsfull69: shows [Jd 4h] (a pair of Threes)
+vip_1985Z: shows [Ah As] (two pair, Aces and Threes)
+vip_1985Z collected 1562 from side pot
+laapin: shows [3h 2h] (three of a kind, Threes)
+laapin collected 4117 from main pot
+handsfull69 finished the tournament
+*** SUMMARY ***
+Total pot 5679 Main pot 4117. Side pot 1562. | Rake 0 
+Board [Tc 5c 3d 3c 6s]
+Seat 1: sanatamaria folded before Flop (didn't bet)
+Seat 2: handsfull69 showed [Jd 4h] and lost with a pair of Threes
+Seat 3: giftmyra folded before Flop (didn't bet)
+Seat 4: vip_1985Z (button) showed [Ah As] and won (1562) with two pair, Aces and Threes
+Seat 5: laapin (small blind) showed [3h 2h] and won (4117) with three of a kind, Threes
+Seat 6: ratitoBR (big blind) folded before Flop
+
+PokerStars Hand #251209540693: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:31:57 UTC [2024/06/26 18:31:57 ET]
+Table '3769361908 13' 6-max Seat #5 is the button
+Seat 1: sanatamaria (23380 in chips) 
+Seat 3: giftmyra (10026 in chips) 
+Seat 4: vip_1985Z (9767 in chips) 
+Seat 5: laapin (4117 in chips) 
+Seat 6: ratitoBR (11954 in chips) 
+sanatamaria: posts the ante 100
+giftmyra: posts the ante 100
+vip_1985Z: posts the ante 100
+laapin: posts the ante 100
+ratitoBR: posts the ante 100
+ratitoBR: posts small blind 200
+sanatamaria: posts big blind 400
+*** HOLE CARDS ***
+giftmyra: folds 
+vip_1985Z: folds 
+PIUlimeira is disconnected 
+laapin: raises 3617 to 4017 and is all-in
+ratitoBR: calls 3817
+sanatamaria: folds 
+*** FLOP *** [Kd 8d Kc]
+*** TURN *** [Kd 8d Kc] [Ah]
+*** RIVER *** [Kd 8d Kc Ah] [Qh]
+*** SHOW DOWN ***
+ratitoBR: shows [2s As] (two pair, Aces and Kings)
+laapin: shows [5d 6h] (a pair of Kings)
+ratitoBR collected 8934 from pot
+laapin finished the tournament
+*** SUMMARY ***
+Total pot 8934 | Rake 0 
+Board [Kd 8d Kc Ah Qh]
+Seat 1: sanatamaria (big blind) folded before Flop
+Seat 3: giftmyra folded before Flop (didn't bet)
+Seat 4: vip_1985Z folded before Flop (didn't bet)
+Seat 5: laapin (button) showed [5d 6h] and lost with a pair of Kings
+Seat 6: ratitoBR (small blind) showed [2s As] and won (8934) with two pair, Aces and Kings
+
+PokerStars Hand #251209550127: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:32:32 UTC [2024/06/26 18:32:32 ET]
+Table '3769361908 13' 6-max Seat #6 is the button
+Seat 1: sanatamaria (22880 in chips) 
+Seat 2: PIUlimeira (10000 in chips) 
+Seat 3: giftmyra (9926 in chips) 
+Seat 4: vip_1985Z (9667 in chips) 
+Seat 6: ratitoBR (16771 in chips) 
+sanatamaria: posts the ante 125
+PIUlimeira: posts the ante 125
+giftmyra: posts the ante 125
+vip_1985Z: posts the ante 125
+ratitoBR: posts the ante 125
+sanatamaria: posts small blind 250
+PIUlimeira: posts big blind 500
+*** HOLE CARDS ***
+giftmyra: folds 
+vip_1985Z: folds 
+ratitoBR: folds 
+sanatamaria: calls 250
+PIUlimeira: checks 
+*** FLOP *** [7h 4s 4h]
+sanatamaria: bets 500
+PIUlimeira: folds 
+Uncalled bet (500) returned to sanatamaria
+sanatamaria collected 1625 from pot
+sanatamaria: doesn't show hand 
+*** SUMMARY ***
+Total pot 1625 | Rake 0 
+Board [7h 4s 4h]
+Seat 1: sanatamaria (small blind) collected (1625)
+Seat 2: PIUlimeira (big blind) folded on the Flop
+Seat 3: giftmyra folded before Flop (didn't bet)
+Seat 4: vip_1985Z folded before Flop (didn't bet)
+Seat 6: ratitoBR (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209559655: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:33:07 UTC [2024/06/26 18:33:07 ET]
+Table '3769361908 13' 6-max Seat #1 is the button
+Seat 1: sanatamaria (23880 in chips) 
+Seat 2: PIUlimeira (9375 in chips) 
+Seat 3: giftmyra (9801 in chips) 
+Seat 4: vip_1985Z (9542 in chips) 
+Seat 6: ratitoBR (16646 in chips) 
+sanatamaria: posts the ante 125
+PIUlimeira: posts the ante 125
+giftmyra: posts the ante 125
+vip_1985Z: posts the ante 125
+ratitoBR: posts the ante 125
+PIUlimeira: posts small blind 250
+giftmyra: posts big blind 500
+*** HOLE CARDS ***
+vip_1985Z: raises 600 to 1100
+ratitoBR: folds 
+sanatamaria: folds 
+PIUlimeira: folds 
+giftmyra: calls 600
+*** FLOP *** [8h Qh 5s]
+giftmyra: checks 
+vip_1985Z: bets 923
+giftmyra: calls 923
+*** TURN *** [8h Qh 5s] [5h]
+giftmyra: checks 
+vip_1985Z: checks 
+*** RIVER *** [8h Qh 5s 5h] [7c]
+giftmyra: bets 1624
+vip_1985Z: folds 
+Uncalled bet (1624) returned to giftmyra
+giftmyra collected 4921 from pot
+giftmyra: doesn't show hand 
+*** SUMMARY ***
+Total pot 4921 | Rake 0 
+Board [8h Qh 5s 5h 7c]
+Seat 1: sanatamaria (button) folded before Flop (didn't bet)
+Seat 2: PIUlimeira (small blind) folded before Flop
+Seat 3: giftmyra (big blind) collected (4921)
+Seat 4: vip_1985Z folded on the River
+Seat 6: ratitoBR folded before Flop (didn't bet)
+
+PokerStars Hand #251209579286: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:34:20 UTC [2024/06/26 18:34:20 ET]
+Table '3769361908 13' 6-max Seat #2 is the button
+Seat 1: sanatamaria (23755 in chips) 
+Seat 2: PIUlimeira (9000 in chips) 
+Seat 3: giftmyra (12574 in chips) 
+Seat 4: vip_1985Z (7394 in chips) 
+Seat 6: ratitoBR (16521 in chips) 
+sanatamaria: posts the ante 125
+PIUlimeira: posts the ante 125
+giftmyra: posts the ante 125
+vip_1985Z: posts the ante 125
+ratitoBR: posts the ante 125
+giftmyra: posts small blind 250
+vip_1985Z: posts big blind 500
+*** HOLE CARDS ***
+ratitoBR: folds 
+sanatamaria: folds 
+PIUlimeira: folds 
+giftmyra: calls 250
+vip_1985Z: checks 
+*** FLOP *** [Ac Ad 7h]
+giftmyra: bets 500
+vip_1985Z: folds 
+Uncalled bet (500) returned to giftmyra
+giftmyra collected 1625 from pot
+giftmyra: doesn't show hand 
+*** SUMMARY ***
+Total pot 1625 | Rake 0 
+Board [Ac Ad 7h]
+Seat 1: sanatamaria folded before Flop (didn't bet)
+Seat 2: PIUlimeira (button) folded before Flop (didn't bet)
+Seat 3: giftmyra (small blind) collected (1625)
+Seat 4: vip_1985Z (big blind) folded on the Flop
+Seat 6: ratitoBR folded before Flop (didn't bet)
+
+PokerStars Hand #251209587507: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:34:51 UTC [2024/06/26 18:34:51 ET]
+Table '3769361908 13' 6-max Seat #3 is the button
+Seat 1: sanatamaria (23630 in chips) 
+Seat 2: PIUlimeira (8875 in chips) 
+Seat 3: giftmyra (13574 in chips) 
+Seat 4: vip_1985Z (6769 in chips) 
+Seat 6: ratitoBR (16396 in chips) 
+sanatamaria: posts the ante 125
+PIUlimeira: posts the ante 125
+giftmyra: posts the ante 125
+vip_1985Z: posts the ante 125
+ratitoBR: posts the ante 125
+vip_1985Z: posts small blind 250
+ratitoBR: posts big blind 500
+*** HOLE CARDS ***
+sanatamaria: folds 
+PIUlimeira: folds 
+giftmyra: folds 
+vip_1985Z: folds 
+Uncalled bet (250) returned to ratitoBR
+ratitoBR collected 1125 from pot
+ratitoBR: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 1: sanatamaria folded before Flop (didn't bet)
+Seat 2: PIUlimeira folded before Flop (didn't bet)
+Seat 3: giftmyra (button) folded before Flop (didn't bet)
+Seat 4: vip_1985Z (small blind) folded before Flop
+Seat 6: ratitoBR (big blind) collected (1125)
+
+PokerStars Hand #251209597714: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:35:29 UTC [2024/06/26 18:35:29 ET]
+Table '3769361908 13' 6-max Seat #4 is the button
+Seat 1: sanatamaria (23505 in chips) 
+Seat 2: PIUlimeira (8750 in chips) 
+Seat 3: giftmyra (13449 in chips) 
+Seat 4: vip_1985Z (6394 in chips) 
+Seat 6: ratitoBR (17146 in chips) 
+sanatamaria: posts the ante 150
+PIUlimeira: posts the ante 150
+giftmyra: posts the ante 150
+vip_1985Z: posts the ante 150
+ratitoBR: posts the ante 150
+ratitoBR: posts small blind 300
+sanatamaria: posts big blind 600
+*** HOLE CARDS ***
+PIUlimeira: folds 
+giftmyra: folds 
+vip_1985Z: folds 
+ratitoBR: calls 300
+sanatamaria: checks 
+*** FLOP *** [7s 9h 3c]
+ratitoBR: bets 600
+sanatamaria: folds 
+Uncalled bet (600) returned to ratitoBR
+ratitoBR collected 1950 from pot
+ratitoBR: doesn't show hand 
+*** SUMMARY ***
+Total pot 1950 | Rake 0 
+Board [7s 9h 3c]
+Seat 1: sanatamaria (big blind) folded on the Flop
+Seat 2: PIUlimeira folded before Flop (didn't bet)
+Seat 3: giftmyra folded before Flop (didn't bet)
+Seat 4: vip_1985Z (button) folded before Flop (didn't bet)
+Seat 6: ratitoBR (small blind) collected (1950)
+
+PokerStars Hand #251209607619: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:36:05 UTC [2024/06/26 18:36:05 ET]
+Table '3769361908 13' 6-max Seat #6 is the button
+Seat 1: sanatamaria (22755 in chips) 
+Seat 2: PIUlimeira (8600 in chips) 
+Seat 3: giftmyra (13299 in chips) 
+Seat 4: vip_1985Z (6244 in chips) 
+Seat 6: ratitoBR (18346 in chips) 
+sanatamaria: posts the ante 150
+PIUlimeira: posts the ante 150
+giftmyra: posts the ante 150
+vip_1985Z: posts the ante 150
+ratitoBR: posts the ante 150
+sanatamaria: posts small blind 300
+PIUlimeira: posts big blind 600
+*** HOLE CARDS ***
+giftmyra: folds 
+vip_1985Z: folds 
+ratitoBR: raises 600 to 1200
+sanatamaria: folds 
+PIUlimeira: folds 
+Uncalled bet (600) returned to ratitoBR
+ratitoBR collected 2250 from pot
+ratitoBR: doesn't show hand 
+*** SUMMARY ***
+Total pot 2250 | Rake 0 
+Seat 1: sanatamaria (small blind) folded before Flop
+Seat 2: PIUlimeira (big blind) folded before Flop
+Seat 3: giftmyra folded before Flop (didn't bet)
+Seat 4: vip_1985Z folded before Flop (didn't bet)
+Seat 6: ratitoBR (button) collected (2250)
+
+PokerStars Hand #251209614731: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:36:32 UTC [2024/06/26 18:36:32 ET]
+Table '3769361908 13' 6-max Seat #1 is the button
+Seat 1: sanatamaria (22305 in chips) 
+Seat 2: PIUlimeira (7850 in chips) 
+Seat 3: giftmyra (13149 in chips) 
+Seat 4: vip_1985Z (6094 in chips) 
+Seat 6: ratitoBR (19846 in chips) 
+sanatamaria: posts the ante 150
+PIUlimeira: posts the ante 150
+giftmyra: posts the ante 150
+vip_1985Z: posts the ante 150
+ratitoBR: posts the ante 150
+PIUlimeira: posts small blind 300
+giftmyra: posts big blind 600
+*** HOLE CARDS ***
+vip_1985Z: folds 
+ratitoBR: folds 
+sanatamaria: folds 
+PIUlimeira: raises 7100 to 7700 and is all-in
+giftmyra: folds 
+Uncalled bet (7100) returned to PIUlimeira
+PIUlimeira collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | Rake 0 
+Seat 1: sanatamaria (button) folded before Flop (didn't bet)
+Seat 2: PIUlimeira (small blind) collected (1950)
+Seat 3: giftmyra (big blind) folded before Flop
+Seat 4: vip_1985Z folded before Flop (didn't bet)
+Seat 6: ratitoBR folded before Flop (didn't bet)
+
+PokerStars Hand #251209619887: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:36:52 UTC [2024/06/26 18:36:52 ET]
+Table '3769361908 13' 6-max Seat #2 is the button
+Seat 1: sanatamaria (22155 in chips) 
+Seat 2: PIUlimeira (9050 in chips) 
+Seat 3: giftmyra (12399 in chips) 
+Seat 4: vip_1985Z (5944 in chips) 
+Seat 6: ratitoBR (19696 in chips) 
+sanatamaria: posts the ante 150
+PIUlimeira: posts the ante 150
+giftmyra: posts the ante 150
+vip_1985Z: posts the ante 150
+ratitoBR: posts the ante 150
+giftmyra: posts small blind 300
+vip_1985Z: posts big blind 600
+*** HOLE CARDS ***
+ratitoBR: raises 900 to 1500
+sanatamaria: folds 
+PIUlimeira: folds 
+leocir25 is disconnected 
+giftmyra: folds 
+vip_1985Z: folds 
+Uncalled bet (900) returned to ratitoBR
+ratitoBR collected 2250 from pot
+ratitoBR: doesn't show hand 
+*** SUMMARY ***
+Total pot 2250 | Rake 0 
+Seat 1: sanatamaria folded before Flop (didn't bet)
+Seat 2: PIUlimeira (button) folded before Flop (didn't bet)
+Seat 3: giftmyra (small blind) folded before Flop
+Seat 4: vip_1985Z (big blind) folded before Flop
+Seat 6: ratitoBR collected (2250)
+
+PokerStars Hand #251209626125: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:37:15 UTC [2024/06/26 18:37:15 ET]
+Table '3769361908 13' 6-max Seat #3 is the button
+Seat 1: sanatamaria (22005 in chips) 
+Seat 2: PIUlimeira (8900 in chips) 
+Seat 3: giftmyra (11949 in chips) 
+Seat 4: vip_1985Z (5194 in chips) 
+Seat 5: leocir25 (10000 in chips) 
+Seat 6: ratitoBR (21196 in chips) 
+sanatamaria: posts the ante 150
+PIUlimeira: posts the ante 150
+giftmyra: posts the ante 150
+vip_1985Z: posts the ante 150
+leocir25: posts the ante 150
+ratitoBR: posts the ante 150
+vip_1985Z: posts small blind 300
+leocir25: posts big blind 600
+*** HOLE CARDS ***
+ratitoBR: raises 600 to 1200
+sanatamaria: folds 
+PIUlimeira: folds 
+giftmyra: folds 
+vip_1985Z: folds 
+leocir25: calls 600
+*** FLOP *** [Qs 4s 9s]
+leocir25: checks 
+ratitoBR: bets 1100
+leocir25: calls 1100
+*** TURN *** [Qs 4s 9s] [Jh]
+leocir25: checks 
+ratitoBR: bets 2800
+leocir25: calls 2800
+*** RIVER *** [Qs 4s 9s Jh] [7d]
+leocir25: checks 
+ratitoBR: checks 
+*** SHOW DOWN ***
+leocir25: shows [9c Qh] (two pair, Queens and Nines)
+ratitoBR: mucks hand 
+leocir25 collected 11400 from pot
+*** SUMMARY ***
+Total pot 11400 | Rake 0 
+Board [Qs 4s 9s Jh 7d]
+Seat 1: sanatamaria folded before Flop (didn't bet)
+Seat 2: PIUlimeira folded before Flop (didn't bet)
+Seat 3: giftmyra (button) folded before Flop (didn't bet)
+Seat 4: vip_1985Z (small blind) folded before Flop
+Seat 5: leocir25 (big blind) showed [9c Qh] and won (11400) with two pair, Queens and Nines
+Seat 6: ratitoBR mucked
+
+PokerStars Hand #251209653112: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:38:55 UTC [2024/06/26 18:38:55 ET]
+Table '3769361908 13' 6-max Seat #4 is the button
+Seat 1: sanatamaria (21855 in chips) 
+Seat 2: PIUlimeira (8750 in chips) 
+Seat 3: giftmyra (11799 in chips) 
+Seat 4: vip_1985Z (4744 in chips) 
+Seat 5: leocir25 (16150 in chips) 
+Seat 6: ratitoBR (15946 in chips) 
+sanatamaria: posts the ante 200
+PIUlimeira: posts the ante 200
+giftmyra: posts the ante 200
+vip_1985Z: posts the ante 200
+leocir25: posts the ante 200
+ratitoBR: posts the ante 200
+leocir25: posts small blind 400
+ratitoBR: posts big blind 800
+*** HOLE CARDS ***
+sanatamaria: folds 
+PIUlimeira: folds 
+giftmyra: folds 
+vip_1985Z: folds 
+leocir25: calls 400
+ratitoBR: checks 
+*** FLOP *** [5s Qc Kc]
+leocir25: bets 2328
+ratitoBR: calls 2328
+*** TURN *** [5s Qc Kc] [Kh]
+leocir25: bets 3728
+ratitoBR: calls 3728
+*** RIVER *** [5s Qc Kc Kh] [3h]
+leocir25: bets 9094 and is all-in
+ratitoBR: calls 8890 and is all-in
+Uncalled bet (204) returned to leocir25
+*** SHOW DOWN ***
+leocir25: shows [Tc Ks] (three of a kind, Kings)
+ratitoBR: shows [Jc Qs] (two pair, Kings and Queens)
+leocir25 collected 32692 from pot
+ratitoBR finished the tournament
+*** SUMMARY ***
+Total pot 32692 | Rake 0 
+Board [5s Qc Kc Kh 3h]
+Seat 1: sanatamaria folded before Flop (didn't bet)
+Seat 2: PIUlimeira folded before Flop (didn't bet)
+Seat 3: giftmyra folded before Flop (didn't bet)
+Seat 4: vip_1985Z (button) folded before Flop (didn't bet)
+Seat 5: leocir25 (small blind) showed [Tc Ks] and won (32692) with three of a kind, Kings
+Seat 6: ratitoBR (big blind) showed [Jc Qs] and lost with two pair, Kings and Queens
+
+PokerStars Hand #251209676767: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:40:25 UTC [2024/06/26 18:40:25 ET]
+Table '3769361908 13' 6-max Seat #5 is the button
+Seat 1: sanatamaria (21655 in chips) 
+Seat 2: PIUlimeira (8550 in chips) 
+Seat 3: giftmyra (11599 in chips) 
+Seat 4: vip_1985Z (4544 in chips) 
+Seat 5: leocir25 (32896 in chips) 
+sanatamaria: posts the ante 200
+PIUlimeira: posts the ante 200
+giftmyra: posts the ante 200
+vip_1985Z: posts the ante 200
+leocir25: posts the ante 200
+sanatamaria: posts small blind 400
+PIUlimeira: posts big blind 800
+*** HOLE CARDS ***
+vavan199212 is disconnected 
+giftmyra: folds 
+vip_1985Z: raises 3544 to 4344 and is all-in
+leocir25: folds 
+sanatamaria: raises 3544 to 7888
+PIUlimeira: folds 
+Uncalled bet (3544) returned to sanatamaria
+*** FLOP *** [Kh Tc 2h]
+*** TURN *** [Kh Tc 2h] [8c]
+*** RIVER *** [Kh Tc 2h 8c] [5s]
+*** SHOW DOWN ***
+sanatamaria: shows [Kd Ks] (three of a kind, Kings)
+vip_1985Z: shows [As Qs] (high card Ace)
+sanatamaria collected 10488 from pot
+vip_1985Z finished the tournament
+*** SUMMARY ***
+Total pot 10488 | Rake 0 
+Board [Kh Tc 2h 8c 5s]
+Seat 1: sanatamaria (small blind) showed [Kd Ks] and won (10488) with three of a kind, Kings
+Seat 2: PIUlimeira (big blind) folded before Flop
+Seat 3: giftmyra folded before Flop (didn't bet)
+Seat 4: vip_1985Z showed [As Qs] and lost with high card Ace
+Seat 5: leocir25 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209687836: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:41:07 UTC [2024/06/26 18:41:07 ET]
+Table '3769361908 13' 6-max Seat #1 is the button
+Seat 1: sanatamaria (27599 in chips) 
+Seat 2: PIUlimeira (7550 in chips) 
+Seat 3: giftmyra (11399 in chips) 
+Seat 5: leocir25 (32696 in chips) 
+Seat 6: vavan199212 (10000 in chips) 
+sanatamaria: posts the ante 200
+PIUlimeira: posts the ante 200
+giftmyra: posts the ante 200
+leocir25: posts the ante 200
+vavan199212: posts the ante 200
+PIUlimeira: posts small blind 400
+giftmyra: posts big blind 800
+*** HOLE CARDS ***
+leocir25: raises 800 to 1600
+vavan199212: folds 
+sanatamaria: folds 
+PIUlimeira: folds 
+giftmyra: calls 800
+*** FLOP *** [Ad 8c Th]
+giftmyra: checks 
+leocir25: bets 1152
+giftmyra: raises 2278 to 3430
+leocir25: raises 22962 to 26392
+giftmyra: calls 6169 and is all-in
+Uncalled bet (16793) returned to leocir25
+*** TURN *** [Ad 8c Th] [5c]
+*** RIVER *** [Ad 8c Th 5c] [3s]
+*** SHOW DOWN ***
+giftmyra: shows [7c 9s] (high card Ace)
+leocir25: shows [Qh Qc] (a pair of Queens)
+leocir25 collected 23798 from pot
+giftmyra finished the tournament
+Gsmith13 is disconnected 
+*** SUMMARY ***
+Total pot 23798 | Rake 0 
+Board [Ad 8c Th 5c 3s]
+Seat 1: sanatamaria (button) folded before Flop (didn't bet)
+Seat 2: PIUlimeira (small blind) folded before Flop
+Seat 3: giftmyra (big blind) showed [7c 9s] and lost with high card Ace
+Seat 5: leocir25 showed [Qh Qc] and won (23798) with a pair of Queens
+Seat 6: vavan199212 folded before Flop (didn't bet)
+
+PokerStars Hand #251209702939: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:42:06 UTC [2024/06/26 18:42:06 ET]
+Table '3769361908 13' 6-max Seat #2 is the button
+Seat 1: sanatamaria (27399 in chips) 
+Seat 2: PIUlimeira (6950 in chips) 
+Seat 3: jessecesar (25205 in chips) out of hand (moved from another table into small blind)
+Seat 4: Gsmith13 (7650 in chips) out of hand (moved from another table into small blind)
+Seat 5: leocir25 (45095 in chips) 
+Seat 6: vavan199212 (9800 in chips) 
+jessecesar will be allowed to play after the button
+Gsmith13 will be allowed to play after the button
+sanatamaria: posts the ante 250
+PIUlimeira: posts the ante 250
+leocir25: posts the ante 250
+vavan199212: posts the ante 250
+leocir25: posts small blind 500
+vavan199212: posts big blind 1000
+*** HOLE CARDS ***
+sanatamaria: folds 
+PIUlimeira: raises 5700 to 6700 and is all-in
+leocir25: raises 5700 to 12400
+vavan199212: folds 
+Uncalled bet (5700) returned to leocir25
+*** FLOP *** [9h Ts 3d]
+*** TURN *** [9h Ts 3d] [Jh]
+*** RIVER *** [9h Ts 3d Jh] [7s]
+*** SHOW DOWN ***
+leocir25: shows [Kc Jd] (a pair of Jacks)
+PIUlimeira: shows [Kh 7d] (a pair of Sevens)
+leocir25 collected 15400 from pot
+PIUlimeira finished the tournament
+*** SUMMARY ***
+Total pot 15400 | Rake 0 
+Board [9h Ts 3d Jh 7s]
+Seat 1: sanatamaria folded before Flop (didn't bet)
+Seat 2: PIUlimeira (button) showed [Kh 7d] and lost with a pair of Sevens
+Seat 5: leocir25 (small blind) showed [Kc Jd] and won (15400) with a pair of Jacks
+Seat 6: vavan199212 (big blind) folded before Flop
+
+PokerStars Hand #251209709534: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:42:31 UTC [2024/06/26 18:42:31 ET]
+Table '3769361908 13' 6-max Seat #5 is the button
+Seat 1: sanatamaria (27149 in chips) 
+Seat 3: jessecesar (25205 in chips) 
+Seat 4: Gsmith13 (7650 in chips) 
+Seat 5: leocir25 (53545 in chips) 
+Seat 6: vavan199212 (8550 in chips) 
+sanatamaria: posts the ante 250
+jessecesar: posts the ante 250
+Gsmith13: posts the ante 250
+leocir25: posts the ante 250
+vavan199212: posts the ante 250
+vavan199212: posts small blind 500
+sanatamaria: posts big blind 1000
+*** HOLE CARDS ***
+jessecesar: folds 
+Gsmith13: raises 6400 to 7400 and is all-in
+tom6969222 is disconnected 
+leocir25: folds 
+vavan199212: folds 
+sanatamaria: calls 6400
+*** FLOP *** [4s 9d Qd]
+*** TURN *** [4s 9d Qd] [8c]
+*** RIVER *** [4s 9d Qd 8c] [Td]
+*** SHOW DOWN ***
+sanatamaria: shows [Th Kd] (a pair of Tens)
+Gsmith13: shows [Ks 7s] (high card King)
+sanatamaria collected 16550 from pot
+Gsmith13 finished the tournament
+*** SUMMARY ***
+Total pot 16550 | Rake 0 
+Board [4s 9d Qd 8c Td]
+Seat 1: sanatamaria (big blind) showed [Th Kd] and won (16550) with a pair of Tens
+Seat 3: jessecesar folded before Flop (didn't bet)
+Seat 4: Gsmith13 showed [Ks 7s] and lost with high card King
+Seat 5: leocir25 (button) folded before Flop (didn't bet)
+Seat 6: vavan199212 (small blind) folded before Flop
+
+PokerStars Hand #251209716783: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:42:59 UTC [2024/06/26 18:42:59 ET]
+Table '3769361908 13' 6-max Seat #6 is the button
+Seat 1: sanatamaria (36049 in chips) 
+Seat 2: tom6969222 (10000 in chips) 
+Seat 3: jessecesar (24955 in chips) 
+Seat 5: leocir25 (53295 in chips) 
+Seat 6: vavan199212 (7800 in chips) 
+sanatamaria: posts the ante 250
+tom6969222: posts the ante 250
+jessecesar: posts the ante 250
+leocir25: posts the ante 250
+vavan199212: posts the ante 250
+sanatamaria: posts small blind 500
+tom6969222: posts big blind 1000
+*** HOLE CARDS ***
+jessecesar: folds 
+leocir25: folds 
+vavan199212: folds 
+sanatamaria: folds 
+Uncalled bet (500) returned to tom6969222
+tom6969222 collected 2250 from pot
+tom6969222: doesn't show hand 
+*** SUMMARY ***
+Total pot 2250 | Rake 0 
+Seat 1: sanatamaria (small blind) folded before Flop
+Seat 2: tom6969222 (big blind) collected (2250)
+Seat 3: jessecesar folded before Flop (didn't bet)
+Seat 5: leocir25 folded before Flop (didn't bet)
+Seat 6: vavan199212 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209719026: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:43:08 UTC [2024/06/26 18:43:08 ET]
+Table '3769361908 13' 6-max Seat #1 is the button
+Seat 1: sanatamaria (35299 in chips) 
+Seat 2: tom6969222 (11500 in chips) 
+Seat 3: jessecesar (24705 in chips) 
+Seat 5: leocir25 (53045 in chips) 
+Seat 6: vavan199212 (7550 in chips) 
+sanatamaria: posts the ante 250
+tom6969222: posts the ante 250
+jessecesar: posts the ante 250
+leocir25: posts the ante 250
+vavan199212: posts the ante 250
+tom6969222: posts small blind 500
+jessecesar: posts big blind 1000
+*** HOLE CARDS ***
+leocir25: folds 
+vavan199212: folds 
+sanatamaria: folds 
+tom6969222: folds 
+Uncalled bet (500) returned to jessecesar
+jessecesar collected 2250 from pot
+jessecesar: doesn't show hand 
+*** SUMMARY ***
+Total pot 2250 | Rake 0 
+Seat 1: sanatamaria (button) folded before Flop (didn't bet)
+Seat 2: tom6969222 (small blind) folded before Flop
+Seat 3: jessecesar (big blind) collected (2250)
+Seat 5: leocir25 folded before Flop (didn't bet)
+Seat 6: vavan199212 folded before Flop (didn't bet)
+
+PokerStars Hand #251209721426: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:43:17 UTC [2024/06/26 18:43:17 ET]
+Table '3769361908 13' 6-max Seat #2 is the button
+Seat 1: sanatamaria (35049 in chips) 
+Seat 2: tom6969222 (10750 in chips) 
+Seat 3: jessecesar (26205 in chips) 
+Seat 5: leocir25 (52795 in chips) 
+Seat 6: vavan199212 (7300 in chips) 
+sanatamaria: posts the ante 250
+tom6969222: posts the ante 250
+jessecesar: posts the ante 250
+leocir25: posts the ante 250
+vavan199212: posts the ante 250
+jessecesar: posts small blind 500
+leocir25: posts big blind 1000
+*** HOLE CARDS ***
+vavan199212: raises 6050 to 7050 and is all-in
+sanatamaria: folds 
+tom6969222: folds 
+jessecesar: folds 
+leocir25: folds 
+Uncalled bet (6050) returned to vavan199212
+vavan199212 collected 3750 from pot
+vavan199212: doesn't show hand 
+*** SUMMARY ***
+Total pot 3750 | Rake 0 
+Seat 1: sanatamaria folded before Flop (didn't bet)
+Seat 2: tom6969222 (button) folded before Flop (didn't bet)
+Seat 3: jessecesar (small blind) folded before Flop
+Seat 5: leocir25 (big blind) folded before Flop
+Seat 6: vavan199212 collected (3750)
+
+PokerStars Hand #251209729286: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:43:48 UTC [2024/06/26 18:43:48 ET]
+Table '3769361908 13' 6-max Seat #3 is the button
+Seat 1: sanatamaria (34799 in chips) 
+Seat 2: tom6969222 (10500 in chips) 
+Seat 3: jessecesar (25455 in chips) 
+Seat 5: leocir25 (51545 in chips) 
+Seat 6: vavan199212 (9800 in chips) 
+sanatamaria: posts the ante 250
+tom6969222: posts the ante 250
+jessecesar: posts the ante 250
+leocir25: posts the ante 250
+vavan199212: posts the ante 250
+leocir25: posts small blind 500
+vavan199212: posts big blind 1000
+*** HOLE CARDS ***
+sanatamaria: folds 
+tom6969222: folds 
+jessecesar: folds 
+DarkSkies21 is disconnected 
+leocir25: calls 500
+vavan199212: checks 
+*** FLOP *** [Qc Ac 7d]
+leocir25: bets 2000
+vavan199212: folds 
+Uncalled bet (2000) returned to leocir25
+leocir25 collected 3250 from pot
+*** SUMMARY ***
+Total pot 3250 | Rake 0 
+Board [Qc Ac 7d]
+Seat 1: sanatamaria folded before Flop (didn't bet)
+Seat 2: tom6969222 folded before Flop (didn't bet)
+Seat 3: jessecesar (button) folded before Flop (didn't bet)
+Seat 5: leocir25 (small blind) collected (3250)
+Seat 6: vavan199212 (big blind) folded on the Flop
+
+PokerStars Hand #251209736012: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:44:14 UTC [2024/06/26 18:44:14 ET]
+Table '3769361908 13' 6-max Seat #5 is the button
+Seat 1: sanatamaria (34549 in chips) 
+Seat 2: tom6969222 (10250 in chips) 
+Seat 3: jessecesar (25205 in chips) 
+Seat 4: DarkSkies21 (26834 in chips) 
+Seat 5: leocir25 (53545 in chips) 
+Seat 6: vavan199212 (8550 in chips) 
+sanatamaria: posts the ante 300
+tom6969222: posts the ante 300
+jessecesar: posts the ante 300
+DarkSkies21: posts the ante 300
+leocir25: posts the ante 300
+vavan199212: posts the ante 300
+vavan199212: posts small blind 600
+sanatamaria: posts big blind 1200
+*** HOLE CARDS ***
+tom6969222: folds 
+jessecesar: folds 
+DarkSkies21: folds 
+leocir25: raises 1200 to 2400
+vavan199212: raises 5850 to 8250 and is all-in
+sanatamaria: folds 
+leocir25: calls 5850
+*** FLOP *** [Jh 6d Th]
+*** TURN *** [Jh 6d Th] [Ts]
+*** RIVER *** [Jh 6d Th Ts] [4s]
+*** SHOW DOWN ***
+vavan199212: shows [9c Ah] (a pair of Tens)
+leocir25: shows [Tc Js] (a full house, Tens full of Jacks)
+leocir25 collected 19500 from pot
+vavan199212 finished the tournament
+teamcucha10 is disconnected 
+*** SUMMARY ***
+Total pot 19500 | Rake 0 
+Board [Jh 6d Th Ts 4s]
+Seat 1: sanatamaria (big blind) folded before Flop
+Seat 2: tom6969222 folded before Flop (didn't bet)
+Seat 3: jessecesar folded before Flop (didn't bet)
+Seat 4: DarkSkies21 folded before Flop (didn't bet)
+Seat 5: leocir25 (button) showed [Tc Js] and won (19500) with a full house, Tens full of Jacks
+Seat 6: vavan199212 (small blind) showed [9c Ah] and lost with a pair of Tens
+
+PokerStars Hand #251209744139: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:44:46 UTC [2024/06/26 18:44:46 ET]
+Table '3769361908 13' 6-max Seat #1 is the button
+Seat 1: sanatamaria (33049 in chips) 
+Seat 2: tom6969222 (9950 in chips) 
+Seat 3: jessecesar (24905 in chips) 
+Seat 4: DarkSkies21 (26534 in chips) 
+Seat 5: leocir25 (64495 in chips) 
+Seat 6: teamcucha10 (29564 in chips) 
+sanatamaria: posts the ante 300
+tom6969222: posts the ante 300
+jessecesar: posts the ante 300
+DarkSkies21: posts the ante 300
+leocir25: posts the ante 300
+teamcucha10: posts the ante 300
+tom6969222: posts small blind 600
+jessecesar: posts big blind 1200
+*** HOLE CARDS ***
+DarkSkies21: folds 
+leocir25: folds 
+teamcucha10: folds 
+sanatamaria: folds 
+tom6969222: raises 8450 to 9650 and is all-in
+jessecesar: folds 
+Uncalled bet (8450) returned to tom6969222
+tom6969222 collected 4200 from pot
+tom6969222: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 1: sanatamaria (button) folded before Flop (didn't bet)
+Seat 2: tom6969222 (small blind) collected (4200)
+Seat 3: jessecesar (big blind) folded before Flop
+Seat 4: DarkSkies21 folded before Flop (didn't bet)
+Seat 5: leocir25 folded before Flop (didn't bet)
+Seat 6: teamcucha10 folded before Flop (didn't bet)
+
+PokerStars Hand #251209753367: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:45:22 UTC [2024/06/26 18:45:22 ET]
+Table '3769361908 13' 6-max Seat #2 is the button
+Seat 1: sanatamaria (32749 in chips) 
+Seat 2: tom6969222 (12650 in chips) 
+Seat 3: jessecesar (23405 in chips) 
+Seat 4: DarkSkies21 (26234 in chips) 
+Seat 5: leocir25 (64195 in chips) 
+Seat 6: teamcucha10 (29264 in chips) 
+sanatamaria: posts the ante 300
+tom6969222: posts the ante 300
+jessecesar: posts the ante 300
+DarkSkies21: posts the ante 300
+leocir25: posts the ante 300
+teamcucha10: posts the ante 300
+jessecesar: posts small blind 600
+DarkSkies21: posts big blind 1200
+*** HOLE CARDS ***
+leocir25: folds 
+teamcucha10: folds 
+sanatamaria: folds 
+tom6969222: raises 2400 to 3600
+jessecesar: folds 
+DarkSkies21: folds 
+Uncalled bet (2400) returned to tom6969222
+tom6969222 collected 4800 from pot
+tom6969222: doesn't show hand 
+*** SUMMARY ***
+Total pot 4800 | Rake 0 
+Seat 1: sanatamaria folded before Flop (didn't bet)
+Seat 2: tom6969222 (button) collected (4800)
+Seat 3: jessecesar (small blind) folded before Flop
+Seat 4: DarkSkies21 (big blind) folded before Flop
+Seat 5: leocir25 folded before Flop (didn't bet)
+Seat 6: teamcucha10 folded before Flop (didn't bet)
+
+PokerStars Hand #251209762270: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:45:56 UTC [2024/06/26 18:45:56 ET]
+Table '3769361908 13' 6-max Seat #3 is the button
+Seat 1: sanatamaria (32449 in chips) 
+Seat 2: tom6969222 (15950 in chips) 
+Seat 3: jessecesar (22505 in chips) 
+Seat 4: DarkSkies21 (24734 in chips) 
+Seat 5: leocir25 (63895 in chips) 
+Seat 6: teamcucha10 (28964 in chips) 
+sanatamaria: posts the ante 300
+tom6969222: posts the ante 300
+jessecesar: posts the ante 300
+DarkSkies21: posts the ante 300
+leocir25: posts the ante 300
+teamcucha10: posts the ante 300
+DarkSkies21: posts small blind 600
+leocir25: posts big blind 1200
+*** HOLE CARDS ***
+teamcucha10: folds 
+sanatamaria: folds 
+tom6969222: raises 2400 to 3600
+jessecesar: folds 
+DarkSkies21: folds 
+leocir25: folds 
+Uncalled bet (2400) returned to tom6969222
+tom6969222 collected 4800 from pot
+tom6969222: doesn't show hand 
+*** SUMMARY ***
+Total pot 4800 | Rake 0 
+Seat 1: sanatamaria folded before Flop (didn't bet)
+Seat 2: tom6969222 collected (4800)
+Seat 3: jessecesar (button) folded before Flop (didn't bet)
+Seat 4: DarkSkies21 (small blind) folded before Flop
+Seat 5: leocir25 (big blind) folded before Flop
+Seat 6: teamcucha10 folded before Flop (didn't bet)
+
+PokerStars Hand #251209770409: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:46:28 UTC [2024/06/26 18:46:28 ET]
+Table '3769361908 13' 6-max Seat #4 is the button
+Seat 1: sanatamaria (32149 in chips) 
+Seat 2: tom6969222 (19250 in chips) 
+Seat 3: jessecesar (22205 in chips) 
+Seat 4: DarkSkies21 (23834 in chips) 
+Seat 5: leocir25 (62395 in chips) 
+Seat 6: teamcucha10 (28664 in chips) 
+sanatamaria: posts the ante 300
+tom6969222: posts the ante 300
+jessecesar: posts the ante 300
+DarkSkies21: posts the ante 300
+leocir25: posts the ante 300
+teamcucha10: posts the ante 300
+leocir25: posts small blind 600
+teamcucha10: posts big blind 1200
+*** HOLE CARDS ***
+sanatamaria: folds 
+tom6969222: folds 
+jessecesar: folds 
+DarkSkies21: folds 
+leocir25: calls 600
+teamcucha10: checks 
+*** FLOP *** [8s 9d 3c]
+leocir25: checks 
+teamcucha10: bets 1200
+leocir25: calls 1200
+*** TURN *** [8s 9d 3c] [5h]
+leocir25: checks 
+teamcucha10: bets 3600
+leocir25: calls 3600
+*** RIVER *** [8s 9d 3c 5h] [4h]
+leocir25: checks 
+teamcucha10: bets 11550
+leocir25: folds 
+Uncalled bet (11550) returned to teamcucha10
+teamcucha10 collected 13800 from pot
+teamcucha10: doesn't show hand 
+*** SUMMARY ***
+Total pot 13800 | Rake 0 
+Board [8s 9d 3c 5h 4h]
+Seat 1: sanatamaria folded before Flop (didn't bet)
+Seat 2: tom6969222 folded before Flop (didn't bet)
+Seat 3: jessecesar folded before Flop (didn't bet)
+Seat 4: DarkSkies21 (button) folded before Flop (didn't bet)
+Seat 5: leocir25 (small blind) folded on the River
+Seat 6: teamcucha10 (big blind) collected (13800)
+
+PokerStars Hand #251209801230: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:48:29 UTC [2024/06/26 18:48:29 ET]
+Table '3769361908 13' 6-max Seat #5 is the button
+Seat 1: sanatamaria (31849 in chips) 
+Seat 2: tom6969222 (18950 in chips) 
+Seat 3: jessecesar (21905 in chips) 
+Seat 4: DarkSkies21 (23534 in chips) 
+Seat 5: leocir25 (56095 in chips) 
+Seat 6: teamcucha10 (36164 in chips) 
+sanatamaria: posts the ante 400
+tom6969222: posts the ante 400
+jessecesar: posts the ante 400
+DarkSkies21: posts the ante 400
+leocir25: posts the ante 400
+teamcucha10: posts the ante 400
+teamcucha10: posts small blind 800
+sanatamaria: posts big blind 1600
+*** HOLE CARDS ***
+tom6969222: folds 
+jessecesar: folds 
+DarkSkies21: folds 
+leocir25: raises 1600 to 3200
+teamcucha10: folds 
+sanatamaria: folds 
+Uncalled bet (1600) returned to leocir25
+leocir25 collected 6400 from pot
+*** SUMMARY ***
+Total pot 6400 | Rake 0 
+Seat 1: sanatamaria (big blind) folded before Flop
+Seat 2: tom6969222 folded before Flop (didn't bet)
+Seat 3: jessecesar folded before Flop (didn't bet)
+Seat 4: DarkSkies21 folded before Flop (didn't bet)
+Seat 5: leocir25 (button) collected (6400)
+Seat 6: teamcucha10 (small blind) folded before Flop
+
+PokerStars Hand #251209814161: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:49:21 UTC [2024/06/26 18:49:21 ET]
+Table '3769361908 13' 6-max Seat #6 is the button
+Seat 1: sanatamaria (29849 in chips) 
+Seat 2: tom6969222 (18550 in chips) 
+Seat 3: jessecesar (21505 in chips) 
+Seat 4: DarkSkies21 (23134 in chips) 
+Seat 5: leocir25 (60495 in chips) 
+Seat 6: teamcucha10 (34964 in chips) 
+sanatamaria: posts the ante 400
+tom6969222: posts the ante 400
+jessecesar: posts the ante 400
+DarkSkies21: posts the ante 400
+leocir25: posts the ante 400
+teamcucha10: posts the ante 400
+sanatamaria: posts small blind 800
+tom6969222: posts big blind 1600
+*** HOLE CARDS ***
+jessecesar: folds 
+DarkSkies21: folds 
+leocir25: folds 
+teamcucha10: raises 32964 to 34564 and is all-in
+sanatamaria: folds 
+tom6969222: calls 16550 and is all-in
+Uncalled bet (16414) returned to teamcucha10
+*** FLOP *** [3c 5s As]
+*** TURN *** [3c 5s As] [7h]
+*** RIVER *** [3c 5s As 7h] [6s]
+*** SHOW DOWN ***
+tom6969222: shows [Kc Tc] (high card Ace)
+teamcucha10: shows [Qc Kd] (high card Ace - King+Queen kicker)
+teamcucha10 collected 39500 from pot
+tom6969222 finished the tournament in 111th place
+*** SUMMARY ***
+Total pot 39500 | Rake 0 
+Board [3c 5s As 7h 6s]
+Seat 1: sanatamaria (small blind) folded before Flop
+Seat 2: tom6969222 (big blind) showed [Kc Tc] and lost with high card Ace
+Seat 3: jessecesar folded before Flop (didn't bet)
+Seat 4: DarkSkies21 folded before Flop (didn't bet)
+Seat 5: leocir25 folded before Flop (didn't bet)
+Seat 6: teamcucha10 (button) showed [Qc Kd] and won (39500) with high card Ace
+
+PokerStars Hand #251209824371: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:50:02 UTC [2024/06/26 18:50:02 ET]
+Table '3769361908 13' 6-max Seat #1 is the button
+Seat 1: sanatamaria (28649 in chips) 
+Seat 3: jessecesar (21105 in chips) 
+Seat 4: DarkSkies21 (22734 in chips) 
+Seat 5: leocir25 (60095 in chips) 
+Seat 6: teamcucha10 (55914 in chips) 
+sanatamaria: posts the ante 400
+jessecesar: posts the ante 400
+DarkSkies21: posts the ante 400
+leocir25: posts the ante 400
+teamcucha10: posts the ante 400
+jessecesar: posts small blind 800
+DarkSkies21: posts big blind 1600
+*** HOLE CARDS ***
+leocir25: folds 
+teamcucha10: raises 1760 to 3360
+sanatamaria: folds 
+jessecesar: folds 
+MezuuÜuuT is disconnected 
+DarkSkies21: raises 18974 to 22334 and is all-in
+teamcucha10: calls 18974
+*** FLOP *** [8s 5c 8h]
+*** TURN *** [8s 5c 8h] [Td]
+*** RIVER *** [8s 5c 8h Td] [3s]
+*** SHOW DOWN ***
+DarkSkies21: shows [6c 6h] (two pair, Eights and Sixes)
+teamcucha10: shows [Th Tc] (a full house, Tens full of Eights)
+teamcucha10 collected 47468 from pot
+DarkSkies21 finished the tournament in 108th place
+*** SUMMARY ***
+Total pot 47468 | Rake 0 
+Board [8s 5c 8h Td 3s]
+Seat 1: sanatamaria (button) folded before Flop (didn't bet)
+Seat 3: jessecesar (small blind) folded before Flop
+Seat 4: DarkSkies21 (big blind) showed [6c 6h] and lost with two pair, Eights and Sixes
+Seat 5: leocir25 folded before Flop (didn't bet)
+Seat 6: teamcucha10 showed [Th Tc] and won (47468) with a full house, Tens full of Eights
+
+PokerStars Hand #251209833374: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:50:39 UTC [2024/06/26 18:50:39 ET]
+Table '3769361908 13' 6-max Seat #3 is the button
+Seat 1: sanatamaria (28249 in chips) 
+Seat 2: MezuuÜuuT (12800 in chips) 
+Seat 3: jessecesar (19905 in chips) 
+Seat 5: leocir25 (59695 in chips) 
+Seat 6: teamcucha10 (80648 in chips) 
+sanatamaria: posts the ante 500
+MezuuÜuuT: posts the ante 500
+jessecesar: posts the ante 500
+leocir25: posts the ante 500
+teamcucha10: posts the ante 500
+leocir25: posts small blind 1000
+teamcucha10: posts big blind 2000
+*** HOLE CARDS ***
+sanatamaria: folds 
+MezuuÜuuT: raises 10300 to 12300 and is all-in
+jessecesar: folds 
+leocir25: folds 
+teamcucha10: folds 
+Uncalled bet (10300) returned to MezuuÜuuT
+MezuuÜuuT collected 7500 from pot
+MezuuÜuuT: doesn't show hand 
+*** SUMMARY ***
+Total pot 7500 | Rake 0 
+Seat 1: sanatamaria folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT collected (7500)
+Seat 3: jessecesar (button) folded before Flop (didn't bet)
+Seat 5: leocir25 (small blind) folded before Flop
+Seat 6: teamcucha10 (big blind) folded before Flop
+
+PokerStars Hand #251209843086: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:51:19 UTC [2024/06/26 18:51:19 ET]
+Table '3769361908 13' 6-max Seat #5 is the button
+Seat 1: sanatamaria (27749 in chips) 
+Seat 2: MezuuÜuuT (17800 in chips) 
+Seat 3: jessecesar (19405 in chips) 
+Seat 5: leocir25 (58195 in chips) 
+Seat 6: teamcucha10 (78148 in chips) 
+sanatamaria: posts the ante 500
+MezuuÜuuT: posts the ante 500
+jessecesar: posts the ante 500
+leocir25: posts the ante 500
+teamcucha10: posts the ante 500
+teamcucha10: posts small blind 1000
+sanatamaria: posts big blind 2000
+*** HOLE CARDS ***
+Muringa.SP is disconnected 
+MezuuÜuuT: folds 
+jessecesar: raises 16905 to 18905 and is all-in
+leocir25: folds 
+teamcucha10: folds 
+sanatamaria: folds 
+Uncalled bet (16905) returned to jessecesar
+jessecesar collected 7500 from pot
+jessecesar: doesn't show hand 
+*** SUMMARY ***
+Total pot 7500 | Rake 0 
+Seat 1: sanatamaria (big blind) folded before Flop
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: jessecesar collected (7500)
+Seat 5: leocir25 (button) folded before Flop (didn't bet)
+Seat 6: teamcucha10 (small blind) folded before Flop
+
+PokerStars Hand #251209850260: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:51:48 UTC [2024/06/26 18:51:48 ET]
+Table '3769361908 13' 6-max Seat #6 is the button
+Seat 1: sanatamaria (25249 in chips) 
+Seat 2: MezuuÜuuT (17300 in chips) 
+Seat 3: jessecesar (24405 in chips) 
+Seat 4: Muringa.SP (21875 in chips) 
+Seat 5: leocir25 (57695 in chips) 
+Seat 6: teamcucha10 (76648 in chips) 
+sanatamaria: posts the ante 500
+MezuuÜuuT: posts the ante 500
+jessecesar: posts the ante 500
+Muringa.SP: posts the ante 500
+leocir25: posts the ante 500
+teamcucha10: posts the ante 500
+sanatamaria: posts small blind 1000
+MezuuÜuuT: posts big blind 2000
+*** HOLE CARDS ***
+jessecesar: folds 
+Muringa.SP: folds 
+leocir25: raises 2000 to 4000
+teamcucha10: folds 
+sanatamaria: folds 
+MezuuÜuuT: calls 2000
+*** FLOP *** [Td 9h Th]
+MezuuÜuuT: bets 12800 and is all-in
+leocir25: calls 12800
+*** TURN *** [Td 9h Th] [2s]
+*** RIVER *** [Td 9h Th 2s] [4d]
+*** SHOW DOWN ***
+MezuuÜuuT: shows [7d Jh] (a pair of Tens)
+leocir25: shows [6d Ad] (a pair of Tens - Ace kicker)
+leocir25 collected 37600 from pot
+MezuuÜuuT finished the tournament in 95th place
+*** SUMMARY ***
+Total pot 37600 | Rake 0 
+Board [Td 9h Th 2s 4d]
+Seat 1: sanatamaria (small blind) folded before Flop
+Seat 2: MezuuÜuuT (big blind) showed [7d Jh] and lost with a pair of Tens
+Seat 3: jessecesar folded before Flop (didn't bet)
+Seat 4: Muringa.SP folded before Flop (didn't bet)
+Seat 5: leocir25 showed [6d Ad] and won (37600) with a pair of Tens
+Seat 6: teamcucha10 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209859743: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:52:27 UTC [2024/06/26 18:52:27 ET]
+Table '3769361908 13' 6-max Seat #1 is the button
+Seat 1: sanatamaria (23749 in chips) 
+Seat 3: jessecesar (23905 in chips) 
+Seat 4: Muringa.SP (21375 in chips) 
+Seat 5: leocir25 (77995 in chips) 
+Seat 6: teamcucha10 (76148 in chips) 
+sanatamaria: posts the ante 500
+jessecesar: posts the ante 500
+Muringa.SP: posts the ante 500
+leocir25: posts the ante 500
+teamcucha10: posts the ante 500
+jessecesar: posts small blind 1000
+Muringa.SP: posts big blind 2000
+*** HOLE CARDS ***
+leocir25: raises 2000 to 4000
+teamcucha10: folds 
+podiiii is disconnected 
+sanatamaria: folds 
+jessecesar: folds 
+Muringa.SP: calls 2000
+*** FLOP *** [7d 2c 4h]
+Muringa.SP: checks 
+leocir25: checks 
+*** TURN *** [7d 2c 4h] [Ac]
+Muringa.SP: checks 
+leocir25: checks 
+*** RIVER *** [7d 2c 4h Ac] [Jd]
+Muringa.SP: checks 
+leocir25: checks 
+*** SHOW DOWN ***
+Muringa.SP: shows [9s Qh] (high card Ace)
+leocir25: shows [3s 3h] (a pair of Threes)
+leocir25 collected 11500 from pot
+*** SUMMARY ***
+Total pot 11500 | Rake 0 
+Board [7d 2c 4h Ac Jd]
+Seat 1: sanatamaria (button) folded before Flop (didn't bet)
+Seat 3: jessecesar (small blind) folded before Flop
+Seat 4: Muringa.SP (big blind) showed [9s Qh] and lost with high card Ace
+Seat 5: leocir25 showed [3s 3h] and won (11500) with a pair of Threes
+Seat 6: teamcucha10 folded before Flop (didn't bet)
+
+PokerStars Hand #251209873515: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/26 22:53:23 UTC [2024/06/26 18:53:23 ET]
+Table '3769361908 13' 6-max Seat #3 is the button
+Seat 1: sanatamaria (23249 in chips) 
+Seat 2: podiiii (29236 in chips) 
+Seat 3: jessecesar (22405 in chips) 
+Seat 4: Muringa.SP (16875 in chips) 
+Seat 5: leocir25 (84995 in chips) 
+Seat 6: teamcucha10 (75648 in chips) 
+sanatamaria: posts the ante 600
+podiiii: posts the ante 600
+jessecesar: posts the ante 600
+Muringa.SP: posts the ante 600
+leocir25: posts the ante 600
+teamcucha10: posts the ante 600
+Muringa.SP: posts small blind 1200
+leocir25: posts big blind 2400
+*** HOLE CARDS ***
+teamcucha10: folds 
+sanatamaria: folds 
+podiiii: folds 
+jessecesar: folds 
+Muringa.SP: raises 13875 to 16275 and is all-in
+leocir25: calls 13875
+*** FLOP *** [8d Qs Td]
+*** TURN *** [8d Qs Td] [8h]
+*** RIVER *** [8d Qs Td 8h] [3d]
+*** SHOW DOWN ***
+Muringa.SP: shows [4s Ts] (two pair, Tens and Eights)
+leocir25: shows [Qh 9s] (two pair, Queens and Eights)
+leocir25 collected 36150 from pot
+Muringa.SP finished the tournament in 85th place
+*** SUMMARY ***
+Total pot 36150 | Rake 0 
+Board [8d Qs Td 8h 3d]
+Seat 1: sanatamaria folded before Flop (didn't bet)
+Seat 2: podiiii folded before Flop (didn't bet)
+Seat 3: jessecesar (button) folded before Flop (didn't bet)
+Seat 4: Muringa.SP (small blind) showed [4s Ts] and lost with two pair, Tens and Eights
+Seat 5: leocir25 (big blind) showed [Qh 9s] and won (36150) with two pair, Queens and Eights
+Seat 6: teamcucha10 folded before Flop (didn't bet)

@@ -1,0 +1,2067 @@
+PokerStars Hand #251205614352: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:07:37 UTC [2024/06/26 15:07:37 ET]
+Table '3767885527 96' 8-max Seat #1 is the button
+Seat 1: MKL1010 (37531 in chips) 
+Seat 2: DontCryClumsy88 (24246 in chips) 
+Seat 3: Eux1986 (89833 in chips) 
+Seat 4: moratto1992 (28490 in chips) 
+Seat 5: 4fast2u (33091 in chips) 
+Seat 6: Dizzydarts (24186 in chips) 
+Seat 7: ivan limeira (52552 in chips) 
+Seat 8: Mike.fontova (10582 in chips) 
+MKL1010: posts the ante 150
+DontCryClumsy88: posts the ante 150
+Eux1986: posts the ante 150
+moratto1992: posts the ante 150
+4fast2u: posts the ante 150
+Dizzydarts: posts the ante 150
+ivan limeira: posts the ante 150
+Mike.fontova: posts the ante 150
+DontCryClumsy88: posts small blind 600
+Eux1986: posts big blind 1200
+*** HOLE CARDS ***
+moratto1992: raises 1200 to 2400
+4fast2u: folds 
+Dizzydarts: folds 
+ivan limeira: folds 
+Mike.fontova: calls 2400
+MKL1010: folds 
+DontCryClumsy88: calls 1800
+Eux1986: calls 1200
+*** FLOP *** [2h Kh 8s]
+DontCryClumsy88: checks 
+Eux1986: checks 
+moratto1992: checks 
+Mike.fontova: bets 8032 and is all-in
+DontCryClumsy88: raises 13664 to 21696 and is all-in
+Eux1986: folds 
+moratto1992: folds 
+Uncalled bet (13664) returned to DontCryClumsy88
+*** TURN *** [2h Kh 8s] [Td]
+*** RIVER *** [2h Kh 8s Td] [8d]
+*** SHOW DOWN ***
+DontCryClumsy88: shows [Kd Jc] (two pair, Kings and Eights)
+Mike.fontova: shows [Js Jd] (two pair, Jacks and Eights)
+DontCryClumsy88 collected 26864 from pot
+Mike.fontova finished the tournament
+*** SUMMARY ***
+Total pot 26864 | Rake 0 
+Board [2h Kh 8s Td 8d]
+Seat 1: MKL1010 (button) folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 (small blind) showed [Kd Jc] and won (26864) with two pair, Kings and Eights
+Seat 3: Eux1986 (big blind) folded on the Flop
+Seat 4: moratto1992 folded on the Flop
+Seat 5: 4fast2u folded before Flop (didn't bet)
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: Mike.fontova showed [Js Jd] and lost with two pair, Jacks and Eights
+
+PokerStars Hand #251205627968: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:08:29 UTC [2024/06/26 15:08:29 ET]
+Table '3767885527 96' 8-max Seat #2 is the button
+Seat 1: MKL1010 (37381 in chips) 
+Seat 2: DontCryClumsy88 (40528 in chips) 
+Seat 3: Eux1986 (87283 in chips) 
+Seat 4: moratto1992 (25940 in chips) 
+Seat 5: 4fast2u (32941 in chips) 
+Seat 6: Dizzydarts (24036 in chips) 
+Seat 7: ivan limeira (52402 in chips) 
+MKL1010: posts the ante 150
+DontCryClumsy88: posts the ante 150
+Eux1986: posts the ante 150
+moratto1992: posts the ante 150
+4fast2u: posts the ante 150
+Dizzydarts: posts the ante 150
+ivan limeira: posts the ante 150
+Eux1986: posts small blind 600
+moratto1992: posts big blind 1200
+*** HOLE CARDS ***
+4fast2u: folds 
+Dizzydarts: folds 
+ivan limeira: folds 
+MKL1010: raises 1200 to 2400
+DontCryClumsy88: calls 2400
+Eux1986: folds 
+moratto1992: raises 23390 to 25790 and is all-in
+MKL1010: folds 
+DontCryClumsy88: folds 
+Uncalled bet (23390) returned to moratto1992
+moratto1992 collected 8850 from pot
+moratto1992: doesn't show hand 
+*** SUMMARY ***
+Total pot 8850 | Rake 0 
+Seat 1: MKL1010 folded before Flop
+Seat 2: DontCryClumsy88 (button) folded before Flop
+Seat 3: Eux1986 (small blind) folded before Flop
+Seat 4: moratto1992 (big blind) collected (8850)
+Seat 5: 4fast2u folded before Flop (didn't bet)
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira folded before Flop (didn't bet)
+
+PokerStars Hand #251205637815: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:09:06 UTC [2024/06/26 15:09:06 ET]
+Table '3767885527 96' 8-max Seat #3 is the button
+Seat 1: MKL1010 (34831 in chips) 
+Seat 2: DontCryClumsy88 (37978 in chips) 
+Seat 3: Eux1986 (86533 in chips) 
+Seat 4: moratto1992 (32240 in chips) 
+Seat 5: 4fast2u (32791 in chips) 
+Seat 6: Dizzydarts (23886 in chips) 
+Seat 7: ivan limeira (52252 in chips) 
+MKL1010: posts the ante 150
+DontCryClumsy88: posts the ante 150
+Eux1986: posts the ante 150
+moratto1992: posts the ante 150
+4fast2u: posts the ante 150
+Dizzydarts: posts the ante 150
+ivan limeira: posts the ante 150
+moratto1992: posts small blind 600
+4fast2u: posts big blind 1200
+*** HOLE CARDS ***
+Dizzydarts: folds 
+ivan limeira: folds 
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: folds 
+moratto1992: calls 600
+DontCryClumsy88 is disconnected 
+4fast2u: checks 
+*** FLOP *** [6d 9s Kh]
+moratto1992: checks 
+DontCryClumsy88 is disconnected 
+4fast2u: checks 
+*** TURN *** [6d 9s Kh] [6c]
+moratto1992: bets 1200
+4fast2u: calls 1200
+*** RIVER *** [6d 9s Kh 6c] [6h]
+moratto1992: bets 1200
+4fast2u: calls 1200
+*** SHOW DOWN ***
+moratto1992: shows [2s 2c] (a full house, Sixes full of Deuces)
+4fast2u: mucks hand 
+moratto1992 collected 8250 from pot
+*** SUMMARY ***
+Total pot 8250 | Rake 0 
+Board [6d 9s Kh 6c 6h]
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 (button) folded before Flop (didn't bet)
+Seat 4: moratto1992 (small blind) showed [2s 2c] and won (8250) with a full house, Sixes full of Deuces
+Seat 5: 4fast2u (big blind) mucked
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira folded before Flop (didn't bet)
+
+PokerStars Hand #251205649992: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:09:51 UTC [2024/06/26 15:09:51 ET]
+Table '3767885527 96' 8-max Seat #4 is the button
+Seat 1: MKL1010 (34681 in chips) 
+Seat 2: DontCryClumsy88 (37828 in chips) 
+Seat 3: Eux1986 (86383 in chips) 
+Seat 4: moratto1992 (36740 in chips) 
+Seat 5: 4fast2u (29041 in chips) 
+Seat 6: Dizzydarts (23736 in chips) 
+Seat 7: ivan limeira (52102 in chips) 
+MKL1010: posts the ante 175
+DontCryClumsy88: posts the ante 175
+Eux1986: posts the ante 175
+moratto1992: posts the ante 175
+4fast2u: posts the ante 175
+Dizzydarts: posts the ante 175
+ivan limeira: posts the ante 175
+4fast2u: posts small blind 700
+Dizzydarts: posts big blind 1400
+*** HOLE CARDS ***
+ivan limeira: folds 
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: raises 2800 to 4200
+moratto1992: folds 
+4fast2u: raises 8225 to 12425
+Dizzydarts: folds 
+Eux1986: raises 73783 to 86208 and is all-in
+4fast2u: calls 16441 and is all-in
+Uncalled bet (57342) returned to Eux1986
+*** FLOP *** [Ts 6h Qs]
+*** TURN *** [Ts 6h Qs] [4d]
+*** RIVER *** [Ts 6h Qs 4d] [6s]
+*** SHOW DOWN ***
+4fast2u: shows [As Ah] (two pair, Aces and Sixes)
+Eux1986: shows [4c 4h] (a full house, Fours full of Sixes)
+Eux1986 collected 60357 from pot
+4fast2u finished the tournament
+*** SUMMARY ***
+Total pot 60357 | Rake 0 
+Board [Ts 6h Qs 4d 6s]
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 showed [4c 4h] and won (60357) with a full house, Fours full of Sixes
+Seat 4: moratto1992 (button) folded before Flop (didn't bet)
+Seat 5: 4fast2u (small blind) showed [As Ah] and lost with two pair, Aces and Sixes
+Seat 6: Dizzydarts (big blind) folded before Flop
+Seat 7: ivan limeira folded before Flop (didn't bet)
+
+PokerStars Hand #251205661495: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:10:34 UTC [2024/06/26 15:10:34 ET]
+Table '3767885527 96' 8-max Seat #6 is the button
+Seat 1: MKL1010 (34506 in chips) 
+Seat 2: DontCryClumsy88 (37653 in chips) 
+Seat 3: Eux1986 (117699 in chips) 
+Seat 4: moratto1992 (36565 in chips) 
+Seat 6: Dizzydarts (22161 in chips) 
+Seat 7: ivan limeira (51927 in chips) 
+Seat 8: diabo656 (78175 in chips) 
+MKL1010: posts the ante 175
+DontCryClumsy88: posts the ante 175
+Eux1986: posts the ante 175
+moratto1992: posts the ante 175
+Dizzydarts: posts the ante 175
+ivan limeira: posts the ante 175
+diabo656: posts the ante 175
+ivan limeira: posts small blind 700
+diabo656: posts big blind 1400
+*** HOLE CARDS ***
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: folds 
+moratto1992: folds 
+Dizzydarts: raises 1400 to 2800
+ivan limeira: folds 
+diabo656 has timed out
+diabo656: folds 
+diabo656 is sitting out
+Uncalled bet (1400) returned to Dizzydarts
+Dizzydarts collected 4725 from pot
+Dizzydarts: doesn't show hand 
+*** SUMMARY ***
+Total pot 4725 | Rake 0 
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: moratto1992 folded before Flop (didn't bet)
+Seat 6: Dizzydarts (button) collected (4725)
+Seat 7: ivan limeira (small blind) folded before Flop
+Seat 8: diabo656 (big blind) folded before Flop
+
+PokerStars Hand #251205669658: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:11:04 UTC [2024/06/26 15:11:04 ET]
+Table '3767885527 96' 8-max Seat #7 is the button
+Seat 1: MKL1010 (34331 in chips) 
+Seat 2: DontCryClumsy88 (37478 in chips) 
+Seat 3: Eux1986 (117524 in chips) 
+Seat 4: moratto1992 (36390 in chips) 
+Seat 6: Dizzydarts (25311 in chips) 
+Seat 7: ivan limeira (51052 in chips) 
+Seat 8: diabo656 (76600 in chips) is sitting out
+MKL1010: posts the ante 175
+DontCryClumsy88: posts the ante 175
+Eux1986: posts the ante 175
+moratto1992: posts the ante 175
+Dizzydarts: posts the ante 175
+ivan limeira: posts the ante 175
+diabo656: posts the ante 175
+diabo656: posts small blind 700
+MKL1010: posts big blind 1400
+*** HOLE CARDS ***
+DontCryClumsy88: folds 
+Eux1986: folds 
+moratto1992: folds 
+Dizzydarts: calls 1400
+ivan limeira: folds 
+diabo656: folds 
+MKL1010: checks 
+*** FLOP *** [Ah 8s 9h]
+diabo656 has returned
+MKL1010: checks 
+Dizzydarts: bets 2363
+MKL1010: folds 
+Uncalled bet (2363) returned to Dizzydarts
+Dizzydarts collected 4725 from pot
+Dizzydarts: doesn't show hand 
+*** SUMMARY ***
+Total pot 4725 | Rake 0 
+Board [Ah 8s 9h]
+Seat 1: MKL1010 (big blind) folded on the Flop
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: moratto1992 folded before Flop (didn't bet)
+Seat 6: Dizzydarts collected (4725)
+Seat 7: ivan limeira (button) folded before Flop (didn't bet)
+Seat 8: diabo656 (small blind) folded before Flop
+
+PokerStars Hand #251205677346: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:11:33 UTC [2024/06/26 15:11:33 ET]
+Table '3767885527 96' 8-max Seat #8 is the button
+Seat 1: MKL1010 (32756 in chips) 
+Seat 2: DontCryClumsy88 (37303 in chips) 
+Seat 3: Eux1986 (117349 in chips) 
+Seat 4: moratto1992 (36215 in chips) 
+Seat 6: Dizzydarts (28461 in chips) 
+Seat 7: ivan limeira (50877 in chips) 
+Seat 8: diabo656 (75725 in chips) 
+MKL1010: posts the ante 175
+DontCryClumsy88: posts the ante 175
+Eux1986: posts the ante 175
+moratto1992: posts the ante 175
+Dizzydarts: posts the ante 175
+ivan limeira: posts the ante 175
+diabo656: posts the ante 175
+MKL1010: posts small blind 700
+DontCryClumsy88: posts big blind 1400
+*** HOLE CARDS ***
+Eux1986: folds 
+moratto1992: raises 1400 to 2800
+Dizzydarts: folds 
+ivan limeira: raises 4900 to 7700
+diabo656 has timed out
+diabo656: folds 
+diabo656 is sitting out
+diabo656 has returned
+MKL1010: folds 
+DontCryClumsy88: folds 
+moratto1992: calls 4900
+*** FLOP *** [As 5d 6c]
+moratto1992: checks 
+ivan limeira: bets 4200
+UnterMauern is disconnected 
+moratto1992: folds 
+Uncalled bet (4200) returned to ivan limeira
+ivan limeira collected 18725 from pot
+ivan limeira: doesn't show hand 
+*** SUMMARY ***
+Total pot 18725 | Rake 0 
+Board [As 5d 6c]
+Seat 1: MKL1010 (small blind) folded before Flop
+Seat 2: DontCryClumsy88 (big blind) folded before Flop
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: moratto1992 folded on the Flop
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira collected (18725)
+Seat 8: diabo656 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205698735: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:12:52 UTC [2024/06/26 15:12:52 ET]
+Table '3767885527 96' 8-max Seat #1 is the button
+Seat 1: MKL1010 (31881 in chips) 
+Seat 2: DontCryClumsy88 (35728 in chips) 
+Seat 3: Eux1986 (117174 in chips) 
+Seat 4: moratto1992 (28340 in chips) 
+Seat 5: UnterMauern (25000 in chips) 
+Seat 6: Dizzydarts (28286 in chips) 
+Seat 7: ivan limeira (61727 in chips) 
+Seat 8: diabo656 (75550 in chips) 
+MKL1010: posts the ante 175
+DontCryClumsy88: posts the ante 175
+Eux1986: posts the ante 175
+moratto1992: posts the ante 175
+UnterMauern: posts the ante 175
+Dizzydarts: posts the ante 175
+ivan limeira: posts the ante 175
+diabo656: posts the ante 175
+DontCryClumsy88: posts small blind 700
+Eux1986: posts big blind 1400
+*** HOLE CARDS ***
+moratto1992: folds 
+UnterMauern: folds 
+Dizzydarts: raises 1400 to 2800
+ivan limeira: folds 
+diabo656: folds 
+MKL1010: folds 
+DontCryClumsy88: calls 2100
+Eux1986: calls 1400
+*** FLOP *** [Ks As 9d]
+DontCryClumsy88: checks 
+Eux1986: bets 1400
+Dizzydarts: calls 1400
+DontCryClumsy88: calls 1400
+*** TURN *** [Ks As 9d] [4d]
+DontCryClumsy88: checks 
+Eux1986: checks 
+Dizzydarts: bets 2100
+DontCryClumsy88: calls 2100
+Eux1986: folds 
+*** RIVER *** [Ks As 9d 4d] [Tc]
+DontCryClumsy88: checks 
+Dizzydarts: checks 
+*** SHOW DOWN ***
+DontCryClumsy88: shows [8d Ad] (a pair of Aces)
+Dizzydarts: mucks hand 
+DontCryClumsy88 collected 18200 from pot
+*** SUMMARY ***
+Total pot 18200 | Rake 0 
+Board [Ks As 9d 4d Tc]
+Seat 1: MKL1010 (button) folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 (small blind) showed [8d Ad] and won (18200) with a pair of Aces
+Seat 3: Eux1986 (big blind) folded on the Turn
+Seat 4: moratto1992 folded before Flop (didn't bet)
+Seat 5: UnterMauern folded before Flop (didn't bet)
+Seat 6: Dizzydarts mucked
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251205717395: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:14:01 UTC [2024/06/26 15:14:01 ET]
+Table '3767885527 96' 8-max Seat #2 is the button
+Seat 1: MKL1010 (31706 in chips) 
+Seat 2: DontCryClumsy88 (47453 in chips) 
+Seat 3: Eux1986 (112799 in chips) 
+Seat 4: moratto1992 (28165 in chips) 
+Seat 5: UnterMauern (24825 in chips) 
+Seat 6: Dizzydarts (21811 in chips) 
+Seat 7: ivan limeira (61552 in chips) 
+Seat 8: diabo656 (75375 in chips) 
+MKL1010: posts the ante 175
+DontCryClumsy88: posts the ante 175
+Eux1986: posts the ante 175
+moratto1992: posts the ante 175
+UnterMauern: posts the ante 175
+Dizzydarts: posts the ante 175
+ivan limeira: posts the ante 175
+diabo656: posts the ante 175
+Eux1986: posts small blind 700
+moratto1992: posts big blind 1400
+*** HOLE CARDS ***
+UnterMauern: folds 
+Dizzydarts: raises 1400 to 2800
+ivan limeira: folds 
+diabo656: folds 
+MKL1010: folds 
+DontCryClumsy88: calls 2800
+Eux1986: folds 
+moratto1992: folds 
+*** FLOP *** [3d 6c 8d]
+Dizzydarts: checks 
+DontCryClumsy88: checks 
+*** TURN *** [3d 6c 8d] [5c]
+Dizzydarts: checks 
+DontCryClumsy88: checks 
+*** RIVER *** [3d 6c 8d 5c] [Td]
+Dizzydarts: checks 
+DontCryClumsy88: checks 
+*** SHOW DOWN ***
+Dizzydarts: shows [Qs Ah] (high card Ace)
+DontCryClumsy88: shows [Qc Ad] (high card Ace)
+Dizzydarts collected 4550 from pot
+DontCryClumsy88 collected 4550 from pot
+*** SUMMARY ***
+Total pot 9100 | Rake 0 
+Board [3d 6c 8d 5c Td]
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 (button) showed [Qc Ad] and won (4550) with high card Ace
+Seat 3: Eux1986 (small blind) folded before Flop
+Seat 4: moratto1992 (big blind) folded before Flop
+Seat 5: UnterMauern folded before Flop (didn't bet)
+Seat 6: Dizzydarts showed [Qs Ah] and won (4550) with high card Ace
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251205729421: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:14:45 UTC [2024/06/26 15:14:45 ET]
+Table '3767885527 96' 8-max Seat #3 is the button
+Seat 1: MKL1010 (31531 in chips) 
+Seat 2: DontCryClumsy88 (49028 in chips) 
+Seat 3: Eux1986 (111924 in chips) 
+Seat 4: moratto1992 (26590 in chips) 
+Seat 5: UnterMauern (24650 in chips) 
+Seat 6: Dizzydarts (23386 in chips) 
+Seat 7: ivan limeira (61377 in chips) 
+Seat 8: diabo656 (75200 in chips) 
+MKL1010: posts the ante 175
+DontCryClumsy88: posts the ante 175
+Eux1986: posts the ante 175
+moratto1992: posts the ante 175
+UnterMauern: posts the ante 175
+Dizzydarts: posts the ante 175
+ivan limeira: posts the ante 175
+diabo656: posts the ante 175
+moratto1992: posts small blind 700
+UnterMauern: posts big blind 1400
+*** HOLE CARDS ***
+Dizzydarts: folds 
+ivan limeira: folds 
+diabo656 has timed out
+diabo656: folds 
+diabo656 is sitting out
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: calls 1400
+moratto1992: calls 700
+diabo656 has returned
+UnterMauern: checks 
+*** FLOP *** [Th 4d 3h]
+moratto1992: checks 
+UnterMauern: checks 
+Eux1986: bets 2800
+moratto1992: calls 2800
+UnterMauern: folds 
+*** TURN *** [Th 4d 3h] [8s]
+moratto1992: bets 22215 and is all-in
+Eux1986: folds 
+Uncalled bet (22215) returned to moratto1992
+moratto1992 collected 11200 from pot
+moratto1992: doesn't show hand 
+*** SUMMARY ***
+Total pot 11200 | Rake 0 
+Board [Th 4d 3h 8s]
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 (button) folded on the Turn
+Seat 4: moratto1992 (small blind) collected (11200)
+Seat 5: UnterMauern (big blind) folded on the Flop
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251205757480: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:16:28 UTC [2024/06/26 15:16:28 ET]
+Table '3767885527 96' 8-max Seat #4 is the button
+Seat 1: MKL1010 (31356 in chips) 
+Seat 2: DontCryClumsy88 (48853 in chips) 
+Seat 3: Eux1986 (107549 in chips) 
+Seat 4: moratto1992 (33415 in chips) 
+Seat 5: UnterMauern (23075 in chips) 
+Seat 6: Dizzydarts (23211 in chips) 
+Seat 7: ivan limeira (61202 in chips) 
+Seat 8: diabo656 (75025 in chips) 
+MKL1010: posts the ante 175
+DontCryClumsy88: posts the ante 175
+Eux1986: posts the ante 175
+moratto1992: posts the ante 175
+UnterMauern: posts the ante 175
+Dizzydarts: posts the ante 175
+ivan limeira: posts the ante 175
+diabo656: posts the ante 175
+UnterMauern: posts small blind 700
+Dizzydarts: posts big blind 1400
+*** HOLE CARDS ***
+MKL1010 is disconnected 
+ivan limeira: folds 
+diabo656: folds 
+MKL1010 is connected 
+MKL1010 is connected 
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: calls 1400
+moratto1992: folds 
+UnterMauern: folds 
+Dizzydarts: checks 
+*** FLOP *** [Tc 5d 5s]
+Dizzydarts: checks 
+Eux1986: checks 
+*** TURN *** [Tc 5d 5s] [6h]
+Dizzydarts: checks 
+Eux1986: bets 2800
+Dizzydarts: folds 
+Uncalled bet (2800) returned to Eux1986
+Eux1986 collected 4900 from pot
+Eux1986: doesn't show hand 
+*** SUMMARY ***
+Total pot 4900 | Rake 0 
+Board [Tc 5d 5s 6h]
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 collected (4900)
+Seat 4: moratto1992 (button) folded before Flop (didn't bet)
+Seat 5: UnterMauern (small blind) folded before Flop
+Seat 6: Dizzydarts (big blind) folded on the Turn
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251205771625: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:17:20 UTC [2024/06/26 15:17:20 ET]
+Table '3767885527 96' 8-max Seat #5 is the button
+Seat 1: MKL1010 (31181 in chips) 
+Seat 2: DontCryClumsy88 (48678 in chips) 
+Seat 3: Eux1986 (110874 in chips) 
+Seat 4: moratto1992 (33240 in chips) 
+Seat 5: UnterMauern (22200 in chips) 
+Seat 6: Dizzydarts (21636 in chips) 
+Seat 7: ivan limeira (61027 in chips) 
+Seat 8: diabo656 (74850 in chips) 
+MKL1010: posts the ante 175
+DontCryClumsy88: posts the ante 175
+Eux1986: posts the ante 175
+moratto1992: posts the ante 175
+UnterMauern: posts the ante 175
+Dizzydarts: posts the ante 175
+ivan limeira: posts the ante 175
+diabo656: posts the ante 175
+Dizzydarts: posts small blind 700
+ivan limeira: posts big blind 1400
+*** HOLE CARDS ***
+diabo656 has timed out
+diabo656: folds 
+diabo656 is sitting out
+MKL1010: folds 
+diabo656 has returned
+DontCryClumsy88: folds 
+Eux1986: folds 
+moratto1992: folds 
+UnterMauern: folds 
+Dizzydarts: calls 700
+ivan limeira: raises 59452 to 60852 and is all-in
+Dizzydarts: folds 
+Uncalled bet (59452) returned to ivan limeira
+ivan limeira collected 4200 from pot
+ivan limeira: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: moratto1992 folded before Flop (didn't bet)
+Seat 5: UnterMauern (button) folded before Flop (didn't bet)
+Seat 6: Dizzydarts (small blind) folded before Flop
+Seat 7: ivan limeira (big blind) collected (4200)
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251205783980: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:18:05 UTC [2024/06/26 15:18:05 ET]
+Table '3767885527 96' 8-max Seat #6 is the button
+Seat 1: MKL1010 (31006 in chips) 
+Seat 2: DontCryClumsy88 (48503 in chips) 
+Seat 3: Eux1986 (110699 in chips) 
+Seat 4: moratto1992 (33065 in chips) 
+Seat 5: UnterMauern (22025 in chips) 
+Seat 6: Dizzydarts (20061 in chips) 
+Seat 7: ivan limeira (63652 in chips) 
+Seat 8: diabo656 (74675 in chips) 
+MKL1010: posts the ante 175
+DontCryClumsy88: posts the ante 175
+Eux1986: posts the ante 175
+moratto1992: posts the ante 175
+UnterMauern: posts the ante 175
+Dizzydarts: posts the ante 175
+ivan limeira: posts the ante 175
+diabo656: posts the ante 175
+ivan limeira: posts small blind 700
+diabo656: posts big blind 1400
+*** HOLE CARDS ***
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: folds 
+moratto1992: folds 
+UnterMauern: folds 
+Dizzydarts: raises 1400 to 2800
+ivan limeira: folds 
+diabo656: calls 1400
+*** FLOP *** [9d Ah Ks]
+diabo656: checks 
+Dizzydarts: checks 
+*** TURN *** [9d Ah Ks] [Qc]
+diabo656: bets 3850
+Dizzydarts: folds 
+Uncalled bet (3850) returned to diabo656
+diabo656 collected 7700 from pot
+*** SUMMARY ***
+Total pot 7700 | Rake 0 
+Board [9d Ah Ks Qc]
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: moratto1992 folded before Flop (didn't bet)
+Seat 5: UnterMauern folded before Flop (didn't bet)
+Seat 6: Dizzydarts (button) folded on the Turn
+Seat 7: ivan limeira (small blind) folded before Flop
+Seat 8: diabo656 (big blind) collected (7700)
+
+PokerStars Hand #251205796194: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:18:50 UTC [2024/06/26 15:18:50 ET]
+Table '3767885527 96' 8-max Seat #7 is the button
+Seat 1: MKL1010 (30831 in chips) 
+Seat 2: DontCryClumsy88 (48328 in chips) 
+Seat 3: Eux1986 (110524 in chips) 
+Seat 4: moratto1992 (32890 in chips) 
+Seat 5: UnterMauern (21850 in chips) 
+Seat 6: Dizzydarts (17086 in chips) 
+Seat 7: ivan limeira (62777 in chips) 
+Seat 8: diabo656 (79400 in chips) 
+MKL1010: posts the ante 175
+DontCryClumsy88: posts the ante 175
+Eux1986: posts the ante 175
+moratto1992: posts the ante 175
+UnterMauern: posts the ante 175
+Dizzydarts: posts the ante 175
+ivan limeira: posts the ante 175
+diabo656: posts the ante 175
+diabo656: posts small blind 700
+MKL1010: posts big blind 1400
+*** HOLE CARDS ***
+DontCryClumsy88: calls 1400
+Eux1986: folds 
+moratto1992: folds 
+UnterMauern: folds 
+Dizzydarts: calls 1400
+ivan limeira: folds 
+diabo656: folds 
+MKL1010: checks 
+*** FLOP *** [3d Qd Kh]
+MKL1010: checks 
+DontCryClumsy88: checks 
+Dizzydarts: checks 
+*** TURN *** [3d Qd Kh] [5c]
+MKL1010: bets 2800
+DontCryClumsy88: calls 2800
+Dizzydarts: folds 
+*** RIVER *** [3d Qd Kh 5c] [Ac]
+MKL1010: checks 
+DontCryClumsy88: bets 3927
+MKL1010: calls 3927
+*** SHOW DOWN ***
+DontCryClumsy88: shows [Jc Td] (a straight, Ten to Ace)
+MKL1010: mucks hand 
+DontCryClumsy88 collected 19754 from pot
+*** SUMMARY ***
+Total pot 19754 | Rake 0 
+Board [3d Qd Kh 5c Ac]
+Seat 1: MKL1010 (big blind) mucked
+Seat 2: DontCryClumsy88 showed [Jc Td] and won (19754) with a straight, Ten to Ace
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: moratto1992 folded before Flop (didn't bet)
+Seat 5: UnterMauern folded before Flop (didn't bet)
+Seat 6: Dizzydarts folded on the Turn
+Seat 7: ivan limeira (button) folded before Flop (didn't bet)
+Seat 8: diabo656 (small blind) folded before Flop
+
+PokerStars Hand #251205810694: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:19:43 UTC [2024/06/26 15:19:43 ET]
+Table '3767885527 96' 8-max Seat #8 is the button
+Seat 1: MKL1010 (22529 in chips) 
+Seat 2: DontCryClumsy88 (59780 in chips) 
+Seat 3: Eux1986 (110349 in chips) 
+Seat 4: moratto1992 (32715 in chips) 
+Seat 5: UnterMauern (21675 in chips) 
+Seat 6: Dizzydarts (15511 in chips) 
+Seat 7: ivan limeira (62602 in chips) 
+Seat 8: diabo656 (78525 in chips) 
+MKL1010: posts the ante 200
+DontCryClumsy88: posts the ante 200
+Eux1986: posts the ante 200
+moratto1992: posts the ante 200
+UnterMauern: posts the ante 200
+Dizzydarts: posts the ante 200
+ivan limeira: posts the ante 200
+diabo656: posts the ante 200
+MKL1010: posts small blind 800
+DontCryClumsy88: posts big blind 1600
+*** HOLE CARDS ***
+Eux1986: folds 
+moratto1992: folds 
+UnterMauern: folds 
+Dizzydarts: folds 
+ivan limeira: folds 
+diabo656: folds 
+MKL1010: calls 800
+DontCryClumsy88: checks 
+*** FLOP *** [5h 9s Jc]
+MKL1010: checks 
+DontCryClumsy88: checks 
+*** TURN *** [5h 9s Jc] [Ad]
+MKL1010: checks 
+DontCryClumsy88: bets 2640
+MKL1010: folds 
+Uncalled bet (2640) returned to DontCryClumsy88
+DontCryClumsy88 collected 4800 from pot
+*** SUMMARY ***
+Total pot 4800 | Rake 0 
+Board [5h 9s Jc Ad]
+Seat 1: MKL1010 (small blind) folded on the Turn
+Seat 2: DontCryClumsy88 (big blind) collected (4800)
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: moratto1992 folded before Flop (didn't bet)
+Seat 5: UnterMauern folded before Flop (didn't bet)
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205820329: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:20:18 UTC [2024/06/26 15:20:18 ET]
+Table '3767885527 96' 8-max Seat #1 is the button
+Seat 1: MKL1010 (20729 in chips) 
+Seat 2: DontCryClumsy88 (62780 in chips) 
+Seat 3: Eux1986 (110149 in chips) 
+Seat 4: moratto1992 (32515 in chips) 
+Seat 5: UnterMauern (21475 in chips) 
+Seat 6: Dizzydarts (15311 in chips) 
+Seat 7: ivan limeira (62402 in chips) 
+Seat 8: diabo656 (78325 in chips) 
+MKL1010: posts the ante 200
+DontCryClumsy88: posts the ante 200
+Eux1986: posts the ante 200
+moratto1992: posts the ante 200
+UnterMauern: posts the ante 200
+Dizzydarts: posts the ante 200
+ivan limeira: posts the ante 200
+diabo656: posts the ante 200
+DontCryClumsy88: posts small blind 800
+Eux1986: posts big blind 1600
+*** HOLE CARDS ***
+moratto1992: folds 
+UnterMauern: folds 
+Dizzydarts: raises 1600 to 3200
+ivan limeira: folds 
+diabo656: folds 
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: calls 1600
+*** FLOP *** [6d Jd 2c]
+Eux1986: checks 
+Dizzydarts: bets 11911 and is all-in
+Eux1986: folds 
+Uncalled bet (11911) returned to Dizzydarts
+Dizzydarts collected 8800 from pot
+Dizzydarts: doesn't show hand 
+*** SUMMARY ***
+Total pot 8800 | Rake 0 
+Board [6d Jd 2c]
+Seat 1: MKL1010 (button) folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 (small blind) folded before Flop
+Seat 3: Eux1986 (big blind) folded on the Flop
+Seat 4: moratto1992 folded before Flop (didn't bet)
+Seat 5: UnterMauern folded before Flop (didn't bet)
+Seat 6: Dizzydarts collected (8800)
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251205830398: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:20:56 UTC [2024/06/26 15:20:56 ET]
+Table '3767885527 96' 8-max Seat #2 is the button
+Seat 1: MKL1010 (20529 in chips) 
+Seat 2: DontCryClumsy88 (61780 in chips) 
+Seat 3: Eux1986 (106749 in chips) 
+Seat 4: moratto1992 (32315 in chips) 
+Seat 5: UnterMauern (21275 in chips) 
+Seat 6: Dizzydarts (20711 in chips) 
+Seat 7: ivan limeira (62202 in chips) 
+Seat 8: diabo656 (78125 in chips) 
+MKL1010: posts the ante 200
+DontCryClumsy88: posts the ante 200
+Eux1986: posts the ante 200
+moratto1992: posts the ante 200
+UnterMauern: posts the ante 200
+Dizzydarts: posts the ante 200
+ivan limeira: posts the ante 200
+diabo656: posts the ante 200
+Eux1986: posts small blind 800
+moratto1992: posts big blind 1600
+*** HOLE CARDS ***
+UnterMauern: raises 19200 to 20800
+Dizzydarts: folds 
+ivan limeira: folds 
+diabo656: folds 
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: folds 
+moratto1992: folds 
+Uncalled bet (19200) returned to UnterMauern
+UnterMauern collected 5600 from pot
+UnterMauern: doesn't show hand 
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 (button) folded before Flop (didn't bet)
+Seat 3: Eux1986 (small blind) folded before Flop
+Seat 4: moratto1992 (big blind) folded before Flop
+Seat 5: UnterMauern collected (5600)
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251205840255: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:21:32 UTC [2024/06/26 15:21:32 ET]
+Table '3767885527 96' 8-max Seat #3 is the button
+Seat 1: MKL1010 (20329 in chips) 
+Seat 2: DontCryClumsy88 (61580 in chips) 
+Seat 3: Eux1986 (105749 in chips) 
+Seat 4: moratto1992 (30515 in chips) 
+Seat 5: UnterMauern (25075 in chips) 
+Seat 6: Dizzydarts (20511 in chips) 
+Seat 7: ivan limeira (62002 in chips) 
+Seat 8: diabo656 (77925 in chips) 
+MKL1010: posts the ante 200
+DontCryClumsy88: posts the ante 200
+Eux1986: posts the ante 200
+moratto1992: posts the ante 200
+UnterMauern: posts the ante 200
+Dizzydarts: posts the ante 200
+ivan limeira: posts the ante 200
+diabo656: posts the ante 200
+moratto1992: posts small blind 800
+UnterMauern: posts big blind 1600
+*** HOLE CARDS ***
+Dizzydarts: folds 
+ivan limeira: folds 
+diabo656: folds 
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: folds 
+moratto1992: raises 28715 to 30315 and is all-in
+UnterMauern: folds 
+Uncalled bet (28715) returned to moratto1992
+moratto1992 collected 4800 from pot
+moratto1992: doesn't show hand 
+*** SUMMARY ***
+Total pot 4800 | Rake 0 
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 (button) folded before Flop (didn't bet)
+Seat 4: moratto1992 (small blind) collected (4800)
+Seat 5: UnterMauern (big blind) folded before Flop
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251205848401: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:22:02 UTC [2024/06/26 15:22:02 ET]
+Table '3767885527 96' 8-max Seat #4 is the button
+Seat 1: MKL1010 (20129 in chips) 
+Seat 2: DontCryClumsy88 (61380 in chips) 
+Seat 3: Eux1986 (105549 in chips) 
+Seat 4: moratto1992 (33515 in chips) 
+Seat 5: UnterMauern (23275 in chips) 
+Seat 6: Dizzydarts (20311 in chips) 
+Seat 7: ivan limeira (61802 in chips) 
+Seat 8: diabo656 (77725 in chips) 
+MKL1010: posts the ante 200
+DontCryClumsy88: posts the ante 200
+Eux1986: posts the ante 200
+moratto1992: posts the ante 200
+UnterMauern: posts the ante 200
+Dizzydarts: posts the ante 200
+ivan limeira: posts the ante 200
+diabo656: posts the ante 200
+UnterMauern: posts small blind 800
+Dizzydarts: posts big blind 1600
+*** HOLE CARDS ***
+ivan limeira: folds 
+diabo656: calls 1600
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: folds 
+moratto1992: folds 
+UnterMauern: folds 
+Dizzydarts: checks 
+*** FLOP *** [3h 5s 9c]
+Dizzydarts: checks 
+diabo656: bets 5600
+Dizzydarts: folds 
+Uncalled bet (5600) returned to diabo656
+diabo656 collected 5600 from pot
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Board [3h 5s 9c]
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: moratto1992 (button) folded before Flop (didn't bet)
+Seat 5: UnterMauern (small blind) folded before Flop
+Seat 6: Dizzydarts (big blind) folded on the Flop
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 collected (5600)
+
+PokerStars Hand #251205860002: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:22:44 UTC [2024/06/26 15:22:44 ET]
+Table '3767885527 96' 8-max Seat #5 is the button
+Seat 1: MKL1010 (19929 in chips) 
+Seat 2: DontCryClumsy88 (61180 in chips) 
+Seat 3: Eux1986 (105349 in chips) 
+Seat 4: moratto1992 (33315 in chips) 
+Seat 5: UnterMauern (22275 in chips) 
+Seat 6: Dizzydarts (18511 in chips) 
+Seat 7: ivan limeira (61602 in chips) 
+Seat 8: diabo656 (81525 in chips) 
+MKL1010: posts the ante 200
+DontCryClumsy88: posts the ante 200
+Eux1986: posts the ante 200
+moratto1992: posts the ante 200
+UnterMauern: posts the ante 200
+Dizzydarts: posts the ante 200
+ivan limeira: posts the ante 200
+diabo656: posts the ante 200
+Dizzydarts: posts small blind 800
+ivan limeira: posts big blind 1600
+*** HOLE CARDS ***
+diabo656: folds 
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: calls 1600
+moratto1992: calls 1600
+UnterMauern: calls 1600
+Dizzydarts: raises 16711 to 18311 and is all-in
+ivan limeira: folds 
+Eux1986: folds 
+moratto1992: folds 
+UnterMauern: folds 
+Uncalled bet (16711) returned to Dizzydarts
+Dizzydarts collected 9600 from pot
+Dizzydarts: doesn't show hand 
+*** SUMMARY ***
+Total pot 9600 | Rake 0 
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 folded before Flop
+Seat 4: moratto1992 folded before Flop
+Seat 5: UnterMauern (button) folded before Flop
+Seat 6: Dizzydarts (small blind) collected (9600)
+Seat 7: ivan limeira (big blind) folded before Flop
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251205876143: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:23:43 UTC [2024/06/26 15:23:43 ET]
+Table '3767885527 96' 8-max Seat #6 is the button
+Seat 1: MKL1010 (19729 in chips) 
+Seat 2: DontCryClumsy88 (60980 in chips) 
+Seat 3: Eux1986 (103549 in chips) 
+Seat 4: moratto1992 (31515 in chips) 
+Seat 5: UnterMauern (20475 in chips) 
+Seat 6: Dizzydarts (26311 in chips) 
+Seat 7: ivan limeira (59802 in chips) 
+Seat 8: diabo656 (81325 in chips) 
+MKL1010: posts the ante 200
+DontCryClumsy88: posts the ante 200
+Eux1986: posts the ante 200
+moratto1992: posts the ante 200
+UnterMauern: posts the ante 200
+Dizzydarts: posts the ante 200
+ivan limeira: posts the ante 200
+diabo656: posts the ante 200
+ivan limeira: posts small blind 800
+diabo656: posts big blind 1600
+*** HOLE CARDS ***
+MKL1010: raises 17929 to 19529 and is all-in
+DontCryClumsy88: folds 
+Eux1986: folds 
+moratto1992: folds 
+UnterMauern: folds 
+Dizzydarts: folds 
+ivan limeira: folds 
+diabo656 is disconnected 
+diabo656 is connected 
+diabo656 is connected 
+diabo656: folds 
+Uncalled bet (17929) returned to MKL1010
+MKL1010 collected 5600 from pot
+MKL1010: doesn't show hand 
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Seat 1: MKL1010 collected (5600)
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: moratto1992 folded before Flop (didn't bet)
+Seat 5: UnterMauern folded before Flop (didn't bet)
+Seat 6: Dizzydarts (button) folded before Flop (didn't bet)
+Seat 7: ivan limeira (small blind) folded before Flop
+Seat 8: diabo656 (big blind) folded before Flop
+
+PokerStars Hand #251205887405: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:24:24 UTC [2024/06/26 15:24:24 ET]
+Table '3767885527 96' 8-max Seat #7 is the button
+Seat 1: MKL1010 (23529 in chips) 
+Seat 2: DontCryClumsy88 (60780 in chips) 
+Seat 3: Eux1986 (103349 in chips) 
+Seat 4: moratto1992 (31315 in chips) 
+Seat 5: UnterMauern (20275 in chips) 
+Seat 6: Dizzydarts (26111 in chips) 
+Seat 7: ivan limeira (58802 in chips) 
+Seat 8: diabo656 (79525 in chips) 
+MKL1010: posts the ante 200
+DontCryClumsy88: posts the ante 200
+Eux1986: posts the ante 200
+moratto1992: posts the ante 200
+UnterMauern: posts the ante 200
+Dizzydarts: posts the ante 200
+ivan limeira: posts the ante 200
+diabo656: posts the ante 200
+diabo656: posts small blind 800
+MKL1010: posts big blind 1600
+*** HOLE CARDS ***
+DontCryClumsy88: folds 
+Eux1986: raises 1600 to 3200
+moratto1992: raises 4160 to 7360
+UnterMauern: folds 
+Dizzydarts: folds 
+ivan limeira: folds 
+diabo656 is connected 
+diabo656 is connected 
+diabo656: folds 
+MKL1010: folds 
+Eux1986: raises 95789 to 103149 and is all-in
+moratto1992: folds 
+Uncalled bet (95789) returned to Eux1986
+Eux1986 collected 18720 from pot
+Eux1986: doesn't show hand 
+*** SUMMARY ***
+Total pot 18720 | Rake 0 
+Seat 1: MKL1010 (big blind) folded before Flop
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 collected (18720)
+Seat 4: moratto1992 folded before Flop
+Seat 5: UnterMauern folded before Flop (didn't bet)
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira (button) folded before Flop (didn't bet)
+Seat 8: diabo656 (small blind) folded before Flop
+
+PokerStars Hand #251205907060: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:25:35 UTC [2024/06/26 15:25:35 ET]
+Table '3767885527 96' 8-max Seat #8 is the button
+Seat 1: MKL1010 (21729 in chips) 
+Seat 2: DontCryClumsy88 (60580 in chips) 
+Seat 3: Eux1986 (114509 in chips) 
+Seat 4: moratto1992 (23755 in chips) 
+Seat 5: UnterMauern (20075 in chips) 
+Seat 6: Dizzydarts (25911 in chips) 
+Seat 7: ivan limeira (58602 in chips) 
+Seat 8: diabo656 (78525 in chips) 
+MKL1010: posts the ante 200
+DontCryClumsy88: posts the ante 200
+Eux1986: posts the ante 200
+moratto1992: posts the ante 200
+UnterMauern: posts the ante 200
+Dizzydarts: posts the ante 200
+ivan limeira: posts the ante 200
+diabo656: posts the ante 200
+MKL1010: posts small blind 800
+DontCryClumsy88: posts big blind 1600
+*** HOLE CARDS ***
+Eux1986: folds 
+moratto1992: raises 1600 to 3200
+UnterMauern: folds 
+Dizzydarts: folds 
+ivan limeira: folds 
+diabo656: folds 
+MKL1010: folds 
+DontCryClumsy88: folds 
+Uncalled bet (1600) returned to moratto1992
+moratto1992 collected 5600 from pot
+moratto1992: doesn't show hand 
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Seat 1: MKL1010 (small blind) folded before Flop
+Seat 2: DontCryClumsy88 (big blind) folded before Flop
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: moratto1992 collected (5600)
+Seat 5: UnterMauern folded before Flop (didn't bet)
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205914078: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:26:01 UTC [2024/06/26 15:26:01 ET]
+Table '3767885527 96' 8-max Seat #1 is the button
+Seat 1: MKL1010 (20729 in chips) 
+Seat 2: DontCryClumsy88 (58780 in chips) 
+Seat 3: Eux1986 (114309 in chips) 
+Seat 4: moratto1992 (27555 in chips) 
+Seat 5: UnterMauern (19875 in chips) 
+Seat 6: Dizzydarts (25711 in chips) 
+Seat 7: ivan limeira (58402 in chips) 
+Seat 8: diabo656 (78325 in chips) 
+MKL1010: posts the ante 200
+DontCryClumsy88: posts the ante 200
+Eux1986: posts the ante 200
+moratto1992: posts the ante 200
+UnterMauern: posts the ante 200
+Dizzydarts: posts the ante 200
+ivan limeira: posts the ante 200
+diabo656: posts the ante 200
+DontCryClumsy88: posts small blind 800
+Eux1986: posts big blind 1600
+*** HOLE CARDS ***
+moratto1992: folds 
+UnterMauern: raises 18075 to 19675 and is all-in
+Dizzydarts: folds 
+ivan limeira: folds 
+diabo656: calls 19675
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: folds 
+*** FLOP *** [6s 5c 3s]
+*** TURN *** [6s 5c 3s] [Jh]
+*** RIVER *** [6s 5c 3s Jh] [Th]
+*** SHOW DOWN ***
+UnterMauern: shows [6d Ah] (a pair of Sixes)
+diabo656: shows [8s 8c] (a pair of Eights)
+diabo656 collected 43350 from pot
+UnterMauern finished the tournament
+*** SUMMARY ***
+Total pot 43350 | Rake 0 
+Board [6s 5c 3s Jh Th]
+Seat 1: MKL1010 (button) folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 (small blind) folded before Flop
+Seat 3: Eux1986 (big blind) folded before Flop
+Seat 4: moratto1992 folded before Flop (didn't bet)
+Seat 5: UnterMauern showed [6d Ah] and lost with a pair of Sixes
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 showed [8s 8c] and won (43350) with a pair of Eights
+
+PokerStars Hand #251205922433: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:26:31 UTC [2024/06/26 15:26:31 ET]
+Table '3767885527 96' 8-max Seat #2 is the button
+Seat 1: MKL1010 (20529 in chips) 
+Seat 2: DontCryClumsy88 (57780 in chips) 
+Seat 3: Eux1986 (112509 in chips) 
+Seat 4: moratto1992 (27355 in chips) 
+Seat 6: Dizzydarts (25511 in chips) 
+Seat 7: ivan limeira (58202 in chips) 
+Seat 8: diabo656 (101800 in chips) 
+MKL1010: posts the ante 200
+DontCryClumsy88: posts the ante 200
+Eux1986: posts the ante 200
+moratto1992: posts the ante 200
+Dizzydarts: posts the ante 200
+ivan limeira: posts the ante 200
+diabo656: posts the ante 200
+Eux1986: posts small blind 800
+moratto1992: posts big blind 1600
+*** HOLE CARDS ***
+Dizzydarts: folds 
+ivan limeira: folds 
+diabo656: folds 
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: calls 800
+moratto1992: checks 
+*** FLOP *** [3c Jh 6c]
+Eux1986: checks 
+moratto1992: checks 
+*** TURN *** [3c Jh 6c] [Qd]
+Ace-hai is disconnected 
+Eux1986: checks 
+moratto1992: bets 1600
+Eux1986: folds 
+Uncalled bet (1600) returned to moratto1992
+moratto1992 collected 4600 from pot
+moratto1992: doesn't show hand 
+*** SUMMARY ***
+Total pot 4600 | Rake 0 
+Board [3c Jh 6c Qd]
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 (button) folded before Flop (didn't bet)
+Seat 3: Eux1986 (small blind) folded on the Turn
+Seat 4: moratto1992 (big blind) collected (4600)
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251205940461: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:27:38 UTC [2024/06/26 15:27:38 ET]
+Table '3767885527 96' 8-max Seat #3 is the button
+Seat 1: MKL1010 (20329 in chips) 
+Seat 2: DontCryClumsy88 (57580 in chips) 
+Seat 3: Eux1986 (110709 in chips) 
+Seat 4: moratto1992 (30155 in chips) 
+Seat 5: Ace-hai (25000 in chips) 
+Seat 6: Dizzydarts (25311 in chips) 
+Seat 7: ivan limeira (58002 in chips) 
+Seat 8: diabo656 (101600 in chips) 
+MKL1010: posts the ante 200
+DontCryClumsy88: posts the ante 200
+Eux1986: posts the ante 200
+moratto1992: posts the ante 200
+Ace-hai: posts the ante 200
+Dizzydarts: posts the ante 200
+ivan limeira: posts the ante 200
+diabo656: posts the ante 200
+moratto1992: posts small blind 800
+Ace-hai: posts big blind 1600
+*** HOLE CARDS ***
+Dizzydarts: folds 
+ivan limeira: folds 
+diabo656: folds 
+MKL1010: raises 18529 to 20129 and is all-in
+DontCryClumsy88: folds 
+Eux1986: raises 18529 to 38658
+moratto1992: folds 
+Ace-hai: calls 23200 and is all-in
+Uncalled bet (13858) returned to Eux1986
+*** FLOP *** [5c 9s 3d]
+*** TURN *** [5c 9s 3d] [6s]
+*** RIVER *** [5c 9s 3d 6s] [Js]
+*** SHOW DOWN ***
+Ace-hai: shows [Td Ts] (a pair of Tens)
+Eux1986: shows [Kh Jh] (a pair of Jacks)
+Eux1986 collected 9342 from side pot
+MKL1010: shows [As 3s] (a flush, Ace high)
+MKL1010 collected 62787 from main pot
+Ace-hai finished the tournament
+*** SUMMARY ***
+Total pot 72129 Main pot 62787. Side pot 9342. | Rake 0 
+Board [5c 9s 3d 6s Js]
+Seat 1: MKL1010 showed [As 3s] and won (62787) with a flush, Ace high
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 (button) showed [Kh Jh] and won (9342) with a pair of Jacks
+Seat 4: moratto1992 (small blind) folded before Flop
+Seat 5: Ace-hai (big blind) showed [Td Ts] and lost with a pair of Tens
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251205952611: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:28:24 UTC [2024/06/26 15:28:24 ET]
+Table '3767885527 96' 8-max Seat #4 is the button
+Seat 1: MKL1010 (62787 in chips) 
+Seat 2: DontCryClumsy88 (57380 in chips) 
+Seat 3: Eux1986 (95051 in chips) 
+Seat 4: moratto1992 (29155 in chips) 
+Seat 6: Dizzydarts (25111 in chips) 
+Seat 7: ivan limeira (57802 in chips) 
+Seat 8: diabo656 (101400 in chips) 
+MKL1010: posts the ante 200
+DontCryClumsy88: posts the ante 200
+Eux1986: posts the ante 200
+moratto1992: posts the ante 200
+Dizzydarts: posts the ante 200
+ivan limeira: posts the ante 200
+diabo656: posts the ante 200
+Dizzydarts: posts small blind 800
+ivan limeira: posts big blind 1600
+*** HOLE CARDS ***
+diabo656: calls 1600
+MKL1010: folds 
+DontCryClumsy88: calls 1600
+Eux1986: folds 
+moratto1992: folds 
+Dizzydarts: calls 800
+ivan limeira: raises 56002 to 57602 and is all-in
+diabo656: folds 
+DontCryClumsy88: folds 
+Dizzydarts: folds 
+Uncalled bet (56002) returned to ivan limeira
+ivan limeira collected 7800 from pot
+ivan limeira: doesn't show hand 
+*** SUMMARY ***
+Total pot 7800 | Rake 0 
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 folded before Flop
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: moratto1992 (button) folded before Flop (didn't bet)
+Seat 6: Dizzydarts (small blind) folded before Flop
+Seat 7: ivan limeira (big blind) collected (7800)
+Seat 8: diabo656 folded before Flop
+
+PokerStars Hand #251205962072: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:28:59 UTC [2024/06/26 15:28:59 ET]
+Table '3767885527 96' 8-max Seat #6 is the button
+Seat 1: MKL1010 (62587 in chips) 
+Seat 2: DontCryClumsy88 (55580 in chips) 
+Seat 3: Eux1986 (94851 in chips) 
+Seat 4: moratto1992 (28955 in chips) 
+Seat 6: Dizzydarts (23311 in chips) 
+Seat 7: ivan limeira (63802 in chips) 
+Seat 8: diabo656 (99600 in chips) 
+MKL1010: posts the ante 200
+DontCryClumsy88: posts the ante 200
+Eux1986: posts the ante 200
+moratto1992: posts the ante 200
+Dizzydarts: posts the ante 200
+ivan limeira: posts the ante 200
+diabo656: posts the ante 200
+ivan limeira: posts small blind 800
+diabo656: posts big blind 1600
+*** HOLE CARDS ***
+MKL1010: folds 
+DontCryClumsy88: calls 1600
+Eux1986: folds 
+moratto1992: folds 
+Dizzydarts: folds 
+ivan limeira: calls 800
+diabo656: checks 
+*** FLOP *** [Jh 3d Qd]
+ivan limeira: checks 
+cardinals970 is disconnected 
+diabo656: checks 
+DontCryClumsy88: bets 2046
+ivan limeira: folds 
+diabo656: folds 
+Uncalled bet (2046) returned to DontCryClumsy88
+DontCryClumsy88 collected 6200 from pot
+*** SUMMARY ***
+Total pot 6200 | Rake 0 
+Board [Jh 3d Qd]
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 collected (6200)
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: moratto1992 folded before Flop (didn't bet)
+Seat 6: Dizzydarts (button) folded before Flop (didn't bet)
+Seat 7: ivan limeira (small blind) folded on the Flop
+Seat 8: diabo656 (big blind) folded on the Flop
+
+PokerStars Hand #251205977881: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:29:57 UTC [2024/06/26 15:29:57 ET]
+Table '3767885527 96' 8-max Seat #7 is the button
+Seat 1: MKL1010 (62387 in chips) 
+Seat 2: DontCryClumsy88 (59980 in chips) 
+Seat 3: Eux1986 (94651 in chips) 
+Seat 4: moratto1992 (28755 in chips) 
+Seat 5: cardinals970 (25000 in chips) 
+Seat 6: Dizzydarts (23111 in chips) 
+Seat 7: ivan limeira (62002 in chips) 
+Seat 8: diabo656 (97800 in chips) 
+MKL1010: posts the ante 250
+DontCryClumsy88: posts the ante 250
+Eux1986: posts the ante 250
+moratto1992: posts the ante 250
+cardinals970: posts the ante 250
+Dizzydarts: posts the ante 250
+ivan limeira: posts the ante 250
+diabo656: posts the ante 250
+diabo656: posts small blind 1000
+MKL1010: posts big blind 2000
+*** HOLE CARDS ***
+DontCryClumsy88: folds 
+Eux1986: folds 
+moratto1992: folds 
+cardinals970: folds 
+Dizzydarts: folds 
+ivan limeira: raises 2000 to 4000
+diabo656: folds 
+MKL1010: calls 2000
+*** FLOP *** [8d Kh 7c]
+MKL1010: checks 
+ivan limeira: bets 2750
+MKL1010: calls 2750
+*** TURN *** [8d Kh 7c] [3h]
+MKL1010: checks 
+ivan limeira: checks 
+*** RIVER *** [8d Kh 7c 3h] [8h]
+MKL1010: bets 8250
+ivan limeira: calls 8250
+*** SHOW DOWN ***
+MKL1010: shows [Kc Qh] (two pair, Kings and Eights)
+ivan limeira: mucks hand 
+MKL1010 collected 33000 from pot
+*** SUMMARY ***
+Total pot 33000 | Rake 0 
+Board [8d Kh 7c 3h 8h]
+Seat 1: MKL1010 (big blind) showed [Kc Qh] and won (33000) with two pair, Kings and Eights
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: moratto1992 folded before Flop (didn't bet)
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira (button) mucked
+Seat 8: diabo656 (small blind) folded before Flop
+
+PokerStars Hand #251205994012: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:30:56 UTC [2024/06/26 15:30:56 ET]
+Table '3767885527 96' 8-max Seat #8 is the button
+Seat 1: MKL1010 (80137 in chips) 
+Seat 2: DontCryClumsy88 (59730 in chips) 
+Seat 3: Eux1986 (94401 in chips) 
+Seat 4: moratto1992 (28505 in chips) 
+Seat 5: cardinals970 (24750 in chips) 
+Seat 6: Dizzydarts (22861 in chips) 
+Seat 7: ivan limeira (46752 in chips) 
+Seat 8: diabo656 (96550 in chips) 
+MKL1010: posts the ante 250
+DontCryClumsy88: posts the ante 250
+Eux1986: posts the ante 250
+moratto1992: posts the ante 250
+cardinals970: posts the ante 250
+Dizzydarts: posts the ante 250
+ivan limeira: posts the ante 250
+diabo656: posts the ante 250
+MKL1010: posts small blind 1000
+DontCryClumsy88: posts big blind 2000
+*** HOLE CARDS ***
+Eux1986: folds 
+moratto1992: folds 
+cardinals970: folds 
+Dizzydarts: folds 
+ivan limeira: raises 2000 to 4000
+diabo656: calls 4000
+MKL1010: folds 
+DontCryClumsy88: calls 2000
+*** FLOP *** [4d 3s Ac]
+DontCryClumsy88: checks 
+ivan limeira: bets 3750
+diabo656: raises 3750 to 7500
+DontCryClumsy88: folds 
+ivan limeira: calls 3750
+*** TURN *** [4d 3s Ac] [3h]
+ivan limeira: checks 
+diabo656: bets 84800 and is all-in
+ivan limeira: folds 
+Uncalled bet (84800) returned to diabo656
+diabo656 collected 30000 from pot
+*** SUMMARY ***
+Total pot 30000 | Rake 0 
+Board [4d 3s Ac 3h]
+Seat 1: MKL1010 (small blind) folded before Flop
+Seat 2: DontCryClumsy88 (big blind) folded on the Flop
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: moratto1992 folded before Flop (didn't bet)
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira folded on the Turn
+Seat 8: diabo656 (button) collected (30000)
+
+PokerStars Hand #251206012118: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:32:01 UTC [2024/06/26 15:32:01 ET]
+Table '3767885527 96' 8-max Seat #1 is the button
+Seat 1: MKL1010 (78887 in chips) 
+Seat 2: DontCryClumsy88 (55480 in chips) 
+Seat 3: Eux1986 (94151 in chips) 
+Seat 4: moratto1992 (28255 in chips) 
+Seat 5: cardinals970 (24500 in chips) 
+Seat 6: Dizzydarts (22611 in chips) 
+Seat 7: ivan limeira (35002 in chips) 
+Seat 8: diabo656 (114800 in chips) 
+MKL1010: posts the ante 250
+DontCryClumsy88: posts the ante 250
+Eux1986: posts the ante 250
+moratto1992: posts the ante 250
+cardinals970: posts the ante 250
+Dizzydarts: posts the ante 250
+ivan limeira: posts the ante 250
+diabo656: posts the ante 250
+DontCryClumsy88: posts small blind 1000
+Eux1986: posts big blind 2000
+*** HOLE CARDS ***
+moratto1992: folds 
+cardinals970: folds 
+Dizzydarts: folds 
+ivan limeira: raises 2000 to 4000
+diabo656: folds 
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: folds 
+Uncalled bet (2000) returned to ivan limeira
+ivan limeira collected 7000 from pot
+ivan limeira: doesn't show hand 
+*** SUMMARY ***
+Total pot 7000 | Rake 0 
+Seat 1: MKL1010 (button) folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 (small blind) folded before Flop
+Seat 3: Eux1986 (big blind) folded before Flop
+Seat 4: moratto1992 folded before Flop (didn't bet)
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira collected (7000)
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251206023652: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:32:43 UTC [2024/06/26 15:32:43 ET]
+Table '3767885527 96' 8-max Seat #2 is the button
+Seat 1: MKL1010 (78637 in chips) 
+Seat 2: DontCryClumsy88 (54230 in chips) 
+Seat 3: Eux1986 (91901 in chips) 
+Seat 4: moratto1992 (28005 in chips) 
+Seat 5: cardinals970 (24250 in chips) 
+Seat 6: Dizzydarts (22361 in chips) 
+Seat 7: ivan limeira (39752 in chips) 
+Seat 8: diabo656 (114550 in chips) 
+MKL1010: posts the ante 250
+DontCryClumsy88: posts the ante 250
+Eux1986: posts the ante 250
+moratto1992: posts the ante 250
+cardinals970: posts the ante 250
+Dizzydarts: posts the ante 250
+ivan limeira: posts the ante 250
+diabo656: posts the ante 250
+Eux1986: posts small blind 1000
+moratto1992: posts big blind 2000
+*** HOLE CARDS ***
+cardinals970: folds 
+Dizzydarts: folds 
+ivan limeira: raises 2000 to 4000
+diabo656: folds 
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: calls 3000
+moratto1992: folds 
+*** FLOP *** [7s 4d Qd]
+Eux1986: checks 
+ivan limeira: bets 3000
+Eux1986: calls 3000
+*** TURN *** [7s 4d Qd] [3h]
+Eux1986: checks 
+ivan limeira: bets 9000
+Eux1986: folds 
+Uncalled bet (9000) returned to ivan limeira
+ivan limeira collected 18000 from pot
+ivan limeira: doesn't show hand 
+*** SUMMARY ***
+Total pot 18000 | Rake 0 
+Board [7s 4d Qd 3h]
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 (button) folded before Flop (didn't bet)
+Seat 3: Eux1986 (small blind) folded on the Turn
+Seat 4: moratto1992 (big blind) folded before Flop
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira collected (18000)
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251206039056: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:33:40 UTC [2024/06/26 15:33:40 ET]
+Table '3767885527 96' 8-max Seat #3 is the button
+Seat 1: MKL1010 (78387 in chips) 
+Seat 2: DontCryClumsy88 (53980 in chips) 
+Seat 3: Eux1986 (84651 in chips) 
+Seat 4: moratto1992 (25755 in chips) 
+Seat 5: cardinals970 (24000 in chips) 
+Seat 6: Dizzydarts (22111 in chips) 
+Seat 7: ivan limeira (50502 in chips) 
+Seat 8: diabo656 (114300 in chips) 
+MKL1010: posts the ante 250
+DontCryClumsy88: posts the ante 250
+Eux1986: posts the ante 250
+moratto1992: posts the ante 250
+cardinals970: posts the ante 250
+Dizzydarts: posts the ante 250
+ivan limeira: posts the ante 250
+diabo656: posts the ante 250
+moratto1992: posts small blind 1000
+cardinals970: posts big blind 2000
+*** HOLE CARDS ***
+Dizzydarts: folds 
+ivan limeira: raises 2000 to 4000
+diabo656: calls 4000
+MKL1010: folds 
+DontCryClumsy88: calls 4000
+Eux1986: raises 6000 to 10000
+moratto1992: folds 
+cardinals970: folds 
+ivan limeira: folds 
+diabo656: calls 6000
+DontCryClumsy88: calls 6000
+*** FLOP *** [8s 7c Ks]
+diabo656: checks 
+DontCryClumsy88: checks 
+Eux1986: bets 26000
+diabo656: folds 
+DontCryClumsy88: raises 17730 to 43730 and is all-in
+Eux1986: calls 17730
+*** TURN *** [8s 7c Ks] [6d]
+*** RIVER *** [8s 7c Ks 6d] [3c]
+*** SHOW DOWN ***
+DontCryClumsy88: shows [7d 7s] (three of a kind, Sevens)
+Eux1986: shows [As Ad] (a pair of Aces)
+DontCryClumsy88 collected 126460 from pot
+*** SUMMARY ***
+Total pot 126460 | Rake 0 
+Board [8s 7c Ks 6d 3c]
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 showed [7d 7s] and won (126460) with three of a kind, Sevens
+Seat 3: Eux1986 (button) showed [As Ad] and lost with a pair of Aces
+Seat 4: moratto1992 (small blind) folded before Flop
+Seat 5: cardinals970 (big blind) folded before Flop
+Seat 6: Dizzydarts folded before Flop (didn't bet)
+Seat 7: ivan limeira folded before Flop
+Seat 8: diabo656 folded on the Flop
+
+PokerStars Hand #251206056776: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:34:45 UTC [2024/06/26 15:34:45 ET]
+Table '3767885527 96' 8-max Seat #4 is the button
+Seat 1: MKL1010 (78137 in chips) 
+Seat 2: DontCryClumsy88 (126460 in chips) 
+Seat 3: Eux1986 (30671 in chips) 
+Seat 4: moratto1992 (24505 in chips) 
+Seat 5: cardinals970 (21750 in chips) 
+Seat 6: Dizzydarts (21861 in chips) 
+Seat 7: ivan limeira (46252 in chips) 
+Seat 8: diabo656 (104050 in chips) 
+MKL1010: posts the ante 250
+DontCryClumsy88: posts the ante 250
+Eux1986: posts the ante 250
+moratto1992: posts the ante 250
+cardinals970: posts the ante 250
+Dizzydarts: posts the ante 250
+ivan limeira: posts the ante 250
+diabo656: posts the ante 250
+cardinals970: posts small blind 1000
+Dizzydarts: posts big blind 2000
+*** HOLE CARDS ***
+ivan limeira: folds 
+diabo656: folds 
+MKL1010: folds 
+DontCryClumsy88: raises 2000 to 4000
+Eux1986: folds 
+moratto1992: raises 20255 to 24255 and is all-in
+cardinals970: folds 
+Dizzydarts: folds 
+DontCryClumsy88: calls 20255
+*** FLOP *** [Js 4h Kc]
+*** TURN *** [Js 4h Kc] [7s]
+*** RIVER *** [Js 4h Kc 7s] [Jc]
+*** SHOW DOWN ***
+DontCryClumsy88: shows [Ks Ac] (two pair, Kings and Jacks)
+moratto1992: shows [8h Kh] (two pair, Kings and Jacks - lower kicker)
+DontCryClumsy88 collected 53510 from pot
+moratto1992 finished the tournament
+*** SUMMARY ***
+Total pot 53510 | Rake 0 
+Board [Js 4h Kc 7s Jc]
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 showed [Ks Ac] and won (53510) with two pair, Kings and Jacks
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: moratto1992 (button) showed [8h Kh] and lost with two pair, Kings and Jacks
+Seat 5: cardinals970 (small blind) folded before Flop
+Seat 6: Dizzydarts (big blind) folded before Flop
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251206064993: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:35:15 UTC [2024/06/26 15:35:15 ET]
+Table '3767885527 96' 8-max Seat #5 is the button
+Seat 1: MKL1010 (77887 in chips) 
+Seat 2: DontCryClumsy88 (155465 in chips) 
+Seat 3: Eux1986 (30421 in chips) 
+Seat 5: cardinals970 (20500 in chips) 
+Seat 6: Dizzydarts (19611 in chips) 
+Seat 7: ivan limeira (46002 in chips) 
+Seat 8: diabo656 (103800 in chips) 
+MKL1010: posts the ante 250
+DontCryClumsy88: posts the ante 250
+Eux1986: posts the ante 250
+cardinals970: posts the ante 250
+Dizzydarts: posts the ante 250
+ivan limeira: posts the ante 250
+diabo656: posts the ante 250
+Dizzydarts: posts small blind 1000
+ivan limeira: posts big blind 2000
+*** HOLE CARDS ***
+diabo656: folds 
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: folds 
+cardinals970: raises 18250 to 20250 and is all-in
+Dizzydarts: calls 18361 and is all-in
+ivan limeira: folds 
+Uncalled bet (889) returned to cardinals970
+*** FLOP *** [5c 2s 5d]
+*** TURN *** [5c 2s 5d] [4c]
+*** RIVER *** [5c 2s 5d 4c] [4h]
+*** SHOW DOWN ***
+Dizzydarts: shows [6d 6s] (two pair, Sixes and Fives)
+cardinals970: shows [Kc Kh] (two pair, Kings and Fives)
+cardinals970 collected 42472 from pot
+Dizzydarts finished the tournament
+*** SUMMARY ***
+Total pot 42472 | Rake 0 
+Board [5c 2s 5d 4c 4h]
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 5: cardinals970 (button) showed [Kc Kh] and won (42472) with two pair, Kings and Fives
+Seat 6: Dizzydarts (small blind) showed [6d 6s] and lost with two pair, Sixes and Fives
+Seat 7: ivan limeira (big blind) folded before Flop
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251206077467: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:36:00 UTC [2024/06/26 15:36:00 ET]
+Table '3767885527 96' 8-max Seat #7 is the button
+Seat 1: MKL1010 (77637 in chips) 
+Seat 2: DontCryClumsy88 (155215 in chips) 
+Seat 3: Eux1986 (30171 in chips) 
+Seat 4: Bigprad (89372 in chips) 
+Seat 5: cardinals970 (43361 in chips) 
+Seat 7: ivan limeira (43752 in chips) 
+Seat 8: diabo656 (103550 in chips) 
+MKL1010: posts the ante 250
+DontCryClumsy88: posts the ante 250
+Eux1986: posts the ante 250
+Bigprad: posts the ante 250
+cardinals970: posts the ante 250
+ivan limeira: posts the ante 250
+diabo656: posts the ante 250
+diabo656: posts small blind 1000
+MKL1010: posts big blind 2000
+*** HOLE CARDS ***
+DontCryClumsy88: raises 2000 to 4000
+Eux1986: folds 
+Bigprad: folds 
+cardinals970: folds 
+ivan limeira: raises 6000 to 10000
+diabo656: calls 9000
+MKL1010: folds 
+DontCryClumsy88: folds 
+*** FLOP *** [9s 6s 5d]
+diabo656: checks 
+ivan limeira: bets 9158
+diabo656: calls 9158
+*** TURN *** [9s 6s 5d] [6c]
+Dueces4Days is disconnected 
+diabo656: checks 
+ivan limeira: checks 
+*** RIVER *** [9s 6s 5d 6c] [Ad]
+diabo656: checks 
+ivan limeira: checks 
+*** SHOW DOWN ***
+diabo656: shows [Qd As] (two pair, Aces and Sixes)
+ivan limeira: mucks hand 
+diabo656 collected 46066 from pot
+*** SUMMARY ***
+Total pot 46066 | Rake 0 
+Board [9s 6s 5d 6c Ad]
+Seat 1: MKL1010 (big blind) folded before Flop
+Seat 2: DontCryClumsy88 folded before Flop
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: Bigprad folded before Flop (didn't bet)
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 7: ivan limeira (button) mucked
+Seat 8: diabo656 (small blind) showed [Qd As] and won (46066) with two pair, Aces and Sixes
+
+PokerStars Hand #251206096899: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:37:11 UTC [2024/06/26 15:37:11 ET]
+Table '3767885527 96' 8-max Seat #8 is the button
+Seat 1: MKL1010 (75387 in chips) 
+Seat 2: DontCryClumsy88 (150965 in chips) 
+Seat 3: Eux1986 (29921 in chips) 
+Seat 4: Bigprad (89122 in chips) 
+Seat 5: cardinals970 (43111 in chips) 
+Seat 6: Dueces4Days (141708 in chips) 
+Seat 7: ivan limeira (24344 in chips) 
+Seat 8: diabo656 (130208 in chips) 
+MKL1010: posts the ante 250
+DontCryClumsy88: posts the ante 250
+Eux1986: posts the ante 250
+Bigprad: posts the ante 250
+cardinals970: posts the ante 250
+Dueces4Days: posts the ante 250
+ivan limeira: posts the ante 250
+diabo656: posts the ante 250
+MKL1010: posts small blind 1000
+DontCryClumsy88: posts big blind 2000
+*** HOLE CARDS ***
+Eux1986: folds 
+Bigprad: folds 
+cardinals970: folds 
+Dueces4Days: folds 
+ivan limeira: folds 
+diabo656: raises 7000 to 9000
+MKL1010: folds 
+DontCryClumsy88: folds 
+Uncalled bet (7000) returned to diabo656
+diabo656 collected 7000 from pot
+*** SUMMARY ***
+Total pot 7000 | Rake 0 
+Seat 1: MKL1010 (small blind) folded before Flop
+Seat 2: DontCryClumsy88 (big blind) folded before Flop
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: Bigprad folded before Flop (didn't bet)
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: Dueces4Days folded before Flop (didn't bet)
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 (button) collected (7000)
+
+PokerStars Hand #251206104233: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:37:37 UTC [2024/06/26 15:37:37 ET]
+Table '3767885527 96' 8-max Seat #1 is the button
+Seat 1: MKL1010 (74137 in chips) 
+Seat 2: DontCryClumsy88 (148715 in chips) 
+Seat 3: Eux1986 (29671 in chips) 
+Seat 4: Bigprad (88872 in chips) 
+Seat 5: cardinals970 (42861 in chips) 
+Seat 6: Dueces4Days (141458 in chips) 
+Seat 7: ivan limeira (24094 in chips) 
+Seat 8: diabo656 (134958 in chips) 
+MKL1010: posts the ante 250
+DontCryClumsy88: posts the ante 250
+Eux1986: posts the ante 250
+Bigprad: posts the ante 250
+cardinals970: posts the ante 250
+Dueces4Days: posts the ante 250
+ivan limeira: posts the ante 250
+diabo656: posts the ante 250
+DontCryClumsy88: posts small blind 1000
+Eux1986: posts big blind 2000
+*** HOLE CARDS ***
+Bigprad: folds 
+cardinals970: folds 
+Dueces4Days: raises 2000 to 4000
+ivan limeira: folds 
+diabo656: folds 
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: calls 2000
+*** FLOP *** [5d Ad 7c]
+Eux1986: checks 
+Dueces4Days: bets 2750
+Eux1986: folds 
+Uncalled bet (2750) returned to Dueces4Days
+Dueces4Days collected 11000 from pot
+Dueces4Days: doesn't show hand 
+*** SUMMARY ***
+Total pot 11000 | Rake 0 
+Board [5d Ad 7c]
+Seat 1: MKL1010 (button) folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 (small blind) folded before Flop
+Seat 3: Eux1986 (big blind) folded on the Flop
+Seat 4: Bigprad folded before Flop (didn't bet)
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: Dueces4Days collected (11000)
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251206112187: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:38:07 UTC [2024/06/26 15:38:07 ET]
+Table '3767885527 96' 8-max Seat #2 is the button
+Seat 1: MKL1010 (73887 in chips) 
+Seat 2: DontCryClumsy88 (147465 in chips) 
+Seat 3: Eux1986 (25421 in chips) 
+Seat 4: Bigprad (88622 in chips) 
+Seat 5: cardinals970 (42611 in chips) 
+Seat 6: Dueces4Days (148208 in chips) 
+Seat 7: ivan limeira (23844 in chips) 
+Seat 8: diabo656 (134708 in chips) 
+MKL1010: posts the ante 250
+DontCryClumsy88: posts the ante 250
+Eux1986: posts the ante 250
+Bigprad: posts the ante 250
+cardinals970: posts the ante 250
+Dueces4Days: posts the ante 250
+ivan limeira: posts the ante 250
+diabo656: posts the ante 250
+Eux1986: posts small blind 1000
+Bigprad: posts big blind 2000
+*** HOLE CARDS ***
+cardinals970: folds 
+Dueces4Days: raises 2000 to 4000
+ivan limeira: folds 
+diabo656: folds 
+MKL1010: folds 
+DontCryClumsy88: folds 
+Eux1986: folds 
+Bigprad: folds 
+Uncalled bet (2000) returned to Dueces4Days
+Dueces4Days collected 7000 from pot
+Dueces4Days: doesn't show hand 
+*** SUMMARY ***
+Total pot 7000 | Rake 0 
+Seat 1: MKL1010 folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 (button) folded before Flop (didn't bet)
+Seat 3: Eux1986 (small blind) folded before Flop
+Seat 4: Bigprad (big blind) folded before Flop
+Seat 5: cardinals970 folded before Flop (didn't bet)
+Seat 6: Dueces4Days collected (7000)
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251206118379: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:38:30 UTC [2024/06/26 15:38:30 ET]
+Table '3767885527 96' 8-max Seat #3 is the button
+Seat 1: MKL1010 (73637 in chips) 
+Seat 2: DontCryClumsy88 (147215 in chips) 
+Seat 3: Eux1986 (24171 in chips) 
+Seat 4: Bigprad (86372 in chips) 
+Seat 5: cardinals970 (42361 in chips) 
+Seat 6: Dueces4Days (152958 in chips) 
+Seat 7: ivan limeira (23594 in chips) 
+Seat 8: diabo656 (134458 in chips) 
+MKL1010: posts the ante 250
+DontCryClumsy88: posts the ante 250
+Eux1986: posts the ante 250
+Bigprad: posts the ante 250
+cardinals970: posts the ante 250
+Dueces4Days: posts the ante 250
+ivan limeira: posts the ante 250
+diabo656: posts the ante 250
+Bigprad: posts small blind 1000
+cardinals970: posts big blind 2000
+*** HOLE CARDS ***
+Dueces4Days: raises 2000 to 4000
+ivan limeira: folds 
+diabo656: folds 
+MKL1010: calls 4000
+DontCryClumsy88: calls 4000
+Eux1986: folds 
+Bigprad: calls 3000
+cardinals970: folds 
+*** FLOP *** [Th 9s 4h]
+Bigprad: checks 
+Dueces4Days: checks 
+MKL1010: bets 6000
+DontCryClumsy88: folds 
+Bigprad: calls 6000
+Dueces4Days: calls 6000
+*** TURN *** [Th 9s 4h] [Jd]
+Bigprad: checks 
+Dueces4Days: checks 
+MKL1010: bets 19000
+Bigprad: calls 19000
+Dueces4Days: raises 123708 to 142708 and is all-in
+MKL1010: calls 44387 and is all-in
+Bigprad: folds 
+Uncalled bet (79321) returned to Dueces4Days
+*** RIVER *** [Th 9s 4h Jd] [6d]
+*** SHOW DOWN ***
+Dueces4Days: shows [Kc Qs] (a straight, Nine to King)
+MKL1010: shows [Td Tc] (three of a kind, Tens)
+Dueces4Days collected 183774 from pot
+MKL1010 finished the tournament in 610th place
+*** SUMMARY ***
+Total pot 183774 | Rake 0 
+Board [Th 9s 4h Jd 6d]
+Seat 1: MKL1010 showed [Td Tc] and lost with three of a kind, Tens
+Seat 2: DontCryClumsy88 folded on the Flop
+Seat 3: Eux1986 (button) folded before Flop (didn't bet)
+Seat 4: Bigprad (small blind) folded on the Turn
+Seat 5: cardinals970 (big blind) folded before Flop
+Seat 6: Dueces4Days showed [Kc Qs] and won (183774) with a straight, Nine to King
+Seat 7: ivan limeira folded before Flop (didn't bet)
+Seat 8: diabo656 folded before Flop (didn't bet)
+
+PokerStars Hand #251206139227: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XV (1250/2500) - 2024/06/26 19:39:46 UTC [2024/06/26 15:39:46 ET]
+Table '3767885527 96' 8-max Seat #4 is the button
+Seat 2: DontCryClumsy88 (142965 in chips) 
+Seat 3: Eux1986 (23921 in chips) 
+Seat 4: Bigprad (57122 in chips) 
+Seat 5: cardinals970 (40111 in chips) 
+Seat 6: Dueces4Days (263095 in chips) 
+Seat 7: ivan limeira (23344 in chips) 
+Seat 8: diabo656 (134208 in chips) 
+DontCryClumsy88: posts the ante 325
+Eux1986: posts the ante 325
+Bigprad: posts the ante 325
+cardinals970: posts the ante 325
+Dueces4Days: posts the ante 325
+ivan limeira: posts the ante 325
+diabo656: posts the ante 325
+cardinals970: posts small blind 1250
+Dueces4Days: posts big blind 2500
+*** HOLE CARDS ***
+ivan limeira: raises 2500 to 5000
+diabo656: calls 5000
+DontCryClumsy88: folds 
+Eux1986: folds 
+Bigprad: folds 
+cardinals970: folds 
+Dueces4Days: calls 2500
+*** FLOP *** [9s Js 2h]
+Dueces4Days: checks 
+ivan limeira: checks 
+diabo656: bets 18525
+Dueces4Days: raises 31025 to 49550
+ivan limeira: folds 
+diabo656: calls 31025
+*** TURN *** [9s Js 2h] [Qd]
+Dueces4Days: bets 176438
+diabo656: calls 79333 and is all-in
+Uncalled bet (97105) returned to Dueces4Days
+*** RIVER *** [9s Js 2h Qd] [4d]
+*** SHOW DOWN ***
+Dueces4Days: shows [Ts 7s] (high card Queen)
+diabo656: shows [Jc Qc] (two pair, Queens and Jacks)
+diabo656 collected 276291 from pot
+*** SUMMARY ***
+Total pot 276291 | Rake 0 
+Board [9s Js 2h Qd 4d]
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: Bigprad (button) folded before Flop (didn't bet)
+Seat 5: cardinals970 (small blind) folded before Flop
+Seat 6: Dueces4Days (big blind) showed [Ts 7s] and lost with high card Queen
+Seat 7: ivan limeira folded on the Flop
+Seat 8: diabo656 showed [Jc Qc] and won (276291) with two pair, Queens and Jacks
+
+PokerStars Hand #251206164105: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XV (1250/2500) - 2024/06/26 19:41:16 UTC [2024/06/26 15:41:16 ET]
+Table '3767885527 96' 8-max Seat #5 is the button
+Seat 1: Scairone (30771 in chips) 
+Seat 2: DontCryClumsy88 (142640 in chips) 
+Seat 3: Eux1986 (23596 in chips) 
+Seat 4: Bigprad (56797 in chips) 
+Seat 5: cardinals970 (38536 in chips) 
+Seat 6: Dueces4Days (128887 in chips) 
+Seat 7: ivan limeira (18019 in chips) 
+Seat 8: diabo656 (276291 in chips) 
+Scairone: posts the ante 325
+DontCryClumsy88: posts the ante 325
+Eux1986: posts the ante 325
+Bigprad: posts the ante 325
+cardinals970: posts the ante 325
+Dueces4Days: posts the ante 325
+ivan limeira: posts the ante 325
+diabo656: posts the ante 325
+Dueces4Days: posts small blind 1250
+ivan limeira: posts big blind 2500
+*** HOLE CARDS ***
+diabo656: folds 
+Scairone: folds 
+DontCryClumsy88: folds 
+Eux1986: folds 
+Bigprad: folds 
+cardinals970: folds 
+Dueces4Days: raises 126062 to 128562 and is all-in
+ivan limeira: calls 15194 and is all-in
+Uncalled bet (110868) returned to Dueces4Days
+*** FLOP *** [7c 8c 4d]
+*** TURN *** [7c 8c 4d] [7s]
+*** RIVER *** [7c 8c 4d 7s] [7h]
+*** SHOW DOWN ***
+Dueces4Days: shows [8h 5d] (a full house, Sevens full of Eights)
+ivan limeira: shows [As Tc] (three of a kind, Sevens)
+Dueces4Days collected 37988 from pot
+ivan limeira finished the tournament in 577th place
+*** SUMMARY ***
+Total pot 37988 | Rake 0 
+Board [7c 8c 4d 7s 7h]
+Seat 1: Scairone folded before Flop (didn't bet)
+Seat 2: DontCryClumsy88 folded before Flop (didn't bet)
+Seat 3: Eux1986 folded before Flop (didn't bet)
+Seat 4: Bigprad folded before Flop (didn't bet)
+Seat 5: cardinals970 (button) folded before Flop (didn't bet)
+Seat 6: Dueces4Days (small blind) showed [8h 5d] and won (37988) with a full house, Sevens full of Eights
+Seat 7: ivan limeira (big blind) showed [As Tc] and lost with three of a kind, Sevens
+Seat 8: diabo656 folded before Flop (didn't bet)

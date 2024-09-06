@@ -1,0 +1,238 @@
+PokerStars Hand #251200538999: Tournament #3769359732, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (80/160) - 2024/06/26 11:45:13 UTC [2024/06/26 7:45:13 ET]
+Table '3769359732 8' 6-max Seat #4 is the button
+Seat 1: kbção535 (5248 in chips, $37.50 bounty) 
+Seat 2: Tom_Poker_NL (5878 in chips, $25 bounty) 
+Seat 4: kazymyr92 (4827 in chips, $37.50 bounty) 
+Seat 5: peace&loove (1875 in chips, $25 bounty) 
+kbção535: posts the ante 40
+Tom_Poker_NL: posts the ante 40
+kazymyr92: posts the ante 40
+peace&loove: posts the ante 40
+peace&loove: posts small blind 80
+kbção535: posts big blind 160
+*** HOLE CARDS ***
+Tom_Poker_NL: folds 
+kazymyr92: folds 
+peace&loove: raises 1675 to 1835 and is all-in
+kbção535: folds 
+Uncalled bet (1675) returned to peace&loove
+peace&loove collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 1: kbção535 (big blind) folded before Flop
+Seat 2: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: kazymyr92 (button) folded before Flop (didn't bet)
+Seat 5: peace&loove (small blind) collected (480)
+
+PokerStars Hand #251200540754: Tournament #3769359732, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (80/160) - 2024/06/26 11:45:26 UTC [2024/06/26 7:45:26 ET]
+Table '3769359732 8' 6-max Seat #5 is the button
+Seat 1: kbção535 (5048 in chips, $37.50 bounty) 
+Seat 2: Tom_Poker_NL (5838 in chips, $25 bounty) 
+Seat 4: kazymyr92 (4787 in chips, $37.50 bounty) 
+Seat 5: peace&loove (2155 in chips, $25 bounty) 
+Seat 6: Voroshylov02 (3000 in chips) out of hand (moved from another table into small blind)
+Voroshylov02 will be allowed to play after the button
+kbção535: posts the ante 40
+Tom_Poker_NL: posts the ante 40
+kazymyr92: posts the ante 40
+peace&loove: posts the ante 40
+kbção535: posts small blind 80
+Tom_Poker_NL: posts big blind 160
+*** HOLE CARDS ***
+kazymyr92: folds 
+peace&loove: folds 
+kbção535: raises 480 to 640
+Tom_Poker_NL: folds 
+Uncalled bet (480) returned to kbção535
+kbção535 collected 480 from pot
+kbção535: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 1: kbção535 (small blind) collected (480)
+Seat 2: Tom_Poker_NL (big blind) folded before Flop
+Seat 4: kazymyr92 folded before Flop (didn't bet)
+Seat 5: peace&loove (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251200542032: Tournament #3769359732, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (80/160) - 2024/06/26 11:45:36 UTC [2024/06/26 7:45:36 ET]
+Table '3769359732 8' 6-max Seat #1 is the button
+Seat 1: kbção535 (5328 in chips, $37.50 bounty) 
+Seat 2: Tom_Poker_NL (5638 in chips, $25 bounty) 
+Seat 4: kazymyr92 (4747 in chips, $37.50 bounty) 
+Seat 5: peace&loove (2115 in chips, $25 bounty) 
+Seat 6: Voroshylov02 (3000 in chips, $25 bounty) 
+kbção535: posts the ante 40
+Tom_Poker_NL: posts the ante 40
+kazymyr92: posts the ante 40
+peace&loove: posts the ante 40
+Voroshylov02: posts the ante 40
+Tom_Poker_NL: posts small blind 80
+kazymyr92: posts big blind 160
+*** HOLE CARDS ***
+peace&loove: folds 
+Voroshylov02: folds 
+kbção535: folds 
+Tom_Poker_NL: calls 80
+kazymyr92: raises 400 to 560
+Tom_Poker_NL: calls 400
+*** FLOP *** [9s Ad 8s]
+Tom_Poker_NL: checks 
+kazymyr92: bets 436
+Tom_Poker_NL: calls 436
+*** TURN *** [9s Ad 8s] [Kc]
+Tom_Poker_NL: checks 
+kazymyr92: checks 
+*** RIVER *** [9s Ad 8s Kc] [Qh]
+Tom_Poker_NL: checks 
+kazymyr92: checks 
+*** SHOW DOWN ***
+Tom_Poker_NL: shows [4d 8d] (a pair of Eights)
+kazymyr92: shows [Th Td] (a pair of Tens)
+kazymyr92 collected 2192 from pot
+*** SUMMARY ***
+Total pot 2192 | Rake 0 
+Board [9s Ad 8s Kc Qh]
+Seat 1: kbção535 (button) folded before Flop (didn't bet)
+Seat 2: Tom_Poker_NL (small blind) showed [4d 8d] and lost with a pair of Eights
+Seat 4: kazymyr92 (big blind) showed [Th Td] and won (2192) with a pair of Tens
+Seat 5: peace&loove folded before Flop (didn't bet)
+Seat 6: Voroshylov02 folded before Flop (didn't bet)
+
+PokerStars Hand #251200549447: Tournament #3769359732, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VIII (100/200) - 2024/06/26 11:46:30 UTC [2024/06/26 7:46:30 ET]
+Table '3769359732 8' 6-max Seat #2 is the button
+Seat 1: kbção535 (5288 in chips, $37.50 bounty) 
+Seat 2: Tom_Poker_NL (4602 in chips, $25 bounty) 
+Seat 4: kazymyr92 (5903 in chips, $37.50 bounty) 
+Seat 5: peace&loove (2075 in chips, $25 bounty) 
+Seat 6: Voroshylov02 (2960 in chips, $25 bounty) 
+kbção535: posts the ante 50
+Tom_Poker_NL: posts the ante 50
+kazymyr92: posts the ante 50
+peace&loove: posts the ante 50
+Voroshylov02: posts the ante 50
+kazymyr92: posts small blind 100
+peace&loove: posts big blind 200
+*** HOLE CARDS ***
+Voroshylov02: raises 2710 to 2910 and is all-in
+kbção535: folds 
+Tom_Poker_NL: folds 
+kazymyr92: folds 
+peace&loove: folds 
+Uncalled bet (2710) returned to Voroshylov02
+Voroshylov02 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Seat 1: kbção535 folded before Flop (didn't bet)
+Seat 2: Tom_Poker_NL (button) folded before Flop (didn't bet)
+Seat 4: kazymyr92 (small blind) folded before Flop
+Seat 5: peace&loove (big blind) folded before Flop
+Seat 6: Voroshylov02 collected (750)
+
+PokerStars Hand #251200551011: Tournament #3769359732, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VIII (100/200) - 2024/06/26 11:46:42 UTC [2024/06/26 7:46:42 ET]
+Table '3769359732 8' 6-max Seat #4 is the button
+Seat 1: kbção535 (5238 in chips, $37.50 bounty) 
+Seat 2: Tom_Poker_NL (4552 in chips, $25 bounty) 
+Seat 4: kazymyr92 (5753 in chips, $37.50 bounty) 
+Seat 5: peace&loove (1825 in chips, $25 bounty) 
+Seat 6: Voroshylov02 (3460 in chips, $25 bounty) 
+kbção535: posts the ante 50
+Tom_Poker_NL: posts the ante 50
+kazymyr92: posts the ante 50
+peace&loove: posts the ante 50
+Voroshylov02: posts the ante 50
+peace&loove: posts small blind 100
+Voroshylov02: posts big blind 200
+*** HOLE CARDS ***
+kbção535: folds 
+Tom_Poker_NL: folds 
+kazymyr92: raises 200 to 400
+peace&loove: folds 
+Voroshylov02: calls 200
+*** FLOP *** [3c 8h 9d]
+Voroshylov02: checks 
+kazymyr92: checks 
+*** TURN *** [3c 8h 9d] [3s]
+Voroshylov02: checks 
+kazymyr92: bets 460
+Voroshylov02: folds 
+Uncalled bet (460) returned to kazymyr92
+kazymyr92 collected 1150 from pot
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Board [3c 8h 9d 3s]
+Seat 1: kbção535 folded before Flop (didn't bet)
+Seat 2: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: kazymyr92 (button) collected (1150)
+Seat 5: peace&loove (small blind) folded before Flop
+Seat 6: Voroshylov02 (big blind) folded on the Turn
+
+PokerStars Hand #251200554452: Tournament #3769359732, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VIII (100/200) - 2024/06/26 11:47:07 UTC [2024/06/26 7:47:07 ET]
+Table '3769359732 8' 6-max Seat #5 is the button
+Seat 1: kbção535 (5188 in chips, $37.50 bounty) 
+Seat 2: Tom_Poker_NL (4502 in chips, $25 bounty) 
+Seat 4: kazymyr92 (6453 in chips, $37.50 bounty) 
+Seat 5: peace&loove (1675 in chips, $25 bounty) 
+Seat 6: Voroshylov02 (3010 in chips, $25 bounty) 
+kbção535: posts the ante 50
+Tom_Poker_NL: posts the ante 50
+kazymyr92: posts the ante 50
+peace&loove: posts the ante 50
+Voroshylov02: posts the ante 50
+Voroshylov02: posts small blind 100
+kbção535: posts big blind 200
+*** HOLE CARDS ***
+Tom_Poker_NL: folds 
+kazymyr92: folds 
+peace&loove: folds 
+Voroshylov02: folds 
+Uncalled bet (100) returned to kbção535
+kbção535 collected 450 from pot
+kbção535: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 1: kbção535 (big blind) collected (450)
+Seat 2: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: kazymyr92 folded before Flop (didn't bet)
+Seat 5: peace&loove (button) folded before Flop (didn't bet)
+Seat 6: Voroshylov02 (small blind) folded before Flop
+
+PokerStars Hand #251200556370: Tournament #3769359732, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VIII (100/200) - 2024/06/26 11:47:21 UTC [2024/06/26 7:47:21 ET]
+Table '3769359732 8' 6-max Seat #6 is the button
+Seat 1: kbção535 (5488 in chips, $37.50 bounty) 
+Seat 2: Tom_Poker_NL (4452 in chips, $25 bounty) 
+Seat 4: kazymyr92 (6403 in chips, $37.50 bounty) 
+Seat 5: peace&loove (1625 in chips, $25 bounty) 
+Seat 6: Voroshylov02 (2860 in chips, $25 bounty) 
+kbção535: posts the ante 50
+Tom_Poker_NL: posts the ante 50
+kazymyr92: posts the ante 50
+peace&loove: posts the ante 50
+Voroshylov02: posts the ante 50
+kbção535: posts small blind 100
+Tom_Poker_NL: posts big blind 200
+*** HOLE CARDS ***
+kazymyr92: raises 200 to 400
+peace&loove: folds 
+Voroshylov02: folds 
+kbção535: folds 
+Tom_Poker_NL: calls 200
+*** FLOP *** [Td Kd Qs]
+Tom_Poker_NL: checks 
+kazymyr92: bets 1060
+Tom_Poker_NL: raises 2942 to 4002 and is all-in
+kazymyr92: calls 2942
+*** TURN *** [Td Kd Qs] [Jc]
+*** RIVER *** [Td Kd Qs Jc] [5s]
+*** SHOW DOWN ***
+Tom_Poker_NL: shows [Jh 9s] (a straight, Nine to King)
+kazymyr92: shows [As Ac] (a straight, Ten to Ace)
+kazymyr92 collected 9154 from pot
+kazymyr92 wins $12.50 for eliminating Tom_Poker_NL and their own bounty increases by $12.50 to $50
+Tom_Poker_NL finished the tournament
+*** SUMMARY ***
+Total pot 9154 | Rake 0 
+Board [Td Kd Qs Jc 5s]
+Seat 1: kbção535 (small blind) folded before Flop
+Seat 2: Tom_Poker_NL (big blind) showed [Jh 9s] and lost with a straight, Nine to King
+Seat 4: kazymyr92 showed [As Ac] and won (9154) with a straight, Ten to Ace
+Seat 5: peace&loove folded before Flop (didn't bet)
+Seat 6: Voroshylov02 (button) folded before Flop (didn't bet)

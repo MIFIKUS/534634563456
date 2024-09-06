@@ -1,0 +1,548 @@
+PokerStars Hand #251205109405: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:33:44 UTC [2024/06/26 14:33:44 ET]
+Table '3767885527 60' 8-max Seat #3 is the button
+Seat 1: BerriSwEEE27 (25193 in chips) 
+Seat 2: billisrd350 (27642 in chips) 
+Seat 3: Amandaraujo (48387 in chips) 
+Seat 4: kuenne71 (91409 in chips) 
+Seat 5: Godfather_RJ (7105 in chips) 
+Seat 6: Jayda26 (4412 in chips) 
+Seat 7: DrawinDead321 (36369 in chips) 
+Seat 8: TamTam93AT (81898 in chips) 
+BerriSwEEE27: posts the ante 100
+billisrd350: posts the ante 100
+Amandaraujo: posts the ante 100
+kuenne71: posts the ante 100
+Godfather_RJ: posts the ante 100
+Jayda26: posts the ante 100
+DrawinDead321: posts the ante 100
+TamTam93AT: posts the ante 100
+kuenne71: posts small blind 400
+Godfather_RJ: posts big blind 800
+*** HOLE CARDS ***
+Jayda26: folds 
+DrawinDead321: raises 800 to 1600
+TamTam93AT: folds 
+BerriSwEEE27: folds 
+billisrd350: folds 
+Amandaraujo: calls 1600
+kuenne71: folds 
+Godfather_RJ: calls 800
+*** FLOP *** [Ah 2h Jh]
+Godfather_RJ: checks 
+DrawinDead321: bets 3800
+Amandaraujo: folds 
+Godfather_RJ: folds 
+Uncalled bet (3800) returned to DrawinDead321
+DrawinDead321 collected 6000 from pot
+*** SUMMARY ***
+Total pot 6000 | Rake 0 
+Board [Ah 2h Jh]
+Seat 1: BerriSwEEE27 folded before Flop (didn't bet)
+Seat 2: billisrd350 folded before Flop (didn't bet)
+Seat 3: Amandaraujo (button) folded on the Flop
+Seat 4: kuenne71 (small blind) folded before Flop
+Seat 5: Godfather_RJ (big blind) folded on the Flop
+Seat 6: Jayda26 folded before Flop (didn't bet)
+Seat 7: DrawinDead321 collected (6000)
+Seat 8: TamTam93AT folded before Flop (didn't bet)
+
+PokerStars Hand #251205119056: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:34:22 UTC [2024/06/26 14:34:22 ET]
+Table '3767885527 60' 8-max Seat #4 is the button
+Seat 1: BerriSwEEE27 (25093 in chips) 
+Seat 2: billisrd350 (27542 in chips) 
+Seat 3: Amandaraujo (46687 in chips) 
+Seat 4: kuenne71 (90909 in chips) 
+Seat 5: Godfather_RJ (5405 in chips) 
+Seat 6: Jayda26 (4312 in chips) 
+Seat 7: DrawinDead321 (40669 in chips) 
+Seat 8: TamTam93AT (81798 in chips) 
+BerriSwEEE27: posts the ante 100
+billisrd350: posts the ante 100
+Amandaraujo: posts the ante 100
+kuenne71: posts the ante 100
+Godfather_RJ: posts the ante 100
+Jayda26: posts the ante 100
+DrawinDead321: posts the ante 100
+TamTam93AT: posts the ante 100
+Godfather_RJ: posts small blind 400
+Jayda26: posts big blind 800
+*** HOLE CARDS ***
+DrawinDead321: raises 800 to 1600
+TamTam93AT: folds 
+BerriSwEEE27: folds 
+billisrd350: calls 1600
+Amandaraujo: raises 2400 to 4000
+kuenne71: folds 
+Godfather_RJ: folds 
+Jayda26: raises 212 to 4212 and is all-in
+DrawinDead321: raises 36357 to 40569 and is all-in
+billisrd350: folds 
+Amandaraujo: folds 
+Uncalled bet (36357) returned to DrawinDead321
+*** FLOP *** [Ad Qs 4c]
+*** TURN *** [Ad Qs 4c] [7s]
+*** RIVER *** [Ad Qs 4c 7s] [8s]
+*** SHOW DOWN ***
+Jayda26: shows [9h Ac] (a pair of Aces)
+DrawinDead321: shows [Kc As] (a pair of Aces - King kicker)
+DrawinDead321 collected 15224 from pot
+Jayda26 finished the tournament
+*** SUMMARY ***
+Total pot 15224 | Rake 0 
+Board [Ad Qs 4c 7s 8s]
+Seat 1: BerriSwEEE27 folded before Flop (didn't bet)
+Seat 2: billisrd350 folded before Flop
+Seat 3: Amandaraujo folded before Flop
+Seat 4: kuenne71 (button) folded before Flop (didn't bet)
+Seat 5: Godfather_RJ (small blind) folded before Flop
+Seat 6: Jayda26 (big blind) showed [9h Ac] and lost with a pair of Aces
+Seat 7: DrawinDead321 showed [Kc As] and won (15224) with a pair of Aces
+Seat 8: TamTam93AT folded before Flop (didn't bet)
+
+PokerStars Hand #251205129609: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:35:03 UTC [2024/06/26 14:35:03 ET]
+Table '3767885527 60' 8-max Seat #5 is the button
+Seat 1: BerriSwEEE27 (24993 in chips) 
+Seat 2: billisrd350 (25842 in chips) 
+Seat 3: Amandaraujo (42587 in chips) 
+Seat 4: kuenne71 (90809 in chips) 
+Seat 5: Godfather_RJ (4905 in chips) 
+Seat 7: DrawinDead321 (51581 in chips) 
+Seat 8: TamTam93AT (81698 in chips) 
+BerriSwEEE27: posts the ante 100
+billisrd350: posts the ante 100
+Amandaraujo: posts the ante 100
+kuenne71: posts the ante 100
+Godfather_RJ: posts the ante 100
+DrawinDead321: posts the ante 100
+TamTam93AT: posts the ante 100
+DrawinDead321: posts small blind 400
+TamTam93AT: posts big blind 800
+*** HOLE CARDS ***
+BerriSwEEE27: raises 880 to 1680
+billisrd350: folds 
+Amandaraujo: raises 1680 to 3360
+kuenne71: folds 
+Godfather_RJ: folds 
+DrawinDead321: folds 
+TamTam93AT: folds 
+BerriSwEEE27: raises 21533 to 24893 and is all-in
+Amandaraujo: folds 
+Uncalled bet (21533) returned to BerriSwEEE27
+BerriSwEEE27 collected 8620 from pot
+*** SUMMARY ***
+Total pot 8620 | Rake 0 
+Seat 1: BerriSwEEE27 collected (8620)
+Seat 2: billisrd350 folded before Flop (didn't bet)
+Seat 3: Amandaraujo folded before Flop
+Seat 4: kuenne71 folded before Flop (didn't bet)
+Seat 5: Godfather_RJ (button) folded before Flop (didn't bet)
+Seat 7: DrawinDead321 (small blind) folded before Flop
+Seat 8: TamTam93AT (big blind) folded before Flop
+
+PokerStars Hand #251205136323: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:35:30 UTC [2024/06/26 14:35:30 ET]
+Table '3767885527 60' 8-max Seat #7 is the button
+Seat 1: BerriSwEEE27 (30153 in chips) 
+Seat 2: billisrd350 (25742 in chips) 
+Seat 3: Amandaraujo (39127 in chips) 
+Seat 4: kuenne71 (90709 in chips) 
+Seat 5: Godfather_RJ (4805 in chips) 
+Seat 7: DrawinDead321 (51081 in chips) 
+Seat 8: TamTam93AT (80798 in chips) 
+BerriSwEEE27: posts the ante 100
+billisrd350: posts the ante 100
+Amandaraujo: posts the ante 100
+kuenne71: posts the ante 100
+Godfather_RJ: posts the ante 100
+DrawinDead321: posts the ante 100
+TamTam93AT: posts the ante 100
+TamTam93AT: posts small blind 400
+BerriSwEEE27: posts big blind 800
+*** HOLE CARDS ***
+billisrd350: folds 
+Amandaraujo: raises 2700 to 3500
+kuenne71: folds 
+Godfather_RJ: folds 
+DrawinDead321: folds 
+TamTam93AT: folds 
+BerriSwEEE27: folds 
+Uncalled bet (2700) returned to Amandaraujo
+Amandaraujo collected 2700 from pot
+*** SUMMARY ***
+Total pot 2700 | Rake 0 
+Seat 1: BerriSwEEE27 (big blind) folded before Flop
+Seat 2: billisrd350 folded before Flop (didn't bet)
+Seat 3: Amandaraujo collected (2700)
+Seat 4: kuenne71 folded before Flop (didn't bet)
+Seat 5: Godfather_RJ folded before Flop (didn't bet)
+Seat 7: DrawinDead321 (button) folded before Flop (didn't bet)
+Seat 8: TamTam93AT (small blind) folded before Flop
+
+PokerStars Hand #251205145676: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:36:06 UTC [2024/06/26 14:36:06 ET]
+Table '3767885527 60' 8-max Seat #8 is the button
+Seat 1: BerriSwEEE27 (29253 in chips) 
+Seat 2: billisrd350 (25642 in chips) 
+Seat 3: Amandaraujo (40927 in chips) 
+Seat 4: kuenne71 (90609 in chips) 
+Seat 5: Godfather_RJ (4705 in chips) 
+Seat 7: DrawinDead321 (50981 in chips) 
+Seat 8: TamTam93AT (80298 in chips) 
+BerriSwEEE27: posts the ante 100
+billisrd350: posts the ante 100
+Amandaraujo: posts the ante 100
+kuenne71: posts the ante 100
+Godfather_RJ: posts the ante 100
+DrawinDead321: posts the ante 100
+TamTam93AT: posts the ante 100
+BerriSwEEE27: posts small blind 400
+billisrd350: posts big blind 800
+*** HOLE CARDS ***
+Amandaraujo: raises 800 to 1600
+kuenne71: folds 
+Godfather_RJ: folds 
+DrawinDead321: folds 
+TamTam93AT: folds 
+BerriSwEEE27: folds 
+billisrd350: calls 800
+*** FLOP *** [Ac 3s Kd]
+billisrd350: checks 
+Amandaraujo: bets 2150
+billisrd350: calls 2150
+*** TURN *** [Ac 3s Kd] [Jh]
+billisrd350: checks 
+Amandaraujo: bets 3200
+billisrd350: calls 3200
+*** RIVER *** [Ac 3s Kd Jh] [4h]
+billisrd350: checks 
+Amandaraujo: bets 7500
+billisrd350: calls 7500
+*** SHOW DOWN ***
+Amandaraujo: shows [Qs 5h] (high card Ace)
+billisrd350: shows [7s As] (a pair of Aces)
+billisrd350 collected 30000 from pot
+*** SUMMARY ***
+Total pot 30000 | Rake 0 
+Board [Ac 3s Kd Jh 4h]
+Seat 1: BerriSwEEE27 (small blind) folded before Flop
+Seat 2: billisrd350 (big blind) showed [7s As] and won (30000) with a pair of Aces
+Seat 3: Amandaraujo showed [Qs 5h] and lost with high card Ace
+Seat 4: kuenne71 folded before Flop (didn't bet)
+Seat 5: Godfather_RJ folded before Flop (didn't bet)
+Seat 7: DrawinDead321 folded before Flop (didn't bet)
+Seat 8: TamTam93AT (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205163720: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:37:16 UTC [2024/06/26 14:37:16 ET]
+Table '3767885527 60' 8-max Seat #1 is the button
+Seat 1: BerriSwEEE27 (28753 in chips) 
+Seat 2: billisrd350 (41092 in chips) 
+Seat 3: Amandaraujo (26377 in chips) 
+Seat 4: kuenne71 (90509 in chips) 
+Seat 5: Godfather_RJ (4605 in chips) 
+Seat 6: Teddygram902 (25000 in chips) 
+Seat 7: DrawinDead321 (50881 in chips) 
+Seat 8: TamTam93AT (80198 in chips) 
+BerriSwEEE27: posts the ante 100
+billisrd350: posts the ante 100
+Amandaraujo: posts the ante 100
+kuenne71: posts the ante 100
+Godfather_RJ: posts the ante 100
+Teddygram902: posts the ante 100
+DrawinDead321: posts the ante 100
+TamTam93AT: posts the ante 100
+billisrd350: posts small blind 400
+Amandaraujo: posts big blind 800
+*** HOLE CARDS ***
+kuenne71: folds 
+Godfather_RJ: folds 
+Teddygram902: folds 
+DrawinDead321: folds 
+TamTam93AT: folds 
+BerriSwEEE27: folds 
+billisrd350: calls 400
+Amandaraujo: raises 2400 to 3200
+billisrd350: raises 37792 to 40992 and is all-in
+Amandaraujo: calls 23077 and is all-in
+Uncalled bet (14715) returned to billisrd350
+*** FLOP *** [Ad 9h 2c]
+*** TURN *** [Ad 9h 2c] [Qs]
+*** RIVER *** [Ad 9h 2c Qs] [5s]
+*** SHOW DOWN ***
+billisrd350: shows [6s 6c] (a pair of Sixes)
+Amandaraujo: shows [Ts 9d] (a pair of Nines)
+Amandaraujo collected 53354 from pot
+*** SUMMARY ***
+Total pot 53354 | Rake 0 
+Board [Ad 9h 2c Qs 5s]
+Seat 1: BerriSwEEE27 (button) folded before Flop (didn't bet)
+Seat 2: billisrd350 (small blind) showed [6s 6c] and lost with a pair of Sixes
+Seat 3: Amandaraujo (big blind) showed [Ts 9d] and won (53354) with a pair of Nines
+Seat 4: kuenne71 folded before Flop (didn't bet)
+Seat 5: Godfather_RJ folded before Flop (didn't bet)
+Seat 6: Teddygram902 folded before Flop (didn't bet)
+Seat 7: DrawinDead321 folded before Flop (didn't bet)
+Seat 8: TamTam93AT folded before Flop (didn't bet)
+
+PokerStars Hand #251205177588: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:38:10 UTC [2024/06/26 14:38:10 ET]
+Table '3767885527 60' 8-max Seat #2 is the button
+Seat 1: BerriSwEEE27 (28653 in chips) 
+Seat 2: billisrd350 (14715 in chips) 
+Seat 3: Amandaraujo (53354 in chips) 
+Seat 4: kuenne71 (90409 in chips) 
+Seat 5: Godfather_RJ (4505 in chips) 
+Seat 6: Teddygram902 (24900 in chips) 
+Seat 7: DrawinDead321 (50781 in chips) 
+Seat 8: TamTam93AT (80098 in chips) 
+BerriSwEEE27: posts the ante 100
+billisrd350: posts the ante 100
+Amandaraujo: posts the ante 100
+kuenne71: posts the ante 100
+Godfather_RJ: posts the ante 100
+Teddygram902: posts the ante 100
+DrawinDead321: posts the ante 100
+TamTam93AT: posts the ante 100
+Amandaraujo: posts small blind 400
+kuenne71: posts big blind 800
+*** HOLE CARDS ***
+Godfather_RJ: folds 
+Teddygram902: folds 
+DrawinDead321: folds 
+TamTam93AT: folds 
+BerriSwEEE27: raises 880 to 1680
+billisrd350: raises 12935 to 14615 and is all-in
+Amandaraujo: folds 
+kuenne71: folds 
+BerriSwEEE27: folds 
+Uncalled bet (12935) returned to billisrd350
+billisrd350 collected 5360 from pot
+billisrd350: doesn't show hand 
+*** SUMMARY ***
+Total pot 5360 | Rake 0 
+Seat 1: BerriSwEEE27 folded before Flop
+Seat 2: billisrd350 (button) collected (5360)
+Seat 3: Amandaraujo (small blind) folded before Flop
+Seat 4: kuenne71 (big blind) folded before Flop
+Seat 5: Godfather_RJ folded before Flop (didn't bet)
+Seat 6: Teddygram902 folded before Flop (didn't bet)
+Seat 7: DrawinDead321 folded before Flop (didn't bet)
+Seat 8: TamTam93AT folded before Flop (didn't bet)
+
+PokerStars Hand #251205182901: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:38:30 UTC [2024/06/26 14:38:30 ET]
+Table '3767885527 60' 8-max Seat #3 is the button
+Seat 1: BerriSwEEE27 (26873 in chips) 
+Seat 2: billisrd350 (18295 in chips) 
+Seat 3: Amandaraujo (52854 in chips) 
+Seat 4: kuenne71 (89509 in chips) 
+Seat 5: Godfather_RJ (4405 in chips) 
+Seat 6: Teddygram902 (24800 in chips) 
+Seat 7: DrawinDead321 (50681 in chips) 
+Seat 8: TamTam93AT (79998 in chips) 
+BerriSwEEE27: posts the ante 100
+billisrd350: posts the ante 100
+Amandaraujo: posts the ante 100
+kuenne71: posts the ante 100
+Godfather_RJ: posts the ante 100
+Teddygram902: posts the ante 100
+DrawinDead321: posts the ante 100
+TamTam93AT: posts the ante 100
+kuenne71: posts small blind 400
+Godfather_RJ: posts big blind 800
+*** HOLE CARDS ***
+Teddygram902: folds 
+DrawinDead321: folds 
+TamTam93AT: raises 880 to 1680
+BerriSwEEE27: folds 
+billisrd350: calls 1680
+Amandaraujo: calls 1680
+kuenne71: calls 1280
+Godfather_RJ: calls 880
+*** FLOP *** [Jd 5c Qh]
+kuenne71: checks 
+Godfather_RJ: checks 
+TamTam93AT: checks 
+billisrd350: checks 
+Amandaraujo: checks 
+*** TURN *** [Jd 5c Qh] [Ad]
+kuenne71: checks 
+Godfather_RJ: checks 
+TamTam93AT: bets 2300
+billisrd350: folds 
+Amandaraujo: folds 
+kuenne71: folds 
+Godfather_RJ: folds 
+Uncalled bet (2300) returned to TamTam93AT
+TamTam93AT collected 9200 from pot
+TamTam93AT: doesn't show hand 
+*** SUMMARY ***
+Total pot 9200 | Rake 0 
+Board [Jd 5c Qh Ad]
+Seat 1: BerriSwEEE27 folded before Flop (didn't bet)
+Seat 2: billisrd350 folded on the Turn
+Seat 3: Amandaraujo (button) folded on the Turn
+Seat 4: kuenne71 (small blind) folded on the Turn
+Seat 5: Godfather_RJ (big blind) folded on the Turn
+Seat 6: Teddygram902 folded before Flop (didn't bet)
+Seat 7: DrawinDead321 folded before Flop (didn't bet)
+Seat 8: TamTam93AT collected (9200)
+
+PokerStars Hand #251205199305: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:39:34 UTC [2024/06/26 14:39:34 ET]
+Table '3767885527 60' 8-max Seat #4 is the button
+Seat 1: BerriSwEEE27 (26773 in chips) 
+Seat 2: billisrd350 (16515 in chips) 
+Seat 3: Amandaraujo (51074 in chips) 
+Seat 4: kuenne71 (87729 in chips) 
+Seat 5: Godfather_RJ (2625 in chips) 
+Seat 6: Teddygram902 (24700 in chips) 
+Seat 7: DrawinDead321 (50581 in chips) 
+Seat 8: TamTam93AT (87418 in chips) 
+BerriSwEEE27: posts the ante 100
+billisrd350: posts the ante 100
+Amandaraujo: posts the ante 100
+kuenne71: posts the ante 100
+Godfather_RJ: posts the ante 100
+Teddygram902: posts the ante 100
+DrawinDead321: posts the ante 100
+TamTam93AT: posts the ante 100
+Godfather_RJ: posts small blind 400
+Teddygram902: posts big blind 800
+*** HOLE CARDS ***
+DrawinDead321: folds 
+TamTam93AT: raises 960 to 1760
+BerriSwEEE27: folds 
+billisrd350: folds 
+Amandaraujo: calls 1760
+kuenne71: folds 
+Godfather_RJ: folds 
+Teddygram902: folds 
+*** FLOP *** [Qh Jd 7h]
+DrawinDead321 is disconnected 
+DrawinDead321 is disconnected 
+TamTam93AT: bets 3864
+Amandaraujo: calls 3864
+*** TURN *** [Qh Jd 7h] [5h]
+TamTam93AT: checks 
+Amandaraujo: checks 
+*** RIVER *** [Qh Jd 7h 5h] [7d]
+TamTam93AT: bets 9274
+Amandaraujo: calls 9274
+*** SHOW DOWN ***
+TamTam93AT: shows [Ad Ac] (two pair, Aces and Sevens)
+Amandaraujo: mucks hand 
+TamTam93AT collected 31796 from pot
+*** SUMMARY ***
+Total pot 31796 | Rake 0 
+Board [Qh Jd 7h 5h 7d]
+Seat 1: BerriSwEEE27 folded before Flop (didn't bet)
+Seat 2: billisrd350 folded before Flop (didn't bet)
+Seat 3: Amandaraujo mucked
+Seat 4: kuenne71 (button) folded before Flop (didn't bet)
+Seat 5: Godfather_RJ (small blind) folded before Flop
+Seat 6: Teddygram902 (big blind) folded before Flop
+Seat 7: DrawinDead321 folded before Flop (didn't bet)
+Seat 8: TamTam93AT showed [Ad Ac] and won (31796) with two pair, Aces and Sevens
+
+PokerStars Hand #251205215342: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:40:35 UTC [2024/06/26 14:40:35 ET]
+Table '3767885527 60' 8-max Seat #5 is the button
+Seat 1: BerriSwEEE27 (26673 in chips) 
+Seat 2: billisrd350 (16415 in chips) 
+Seat 3: Amandaraujo (36076 in chips) 
+Seat 4: kuenne71 (87629 in chips) 
+Seat 5: Godfather_RJ (2125 in chips) 
+Seat 6: Teddygram902 (23800 in chips) 
+Seat 7: DrawinDead321 (50481 in chips) 
+Seat 8: TamTam93AT (104216 in chips) 
+BerriSwEEE27: posts the ante 100
+billisrd350: posts the ante 100
+Amandaraujo: posts the ante 100
+kuenne71: posts the ante 100
+Godfather_RJ: posts the ante 100
+Teddygram902: posts the ante 100
+DrawinDead321: posts the ante 100
+TamTam93AT: posts the ante 100
+Teddygram902: posts small blind 400
+DrawinDead321: posts big blind 800
+*** HOLE CARDS ***
+TamTam93AT: folds 
+BerriSwEEE27: raises 880 to 1680
+billisrd350: folds 
+Amandaraujo: folds 
+kuenne71: folds 
+Godfather_RJ: folds 
+Teddygram902: folds 
+DrawinDead321: calls 880
+*** FLOP *** [Tc 2c 6h]
+DrawinDead321: checks 
+BerriSwEEE27: bets 1144
+DrawinDead321: calls 1144
+*** TURN *** [Tc 2c 6h] [5d]
+DrawinDead321: checks 
+BerriSwEEE27: bets 5200
+DrawinDead321: calls 5200
+*** RIVER *** [Tc 2c 6h 5d] [Ad]
+DrawinDead321: checks 
+BerriSwEEE27: bets 18549 and is all-in
+DrawinDead321: folds 
+Uncalled bet (18549) returned to BerriSwEEE27
+BerriSwEEE27 collected 17248 from pot
+*** SUMMARY ***
+Total pot 17248 | Rake 0 
+Board [Tc 2c 6h 5d Ad]
+Seat 1: BerriSwEEE27 collected (17248)
+Seat 2: billisrd350 folded before Flop (didn't bet)
+Seat 3: Amandaraujo folded before Flop (didn't bet)
+Seat 4: kuenne71 folded before Flop (didn't bet)
+Seat 5: Godfather_RJ (button) folded before Flop (didn't bet)
+Seat 6: Teddygram902 (small blind) folded before Flop
+Seat 7: DrawinDead321 (big blind) folded on the River
+Seat 8: TamTam93AT folded before Flop (didn't bet)
+
+PokerStars Hand #251205233752: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:41:46 UTC [2024/06/26 14:41:46 ET]
+Table '3767885527 60' 8-max Seat #6 is the button
+Seat 1: BerriSwEEE27 (35797 in chips) 
+Seat 2: billisrd350 (16315 in chips) 
+Seat 3: Amandaraujo (35976 in chips) 
+Seat 4: kuenne71 (87529 in chips) 
+Seat 5: Godfather_RJ (2025 in chips) 
+Seat 6: Teddygram902 (23300 in chips) 
+Seat 7: DrawinDead321 (42357 in chips) 
+Seat 8: TamTam93AT (104116 in chips) 
+BerriSwEEE27: posts the ante 100
+billisrd350: posts the ante 100
+Amandaraujo: posts the ante 100
+kuenne71: posts the ante 100
+Godfather_RJ: posts the ante 100
+Teddygram902: posts the ante 100
+DrawinDead321: posts the ante 100
+TamTam93AT: posts the ante 100
+DrawinDead321: posts small blind 400
+TamTam93AT: posts big blind 800
+*** HOLE CARDS ***
+BerriSwEEE27: raises 880 to 1680
+billisrd350: folds 
+Amandaraujo: calls 1680
+kuenne71: calls 1680
+Godfather_RJ: folds 
+Teddygram902: raises 21520 to 23200 and is all-in
+DrawinDead321: folds 
+TamTam93AT: folds 
+BerriSwEEE27: raises 12497 to 35697 and is all-in
+Amandaraujo: folds 
+kuenne71: folds 
+Uncalled bet (12497) returned to BerriSwEEE27
+*** FLOP *** [2d 6h As]
+*** TURN *** [2d 6h As] [7d]
+*** RIVER *** [2d 6h As 7d] [5c]
+*** SHOW DOWN ***
+BerriSwEEE27: shows [Ks Ad] (a pair of Aces)
+Teddygram902: shows [Qs Ah] (a pair of Aces - lower kicker)
+BerriSwEEE27 collected 51760 from pot
+Teddygram902 finished the tournament
+*** SUMMARY ***
+Total pot 51760 | Rake 0 
+Board [2d 6h As 7d 5c]
+Seat 1: BerriSwEEE27 showed [Ks Ad] and won (51760) with a pair of Aces
+Seat 2: billisrd350 folded before Flop (didn't bet)
+Seat 3: Amandaraujo folded before Flop
+Seat 4: kuenne71 folded before Flop
+Seat 5: Godfather_RJ folded before Flop (didn't bet)
+Seat 6: Teddygram902 (button) showed [Qs Ah] and lost with a pair of Aces
+Seat 7: DrawinDead321 (small blind) folded before Flop
+Seat 8: TamTam93AT (big blind) folded before Flop

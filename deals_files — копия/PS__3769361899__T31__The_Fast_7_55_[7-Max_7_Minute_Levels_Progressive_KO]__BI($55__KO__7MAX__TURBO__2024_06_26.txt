@@ -1,0 +1,1815 @@
+PokerStars Hand #251206847448: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/06/26 20:23:16 UTC [2024/06/26 16:23:16 ET]
+Table '3769361899 31' 7-max Seat #4 is the button
+Seat 1: Parchon6 (19629 in chips, $37.50 bounty) 
+Seat 2: jagoas12 (6185 in chips, $25 bounty) 
+Seat 3: nacho2390 (9512 in chips, $25 bounty) 
+Seat 4: Sn1p3r1337 (6565 in chips, $25 bounty) 
+Seat 5: magija 11 (1906 in chips, $25 bounty) 
+Seat 6: MikiDave (9499 in chips, $25 bounty) 
+Seat 7: TheBeatGuy (23427 in chips, $50 bounty) 
+Parchon6: posts the ante 30
+jagoas12: posts the ante 30
+nacho2390: posts the ante 30
+Sn1p3r1337: posts the ante 30
+magija 11: posts the ante 30
+MikiDave: posts the ante 30
+TheBeatGuy: posts the ante 30
+magija 11: posts small blind 125
+MikiDave: posts big blind 250
+*** HOLE CARDS ***
+TheBeatGuy: folds 
+Parchon6: folds 
+jagoas12: raises 300 to 550
+nacho2390: folds 
+Sn1p3r1337: folds 
+magija 11: calls 425
+MikiDave: calls 300
+*** FLOP *** [5c Qc 6s]
+magija 11: checks 
+MikiDave: checks 
+jagoas12: checks 
+*** TURN *** [5c Qc 6s] [7c]
+magija 11: checks 
+MikiDave: checks 
+jagoas12: bets 502
+magija 11: folds 
+MikiDave: folds 
+Uncalled bet (502) returned to jagoas12
+jagoas12 collected 1860 from pot
+jagoas12: doesn't show hand 
+*** SUMMARY ***
+Total pot 1860 | Rake 0 
+Board [5c Qc 6s 7c]
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 2: jagoas12 collected (1860)
+Seat 3: nacho2390 folded before Flop (didn't bet)
+Seat 4: Sn1p3r1337 (button) folded before Flop (didn't bet)
+Seat 5: magija 11 (small blind) folded on the Turn
+Seat 6: MikiDave (big blind) folded on the Turn
+Seat 7: TheBeatGuy folded before Flop (didn't bet)
+
+PokerStars Hand #251206861253: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/06/26 20:24:05 UTC [2024/06/26 16:24:05 ET]
+Table '3769361899 31' 7-max Seat #5 is the button
+Seat 1: Parchon6 (19599 in chips, $37.50 bounty) 
+Seat 2: jagoas12 (7465 in chips, $25 bounty) 
+Seat 3: nacho2390 (9482 in chips, $25 bounty) 
+Seat 4: Sn1p3r1337 (6535 in chips, $25 bounty) 
+Seat 5: magija 11 (1326 in chips, $25 bounty) 
+Seat 6: MikiDave (8919 in chips, $25 bounty) 
+Seat 7: TheBeatGuy (23397 in chips, $50 bounty) 
+Parchon6: posts the ante 30
+jagoas12: posts the ante 30
+nacho2390: posts the ante 30
+Sn1p3r1337: posts the ante 30
+magija 11: posts the ante 30
+MikiDave: posts the ante 30
+TheBeatGuy: posts the ante 30
+MikiDave: posts small blind 125
+TheBeatGuy: posts big blind 250
+*** HOLE CARDS ***
+Parchon6: folds 
+jagoas12: folds 
+nacho2390: raises 250 to 500
+Sn1p3r1337: calls 500
+magija 11: folds 
+MikiDave: calls 375
+TheBeatGuy: raises 22867 to 23367 and is all-in
+nacho2390: folds 
+Sn1p3r1337: calls 6005 and is all-in
+MikiDave: folds 
+Uncalled bet (16862) returned to TheBeatGuy
+*** FLOP *** [3h Jd Ad]
+*** TURN *** [3h Jd Ad] [Qh]
+*** RIVER *** [3h Jd Ad Qh] [2c]
+*** SHOW DOWN ***
+TheBeatGuy: shows [7d 7h] (a pair of Sevens)
+Sn1p3r1337: shows [Jh Ks] (a pair of Jacks)
+Sn1p3r1337 collected 14220 from pot
+*** SUMMARY ***
+Total pot 14220 | Rake 0 
+Board [3h Jd Ad Qh 2c]
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 2: jagoas12 folded before Flop (didn't bet)
+Seat 3: nacho2390 folded before Flop
+Seat 4: Sn1p3r1337 showed [Jh Ks] and won (14220) with a pair of Jacks
+Seat 5: magija 11 (button) folded before Flop (didn't bet)
+Seat 6: MikiDave (small blind) folded before Flop
+Seat 7: TheBeatGuy (big blind) showed [7d 7h] and lost with a pair of Sevens
+
+PokerStars Hand #251206875513: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/06/26 20:24:56 UTC [2024/06/26 16:24:56 ET]
+Table '3769361899 31' 7-max Seat #6 is the button
+Seat 1: Parchon6 (19569 in chips, $37.50 bounty) 
+Seat 2: jagoas12 (7435 in chips, $25 bounty) 
+Seat 3: nacho2390 (8952 in chips, $25 bounty) 
+Seat 4: Sn1p3r1337 (14220 in chips, $25 bounty) 
+Seat 5: magija 11 (1296 in chips, $25 bounty) 
+Seat 6: MikiDave (8389 in chips, $25 bounty) 
+Seat 7: TheBeatGuy (16862 in chips, $50 bounty) 
+Parchon6: posts the ante 30
+jagoas12: posts the ante 30
+nacho2390: posts the ante 30
+Sn1p3r1337: posts the ante 30
+magija 11: posts the ante 30
+MikiDave: posts the ante 30
+TheBeatGuy: posts the ante 30
+TheBeatGuy: posts small blind 125
+Parchon6: posts big blind 250
+*** HOLE CARDS ***
+jagoas12: folds 
+nacho2390: raises 250 to 500
+Sn1p3r1337: folds 
+magija 11: folds 
+MikiDave: folds 
+TheBeatGuy: folds 
+Parchon6: folds 
+Uncalled bet (250) returned to nacho2390
+nacho2390 collected 835 from pot
+nacho2390: doesn't show hand 
+*** SUMMARY ***
+Total pot 835 | Rake 0 
+Seat 1: Parchon6 (big blind) folded before Flop
+Seat 2: jagoas12 folded before Flop (didn't bet)
+Seat 3: nacho2390 collected (835)
+Seat 4: Sn1p3r1337 folded before Flop (didn't bet)
+Seat 5: magija 11 folded before Flop (didn't bet)
+Seat 6: MikiDave (button) folded before Flop (didn't bet)
+Seat 7: TheBeatGuy (small blind) folded before Flop
+
+PokerStars Hand #251206885626: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/06/26 20:25:32 UTC [2024/06/26 16:25:32 ET]
+Table '3769361899 31' 7-max Seat #7 is the button
+Seat 1: Parchon6 (19289 in chips, $37.50 bounty) 
+Seat 2: jagoas12 (7405 in chips, $25 bounty) 
+Seat 3: nacho2390 (9507 in chips, $25 bounty) 
+Seat 4: Sn1p3r1337 (14190 in chips, $25 bounty) 
+Seat 5: magija 11 (1266 in chips, $25 bounty) 
+Seat 6: MikiDave (8359 in chips, $25 bounty) 
+Seat 7: TheBeatGuy (16707 in chips, $50 bounty) 
+Parchon6: posts the ante 30
+jagoas12: posts the ante 30
+nacho2390: posts the ante 30
+Sn1p3r1337: posts the ante 30
+magija 11: posts the ante 30
+MikiDave: posts the ante 30
+TheBeatGuy: posts the ante 30
+Parchon6: posts small blind 125
+jagoas12: posts big blind 250
+*** HOLE CARDS ***
+nacho2390: raises 250 to 500
+Sn1p3r1337: folds 
+magija 11: folds 
+MikiDave: folds 
+TheBeatGuy: folds 
+Parchon6: folds 
+jagoas12: folds 
+Uncalled bet (250) returned to nacho2390
+nacho2390 collected 835 from pot
+nacho2390: doesn't show hand 
+*** SUMMARY ***
+Total pot 835 | Rake 0 
+Seat 1: Parchon6 (small blind) folded before Flop
+Seat 2: jagoas12 (big blind) folded before Flop
+Seat 3: nacho2390 collected (835)
+Seat 4: Sn1p3r1337 folded before Flop (didn't bet)
+Seat 5: magija 11 folded before Flop (didn't bet)
+Seat 6: MikiDave folded before Flop (didn't bet)
+Seat 7: TheBeatGuy (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251206891671: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VII (125/250) - 2024/06/26 20:25:54 UTC [2024/06/26 16:25:54 ET]
+Table '3769361899 31' 7-max Seat #1 is the button
+Seat 1: Parchon6 (19134 in chips, $37.50 bounty) 
+Seat 2: jagoas12 (7125 in chips, $25 bounty) 
+Seat 3: nacho2390 (10062 in chips, $25 bounty) 
+Seat 4: Sn1p3r1337 (14160 in chips, $25 bounty) 
+Seat 5: magija 11 (1236 in chips, $25 bounty) 
+Seat 6: MikiDave (8329 in chips, $25 bounty) 
+Seat 7: TheBeatGuy (16677 in chips, $50 bounty) 
+Parchon6: posts the ante 30
+jagoas12: posts the ante 30
+nacho2390: posts the ante 30
+Sn1p3r1337: posts the ante 30
+magija 11: posts the ante 30
+MikiDave: posts the ante 30
+TheBeatGuy: posts the ante 30
+jagoas12: posts small blind 125
+nacho2390: posts big blind 250
+*** HOLE CARDS ***
+Sn1p3r1337: folds 
+magija 11: raises 956 to 1206 and is all-in
+MikiDave: raises 7093 to 8299 and is all-in
+TheBeatGuy: folds 
+Parchon6: folds 
+jagoas12: folds 
+nacho2390: folds 
+Uncalled bet (7093) returned to MikiDave
+*** FLOP *** [Kc 7d Jh]
+*** TURN *** [Kc 7d Jh] [9s]
+*** RIVER *** [Kc 7d Jh 9s] [Qs]
+*** SHOW DOWN ***
+magija 11: shows [As 5d] (high card Ace)
+MikiDave: shows [Tc Td] (a straight, Nine to King)
+MikiDave collected 2997 from pot
+MikiDave wins $12.50 for eliminating magija 11 and their own bounty increases by $12.50 to $37.50
+magija 11 finished the tournament
+*** SUMMARY ***
+Total pot 2997 | Rake 0 
+Board [Kc 7d Jh 9s Qs]
+Seat 1: Parchon6 (button) folded before Flop (didn't bet)
+Seat 2: jagoas12 (small blind) folded before Flop
+Seat 3: nacho2390 (big blind) folded before Flop
+Seat 4: Sn1p3r1337 folded before Flop (didn't bet)
+Seat 5: magija 11 showed [As 5d] and lost with high card Ace
+Seat 6: MikiDave showed [Tc Td] and won (2997) with a straight, Nine to King
+Seat 7: TheBeatGuy folded before Flop (didn't bet)
+
+PokerStars Hand #251206902490: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/06/26 20:26:33 UTC [2024/06/26 16:26:33 ET]
+Table '3769361899 31' 7-max Seat #2 is the button
+Seat 1: Parchon6 (19104 in chips, $37.50 bounty) 
+Seat 2: jagoas12 (6970 in chips, $25 bounty) 
+Seat 3: nacho2390 (9782 in chips, $25 bounty) 
+Seat 4: Sn1p3r1337 (14130 in chips, $25 bounty) 
+Seat 6: MikiDave (10090 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (16647 in chips, $50 bounty) 
+Parchon6: posts the ante 40
+jagoas12: posts the ante 40
+nacho2390: posts the ante 40
+Sn1p3r1337: posts the ante 40
+MikiDave: posts the ante 40
+TheBeatGuy: posts the ante 40
+nacho2390: posts small blind 150
+Sn1p3r1337: posts big blind 300
+*** HOLE CARDS ***
+MikiDave: folds 
+TheBeatGuy: folds 
+Parchon6: folds 
+jagoas12: folds 
+nacho2390: raises 600 to 900
+Sn1p3r1337: folds 
+Uncalled bet (600) returned to nacho2390
+nacho2390 collected 840 from pot
+nacho2390: doesn't show hand 
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 2: jagoas12 (button) folded before Flop (didn't bet)
+Seat 3: nacho2390 (small blind) collected (840)
+Seat 4: Sn1p3r1337 (big blind) folded before Flop
+Seat 6: MikiDave folded before Flop (didn't bet)
+Seat 7: TheBeatGuy folded before Flop (didn't bet)
+
+PokerStars Hand #251206909288: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/06/26 20:26:57 UTC [2024/06/26 16:26:57 ET]
+Table '3769361899 31' 7-max Seat #3 is the button
+Seat 1: Parchon6 (19064 in chips, $37.50 bounty) 
+Seat 2: jagoas12 (6930 in chips, $25 bounty) 
+Seat 3: nacho2390 (10282 in chips, $25 bounty) 
+Seat 4: Sn1p3r1337 (13790 in chips, $25 bounty) 
+Seat 6: MikiDave (10050 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (16607 in chips, $50 bounty) 
+Parchon6: posts the ante 40
+jagoas12: posts the ante 40
+nacho2390: posts the ante 40
+Sn1p3r1337: posts the ante 40
+MikiDave: posts the ante 40
+TheBeatGuy: posts the ante 40
+Sn1p3r1337: posts small blind 150
+MikiDave: posts big blind 300
+*** HOLE CARDS ***
+TheBeatGuy: raises 300 to 600
+Parchon6: folds 
+jagoas12: calls 600
+nacho2390: folds 
+Sn1p3r1337: calls 450
+MikiDave: folds 
+*** FLOP *** [Th Ks Js]
+Sn1p3r1337: checks 
+TheBeatGuy: bets 570
+jagoas12: folds 
+Sn1p3r1337: folds 
+Uncalled bet (570) returned to TheBeatGuy
+TheBeatGuy collected 2340 from pot
+TheBeatGuy: doesn't show hand 
+*** SUMMARY ***
+Total pot 2340 | Rake 0 
+Board [Th Ks Js]
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 2: jagoas12 folded on the Flop
+Seat 3: nacho2390 (button) folded before Flop (didn't bet)
+Seat 4: Sn1p3r1337 (small blind) folded on the Flop
+Seat 6: MikiDave (big blind) folded before Flop
+Seat 7: TheBeatGuy collected (2340)
+
+PokerStars Hand #251206922350: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/06/26 20:27:44 UTC [2024/06/26 16:27:44 ET]
+Table '3769361899 31' 7-max Seat #4 is the button
+Seat 1: Parchon6 (19024 in chips, $37.50 bounty) 
+Seat 2: jagoas12 (6290 in chips, $25 bounty) 
+Seat 3: nacho2390 (10242 in chips, $25 bounty) 
+Seat 4: Sn1p3r1337 (13150 in chips, $25 bounty) 
+Seat 6: MikiDave (9710 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (18307 in chips, $50 bounty) 
+Parchon6: posts the ante 40
+jagoas12: posts the ante 40
+nacho2390: posts the ante 40
+Sn1p3r1337: posts the ante 40
+MikiDave: posts the ante 40
+TheBeatGuy: posts the ante 40
+MikiDave: posts small blind 150
+TheBeatGuy: posts big blind 300
+*** HOLE CARDS ***
+Parchon6: raises 330 to 630
+jagoas12: folds 
+nacho2390: calls 630
+Sn1p3r1337: folds 
+MikiDave: folds 
+TheBeatGuy: calls 330
+*** FLOP *** [Ks 8d 8h]
+TheBeatGuy: checks 
+Parchon6: bets 750
+nacho2390: folds 
+TheBeatGuy: calls 750
+*** TURN *** [Ks 8d 8h] [7c]
+S3d3m2 is disconnected 
+TheBeatGuy: checks 
+Parchon6: checks 
+*** RIVER *** [Ks 8d 8h 7c] [Jd]
+TheBeatGuy: bets 378
+Parchon6: calls 378
+*** SHOW DOWN ***
+TheBeatGuy: shows [4c 4d] (two pair, Eights and Fours)
+Parchon6: mucks hand 
+TheBeatGuy collected 4536 from pot
+*** SUMMARY ***
+Total pot 4536 | Rake 0 
+Board [Ks 8d 8h 7c Jd]
+Seat 1: Parchon6 mucked
+Seat 2: jagoas12 folded before Flop (didn't bet)
+Seat 3: nacho2390 folded on the Flop
+Seat 4: Sn1p3r1337 (button) folded before Flop (didn't bet)
+Seat 6: MikiDave (small blind) folded before Flop
+Seat 7: TheBeatGuy (big blind) showed [4c 4d] and won (4536) with two pair, Eights and Fours
+
+PokerStars Hand #251206943642: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/06/26 20:29:00 UTC [2024/06/26 16:29:00 ET]
+Table '3769361899 31' 7-max Seat #6 is the button
+Seat 1: Parchon6 (17226 in chips, $37.50 bounty) 
+Seat 2: jagoas12 (6250 in chips, $25 bounty) 
+Seat 3: nacho2390 (9572 in chips, $25 bounty) 
+Seat 4: Sn1p3r1337 (13110 in chips, $25 bounty) 
+Seat 5: S3d3m2 (10076 in chips, $37.50 bounty) 
+Seat 6: MikiDave (9520 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (21045 in chips, $50 bounty) 
+Parchon6: posts the ante 40
+jagoas12: posts the ante 40
+nacho2390: posts the ante 40
+Sn1p3r1337: posts the ante 40
+S3d3m2: posts the ante 40
+MikiDave: posts the ante 40
+TheBeatGuy: posts the ante 40
+TheBeatGuy: posts small blind 150
+Parchon6: posts big blind 300
+*** HOLE CARDS ***
+jagoas12: folds 
+nacho2390: folds 
+Sn1p3r1337: folds 
+S3d3m2: raises 300 to 600
+MikiDave: raises 1200 to 1800
+TheBeatGuy: folds 
+Parchon6: folds 
+S3d3m2: folds 
+Uncalled bet (1200) returned to MikiDave
+MikiDave collected 1930 from pot
+MikiDave: doesn't show hand 
+*** SUMMARY ***
+Total pot 1930 | Rake 0 
+Seat 1: Parchon6 (big blind) folded before Flop
+Seat 2: jagoas12 folded before Flop (didn't bet)
+Seat 3: nacho2390 folded before Flop (didn't bet)
+Seat 4: Sn1p3r1337 folded before Flop (didn't bet)
+Seat 5: S3d3m2 folded before Flop
+Seat 6: MikiDave (button) collected (1930)
+Seat 7: TheBeatGuy (small blind) folded before Flop
+
+PokerStars Hand #251206952228: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/06/26 20:29:32 UTC [2024/06/26 16:29:32 ET]
+Table '3769361899 31' 7-max Seat #7 is the button
+Seat 1: Parchon6 (16886 in chips, $37.50 bounty) 
+Seat 2: jagoas12 (6210 in chips, $25 bounty) 
+Seat 3: nacho2390 (9532 in chips, $25 bounty) 
+Seat 5: S3d3m2 (9436 in chips, $37.50 bounty) 
+Seat 6: MikiDave (10810 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (20855 in chips, $50 bounty) 
+Parchon6: posts the ante 40
+jagoas12: posts the ante 40
+nacho2390: posts the ante 40
+S3d3m2: posts the ante 40
+MikiDave: posts the ante 40
+TheBeatGuy: posts the ante 40
+Parchon6: posts small blind 150
+jagoas12: posts big blind 300
+*** HOLE CARDS ***
+nacho2390: folds 
+S3d3m2: folds 
+MikiDave: folds 
+TheBeatGuy: raises 300 to 600
+Parchon6: folds 
+jagoas12: raises 5570 to 6170 and is all-in
+TheBeatGuy: folds 
+Uncalled bet (5570) returned to jagoas12
+jagoas12 collected 1590 from pot
+jagoas12: doesn't show hand 
+*** SUMMARY ***
+Total pot 1590 | Rake 0 
+Seat 1: Parchon6 (small blind) folded before Flop
+Seat 2: jagoas12 (big blind) collected (1590)
+Seat 3: nacho2390 folded before Flop (didn't bet)
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: MikiDave folded before Flop (didn't bet)
+Seat 7: TheBeatGuy (button) folded before Flop
+
+PokerStars Hand #251206960747: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/06/26 20:30:02 UTC [2024/06/26 16:30:02 ET]
+Table '3769361899 31' 7-max Seat #1 is the button
+Seat 1: Parchon6 (16696 in chips, $37.50 bounty) 
+Seat 2: jagoas12 (7160 in chips, $25 bounty) 
+Seat 3: nacho2390 (9492 in chips, $25 bounty) 
+Seat 5: S3d3m2 (9396 in chips, $37.50 bounty) 
+Seat 6: MikiDave (10770 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (20215 in chips, $50 bounty) 
+Parchon6: posts the ante 40
+jagoas12: posts the ante 40
+nacho2390: posts the ante 40
+S3d3m2: posts the ante 40
+MikiDave: posts the ante 40
+TheBeatGuy: posts the ante 40
+jagoas12: posts small blind 150
+nacho2390: posts big blind 300
+*** HOLE CARDS ***
+S3d3m2: folds 
+MikiDave: folds 
+TheBeatGuy: raises 300 to 600
+Parchon6: folds 
+jagoas12: folds 
+nacho2390: folds 
+Uncalled bet (300) returned to TheBeatGuy
+TheBeatGuy collected 990 from pot
+TheBeatGuy: doesn't show hand 
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Seat 1: Parchon6 (button) folded before Flop (didn't bet)
+Seat 2: jagoas12 (small blind) folded before Flop
+Seat 3: nacho2390 (big blind) folded before Flop
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: MikiDave folded before Flop (didn't bet)
+Seat 7: TheBeatGuy collected (990)
+
+PokerStars Hand #251206964329: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/06/26 20:30:15 UTC [2024/06/26 16:30:15 ET]
+Table '3769361899 31' 7-max Seat #2 is the button
+Seat 1: Parchon6 (16656 in chips, $37.50 bounty) 
+Seat 2: jagoas12 (6970 in chips, $25 bounty) 
+Seat 3: nacho2390 (9152 in chips, $25 bounty) 
+Seat 5: S3d3m2 (9356 in chips, $37.50 bounty) 
+Seat 6: MikiDave (10730 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (20865 in chips, $50 bounty) 
+Parchon6: posts the ante 40
+jagoas12: posts the ante 40
+nacho2390: posts the ante 40
+S3d3m2: posts the ante 40
+MikiDave: posts the ante 40
+TheBeatGuy: posts the ante 40
+nacho2390: posts small blind 150
+S3d3m2: posts big blind 300
+*** HOLE CARDS ***
+MikiDave: raises 315 to 615
+TheBeatGuy: folds 
+Parchon6: folds 
+jagoas12: raises 1725 to 2340
+nacho2390: folds 
+S3d3m2: folds 
+MikiDave: folds 
+Uncalled bet (1725) returned to jagoas12
+jagoas12 collected 1920 from pot
+jagoas12: doesn't show hand 
+*** SUMMARY ***
+Total pot 1920 | Rake 0 
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 2: jagoas12 (button) collected (1920)
+Seat 3: nacho2390 (small blind) folded before Flop
+Seat 5: S3d3m2 (big blind) folded before Flop
+Seat 6: MikiDave folded before Flop
+Seat 7: TheBeatGuy folded before Flop (didn't bet)
+
+PokerStars Hand #251206976945: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/06/26 20:31:01 UTC [2024/06/26 16:31:01 ET]
+Table '3769361899 31' 7-max Seat #3 is the button
+Seat 1: Parchon6 (16616 in chips, $37.50 bounty) 
+Seat 2: jagoas12 (8235 in chips, $25 bounty) 
+Seat 3: nacho2390 (8962 in chips, $25 bounty) 
+Seat 4: Mriberna (7000 in chips) out of hand (moved from another table into small blind)
+Seat 5: S3d3m2 (9016 in chips, $37.50 bounty) 
+Seat 6: MikiDave (10075 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (20825 in chips, $50 bounty) 
+Mriberna will be allowed to play after the button
+Parchon6: posts the ante 40
+jagoas12: posts the ante 40
+nacho2390: posts the ante 40
+S3d3m2: posts the ante 40
+MikiDave: posts the ante 40
+TheBeatGuy: posts the ante 40
+S3d3m2: posts small blind 150
+MikiDave: posts big blind 300
+*** HOLE CARDS ***
+TheBeatGuy: folds 
+Parchon6: folds 
+jagoas12: folds 
+nacho2390: folds 
+S3d3m2: folds 
+Uncalled bet (150) returned to MikiDave
+MikiDave collected 540 from pot
+MikiDave: doesn't show hand 
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 2: jagoas12 folded before Flop (didn't bet)
+Seat 3: nacho2390 (button) folded before Flop (didn't bet)
+Seat 5: S3d3m2 (small blind) folded before Flop
+Seat 6: MikiDave (big blind) collected (540)
+Seat 7: TheBeatGuy folded before Flop (didn't bet)
+
+PokerStars Hand #251206981296: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/06/26 20:31:17 UTC [2024/06/26 16:31:17 ET]
+Table '3769361899 31' 7-max Seat #5 is the button
+Seat 1: Parchon6 (16576 in chips, $37.50 bounty) 
+Seat 2: jagoas12 (8195 in chips, $25 bounty) 
+Seat 3: nacho2390 (8922 in chips, $25 bounty) 
+Seat 4: Mriberna (7000 in chips, $25 bounty) 
+Seat 5: S3d3m2 (8826 in chips, $37.50 bounty) 
+Seat 6: MikiDave (10425 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (20785 in chips, $50 bounty) 
+Parchon6: posts the ante 40
+jagoas12: posts the ante 40
+nacho2390: posts the ante 40
+Mriberna: posts the ante 40
+S3d3m2: posts the ante 40
+MikiDave: posts the ante 40
+TheBeatGuy: posts the ante 40
+MikiDave: posts small blind 150
+TheBeatGuy: posts big blind 300
+*** HOLE CARDS ***
+Parchon6: folds 
+jagoas12: folds 
+nacho2390: folds 
+Mriberna: folds 
+S3d3m2: raises 300 to 600
+MikiDave: raises 9785 to 10385 and is all-in
+TheBeatGuy: folds 
+S3d3m2: folds 
+Uncalled bet (9785) returned to MikiDave
+MikiDave collected 1780 from pot
+MikiDave: doesn't show hand 
+*** SUMMARY ***
+Total pot 1780 | Rake 0 
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 2: jagoas12 folded before Flop (didn't bet)
+Seat 3: nacho2390 folded before Flop (didn't bet)
+Seat 4: Mriberna folded before Flop (didn't bet)
+Seat 5: S3d3m2 (button) folded before Flop
+Seat 6: MikiDave (small blind) collected (1780)
+Seat 7: TheBeatGuy (big blind) folded before Flop
+
+PokerStars Hand #251206990834: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/06/26 20:31:51 UTC [2024/06/26 16:31:51 ET]
+Table '3769361899 31' 7-max Seat #6 is the button
+Seat 1: Parchon6 (16536 in chips, $37.50 bounty) 
+Seat 2: jagoas12 (8155 in chips, $25 bounty) 
+Seat 3: nacho2390 (8882 in chips, $25 bounty) 
+Seat 4: Mriberna (6960 in chips, $25 bounty) 
+Seat 5: S3d3m2 (8186 in chips, $37.50 bounty) 
+Seat 6: MikiDave (11565 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (20445 in chips, $50 bounty) 
+Parchon6: posts the ante 40
+jagoas12: posts the ante 40
+nacho2390: posts the ante 40
+Mriberna: posts the ante 40
+S3d3m2: posts the ante 40
+MikiDave: posts the ante 40
+TheBeatGuy: posts the ante 40
+TheBeatGuy: posts small blind 150
+Parchon6: posts big blind 300
+*** HOLE CARDS ***
+jagoas12: folds 
+nacho2390: raises 300 to 600
+Mriberna: raises 1930 to 2530
+S3d3m2: folds 
+MikiDave: folds 
+TheBeatGuy: folds 
+Parchon6: raises 13966 to 16496 and is all-in
+nacho2390: folds 
+Mriberna: calls 4390 and is all-in
+Uncalled bet (9576) returned to Parchon6
+*** FLOP *** [Jd Td 2d]
+*** TURN *** [Jd Td 2d] [Jh]
+*** RIVER *** [Jd Td 2d Jh] [6h]
+*** SHOW DOWN ***
+Parchon6: shows [Qc Qs] (two pair, Queens and Jacks)
+Mriberna: shows [Ah Qd] (a pair of Jacks)
+Parchon6 collected 14870 from pot
+Parchon6 wins $12.50 for eliminating Mriberna and their own bounty increases by $12.50 to $50
+Mriberna finished the tournament
+*** SUMMARY ***
+Total pot 14870 | Rake 0 
+Board [Jd Td 2d Jh 6h]
+Seat 1: Parchon6 (big blind) showed [Qc Qs] and won (14870) with two pair, Queens and Jacks
+Seat 2: jagoas12 folded before Flop (didn't bet)
+Seat 3: nacho2390 folded before Flop
+Seat 4: Mriberna showed [Ah Qd] and lost with a pair of Jacks
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: MikiDave (button) folded before Flop (didn't bet)
+Seat 7: TheBeatGuy (small blind) folded before Flop
+
+PokerStars Hand #251207002947: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level VIII (150/300) - 2024/06/26 20:32:34 UTC [2024/06/26 16:32:34 ET]
+Table '3769361899 31' 7-max Seat #7 is the button
+Seat 1: Parchon6 (24446 in chips, $50 bounty) 
+Seat 2: jagoas12 (8115 in chips, $25 bounty) 
+Seat 3: nacho2390 (8242 in chips, $25 bounty) 
+Seat 5: S3d3m2 (8146 in chips, $37.50 bounty) 
+Seat 6: MikiDave (11525 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (20255 in chips, $50 bounty) 
+Parchon6: posts the ante 40
+jagoas12: posts the ante 40
+nacho2390: posts the ante 40
+S3d3m2: posts the ante 40
+MikiDave: posts the ante 40
+TheBeatGuy: posts the ante 40
+Parchon6: posts small blind 150
+jagoas12: posts big blind 300
+*** HOLE CARDS ***
+nacho2390: folds 
+S3d3m2: folds 
+MikiDave: raises 315 to 615
+TheBeatGuy: folds 
+Parchon6: folds 
+jagoas12: folds 
+Uncalled bet (315) returned to MikiDave
+MikiDave collected 990 from pot
+MikiDave: doesn't show hand 
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Seat 1: Parchon6 (small blind) folded before Flop
+Seat 2: jagoas12 (big blind) folded before Flop
+Seat 3: nacho2390 folded before Flop (didn't bet)
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: MikiDave collected (990)
+Seat 7: TheBeatGuy (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207012115: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/06/26 20:33:06 UTC [2024/06/26 16:33:06 ET]
+Table '3769361899 31' 7-max Seat #1 is the button
+Seat 1: Parchon6 (24256 in chips, $50 bounty) 
+Seat 2: jagoas12 (7775 in chips, $25 bounty) 
+Seat 3: nacho2390 (8202 in chips, $25 bounty) 
+Seat 5: S3d3m2 (8106 in chips, $37.50 bounty) 
+Seat 6: MikiDave (12175 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (20215 in chips, $50 bounty) 
+Parchon6: posts the ante 50
+jagoas12: posts the ante 50
+nacho2390: posts the ante 50
+S3d3m2: posts the ante 50
+MikiDave: posts the ante 50
+TheBeatGuy: posts the ante 50
+jagoas12: posts small blind 200
+nacho2390: posts big blind 400
+*** HOLE CARDS ***
+S3d3m2: folds 
+MikiDave: folds 
+TheBeatGuy: folds 
+Parchon6: folds 
+jagoas12: raises 7325 to 7725 and is all-in
+nacho2390: folds 
+Uncalled bet (7325) returned to jagoas12
+jagoas12 collected 1100 from pot
+jagoas12: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Seat 1: Parchon6 (button) folded before Flop (didn't bet)
+Seat 2: jagoas12 (small blind) collected (1100)
+Seat 3: nacho2390 (big blind) folded before Flop
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: MikiDave folded before Flop (didn't bet)
+Seat 7: TheBeatGuy folded before Flop (didn't bet)
+
+PokerStars Hand #251207026737: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/06/26 20:33:58 UTC [2024/06/26 16:33:58 ET]
+Table '3769361899 31' 7-max Seat #2 is the button
+Seat 1: Parchon6 (24206 in chips, $50 bounty) 
+Seat 2: jagoas12 (8425 in chips, $25 bounty) 
+Seat 3: nacho2390 (7752 in chips, $25 bounty) 
+Seat 5: S3d3m2 (8056 in chips, $37.50 bounty) 
+Seat 6: MikiDave (12125 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (20165 in chips, $50 bounty) 
+Parchon6: posts the ante 50
+jagoas12: posts the ante 50
+nacho2390: posts the ante 50
+S3d3m2: posts the ante 50
+MikiDave: posts the ante 50
+TheBeatGuy: posts the ante 50
+nacho2390: posts small blind 200
+S3d3m2: posts big blind 400
+*** HOLE CARDS ***
+MikiDave: folds 
+TheBeatGuy: folds 
+Parchon6: raises 440 to 840
+jagoas12: folds 
+nacho2390: raises 6862 to 7702 and is all-in
+S3d3m2: folds 
+Parchon6: calls 6862
+*** FLOP *** [8s Kd 8c]
+*** TURN *** [8s Kd 8c] [Qd]
+*** RIVER *** [8s Kd 8c Qd] [Ks]
+*** SHOW DOWN ***
+nacho2390: shows [Kc Kh] (four of a kind, Kings)
+Parchon6: shows [Td 9d] (two pair, Kings and Eights)
+nacho2390 collected 16104 from pot
+*** SUMMARY ***
+Total pot 16104 | Rake 0 
+Board [8s Kd 8c Qd Ks]
+Seat 1: Parchon6 showed [Td 9d] and lost with two pair, Kings and Eights
+Seat 2: jagoas12 (button) folded before Flop (didn't bet)
+Seat 3: nacho2390 (small blind) showed [Kc Kh] and won (16104) with four of a kind, Kings
+Seat 5: S3d3m2 (big blind) folded before Flop
+Seat 6: MikiDave folded before Flop (didn't bet)
+Seat 7: TheBeatGuy folded before Flop (didn't bet)
+
+PokerStars Hand #251207040682: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/06/26 20:34:48 UTC [2024/06/26 16:34:48 ET]
+Table '3769361899 31' 7-max Seat #3 is the button
+Seat 1: Parchon6 (16454 in chips, $50 bounty) 
+Seat 2: jagoas12 (8375 in chips, $25 bounty) 
+Seat 3: nacho2390 (16104 in chips, $25 bounty) 
+Seat 5: S3d3m2 (7606 in chips, $37.50 bounty) 
+Seat 6: MikiDave (12075 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (20115 in chips, $50 bounty) 
+Parchon6: posts the ante 50
+jagoas12: posts the ante 50
+nacho2390: posts the ante 50
+S3d3m2: posts the ante 50
+MikiDave: posts the ante 50
+TheBeatGuy: posts the ante 50
+S3d3m2: posts small blind 200
+MikiDave: posts big blind 400
+*** HOLE CARDS ***
+TheBeatGuy: folds 
+Parchon6: folds 
+jagoas12: folds 
+nacho2390: folds 
+S3d3m2: calls 200
+MikiDave: raises 800 to 1200
+S3d3m2: calls 800
+*** FLOP *** [5h 7d Kd]
+S3d3m2: checks 
+MikiDave: bets 675
+S3d3m2: folds 
+Uncalled bet (675) returned to MikiDave
+MikiDave collected 2700 from pot
+MikiDave: doesn't show hand 
+*** SUMMARY ***
+Total pot 2700 | Rake 0 
+Board [5h 7d Kd]
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 2: jagoas12 folded before Flop (didn't bet)
+Seat 3: nacho2390 (button) folded before Flop (didn't bet)
+Seat 5: S3d3m2 (small blind) folded on the Flop
+Seat 6: MikiDave (big blind) collected (2700)
+Seat 7: TheBeatGuy folded before Flop (didn't bet)
+
+PokerStars Hand #251207052850: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/06/26 20:35:30 UTC [2024/06/26 16:35:30 ET]
+Table '3769361899 31' 7-max Seat #5 is the button
+Seat 1: Parchon6 (16404 in chips, $50 bounty) 
+Seat 2: jagoas12 (8325 in chips, $25 bounty) 
+Seat 3: nacho2390 (16054 in chips, $25 bounty) 
+Seat 5: S3d3m2 (6356 in chips, $37.50 bounty) 
+Seat 6: MikiDave (13525 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (20065 in chips, $50 bounty) 
+Parchon6: posts the ante 50
+jagoas12: posts the ante 50
+nacho2390: posts the ante 50
+S3d3m2: posts the ante 50
+MikiDave: posts the ante 50
+TheBeatGuy: posts the ante 50
+MikiDave: posts small blind 200
+TheBeatGuy: posts big blind 400
+*** HOLE CARDS ***
+Parchon6: folds 
+jagoas12: raises 480 to 880
+nacho2390: folds 
+S3d3m2: folds 
+MikiDave: calls 680
+TheBeatGuy: folds 
+*** FLOP *** [9s 4d 5d]
+MikiDave: checks 
+jagoas12: bets 1064
+MikiDave: raises 1064 to 2128
+jagoas12: folds 
+Uncalled bet (1064) returned to MikiDave
+MikiDave collected 4588 from pot
+MikiDave: doesn't show hand 
+*** SUMMARY ***
+Total pot 4588 | Rake 0 
+Board [9s 4d 5d]
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 2: jagoas12 folded on the Flop
+Seat 3: nacho2390 folded before Flop (didn't bet)
+Seat 5: S3d3m2 (button) folded before Flop (didn't bet)
+Seat 6: MikiDave (small blind) collected (4588)
+Seat 7: TheBeatGuy (big blind) folded before Flop
+
+PokerStars Hand #251207065636: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/06/26 20:36:16 UTC [2024/06/26 16:36:16 ET]
+Table '3769361899 31' 7-max Seat #6 is the button
+Seat 1: Parchon6 (16354 in chips, $50 bounty) 
+Seat 2: jagoas12 (6331 in chips, $25 bounty) 
+Seat 3: nacho2390 (16004 in chips, $25 bounty) 
+Seat 5: S3d3m2 (6306 in chips, $37.50 bounty) 
+Seat 6: MikiDave (16119 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (19615 in chips, $50 bounty) 
+Parchon6: posts the ante 50
+jagoas12: posts the ante 50
+nacho2390: posts the ante 50
+S3d3m2: posts the ante 50
+MikiDave: posts the ante 50
+TheBeatGuy: posts the ante 50
+TheBeatGuy: posts small blind 200
+Parchon6: posts big blind 400
+*** HOLE CARDS ***
+jagoas12: raises 800 to 1200
+nacho2390: folds 
+S3d3m2: folds 
+MikiDave: folds 
+TheBeatGuy: folds 
+Parchon6: folds 
+Uncalled bet (800) returned to jagoas12
+jagoas12 collected 1300 from pot
+jagoas12: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 1: Parchon6 (big blind) folded before Flop
+Seat 2: jagoas12 collected (1300)
+Seat 3: nacho2390 folded before Flop (didn't bet)
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: MikiDave (button) folded before Flop (didn't bet)
+Seat 7: TheBeatGuy (small blind) folded before Flop
+
+PokerStars Hand #251207071224: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/06/26 20:36:35 UTC [2024/06/26 16:36:35 ET]
+Table '3769361899 31' 7-max Seat #7 is the button
+Seat 1: Parchon6 (15904 in chips, $50 bounty) 
+Seat 2: jagoas12 (7181 in chips, $25 bounty) 
+Seat 3: nacho2390 (15954 in chips, $25 bounty) 
+Seat 5: S3d3m2 (6256 in chips, $37.50 bounty) 
+Seat 6: MikiDave (16069 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (19365 in chips, $50 bounty) 
+Parchon6: posts the ante 50
+jagoas12: posts the ante 50
+nacho2390: posts the ante 50
+S3d3m2: posts the ante 50
+MikiDave: posts the ante 50
+TheBeatGuy: posts the ante 50
+Parchon6: posts small blind 200
+jagoas12: posts big blind 400
+*** HOLE CARDS ***
+nacho2390: folds 
+S3d3m2: folds 
+MikiDave: folds 
+TheBeatGuy: raises 400 to 800
+Parchon6: folds 
+jagoas12: raises 4000 to 4800
+TheBeatGuy: raises 14515 to 19315 and is all-in
+jagoas12: calls 2331 and is all-in
+Uncalled bet (12184) returned to TheBeatGuy
+*** FLOP *** [8c 4s 8h]
+*** TURN *** [8c 4s 8h] [3d]
+*** RIVER *** [8c 4s 8h 3d] [Qh]
+*** SHOW DOWN ***
+jagoas12: shows [Qc Qs] (a full house, Queens full of Eights)
+TheBeatGuy: shows [7s 9s] (a pair of Eights)
+jagoas12 collected 14762 from pot
+*** SUMMARY ***
+Total pot 14762 | Rake 0 
+Board [8c 4s 8h 3d Qh]
+Seat 1: Parchon6 (small blind) folded before Flop
+Seat 2: jagoas12 (big blind) showed [Qc Qs] and won (14762) with a full house, Queens full of Eights
+Seat 3: nacho2390 folded before Flop (didn't bet)
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: MikiDave folded before Flop (didn't bet)
+Seat 7: TheBeatGuy (button) showed [7s 9s] and lost with a pair of Eights
+
+PokerStars Hand #251207084261: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/06/26 20:37:21 UTC [2024/06/26 16:37:21 ET]
+Table '3769361899 31' 7-max Seat #1 is the button
+Seat 1: Parchon6 (15654 in chips, $50 bounty) 
+Seat 2: jagoas12 (14762 in chips, $25 bounty) 
+Seat 3: nacho2390 (15904 in chips, $25 bounty) 
+Seat 5: S3d3m2 (6206 in chips, $37.50 bounty) 
+Seat 6: MikiDave (16019 in chips, $37.50 bounty) 
+Seat 7: TheBeatGuy (12184 in chips, $50 bounty) 
+Parchon6: posts the ante 50
+jagoas12: posts the ante 50
+nacho2390: posts the ante 50
+S3d3m2: posts the ante 50
+MikiDave: posts the ante 50
+TheBeatGuy: posts the ante 50
+jagoas12: posts small blind 200
+nacho2390: posts big blind 400
+*** HOLE CARDS ***
+S3d3m2: folds 
+MikiDave: folds 
+TheBeatGuy: raises 400 to 800
+Parchon6: folds 
+jagoas12: raises 13912 to 14712 and is all-in
+nacho2390: folds 
+TheBeatGuy: calls 11334 and is all-in
+Uncalled bet (2578) returned to jagoas12
+*** FLOP *** [2s 7s 3c]
+*** TURN *** [2s 7s 3c] [9h]
+*** RIVER *** [2s 7s 3c 9h] [Qs]
+*** SHOW DOWN ***
+jagoas12: shows [Qh Ac] (a pair of Queens)
+TheBeatGuy: shows [Jc Kc] (high card King)
+jagoas12 collected 24968 from pot
+jagoas12 wins $25 for eliminating TheBeatGuy and their own bounty increases by $25 to $50
+TheBeatGuy finished the tournament
+*** SUMMARY ***
+Total pot 24968 | Rake 0 
+Board [2s 7s 3c 9h Qs]
+Seat 1: Parchon6 (button) folded before Flop (didn't bet)
+Seat 2: jagoas12 (small blind) showed [Qh Ac] and won (24968) with a pair of Queens
+Seat 3: nacho2390 (big blind) folded before Flop
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: MikiDave folded before Flop (didn't bet)
+Seat 7: TheBeatGuy showed [Jc Kc] and lost with high card King
+
+PokerStars Hand #251207091730: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/06/26 20:37:48 UTC [2024/06/26 16:37:48 ET]
+Table '3769361899 31' 7-max Seat #2 is the button
+Seat 1: Parchon6 (15604 in chips, $50 bounty) 
+Seat 2: jagoas12 (27546 in chips, $50 bounty) 
+Seat 3: nacho2390 (15454 in chips, $25 bounty) 
+Seat 5: S3d3m2 (6156 in chips, $37.50 bounty) 
+Seat 6: MikiDave (15969 in chips, $37.50 bounty) 
+Parchon6: posts the ante 50
+jagoas12: posts the ante 50
+nacho2390: posts the ante 50
+S3d3m2: posts the ante 50
+MikiDave: posts the ante 50
+nacho2390: posts small blind 200
+S3d3m2: posts big blind 400
+*** HOLE CARDS ***
+MikiDave: folds 
+c444444 is disconnected 
+Parchon6: folds 
+jagoas12: raises 400 to 800
+nacho2390: folds 
+S3d3m2: calls 400
+*** FLOP *** [Ac Jc Qd]
+S3d3m2: checks 
+jagoas12: bets 554
+S3d3m2: folds 
+Uncalled bet (554) returned to jagoas12
+jagoas12 collected 2050 from pot
+jagoas12: doesn't show hand 
+*** SUMMARY ***
+Total pot 2050 | Rake 0 
+Board [Ac Jc Qd]
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 2: jagoas12 (button) collected (2050)
+Seat 3: nacho2390 (small blind) folded before Flop
+Seat 5: S3d3m2 (big blind) folded on the Flop
+Seat 6: MikiDave folded before Flop (didn't bet)
+
+PokerStars Hand #251207106018: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/06/26 20:38:38 UTC [2024/06/26 16:38:38 ET]
+Table '3769361899 31' 7-max Seat #3 is the button
+Seat 1: Parchon6 (15554 in chips, $50 bounty) 
+Seat 2: jagoas12 (28746 in chips, $50 bounty) 
+Seat 3: nacho2390 (15204 in chips, $25 bounty) 
+Seat 4: c444444 (12669 in chips) out of hand (moved from another table into small blind)
+Seat 5: S3d3m2 (5306 in chips, $37.50 bounty) 
+Seat 6: MikiDave (15919 in chips, $37.50 bounty) 
+c444444 will be allowed to play after the button
+Parchon6: posts the ante 50
+jagoas12: posts the ante 50
+nacho2390: posts the ante 50
+S3d3m2: posts the ante 50
+MikiDave: posts the ante 50
+S3d3m2: posts small blind 200
+MikiDave: posts big blind 400
+*** HOLE CARDS ***
+dulek_jason is disconnected 
+Parchon6: raises 440 to 840
+jagoas12: folds 
+nacho2390: folds 
+S3d3m2: folds 
+MikiDave: calls 440
+*** FLOP *** [Ad 2h 9h]
+MikiDave: checks 
+Parchon6: checks 
+*** TURN *** [Ad 2h 9h] [2c]
+MikiDave: checks 
+Parchon6: checks 
+*** RIVER *** [Ad 2h 9h 2c] [9s]
+MikiDave: checks 
+Parchon6: checks 
+*** SHOW DOWN ***
+MikiDave: shows [Kh 6d] (two pair, Nines and Deuces)
+Parchon6: shows [3c 3s] (two pair, Nines and Threes)
+Parchon6 collected 2130 from pot
+*** SUMMARY ***
+Total pot 2130 | Rake 0 
+Board [Ad 2h 9h 2c 9s]
+Seat 1: Parchon6 showed [3c 3s] and won (2130) with two pair, Nines and Threes
+Seat 2: jagoas12 folded before Flop (didn't bet)
+Seat 3: nacho2390 (button) folded before Flop (didn't bet)
+Seat 5: S3d3m2 (small blind) folded before Flop
+Seat 6: MikiDave (big blind) showed [Kh 6d] and lost with two pair, Nines and Deuces
+
+PokerStars Hand #251207117126: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/06/26 20:39:18 UTC [2024/06/26 16:39:18 ET]
+Table '3769361899 31' 7-max Seat #5 is the button
+Seat 1: Parchon6 (16794 in chips, $50 bounty) 
+Seat 3: nacho2390 (15154 in chips, $25 bounty) 
+Seat 4: c444444 (12669 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (5056 in chips, $37.50 bounty) 
+Seat 6: MikiDave (15029 in chips, $37.50 bounty) 
+Seat 7: dulek_jason (7000 in chips, $25 bounty) 
+Parchon6: posts the ante 50
+nacho2390: posts the ante 50
+c444444: posts the ante 50
+S3d3m2: posts the ante 50
+MikiDave: posts the ante 50
+dulek_jason: posts the ante 50
+MikiDave: posts small blind 200
+dulek_jason: posts big blind 400
+*** HOLE CARDS ***
+Parchon6: folds 
+nacho2390: folds 
+c444444: folds 
+S3d3m2: raises 4606 to 5006 and is all-in
+MikiDave: folds 
+dulek_jason: folds 
+Uncalled bet (4606) returned to S3d3m2
+S3d3m2 collected 1300 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 3: nacho2390 folded before Flop (didn't bet)
+Seat 4: c444444 folded before Flop (didn't bet)
+Seat 5: S3d3m2 (button) collected (1300)
+Seat 6: MikiDave (small blind) folded before Flop
+Seat 7: dulek_jason (big blind) folded before Flop
+
+PokerStars Hand #251207131081: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:40:07 UTC [2024/06/26 16:40:07 ET]
+Table '3769361899 31' 7-max Seat #6 is the button
+Seat 1: Parchon6 (16744 in chips, $50 bounty) 
+Seat 3: nacho2390 (15104 in chips, $25 bounty) 
+Seat 4: c444444 (12619 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (5906 in chips, $37.50 bounty) 
+Seat 6: MikiDave (14779 in chips, $37.50 bounty) 
+Seat 7: dulek_jason (6550 in chips, $25 bounty) 
+Parchon6: posts the ante 60
+nacho2390: posts the ante 60
+c444444: posts the ante 60
+S3d3m2: posts the ante 60
+MikiDave: posts the ante 60
+dulek_jason: posts the ante 60
+dulek_jason: posts small blind 250
+Parchon6: posts big blind 500
+*** HOLE CARDS ***
+nacho2390: folds 
+c444444: folds 
+S3d3m2: folds 
+MikiDave: folds 
+dulek_jason: raises 5990 to 6490 and is all-in
+Parchon6: folds 
+Uncalled bet (5990) returned to dulek_jason
+dulek_jason collected 1360 from pot
+dulek_jason: doesn't show hand 
+*** SUMMARY ***
+Total pot 1360 | Rake 0 
+Seat 1: Parchon6 (big blind) folded before Flop
+Seat 3: nacho2390 folded before Flop (didn't bet)
+Seat 4: c444444 folded before Flop (didn't bet)
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: MikiDave (button) folded before Flop (didn't bet)
+Seat 7: dulek_jason (small blind) collected (1360)
+
+PokerStars Hand #251207141615: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:40:45 UTC [2024/06/26 16:40:45 ET]
+Table '3769361899 31' 7-max Seat #7 is the button
+Seat 1: Parchon6 (16184 in chips, $50 bounty) 
+Seat 3: nacho2390 (15044 in chips, $25 bounty) 
+Seat 4: c444444 (12559 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (5846 in chips, $37.50 bounty) 
+Seat 6: MikiDave (14719 in chips, $37.50 bounty) 
+Seat 7: dulek_jason (7350 in chips, $25 bounty) 
+Parchon6: posts the ante 60
+nacho2390: posts the ante 60
+c444444: posts the ante 60
+S3d3m2: posts the ante 60
+MikiDave: posts the ante 60
+dulek_jason: posts the ante 60
+Parchon6: posts small blind 250
+nacho2390: posts big blind 500
+*** HOLE CARDS ***
+c444444: folds 
+S3d3m2: folds 
+MikiDave: raises 525 to 1025
+dulek_jason: folds 
+Parchon6: folds 
+nacho2390: folds 
+Uncalled bet (525) returned to MikiDave
+MikiDave collected 1610 from pot
+MikiDave: doesn't show hand 
+*** SUMMARY ***
+Total pot 1610 | Rake 0 
+Seat 1: Parchon6 (small blind) folded before Flop
+Seat 3: nacho2390 (big blind) folded before Flop
+Seat 4: c444444 folded before Flop (didn't bet)
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: MikiDave collected (1610)
+Seat 7: dulek_jason (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207149852: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:41:14 UTC [2024/06/26 16:41:14 ET]
+Table '3769361899 31' 7-max Seat #1 is the button
+Seat 1: Parchon6 (15874 in chips, $50 bounty) 
+Seat 3: nacho2390 (14484 in chips, $25 bounty) 
+Seat 4: c444444 (12499 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (5786 in chips, $37.50 bounty) 
+Seat 6: MikiDave (15769 in chips, $37.50 bounty) 
+Seat 7: dulek_jason (7290 in chips, $25 bounty) 
+Parchon6: posts the ante 60
+nacho2390: posts the ante 60
+c444444: posts the ante 60
+S3d3m2: posts the ante 60
+MikiDave: posts the ante 60
+dulek_jason: posts the ante 60
+nacho2390: posts small blind 250
+c444444: posts big blind 500
+*** HOLE CARDS ***
+S3d3m2: folds 
+MikiDave: raises 525 to 1025
+dulek_jason: folds 
+Parchon6: folds 
+nacho2390: folds 
+c444444: raises 2475 to 3500
+MikiDave: folds 
+Uncalled bet (2475) returned to c444444
+c444444 collected 2660 from pot
+c444444: doesn't show hand 
+*** SUMMARY ***
+Total pot 2660 | Rake 0 
+Seat 1: Parchon6 (button) folded before Flop (didn't bet)
+Seat 3: nacho2390 (small blind) folded before Flop
+Seat 4: c444444 (big blind) collected (2660)
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: MikiDave folded before Flop
+Seat 7: dulek_jason folded before Flop (didn't bet)
+
+PokerStars Hand #251207155779: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:41:35 UTC [2024/06/26 16:41:35 ET]
+Table '3769361899 31' 7-max Seat #3 is the button
+Seat 1: Parchon6 (15814 in chips, $50 bounty) 
+Seat 3: nacho2390 (14174 in chips, $25 bounty) 
+Seat 4: c444444 (14074 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (5726 in chips, $37.50 bounty) 
+Seat 6: MikiDave (14684 in chips, $37.50 bounty) 
+Seat 7: dulek_jason (7230 in chips, $25 bounty) 
+Parchon6: posts the ante 60
+nacho2390: posts the ante 60
+c444444: posts the ante 60
+S3d3m2: posts the ante 60
+MikiDave: posts the ante 60
+dulek_jason: posts the ante 60
+c444444: posts small blind 250
+S3d3m2: posts big blind 500
+*** HOLE CARDS ***
+MikiDave: folds 
+dulek_jason: folds 
+Parchon6: folds 
+nacho2390: folds 
+c444444: raises 13514 to 14014 and is all-in
+S3d3m2: folds 
+Uncalled bet (13514) returned to c444444
+c444444 collected 1360 from pot
+c444444: doesn't show hand 
+*** SUMMARY ***
+Total pot 1360 | Rake 0 
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 3: nacho2390 (button) folded before Flop (didn't bet)
+Seat 4: c444444 (small blind) collected (1360)
+Seat 5: S3d3m2 (big blind) folded before Flop
+Seat 6: MikiDave folded before Flop (didn't bet)
+Seat 7: dulek_jason folded before Flop (didn't bet)
+
+PokerStars Hand #251207164215: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:42:06 UTC [2024/06/26 16:42:06 ET]
+Table '3769361899 31' 7-max Seat #4 is the button
+Seat 1: Parchon6 (15754 in chips, $50 bounty) 
+Seat 3: nacho2390 (14114 in chips, $25 bounty) 
+Seat 4: c444444 (14874 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (5166 in chips, $37.50 bounty) 
+Seat 6: MikiDave (14624 in chips, $37.50 bounty) 
+Seat 7: dulek_jason (7170 in chips, $25 bounty) 
+Parchon6: posts the ante 60
+nacho2390: posts the ante 60
+c444444: posts the ante 60
+S3d3m2: posts the ante 60
+MikiDave: posts the ante 60
+dulek_jason: posts the ante 60
+S3d3m2: posts small blind 250
+MikiDave: posts big blind 500
+*** HOLE CARDS ***
+dulek_jason: folds 
+Parchon6: folds 
+nacho2390: folds 
+c444444: folds 
+S3d3m2: folds 
+Uncalled bet (250) returned to MikiDave
+MikiDave collected 860 from pot
+MikiDave: doesn't show hand 
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 3: nacho2390 folded before Flop (didn't bet)
+Seat 4: c444444 (button) folded before Flop (didn't bet)
+Seat 5: S3d3m2 (small blind) folded before Flop
+Seat 6: MikiDave (big blind) collected (860)
+Seat 7: dulek_jason folded before Flop (didn't bet)
+
+PokerStars Hand #251207168936: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:42:23 UTC [2024/06/26 16:42:23 ET]
+Table '3769361899 31' 7-max Seat #5 is the button
+Seat 1: Parchon6 (15694 in chips, $50 bounty) 
+Seat 3: nacho2390 (14054 in chips, $25 bounty) 
+Seat 4: c444444 (14814 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (4856 in chips, $37.50 bounty) 
+Seat 6: MikiDave (15174 in chips, $37.50 bounty) 
+Seat 7: dulek_jason (7110 in chips, $25 bounty) 
+Parchon6: posts the ante 60
+nacho2390: posts the ante 60
+c444444: posts the ante 60
+S3d3m2: posts the ante 60
+MikiDave: posts the ante 60
+dulek_jason: posts the ante 60
+MikiDave: posts small blind 250
+dulek_jason: posts big blind 500
+*** HOLE CARDS ***
+Parchon6: folds 
+nacho2390: folds 
+c444444: raises 500 to 1000
+S3d3m2: folds 
+MikiDave: folds 
+dulek_jason: calls 500
+*** FLOP *** [9d 7h Jd]
+dulek_jason: checks 
+c444444: bets 861
+dulek_jason: folds 
+Uncalled bet (861) returned to c444444
+c444444 collected 2610 from pot
+c444444: doesn't show hand 
+*** SUMMARY ***
+Total pot 2610 | Rake 0 
+Board [9d 7h Jd]
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 3: nacho2390 folded before Flop (didn't bet)
+Seat 4: c444444 collected (2610)
+Seat 5: S3d3m2 (button) folded before Flop (didn't bet)
+Seat 6: MikiDave (small blind) folded before Flop
+Seat 7: dulek_jason (big blind) folded on the Flop
+
+PokerStars Hand #251207183873: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:43:17 UTC [2024/06/26 16:43:17 ET]
+Table '3769361899 31' 7-max Seat #6 is the button
+Seat 1: Parchon6 (15634 in chips, $50 bounty) 
+Seat 3: nacho2390 (13994 in chips, $25 bounty) 
+Seat 4: c444444 (16364 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (4796 in chips, $37.50 bounty) 
+Seat 6: MikiDave (14864 in chips, $37.50 bounty) 
+Seat 7: dulek_jason (6050 in chips, $25 bounty) 
+Parchon6: posts the ante 60
+nacho2390: posts the ante 60
+c444444: posts the ante 60
+S3d3m2: posts the ante 60
+MikiDave: posts the ante 60
+dulek_jason: posts the ante 60
+dulek_jason: posts small blind 250
+Parchon6: posts big blind 500
+*** HOLE CARDS ***
+nacho2390: folds 
+c444444: folds 
+S3d3m2: folds 
+MikiDave: raises 525 to 1025
+dulek_jason: folds 
+Parchon6: folds 
+Uncalled bet (525) returned to MikiDave
+MikiDave collected 1610 from pot
+MikiDave: doesn't show hand 
+*** SUMMARY ***
+Total pot 1610 | Rake 0 
+Seat 1: Parchon6 (big blind) folded before Flop
+Seat 3: nacho2390 folded before Flop (didn't bet)
+Seat 4: c444444 folded before Flop (didn't bet)
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: MikiDave (button) collected (1610)
+Seat 7: dulek_jason (small blind) folded before Flop
+
+PokerStars Hand #251207189371: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:43:37 UTC [2024/06/26 16:43:37 ET]
+Table '3769361899 31' 7-max Seat #7 is the button
+Seat 1: Parchon6 (15074 in chips, $50 bounty) 
+Seat 3: nacho2390 (13934 in chips, $25 bounty) 
+Seat 4: c444444 (16304 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (4736 in chips, $37.50 bounty) 
+Seat 6: MikiDave (15914 in chips, $37.50 bounty) 
+Seat 7: dulek_jason (5740 in chips, $25 bounty) 
+Parchon6: posts the ante 60
+nacho2390: posts the ante 60
+c444444: posts the ante 60
+S3d3m2: posts the ante 60
+MikiDave: posts the ante 60
+dulek_jason: posts the ante 60
+Parchon6: posts small blind 250
+nacho2390: posts big blind 500
+*** HOLE CARDS ***
+c444444: folds 
+S3d3m2: folds 
+MikiDave: folds 
+dulek_jason: folds 
+Parchon6: raises 750 to 1250
+nacho2390: calls 750
+*** FLOP *** [4d 9d Ac]
+Parchon6: bets 1000
+nacho2390: folds 
+Uncalled bet (1000) returned to Parchon6
+Parchon6 collected 2860 from pot
+Parchon6: doesn't show hand 
+*** SUMMARY ***
+Total pot 2860 | Rake 0 
+Board [4d 9d Ac]
+Seat 1: Parchon6 (small blind) collected (2860)
+Seat 3: nacho2390 (big blind) folded on the Flop
+Seat 4: c444444 folded before Flop (didn't bet)
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: MikiDave folded before Flop (didn't bet)
+Seat 7: dulek_jason (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207205326: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:44:36 UTC [2024/06/26 16:44:36 ET]
+Table '3769361899 31' 7-max Seat #1 is the button
+Seat 1: Parchon6 (16624 in chips, $50 bounty) 
+Seat 3: nacho2390 (12624 in chips, $25 bounty) 
+Seat 4: c444444 (16244 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (4676 in chips, $37.50 bounty) 
+Seat 6: MikiDave (15854 in chips, $37.50 bounty) 
+Seat 7: dulek_jason (5680 in chips, $25 bounty) 
+Parchon6: posts the ante 60
+nacho2390: posts the ante 60
+c444444: posts the ante 60
+S3d3m2: posts the ante 60
+MikiDave: posts the ante 60
+dulek_jason: posts the ante 60
+nacho2390: posts small blind 250
+c444444: posts big blind 500
+*** HOLE CARDS ***
+S3d3m2: raises 4116 to 4616 and is all-in
+MikiDave: folds 
+dulek_jason: folds 
+Parchon6: folds 
+nacho2390: folds 
+c444444: folds 
+Uncalled bet (4116) returned to S3d3m2
+S3d3m2 collected 1610 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot 1610 | Rake 0 
+Seat 1: Parchon6 (button) folded before Flop (didn't bet)
+Seat 3: nacho2390 (small blind) folded before Flop
+Seat 4: c444444 (big blind) folded before Flop
+Seat 5: S3d3m2 collected (1610)
+Seat 6: MikiDave folded before Flop (didn't bet)
+Seat 7: dulek_jason folded before Flop (didn't bet)
+
+PokerStars Hand #251207214163: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:45:08 UTC [2024/06/26 16:45:08 ET]
+Table '3769361899 31' 7-max Seat #3 is the button
+Seat 1: Parchon6 (16564 in chips, $50 bounty) 
+Seat 3: nacho2390 (12314 in chips, $25 bounty) 
+Seat 4: c444444 (15684 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (5726 in chips, $37.50 bounty) 
+Seat 6: MikiDave (15794 in chips, $37.50 bounty) 
+Seat 7: dulek_jason (5620 in chips, $25 bounty) 
+Parchon6: posts the ante 60
+nacho2390: posts the ante 60
+c444444: posts the ante 60
+S3d3m2: posts the ante 60
+MikiDave: posts the ante 60
+dulek_jason: posts the ante 60
+c444444: posts small blind 250
+S3d3m2: posts big blind 500
+*** HOLE CARDS ***
+MikiDave: folds 
+dulek_jason: folds 
+Parchon6: raises 550 to 1050
+nacho2390: folds 
+c444444: raises 14574 to 15624 and is all-in
+S3d3m2: folds 
+Parchon6: folds 
+Uncalled bet (14574) returned to c444444
+c444444 collected 2960 from pot
+c444444: doesn't show hand 
+*** SUMMARY ***
+Total pot 2960 | Rake 0 
+Seat 1: Parchon6 folded before Flop
+Seat 3: nacho2390 (button) folded before Flop (didn't bet)
+Seat 4: c444444 (small blind) collected (2960)
+Seat 5: S3d3m2 (big blind) folded before Flop
+Seat 6: MikiDave folded before Flop (didn't bet)
+Seat 7: dulek_jason folded before Flop (didn't bet)
+
+PokerStars Hand #251207221922: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:45:37 UTC [2024/06/26 16:45:37 ET]
+Table '3769361899 31' 7-max Seat #4 is the button
+Seat 1: Parchon6 (15454 in chips, $50 bounty) 
+Seat 3: nacho2390 (12254 in chips, $25 bounty) 
+Seat 4: c444444 (17534 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (5166 in chips, $37.50 bounty) 
+Seat 6: MikiDave (15734 in chips, $37.50 bounty) 
+Seat 7: dulek_jason (5560 in chips, $25 bounty) 
+Parchon6: posts the ante 60
+nacho2390: posts the ante 60
+c444444: posts the ante 60
+S3d3m2: posts the ante 60
+MikiDave: posts the ante 60
+dulek_jason: posts the ante 60
+S3d3m2: posts small blind 250
+MikiDave: posts big blind 500
+*** HOLE CARDS ***
+dulek_jason: folds 
+Parchon6: raises 550 to 1050
+nacho2390: folds 
+c444444: raises 1850 to 2900
+S3d3m2: folds 
+MikiDave: folds 
+Parchon6: raises 12494 to 15394 and is all-in
+c444444: folds 
+Uncalled bet (12494) returned to Parchon6
+Parchon6 collected 6910 from pot
+Parchon6: doesn't show hand 
+*** SUMMARY ***
+Total pot 6910 | Rake 0 
+Seat 1: Parchon6 collected (6910)
+Seat 3: nacho2390 folded before Flop (didn't bet)
+Seat 4: c444444 (button) folded before Flop
+Seat 5: S3d3m2 (small blind) folded before Flop
+Seat 6: MikiDave (big blind) folded before Flop
+Seat 7: dulek_jason folded before Flop (didn't bet)
+
+PokerStars Hand #251207233876: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:46:20 UTC [2024/06/26 16:46:20 ET]
+Table '3769361899 31' 7-max Seat #5 is the button
+Seat 1: Parchon6 (19404 in chips, $50 bounty) 
+Seat 3: nacho2390 (12194 in chips, $25 bounty) 
+Seat 4: c444444 (14574 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (4856 in chips, $37.50 bounty) 
+Seat 6: MikiDave (15174 in chips, $37.50 bounty) 
+Seat 7: dulek_jason (5500 in chips, $25 bounty) 
+Parchon6: posts the ante 60
+nacho2390: posts the ante 60
+c444444: posts the ante 60
+S3d3m2: posts the ante 60
+MikiDave: posts the ante 60
+dulek_jason: posts the ante 60
+MikiDave: posts small blind 250
+dulek_jason: posts big blind 500
+*** HOLE CARDS ***
+Parchon6: folds 
+nacho2390: folds 
+c444444: folds 
+S3d3m2: folds 
+MikiDave: raises 14614 to 15114 and is all-in
+dulek_jason: calls 4940 and is all-in
+Uncalled bet (9674) returned to MikiDave
+*** FLOP *** [7d 6h 2d]
+*** TURN *** [7d 6h 2d] [Qd]
+*** RIVER *** [7d 6h 2d Qd] [8d]
+*** SHOW DOWN ***
+MikiDave: shows [8h Ts] (a pair of Eights)
+dulek_jason: shows [2s Kc] (a pair of Deuces)
+MikiDave collected 11240 from pot
+MikiDave wins $12.50 for eliminating dulek_jason and their own bounty increases by $12.50 to $50
+dulek_jason finished the tournament
+*** SUMMARY ***
+Total pot 11240 | Rake 0 
+Board [7d 6h 2d Qd 8d]
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 3: nacho2390 folded before Flop (didn't bet)
+Seat 4: c444444 folded before Flop (didn't bet)
+Seat 5: S3d3m2 (button) folded before Flop (didn't bet)
+Seat 6: MikiDave (small blind) showed [8h Ts] and won (11240) with a pair of Eights
+Seat 7: dulek_jason (big blind) showed [2s Kc] and lost with a pair of Deuces
+
+PokerStars Hand #251207245450: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:47:02 UTC [2024/06/26 16:47:02 ET]
+Table '3769361899 31' 7-max Seat #6 is the button
+Seat 1: Parchon6 (19344 in chips, $50 bounty) 
+Seat 3: nacho2390 (12134 in chips, $25 bounty) 
+Seat 4: c444444 (14514 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (4796 in chips, $37.50 bounty) 
+Seat 6: MikiDave (20914 in chips, $50 bounty) 
+Parchon6: posts the ante 80
+nacho2390: posts the ante 80
+c444444: posts the ante 80
+S3d3m2: posts the ante 80
+MikiDave: posts the ante 80
+Parchon6: posts small blind 300
+nacho2390: posts big blind 600
+*** HOLE CARDS ***
+ZMLucker is disconnected 
+c444444: folds 
+S3d3m2: folds 
+MikiDave: folds 
+Parchon6: calls 300
+nacho2390: checks 
+*** FLOP *** [Th Ah Kc]
+Parchon6: checks 
+nacho2390: bets 600
+Parchon6: folds 
+Uncalled bet (600) returned to nacho2390
+nacho2390 collected 1600 from pot
+nacho2390: doesn't show hand 
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Board [Th Ah Kc]
+Seat 1: Parchon6 (small blind) folded on the Flop
+Seat 3: nacho2390 (big blind) collected (1600)
+Seat 4: c444444 folded before Flop (didn't bet)
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: MikiDave (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207257419: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:47:45 UTC [2024/06/26 16:47:45 ET]
+Table '3769361899 31' 7-max Seat #1 is the button
+Seat 1: Parchon6 (18664 in chips, $50 bounty) 
+Seat 3: nacho2390 (13054 in chips, $25 bounty) 
+Seat 4: c444444 (14434 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (4716 in chips, $37.50 bounty) 
+Seat 6: MikiDave (20834 in chips, $50 bounty) 
+Seat 7: ZMLucker (13782 in chips, $25 bounty) 
+Parchon6: posts the ante 80
+nacho2390: posts the ante 80
+c444444: posts the ante 80
+S3d3m2: posts the ante 80
+MikiDave: posts the ante 80
+ZMLucker: posts the ante 80
+nacho2390: posts small blind 300
+c444444: posts big blind 600
+*** HOLE CARDS ***
+S3d3m2: folds 
+MikiDave: folds 
+ZMLucker: folds 
+Parchon6: folds 
+nacho2390: calls 300
+c444444: checks 
+*** FLOP *** [Kh Qh 8c]
+nacho2390: bets 600
+c444444: calls 600
+*** TURN *** [Kh Qh 8c] [Qc]
+nacho2390: checks 
+c444444: checks 
+*** RIVER *** [Kh Qh 8c Qc] [Ad]
+nacho2390: bets 2700
+c444444: folds 
+Uncalled bet (2700) returned to nacho2390
+nacho2390 collected 2880 from pot
+nacho2390: doesn't show hand 
+*** SUMMARY ***
+Total pot 2880 | Rake 0 
+Board [Kh Qh 8c Qc Ad]
+Seat 1: Parchon6 (button) folded before Flop (didn't bet)
+Seat 3: nacho2390 (small blind) collected (2880)
+Seat 4: c444444 (big blind) folded on the River
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: MikiDave folded before Flop (didn't bet)
+Seat 7: ZMLucker folded before Flop (didn't bet)
+
+PokerStars Hand #251207273679: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:48:44 UTC [2024/06/26 16:48:44 ET]
+Table '3769361899 31' 7-max Seat #3 is the button
+Seat 1: Parchon6 (18584 in chips, $50 bounty) 
+Seat 3: nacho2390 (14654 in chips, $25 bounty) 
+Seat 4: c444444 (13154 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (4636 in chips, $37.50 bounty) 
+Seat 6: MikiDave (20754 in chips, $50 bounty) 
+Seat 7: ZMLucker (13702 in chips, $25 bounty) 
+Parchon6: posts the ante 80
+nacho2390: posts the ante 80
+c444444: posts the ante 80
+S3d3m2: posts the ante 80
+MikiDave: posts the ante 80
+ZMLucker: posts the ante 80
+c444444: posts small blind 300
+S3d3m2: posts big blind 600
+*** HOLE CARDS ***
+MikiDave: folds 
+ZMLucker: folds 
+Parchon6: folds 
+nacho2390: folds 
+c444444: raises 12474 to 13074 and is all-in
+S3d3m2: calls 3956 and is all-in
+Uncalled bet (8518) returned to c444444
+*** FLOP *** [Ad 2d Kh]
+*** TURN *** [Ad 2d Kh] [8d]
+*** RIVER *** [Ad 2d Kh 8d] [5h]
+*** SHOW DOWN ***
+c444444: shows [6c 9c] (high card Ace)
+S3d3m2: shows [Jd 9d] (a flush, Ace high)
+S3d3m2 collected 9592 from pot
+*** SUMMARY ***
+Total pot 9592 | Rake 0 
+Board [Ad 2d Kh 8d 5h]
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 3: nacho2390 (button) folded before Flop (didn't bet)
+Seat 4: c444444 (small blind) showed [6c 9c] and lost with high card Ace
+Seat 5: S3d3m2 (big blind) showed [Jd 9d] and won (9592) with a flush, Ace high
+Seat 6: MikiDave folded before Flop (didn't bet)
+Seat 7: ZMLucker folded before Flop (didn't bet)
+
+PokerStars Hand #251207280903: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:49:11 UTC [2024/06/26 16:49:11 ET]
+Table '3769361899 31' 7-max Seat #4 is the button
+Seat 1: Parchon6 (18504 in chips, $50 bounty) 
+Seat 2: tapago1000 (7000 in chips, $25 bounty) 
+Seat 3: nacho2390 (14574 in chips, $25 bounty) 
+Seat 4: c444444 (8518 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (9592 in chips, $37.50 bounty) 
+Seat 6: MikiDave (20674 in chips, $50 bounty) 
+Seat 7: ZMLucker (13622 in chips, $25 bounty) 
+Parchon6: posts the ante 80
+tapago1000: posts the ante 80
+nacho2390: posts the ante 80
+c444444: posts the ante 80
+S3d3m2: posts the ante 80
+MikiDave: posts the ante 80
+ZMLucker: posts the ante 80
+S3d3m2: posts small blind 300
+MikiDave: posts big blind 600
+*** HOLE CARDS ***
+ZMLucker: folds 
+Parchon6: folds 
+tapago1000: raises 6320 to 6920 and is all-in
+nacho2390: folds 
+c444444: folds 
+S3d3m2: folds 
+MikiDave: folds 
+Uncalled bet (6320) returned to tapago1000
+tapago1000 collected 2060 from pot
+*** SUMMARY ***
+Total pot 2060 | Rake 0 
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 2: tapago1000 collected (2060)
+Seat 3: nacho2390 folded before Flop (didn't bet)
+Seat 4: c444444 (button) folded before Flop (didn't bet)
+Seat 5: S3d3m2 (small blind) folded before Flop
+Seat 6: MikiDave (big blind) folded before Flop
+Seat 7: ZMLucker folded before Flop (didn't bet)
+
+PokerStars Hand #251207287283: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:49:34 UTC [2024/06/26 16:49:34 ET]
+Table '3769361899 31' 7-max Seat #5 is the button
+Seat 1: Parchon6 (18424 in chips, $50 bounty) 
+Seat 2: tapago1000 (8380 in chips, $25 bounty) 
+Seat 3: nacho2390 (14494 in chips, $25 bounty) 
+Seat 4: c444444 (8438 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (9212 in chips, $37.50 bounty) 
+Seat 6: MikiDave (19994 in chips, $50 bounty) 
+Seat 7: ZMLucker (13542 in chips, $25 bounty) 
+Parchon6: posts the ante 80
+tapago1000: posts the ante 80
+nacho2390: posts the ante 80
+c444444: posts the ante 80
+S3d3m2: posts the ante 80
+MikiDave: posts the ante 80
+ZMLucker: posts the ante 80
+MikiDave: posts small blind 300
+ZMLucker: posts big blind 600
+*** HOLE CARDS ***
+Parchon6: folds 
+tapago1000: folds 
+nacho2390: folds 
+c444444: folds 
+S3d3m2: folds 
+MikiDave: folds 
+Uncalled bet (300) returned to ZMLucker
+ZMLucker collected 1160 from pot
+ZMLucker: doesn't show hand 
+*** SUMMARY ***
+Total pot 1160 | Rake 0 
+Seat 1: Parchon6 folded before Flop (didn't bet)
+Seat 2: tapago1000 folded before Flop (didn't bet)
+Seat 3: nacho2390 folded before Flop (didn't bet)
+Seat 4: c444444 folded before Flop (didn't bet)
+Seat 5: S3d3m2 (button) folded before Flop (didn't bet)
+Seat 6: MikiDave (small blind) folded before Flop
+Seat 7: ZMLucker (big blind) collected (1160)
+
+PokerStars Hand #251207292862: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:49:55 UTC [2024/06/26 16:49:55 ET]
+Table '3769361899 31' 7-max Seat #6 is the button
+Seat 2: tapago1000 (8300 in chips, $25 bounty) 
+Seat 3: nacho2390 (14414 in chips, $25 bounty) 
+Seat 4: c444444 (8358 in chips, $37.50 bounty) 
+Seat 5: S3d3m2 (9132 in chips, $37.50 bounty) 
+Seat 6: MikiDave (19614 in chips, $50 bounty) 
+Seat 7: ZMLucker (14322 in chips, $25 bounty) 
+tapago1000: posts the ante 80
+nacho2390: posts the ante 80
+c444444: posts the ante 80
+S3d3m2: posts the ante 80
+MikiDave: posts the ante 80
+ZMLucker: posts the ante 80
+ZMLucker: posts small blind 300
+tapago1000: posts big blind 600
+*** HOLE CARDS ***
+nacho2390: raises 600 to 1200
+c444444: raises 7078 to 8278 and is all-in
+S3d3m2: folds 
+MikiDave: folds 
+ZMLucker: raises 5964 to 14242 and is all-in
+tapago1000: folds 
+nacho2390: calls 13042
+*** FLOP *** [9s Qh 4d]
+*** TURN *** [9s Qh 4d] [3h]
+*** RIVER *** [9s Qh 4d 3h] [4c]
+*** SHOW DOWN ***
+ZMLucker: shows [9h 9d] (a full house, Nines full of Fours)
+nacho2390: shows [Js Jh] (two pair, Jacks and Fours)
+ZMLucker collected 11928 from side pot
+c444444: shows [Kd Kc] (two pair, Kings and Fours)
+ZMLucker collected 25914 from main pot
+ZMLucker wins $18.75 for eliminating c444444 and their own bounty increases by $18.75 to $43.75
+c444444 finished the tournament
+*** SUMMARY ***
+Total pot 37842 Main pot 25914. Side pot 11928. | Rake 0 
+Board [9s Qh 4d 3h 4c]
+Seat 2: tapago1000 (big blind) folded before Flop
+Seat 3: nacho2390 showed [Js Jh] and lost with two pair, Jacks and Fours
+Seat 4: c444444 showed [Kd Kc] and lost with two pair, Kings and Fours
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: MikiDave (button) folded before Flop (didn't bet)
+Seat 7: ZMLucker (small blind) showed [9h 9d] and won (37842) with a full house, Nines full of Fours
+
+PokerStars Hand #251207303357: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:50:34 UTC [2024/06/26 16:50:34 ET]
+Table '3769361899 31' 7-max Seat #7 is the button
+Seat 2: tapago1000 (7620 in chips, $25 bounty) 
+Seat 3: nacho2390 (92 in chips, $25 bounty) 
+Seat 5: S3d3m2 (9052 in chips, $37.50 bounty) 
+Seat 6: MikiDave (19534 in chips, $50 bounty) 
+Seat 7: ZMLucker (37842 in chips, $43.75 bounty) 
+tapago1000: posts the ante 80
+nacho2390: posts the ante 80
+S3d3m2: posts the ante 80
+MikiDave: posts the ante 80
+ZMLucker: posts the ante 80
+tapago1000: posts small blind 300
+nacho2390: posts big blind 12 and is all-in
+*** HOLE CARDS ***
+S3d3m2: calls 600
+MikiDave: folds 
+ZMLucker: calls 600
+tapago1000: calls 300
+*** FLOP *** [4d 4s As]
+tapago1000: checks 
+S3d3m2: checks 
+ZMLucker: bets 730
+tapago1000: folds 
+S3d3m2: folds 
+Uncalled bet (730) returned to ZMLucker
+*** TURN *** [4d 4s As] [8s]
+*** RIVER *** [4d 4s As 8s] [8d]
+*** SHOW DOWN ***
+ZMLucker: shows [5s 4c] (a full house, Fours full of Eights)
+ZMLucker collected 1764 from side pot
+nacho2390: shows [3h 6c] (two pair, Eights and Fours)
+ZMLucker collected 448 from main pot
+ZMLucker wins $12.50 for eliminating nacho2390 and their own bounty increases by $12.50 to $56.25
+nacho2390 finished the tournament
+*** SUMMARY ***
+Total pot 2212 Main pot 448. Side pot 1764. | Rake 0 
+Board [4d 4s As 8s 8d]
+Seat 2: tapago1000 (small blind) folded on the Flop
+Seat 3: nacho2390 (big blind) showed [3h 6c] and lost with two pair, Eights and Fours
+Seat 5: S3d3m2 folded on the Flop
+Seat 6: MikiDave folded before Flop (didn't bet)
+Seat 7: ZMLucker (button) showed [5s 4c] and won (2212) with a full house, Fours full of Eights
+
+PokerStars Hand #251207319814: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:51:35 UTC [2024/06/26 16:51:35 ET]
+Table '3769361899 31' 7-max Seat #2 is the button
+Seat 2: tapago1000 (6940 in chips, $25 bounty) 
+Seat 4: Lorenzo683 (16222 in chips) out of hand (moved from another table into small blind)
+Seat 5: S3d3m2 (8372 in chips, $37.50 bounty) 
+Seat 6: MikiDave (19454 in chips, $50 bounty) 
+Seat 7: ZMLucker (39374 in chips, $56.25 bounty) 
+Lorenzo683 will be allowed to play after the button
+tapago1000: posts the ante 80
+S3d3m2: posts the ante 80
+MikiDave: posts the ante 80
+ZMLucker: posts the ante 80
+S3d3m2: posts small blind 300
+MikiDave: posts big blind 600
+*** HOLE CARDS ***
+ZMLucker: folds 
+tapago1000: raises 6260 to 6860 and is all-in
+S3d3m2: folds 
+MikiDave: calls 6260
+*** FLOP *** [7d 6c Th]
+*** TURN *** [7d 6c Th] [Jh]
+*** RIVER *** [7d 6c Th Jh] [Qd]
+*** SHOW DOWN ***
+MikiDave: shows [Jd Qs] (two pair, Queens and Jacks)
+tapago1000: shows [Ac 8s] (high card Ace)
+MikiDave collected 14340 from pot
+MikiDave wins $12.50 for eliminating tapago1000 and their own bounty increases by $12.50 to $62.50
+tapago1000 finished the tournament
+*** SUMMARY ***
+Total pot 14340 | Rake 0 
+Board [7d 6c Th Jh Qd]
+Seat 2: tapago1000 (button) showed [Ac 8s] and lost with high card Ace
+Seat 5: S3d3m2 (small blind) folded before Flop
+Seat 6: MikiDave (big blind) showed [Jd Qs] and won (14340) with two pair, Queens and Jacks
+Seat 7: ZMLucker folded before Flop (didn't bet)

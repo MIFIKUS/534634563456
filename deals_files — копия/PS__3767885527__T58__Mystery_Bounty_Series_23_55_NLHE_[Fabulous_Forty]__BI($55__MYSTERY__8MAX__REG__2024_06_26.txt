@@ -1,0 +1,2204 @@
+PokerStars Hand #251205536182: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:02:37 UTC [2024/06/26 15:02:37 ET]
+Table '3767885527 58' 8-max Seat #1 is the button
+Seat 1: krumbumbuli (17400 in chips) 
+Seat 2: Philipoune (50891 in chips) 
+Seat 3: Defence_BOMB (32394 in chips) 
+Seat 4: alushi6 (24400 in chips) 
+Seat 6: conradofpg (42390 in chips) 
+Seat 7: jammy1875 (71068 in chips) 
+Seat 8: DRY BLECKBERRY (54168 in chips) 
+krumbumbuli: posts the ante 150
+Philipoune: posts the ante 150
+Defence_BOMB: posts the ante 150
+alushi6: posts the ante 150
+conradofpg: posts the ante 150
+jammy1875: posts the ante 150
+DRY BLECKBERRY: posts the ante 150
+Philipoune: posts small blind 600
+Defence_BOMB: posts big blind 1200
+*** HOLE CARDS ***
+alushi6: folds 
+conradofpg: folds 
+jammy1875: raises 1200 to 2400
+DRY BLECKBERRY: raises 4800 to 7200
+krumbumbuli: folds 
+Philipoune: folds 
+Defence_BOMB: folds 
+MTTSharkSnG is disconnected 
+jammy1875: calls 4800
+*** FLOP *** [Kh 2d 8h]
+jammy1875: checks 
+DRY BLECKBERRY: bets 4800
+jammy1875: calls 4800
+*** TURN *** [Kh 2d 8h] [4s]
+jammy1875: checks 
+DRY BLECKBERRY: checks 
+*** RIVER *** [Kh 2d 8h 4s] [3h]
+jammy1875: bets 15825
+DRY BLECKBERRY: folds 
+Uncalled bet (15825) returned to jammy1875
+jammy1875 collected 26850 from pot
+*** SUMMARY ***
+Total pot 26850 | Rake 0 
+Board [Kh 2d 8h 4s 3h]
+Seat 1: krumbumbuli (button) folded before Flop (didn't bet)
+Seat 2: Philipoune (small blind) folded before Flop
+Seat 3: Defence_BOMB (big blind) folded before Flop
+Seat 4: alushi6 folded before Flop (didn't bet)
+Seat 6: conradofpg folded before Flop (didn't bet)
+Seat 7: jammy1875 collected (26850)
+Seat 8: DRY BLECKBERRY folded on the River
+
+PokerStars Hand #251205553975: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:03:48 UTC [2024/06/26 15:03:48 ET]
+Table '3767885527 58' 8-max Seat #2 is the button
+Seat 1: krumbumbuli (17250 in chips) 
+Seat 2: Philipoune (50141 in chips) 
+Seat 3: Defence_BOMB (31044 in chips) 
+Seat 4: alushi6 (24250 in chips) 
+Seat 5: MTTSharkSnG (25000 in chips) 
+Seat 6: conradofpg (42240 in chips) 
+Seat 7: jammy1875 (85768 in chips) 
+Seat 8: DRY BLECKBERRY (42018 in chips) 
+krumbumbuli: posts the ante 150
+Philipoune: posts the ante 150
+Defence_BOMB: posts the ante 150
+alushi6: posts the ante 150
+MTTSharkSnG: posts the ante 150
+conradofpg: posts the ante 150
+jammy1875: posts the ante 150
+DRY BLECKBERRY: posts the ante 150
+Defence_BOMB: posts small blind 600
+alushi6: posts big blind 1200
+*** HOLE CARDS ***
+MTTSharkSnG: folds 
+conradofpg: folds 
+jammy1875: folds 
+DRY BLECKBERRY: raises 1200 to 2400
+krumbumbuli: folds 
+Philipoune: folds 
+Defence_BOMB: raises 28494 to 30894 and is all-in
+alushi6: folds 
+DRY BLECKBERRY: folds 
+Uncalled bet (28494) returned to Defence_BOMB
+Defence_BOMB collected 7200 from pot
+Defence_BOMB: doesn't show hand 
+*** SUMMARY ***
+Total pot 7200 | Rake 0 
+Seat 1: krumbumbuli folded before Flop (didn't bet)
+Seat 2: Philipoune (button) folded before Flop (didn't bet)
+Seat 3: Defence_BOMB (small blind) collected (7200)
+Seat 4: alushi6 (big blind) folded before Flop
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg folded before Flop (didn't bet)
+Seat 7: jammy1875 folded before Flop (didn't bet)
+Seat 8: DRY BLECKBERRY folded before Flop
+
+PokerStars Hand #251205561952: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:04:19 UTC [2024/06/26 15:04:19 ET]
+Table '3767885527 58' 8-max Seat #3 is the button
+Seat 1: krumbumbuli (17100 in chips) 
+Seat 2: Philipoune (49991 in chips) 
+Seat 3: Defence_BOMB (35694 in chips) 
+Seat 4: alushi6 (22900 in chips) 
+Seat 5: MTTSharkSnG (24850 in chips) 
+Seat 6: conradofpg (42090 in chips) 
+Seat 7: jammy1875 (85618 in chips) 
+Seat 8: DRY BLECKBERRY (39468 in chips) 
+krumbumbuli: posts the ante 150
+Philipoune: posts the ante 150
+Defence_BOMB: posts the ante 150
+alushi6: posts the ante 150
+MTTSharkSnG: posts the ante 150
+conradofpg: posts the ante 150
+jammy1875: posts the ante 150
+DRY BLECKBERRY: posts the ante 150
+alushi6: posts small blind 600
+MTTSharkSnG: posts big blind 1200
+*** HOLE CARDS ***
+conradofpg: folds 
+jammy1875: folds 
+DRY BLECKBERRY: folds 
+krumbumbuli: folds 
+Philipoune: folds 
+Defence_BOMB: folds 
+alushi6: calls 600
+MTTSharkSnG: raises 23500 to 24700 and is all-in
+alushi6: folds 
+Uncalled bet (23500) returned to MTTSharkSnG
+MTTSharkSnG collected 3600 from pot
+MTTSharkSnG: doesn't show hand 
+*** SUMMARY ***
+Total pot 3600 | Rake 0 
+Seat 1: krumbumbuli folded before Flop (didn't bet)
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB (button) folded before Flop (didn't bet)
+Seat 4: alushi6 (small blind) folded before Flop
+Seat 5: MTTSharkSnG (big blind) collected (3600)
+Seat 6: conradofpg folded before Flop (didn't bet)
+Seat 7: jammy1875 folded before Flop (didn't bet)
+Seat 8: DRY BLECKBERRY folded before Flop (didn't bet)
+
+PokerStars Hand #251205570283: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:04:52 UTC [2024/06/26 15:04:52 ET]
+Table '3767885527 58' 8-max Seat #4 is the button
+Seat 1: krumbumbuli (16950 in chips) 
+Seat 2: Philipoune (49841 in chips) 
+Seat 3: Defence_BOMB (35544 in chips) 
+Seat 4: alushi6 (21550 in chips) 
+Seat 5: MTTSharkSnG (27100 in chips) 
+Seat 6: conradofpg (41940 in chips) 
+Seat 7: jammy1875 (85468 in chips) 
+Seat 8: DRY BLECKBERRY (39318 in chips) 
+krumbumbuli: posts the ante 150
+Philipoune: posts the ante 150
+Defence_BOMB: posts the ante 150
+alushi6: posts the ante 150
+MTTSharkSnG: posts the ante 150
+conradofpg: posts the ante 150
+jammy1875: posts the ante 150
+DRY BLECKBERRY: posts the ante 150
+MTTSharkSnG: posts small blind 600
+conradofpg: posts big blind 1200
+*** HOLE CARDS ***
+jammy1875: folds 
+DRY BLECKBERRY: raises 1200 to 2400
+krumbumbuli: folds 
+Philipoune: folds 
+Defence_BOMB: folds 
+alushi6: folds 
+MTTSharkSnG: raises 6000 to 8400
+conradofpg has timed out
+conradofpg: folds 
+conradofpg is sitting out
+DRY BLECKBERRY: folds 
+Uncalled bet (6000) returned to MTTSharkSnG
+conradofpg has returned
+MTTSharkSnG collected 7200 from pot
+MTTSharkSnG: doesn't show hand 
+*** SUMMARY ***
+Total pot 7200 | Rake 0 
+Seat 1: krumbumbuli folded before Flop (didn't bet)
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: alushi6 (button) folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG (small blind) collected (7200)
+Seat 6: conradofpg (big blind) folded before Flop
+Seat 7: jammy1875 folded before Flop (didn't bet)
+Seat 8: DRY BLECKBERRY folded before Flop
+
+PokerStars Hand #251205581428: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:05:34 UTC [2024/06/26 15:05:34 ET]
+Table '3767885527 58' 8-max Seat #5 is the button
+Seat 1: krumbumbuli (16800 in chips) 
+Seat 2: Philipoune (49691 in chips) 
+Seat 3: Defence_BOMB (35394 in chips) 
+Seat 4: alushi6 (21400 in chips) 
+Seat 5: MTTSharkSnG (31750 in chips) 
+Seat 6: conradofpg (40590 in chips) 
+Seat 7: jammy1875 (85318 in chips) 
+Seat 8: DRY BLECKBERRY (36768 in chips) 
+krumbumbuli: posts the ante 150
+Philipoune: posts the ante 150
+Defence_BOMB: posts the ante 150
+alushi6: posts the ante 150
+MTTSharkSnG: posts the ante 150
+conradofpg: posts the ante 150
+jammy1875: posts the ante 150
+DRY BLECKBERRY: posts the ante 150
+conradofpg: posts small blind 600
+jammy1875: posts big blind 1200
+*** HOLE CARDS ***
+DRY BLECKBERRY: folds 
+krumbumbuli: folds 
+Philipoune: folds 
+Defence_BOMB: folds 
+alushi6: folds 
+MTTSharkSnG: folds 
+conradofpg: folds 
+Uncalled bet (600) returned to jammy1875
+jammy1875 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: krumbumbuli folded before Flop (didn't bet)
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: alushi6 folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG (button) folded before Flop (didn't bet)
+Seat 6: conradofpg (small blind) folded before Flop
+Seat 7: jammy1875 (big blind) collected (2400)
+Seat 8: DRY BLECKBERRY folded before Flop (didn't bet)
+
+PokerStars Hand #251205586748: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:05:54 UTC [2024/06/26 15:05:54 ET]
+Table '3767885527 58' 8-max Seat #6 is the button
+Seat 1: krumbumbuli (16650 in chips) 
+Seat 2: Philipoune (49541 in chips) 
+Seat 3: Defence_BOMB (35244 in chips) 
+Seat 4: alushi6 (21250 in chips) 
+Seat 5: MTTSharkSnG (31600 in chips) 
+Seat 6: conradofpg (39840 in chips) 
+Seat 7: jammy1875 (86968 in chips) 
+Seat 8: DRY BLECKBERRY (36618 in chips) 
+krumbumbuli: posts the ante 150
+Philipoune: posts the ante 150
+Defence_BOMB: posts the ante 150
+alushi6: posts the ante 150
+MTTSharkSnG: posts the ante 150
+conradofpg: posts the ante 150
+jammy1875: posts the ante 150
+DRY BLECKBERRY: posts the ante 150
+jammy1875: posts small blind 600
+DRY BLECKBERRY: posts big blind 1200
+*** HOLE CARDS ***
+krumbumbuli: raises 15300 to 16500 and is all-in
+Philipoune: folds 
+Defence_BOMB: folds 
+alushi6: folds 
+MTTSharkSnG: folds 
+conradofpg: folds 
+jammy1875 has timed out
+jammy1875: folds 
+jammy1875 is sitting out
+DRY BLECKBERRY: folds 
+Uncalled bet (15300) returned to krumbumbuli
+krumbumbuli collected 4200 from pot
+krumbumbuli: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 1: krumbumbuli collected (4200)
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: alushi6 folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg (button) folded before Flop (didn't bet)
+Seat 7: jammy1875 (small blind) folded before Flop
+Seat 8: DRY BLECKBERRY (big blind) folded before Flop
+
+PokerStars Hand #251205599329: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:06:41 UTC [2024/06/26 15:06:41 ET]
+Table '3767885527 58' 8-max Seat #7 is the button
+Seat 1: krumbumbuli (19500 in chips) 
+Seat 2: Philipoune (49391 in chips) 
+Seat 3: Defence_BOMB (35094 in chips) 
+Seat 4: alushi6 (21100 in chips) 
+Seat 5: MTTSharkSnG (31450 in chips) 
+Seat 6: conradofpg (39690 in chips) 
+Seat 7: jammy1875 (86218 in chips) is sitting out
+Seat 8: DRY BLECKBERRY (35268 in chips) 
+krumbumbuli: posts the ante 150
+Philipoune: posts the ante 150
+Defence_BOMB: posts the ante 150
+alushi6: posts the ante 150
+MTTSharkSnG: posts the ante 150
+conradofpg: posts the ante 150
+jammy1875: posts the ante 150
+DRY BLECKBERRY: posts the ante 150
+DRY BLECKBERRY: posts small blind 600
+krumbumbuli: posts big blind 1200
+*** HOLE CARDS ***
+Philipoune: folds 
+jammy1875 has returned
+Defence_BOMB: folds 
+alushi6: raises 1200 to 2400
+MTTSharkSnG: folds 
+conradofpg: folds 
+jammy1875: calls 2400
+DRY BLECKBERRY: folds 
+krumbumbuli: calls 1200
+*** FLOP *** [6d Qd As]
+krumbumbuli: checks 
+alushi6: checks 
+jammy1875: bets 3600
+krumbumbuli: calls 3600
+alushi6: folds 
+*** TURN *** [6d Qd As] [6s]
+krumbumbuli: checks 
+jammy1875: bets 16200
+krumbumbuli: folds 
+Uncalled bet (16200) returned to jammy1875
+jammy1875 collected 16200 from pot
+*** SUMMARY ***
+Total pot 16200 | Rake 0 
+Board [6d Qd As 6s]
+Seat 1: krumbumbuli (big blind) folded on the Turn
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: alushi6 folded on the Flop
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg folded before Flop (didn't bet)
+Seat 7: jammy1875 (button) collected (16200)
+Seat 8: DRY BLECKBERRY (small blind) folded before Flop
+
+PokerStars Hand #251205616568: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:07:46 UTC [2024/06/26 15:07:46 ET]
+Table '3767885527 58' 8-max Seat #8 is the button
+Seat 1: krumbumbuli (13350 in chips) 
+Seat 2: Philipoune (49241 in chips) 
+Seat 3: Defence_BOMB (34944 in chips) 
+Seat 4: alushi6 (18550 in chips) 
+Seat 5: MTTSharkSnG (31300 in chips) 
+Seat 6: conradofpg (39540 in chips) 
+Seat 7: jammy1875 (96268 in chips) 
+Seat 8: DRY BLECKBERRY (34518 in chips) 
+krumbumbuli: posts the ante 150
+Philipoune: posts the ante 150
+Defence_BOMB: posts the ante 150
+alushi6: posts the ante 150
+MTTSharkSnG: posts the ante 150
+conradofpg: posts the ante 150
+jammy1875: posts the ante 150
+DRY BLECKBERRY: posts the ante 150
+krumbumbuli: posts small blind 600
+Philipoune: posts big blind 1200
+*** HOLE CARDS ***
+Defence_BOMB: folds 
+alushi6: folds 
+MTTSharkSnG: folds 
+conradofpg: raises 1200 to 2400
+jammy1875: calls 2400
+DRY BLECKBERRY: folds 
+krumbumbuli: calls 1800
+Philipoune: raises 46691 to 49091 and is all-in
+conradofpg: folds 
+jammy1875: folds 
+krumbumbuli: calls 10800 and is all-in
+Uncalled bet (35891) returned to Philipoune
+*** FLOP *** [Qs 2c Kh]
+*** TURN *** [Qs 2c Kh] [As]
+*** RIVER *** [Qs 2c Kh As] [2d]
+*** SHOW DOWN ***
+krumbumbuli: shows [6d 9d] (a pair of Deuces)
+Philipoune: shows [Jd Kc] (two pair, Kings and Deuces)
+Philipoune collected 32400 from pot
+krumbumbuli finished the tournament
+*** SUMMARY ***
+Total pot 32400 | Rake 0 
+Board [Qs 2c Kh As 2d]
+Seat 1: krumbumbuli (small blind) showed [6d 9d] and lost with a pair of Deuces
+Seat 2: Philipoune (big blind) showed [Jd Kc] and won (32400) with two pair, Kings and Deuces
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: alushi6 folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg folded before Flop
+Seat 7: jammy1875 folded before Flop
+Seat 8: DRY BLECKBERRY (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205630096: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:08:37 UTC [2024/06/26 15:08:37 ET]
+Table '3767885527 58' 8-max Seat #2 is the button
+Seat 2: Philipoune (68291 in chips) 
+Seat 3: Defence_BOMB (34794 in chips) 
+Seat 4: alushi6 (18400 in chips) 
+Seat 5: MTTSharkSnG (31150 in chips) 
+Seat 6: conradofpg (36990 in chips) 
+Seat 7: jammy1875 (93718 in chips) 
+Seat 8: DRY BLECKBERRY (34368 in chips) 
+Philipoune: posts the ante 150
+Defence_BOMB: posts the ante 150
+alushi6: posts the ante 150
+MTTSharkSnG: posts the ante 150
+conradofpg: posts the ante 150
+jammy1875: posts the ante 150
+DRY BLECKBERRY: posts the ante 150
+Defence_BOMB: posts small blind 600
+alushi6: posts big blind 1200
+*** HOLE CARDS ***
+MTTSharkSnG: folds 
+conradofpg: folds 
+jammy1875: raises 1200 to 2400
+DRY BLECKBERRY: folds 
+Philipoune: folds 
+Defence_BOMB: folds 
+leitalopez is disconnected 
+alushi6: calls 1200
+*** FLOP *** [8h 7c Kc]
+alushi6: checks 
+jammy1875: bets 3600
+alushi6: calls 3600
+*** TURN *** [8h 7c Kc] [Qs]
+alushi6: checks 
+jammy1875: bets 4800
+alushi6: folds 
+Uncalled bet (4800) returned to jammy1875
+jammy1875 collected 13650 from pot
+*** SUMMARY ***
+Total pot 13650 | Rake 0 
+Board [8h 7c Kc Qs]
+Seat 2: Philipoune (button) folded before Flop (didn't bet)
+Seat 3: Defence_BOMB (small blind) folded before Flop
+Seat 4: alushi6 (big blind) folded on the Turn
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg folded before Flop (didn't bet)
+Seat 7: jammy1875 collected (13650)
+Seat 8: DRY BLECKBERRY folded before Flop (didn't bet)
+
+PokerStars Hand #251205652099: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:09:59 UTC [2024/06/26 15:09:59 ET]
+Table '3767885527 58' 8-max Seat #3 is the button
+Seat 1: leitalopez (25000 in chips) 
+Seat 2: Philipoune (68141 in chips) 
+Seat 3: Defence_BOMB (34044 in chips) 
+Seat 4: alushi6 (12250 in chips) 
+Seat 5: MTTSharkSnG (31000 in chips) 
+Seat 6: conradofpg (36840 in chips) 
+Seat 7: jammy1875 (101218 in chips) 
+Seat 8: DRY BLECKBERRY (34218 in chips) 
+leitalopez: posts the ante 175
+Philipoune: posts the ante 175
+Defence_BOMB: posts the ante 175
+alushi6: posts the ante 175
+MTTSharkSnG: posts the ante 175
+conradofpg: posts the ante 175
+jammy1875: posts the ante 175
+DRY BLECKBERRY: posts the ante 175
+alushi6: posts small blind 700
+MTTSharkSnG: posts big blind 1400
+*** HOLE CARDS ***
+conradofpg: folds 
+jammy1875: raises 1400 to 2800
+DRY BLECKBERRY: folds 
+leitalopez: folds 
+Philipoune: folds 
+Defence_BOMB: folds 
+alushi6: raises 9275 to 12075 and is all-in
+MTTSharkSnG: folds 
+jammy1875: calls 9275
+*** FLOP *** [Ac Th Qh]
+*** TURN *** [Ac Th Qh] [5d]
+*** RIVER *** [Ac Th Qh 5d] [Ad]
+*** SHOW DOWN ***
+alushi6: shows [Kh Ah] (three of a kind, Aces)
+jammy1875: shows [As 4h] (three of a kind, Aces - lower kicker)
+alushi6 collected 26950 from pot
+*** SUMMARY ***
+Total pot 26950 | Rake 0 
+Board [Ac Th Qh 5d Ad]
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB (button) folded before Flop (didn't bet)
+Seat 4: alushi6 (small blind) showed [Kh Ah] and won (26950) with three of a kind, Aces
+Seat 5: MTTSharkSnG (big blind) folded before Flop
+Seat 6: conradofpg folded before Flop (didn't bet)
+Seat 7: jammy1875 showed [As 4h] and lost with three of a kind, Aces
+Seat 8: DRY BLECKBERRY folded before Flop (didn't bet)
+
+PokerStars Hand #251205662045: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:10:36 UTC [2024/06/26 15:10:36 ET]
+Table '3767885527 58' 8-max Seat #4 is the button
+Seat 1: leitalopez (24825 in chips) 
+Seat 2: Philipoune (67966 in chips) 
+Seat 3: Defence_BOMB (33869 in chips) 
+Seat 4: alushi6 (26950 in chips) 
+Seat 5: MTTSharkSnG (29425 in chips) 
+Seat 6: conradofpg (36665 in chips) 
+Seat 7: jammy1875 (88968 in chips) 
+Seat 8: DRY BLECKBERRY (34043 in chips) 
+leitalopez: posts the ante 175
+Philipoune: posts the ante 175
+Defence_BOMB: posts the ante 175
+alushi6: posts the ante 175
+MTTSharkSnG: posts the ante 175
+conradofpg: posts the ante 175
+jammy1875: posts the ante 175
+DRY BLECKBERRY: posts the ante 175
+MTTSharkSnG: posts small blind 700
+conradofpg: posts big blind 1400
+*** HOLE CARDS ***
+jammy1875: raises 1400 to 2800
+DRY BLECKBERRY: folds 
+leitalopez: raises 21850 to 24650 and is all-in
+Philipoune: folds 
+Defence_BOMB: folds 
+alushi6: folds 
+MTTSharkSnG: folds 
+conradofpg: folds 
+jammy1875: folds 
+Uncalled bet (21850) returned to leitalopez
+leitalopez collected 9100 from pot
+leitalopez: doesn't show hand 
+*** SUMMARY ***
+Total pot 9100 | Rake 0 
+Seat 1: leitalopez collected (9100)
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: alushi6 (button) folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG (small blind) folded before Flop
+Seat 6: conradofpg (big blind) folded before Flop
+Seat 7: jammy1875 folded before Flop
+Seat 8: DRY BLECKBERRY folded before Flop (didn't bet)
+
+PokerStars Hand #251205672029: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:11:13 UTC [2024/06/26 15:11:13 ET]
+Table '3767885527 58' 8-max Seat #5 is the button
+Seat 1: leitalopez (30950 in chips) 
+Seat 2: Philipoune (67791 in chips) 
+Seat 3: Defence_BOMB (33694 in chips) 
+Seat 4: alushi6 (26775 in chips) 
+Seat 5: MTTSharkSnG (28550 in chips) 
+Seat 6: conradofpg (35090 in chips) 
+Seat 7: jammy1875 (85993 in chips) 
+Seat 8: DRY BLECKBERRY (33868 in chips) 
+leitalopez: posts the ante 175
+Philipoune: posts the ante 175
+Defence_BOMB: posts the ante 175
+alushi6: posts the ante 175
+MTTSharkSnG: posts the ante 175
+conradofpg: posts the ante 175
+jammy1875: posts the ante 175
+DRY BLECKBERRY: posts the ante 175
+conradofpg: posts small blind 700
+jammy1875: posts big blind 1400
+*** HOLE CARDS ***
+DRY BLECKBERRY: folds 
+leitalopez: folds 
+Philipoune: folds 
+Defence_BOMB: folds 
+alushi6: raises 1400 to 2800
+MTTSharkSnG: raises 25575 to 28375 and is all-in
+conradofpg: folds 
+jammy1875: folds 
+alushi6: calls 23800 and is all-in
+Uncalled bet (1775) returned to MTTSharkSnG
+*** FLOP *** [As Qd 4c]
+*** TURN *** [As Qd 4c] [7h]
+*** RIVER *** [As Qd 4c 7h] [7s]
+*** SHOW DOWN ***
+alushi6: shows [Td Ts] (two pair, Tens and Sevens)
+MTTSharkSnG: shows [Tc Th] (two pair, Tens and Sevens)
+alushi6 collected 28350 from pot
+MTTSharkSnG collected 28350 from pot
+*** SUMMARY ***
+Total pot 56700 | Rake 0 
+Board [As Qd 4c 7h 7s]
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: alushi6 showed [Td Ts] and won (28350) with two pair, Tens and Sevens
+Seat 5: MTTSharkSnG (button) showed [Tc Th] and won (28350) with two pair, Tens and Sevens
+Seat 6: conradofpg (small blind) folded before Flop
+Seat 7: jammy1875 (big blind) folded before Flop
+Seat 8: DRY BLECKBERRY folded before Flop (didn't bet)
+
+PokerStars Hand #251205681985: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:11:50 UTC [2024/06/26 15:11:50 ET]
+Table '3767885527 58' 8-max Seat #6 is the button
+Seat 1: leitalopez (30775 in chips) 
+Seat 2: Philipoune (67616 in chips) 
+Seat 3: Defence_BOMB (33519 in chips) 
+Seat 4: alushi6 (28350 in chips) 
+Seat 5: MTTSharkSnG (30125 in chips) 
+Seat 6: conradofpg (34215 in chips) 
+Seat 7: jammy1875 (84418 in chips) 
+Seat 8: DRY BLECKBERRY (33693 in chips) 
+leitalopez: posts the ante 175
+Philipoune: posts the ante 175
+Defence_BOMB: posts the ante 175
+alushi6: posts the ante 175
+MTTSharkSnG: posts the ante 175
+conradofpg: posts the ante 175
+jammy1875: posts the ante 175
+DRY BLECKBERRY: posts the ante 175
+jammy1875: posts small blind 700
+DRY BLECKBERRY: posts big blind 1400
+*** HOLE CARDS ***
+leitalopez: raises 1400 to 2800
+Philipoune: folds 
+Defence_BOMB: folds 
+alushi6: folds 
+MTTSharkSnG: folds 
+conradofpg: folds 
+jammy1875: calls 2100
+DRY BLECKBERRY: folds 
+*** FLOP *** [4d 6s Qh]
+jammy1875: checks 
+leitalopez: bets 2772
+jammy1875: calls 2772
+*** TURN *** [4d 6s Qh] [Jc]
+jammy1875: checks 
+leitalopez: bets 4602
+jammy1875: calls 4602
+*** RIVER *** [4d 6s Qh Jc] [Kc]
+jammy1875: checks 
+leitalopez: checks 
+*** SHOW DOWN ***
+jammy1875: shows [5s 3s] (high card King)
+leitalopez: shows [Kd Td] (a pair of Kings)
+leitalopez collected 23148 from pot
+*** SUMMARY ***
+Total pot 23148 | Rake 0 
+Board [4d 6s Qh Jc Kc]
+Seat 1: leitalopez showed [Kd Td] and won (23148) with a pair of Kings
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: alushi6 folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg (button) folded before Flop (didn't bet)
+Seat 7: jammy1875 (small blind) showed [5s 3s] and lost with high card King
+Seat 8: DRY BLECKBERRY (big blind) folded before Flop
+
+PokerStars Hand #251205698362: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:12:50 UTC [2024/06/26 15:12:50 ET]
+Table '3767885527 58' 8-max Seat #7 is the button
+Seat 1: leitalopez (43574 in chips) 
+Seat 2: Philipoune (67441 in chips) 
+Seat 3: Defence_BOMB (33344 in chips) 
+Seat 4: alushi6 (28175 in chips) 
+Seat 5: MTTSharkSnG (29950 in chips) 
+Seat 6: conradofpg (34040 in chips) 
+Seat 7: jammy1875 (74069 in chips) 
+Seat 8: DRY BLECKBERRY (32118 in chips) 
+leitalopez: posts the ante 175
+Philipoune: posts the ante 175
+Defence_BOMB: posts the ante 175
+alushi6: posts the ante 175
+MTTSharkSnG: posts the ante 175
+conradofpg: posts the ante 175
+jammy1875: posts the ante 175
+DRY BLECKBERRY: posts the ante 175
+DRY BLECKBERRY: posts small blind 700
+leitalopez: posts big blind 1400
+*** HOLE CARDS ***
+Philipoune: folds 
+Defence_BOMB: folds 
+alushi6: folds 
+MTTSharkSnG: raises 28375 to 29775 and is all-in
+conradofpg: folds 
+jammy1875: folds 
+DRY BLECKBERRY: folds 
+leitalopez: folds 
+Uncalled bet (28375) returned to MTTSharkSnG
+MTTSharkSnG collected 4900 from pot
+MTTSharkSnG: doesn't show hand 
+*** SUMMARY ***
+Total pot 4900 | Rake 0 
+Seat 1: leitalopez (big blind) folded before Flop
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: alushi6 folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG collected (4900)
+Seat 6: conradofpg folded before Flop (didn't bet)
+Seat 7: jammy1875 (button) folded before Flop (didn't bet)
+Seat 8: DRY BLECKBERRY (small blind) folded before Flop
+
+PokerStars Hand #251205704639: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:13:13 UTC [2024/06/26 15:13:13 ET]
+Table '3767885527 58' 8-max Seat #8 is the button
+Seat 1: leitalopez (41999 in chips) 
+Seat 2: Philipoune (67266 in chips) 
+Seat 3: Defence_BOMB (33169 in chips) 
+Seat 4: alushi6 (28000 in chips) 
+Seat 5: MTTSharkSnG (33275 in chips) 
+Seat 6: conradofpg (33865 in chips) 
+Seat 7: jammy1875 (73894 in chips) 
+Seat 8: DRY BLECKBERRY (31243 in chips) 
+leitalopez: posts the ante 175
+Philipoune: posts the ante 175
+Defence_BOMB: posts the ante 175
+alushi6: posts the ante 175
+MTTSharkSnG: posts the ante 175
+conradofpg: posts the ante 175
+jammy1875: posts the ante 175
+DRY BLECKBERRY: posts the ante 175
+leitalopez: posts small blind 700
+Philipoune: posts big blind 1400
+*** HOLE CARDS ***
+Defence_BOMB: folds 
+alushi6: folds 
+MTTSharkSnG: folds 
+conradofpg: folds 
+jammy1875: folds 
+DRY BLECKBERRY: folds 
+leitalopez: calls 700
+Philipoune: checks 
+*** FLOP *** [4s 9s Qd]
+leitalopez: checks 
+Philipoune: checks 
+*** TURN *** [4s 9s Qd] [Jd]
+leitalopez: bets 1400
+Philipoune: folds 
+Uncalled bet (1400) returned to leitalopez
+leitalopez collected 4200 from pot
+leitalopez: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Board [4s 9s Qd Jd]
+Seat 1: leitalopez (small blind) collected (4200)
+Seat 2: Philipoune (big blind) folded on the Turn
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: alushi6 folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg folded before Flop (didn't bet)
+Seat 7: jammy1875 folded before Flop (didn't bet)
+Seat 8: DRY BLECKBERRY (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205716057: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:13:56 UTC [2024/06/26 15:13:56 ET]
+Table '3767885527 58' 8-max Seat #1 is the button
+Seat 1: leitalopez (44624 in chips) 
+Seat 2: Philipoune (65691 in chips) 
+Seat 3: Defence_BOMB (32994 in chips) 
+Seat 4: alushi6 (27825 in chips) 
+Seat 5: MTTSharkSnG (33100 in chips) 
+Seat 6: conradofpg (33690 in chips) 
+Seat 7: jammy1875 (73719 in chips) 
+Seat 8: DRY BLECKBERRY (31068 in chips) 
+leitalopez: posts the ante 175
+Philipoune: posts the ante 175
+Defence_BOMB: posts the ante 175
+alushi6: posts the ante 175
+MTTSharkSnG: posts the ante 175
+conradofpg: posts the ante 175
+jammy1875: posts the ante 175
+DRY BLECKBERRY: posts the ante 175
+Philipoune: posts small blind 700
+Defence_BOMB: posts big blind 1400
+*** HOLE CARDS ***
+alushi6: raises 1400 to 2800
+MTTSharkSnG: folds 
+conradofpg: folds 
+jammy1875: folds 
+DRY BLECKBERRY: raises 4200 to 7000
+leitalopez: folds 
+Philipoune: folds 
+Defence_BOMB: folds 
+alushi6: raises 20650 to 27650 and is all-in
+DRY BLECKBERRY: calls 20650
+*** FLOP *** [7s 4d 5s]
+*** TURN *** [7s 4d 5s] [Qh]
+*** RIVER *** [7s 4d 5s Qh] [Ah]
+*** SHOW DOWN ***
+alushi6: shows [Kd Ad] (a pair of Aces)
+DRY BLECKBERRY: shows [Ks As] (a pair of Aces)
+alushi6 collected 29400 from pot
+DRY BLECKBERRY collected 29400 from pot
+*** SUMMARY ***
+Total pot 58800 | Rake 0 
+Board [7s 4d 5s Qh Ah]
+Seat 1: leitalopez (button) folded before Flop (didn't bet)
+Seat 2: Philipoune (small blind) folded before Flop
+Seat 3: Defence_BOMB (big blind) folded before Flop
+Seat 4: alushi6 showed [Kd Ad] and won (29400) with a pair of Aces
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg folded before Flop (didn't bet)
+Seat 7: jammy1875 folded before Flop (didn't bet)
+Seat 8: DRY BLECKBERRY showed [Ks As] and won (29400) with a pair of Aces
+
+PokerStars Hand #251205730536: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:14:49 UTC [2024/06/26 15:14:49 ET]
+Table '3767885527 58' 8-max Seat #2 is the button
+Seat 1: leitalopez (44449 in chips) 
+Seat 2: Philipoune (64816 in chips) 
+Seat 3: Defence_BOMB (31419 in chips) 
+Seat 4: alushi6 (29400 in chips) 
+Seat 5: MTTSharkSnG (32925 in chips) 
+Seat 6: conradofpg (33515 in chips) 
+Seat 7: jammy1875 (73544 in chips) 
+Seat 8: DRY BLECKBERRY (32643 in chips) 
+leitalopez: posts the ante 175
+Philipoune: posts the ante 175
+Defence_BOMB: posts the ante 175
+alushi6: posts the ante 175
+MTTSharkSnG: posts the ante 175
+conradofpg: posts the ante 175
+jammy1875: posts the ante 175
+DRY BLECKBERRY: posts the ante 175
+Defence_BOMB: posts small blind 700
+alushi6: posts big blind 1400
+*** HOLE CARDS ***
+MTTSharkSnG: folds 
+conradofpg: folds 
+jammy1875: folds 
+DRY BLECKBERRY: raises 1400 to 2800
+leitalopez: folds 
+Philipoune: folds 
+Defence_BOMB: folds 
+alushi6: folds 
+Uncalled bet (1400) returned to DRY BLECKBERRY
+DRY BLECKBERRY collected 4900 from pot
+DRY BLECKBERRY: doesn't show hand 
+*** SUMMARY ***
+Total pot 4900 | Rake 0 
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune (button) folded before Flop (didn't bet)
+Seat 3: Defence_BOMB (small blind) folded before Flop
+Seat 4: alushi6 (big blind) folded before Flop
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg folded before Flop (didn't bet)
+Seat 7: jammy1875 folded before Flop (didn't bet)
+Seat 8: DRY BLECKBERRY collected (4900)
+
+PokerStars Hand #251205739557: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:15:22 UTC [2024/06/26 15:15:22 ET]
+Table '3767885527 58' 8-max Seat #3 is the button
+Seat 1: leitalopez (44274 in chips) 
+Seat 2: Philipoune (64641 in chips) 
+Seat 3: Defence_BOMB (30544 in chips) 
+Seat 4: alushi6 (27825 in chips) 
+Seat 5: MTTSharkSnG (32750 in chips) 
+Seat 6: conradofpg (33340 in chips) 
+Seat 7: jammy1875 (73369 in chips) 
+Seat 8: DRY BLECKBERRY (35968 in chips) 
+leitalopez: posts the ante 175
+Philipoune: posts the ante 175
+Defence_BOMB: posts the ante 175
+alushi6: posts the ante 175
+MTTSharkSnG: posts the ante 175
+conradofpg: posts the ante 175
+jammy1875: posts the ante 175
+DRY BLECKBERRY: posts the ante 175
+alushi6: posts small blind 700
+MTTSharkSnG: posts big blind 1400
+*** HOLE CARDS ***
+conradofpg: folds 
+jammy1875: folds 
+DRY BLECKBERRY: raises 1400 to 2800
+leitalopez: folds 
+Philipoune: folds 
+Defence_BOMB: folds 
+alushi6: raises 24850 to 27650 and is all-in
+MTTSharkSnG: raises 4925 to 32575 and is all-in
+DRY BLECKBERRY: calls 29775
+*** FLOP *** [3d 2d 7s]
+*** TURN *** [3d 2d 7s] [8d]
+*** RIVER *** [3d 2d 7s 8d] [Js]
+*** SHOW DOWN ***
+MTTSharkSnG: shows [Jc Ac] (a pair of Jacks)
+DRY BLECKBERRY: shows [Kh Ah] (high card Ace)
+MTTSharkSnG collected 9850 from side pot
+alushi6: shows [Ks Qs] (high card King)
+MTTSharkSnG collected 84350 from main pot
+alushi6 finished the tournament
+*** SUMMARY ***
+Total pot 94200 Main pot 84350. Side pot 9850. | Rake 0 
+Board [3d 2d 7s 8d Js]
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB (button) folded before Flop (didn't bet)
+Seat 4: alushi6 (small blind) showed [Ks Qs] and lost with high card King
+Seat 5: MTTSharkSnG (big blind) showed [Jc Ac] and won (94200) with a pair of Jacks
+Seat 6: conradofpg folded before Flop (didn't bet)
+Seat 7: jammy1875 folded before Flop (didn't bet)
+Seat 8: DRY BLECKBERRY showed [Kh Ah] and lost with high card Ace
+
+PokerStars Hand #251205752366: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:16:09 UTC [2024/06/26 15:16:09 ET]
+Table '3767885527 58' 8-max Seat #5 is the button
+Seat 1: leitalopez (44099 in chips) 
+Seat 2: Philipoune (64466 in chips) 
+Seat 3: Defence_BOMB (30369 in chips) 
+Seat 5: MTTSharkSnG (94200 in chips) 
+Seat 6: conradofpg (33165 in chips) 
+Seat 7: jammy1875 (73194 in chips) 
+Seat 8: DRY BLECKBERRY (3218 in chips) 
+leitalopez: posts the ante 175
+Philipoune: posts the ante 175
+Defence_BOMB: posts the ante 175
+MTTSharkSnG: posts the ante 175
+conradofpg: posts the ante 175
+jammy1875: posts the ante 175
+DRY BLECKBERRY: posts the ante 175
+conradofpg: posts small blind 700
+jammy1875: posts big blind 1400
+*** HOLE CARDS ***
+DRY BLECKBERRY: folds 
+leitalopez: folds 
+Philipoune: folds 
+Defence_BOMB: folds 
+MTTSharkSnG: raises 1400 to 2800
+conradofpg: folds 
+jammy1875: raises 4200 to 7000
+KingDugdale is disconnected 
+MTTSharkSnG: calls 4200
+*** FLOP *** [6h 5c 2s]
+jammy1875: bets 5600
+MTTSharkSnG: calls 5600
+*** TURN *** [6h 5c 2s] [Qc]
+jammy1875: bets 12163
+MTTSharkSnG: folds 
+Uncalled bet (12163) returned to jammy1875
+jammy1875 collected 27125 from pot
+*** SUMMARY ***
+Total pot 27125 | Rake 0 
+Board [6h 5c 2s Qc]
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG (button) folded on the Turn
+Seat 6: conradofpg (small blind) folded before Flop
+Seat 7: jammy1875 (big blind) collected (27125)
+Seat 8: DRY BLECKBERRY folded before Flop (didn't bet)
+
+PokerStars Hand #251205773369: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:17:27 UTC [2024/06/26 15:17:27 ET]
+Table '3767885527 58' 8-max Seat #6 is the button
+Seat 1: leitalopez (43924 in chips) 
+Seat 2: Philipoune (64291 in chips) 
+Seat 3: Defence_BOMB (30194 in chips) 
+Seat 4: KingDugdale (25000 in chips) 
+Seat 5: MTTSharkSnG (81425 in chips) 
+Seat 6: conradofpg (32290 in chips) 
+Seat 7: jammy1875 (87544 in chips) 
+Seat 8: DRY BLECKBERRY (3043 in chips) 
+leitalopez: posts the ante 175
+Philipoune: posts the ante 175
+Defence_BOMB: posts the ante 175
+KingDugdale: posts the ante 175
+MTTSharkSnG: posts the ante 175
+conradofpg: posts the ante 175
+jammy1875: posts the ante 175
+DRY BLECKBERRY: posts the ante 175
+jammy1875: posts small blind 700
+DRY BLECKBERRY: posts big blind 1400
+*** HOLE CARDS ***
+leitalopez: raises 1400 to 2800
+Philipoune: folds 
+Defence_BOMB: raises 4200 to 7000
+KingDugdale: folds 
+MTTSharkSnG: folds 
+conradofpg: folds 
+jammy1875: folds 
+DRY BLECKBERRY: calls 1468 and is all-in
+leitalopez: folds 
+Uncalled bet (4132) returned to Defence_BOMB
+*** FLOP *** [3d Th 7c]
+*** TURN *** [3d Th 7c] [Kh]
+*** RIVER *** [3d Th 7c Kh] [6h]
+*** SHOW DOWN ***
+DRY BLECKBERRY: shows [Tc As] (a pair of Tens)
+Defence_BOMB: shows [Kc Ad] (a pair of Kings)
+Defence_BOMB collected 10636 from pot
+DRY BLECKBERRY finished the tournament
+*** SUMMARY ***
+Total pot 10636 | Rake 0 
+Board [3d Th 7c Kh 6h]
+Seat 1: leitalopez folded before Flop
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB showed [Kc Ad] and won (10636) with a pair of Kings
+Seat 4: KingDugdale folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg (button) folded before Flop (didn't bet)
+Seat 7: jammy1875 (small blind) folded before Flop
+Seat 8: DRY BLECKBERRY (big blind) showed [Tc As] and lost with a pair of Tens
+
+PokerStars Hand #251205785433: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:18:11 UTC [2024/06/26 15:18:11 ET]
+Table '3767885527 58' 8-max Seat #7 is the button
+Seat 1: leitalopez (40949 in chips) 
+Seat 2: Philipoune (64116 in chips) 
+Seat 3: Defence_BOMB (37787 in chips) 
+Seat 4: KingDugdale (24825 in chips) 
+Seat 5: MTTSharkSnG (81250 in chips) 
+Seat 6: conradofpg (32115 in chips) 
+Seat 7: jammy1875 (86669 in chips) 
+leitalopez: posts the ante 175
+Philipoune: posts the ante 175
+Defence_BOMB: posts the ante 175
+KingDugdale: posts the ante 175
+MTTSharkSnG: posts the ante 175
+conradofpg: posts the ante 175
+jammy1875: posts the ante 175
+leitalopez: posts small blind 700
+Philipoune: posts big blind 1400
+*** HOLE CARDS ***
+Defence_BOMB: folds 
+KingDugdale: folds 
+MTTSharkSnG: folds 
+conradofpg: folds 
+jammy1875: folds 
+leitalopez: calls 700
+Philipoune: raises 62541 to 63941 and is all-in
+leitalopez: folds 
+Uncalled bet (62541) returned to Philipoune
+Philipoune collected 4025 from pot
+Philipoune: doesn't show hand 
+*** SUMMARY ***
+Total pot 4025 | Rake 0 
+Seat 1: leitalopez (small blind) folded before Flop
+Seat 2: Philipoune (big blind) collected (4025)
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: KingDugdale folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg folded before Flop (didn't bet)
+Seat 7: jammy1875 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205793783: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:18:41 UTC [2024/06/26 15:18:41 ET]
+Table '3767885527 58' 8-max Seat #1 is the button
+Seat 1: leitalopez (39374 in chips) 
+Seat 2: Philipoune (66566 in chips) 
+Seat 3: Defence_BOMB (37612 in chips) 
+Seat 4: KingDugdale (24650 in chips) 
+Seat 5: MTTSharkSnG (81075 in chips) 
+Seat 6: conradofpg (31940 in chips) 
+Seat 7: jammy1875 (86494 in chips) 
+leitalopez: posts the ante 175
+Philipoune: posts the ante 175
+Defence_BOMB: posts the ante 175
+KingDugdale: posts the ante 175
+MTTSharkSnG: posts the ante 175
+conradofpg: posts the ante 175
+jammy1875: posts the ante 175
+Philipoune: posts small blind 700
+Defence_BOMB: posts big blind 1400
+*** HOLE CARDS ***
+KingDugdale: folds 
+MTTSharkSnG: folds 
+conradofpg: raises 1400 to 2800
+jammy1875: raises 8400 to 11200
+leitalopez: folds 
+Philipoune: folds 
+oO-HaiRoller-Oo is disconnected 
+Defence_BOMB: folds 
+conradofpg: folds 
+Uncalled bet (8400) returned to jammy1875
+jammy1875 collected 8925 from pot
+*** SUMMARY ***
+Total pot 8925 | Rake 0 
+Seat 1: leitalopez (button) folded before Flop (didn't bet)
+Seat 2: Philipoune (small blind) folded before Flop
+Seat 3: Defence_BOMB (big blind) folded before Flop
+Seat 4: KingDugdale folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg folded before Flop
+Seat 7: jammy1875 collected (8925)
+
+PokerStars Hand #251205806355: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:19:27 UTC [2024/06/26 15:19:27 ET]
+Table '3767885527 58' 8-max Seat #2 is the button
+Seat 1: leitalopez (39199 in chips) 
+Seat 2: Philipoune (65691 in chips) 
+Seat 3: Defence_BOMB (36037 in chips) 
+Seat 4: KingDugdale (24475 in chips) 
+Seat 5: MTTSharkSnG (80900 in chips) 
+Seat 6: conradofpg (28965 in chips) 
+Seat 7: jammy1875 (92444 in chips) 
+Seat 8: oO-HaiRoller-Oo (25000 in chips) 
+leitalopez: posts the ante 200
+Philipoune: posts the ante 200
+Defence_BOMB: posts the ante 200
+KingDugdale: posts the ante 200
+MTTSharkSnG: posts the ante 200
+conradofpg: posts the ante 200
+jammy1875: posts the ante 200
+oO-HaiRoller-Oo: posts the ante 200
+Defence_BOMB: posts small blind 800
+KingDugdale: posts big blind 1600
+*** HOLE CARDS ***
+MTTSharkSnG: folds 
+conradofpg: folds 
+jammy1875: raises 1600 to 3200
+oO-HaiRoller-Oo: folds 
+leitalopez: raises 35799 to 38999 and is all-in
+Philipoune: folds 
+Defence_BOMB: folds 
+KingDugdale: folds 
+jammy1875: folds 
+Uncalled bet (35799) returned to leitalopez
+leitalopez collected 10400 from pot
+leitalopez: doesn't show hand 
+*** SUMMARY ***
+Total pot 10400 | Rake 0 
+Seat 1: leitalopez collected (10400)
+Seat 2: Philipoune (button) folded before Flop (didn't bet)
+Seat 3: Defence_BOMB (small blind) folded before Flop
+Seat 4: KingDugdale (big blind) folded before Flop
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg folded before Flop (didn't bet)
+Seat 7: jammy1875 folded before Flop
+Seat 8: oO-HaiRoller-Oo folded before Flop (didn't bet)
+
+PokerStars Hand #251205813172: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:19:52 UTC [2024/06/26 15:19:52 ET]
+Table '3767885527 58' 8-max Seat #3 is the button
+Seat 1: leitalopez (46199 in chips) 
+Seat 2: Philipoune (65491 in chips) 
+Seat 3: Defence_BOMB (35037 in chips) 
+Seat 4: KingDugdale (22675 in chips) 
+Seat 5: MTTSharkSnG (80700 in chips) 
+Seat 6: conradofpg (28765 in chips) 
+Seat 7: jammy1875 (89044 in chips) 
+Seat 8: oO-HaiRoller-Oo (24800 in chips) 
+leitalopez: posts the ante 200
+Philipoune: posts the ante 200
+Defence_BOMB: posts the ante 200
+KingDugdale: posts the ante 200
+MTTSharkSnG: posts the ante 200
+conradofpg: posts the ante 200
+jammy1875: posts the ante 200
+oO-HaiRoller-Oo: posts the ante 200
+KingDugdale: posts small blind 800
+MTTSharkSnG: posts big blind 1600
+*** HOLE CARDS ***
+conradofpg: raises 1600 to 3200
+jammy1875: calls 3200
+oO-HaiRoller-Oo: folds 
+leitalopez: folds 
+Philipoune: folds 
+Defence_BOMB: folds 
+KingDugdale: folds 
+MTTSharkSnG: folds 
+*** FLOP *** [2s 7h 6c]
+conradofpg: checks 
+jammy1875: checks 
+*** TURN *** [2s 7h 6c] [Kh]
+conradofpg: checks 
+jammy1875: bets 4800
+conradofpg: calls 4800
+*** RIVER *** [2s 7h 6c Kh] [Qs]
+conradofpg: checks 
+jammy1875: bets 8400
+conradofpg: folds 
+Uncalled bet (8400) returned to jammy1875
+jammy1875 collected 20000 from pot
+*** SUMMARY ***
+Total pot 20000 | Rake 0 
+Board [2s 7h 6c Kh Qs]
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB (button) folded before Flop (didn't bet)
+Seat 4: KingDugdale (small blind) folded before Flop
+Seat 5: MTTSharkSnG (big blind) folded before Flop
+Seat 6: conradofpg folded on the River
+Seat 7: jammy1875 collected (20000)
+Seat 8: oO-HaiRoller-Oo folded before Flop (didn't bet)
+
+PokerStars Hand #251205843603: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:21:44 UTC [2024/06/26 15:21:44 ET]
+Table '3767885527 58' 8-max Seat #4 is the button
+Seat 1: leitalopez (45999 in chips) 
+Seat 2: Philipoune (65291 in chips) 
+Seat 3: Defence_BOMB (34837 in chips) 
+Seat 4: KingDugdale (21675 in chips) 
+Seat 5: MTTSharkSnG (78900 in chips) 
+Seat 6: conradofpg (20565 in chips) 
+Seat 7: jammy1875 (100844 in chips) 
+Seat 8: oO-HaiRoller-Oo (24600 in chips) 
+leitalopez: posts the ante 200
+Philipoune: posts the ante 200
+Defence_BOMB: posts the ante 200
+KingDugdale: posts the ante 200
+MTTSharkSnG: posts the ante 200
+conradofpg: posts the ante 200
+jammy1875: posts the ante 200
+oO-HaiRoller-Oo: posts the ante 200
+MTTSharkSnG: posts small blind 800
+conradofpg: posts big blind 1600
+*** HOLE CARDS ***
+jammy1875: folds 
+oO-HaiRoller-Oo: raises 22800 to 24400 and is all-in
+leitalopez: folds 
+Philipoune: folds 
+Defence_BOMB: folds 
+KingDugdale: folds 
+MTTSharkSnG: folds 
+conradofpg: folds 
+Uncalled bet (22800) returned to oO-HaiRoller-Oo
+oO-HaiRoller-Oo collected 5600 from pot
+oO-HaiRoller-Oo: doesn't show hand 
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: KingDugdale (button) folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG (small blind) folded before Flop
+Seat 6: conradofpg (big blind) folded before Flop
+Seat 7: jammy1875 folded before Flop (didn't bet)
+Seat 8: oO-HaiRoller-Oo collected (5600)
+
+PokerStars Hand #251205850436: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:22:09 UTC [2024/06/26 15:22:09 ET]
+Table '3767885527 58' 8-max Seat #5 is the button
+Seat 1: leitalopez (45799 in chips) 
+Seat 2: Philipoune (65091 in chips) 
+Seat 3: Defence_BOMB (34637 in chips) 
+Seat 4: KingDugdale (21475 in chips) 
+Seat 5: MTTSharkSnG (77900 in chips) 
+Seat 6: conradofpg (18765 in chips) 
+Seat 7: jammy1875 (100644 in chips) 
+Seat 8: oO-HaiRoller-Oo (28400 in chips) 
+leitalopez: posts the ante 200
+Philipoune: posts the ante 200
+Defence_BOMB: posts the ante 200
+KingDugdale: posts the ante 200
+MTTSharkSnG: posts the ante 200
+conradofpg: posts the ante 200
+jammy1875: posts the ante 200
+oO-HaiRoller-Oo: posts the ante 200
+conradofpg: posts small blind 800
+jammy1875: posts big blind 1600
+*** HOLE CARDS ***
+oO-HaiRoller-Oo: folds 
+leitalopez: folds 
+Philipoune: folds 
+Defence_BOMB: folds 
+KingDugdale: raises 19675 to 21275 and is all-in
+MTTSharkSnG: folds 
+conradofpg: folds 
+jammy1875: calls 19675
+*** FLOP *** [Qh Qc Js]
+*** TURN *** [Qh Qc Js] [Jh]
+*** RIVER *** [Qh Qc Js Jh] [5h]
+*** SHOW DOWN ***
+jammy1875: shows [9s Ac] (two pair, Queens and Jacks)
+KingDugdale: shows [Kc 9c] (two pair, Queens and Jacks - lower kicker)
+jammy1875 collected 44950 from pot
+KingDugdale finished the tournament
+*** SUMMARY ***
+Total pot 44950 | Rake 0 
+Board [Qh Qc Js Jh 5h]
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: KingDugdale showed [Kc 9c] and lost with two pair, Queens and Jacks
+Seat 5: MTTSharkSnG (button) folded before Flop (didn't bet)
+Seat 6: conradofpg (small blind) folded before Flop
+Seat 7: jammy1875 (big blind) showed [9s Ac] and won (44950) with two pair, Queens and Jacks
+Seat 8: oO-HaiRoller-Oo folded before Flop (didn't bet)
+
+PokerStars Hand #251205859502: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:22:42 UTC [2024/06/26 15:22:42 ET]
+Table '3767885527 58' 8-max Seat #6 is the button
+Seat 1: leitalopez (45599 in chips) 
+Seat 2: Philipoune (64891 in chips) 
+Seat 3: Defence_BOMB (34437 in chips) 
+Seat 5: MTTSharkSnG (77700 in chips) 
+Seat 6: conradofpg (17765 in chips) 
+Seat 7: jammy1875 (124119 in chips) 
+Seat 8: oO-HaiRoller-Oo (28200 in chips) 
+leitalopez: posts the ante 200
+Philipoune: posts the ante 200
+Defence_BOMB: posts the ante 200
+MTTSharkSnG: posts the ante 200
+conradofpg: posts the ante 200
+jammy1875: posts the ante 200
+oO-HaiRoller-Oo: posts the ante 200
+jammy1875: posts small blind 800
+oO-HaiRoller-Oo: posts big blind 1600
+*** HOLE CARDS ***
+leitalopez: folds 
+Philipoune: folds 
+Defence_BOMB: folds 
+MTTSharkSnG: folds 
+conradofpg: folds 
+jammy1875: raises 1600 to 3200
+oO-HaiRoller-Oo: calls 1600
+*** FLOP *** [Jc 9d 5d]
+jammy1875: bets 3200
+oO-HaiRoller-Oo: calls 3200
+*** TURN *** [Jc 9d 5d] [2h]
+jammy1875: checks 
+oO-HaiRoller-Oo: bets 21600 and is all-in
+jammy1875: folds 
+Uncalled bet (21600) returned to oO-HaiRoller-Oo
+oO-HaiRoller-Oo collected 14200 from pot
+oO-HaiRoller-Oo: doesn't show hand 
+*** SUMMARY ***
+Total pot 14200 | Rake 0 
+Board [Jc 9d 5d 2h]
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg (button) folded before Flop (didn't bet)
+Seat 7: jammy1875 (small blind) folded on the Turn
+Seat 8: oO-HaiRoller-Oo (big blind) collected (14200)
+
+PokerStars Hand #251205874752: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:23:38 UTC [2024/06/26 15:23:38 ET]
+Table '3767885527 58' 8-max Seat #7 is the button
+Seat 1: leitalopez (45399 in chips) 
+Seat 2: Philipoune (64691 in chips) 
+Seat 3: Defence_BOMB (34237 in chips) 
+Seat 4: Renailmatto (25000 in chips) 
+Seat 5: MTTSharkSnG (77500 in chips) 
+Seat 6: conradofpg (17565 in chips) 
+Seat 7: jammy1875 (117519 in chips) 
+Seat 8: oO-HaiRoller-Oo (35800 in chips) 
+leitalopez: posts the ante 200
+Philipoune: posts the ante 200
+Defence_BOMB: posts the ante 200
+Renailmatto: posts the ante 200
+MTTSharkSnG: posts the ante 200
+conradofpg: posts the ante 200
+jammy1875: posts the ante 200
+oO-HaiRoller-Oo: posts the ante 200
+oO-HaiRoller-Oo: posts small blind 800
+leitalopez: posts big blind 1600
+*** HOLE CARDS ***
+Philipoune: folds 
+Defence_BOMB: folds 
+Renailmatto: raises 1600 to 3200
+MTTSharkSnG: folds 
+conradofpg: folds 
+jammy1875: folds 
+oO-HaiRoller-Oo: calls 2400
+leitalopez: calls 1600
+*** FLOP *** [9h Kd Qs]
+oO-HaiRoller-Oo: checks 
+leitalopez: checks 
+Renailmatto: bets 5600
+oO-HaiRoller-Oo: calls 5600
+leitalopez: folds 
+*** TURN *** [9h Kd Qs] [Ts]
+oO-HaiRoller-Oo: checks 
+Renailmatto: checks 
+*** RIVER *** [9h Kd Qs Ts] [6c]
+oO-HaiRoller-Oo: bets 26800 and is all-in
+Renailmatto: folds 
+Uncalled bet (26800) returned to oO-HaiRoller-Oo
+oO-HaiRoller-Oo collected 22400 from pot
+oO-HaiRoller-Oo: doesn't show hand 
+*** SUMMARY ***
+Total pot 22400 | Rake 0 
+Board [9h Kd Qs Ts 6c]
+Seat 1: leitalopez (big blind) folded on the Flop
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: Renailmatto folded on the River
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg folded before Flop (didn't bet)
+Seat 7: jammy1875 (button) folded before Flop (didn't bet)
+Seat 8: oO-HaiRoller-Oo (small blind) collected (22400)
+
+PokerStars Hand #251205891218: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:24:38 UTC [2024/06/26 15:24:38 ET]
+Table '3767885527 58' 8-max Seat #8 is the button
+Seat 1: leitalopez (41999 in chips) 
+Seat 2: Philipoune (64491 in chips) 
+Seat 3: Defence_BOMB (34037 in chips) 
+Seat 4: Renailmatto (16000 in chips) 
+Seat 5: MTTSharkSnG (77300 in chips) 
+Seat 6: conradofpg (17365 in chips) 
+Seat 7: jammy1875 (117319 in chips) 
+Seat 8: oO-HaiRoller-Oo (49200 in chips) 
+leitalopez: posts the ante 200
+Philipoune: posts the ante 200
+Defence_BOMB: posts the ante 200
+Renailmatto: posts the ante 200
+MTTSharkSnG: posts the ante 200
+conradofpg: posts the ante 200
+jammy1875: posts the ante 200
+oO-HaiRoller-Oo: posts the ante 200
+leitalopez: posts small blind 800
+Philipoune: posts big blind 1600
+*** HOLE CARDS ***
+Defence_BOMB: folds 
+Renailmatto: raises 14200 to 15800 and is all-in
+MTTSharkSnG: folds 
+conradofpg: folds 
+jammy1875: folds 
+oO-HaiRoller-Oo: folds 
+leitalopez: folds 
+Philipoune: folds 
+Uncalled bet (14200) returned to Renailmatto
+Renailmatto collected 5600 from pot
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Seat 1: leitalopez (small blind) folded before Flop
+Seat 2: Philipoune (big blind) folded before Flop
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: Renailmatto collected (5600)
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg folded before Flop (didn't bet)
+Seat 7: jammy1875 folded before Flop (didn't bet)
+Seat 8: oO-HaiRoller-Oo (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205896482: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:24:57 UTC [2024/06/26 15:24:57 ET]
+Table '3767885527 58' 8-max Seat #1 is the button
+Seat 1: leitalopez (40999 in chips) 
+Seat 2: Philipoune (62691 in chips) 
+Seat 3: Defence_BOMB (33837 in chips) 
+Seat 4: Renailmatto (19800 in chips) 
+Seat 5: MTTSharkSnG (77100 in chips) 
+Seat 6: conradofpg (17165 in chips) 
+Seat 7: jammy1875 (117119 in chips) 
+Seat 8: oO-HaiRoller-Oo (49000 in chips) 
+leitalopez: posts the ante 200
+Philipoune: posts the ante 200
+Defence_BOMB: posts the ante 200
+Renailmatto: posts the ante 200
+MTTSharkSnG: posts the ante 200
+conradofpg: posts the ante 200
+jammy1875: posts the ante 200
+oO-HaiRoller-Oo: posts the ante 200
+Philipoune: posts small blind 800
+Defence_BOMB: posts big blind 1600
+*** HOLE CARDS ***
+Renailmatto: folds 
+MTTSharkSnG: folds 
+conradofpg: folds 
+jammy1875: folds 
+oO-HaiRoller-Oo: folds 
+leitalopez: raises 1600 to 3200
+Philipoune: folds 
+Defence_BOMB: folds 
+Uncalled bet (1600) returned to leitalopez
+leitalopez collected 5600 from pot
+leitalopez: doesn't show hand 
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Seat 1: leitalopez (button) collected (5600)
+Seat 2: Philipoune (small blind) folded before Flop
+Seat 3: Defence_BOMB (big blind) folded before Flop
+Seat 4: Renailmatto folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg folded before Flop (didn't bet)
+Seat 7: jammy1875 folded before Flop (didn't bet)
+Seat 8: oO-HaiRoller-Oo folded before Flop (didn't bet)
+
+PokerStars Hand #251205903815: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:25:23 UTC [2024/06/26 15:25:23 ET]
+Table '3767885527 58' 8-max Seat #2 is the button
+Seat 1: leitalopez (44799 in chips) 
+Seat 2: Philipoune (61691 in chips) 
+Seat 3: Defence_BOMB (32037 in chips) 
+Seat 4: Renailmatto (19600 in chips) 
+Seat 5: MTTSharkSnG (76900 in chips) 
+Seat 6: conradofpg (16965 in chips) 
+Seat 7: jammy1875 (116919 in chips) 
+Seat 8: oO-HaiRoller-Oo (48800 in chips) 
+leitalopez: posts the ante 200
+Philipoune: posts the ante 200
+Defence_BOMB: posts the ante 200
+Renailmatto: posts the ante 200
+MTTSharkSnG: posts the ante 200
+conradofpg: posts the ante 200
+jammy1875: posts the ante 200
+oO-HaiRoller-Oo: posts the ante 200
+Defence_BOMB: posts small blind 800
+Renailmatto: posts big blind 1600
+*** HOLE CARDS ***
+MTTSharkSnG: folds 
+conradofpg: raises 15165 to 16765 and is all-in
+jammy1875: raises 19965 to 36730
+oO-HaiRoller-Oo: folds 
+leitalopez: folds 
+Philipoune: folds 
+Defence_BOMB: folds 
+Renailmatto: folds 
+Uncalled bet (19965) returned to jammy1875
+*** FLOP *** [3c Qh 2c]
+*** TURN *** [3c Qh 2c] [9d]
+*** RIVER *** [3c Qh 2c 9d] [2s]
+*** SHOW DOWN ***
+conradofpg: shows [Jh Js] (two pair, Jacks and Deuces)
+jammy1875: shows [9s 9h] (a full house, Nines full of Deuces)
+jammy1875 collected 37530 from pot
+conradofpg finished the tournament
+*** SUMMARY ***
+Total pot 37530 | Rake 0 
+Board [3c Qh 2c 9d 2s]
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune (button) folded before Flop (didn't bet)
+Seat 3: Defence_BOMB (small blind) folded before Flop
+Seat 4: Renailmatto (big blind) folded before Flop
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: conradofpg showed [Jh Js] and lost with two pair, Jacks and Deuces
+Seat 7: jammy1875 showed [9s 9h] and won (37530) with a full house, Nines full of Deuces
+Seat 8: oO-HaiRoller-Oo folded before Flop (didn't bet)
+
+PokerStars Hand #251205913936: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:26:00 UTC [2024/06/26 15:26:00 ET]
+Table '3767885527 58' 8-max Seat #3 is the button
+Seat 1: leitalopez (44599 in chips) 
+Seat 2: Philipoune (61491 in chips) 
+Seat 3: Defence_BOMB (31037 in chips) 
+Seat 4: Renailmatto (17800 in chips) 
+Seat 5: MTTSharkSnG (76700 in chips) 
+Seat 7: jammy1875 (137484 in chips) 
+Seat 8: oO-HaiRoller-Oo (48600 in chips) 
+leitalopez: posts the ante 200
+Philipoune: posts the ante 200
+Defence_BOMB: posts the ante 200
+Renailmatto: posts the ante 200
+MTTSharkSnG: posts the ante 200
+jammy1875: posts the ante 200
+oO-HaiRoller-Oo: posts the ante 200
+Renailmatto: posts small blind 800
+MTTSharkSnG: posts big blind 1600
+*** HOLE CARDS ***
+jammy1875: folds 
+oO-HaiRoller-Oo: folds 
+leitalopez: raises 1600 to 3200
+Philipoune: folds 
+Defence_BOMB: raises 27637 to 30837 and is all-in
+Renailmatto: folds 
+MTTSharkSnG: folds 
+leitalopez: folds 
+Uncalled bet (27637) returned to Defence_BOMB
+Defence_BOMB collected 10200 from pot
+Defence_BOMB: doesn't show hand 
+*** SUMMARY ***
+Total pot 10200 | Rake 0 
+Seat 1: leitalopez folded before Flop
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB (button) collected (10200)
+Seat 4: Renailmatto (small blind) folded before Flop
+Seat 5: MTTSharkSnG (big blind) folded before Flop
+Seat 7: jammy1875 folded before Flop (didn't bet)
+Seat 8: oO-HaiRoller-Oo folded before Flop (didn't bet)
+
+PokerStars Hand #251205920621: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:26:25 UTC [2024/06/26 15:26:25 ET]
+Table '3767885527 58' 8-max Seat #4 is the button
+Seat 1: leitalopez (41199 in chips) 
+Seat 2: Philipoune (61291 in chips) 
+Seat 3: Defence_BOMB (37837 in chips) 
+Seat 4: Renailmatto (16800 in chips) 
+Seat 5: MTTSharkSnG (74900 in chips) 
+Seat 7: jammy1875 (137284 in chips) 
+Seat 8: oO-HaiRoller-Oo (48400 in chips) 
+leitalopez: posts the ante 200
+Philipoune: posts the ante 200
+Defence_BOMB: posts the ante 200
+Renailmatto: posts the ante 200
+MTTSharkSnG: posts the ante 200
+jammy1875: posts the ante 200
+oO-HaiRoller-Oo: posts the ante 200
+MTTSharkSnG: posts small blind 800
+jammy1875: posts big blind 1600
+*** HOLE CARDS ***
+oO-HaiRoller-Oo: folds 
+leitalopez: folds 
+Philipoune: raises 1600 to 3200
+Defence_BOMB: folds 
+Renailmatto: folds 
+MTTSharkSnG: folds 
+jammy1875: folds 
+Uncalled bet (1600) returned to Philipoune
+Philipoune collected 5400 from pot
+Philipoune: doesn't show hand 
+*** SUMMARY ***
+Total pot 5400 | Rake 0 
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune collected (5400)
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: Renailmatto (button) folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG (small blind) folded before Flop
+Seat 7: jammy1875 (big blind) folded before Flop
+Seat 8: oO-HaiRoller-Oo folded before Flop (didn't bet)
+
+PokerStars Hand #251205929066: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:26:56 UTC [2024/06/26 15:26:56 ET]
+Table '3767885527 58' 8-max Seat #5 is the button
+Seat 1: leitalopez (40999 in chips) 
+Seat 2: Philipoune (64891 in chips) 
+Seat 3: Defence_BOMB (37637 in chips) 
+Seat 4: Renailmatto (16600 in chips) 
+Seat 5: MTTSharkSnG (73900 in chips) 
+Seat 7: jammy1875 (135484 in chips) 
+Seat 8: oO-HaiRoller-Oo (48200 in chips) 
+leitalopez: posts the ante 200
+Philipoune: posts the ante 200
+Defence_BOMB: posts the ante 200
+Renailmatto: posts the ante 200
+MTTSharkSnG: posts the ante 200
+jammy1875: posts the ante 200
+oO-HaiRoller-Oo: posts the ante 200
+jammy1875: posts small blind 800
+oO-HaiRoller-Oo: posts big blind 1600
+*** HOLE CARDS ***
+JovemPromessa is disconnected 
+leitalopez: folds 
+Philipoune: raises 1600 to 3200
+Defence_BOMB: folds 
+Renailmatto: folds 
+MTTSharkSnG: folds 
+jammy1875: raises 8000 to 11200
+oO-HaiRoller-Oo: folds 
+Philipoune: calls 8000
+*** FLOP *** [9s 2s 8c]
+jammy1875: bets 9600
+Philipoune: calls 9600
+*** TURN *** [9s 2s 8c] [5c]
+jammy1875: bets 44600
+Philipoune: calls 43891 and is all-in
+Uncalled bet (709) returned to jammy1875
+*** RIVER *** [9s 2s 8c 5c] [As]
+*** SHOW DOWN ***
+jammy1875: shows [7d 7s] (a pair of Sevens)
+Philipoune: shows [9h 9d] (three of a kind, Nines)
+Philipoune collected 132382 from pot
+*** SUMMARY ***
+Total pot 132382 | Rake 0 
+Board [9s 2s 8c 5c As]
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune showed [9h 9d] and won (132382) with three of a kind, Nines
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: Renailmatto folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG (button) folded before Flop (didn't bet)
+Seat 7: jammy1875 (small blind) showed [7d 7s] and lost with a pair of Sevens
+Seat 8: oO-HaiRoller-Oo (big blind) folded before Flop
+
+PokerStars Hand #251205954734: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:28:32 UTC [2024/06/26 15:28:32 ET]
+Table '3767885527 58' 8-max Seat #7 is the button
+Seat 1: leitalopez (40799 in chips) 
+Seat 2: Philipoune (132382 in chips) 
+Seat 3: Defence_BOMB (37437 in chips) 
+Seat 4: Renailmatto (16400 in chips) 
+Seat 5: MTTSharkSnG (73700 in chips) 
+Seat 6: JovemPromessa (25000 in chips) 
+Seat 7: jammy1875 (70593 in chips) 
+Seat 8: oO-HaiRoller-Oo (46400 in chips) 
+leitalopez: posts the ante 200
+Philipoune: posts the ante 200
+Defence_BOMB: posts the ante 200
+Renailmatto: posts the ante 200
+MTTSharkSnG: posts the ante 200
+JovemPromessa: posts the ante 200
+jammy1875: posts the ante 200
+oO-HaiRoller-Oo: posts the ante 200
+oO-HaiRoller-Oo: posts small blind 800
+leitalopez: posts big blind 1600
+*** HOLE CARDS ***
+Philipoune: folds 
+Defence_BOMB: raises 1920 to 3520
+Renailmatto: calls 3520
+MTTSharkSnG: folds 
+JovemPromessa: raises 20480 to 24000
+jammy1875: folds 
+oO-HaiRoller-Oo: folds 
+leitalopez: folds 
+Defence_BOMB: folds 
+Renailmatto: calls 12680 and is all-in
+Uncalled bet (7800) returned to JovemPromessa
+*** FLOP *** [Ac Qh 4s]
+*** TURN *** [Ac Qh 4s] [7h]
+*** RIVER *** [Ac Qh 4s 7h] [Kh]
+*** SHOW DOWN ***
+Renailmatto: shows [Th 9h] (a flush, King high)
+JovemPromessa: shows [Jh As] (a pair of Aces)
+Renailmatto collected 39920 from pot
+*** SUMMARY ***
+Total pot 39920 | Rake 0 
+Board [Ac Qh 4s 7h Kh]
+Seat 1: leitalopez (big blind) folded before Flop
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: Defence_BOMB folded before Flop
+Seat 4: Renailmatto showed [Th 9h] and won (39920) with a flush, King high
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: JovemPromessa showed [Jh As] and lost with a pair of Aces
+Seat 7: jammy1875 (button) folded before Flop (didn't bet)
+Seat 8: oO-HaiRoller-Oo (small blind) folded before Flop
+
+PokerStars Hand #251205965990: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:29:14 UTC [2024/06/26 15:29:14 ET]
+Table '3767885527 58' 8-max Seat #8 is the button
+Seat 1: leitalopez (38999 in chips) 
+Seat 2: Philipoune (132182 in chips) 
+Seat 3: Defence_BOMB (33717 in chips) 
+Seat 4: Renailmatto (39920 in chips) 
+Seat 5: MTTSharkSnG (73500 in chips) 
+Seat 6: JovemPromessa (8600 in chips) 
+Seat 7: jammy1875 (70393 in chips) 
+Seat 8: oO-HaiRoller-Oo (45400 in chips) 
+leitalopez: posts the ante 250
+Philipoune: posts the ante 250
+Defence_BOMB: posts the ante 250
+Renailmatto: posts the ante 250
+MTTSharkSnG: posts the ante 250
+JovemPromessa: posts the ante 250
+jammy1875: posts the ante 250
+oO-HaiRoller-Oo: posts the ante 250
+leitalopez: posts small blind 1000
+Philipoune: posts big blind 2000
+*** HOLE CARDS ***
+Defence_BOMB: folds 
+Renailmatto: folds 
+MTTSharkSnG: folds 
+JovemPromessa: folds 
+jammy1875: folds 
+oO-HaiRoller-Oo: raises 2200 to 4200
+leitalopez: raises 34549 to 38749 and is all-in
+Philipoune: folds 
+oO-HaiRoller-Oo: folds [Kc]
+Uncalled bet (34549) returned to leitalopez
+leitalopez collected 12400 from pot
+leitalopez: doesn't show hand 
+*** SUMMARY ***
+Total pot 12400 | Rake 0 
+Seat 1: leitalopez (small blind) collected (12400)
+Seat 2: Philipoune (big blind) folded before Flop
+Seat 3: Defence_BOMB folded before Flop (didn't bet)
+Seat 4: Renailmatto folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: JovemPromessa folded before Flop (didn't bet)
+Seat 7: jammy1875 folded before Flop (didn't bet)
+Seat 8: oO-HaiRoller-Oo (button) folded before Flop
+
+PokerStars Hand #251205979313: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:30:02 UTC [2024/06/26 15:30:02 ET]
+Table '3767885527 58' 8-max Seat #1 is the button
+Seat 1: leitalopez (46949 in chips) 
+Seat 2: Philipoune (129932 in chips) 
+Seat 3: Defence_BOMB (33467 in chips) 
+Seat 4: Renailmatto (39670 in chips) 
+Seat 5: MTTSharkSnG (73250 in chips) 
+Seat 6: JovemPromessa (8350 in chips) 
+Seat 7: jammy1875 (70143 in chips) 
+Seat 8: oO-HaiRoller-Oo (40950 in chips) 
+leitalopez: posts the ante 250
+Philipoune: posts the ante 250
+Defence_BOMB: posts the ante 250
+Renailmatto: posts the ante 250
+MTTSharkSnG: posts the ante 250
+JovemPromessa: posts the ante 250
+jammy1875: posts the ante 250
+oO-HaiRoller-Oo: posts the ante 250
+Philipoune: posts small blind 1000
+Defence_BOMB: posts big blind 2000
+*** HOLE CARDS ***
+Renailmatto: folds 
+MTTSharkSnG: folds 
+JovemPromessa: folds 
+jammy1875: raises 2000 to 4000
+oO-HaiRoller-Oo: folds 
+leitalopez: folds 
+Philipoune: folds 
+Defence_BOMB: raises 29217 to 33217 and is all-in
+jammy1875: calls 29217
+*** FLOP *** [Kh 2s Th]
+*** TURN *** [Kh 2s Th] [3c]
+*** RIVER *** [Kh 2s Th 3c] [Jh]
+*** SHOW DOWN ***
+Defence_BOMB: shows [5s 5h] (a pair of Fives)
+jammy1875: shows [Kc Ts] (two pair, Kings and Tens)
+jammy1875 collected 69434 from pot
+Defence_BOMB finished the tournament
+*** SUMMARY ***
+Total pot 69434 | Rake 0 
+Board [Kh 2s Th 3c Jh]
+Seat 1: leitalopez (button) folded before Flop (didn't bet)
+Seat 2: Philipoune (small blind) folded before Flop
+Seat 3: Defence_BOMB (big blind) showed [5s 5h] and lost with a pair of Fives
+Seat 4: Renailmatto folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: JovemPromessa folded before Flop (didn't bet)
+Seat 7: jammy1875 showed [Kc Ts] and won (69434) with two pair, Kings and Tens
+Seat 8: oO-HaiRoller-Oo folded before Flop (didn't bet)
+
+PokerStars Hand #251205991436: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:30:46 UTC [2024/06/26 15:30:46 ET]
+Table '3767885527 58' 8-max Seat #2 is the button
+Seat 1: leitalopez (46699 in chips) 
+Seat 2: Philipoune (128682 in chips) 
+Seat 4: Renailmatto (39420 in chips) 
+Seat 5: MTTSharkSnG (73000 in chips) 
+Seat 6: JovemPromessa (8100 in chips) 
+Seat 7: jammy1875 (106110 in chips) 
+Seat 8: oO-HaiRoller-Oo (40700 in chips) 
+leitalopez: posts the ante 250
+Philipoune: posts the ante 250
+Renailmatto: posts the ante 250
+MTTSharkSnG: posts the ante 250
+JovemPromessa: posts the ante 250
+jammy1875: posts the ante 250
+oO-HaiRoller-Oo: posts the ante 250
+Renailmatto: posts small blind 1000
+MTTSharkSnG: posts big blind 2000
+*** HOLE CARDS ***
+JovemPromessa: raises 4000 to 6000
+jammy1875: calls 6000
+oO-HaiRoller-Oo: folds 
+leitalopez: folds 
+Philipoune: raises 122432 to 128432 and is all-in
+Renailmatto: folds 
+MTTSharkSnG: folds 
+JovemPromessa: calls 1850 and is all-in
+jammy1875: folds 
+Uncalled bet (120582) returned to Philipoune
+*** FLOP *** [2d 8d 4c]
+*** TURN *** [2d 8d 4c] [5d]
+*** RIVER *** [2d 8d 4c 5d] [7h]
+*** SHOW DOWN ***
+JovemPromessa: shows [Jc Ac] (high card Ace)
+Philipoune: shows [9s 9h] (a pair of Nines)
+Philipoune collected 26450 from pot
+JovemPromessa finished the tournament
+*** SUMMARY ***
+Total pot 26450 | Rake 0 
+Board [2d 8d 4c 5d 7h]
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune (button) showed [9s 9h] and won (26450) with a pair of Nines
+Seat 4: Renailmatto (small blind) folded before Flop
+Seat 5: MTTSharkSnG (big blind) folded before Flop
+Seat 6: JovemPromessa showed [Jc Ac] and lost with high card Ace
+Seat 7: jammy1875 folded before Flop
+Seat 8: oO-HaiRoller-Oo folded before Flop (didn't bet)
+
+PokerStars Hand #251205999281: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:31:15 UTC [2024/06/26 15:31:15 ET]
+Table '3767885527 58' 8-max Seat #4 is the button
+Seat 1: leitalopez (46449 in chips) 
+Seat 2: Philipoune (147032 in chips) 
+Seat 4: Renailmatto (38170 in chips) 
+Seat 5: MTTSharkSnG (70750 in chips) 
+Seat 7: jammy1875 (99860 in chips) 
+Seat 8: oO-HaiRoller-Oo (40450 in chips) 
+leitalopez: posts the ante 250
+Philipoune: posts the ante 250
+Renailmatto: posts the ante 250
+MTTSharkSnG: posts the ante 250
+jammy1875: posts the ante 250
+oO-HaiRoller-Oo: posts the ante 250
+MTTSharkSnG: posts small blind 1000
+jammy1875: posts big blind 2000
+*** HOLE CARDS ***
+jeyun is disconnected 
+oO-HaiRoller-Oo: raises 2200 to 4200
+leitalopez: folds 
+Philipoune: folds 
+Renailmatto: folds 
+MTTSharkSnG: folds 
+jammy1875: folds 
+Uncalled bet (2200) returned to oO-HaiRoller-Oo
+oO-HaiRoller-Oo collected 6500 from pot
+oO-HaiRoller-Oo: doesn't show hand 
+tarantullv is disconnected 
+*** SUMMARY ***
+Total pot 6500 | Rake 0 
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 4: Renailmatto (button) folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG (small blind) folded before Flop
+Seat 7: jammy1875 (big blind) folded before Flop
+Seat 8: oO-HaiRoller-Oo collected (6500)
+
+PokerStars Hand #251206003860: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:31:31 UTC [2024/06/26 15:31:31 ET]
+Table '3767885527 58' 8-max Seat #5 is the button
+Seat 1: leitalopez (46199 in chips) 
+Seat 2: Philipoune (146782 in chips) 
+Seat 3: jeyun (38917 in chips) 
+Seat 4: Renailmatto (37920 in chips) 
+Seat 5: MTTSharkSnG (69500 in chips) 
+Seat 6: tarantullv (25000 in chips) out of hand (moved from another table into small blind)
+Seat 7: jammy1875 (97610 in chips) 
+Seat 8: oO-HaiRoller-Oo (44700 in chips) 
+tarantullv will be allowed to play after the button
+leitalopez: posts the ante 250
+Philipoune: posts the ante 250
+jeyun: posts the ante 250
+Renailmatto: posts the ante 250
+MTTSharkSnG: posts the ante 250
+jammy1875: posts the ante 250
+oO-HaiRoller-Oo: posts the ante 250
+jammy1875: posts small blind 1000
+oO-HaiRoller-Oo: posts big blind 2000
+*** HOLE CARDS ***
+leitalopez: folds 
+Philipoune: folds 
+jeyun: raises 2000 to 4000
+Renailmatto: folds 
+MTTSharkSnG: folds 
+jammy1875: folds 
+oO-HaiRoller-Oo: calls 2000
+*** FLOP *** [Td 6s 3s]
+oO-HaiRoller-Oo: checks 
+jeyun: bets 3548
+oO-HaiRoller-Oo: folds 
+Uncalled bet (3548) returned to jeyun
+jeyun collected 10750 from pot
+*** SUMMARY ***
+Total pot 10750 | Rake 0 
+Board [Td 6s 3s]
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: jeyun collected (10750)
+Seat 4: Renailmatto folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG (button) folded before Flop (didn't bet)
+Seat 7: jammy1875 (small blind) folded before Flop
+Seat 8: oO-HaiRoller-Oo (big blind) folded on the Flop
+
+PokerStars Hand #251206017275: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:32:20 UTC [2024/06/26 15:32:20 ET]
+Table '3767885527 58' 8-max Seat #7 is the button
+Seat 1: leitalopez (45949 in chips) 
+Seat 2: Philipoune (146532 in chips) 
+Seat 3: jeyun (45417 in chips) 
+Seat 4: Renailmatto (37670 in chips) 
+Seat 5: MTTSharkSnG (69250 in chips) 
+Seat 6: tarantullv (25000 in chips) 
+Seat 7: jammy1875 (96360 in chips) 
+Seat 8: oO-HaiRoller-Oo (40450 in chips) 
+leitalopez: posts the ante 250
+Philipoune: posts the ante 250
+jeyun: posts the ante 250
+Renailmatto: posts the ante 250
+MTTSharkSnG: posts the ante 250
+tarantullv: posts the ante 250
+jammy1875: posts the ante 250
+oO-HaiRoller-Oo: posts the ante 250
+oO-HaiRoller-Oo: posts small blind 1000
+leitalopez: posts big blind 2000
+*** HOLE CARDS ***
+Philipoune: folds 
+jeyun: folds 
+Renailmatto: folds 
+MTTSharkSnG: raises 2000 to 4000
+tarantullv: raises 20750 to 24750 and is all-in
+jammy1875: folds 
+oO-HaiRoller-Oo: folds 
+leitalopez: folds 
+MTTSharkSnG: folds 
+Uncalled bet (20750) returned to tarantullv
+tarantullv collected 13000 from pot
+tarantullv: doesn't show hand 
+*** SUMMARY ***
+Total pot 13000 | Rake 0 
+Seat 1: leitalopez (big blind) folded before Flop
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: jeyun folded before Flop (didn't bet)
+Seat 4: Renailmatto folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG folded before Flop
+Seat 6: tarantullv collected (13000)
+Seat 7: jammy1875 (button) folded before Flop (didn't bet)
+Seat 8: oO-HaiRoller-Oo (small blind) folded before Flop
+
+PokerStars Hand #251206024916: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:32:48 UTC [2024/06/26 15:32:48 ET]
+Table '3767885527 58' 8-max Seat #8 is the button
+Seat 1: leitalopez (43699 in chips) 
+Seat 2: Philipoune (146282 in chips) 
+Seat 3: jeyun (45167 in chips) 
+Seat 4: Renailmatto (37420 in chips) 
+Seat 5: MTTSharkSnG (65000 in chips) 
+Seat 6: tarantullv (33750 in chips) 
+Seat 7: jammy1875 (96110 in chips) 
+Seat 8: oO-HaiRoller-Oo (39200 in chips) 
+leitalopez: posts the ante 250
+Philipoune: posts the ante 250
+jeyun: posts the ante 250
+Renailmatto: posts the ante 250
+MTTSharkSnG: posts the ante 250
+tarantullv: posts the ante 250
+jammy1875: posts the ante 250
+oO-HaiRoller-Oo: posts the ante 250
+leitalopez: posts small blind 1000
+Philipoune: posts big blind 2000
+*** HOLE CARDS ***
+jeyun: folds 
+Renailmatto: folds 
+MTTSharkSnG: folds 
+tarantullv: folds 
+jammy1875: folds 
+oO-HaiRoller-Oo: raises 36950 to 38950 and is all-in
+leitalopez: folds 
+Philipoune: folds 
+Uncalled bet (36950) returned to oO-HaiRoller-Oo
+oO-HaiRoller-Oo collected 7000 from pot
+oO-HaiRoller-Oo: doesn't show hand 
+*** SUMMARY ***
+Total pot 7000 | Rake 0 
+Seat 1: leitalopez (small blind) folded before Flop
+Seat 2: Philipoune (big blind) folded before Flop
+Seat 3: jeyun folded before Flop (didn't bet)
+Seat 4: Renailmatto folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: tarantullv folded before Flop (didn't bet)
+Seat 7: jammy1875 folded before Flop (didn't bet)
+Seat 8: oO-HaiRoller-Oo (button) collected (7000)
+
+PokerStars Hand #251206029154: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:33:04 UTC [2024/06/26 15:33:04 ET]
+Table '3767885527 58' 8-max Seat #1 is the button
+Seat 1: leitalopez (42449 in chips) 
+Seat 2: Philipoune (144032 in chips) 
+Seat 3: jeyun (44917 in chips) 
+Seat 4: Renailmatto (37170 in chips) 
+Seat 5: MTTSharkSnG (64750 in chips) 
+Seat 6: tarantullv (33500 in chips) 
+Seat 7: jammy1875 (95860 in chips) 
+Seat 8: oO-HaiRoller-Oo (43950 in chips) 
+leitalopez: posts the ante 250
+Philipoune: posts the ante 250
+jeyun: posts the ante 250
+Renailmatto: posts the ante 250
+MTTSharkSnG: posts the ante 250
+tarantullv: posts the ante 250
+jammy1875: posts the ante 250
+oO-HaiRoller-Oo: posts the ante 250
+Philipoune: posts small blind 1000
+jeyun: posts big blind 2000
+*** HOLE CARDS ***
+Renailmatto: folds 
+MTTSharkSnG: raises 2000 to 4000
+tarantullv: folds 
+jammy1875: calls 4000
+oO-HaiRoller-Oo: folds 
+leitalopez: folds 
+Philipoune: folds 
+jeyun: calls 2000
+*** FLOP *** [Ac As 6c]
+jeyun: checks 
+MTTSharkSnG: bets 4318
+jammy1875: calls 4318
+jeyun: folds 
+*** TURN *** [Ac As 6c] [Qs]
+MTTSharkSnG: bets 8758
+jammy1875: calls 8758
+*** RIVER *** [Ac As 6c Qs] [9c]
+MTTSharkSnG: checks 
+jammy1875: bets 22576
+MTTSharkSnG: folds 
+Uncalled bet (22576) returned to jammy1875
+jammy1875 collected 41152 from pot
+*** SUMMARY ***
+Total pot 41152 | Rake 0 
+Board [Ac As 6c Qs 9c]
+Seat 1: leitalopez (button) folded before Flop (didn't bet)
+Seat 2: Philipoune (small blind) folded before Flop
+Seat 3: jeyun (big blind) folded on the Flop
+Seat 4: Renailmatto folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG folded on the River
+Seat 6: tarantullv folded before Flop (didn't bet)
+Seat 7: jammy1875 collected (41152)
+Seat 8: oO-HaiRoller-Oo folded before Flop (didn't bet)
+
+PokerStars Hand #251206061077: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:35:00 UTC [2024/06/26 15:35:00 ET]
+Table '3767885527 58' 8-max Seat #2 is the button
+Seat 1: leitalopez (42199 in chips) 
+Seat 2: Philipoune (142782 in chips) 
+Seat 3: jeyun (40667 in chips) 
+Seat 4: Renailmatto (36920 in chips) 
+Seat 5: MTTSharkSnG (47424 in chips) 
+Seat 6: tarantullv (33250 in chips) 
+Seat 7: jammy1875 (119686 in chips) 
+Seat 8: oO-HaiRoller-Oo (43700 in chips) 
+leitalopez: posts the ante 250
+Philipoune: posts the ante 250
+jeyun: posts the ante 250
+Renailmatto: posts the ante 250
+MTTSharkSnG: posts the ante 250
+tarantullv: posts the ante 250
+jammy1875: posts the ante 250
+oO-HaiRoller-Oo: posts the ante 250
+jeyun: posts small blind 1000
+Renailmatto: posts big blind 2000
+*** HOLE CARDS ***
+MTTSharkSnG: folds 
+tarantullv: folds 
+jammy1875: raises 2000 to 4000
+oO-HaiRoller-Oo: folds 
+leitalopez: folds 
+Philipoune: folds 
+jeyun: raises 36417 to 40417 and is all-in
+Renailmatto: folds 
+jammy1875: folds 
+Uncalled bet (36417) returned to jeyun
+jeyun collected 12000 from pot
+*** SUMMARY ***
+Total pot 12000 | Rake 0 
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune (button) folded before Flop (didn't bet)
+Seat 3: jeyun (small blind) collected (12000)
+Seat 4: Renailmatto (big blind) folded before Flop
+Seat 5: MTTSharkSnG folded before Flop (didn't bet)
+Seat 6: tarantullv folded before Flop (didn't bet)
+Seat 7: jammy1875 folded before Flop
+Seat 8: oO-HaiRoller-Oo folded before Flop (didn't bet)
+
+PokerStars Hand #251206071448: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:35:38 UTC [2024/06/26 15:35:38 ET]
+Table '3767885527 58' 8-max Seat #3 is the button
+Seat 1: leitalopez (41949 in chips) 
+Seat 2: Philipoune (142532 in chips) 
+Seat 3: jeyun (48417 in chips) 
+Seat 4: Renailmatto (34670 in chips) 
+Seat 5: MTTSharkSnG (47174 in chips) 
+Seat 6: tarantullv (33000 in chips) 
+Seat 7: jammy1875 (115436 in chips) 
+Seat 8: oO-HaiRoller-Oo (43450 in chips) 
+leitalopez: posts the ante 250
+Philipoune: posts the ante 250
+jeyun: posts the ante 250
+Renailmatto: posts the ante 250
+MTTSharkSnG: posts the ante 250
+tarantullv: posts the ante 250
+jammy1875: posts the ante 250
+oO-HaiRoller-Oo: posts the ante 250
+Renailmatto: posts small blind 1000
+MTTSharkSnG: posts big blind 2000
+*** HOLE CARDS ***
+tarantullv: folds 
+jammy1875: folds 
+oO-HaiRoller-Oo: raises 2200 to 4200
+leitalopez: folds 
+Philipoune: folds 
+jeyun: folds 
+Renailmatto: calls 3200
+MTTSharkSnG: calls 2200
+*** FLOP *** [6s Ts Ah]
+Renailmatto: checks 
+MTTSharkSnG: checks 
+oO-HaiRoller-Oo: bets 6000
+Renailmatto: folds 
+MTTSharkSnG: folds 
+Uncalled bet (6000) returned to oO-HaiRoller-Oo
+oO-HaiRoller-Oo collected 14600 from pot
+oO-HaiRoller-Oo: doesn't show hand 
+*** SUMMARY ***
+Total pot 14600 | Rake 0 
+Board [6s Ts Ah]
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: jeyun (button) folded before Flop (didn't bet)
+Seat 4: Renailmatto (small blind) folded on the Flop
+Seat 5: MTTSharkSnG (big blind) folded on the Flop
+Seat 6: tarantullv folded before Flop (didn't bet)
+Seat 7: jammy1875 folded before Flop (didn't bet)
+Seat 8: oO-HaiRoller-Oo collected (14600)
+
+PokerStars Hand #251206081406: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:36:14 UTC [2024/06/26 15:36:14 ET]
+Table '3767885527 58' 8-max Seat #4 is the button
+Seat 1: leitalopez (41699 in chips) 
+Seat 2: Philipoune (142282 in chips) 
+Seat 3: jeyun (48167 in chips) 
+Seat 4: Renailmatto (30220 in chips) 
+Seat 5: MTTSharkSnG (42724 in chips) 
+Seat 6: tarantullv (32750 in chips) 
+Seat 7: jammy1875 (115186 in chips) 
+Seat 8: oO-HaiRoller-Oo (53600 in chips) 
+leitalopez: posts the ante 250
+Philipoune: posts the ante 250
+jeyun: posts the ante 250
+Renailmatto: posts the ante 250
+MTTSharkSnG: posts the ante 250
+tarantullv: posts the ante 250
+jammy1875: posts the ante 250
+oO-HaiRoller-Oo: posts the ante 250
+MTTSharkSnG: posts small blind 1000
+tarantullv: posts big blind 2000
+*** HOLE CARDS ***
+jammy1875: folds 
+oO-HaiRoller-Oo: folds 
+leitalopez: folds 
+Philipoune: folds 
+jeyun: folds 
+Renailmatto: folds 
+MTTSharkSnG: folds 
+Uncalled bet (1000) returned to tarantullv
+tarantullv collected 4000 from pot
+tarantullv: doesn't show hand 
+*** SUMMARY ***
+Total pot 4000 | Rake 0 
+Seat 1: leitalopez folded before Flop (didn't bet)
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: jeyun folded before Flop (didn't bet)
+Seat 4: Renailmatto (button) folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG (small blind) folded before Flop
+Seat 6: tarantullv (big blind) collected (4000)
+Seat 7: jammy1875 folded before Flop (didn't bet)
+Seat 8: oO-HaiRoller-Oo folded before Flop (didn't bet)
+
+PokerStars Hand #251206083960: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:36:24 UTC [2024/06/26 15:36:24 ET]
+Table '3767885527 58' 8-max Seat #5 is the button
+Seat 1: leitalopez (41449 in chips) 
+Seat 2: Philipoune (142032 in chips) 
+Seat 3: jeyun (47917 in chips) 
+Seat 4: Renailmatto (29970 in chips) 
+Seat 5: MTTSharkSnG (41474 in chips) 
+Seat 6: tarantullv (35500 in chips) 
+Seat 7: jammy1875 (114936 in chips) 
+Seat 8: oO-HaiRoller-Oo (53350 in chips) 
+leitalopez: posts the ante 250
+Philipoune: posts the ante 250
+jeyun: posts the ante 250
+Renailmatto: posts the ante 250
+MTTSharkSnG: posts the ante 250
+tarantullv: posts the ante 250
+jammy1875: posts the ante 250
+oO-HaiRoller-Oo: posts the ante 250
+tarantullv: posts small blind 1000
+jammy1875: posts big blind 2000
+*** HOLE CARDS ***
+oO-HaiRoller-Oo: folds 
+leitalopez: raises 2000 to 4000
+Philipoune: folds 
+jeyun: folds 
+Renailmatto: folds 
+MTTSharkSnG: folds 
+tarantullv: folds 
+jammy1875: raises 110686 to 114686 and is all-in
+leitalopez: calls 37199 and is all-in
+Uncalled bet (73487) returned to jammy1875
+*** FLOP *** [Ks 6c 4s]
+*** TURN *** [Ks 6c 4s] [3h]
+*** RIVER *** [Ks 6c 4s 3h] [2h]
+*** SHOW DOWN ***
+jammy1875: shows [2d 2c] (three of a kind, Deuces)
+leitalopez: shows [Tc Td] (a pair of Tens)
+jammy1875 collected 85398 from pot
+leitalopez finished the tournament in 645th place
+*** SUMMARY ***
+Total pot 85398 | Rake 0 
+Board [Ks 6c 4s 3h 2h]
+Seat 1: leitalopez showed [Tc Td] and lost with a pair of Tens
+Seat 2: Philipoune folded before Flop (didn't bet)
+Seat 3: jeyun folded before Flop (didn't bet)
+Seat 4: Renailmatto folded before Flop (didn't bet)
+Seat 5: MTTSharkSnG (button) folded before Flop (didn't bet)
+Seat 6: tarantullv (small blind) folded before Flop
+Seat 7: jammy1875 (big blind) showed [2d 2c] and won (85398) with three of a kind, Deuces
+Seat 8: oO-HaiRoller-Oo folded before Flop (didn't bet)

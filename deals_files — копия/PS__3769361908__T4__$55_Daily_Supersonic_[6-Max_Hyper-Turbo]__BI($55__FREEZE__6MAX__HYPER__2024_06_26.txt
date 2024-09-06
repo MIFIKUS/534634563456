@@ -1,0 +1,3822 @@
+PokerStars Hand #251209533852: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:31:32 UTC [2024/06/26 18:31:32 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: JamPanamJam (16410 in chips) 
+Seat 2: maderinha22 (9060 in chips) 
+Seat 3: @tetaschell (10000 in chips) 
+Seat 4: muriLLoo.mrL (11077 in chips) 
+Seat 5: Everbrun11 (7416 in chips) 
+Seat 6: Rochinha2011 (7520 in chips) 
+JamPanamJam: posts the ante 100
+maderinha22: posts the ante 100
+@tetaschell: posts the ante 100
+muriLLoo.mrL: posts the ante 100
+Everbrun11: posts the ante 100
+Rochinha2011: posts the ante 100
+Rochinha2011: posts small blind 200
+JamPanamJam: posts big blind 400
+*** HOLE CARDS ***
+maderinha22: folds 
+@tetaschell: folds 
+muriLLoo.mrL: raises 400 to 800
+Everbrun11: raises 6516 to 7316 and is all-in
+Rochinha2011: folds 
+JamPanamJam: folds 
+muriLLoo.mrL: folds 
+Uncalled bet (6516) returned to Everbrun11
+Everbrun11 collected 2800 from pot
+Everbrun11: doesn't show hand 
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Seat 1: JamPanamJam (big blind) folded before Flop
+Seat 2: maderinha22 folded before Flop (didn't bet)
+Seat 3: @tetaschell folded before Flop (didn't bet)
+Seat 4: muriLLoo.mrL folded before Flop
+Seat 5: Everbrun11 (button) collected (2800)
+Seat 6: Rochinha2011 (small blind) folded before Flop
+
+PokerStars Hand #251209541565: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:32:01 UTC [2024/06/26 18:32:01 ET]
+Table '3769361908 4' 6-max Seat #6 is the button
+Seat 1: JamPanamJam (15910 in chips) 
+Seat 2: maderinha22 (8960 in chips) 
+Seat 3: @tetaschell (9900 in chips) 
+Seat 4: muriLLoo.mrL (10177 in chips) 
+Seat 5: Everbrun11 (9316 in chips) 
+Seat 6: Rochinha2011 (7220 in chips) 
+JamPanamJam: posts the ante 100
+maderinha22: posts the ante 100
+@tetaschell: posts the ante 100
+muriLLoo.mrL: posts the ante 100
+Everbrun11: posts the ante 100
+Rochinha2011: posts the ante 100
+JamPanamJam: posts small blind 200
+maderinha22: posts big blind 400
+*** HOLE CARDS ***
+@tetaschell: folds 
+muriLLoo.mrL: raises 400 to 800
+Everbrun11: folds 
+Rochinha2011: folds 
+JamPanamJam: folds 
+maderinha22: calls 400
+*** FLOP *** [As 4d 6c]
+maderinha22: checks 
+muriLLoo.mrL: bets 792
+maderinha22: folds 
+Uncalled bet (792) returned to muriLLoo.mrL
+muriLLoo.mrL collected 2400 from pot
+muriLLoo.mrL: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Board [As 4d 6c]
+Seat 1: JamPanamJam (small blind) folded before Flop
+Seat 2: maderinha22 (big blind) folded on the Flop
+Seat 3: @tetaschell folded before Flop (didn't bet)
+Seat 4: muriLLoo.mrL collected (2400)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: Rochinha2011 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209559639: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:33:07 UTC [2024/06/26 18:33:07 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: JamPanamJam (15610 in chips) 
+Seat 2: maderinha22 (8060 in chips) 
+Seat 3: @tetaschell (9800 in chips) 
+Seat 4: muriLLoo.mrL (11677 in chips) 
+Seat 5: Everbrun11 (9216 in chips) 
+Seat 6: Rochinha2011 (7120 in chips) 
+JamPanamJam: posts the ante 125
+maderinha22: posts the ante 125
+@tetaschell: posts the ante 125
+muriLLoo.mrL: posts the ante 125
+Everbrun11: posts the ante 125
+Rochinha2011: posts the ante 125
+maderinha22: posts small blind 250
+@tetaschell: posts big blind 500
+*** HOLE CARDS ***
+muriLLoo.mrL: raises 500 to 1000
+Everbrun11: raises 8091 to 9091 and is all-in
+Rochinha2011: folds 
+JamPanamJam: folds 
+maderinha22: folds 
+@tetaschell: folds 
+muriLLoo.mrL: folds 
+Uncalled bet (8091) returned to Everbrun11
+Everbrun11 collected 3500 from pot
+Everbrun11: doesn't show hand 
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Seat 1: JamPanamJam (button) folded before Flop (didn't bet)
+Seat 2: maderinha22 (small blind) folded before Flop
+Seat 3: @tetaschell (big blind) folded before Flop
+Seat 4: muriLLoo.mrL folded before Flop
+Seat 5: Everbrun11 collected (3500)
+Seat 6: Rochinha2011 folded before Flop (didn't bet)
+
+PokerStars Hand #251209568893: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:33:42 UTC [2024/06/26 18:33:42 ET]
+Table '3769361908 4' 6-max Seat #2 is the button
+Seat 1: JamPanamJam (15485 in chips) 
+Seat 2: maderinha22 (7685 in chips) 
+Seat 3: @tetaschell (9175 in chips) 
+Seat 4: muriLLoo.mrL (10552 in chips) 
+Seat 5: Everbrun11 (11591 in chips) 
+Seat 6: Rochinha2011 (6995 in chips) 
+JamPanamJam: posts the ante 125
+maderinha22: posts the ante 125
+@tetaschell: posts the ante 125
+muriLLoo.mrL: posts the ante 125
+Everbrun11: posts the ante 125
+Rochinha2011: posts the ante 125
+@tetaschell: posts small blind 250
+muriLLoo.mrL: posts big blind 500
+*** HOLE CARDS ***
+Everbrun11: folds 
+Rochinha2011: folds 
+JamPanamJam: raises 500 to 1000
+maderinha22: folds 
+@tetaschell: folds 
+muriLLoo.mrL: calls 500
+*** FLOP *** [Qd Js Th]
+muriLLoo.mrL: checks 
+JamPanamJam: checks 
+*** TURN *** [Qd Js Th] [Kh]
+muriLLoo.mrL: checks 
+JamPanamJam: bets 2310
+muriLLoo.mrL: folds 
+Uncalled bet (2310) returned to JamPanamJam
+JamPanamJam collected 3000 from pot
+JamPanamJam: doesn't show hand 
+*** SUMMARY ***
+Total pot 3000 | Rake 0 
+Board [Qd Js Th Kh]
+Seat 1: JamPanamJam collected (3000)
+Seat 2: maderinha22 (button) folded before Flop (didn't bet)
+Seat 3: @tetaschell (small blind) folded before Flop
+Seat 4: muriLLoo.mrL (big blind) folded on the Turn
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: Rochinha2011 folded before Flop (didn't bet)
+
+PokerStars Hand #251209579019: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:34:19 UTC [2024/06/26 18:34:19 ET]
+Table '3769361908 4' 6-max Seat #3 is the button
+Seat 1: JamPanamJam (17360 in chips) 
+Seat 2: maderinha22 (7560 in chips) 
+Seat 3: @tetaschell (8800 in chips) 
+Seat 4: muriLLoo.mrL (9427 in chips) 
+Seat 5: Everbrun11 (11466 in chips) 
+Seat 6: Rochinha2011 (6870 in chips) 
+JamPanamJam: posts the ante 125
+maderinha22: posts the ante 125
+@tetaschell: posts the ante 125
+muriLLoo.mrL: posts the ante 125
+Everbrun11: posts the ante 125
+Rochinha2011: posts the ante 125
+muriLLoo.mrL: posts small blind 250
+Everbrun11: posts big blind 500
+*** HOLE CARDS ***
+Rochinha2011: folds 
+JamPanamJam: folds 
+maderinha22: raises 6935 to 7435 and is all-in
+@tetaschell: folds 
+muriLLoo.mrL: folds 
+Everbrun11: calls 6935
+*** FLOP *** [2h Td Js]
+*** TURN *** [2h Td Js] [6s]
+*** RIVER *** [2h Td Js 6s] [9h]
+*** SHOW DOWN ***
+Everbrun11: shows [As Jd] (a pair of Jacks)
+maderinha22: shows [3c 3s] (a pair of Threes)
+Everbrun11 collected 15870 from pot
+maderinha22 finished the tournament
+*** SUMMARY ***
+Total pot 15870 | Rake 0 
+Board [2h Td Js 6s 9h]
+Seat 1: JamPanamJam folded before Flop (didn't bet)
+Seat 2: maderinha22 showed [3c 3s] and lost with a pair of Threes
+Seat 3: @tetaschell (button) folded before Flop (didn't bet)
+Seat 4: muriLLoo.mrL (small blind) folded before Flop
+Seat 5: Everbrun11 (big blind) showed [As Jd] and won (15870) with a pair of Jacks
+Seat 6: Rochinha2011 folded before Flop (didn't bet)
+
+PokerStars Hand #251209587007: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:34:49 UTC [2024/06/26 18:34:49 ET]
+Table '3769361908 4' 6-max Seat #4 is the button
+Seat 1: JamPanamJam (17235 in chips) 
+Seat 3: @tetaschell (8675 in chips) 
+Seat 4: muriLLoo.mrL (9052 in chips) 
+Seat 5: Everbrun11 (19776 in chips) 
+Seat 6: Rochinha2011 (6745 in chips) 
+JamPanamJam: posts the ante 125
+@tetaschell: posts the ante 125
+muriLLoo.mrL: posts the ante 125
+Everbrun11: posts the ante 125
+Rochinha2011: posts the ante 125
+Everbrun11: posts small blind 250
+Rochinha2011: posts big blind 500
+*** HOLE CARDS ***
+JamPanamJam: raises 500 to 1000
+@tetaschell: folds 
+muriLLoo.mrL: folds 
+Everbrun11: folds 
+Rochinha2011: folds 
+Uncalled bet (500) returned to JamPanamJam
+JamPanamJam collected 1875 from pot
+JamPanamJam: doesn't show hand 
+*** SUMMARY ***
+Total pot 1875 | Rake 0 
+Seat 1: JamPanamJam collected (1875)
+Seat 3: @tetaschell folded before Flop (didn't bet)
+Seat 4: muriLLoo.mrL (button) folded before Flop (didn't bet)
+Seat 5: Everbrun11 (small blind) folded before Flop
+Seat 6: Rochinha2011 (big blind) folded before Flop
+
+PokerStars Hand #251209594770: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:35:18 UTC [2024/06/26 18:35:18 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: JamPanamJam (18485 in chips) 
+Seat 3: @tetaschell (8550 in chips) 
+Seat 4: muriLLoo.mrL (8927 in chips) 
+Seat 5: Everbrun11 (19401 in chips) 
+Seat 6: Rochinha2011 (6120 in chips) 
+JamPanamJam: posts the ante 150
+@tetaschell: posts the ante 150
+muriLLoo.mrL: posts the ante 150
+Everbrun11: posts the ante 150
+Rochinha2011: posts the ante 150
+Rochinha2011: posts small blind 300
+JamPanamJam: posts big blind 600
+*** HOLE CARDS ***
+@tetaschell: folds 
+muriLLoo.mrL: folds 
+Everbrun11: folds 
+Rochinha2011: folds 
+Uncalled bet (300) returned to JamPanamJam
+JamPanamJam collected 1350 from pot
+JamPanamJam: doesn't show hand 
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Seat 1: JamPanamJam (big blind) collected (1350)
+Seat 3: @tetaschell folded before Flop (didn't bet)
+Seat 4: muriLLoo.mrL folded before Flop (didn't bet)
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+Seat 6: Rochinha2011 (small blind) folded before Flop
+
+PokerStars Hand #251209599762: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:35:36 UTC [2024/06/26 18:35:36 ET]
+Table '3769361908 4' 6-max Seat #6 is the button
+Seat 1: JamPanamJam (19385 in chips) 
+Seat 2: alexsarakini (10000 in chips) 
+Seat 3: @tetaschell (8400 in chips) 
+Seat 4: muriLLoo.mrL (8777 in chips) 
+Seat 5: Everbrun11 (19251 in chips) 
+Seat 6: Rochinha2011 (5670 in chips) 
+JamPanamJam: posts the ante 150
+alexsarakini: posts the ante 150
+@tetaschell: posts the ante 150
+muriLLoo.mrL: posts the ante 150
+Everbrun11: posts the ante 150
+Rochinha2011: posts the ante 150
+JamPanamJam: posts small blind 300
+alexsarakini: posts big blind 600
+*** HOLE CARDS ***
+@tetaschell: folds 
+muriLLoo.mrL: folds 
+Everbrun11: raises 600 to 1200
+Rochinha2011: folds 
+JamPanamJam: raises 18035 to 19235 and is all-in
+alexsarakini: folds 
+Everbrun11: calls 17901 and is all-in
+Uncalled bet (134) returned to JamPanamJam
+*** FLOP *** [7c 5s 7h]
+*** TURN *** [7c 5s 7h] [Jd]
+*** RIVER *** [7c 5s 7h Jd] [6h]
+*** SHOW DOWN ***
+JamPanamJam: shows [8h 8s] (two pair, Eights and Sevens)
+Everbrun11: shows [Ts Th] (two pair, Tens and Sevens)
+Everbrun11 collected 39702 from pot
+*** SUMMARY ***
+Total pot 39702 | Rake 0 
+Board [7c 5s 7h Jd 6h]
+Seat 1: JamPanamJam (small blind) showed [8h 8s] and lost with two pair, Eights and Sevens
+Seat 2: alexsarakini (big blind) folded before Flop
+Seat 3: @tetaschell folded before Flop (didn't bet)
+Seat 4: muriLLoo.mrL folded before Flop (didn't bet)
+Seat 5: Everbrun11 showed [Ts Th] and won (39702) with two pair, Tens and Sevens
+Seat 6: Rochinha2011 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209611279: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:36:19 UTC [2024/06/26 18:36:19 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: JamPanamJam (134 in chips) 
+Seat 2: alexsarakini (9250 in chips) 
+Seat 3: @tetaschell (8250 in chips) 
+Seat 4: muriLLoo.mrL (8627 in chips) 
+Seat 5: Everbrun11 (39702 in chips) 
+Seat 6: Rochinha2011 (5520 in chips) 
+JamPanamJam: posts the ante 134 and is all-in
+alexsarakini: posts the ante 150
+@tetaschell: posts the ante 150
+muriLLoo.mrL: posts the ante 150
+Everbrun11: posts the ante 150
+Rochinha2011: posts the ante 150
+alexsarakini: posts small blind 300
+@tetaschell: posts big blind 600
+*** HOLE CARDS ***
+muriLLoo.mrL: folds 
+Everbrun11: folds 
+Rochinha2011: raises 4770 to 5370 and is all-in
+alexsarakini: folds 
+@tetaschell: calls 4770
+*** FLOP *** [2d 7s 5d]
+*** TURN *** [2d 7s 5d] [Ks]
+*** RIVER *** [2d 7s 5d Ks] [6h]
+*** SHOW DOWN ***
+@tetaschell: shows [Qc As] (high card Ace)
+Rochinha2011: shows [8d Ah] (high card Ace - lower kicker)
+@tetaschell collected 11120 from side pot
+JamPanamJam: shows [6d 4h] (a pair of Sixes)
+JamPanamJam collected 804 from main pot
+Rochinha2011 finished the tournament
+*** SUMMARY ***
+Total pot 11924 Main pot 804. Side pot 11120. | Rake 0 
+Board [2d 7s 5d Ks 6h]
+Seat 1: JamPanamJam (button) showed [6d 4h] and won (804) with a pair of Sixes
+Seat 2: alexsarakini (small blind) folded before Flop
+Seat 3: @tetaschell (big blind) showed [Qc As] and won (11120) with high card Ace
+Seat 4: muriLLoo.mrL folded before Flop (didn't bet)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: Rochinha2011 showed [8d Ah] and lost with high card Ace
+
+PokerStars Hand #251209619225: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:36:49 UTC [2024/06/26 18:36:49 ET]
+Table '3769361908 4' 6-max Seat #2 is the button
+Seat 1: JamPanamJam (804 in chips) 
+Seat 2: alexsarakini (8800 in chips) 
+Seat 3: @tetaschell (13850 in chips) 
+Seat 4: muriLLoo.mrL (8477 in chips) 
+Seat 5: Everbrun11 (39552 in chips) 
+JamPanamJam: posts the ante 150
+alexsarakini: posts the ante 150
+@tetaschell: posts the ante 150
+muriLLoo.mrL: posts the ante 150
+Everbrun11: posts the ante 150
+@tetaschell: posts small blind 300
+muriLLoo.mrL: posts big blind 600
+*** HOLE CARDS ***
+Everbrun11: raises 600 to 1200
+JamPanamJam: folds 
+alexsarakini: calls 1200
+@tetaschell: folds 
+muriLLoo.mrL: raises 7127 to 8327 and is all-in
+Everbrun11: folds 
+alexsarakini: folds 
+Uncalled bet (7127) returned to muriLLoo.mrL
+muriLLoo.mrL collected 4650 from pot
+muriLLoo.mrL: doesn't show hand 
+*** SUMMARY ***
+Total pot 4650 | Rake 0 
+Seat 1: JamPanamJam folded before Flop (didn't bet)
+Seat 2: alexsarakini (button) folded before Flop
+Seat 3: @tetaschell (small blind) folded before Flop
+Seat 4: muriLLoo.mrL (big blind) collected (4650)
+Seat 5: Everbrun11 folded before Flop
+
+PokerStars Hand #251209624583: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:37:09 UTC [2024/06/26 18:37:09 ET]
+Table '3769361908 4' 6-max Seat #3 is the button
+Seat 1: JamPanamJam (654 in chips) 
+Seat 2: alexsarakini (7450 in chips) 
+Seat 3: @tetaschell (13400 in chips) 
+Seat 4: muriLLoo.mrL (11777 in chips) 
+Seat 5: Everbrun11 (38202 in chips) 
+JamPanamJam: posts the ante 150
+alexsarakini: posts the ante 150
+@tetaschell: posts the ante 150
+muriLLoo.mrL: posts the ante 150
+Everbrun11: posts the ante 150
+muriLLoo.mrL: posts small blind 300
+Everbrun11: posts big blind 600
+*** HOLE CARDS ***
+JamPanamJam: calls 504 and is all-in
+alexsarakini: folds 
+@tetaschell: folds 
+muriLLoo.mrL: calls 300
+Everbrun11: raises 1200 to 1800
+muriLLoo.mrL: folds 
+Uncalled bet (1200) returned to Everbrun11
+*** FLOP *** [Jc 3s Qc]
+*** TURN *** [Jc 3s Qc] [6c]
+*** RIVER *** [Jc 3s Qc 6c] [8s]
+*** SHOW DOWN ***
+Everbrun11: shows [Kc Kd] (a pair of Kings)
+Everbrun11 collected 192 from side pot
+JamPanamJam: shows [2s 8d] (a pair of Eights)
+Everbrun11 collected 2262 from main pot
+JamPanamJam finished the tournament
+somnamna555 is disconnected 
+*** SUMMARY ***
+Total pot 2454 Main pot 2262. Side pot 192. | Rake 0 
+Board [Jc 3s Qc 6c 8s]
+Seat 1: JamPanamJam showed [2s 8d] and lost with a pair of Eights
+Seat 2: alexsarakini folded before Flop (didn't bet)
+Seat 3: @tetaschell (button) folded before Flop (didn't bet)
+Seat 4: muriLLoo.mrL (small blind) folded before Flop
+Seat 5: Everbrun11 (big blind) showed [Kc Kd] and won (2454) with a pair of Kings
+
+PokerStars Hand #251209636110: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:37:52 UTC [2024/06/26 18:37:52 ET]
+Table '3769361908 4' 6-max Seat #4 is the button
+Seat 1: somnamna555 (13734 in chips) 
+Seat 2: alexsarakini (7300 in chips) 
+Seat 3: @tetaschell (13250 in chips) 
+Seat 4: muriLLoo.mrL (11027 in chips) 
+Seat 5: Everbrun11 (39906 in chips) 
+somnamna555: posts the ante 150
+alexsarakini: posts the ante 150
+@tetaschell: posts the ante 150
+muriLLoo.mrL: posts the ante 150
+Everbrun11: posts the ante 150
+Everbrun11: posts small blind 300
+somnamna555: posts big blind 600
+*** HOLE CARDS ***
+alexsarakini: raises 1200 to 1800
+@tetaschell: folds 
+muriLLoo.mrL: folds 
+Everbrun11: folds 
+somnamna555: folds 
+Uncalled bet (1200) returned to alexsarakini
+alexsarakini collected 2250 from pot
+*** SUMMARY ***
+Total pot 2250 | Rake 0 
+Seat 1: somnamna555 (big blind) folded before Flop
+Seat 2: alexsarakini collected (2250)
+Seat 3: @tetaschell folded before Flop (didn't bet)
+Seat 4: muriLLoo.mrL (button) folded before Flop (didn't bet)
+Seat 5: Everbrun11 (small blind) folded before Flop
+
+PokerStars Hand #251209642433: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:38:16 UTC [2024/06/26 18:38:16 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: somnamna555 (12984 in chips) 
+Seat 2: alexsarakini (8800 in chips) 
+Seat 3: @tetaschell (13100 in chips) 
+Seat 4: muriLLoo.mrL (10877 in chips) 
+Seat 5: Everbrun11 (39456 in chips) 
+somnamna555: posts the ante 200
+alexsarakini: posts the ante 200
+@tetaschell: posts the ante 200
+muriLLoo.mrL: posts the ante 200
+Everbrun11: posts the ante 200
+somnamna555: posts small blind 400
+alexsarakini: posts big blind 800
+*** HOLE CARDS ***
+@tetaschell: folds 
+muriLLoo.mrL: folds 
+Everbrun11: folds 
+somnamna555: folds 
+Uncalled bet (400) returned to alexsarakini
+alexsarakini collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Seat 1: somnamna555 (small blind) folded before Flop
+Seat 2: alexsarakini (big blind) collected (1800)
+Seat 3: @tetaschell folded before Flop (didn't bet)
+Seat 4: muriLLoo.mrL folded before Flop (didn't bet)
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209645550: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:38:28 UTC [2024/06/26 18:38:28 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: somnamna555 (12384 in chips) 
+Seat 2: alexsarakini (10000 in chips) 
+Seat 3: @tetaschell (12900 in chips) 
+Seat 4: muriLLoo.mrL (10677 in chips) 
+Seat 5: Everbrun11 (39256 in chips) 
+somnamna555: posts the ante 200
+alexsarakini: posts the ante 200
+@tetaschell: posts the ante 200
+muriLLoo.mrL: posts the ante 200
+Everbrun11: posts the ante 200
+alexsarakini: posts small blind 400
+@tetaschell: posts big blind 800
+*** HOLE CARDS ***
+muriLLoo.mrL: folds 
+Everbrun11: folds 
+somnamna555: folds 
+alexsarakini: folds 
+Uncalled bet (400) returned to @tetaschell
+@tetaschell collected 1800 from pot
+@tetaschell: doesn't show hand 
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Seat 1: somnamna555 (button) folded before Flop (didn't bet)
+Seat 2: alexsarakini (small blind) folded before Flop
+Seat 3: @tetaschell (big blind) collected (1800)
+Seat 4: muriLLoo.mrL folded before Flop (didn't bet)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+
+PokerStars Hand #251209647964: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:38:37 UTC [2024/06/26 18:38:37 ET]
+Table '3769361908 4' 6-max Seat #2 is the button
+Seat 1: somnamna555 (12184 in chips) 
+Seat 2: alexsarakini (9400 in chips) 
+Seat 3: @tetaschell (14100 in chips) 
+Seat 4: muriLLoo.mrL (10477 in chips) 
+Seat 5: Everbrun11 (39056 in chips) 
+somnamna555: posts the ante 200
+alexsarakini: posts the ante 200
+@tetaschell: posts the ante 200
+muriLLoo.mrL: posts the ante 200
+Everbrun11: posts the ante 200
+@tetaschell: posts small blind 400
+muriLLoo.mrL: posts big blind 800
+*** HOLE CARDS ***
+Everbrun11: folds 
+somnamna555: folds 
+alexsarakini: raises 800 to 1600
+@tetaschell: folds 
+muriLLoo.mrL: calls 800
+*** FLOP *** [Td 6c 8s]
+muriLLoo.mrL: checks 
+alexsarakini: bets 1500
+muriLLoo.mrL: folds 
+Uncalled bet (1500) returned to alexsarakini
+alexsarakini collected 4600 from pot
+*** SUMMARY ***
+Total pot 4600 | Rake 0 
+Board [Td 6c 8s]
+Seat 1: somnamna555 folded before Flop (didn't bet)
+Seat 2: alexsarakini (button) collected (4600)
+Seat 3: @tetaschell (small blind) folded before Flop
+Seat 4: muriLLoo.mrL (big blind) folded on the Flop
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+
+PokerStars Hand #251209658154: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:39:15 UTC [2024/06/26 18:39:15 ET]
+Table '3769361908 4' 6-max Seat #3 is the button
+Seat 1: somnamna555 (11984 in chips) 
+Seat 2: alexsarakini (12200 in chips) 
+Seat 3: @tetaschell (13500 in chips) 
+Seat 4: muriLLoo.mrL (8677 in chips) 
+Seat 5: Everbrun11 (38856 in chips) 
+somnamna555: posts the ante 200
+alexsarakini: posts the ante 200
+@tetaschell: posts the ante 200
+muriLLoo.mrL: posts the ante 200
+Everbrun11: posts the ante 200
+muriLLoo.mrL: posts small blind 400
+Everbrun11: posts big blind 800
+*** HOLE CARDS ***
+somnamna555: folds 
+alexsarakini: folds 
+@tetaschell: folds 
+muriLLoo.mrL: calls 400
+Everbrun11: raises 37856 to 38656 and is all-in
+muriLLoo.mrL: calls 7677 and is all-in
+Uncalled bet (30179) returned to Everbrun11
+*** FLOP *** [4c 5h Qd]
+*** TURN *** [4c 5h Qd] [9c]
+*** RIVER *** [4c 5h Qd 9c] [Jc]
+*** SHOW DOWN ***
+muriLLoo.mrL: shows [Qc Qh] (three of a kind, Queens)
+Everbrun11: shows [Ac 3s] (high card Ace)
+muriLLoo.mrL collected 17954 from pot
+*** SUMMARY ***
+Total pot 17954 | Rake 0 
+Board [4c 5h Qd 9c Jc]
+Seat 1: somnamna555 folded before Flop (didn't bet)
+Seat 2: alexsarakini folded before Flop (didn't bet)
+Seat 3: @tetaschell (button) folded before Flop (didn't bet)
+Seat 4: muriLLoo.mrL (small blind) showed [Qc Qh] and won (17954) with three of a kind, Queens
+Seat 5: Everbrun11 (big blind) showed [Ac 3s] and lost with high card Ace
+
+PokerStars Hand #251209665019: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:39:40 UTC [2024/06/26 18:39:40 ET]
+Table '3769361908 4' 6-max Seat #4 is the button
+Seat 1: somnamna555 (11784 in chips) 
+Seat 2: alexsarakini (12000 in chips) 
+Seat 3: @tetaschell (13300 in chips) 
+Seat 4: muriLLoo.mrL (17954 in chips) 
+Seat 5: Everbrun11 (30179 in chips) 
+Seat 6: anth0nypappa (2142 in chips) is sitting out
+somnamna555: posts the ante 200
+alexsarakini: posts the ante 200
+@tetaschell: posts the ante 200
+muriLLoo.mrL: posts the ante 200
+Everbrun11: posts the ante 200
+anth0nypappa: posts the ante 200
+Everbrun11: posts small blind 400
+anth0nypappa: posts big blind 800
+*** HOLE CARDS ***
+somnamna555: raises 10784 to 11584 and is all-in
+alexsarakini: folds 
+@tetaschell: folds 
+muriLLoo.mrL: folds 
+Everbrun11: folds 
+anth0nypappa: folds 
+Uncalled bet (10784) returned to somnamna555
+somnamna555 collected 3200 from pot
+somnamna555: doesn't show hand 
+*** SUMMARY ***
+Total pot 3200 | Rake 0 
+Seat 1: somnamna555 collected (3200)
+Seat 2: alexsarakini folded before Flop (didn't bet)
+Seat 3: @tetaschell folded before Flop (didn't bet)
+Seat 4: muriLLoo.mrL (button) folded before Flop (didn't bet)
+Seat 5: Everbrun11 (small blind) folded before Flop
+Seat 6: anth0nypappa (big blind) folded before Flop
+
+PokerStars Hand #251209670103: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:39:59 UTC [2024/06/26 18:39:59 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: somnamna555 (13984 in chips) 
+Seat 2: alexsarakini (11800 in chips) 
+Seat 3: @tetaschell (13100 in chips) 
+Seat 4: muriLLoo.mrL (17754 in chips) 
+Seat 5: Everbrun11 (29579 in chips) 
+Seat 6: anth0nypappa (1142 in chips) is sitting out
+somnamna555: posts the ante 200
+alexsarakini: posts the ante 200
+@tetaschell: posts the ante 200
+muriLLoo.mrL: posts the ante 200
+Everbrun11: posts the ante 200
+anth0nypappa: posts the ante 200
+anth0nypappa: posts small blind 400
+somnamna555: posts big blind 800
+*** HOLE CARDS ***
+alexsarakini: folds 
+@tetaschell: raises 800 to 1600
+muriLLoo.mrL: folds 
+Everbrun11: folds 
+anth0nypappa: folds 
+somnamna555: raises 12184 to 13784 and is all-in
+@tetaschell: calls 11300 and is all-in
+Uncalled bet (884) returned to somnamna555
+*** FLOP *** [4h 6c 3h]
+*** TURN *** [4h 6c 3h] [7c]
+*** RIVER *** [4h 6c 3h 7c] [5d]
+*** SHOW DOWN ***
+somnamna555: shows [As 9s] (a straight, Three to Seven)
+@tetaschell: shows [Qc Ah] (a straight, Three to Seven)
+somnamna555 collected 13700 from pot
+@tetaschell collected 13700 from pot
+*** SUMMARY ***
+Total pot 27400 | Rake 0 
+Board [4h 6c 3h 7c 5d]
+Seat 1: somnamna555 (big blind) showed [As 9s] and won (13700) with a straight, Three to Seven
+Seat 2: alexsarakini folded before Flop (didn't bet)
+Seat 3: @tetaschell showed [Qc Ah] and won (13700) with a straight, Three to Seven
+Seat 4: muriLLoo.mrL folded before Flop (didn't bet)
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+Seat 6: anth0nypappa (small blind) folded before Flop
+
+PokerStars Hand #251209676974: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:40:25 UTC [2024/06/26 18:40:25 ET]
+Table '3769361908 4' 6-max Seat #6 is the button
+Seat 1: somnamna555 (14584 in chips) 
+Seat 2: alexsarakini (11600 in chips) 
+Seat 3: @tetaschell (13700 in chips) 
+Seat 4: muriLLoo.mrL (17554 in chips) 
+Seat 5: Everbrun11 (29379 in chips) 
+Seat 6: anth0nypappa (542 in chips) is sitting out
+somnamna555: posts the ante 200
+alexsarakini: posts the ante 200
+@tetaschell: posts the ante 200
+muriLLoo.mrL: posts the ante 200
+Everbrun11: posts the ante 200
+anth0nypappa: posts the ante 200
+somnamna555: posts small blind 400
+alexsarakini: posts big blind 800
+*** HOLE CARDS ***
+@tetaschell: folds 
+muriLLoo.mrL: folds 
+Everbrun11: folds 
+anth0nypappa: folds 
+somnamna555: raises 13584 to 14384 and is all-in
+alexsarakini: folds 
+Uncalled bet (13584) returned to somnamna555
+somnamna555 collected 2800 from pot
+somnamna555: doesn't show hand 
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Seat 1: somnamna555 (small blind) collected (2800)
+Seat 2: alexsarakini (big blind) folded before Flop
+Seat 3: @tetaschell folded before Flop (didn't bet)
+Seat 4: muriLLoo.mrL folded before Flop (didn't bet)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: anth0nypappa (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209681960: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:40:45 UTC [2024/06/26 18:40:45 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: somnamna555 (16384 in chips) 
+Seat 2: alexsarakini (10600 in chips) 
+Seat 3: @tetaschell (13500 in chips) 
+Seat 4: muriLLoo.mrL (17354 in chips) 
+Seat 5: Everbrun11 (29179 in chips) 
+Seat 6: anth0nypappa (342 in chips) is sitting out
+somnamna555: posts the ante 200
+alexsarakini: posts the ante 200
+@tetaschell: posts the ante 200
+muriLLoo.mrL: posts the ante 200
+Everbrun11: posts the ante 200
+anth0nypappa: posts the ante 200
+alexsarakini: posts small blind 400
+@tetaschell: posts big blind 800
+*** HOLE CARDS ***
+muriLLoo.mrL: folds 
+Everbrun11: raises 800 to 1600
+anth0nypappa: folds 
+somnamna555: folds 
+alexsarakini: folds 
+@tetaschell: calls 800
+*** FLOP *** [As 8c 6d]
+@tetaschell: checks 
+Everbrun11: bets 1200
+@tetaschell: folds 
+Uncalled bet (1200) returned to Everbrun11
+Everbrun11 collected 4800 from pot
+Everbrun11: doesn't show hand 
+*** SUMMARY ***
+Total pot 4800 | Rake 0 
+Board [As 8c 6d]
+Seat 1: somnamna555 (button) folded before Flop (didn't bet)
+Seat 2: alexsarakini (small blind) folded before Flop
+Seat 3: @tetaschell (big blind) folded on the Flop
+Seat 4: muriLLoo.mrL folded before Flop (didn't bet)
+Seat 5: Everbrun11 collected (4800)
+Seat 6: anth0nypappa folded before Flop (didn't bet)
+
+PokerStars Hand #251209694908: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:41:34 UTC [2024/06/26 18:41:34 ET]
+Table '3769361908 4' 6-max Seat #2 is the button
+Seat 1: somnamna555 (16184 in chips) 
+Seat 2: alexsarakini (10000 in chips) 
+Seat 3: @tetaschell (11700 in chips) 
+Seat 4: muriLLoo.mrL (17154 in chips) 
+Seat 5: Everbrun11 (32179 in chips) 
+Seat 6: anth0nypappa (142 in chips) is sitting out
+somnamna555: posts the ante 250
+alexsarakini: posts the ante 250
+@tetaschell: posts the ante 250
+muriLLoo.mrL: posts the ante 250
+Everbrun11: posts the ante 250
+anth0nypappa: posts the ante 142 and is all-in
+@tetaschell: posts small blind 500
+muriLLoo.mrL: posts big blind 1000
+*** HOLE CARDS ***
+Everbrun11: raises 1000 to 2000
+anth0nypappa: folds 
+somnamna555: folds 
+alexsarakini: folds 
+@tetaschell: folds 
+muriLLoo.mrL: calls 1000
+*** FLOP *** [Ad 8h 4h]
+muriLLoo.mrL: checks 
+Everbrun11: bets 1500
+muriLLoo.mrL: raises 13404 to 14904 and is all-in
+Everbrun11: folds 
+Uncalled bet (13404) returned to muriLLoo.mrL
+muriLLoo.mrL collected 8892 from pot
+anth0nypappa finished the tournament
+muriLLoo.mrL: doesn't show hand 
+*** SUMMARY ***
+Total pot 8892 | Rake 0 
+Board [Ad 8h 4h]
+Seat 1: somnamna555 folded before Flop (didn't bet)
+Seat 2: alexsarakini (button) folded before Flop (didn't bet)
+Seat 3: @tetaschell (small blind) folded before Flop
+Seat 4: muriLLoo.mrL (big blind) collected (8892)
+Seat 5: Everbrun11 folded on the Flop
+Seat 6: anth0nypappa folded before Flop (didn't bet)
+
+PokerStars Hand #251209706683: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:42:20 UTC [2024/06/26 18:42:20 ET]
+Table '3769361908 4' 6-max Seat #3 is the button
+Seat 1: somnamna555 (15934 in chips) 
+Seat 2: alexsarakini (9750 in chips) 
+Seat 3: @tetaschell (10950 in chips) 
+Seat 4: muriLLoo.mrL (22296 in chips) 
+Seat 5: Everbrun11 (28429 in chips) 
+somnamna555: posts the ante 250
+alexsarakini: posts the ante 250
+@tetaschell: posts the ante 250
+muriLLoo.mrL: posts the ante 250
+Everbrun11: posts the ante 250
+muriLLoo.mrL: posts small blind 500
+Everbrun11: posts big blind 1000
+*** HOLE CARDS ***
+somnamna555: folds 
+alexsarakini: folds 
+@tetaschell: raises 9700 to 10700 and is all-in
+muriLLoo.mrL: folds 
+Everbrun11: folds 
+Uncalled bet (9700) returned to @tetaschell
+@tetaschell collected 3750 from pot
+@tetaschell: doesn't show hand 
+*** SUMMARY ***
+Total pot 3750 | Rake 0 
+Seat 1: somnamna555 folded before Flop (didn't bet)
+Seat 2: alexsarakini folded before Flop (didn't bet)
+Seat 3: @tetaschell (button) collected (3750)
+Seat 4: muriLLoo.mrL (small blind) folded before Flop
+Seat 5: Everbrun11 (big blind) folded before Flop
+
+PokerStars Hand #251209711927: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:42:40 UTC [2024/06/26 18:42:40 ET]
+Table '3769361908 4' 6-max Seat #4 is the button
+Seat 1: somnamna555 (15684 in chips) 
+Seat 2: alexsarakini (9500 in chips) 
+Seat 3: @tetaschell (13450 in chips) 
+Seat 4: muriLLoo.mrL (21546 in chips) 
+Seat 5: Everbrun11 (27179 in chips) 
+somnamna555: posts the ante 250
+alexsarakini: posts the ante 250
+@tetaschell: posts the ante 250
+muriLLoo.mrL: posts the ante 250
+Everbrun11: posts the ante 250
+Everbrun11: posts small blind 500
+somnamna555: posts big blind 1000
+*** HOLE CARDS ***
+alexsarakini: folds 
+@tetaschell: folds 
+muriLLoo.mrL: raises 1000 to 2000
+Everbrun11: folds 
+somnamna555: folds 
+Uncalled bet (1000) returned to muriLLoo.mrL
+muriLLoo.mrL collected 3750 from pot
+muriLLoo.mrL: doesn't show hand 
+*** SUMMARY ***
+Total pot 3750 | Rake 0 
+Seat 1: somnamna555 (big blind) folded before Flop
+Seat 2: alexsarakini folded before Flop (didn't bet)
+Seat 3: @tetaschell folded before Flop (didn't bet)
+Seat 4: muriLLoo.mrL (button) collected (3750)
+Seat 5: Everbrun11 (small blind) folded before Flop
+
+PokerStars Hand #251209717782: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:43:03 UTC [2024/06/26 18:43:03 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: somnamna555 (14434 in chips) 
+Seat 2: alexsarakini (9250 in chips) 
+Seat 3: @tetaschell (13200 in chips) 
+Seat 4: muriLLoo.mrL (24046 in chips) 
+Seat 5: Everbrun11 (26429 in chips) 
+somnamna555: posts the ante 250
+alexsarakini: posts the ante 250
+@tetaschell: posts the ante 250
+muriLLoo.mrL: posts the ante 250
+Everbrun11: posts the ante 250
+somnamna555: posts small blind 500
+alexsarakini: posts big blind 1000
+*** HOLE CARDS ***
+@tetaschell: raises 11950 to 12950 and is all-in
+muriLLoo.mrL: raises 10846 to 23796 and is all-in
+Everbrun11: folds 
+somnamna555: folds 
+alexsarakini: folds 
+Uncalled bet (10846) returned to muriLLoo.mrL
+*** FLOP *** [Js Ah 4c]
+*** TURN *** [Js Ah 4c] [3c]
+*** RIVER *** [Js Ah 4c 3c] [4d]
+*** SHOW DOWN ***
+@tetaschell: shows [Ks Qd] (a pair of Fours)
+muriLLoo.mrL: shows [Ac 7c] (two pair, Aces and Fours)
+muriLLoo.mrL collected 28650 from pot
+@tetaschell finished the tournament
+*** SUMMARY ***
+Total pot 28650 | Rake 0 
+Board [Js Ah 4c 3c 4d]
+Seat 1: somnamna555 (small blind) folded before Flop
+Seat 2: alexsarakini (big blind) folded before Flop
+Seat 3: @tetaschell showed [Ks Qd] and lost with a pair of Fours
+Seat 4: muriLLoo.mrL showed [Ac 7c] and won (28650) with two pair, Aces and Fours
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209725506: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:43:33 UTC [2024/06/26 18:43:33 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: somnamna555 (13684 in chips) 
+Seat 2: alexsarakini (8000 in chips) 
+Seat 4: muriLLoo.mrL (39496 in chips) 
+Seat 5: Everbrun11 (26179 in chips) 
+somnamna555: posts the ante 250
+alexsarakini: posts the ante 250
+muriLLoo.mrL: posts the ante 250
+Everbrun11: posts the ante 250
+alexsarakini: posts small blind 500
+muriLLoo.mrL: posts big blind 1000
+*** HOLE CARDS ***
+gwallgofddyn is disconnected 
+Everbrun11: raises 1000 to 2000
+somnamna555: folds 
+alexsarakini: folds 
+muriLLoo.mrL: calls 1000
+*** FLOP *** [9d Qc Td]
+muriLLoo.mrL: checks 
+Everbrun11: bets 2000
+muriLLoo.mrL: calls 2000
+*** TURN *** [9d Qc Td] [Ah]
+muriLLoo.mrL: checks 
+Everbrun11: bets 6000
+muriLLoo.mrL: raises 29246 to 35246 and is all-in
+Everbrun11: calls 15929 and is all-in
+Uncalled bet (13317) returned to muriLLoo.mrL
+*** RIVER *** [9d Qc Td Ah] [6d]
+*** SHOW DOWN ***
+muriLLoo.mrL: shows [Ac 9h] (two pair, Aces and Nines)
+Everbrun11: shows [Qs Ad] (two pair, Aces and Queens)
+Everbrun11 collected 53358 from pot
+*** SUMMARY ***
+Total pot 53358 | Rake 0 
+Board [9d Qc Td Ah 6d]
+Seat 1: somnamna555 (button) folded before Flop (didn't bet)
+Seat 2: alexsarakini (small blind) folded before Flop
+Seat 4: muriLLoo.mrL (big blind) showed [Ac 9h] and lost with two pair, Aces and Nines
+Seat 5: Everbrun11 showed [Qs Ad] and won (53358) with two pair, Aces and Queens
+
+PokerStars Hand #251209736516: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:44:16 UTC [2024/06/26 18:44:16 ET]
+Table '3769361908 4' 6-max Seat #2 is the button
+Seat 1: somnamna555 (13434 in chips) 
+Seat 2: alexsarakini (7250 in chips) 
+Seat 3: gwallgofddyn (12876 in chips) out of hand (moved from another table into small blind)
+Seat 4: muriLLoo.mrL (13317 in chips) 
+Seat 5: Everbrun11 (53358 in chips) 
+gwallgofddyn will be allowed to play after the button
+somnamna555: posts the ante 300
+alexsarakini: posts the ante 300
+muriLLoo.mrL: posts the ante 300
+Everbrun11: posts the ante 300
+muriLLoo.mrL: posts small blind 600
+Everbrun11: posts big blind 1200
+*** HOLE CARDS ***
+somnamna555: folds 
+alexsarakini: folds 
+muriLLoo.mrL: raises 11817 to 13017 and is all-in
+Everbrun11: folds 
+Uncalled bet (11817) returned to muriLLoo.mrL
+muriLLoo.mrL collected 3600 from pot
+muriLLoo.mrL: doesn't show hand 
+*** SUMMARY ***
+Total pot 3600 | Rake 0 
+Seat 1: somnamna555 folded before Flop (didn't bet)
+Seat 2: alexsarakini (button) folded before Flop (didn't bet)
+Seat 4: muriLLoo.mrL (small blind) collected (3600)
+Seat 5: Everbrun11 (big blind) folded before Flop
+
+PokerStars Hand #251209740100: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:44:30 UTC [2024/06/26 18:44:30 ET]
+Table '3769361908 4' 6-max Seat #4 is the button
+Seat 1: somnamna555 (13134 in chips) 
+Seat 2: alexsarakini (6950 in chips) 
+Seat 3: gwallgofddyn (12876 in chips) 
+Seat 4: muriLLoo.mrL (15417 in chips) 
+Seat 5: Everbrun11 (51858 in chips) 
+somnamna555: posts the ante 300
+alexsarakini: posts the ante 300
+gwallgofddyn: posts the ante 300
+muriLLoo.mrL: posts the ante 300
+Everbrun11: posts the ante 300
+Everbrun11: posts small blind 600
+somnamna555: posts big blind 1200
+*** HOLE CARDS ***
+alexsarakini: folds 
+gwallgofddyn: raises 1200 to 2400
+muriLLoo.mrL: folds 
+BernardoDG is disconnected 
+Everbrun11: folds 
+somnamna555: folds 
+Uncalled bet (1200) returned to gwallgofddyn
+gwallgofddyn collected 4500 from pot
+gwallgofddyn: doesn't show hand 
+*** SUMMARY ***
+Total pot 4500 | Rake 0 
+Seat 1: somnamna555 (big blind) folded before Flop
+Seat 2: alexsarakini folded before Flop (didn't bet)
+Seat 3: gwallgofddyn collected (4500)
+Seat 4: muriLLoo.mrL (button) folded before Flop (didn't bet)
+Seat 5: Everbrun11 (small blind) folded before Flop
+
+PokerStars Hand #251209746455: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:44:55 UTC [2024/06/26 18:44:55 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: somnamna555 (11634 in chips) 
+Seat 2: alexsarakini (6650 in chips) 
+Seat 3: gwallgofddyn (15876 in chips) 
+Seat 4: muriLLoo.mrL (15117 in chips) 
+Seat 5: Everbrun11 (50958 in chips) 
+Seat 6: BernardoDG (18951 in chips) out of hand (moved from another table into small blind)
+BernardoDG will be allowed to play after the button
+somnamna555: posts the ante 300
+alexsarakini: posts the ante 300
+gwallgofddyn: posts the ante 300
+muriLLoo.mrL: posts the ante 300
+Everbrun11: posts the ante 300
+somnamna555: posts small blind 600
+alexsarakini: posts big blind 1200
+*** HOLE CARDS ***
+gwallgofddyn: folds 
+muriLLoo.mrL: raises 1200 to 2400
+Everbrun11: folds 
+somnamna555: folds 
+alexsarakini: folds 
+Uncalled bet (1200) returned to muriLLoo.mrL
+muriLLoo.mrL collected 4500 from pot
+muriLLoo.mrL: doesn't show hand 
+*** SUMMARY ***
+Total pot 4500 | Rake 0 
+Seat 1: somnamna555 (small blind) folded before Flop
+Seat 2: alexsarakini (big blind) folded before Flop
+Seat 3: gwallgofddyn folded before Flop (didn't bet)
+Seat 4: muriLLoo.mrL collected (4500)
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209753640: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:45:23 UTC [2024/06/26 18:45:23 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: somnamna555 (10734 in chips) 
+Seat 2: alexsarakini (5150 in chips) 
+Seat 3: gwallgofddyn (15576 in chips) 
+Seat 4: muriLLoo.mrL (18117 in chips) 
+Seat 5: Everbrun11 (50658 in chips) 
+Seat 6: BernardoDG (18951 in chips) 
+somnamna555: posts the ante 300
+alexsarakini: posts the ante 300
+gwallgofddyn: posts the ante 300
+muriLLoo.mrL: posts the ante 300
+Everbrun11: posts the ante 300
+BernardoDG: posts the ante 300
+alexsarakini: posts small blind 600
+gwallgofddyn: posts big blind 1200
+*** HOLE CARDS ***
+muriLLoo.mrL: raises 16617 to 17817 and is all-in
+Everbrun11: raises 16617 to 34434
+BernardoDG: folds 
+somnamna555: folds 
+alexsarakini: calls 4250 and is all-in
+gwallgofddyn: folds 
+Uncalled bet (16617) returned to Everbrun11
+*** FLOP *** [As 3s 9h]
+*** TURN *** [As 3s 9h] [8h]
+*** RIVER *** [As 3s 9h 8h] [4d]
+*** SHOW DOWN ***
+muriLLoo.mrL: shows [Kh Qs] (high card Ace)
+Everbrun11: shows [Ad Jc] (a pair of Aces)
+Everbrun11 collected 25934 from side pot
+alexsarakini: shows [Ac 6h] (a pair of Aces - lower kicker)
+Everbrun11 collected 17550 from main pot
+muriLLoo.mrL finished the tournament
+alexsarakini finished the tournament
+*** SUMMARY ***
+Total pot 43484 Main pot 17550. Side pot 25934. | Rake 0 
+Board [As 3s 9h 8h 4d]
+Seat 1: somnamna555 (button) folded before Flop (didn't bet)
+Seat 2: alexsarakini (small blind) showed [Ac 6h] and lost with a pair of Aces
+Seat 3: gwallgofddyn (big blind) folded before Flop
+Seat 4: muriLLoo.mrL showed [Kh Qs] and lost with high card Ace
+Seat 5: Everbrun11 showed [Ad Jc] and won (43484) with a pair of Aces
+Seat 6: BernardoDG folded before Flop (didn't bet)
+
+PokerStars Hand #251209759426: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:45:45 UTC [2024/06/26 18:45:45 ET]
+Table '3769361908 4' 6-max Seat #3 is the button
+Seat 1: somnamna555 (10434 in chips) 
+Seat 2: Biguethi339 (7600 in chips) 
+Seat 3: gwallgofddyn (14076 in chips) 
+Seat 5: Everbrun11 (76025 in chips) 
+Seat 6: BernardoDG (18651 in chips) 
+somnamna555: posts the ante 300
+Biguethi339: posts the ante 300
+gwallgofddyn: posts the ante 300
+Everbrun11: posts the ante 300
+BernardoDG: posts the ante 300
+Everbrun11: posts small blind 600
+BernardoDG: posts big blind 1200
+*** HOLE CARDS ***
+Biguethi339 is disconnected 
+somnamna555: folds 
+Biguethi339: folds 
+gwallgofddyn: raises 12576 to 13776 and is all-in
+Everbrun11: folds 
+BernardoDG: folds 
+Uncalled bet (12576) returned to gwallgofddyn
+gwallgofddyn collected 4500 from pot
+gwallgofddyn: doesn't show hand 
+*** SUMMARY ***
+Total pot 4500 | Rake 0 
+Seat 1: somnamna555 folded before Flop (didn't bet)
+Seat 2: Biguethi339 folded before Flop (didn't bet)
+Seat 3: gwallgofddyn (button) collected (4500)
+Seat 5: Everbrun11 (small blind) folded before Flop
+Seat 6: BernardoDG (big blind) folded before Flop
+
+PokerStars Hand #251209764347: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:46:04 UTC [2024/06/26 18:46:04 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: somnamna555 (10134 in chips) 
+Seat 2: Biguethi339 (7300 in chips) 
+Seat 3: gwallgofddyn (17076 in chips) 
+Seat 5: Everbrun11 (75125 in chips) 
+Seat 6: BernardoDG (17151 in chips) 
+somnamna555: posts the ante 300
+Biguethi339: posts the ante 300
+gwallgofddyn: posts the ante 300
+Everbrun11: posts the ante 300
+BernardoDG: posts the ante 300
+BernardoDG: posts small blind 600
+somnamna555: posts big blind 1200
+*** HOLE CARDS ***
+Biguethi339: folds 
+gwallgofddyn: folds 
+Everbrun11: folds 
+hed777 is disconnected 
+BernardoDG: raises 15651 to 16851 and is all-in
+somnamna555: folds 
+Uncalled bet (15651) returned to BernardoDG
+BernardoDG collected 3900 from pot
+BernardoDG: doesn't show hand 
+*** SUMMARY ***
+Total pot 3900 | Rake 0 
+Seat 1: somnamna555 (big blind) folded before Flop
+Seat 2: Biguethi339 folded before Flop (didn't bet)
+Seat 3: gwallgofddyn folded before Flop (didn't bet)
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+Seat 6: BernardoDG (small blind) collected (3900)
+
+PokerStars Hand #251209769569: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:46:24 UTC [2024/06/26 18:46:24 ET]
+Table '3769361908 4' 6-max Seat #6 is the button
+Seat 1: somnamna555 (8634 in chips) 
+Seat 2: Biguethi339 (7000 in chips) 
+Seat 3: gwallgofddyn (16776 in chips) 
+Seat 4: hed777 (10000 in chips) 
+Seat 5: Everbrun11 (74825 in chips) 
+Seat 6: BernardoDG (19551 in chips) 
+somnamna555: posts the ante 300
+Biguethi339: posts the ante 300
+gwallgofddyn: posts the ante 300
+hed777: posts the ante 300
+Everbrun11: posts the ante 300
+BernardoDG: posts the ante 300
+somnamna555: posts small blind 600
+Biguethi339: posts big blind 1200
+*** HOLE CARDS ***
+gwallgofddyn: folds 
+hed777: folds 
+Everbrun11: folds 
+BernardoDG: raises 18051 to 19251 and is all-in
+somnamna555: folds 
+Biguethi339: calls 5500 and is all-in
+Uncalled bet (12551) returned to BernardoDG
+*** FLOP *** [Qd 3d Qh]
+*** TURN *** [Qd 3d Qh] [Kc]
+*** RIVER *** [Qd 3d Qh Kc] [2s]
+*** SHOW DOWN ***
+Biguethi339: shows [Kh 9s] (two pair, Kings and Queens)
+BernardoDG: shows [8h 8s] (two pair, Queens and Eights)
+Biguethi339 collected 15800 from pot
+*** SUMMARY ***
+Total pot 15800 | Rake 0 
+Board [Qd 3d Qh Kc 2s]
+Seat 1: somnamna555 (small blind) folded before Flop
+Seat 2: Biguethi339 (big blind) showed [Kh 9s] and won (15800) with two pair, Kings and Queens
+Seat 3: gwallgofddyn folded before Flop (didn't bet)
+Seat 4: hed777 folded before Flop (didn't bet)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: BernardoDG (button) showed [8h 8s] and lost with two pair, Queens and Eights
+
+PokerStars Hand #251209776500: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:46:52 UTC [2024/06/26 18:46:52 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: somnamna555 (7734 in chips) 
+Seat 2: Biguethi339 (15800 in chips) 
+Seat 3: gwallgofddyn (16476 in chips) 
+Seat 4: hed777 (9700 in chips) 
+Seat 5: Everbrun11 (74525 in chips) 
+Seat 6: BernardoDG (12551 in chips) 
+somnamna555: posts the ante 300
+Biguethi339: posts the ante 300
+gwallgofddyn: posts the ante 300
+hed777: posts the ante 300
+Everbrun11: posts the ante 300
+BernardoDG: posts the ante 300
+Biguethi339: posts small blind 600
+gwallgofddyn: posts big blind 1200
+*** HOLE CARDS ***
+hed777: folds 
+Everbrun11: folds 
+BernardoDG: raises 11051 to 12251 and is all-in
+somnamna555: folds 
+Biguethi339: folds 
+gwallgofddyn: folds 
+Uncalled bet (11051) returned to BernardoDG
+BernardoDG collected 4800 from pot
+BernardoDG: doesn't show hand 
+*** SUMMARY ***
+Total pot 4800 | Rake 0 
+Seat 1: somnamna555 (button) folded before Flop (didn't bet)
+Seat 2: Biguethi339 (small blind) folded before Flop
+Seat 3: gwallgofddyn (big blind) folded before Flop
+Seat 4: hed777 folded before Flop (didn't bet)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: BernardoDG collected (4800)
+
+PokerStars Hand #251209782529: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:47:15 UTC [2024/06/26 18:47:15 ET]
+Table '3769361908 4' 6-max Seat #2 is the button
+Seat 1: somnamna555 (7434 in chips) 
+Seat 2: Biguethi339 (14900 in chips) 
+Seat 3: gwallgofddyn (14976 in chips) 
+Seat 4: hed777 (9400 in chips) 
+Seat 5: Everbrun11 (74225 in chips) 
+Seat 6: BernardoDG (15851 in chips) 
+somnamna555: posts the ante 400
+Biguethi339: posts the ante 400
+gwallgofddyn: posts the ante 400
+hed777: posts the ante 400
+Everbrun11: posts the ante 400
+BernardoDG: posts the ante 400
+gwallgofddyn: posts small blind 800
+hed777: posts big blind 1600
+*** HOLE CARDS ***
+Everbrun11: raises 1600 to 3200
+BernardoDG: raises 12251 to 15451 and is all-in
+somnamna555: folds 
+Biguethi339: folds 
+gwallgofddyn: folds 
+hed777: folds 
+Everbrun11: calls 12251
+*** FLOP *** [7c Ks 3c]
+*** TURN *** [7c Ks 3c] [2h]
+*** RIVER *** [7c Ks 3c 2h] [4s]
+*** SHOW DOWN ***
+Everbrun11: shows [Ad Ac] (a pair of Aces)
+BernardoDG: shows [5c 5h] (a pair of Fives)
+Everbrun11 collected 35702 from pot
+BernardoDG finished the tournament
+*** SUMMARY ***
+Total pot 35702 | Rake 0 
+Board [7c Ks 3c 2h 4s]
+Seat 1: somnamna555 folded before Flop (didn't bet)
+Seat 2: Biguethi339 (button) folded before Flop (didn't bet)
+Seat 3: gwallgofddyn (small blind) folded before Flop
+Seat 4: hed777 (big blind) folded before Flop
+Seat 5: Everbrun11 showed [Ad Ac] and won (35702) with a pair of Aces
+Seat 6: BernardoDG showed [5c 5h] and lost with a pair of Fives
+
+PokerStars Hand #251209794896: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:48:04 UTC [2024/06/26 18:48:04 ET]
+Table '3769361908 4' 6-max Seat #3 is the button
+Seat 1: somnamna555 (7034 in chips) 
+Seat 2: Biguethi339 (14500 in chips) 
+Seat 3: gwallgofddyn (13776 in chips) 
+Seat 4: hed777 (7400 in chips) 
+Seat 5: Everbrun11 (94076 in chips) 
+somnamna555: posts the ante 400
+Biguethi339: posts the ante 400
+gwallgofddyn: posts the ante 400
+hed777: posts the ante 400
+Everbrun11: posts the ante 400
+hed777: posts small blind 800
+Everbrun11: posts big blind 1600
+*** HOLE CARDS ***
+Berkowitz33 is disconnected 
+somnamna555: raises 5034 to 6634 and is all-in
+Biguethi339: folds 
+gwallgofddyn: folds 
+hed777: folds 
+Everbrun11: calls 5034
+*** FLOP *** [Qc 7c 2s]
+*** TURN *** [Qc 7c 2s] [Jd]
+*** RIVER *** [Qc 7c 2s Jd] [Td]
+*** SHOW DOWN ***
+Everbrun11: shows [6s 9h] (high card Queen)
+somnamna555: shows [7h Ah] (a pair of Sevens)
+somnamna555 collected 16068 from pot
+*** SUMMARY ***
+Total pot 16068 | Rake 0 
+Board [Qc 7c 2s Jd Td]
+Seat 1: somnamna555 showed [7h Ah] and won (16068) with a pair of Sevens
+Seat 2: Biguethi339 folded before Flop (didn't bet)
+Seat 3: gwallgofddyn (button) folded before Flop (didn't bet)
+Seat 4: hed777 (small blind) folded before Flop
+Seat 5: Everbrun11 (big blind) showed [6s 9h] and lost with high card Queen
+
+PokerStars Hand #251209803710: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:48:39 UTC [2024/06/26 18:48:39 ET]
+Table '3769361908 4' 6-max Seat #4 is the button
+Seat 1: somnamna555 (16068 in chips) 
+Seat 2: Biguethi339 (14100 in chips) 
+Seat 3: gwallgofddyn (13376 in chips) 
+Seat 4: hed777 (6200 in chips) 
+Seat 5: Everbrun11 (87042 in chips) 
+Seat 6: Berkowitz33 (13666 in chips) 
+somnamna555: posts the ante 400
+Biguethi339: posts the ante 400
+gwallgofddyn: posts the ante 400
+hed777: posts the ante 400
+Everbrun11: posts the ante 400
+Berkowitz33: posts the ante 400
+Everbrun11: posts small blind 800
+Berkowitz33: posts big blind 1600
+*** HOLE CARDS ***
+somnamna555: raises 14068 to 15668 and is all-in
+Biguethi339: folds 
+gwallgofddyn: folds 
+hed777: folds 
+Everbrun11: folds 
+Berkowitz33: folds 
+Uncalled bet (14068) returned to somnamna555
+somnamna555 collected 6400 from pot
+somnamna555: doesn't show hand 
+*** SUMMARY ***
+Total pot 6400 | Rake 0 
+Seat 1: somnamna555 collected (6400)
+Seat 2: Biguethi339 folded before Flop (didn't bet)
+Seat 3: gwallgofddyn folded before Flop (didn't bet)
+Seat 4: hed777 (button) folded before Flop (didn't bet)
+Seat 5: Everbrun11 (small blind) folded before Flop
+Seat 6: Berkowitz33 (big blind) folded before Flop
+
+PokerStars Hand #251209808170: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:48:56 UTC [2024/06/26 18:48:56 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 2: Biguethi339 (13700 in chips) 
+Seat 3: gwallgofddyn (12976 in chips) 
+Seat 4: hed777 (5800 in chips) 
+Seat 5: Everbrun11 (85842 in chips) 
+Seat 6: Berkowitz33 (11666 in chips) 
+Biguethi339: posts the ante 400
+gwallgofddyn: posts the ante 400
+hed777: posts the ante 400
+Everbrun11: posts the ante 400
+Berkowitz33: posts the ante 400
+Berkowitz33: posts small blind 800
+Biguethi339: posts big blind 1600
+*** HOLE CARDS ***
+gwallgofddyn: folds 
+hed777: raises 3800 to 5400 and is all-in
+C0rpsbal is disconnected 
+Everbrun11: folds 
+Berkowitz33: folds 
+Biguethi339: calls 3800
+*** FLOP *** [Kc 4h 8c]
+*** TURN *** [Kc 4h 8c] [9d]
+*** RIVER *** [Kc 4h 8c 9d] [3s]
+*** SHOW DOWN ***
+Biguethi339: shows [Th 7d] (high card King)
+hed777: shows [4d As] (a pair of Fours)
+hed777 collected 13600 from pot
+*** SUMMARY ***
+Total pot 13600 | Rake 0 
+Board [Kc 4h 8c 9d 3s]
+Seat 2: Biguethi339 (big blind) showed [Th 7d] and lost with high card King
+Seat 3: gwallgofddyn folded before Flop (didn't bet)
+Seat 4: hed777 showed [4d As] and won (13600) with a pair of Fours
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+Seat 6: Berkowitz33 (small blind) folded before Flop
+
+PokerStars Hand #251209818951: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:49:40 UTC [2024/06/26 18:49:40 ET]
+Table '3769361908 4' 6-max Seat #6 is the button
+Seat 1: C0rpsbal (21826 in chips) out of hand (moved from another table into small blind)
+Seat 2: Biguethi339 (7900 in chips) 
+Seat 3: gwallgofddyn (12576 in chips) 
+Seat 4: hed777 (13600 in chips) 
+Seat 5: Everbrun11 (85442 in chips) 
+Seat 6: Berkowitz33 (10466 in chips) 
+C0rpsbal will be allowed to play after the button
+Biguethi339: posts the ante 400
+gwallgofddyn: posts the ante 400
+hed777: posts the ante 400
+Everbrun11: posts the ante 400
+Berkowitz33: posts the ante 400
+Biguethi339: posts small blind 800
+gwallgofddyn: posts big blind 1600
+*** HOLE CARDS ***
+hed777: folds 
+Everbrun11: folds 
+Berkowitz33: folds 
+Biguethi339: folds 
+Uncalled bet (800) returned to gwallgofddyn
+gwallgofddyn collected 3600 from pot
+gwallgofddyn: doesn't show hand 
+*** SUMMARY ***
+Total pot 3600 | Rake 0 
+Seat 2: Biguethi339 (small blind) folded before Flop
+Seat 3: gwallgofddyn (big blind) collected (3600)
+Seat 4: hed777 folded before Flop (didn't bet)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: Berkowitz33 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209821256: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:49:49 UTC [2024/06/26 18:49:49 ET]
+Table '3769361908 4' 6-max Seat #2 is the button
+Seat 1: C0rpsbal (21826 in chips) 
+Seat 2: Biguethi339 (6700 in chips) 
+Seat 3: gwallgofddyn (14976 in chips) 
+Seat 4: hed777 (13200 in chips) 
+Seat 5: Everbrun11 (85042 in chips) 
+Seat 6: Berkowitz33 (10066 in chips) 
+C0rpsbal: posts the ante 400
+Biguethi339: posts the ante 400
+gwallgofddyn: posts the ante 400
+hed777: posts the ante 400
+Everbrun11: posts the ante 400
+Berkowitz33: posts the ante 400
+gwallgofddyn: posts small blind 800
+hed777: posts big blind 1600
+*** HOLE CARDS ***
+Everbrun11: folds 
+Berkowitz33: raises 8066 to 9666 and is all-in
+C0rpsbal: folds 
+Biguethi339: calls 6300 and is all-in
+gwallgofddyn: folds 
+hed777: folds 
+Uncalled bet (3366) returned to Berkowitz33
+*** FLOP *** [6c 7c 9s]
+*** TURN *** [6c 7c 9s] [Qs]
+*** RIVER *** [6c 7c 9s Qs] [Jc]
+*** SHOW DOWN ***
+Berkowitz33: shows [Qd Ad] (a pair of Queens)
+Biguethi339: shows [Qh Jh] (two pair, Queens and Jacks)
+Biguethi339 collected 17400 from pot
+*** SUMMARY ***
+Total pot 17400 | Rake 0 
+Board [6c 7c 9s Qs Jc]
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Biguethi339 (button) showed [Qh Jh] and won (17400) with two pair, Queens and Jacks
+Seat 3: gwallgofddyn (small blind) folded before Flop
+Seat 4: hed777 (big blind) folded before Flop
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: Berkowitz33 showed [Qd Ad] and lost with a pair of Queens
+
+PokerStars Hand #251209834253: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:50:42 UTC [2024/06/26 18:50:42 ET]
+Table '3769361908 4' 6-max Seat #3 is the button
+Seat 1: C0rpsbal (21426 in chips) 
+Seat 2: Biguethi339 (17400 in chips) 
+Seat 3: gwallgofddyn (13776 in chips) 
+Seat 4: hed777 (11200 in chips) 
+Seat 5: Everbrun11 (84642 in chips) 
+Seat 6: Berkowitz33 (3366 in chips) 
+C0rpsbal: posts the ante 500
+Biguethi339: posts the ante 500
+gwallgofddyn: posts the ante 500
+hed777: posts the ante 500
+Everbrun11: posts the ante 500
+Berkowitz33: posts the ante 500
+hed777: posts small blind 1000
+Everbrun11: posts big blind 2000
+*** HOLE CARDS ***
+Berkowitz33: folds 
+C0rpsbal: folds 
+Biguethi339: folds 
+gwallgofddyn: folds 
+hed777: raises 8700 to 10700 and is all-in
+Everbrun11: calls 8700
+*** FLOP *** [9c 4h Qs]
+*** TURN *** [9c 4h Qs] [As]
+*** RIVER *** [9c 4h Qs As] [Ac]
+*** SHOW DOWN ***
+hed777: shows [Jc Ks] (a pair of Aces)
+Everbrun11: shows [Th Qc] (two pair, Aces and Queens)
+Everbrun11 collected 24400 from pot
+hed777 finished the tournament in 105th place
+*** SUMMARY ***
+Total pot 24400 | Rake 0 
+Board [9c 4h Qs As Ac]
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Biguethi339 folded before Flop (didn't bet)
+Seat 3: gwallgofddyn (button) folded before Flop (didn't bet)
+Seat 4: hed777 (small blind) showed [Jc Ks] and lost with a pair of Aces
+Seat 5: Everbrun11 (big blind) showed [Th Qc] and won (24400) with two pair, Aces and Queens
+Seat 6: Berkowitz33 folded before Flop (didn't bet)
+
+PokerStars Hand #251209841343: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:51:12 UTC [2024/06/26 18:51:12 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: C0rpsbal (20926 in chips) 
+Seat 2: Biguethi339 (16900 in chips) 
+Seat 3: gwallgofddyn (13276 in chips) 
+Seat 5: Everbrun11 (97842 in chips) 
+Seat 6: Berkowitz33 (2866 in chips) 
+C0rpsbal: posts the ante 500
+Biguethi339: posts the ante 500
+gwallgofddyn: posts the ante 500
+Everbrun11: posts the ante 500
+Berkowitz33: posts the ante 500
+Berkowitz33: posts small blind 1000
+C0rpsbal: posts big blind 2000
+*** HOLE CARDS ***
+Biguethi339: folds 
+gwallgofddyn: folds 
+Everbrun11: folds 
+DR. ELDAR is disconnected 
+Berkowitz33: raises 366 to 2366 and is all-in
+C0rpsbal: calls 366
+*** FLOP *** [Qh 9h 4s]
+*** TURN *** [Qh 9h 4s] [Ts]
+*** RIVER *** [Qh 9h 4s Ts] [Qs]
+*** SHOW DOWN ***
+Berkowitz33: shows [3s 5d] (a pair of Queens)
+C0rpsbal: shows [Qd Jh] (three of a kind, Queens)
+C0rpsbal collected 7232 from pot
+Berkowitz33 finished the tournament in 102nd place
+*** SUMMARY ***
+Total pot 7232 | Rake 0 
+Board [Qh 9h 4s Ts Qs]
+Seat 1: C0rpsbal (big blind) showed [Qd Jh] and won (7232) with three of a kind, Queens
+Seat 2: Biguethi339 folded before Flop (didn't bet)
+Seat 3: gwallgofddyn folded before Flop (didn't bet)
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+Seat 6: Berkowitz33 (small blind) showed [3s 5d] and lost with a pair of Queens
+
+PokerStars Hand #251209847215: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:51:36 UTC [2024/06/26 18:51:36 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: C0rpsbal (25292 in chips) 
+Seat 2: Biguethi339 (16400 in chips) 
+Seat 3: gwallgofddyn (12776 in chips) 
+Seat 4: DR. ELDAR (33745 in chips) 
+Seat 5: Everbrun11 (97342 in chips) 
+C0rpsbal: posts the ante 500
+Biguethi339: posts the ante 500
+gwallgofddyn: posts the ante 500
+DR. ELDAR: posts the ante 500
+Everbrun11: posts the ante 500
+Biguethi339: posts small blind 1000
+gwallgofddyn: posts big blind 2000
+*** HOLE CARDS ***
+DR. ELDAR: folds 
+Everbrun11: folds 
+C0rpsbal: folds 
+Biguethi339: raises 13900 to 15900 and is all-in
+gwallgofddyn: folds 
+Uncalled bet (13900) returned to Biguethi339
+Biguethi339 collected 6500 from pot
+Biguethi339: doesn't show hand 
+*** SUMMARY ***
+Total pot 6500 | Rake 0 
+Seat 1: C0rpsbal (button) folded before Flop (didn't bet)
+Seat 2: Biguethi339 (small blind) collected (6500)
+Seat 3: gwallgofddyn (big blind) folded before Flop
+Seat 4: DR. ELDAR folded before Flop (didn't bet)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+
+PokerStars Hand #251209851160: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:51:52 UTC [2024/06/26 18:51:52 ET]
+Table '3769361908 4' 6-max Seat #2 is the button
+Seat 1: C0rpsbal (24792 in chips) 
+Seat 2: Biguethi339 (20400 in chips) 
+Seat 3: gwallgofddyn (10276 in chips) 
+Seat 4: DR. ELDAR (33245 in chips) 
+Seat 5: Everbrun11 (96842 in chips) 
+C0rpsbal: posts the ante 500
+Biguethi339: posts the ante 500
+gwallgofddyn: posts the ante 500
+DR. ELDAR: posts the ante 500
+Everbrun11: posts the ante 500
+gwallgofddyn: posts small blind 1000
+DR. ELDAR: posts big blind 2000
+*** HOLE CARDS ***
+Everbrun11: folds 
+C0rpsbal: raises 2000 to 4000
+viniperri is disconnected 
+Biguethi339: folds 
+gwallgofddyn: raises 5776 to 9776 and is all-in
+DR. ELDAR: folds 
+C0rpsbal: calls 5776
+*** FLOP *** [Jd 2h Ks]
+*** TURN *** [Jd 2h Ks] [5d]
+*** RIVER *** [Jd 2h Ks 5d] [5s]
+*** SHOW DOWN ***
+gwallgofddyn: shows [3d Ac] (a pair of Fives)
+C0rpsbal: shows [4c Kc] (two pair, Kings and Fives)
+C0rpsbal collected 24052 from pot
+gwallgofddyn finished the tournament in 94th place
+*** SUMMARY ***
+Total pot 24052 | Rake 0 
+Board [Jd 2h Ks 5d 5s]
+Seat 1: C0rpsbal showed [4c Kc] and won (24052) with two pair, Kings and Fives
+Seat 2: Biguethi339 (button) folded before Flop (didn't bet)
+Seat 3: gwallgofddyn (small blind) showed [3d Ac] and lost with a pair of Fives
+Seat 4: DR. ELDAR (big blind) folded before Flop
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+
+PokerStars Hand #251209860579: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:52:30 UTC [2024/06/26 18:52:30 ET]
+Table '3769361908 4' 6-max Seat #4 is the button
+Seat 1: C0rpsbal (38568 in chips) 
+Seat 2: Biguethi339 (19900 in chips) 
+Seat 4: DR. ELDAR (30745 in chips) 
+Seat 5: Everbrun11 (96342 in chips) 
+Seat 6: viniperri (81901 in chips) 
+C0rpsbal: posts the ante 500
+Biguethi339: posts the ante 500
+DR. ELDAR: posts the ante 500
+Everbrun11: posts the ante 500
+viniperri: posts the ante 500
+Everbrun11: posts small blind 1000
+viniperri: posts big blind 2000
+*** HOLE CARDS ***
+C0rpsbal: folds 
+Biguethi339: raises 17400 to 19400 and is all-in
+DR. ELDAR: folds 
+Everbrun11: folds 
+viniperri: folds 
+Uncalled bet (17400) returned to Biguethi339
+Biguethi339 collected 7500 from pot
+Biguethi339: doesn't show hand 
+*** SUMMARY ***
+Total pot 7500 | Rake 0 
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Biguethi339 collected (7500)
+Seat 4: DR. ELDAR (button) folded before Flop (didn't bet)
+Seat 5: Everbrun11 (small blind) folded before Flop
+Seat 6: viniperri (big blind) folded before Flop
+
+PokerStars Hand #251209865684: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:52:51 UTC [2024/06/26 18:52:51 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: C0rpsbal (38068 in chips) 
+Seat 2: Biguethi339 (24900 in chips) 
+Seat 3: jerdno0 (19434 in chips) 
+Seat 4: DR. ELDAR (30245 in chips) 
+Seat 5: Everbrun11 (94842 in chips) 
+Seat 6: viniperri (79401 in chips) 
+C0rpsbal: posts the ante 500
+Biguethi339: posts the ante 500
+jerdno0: posts the ante 500
+DR. ELDAR: posts the ante 500
+Everbrun11: posts the ante 500
+viniperri: posts the ante 500
+viniperri: posts small blind 1000
+C0rpsbal: posts big blind 2000
+*** HOLE CARDS ***
+Biguethi339: raises 2000 to 4000
+jerdno0: folds 
+DR. ELDAR: folds 
+Everbrun11: folds 
+viniperri: folds 
+C0rpsbal: calls 2000
+*** FLOP *** [Jh Jd 9s]
+C0rpsbal: checks 
+Biguethi339: bets 2000
+C0rpsbal: calls 2000
+*** TURN *** [Jh Jd 9s] [Jc]
+C0rpsbal: checks 
+Biguethi339: bets 3200
+C0rpsbal: raises 22400 to 25600
+Biguethi339: folds 
+Uncalled bet (22400) returned to C0rpsbal
+C0rpsbal collected 22400 from pot
+C0rpsbal: doesn't show hand 
+*** SUMMARY ***
+Total pot 22400 | Rake 0 
+Board [Jh Jd 9s Jc]
+Seat 1: C0rpsbal (big blind) collected (22400)
+Seat 2: Biguethi339 folded on the Turn
+Seat 3: jerdno0 folded before Flop (didn't bet)
+Seat 4: DR. ELDAR folded before Flop (didn't bet)
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+Seat 6: viniperri (small blind) folded before Flop
+
+PokerStars Hand #251209881021: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/26 22:53:54 UTC [2024/06/26 18:53:54 ET]
+Table '3769361908 4' 6-max Seat #6 is the button
+Seat 1: C0rpsbal (50768 in chips) 
+Seat 2: Biguethi339 (15200 in chips) 
+Seat 3: jerdno0 (18934 in chips) 
+Seat 4: DR. ELDAR (29745 in chips) 
+Seat 5: Everbrun11 (94342 in chips) 
+Seat 6: viniperri (77901 in chips) 
+C0rpsbal: posts the ante 600
+Biguethi339: posts the ante 600
+jerdno0: posts the ante 600
+DR. ELDAR: posts the ante 600
+Everbrun11: posts the ante 600
+viniperri: posts the ante 600
+C0rpsbal: posts small blind 1200
+Biguethi339: posts big blind 2400
+*** HOLE CARDS ***
+jerdno0: folds 
+DR. ELDAR: raises 2640 to 5040
+Everbrun11: folds 
+viniperri: folds 
+C0rpsbal: folds 
+Biguethi339: folds 
+Uncalled bet (2640) returned to DR. ELDAR
+DR. ELDAR collected 9600 from pot
+DR. ELDAR: doesn't show hand 
+*** SUMMARY ***
+Total pot 9600 | Rake 0 
+Seat 1: C0rpsbal (small blind) folded before Flop
+Seat 2: Biguethi339 (big blind) folded before Flop
+Seat 3: jerdno0 folded before Flop (didn't bet)
+Seat 4: DR. ELDAR collected (9600)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: viniperri (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209888262: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/26 22:54:24 UTC [2024/06/26 18:54:24 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: C0rpsbal (48968 in chips) 
+Seat 2: Biguethi339 (12200 in chips) 
+Seat 3: jerdno0 (18334 in chips) 
+Seat 5: Everbrun11 (93742 in chips) 
+Seat 6: viniperri (77301 in chips) 
+C0rpsbal: posts the ante 600
+Biguethi339: posts the ante 600
+jerdno0: posts the ante 600
+Everbrun11: posts the ante 600
+viniperri: posts the ante 600
+Biguethi339: posts small blind 1200
+jerdno0: posts big blind 2400
+*** HOLE CARDS ***
+Everbrun11: raises 3600 to 6000
+viniperri: folds 
+C0rpsbal: folds 
+Biguethi339: folds 
+jerdno0: folds 
+Uncalled bet (3600) returned to Everbrun11
+Everbrun11 collected 9000 from pot
+Everbrun11: doesn't show hand 
+*** SUMMARY ***
+Total pot 9000 | Rake 0 
+Seat 1: C0rpsbal (button) folded before Flop (didn't bet)
+Seat 2: Biguethi339 (small blind) folded before Flop
+Seat 3: jerdno0 (big blind) folded before Flop
+Seat 5: Everbrun11 collected (9000)
+Seat 6: viniperri folded before Flop (didn't bet)
+
+PokerStars Hand #251209894287: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/26 22:54:49 UTC [2024/06/26 18:54:49 ET]
+Table '3769361908 4' 6-max Seat #2 is the button
+Seat 1: C0rpsbal (48368 in chips) 
+Seat 2: Biguethi339 (10400 in chips) 
+Seat 3: jerdno0 (15334 in chips) 
+Seat 5: Everbrun11 (99742 in chips) 
+Seat 6: viniperri (76701 in chips) 
+C0rpsbal: posts the ante 600
+Biguethi339: posts the ante 600
+jerdno0: posts the ante 600
+Everbrun11: posts the ante 600
+viniperri: posts the ante 600
+jerdno0: posts small blind 1200
+Everbrun11: posts big blind 2400
+*** HOLE CARDS ***
+viniperri: folds 
+C0rpsbal: folds 
+Biguethi339: folds 
+jerdno0: raises 4800 to 7200
+Lecher1991 is disconnected 
+Everbrun11: raises 9600 to 16800
+jerdno0: calls 7534 and is all-in
+Uncalled bet (2066) returned to Everbrun11
+*** FLOP *** [9s Ks Qh]
+*** TURN *** [9s Ks Qh] [9h]
+*** RIVER *** [9s Ks Qh 9h] [4d]
+*** SHOW DOWN ***
+jerdno0: shows [As Ac] (two pair, Aces and Nines)
+Everbrun11: shows [Ad Th] (a pair of Nines)
+jerdno0 collected 32468 from pot
+*** SUMMARY ***
+Total pot 32468 | Rake 0 
+Board [9s Ks Qh 9h 4d]
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Biguethi339 (button) folded before Flop (didn't bet)
+Seat 3: jerdno0 (small blind) showed [As Ac] and won (32468) with two pair, Aces and Nines
+Seat 5: Everbrun11 (big blind) showed [Ad Th] and lost with a pair of Nines
+Seat 6: viniperri folded before Flop (didn't bet)
+
+PokerStars Hand #251209964595: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/26 23:01:09 UTC [2024/06/26 19:01:09 ET]
+Table '3769361908 4' 6-max Seat #3 is the button
+Seat 1: C0rpsbal (47768 in chips) 
+Seat 2: Biguethi339 (9800 in chips) 
+Seat 3: jerdno0 (32468 in chips) 
+Seat 4: Lecher1991 (61456 in chips) out of hand (moved from another table into small blind)
+Seat 5: Everbrun11 (84408 in chips) 
+Seat 6: viniperri (76101 in chips) 
+Lecher1991 will be allowed to play after the button
+C0rpsbal: posts the ante 600
+Biguethi339: posts the ante 600
+jerdno0: posts the ante 600
+Everbrun11: posts the ante 600
+viniperri: posts the ante 600
+Everbrun11: posts small blind 1200
+viniperri: posts big blind 2400
+*** HOLE CARDS ***
+C0rpsbal: folds 
+Biguethi339: folds 
+jerdno0: folds 
+Everbrun11: calls 1200
+viniperri: checks 
+*** FLOP *** [Qs 2h Td]
+Everbrun11: checks 
+viniperri: checks 
+*** TURN *** [Qs 2h Td] [Kc]
+Everbrun11: bets 2400
+viniperri: calls 2400
+*** RIVER *** [Qs 2h Td Kc] [7s]
+Everbrun11: bets 8400
+viniperri: folds 
+Uncalled bet (8400) returned to Everbrun11
+Everbrun11 collected 12600 from pot
+Everbrun11: doesn't show hand 
+*** SUMMARY ***
+Total pot 12600 | Rake 0 
+Board [Qs 2h Td Kc 7s]
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Biguethi339 folded before Flop (didn't bet)
+Seat 3: jerdno0 (button) folded before Flop (didn't bet)
+Seat 5: Everbrun11 (small blind) collected (12600)
+Seat 6: viniperri (big blind) folded on the River
+
+PokerStars Hand #251209981054: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIX (1400/2800) - 2024/06/26 23:02:21 UTC [2024/06/26 19:02:21 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: C0rpsbal (47168 in chips) 
+Seat 2: Biguethi339 (9200 in chips) 
+Seat 3: jerdno0 (31868 in chips) 
+Seat 4: Lecher1991 (61456 in chips) 
+Seat 5: Everbrun11 (91608 in chips) 
+Seat 6: viniperri (70701 in chips) 
+C0rpsbal: posts the ante 700
+Biguethi339: posts the ante 700
+jerdno0: posts the ante 700
+Lecher1991: posts the ante 700
+Everbrun11: posts the ante 700
+viniperri: posts the ante 700
+viniperri: posts small blind 1400
+C0rpsbal: posts big blind 2800
+*** HOLE CARDS ***
+Biguethi339: raises 5700 to 8500 and is all-in
+jerdno0: calls 8500
+Lecher1991: folds 
+Everbrun11: folds 
+viniperri: folds 
+C0rpsbal: folds 
+*** FLOP *** [Ad Jc Ts]
+*** TURN *** [Ad Jc Ts] [8d]
+*** RIVER *** [Ad Jc Ts 8d] [3d]
+*** SHOW DOWN ***
+Biguethi339: shows [Kc Td] (a pair of Tens)
+jerdno0: shows [5h Ah] (a pair of Aces)
+jerdno0 collected 25400 from pot
+Biguethi339 finished the tournament in 70th place
+*** SUMMARY ***
+Total pot 25400 | Rake 0 
+Board [Ad Jc Ts 8d 3d]
+Seat 1: C0rpsbal (big blind) folded before Flop
+Seat 2: Biguethi339 showed [Kc Td] and lost with a pair of Tens
+Seat 3: jerdno0 showed [5h Ah] and won (25400) with a pair of Aces
+Seat 4: Lecher1991 folded before Flop (didn't bet)
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+Seat 6: viniperri (small blind) folded before Flop
+
+PokerStars Hand #251209989190: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIX (1400/2800) - 2024/06/26 23:02:56 UTC [2024/06/26 19:02:56 ET]
+Table '3769361908 4' 6-max Seat #6 is the button
+Seat 1: C0rpsbal (43668 in chips) 
+Seat 3: jerdno0 (48068 in chips) 
+Seat 4: Lecher1991 (60756 in chips) 
+Seat 5: Everbrun11 (90908 in chips) 
+Seat 6: viniperri (68601 in chips) 
+C0rpsbal: posts the ante 700
+jerdno0: posts the ante 700
+Lecher1991: posts the ante 700
+Everbrun11: posts the ante 700
+viniperri: posts the ante 700
+C0rpsbal: posts small blind 1400
+jerdno0: posts big blind 2800
+*** HOLE CARDS ***
+Lecher1991: folds 
+Everbrun11: folds 
+viniperri: folds 
+C0rpsbal: raises 40168 to 42968 and is all-in
+jerdno0: folds 
+Uncalled bet (40168) returned to C0rpsbal
+C0rpsbal collected 9100 from pot
+C0rpsbal: doesn't show hand 
+*** SUMMARY ***
+Total pot 9100 | Rake 0 
+Seat 1: C0rpsbal (small blind) collected (9100)
+Seat 3: jerdno0 (big blind) folded before Flop
+Seat 4: Lecher1991 folded before Flop (didn't bet)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: viniperri (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209997527: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIX (1400/2800) - 2024/06/26 23:03:32 UTC [2024/06/26 19:03:32 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: C0rpsbal (49268 in chips) 
+Seat 3: jerdno0 (44568 in chips) 
+Seat 4: Lecher1991 (60056 in chips) 
+Seat 5: Everbrun11 (90208 in chips) 
+Seat 6: viniperri (67901 in chips) 
+C0rpsbal: posts the ante 700
+jerdno0: posts the ante 700
+Lecher1991: posts the ante 700
+Everbrun11: posts the ante 700
+viniperri: posts the ante 700
+jerdno0: posts small blind 1400
+Lecher1991: posts big blind 2800
+*** HOLE CARDS ***
+Everbrun11: folds 
+viniperri: folds 
+C0rpsbal: folds 
+jerdno0: folds 
+Uncalled bet (1400) returned to Lecher1991
+Lecher1991 collected 6300 from pot
+*** SUMMARY ***
+Total pot 6300 | Rake 0 
+Seat 1: C0rpsbal (button) folded before Flop (didn't bet)
+Seat 3: jerdno0 (small blind) folded before Flop
+Seat 4: Lecher1991 (big blind) collected (6300)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: viniperri folded before Flop (didn't bet)
+
+PokerStars Hand #251210005825: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIX (1400/2800) - 2024/06/26 23:04:08 UTC [2024/06/26 19:04:08 ET]
+Table '3769361908 4' 6-max Seat #3 is the button
+Seat 1: C0rpsbal (48568 in chips) 
+Seat 3: jerdno0 (42468 in chips) 
+Seat 4: Lecher1991 (64256 in chips) 
+Seat 5: Everbrun11 (89508 in chips) 
+Seat 6: viniperri (67201 in chips) 
+C0rpsbal: posts the ante 700
+jerdno0: posts the ante 700
+Lecher1991: posts the ante 700
+Everbrun11: posts the ante 700
+viniperri: posts the ante 700
+Lecher1991: posts small blind 1400
+Everbrun11: posts big blind 2800
+*** HOLE CARDS ***
+viniperri: folds 
+C0rpsbal: folds 
+jerdno0: folds 
+Chuckster388 is disconnected 
+Lecher1991: folds 
+Uncalled bet (1400) returned to Everbrun11
+Everbrun11 collected 6300 from pot
+Everbrun11: doesn't show hand 
+*** SUMMARY ***
+Total pot 6300 | Rake 0 
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 3: jerdno0 (button) folded before Flop (didn't bet)
+Seat 4: Lecher1991 (small blind) folded before Flop
+Seat 5: Everbrun11 (big blind) collected (6300)
+Seat 6: viniperri folded before Flop (didn't bet)
+
+PokerStars Hand #251210010407: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIX (1400/2800) - 2024/06/26 23:04:27 UTC [2024/06/26 19:04:27 ET]
+Table '3769361908 4' 6-max Seat #4 is the button
+Seat 1: C0rpsbal (47868 in chips) 
+Seat 2: Chuckster388 (58880 in chips) 
+Seat 3: jerdno0 (41768 in chips) 
+Seat 4: Lecher1991 (62156 in chips) 
+Seat 5: Everbrun11 (93708 in chips) 
+Seat 6: viniperri (66501 in chips) 
+C0rpsbal: posts the ante 700
+Chuckster388: posts the ante 700
+jerdno0: posts the ante 700
+Lecher1991: posts the ante 700
+Everbrun11: posts the ante 700
+viniperri: posts the ante 700
+Everbrun11: posts small blind 1400
+viniperri: posts big blind 2800
+*** HOLE CARDS ***
+C0rpsbal: folds 
+Chuckster388: folds 
+jerdno0: folds 
+Lecher1991: folds 
+Everbrun11: calls 1400
+viniperri: checks 
+*** FLOP *** [4h Jh 3s]
+Everbrun11: bets 2800
+viniperri: calls 2800
+*** TURN *** [4h Jh 3s] [4d]
+Everbrun11: checks 
+viniperri: bets 9800
+Everbrun11: calls 9800
+*** RIVER *** [4h Jh 3s 4d] [9d]
+Everbrun11: checks 
+viniperri: bets 42000
+Everbrun11: folds 
+Uncalled bet (42000) returned to viniperri
+viniperri collected 35000 from pot
+viniperri: doesn't show hand 
+*** SUMMARY ***
+Total pot 35000 | Rake 0 
+Board [4h Jh 3s 4d 9d]
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Chuckster388 folded before Flop (didn't bet)
+Seat 3: jerdno0 folded before Flop (didn't bet)
+Seat 4: Lecher1991 (button) folded before Flop (didn't bet)
+Seat 5: Everbrun11 (small blind) folded on the River
+Seat 6: viniperri (big blind) collected (35000)
+
+PokerStars Hand #251210037661: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XX (1600/3200) - 2024/06/26 23:06:26 UTC [2024/06/26 19:06:26 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: C0rpsbal (47168 in chips) 
+Seat 2: Chuckster388 (58180 in chips) 
+Seat 3: jerdno0 (41068 in chips) 
+Seat 4: Lecher1991 (61456 in chips) 
+Seat 5: Everbrun11 (77608 in chips) 
+Seat 6: viniperri (85401 in chips) 
+C0rpsbal: posts the ante 800
+Chuckster388: posts the ante 800
+jerdno0: posts the ante 800
+Lecher1991: posts the ante 800
+Everbrun11: posts the ante 800
+viniperri: posts the ante 800
+viniperri: posts small blind 1600
+C0rpsbal: posts big blind 3200
+*** HOLE CARDS ***
+Chuckster388: folds 
+jerdno0: calls 3200
+Lecher1991: folds 
+Everbrun11: folds 
+viniperri: calls 1600
+C0rpsbal: checks 
+*** FLOP *** [2s 7h 3h]
+viniperri: checks 
+C0rpsbal: checks 
+jerdno0: bets 4000
+viniperri: calls 4000
+C0rpsbal: folds 
+*** TURN *** [2s 7h 3h] [2d]
+viniperri: checks 
+jerdno0: bets 8000
+viniperri: folds 
+Uncalled bet (8000) returned to jerdno0
+jerdno0 collected 22400 from pot
+*** SUMMARY ***
+Total pot 22400 | Rake 0 
+Board [2s 7h 3h 2d]
+Seat 1: C0rpsbal (big blind) folded on the Flop
+Seat 2: Chuckster388 folded before Flop (didn't bet)
+Seat 3: jerdno0 collected (22400)
+Seat 4: Lecher1991 folded before Flop (didn't bet)
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+Seat 6: viniperri (small blind) folded on the Turn
+
+PokerStars Hand #251210059333: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XX (1600/3200) - 2024/06/26 23:08:01 UTC [2024/06/26 19:08:01 ET]
+Table '3769361908 4' 6-max Seat #6 is the button
+Seat 1: C0rpsbal (43168 in chips) 
+Seat 2: Chuckster388 (57380 in chips) 
+Seat 3: jerdno0 (55468 in chips) 
+Seat 4: Lecher1991 (60656 in chips) 
+Seat 5: Everbrun11 (76808 in chips) 
+Seat 6: viniperri (77401 in chips) 
+C0rpsbal: posts the ante 800
+Chuckster388: posts the ante 800
+jerdno0: posts the ante 800
+Lecher1991: posts the ante 800
+Everbrun11: posts the ante 800
+viniperri: posts the ante 800
+C0rpsbal: posts small blind 1600
+Chuckster388: posts big blind 3200
+*** HOLE CARDS ***
+jerdno0: folds 
+Lecher1991: folds 
+Everbrun11: folds 
+viniperri: raises 3200 to 6400
+C0rpsbal: folds 
+Chuckster388: folds 
+Uncalled bet (3200) returned to viniperri
+viniperri collected 12800 from pot
+viniperri: doesn't show hand 
+*** SUMMARY ***
+Total pot 12800 | Rake 0 
+Seat 1: C0rpsbal (small blind) folded before Flop
+Seat 2: Chuckster388 (big blind) folded before Flop
+Seat 3: jerdno0 folded before Flop (didn't bet)
+Seat 4: Lecher1991 folded before Flop (didn't bet)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: viniperri (button) collected (12800)
+
+PokerStars Hand #251210065769: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXI (1800/3600) - 2024/06/26 23:08:30 UTC [2024/06/26 19:08:30 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: C0rpsbal (40768 in chips) 
+Seat 2: Chuckster388 (53380 in chips) 
+Seat 3: jerdno0 (54668 in chips) 
+Seat 4: Lecher1991 (59856 in chips) 
+Seat 5: Everbrun11 (76008 in chips) 
+Seat 6: viniperri (86201 in chips) 
+C0rpsbal: posts the ante 900
+Chuckster388: posts the ante 900
+jerdno0: posts the ante 900
+Lecher1991: posts the ante 900
+Everbrun11: posts the ante 900
+viniperri: posts the ante 900
+Chuckster388: posts small blind 1800
+jerdno0: posts big blind 3600
+*** HOLE CARDS ***
+Lecher1991: folds 
+Everbrun11: folds 
+viniperri: folds 
+C0rpsbal: folds 
+Chuckster388: folds 
+Uncalled bet (1800) returned to jerdno0
+jerdno0 collected 9000 from pot
+*** SUMMARY ***
+Total pot 9000 | Rake 0 
+Seat 1: C0rpsbal (button) folded before Flop (didn't bet)
+Seat 2: Chuckster388 (small blind) folded before Flop
+Seat 3: jerdno0 (big blind) collected (9000)
+Seat 4: Lecher1991 folded before Flop (didn't bet)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: viniperri folded before Flop (didn't bet)
+
+PokerStars Hand #251210070463: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXI (1800/3600) - 2024/06/26 23:08:52 UTC [2024/06/26 19:08:52 ET]
+Table '3769361908 4' 6-max Seat #2 is the button
+Seat 1: C0rpsbal (39868 in chips) 
+Seat 2: Chuckster388 (50680 in chips) 
+Seat 3: jerdno0 (60968 in chips) 
+Seat 4: Lecher1991 (58956 in chips) 
+Seat 5: Everbrun11 (75108 in chips) 
+Seat 6: viniperri (85301 in chips) 
+C0rpsbal: posts the ante 900
+Chuckster388: posts the ante 900
+jerdno0: posts the ante 900
+Lecher1991: posts the ante 900
+Everbrun11: posts the ante 900
+viniperri: posts the ante 900
+jerdno0: posts small blind 1800
+Lecher1991: posts big blind 3600
+*** HOLE CARDS ***
+Everbrun11: folds 
+viniperri: raises 3600 to 7200
+C0rpsbal: folds 
+Chuckster388: folds 
+jerdno0: folds 
+Lecher1991: folds 
+Uncalled bet (3600) returned to viniperri
+viniperri collected 14400 from pot
+viniperri: doesn't show hand 
+*** SUMMARY ***
+Total pot 14400 | Rake 0 
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Chuckster388 (button) folded before Flop (didn't bet)
+Seat 3: jerdno0 (small blind) folded before Flop
+Seat 4: Lecher1991 (big blind) folded before Flop
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: viniperri collected (14400)
+
+PokerStars Hand #251210077169: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXI (1800/3600) - 2024/06/26 23:09:22 UTC [2024/06/26 19:09:22 ET]
+Table '3769361908 4' 6-max Seat #3 is the button
+Seat 1: C0rpsbal (38968 in chips) 
+Seat 2: Chuckster388 (49780 in chips) 
+Seat 3: jerdno0 (58268 in chips) 
+Seat 4: Lecher1991 (54456 in chips) 
+Seat 5: Everbrun11 (74208 in chips) 
+Seat 6: viniperri (95201 in chips) 
+C0rpsbal: posts the ante 900
+Chuckster388: posts the ante 900
+jerdno0: posts the ante 900
+Lecher1991: posts the ante 900
+Everbrun11: posts the ante 900
+viniperri: posts the ante 900
+Lecher1991: posts small blind 1800
+Everbrun11: posts big blind 3600
+*** HOLE CARDS ***
+viniperri: folds 
+C0rpsbal: folds 
+Chuckster388: folds 
+jerdno0: calls 3600
+Lecher1991: calls 1800
+Everbrun11: checks 
+*** FLOP *** [2h 6d 3c]
+Lecher1991: checks 
+Everbrun11: bets 5346
+jerdno0: folds 
+Lecher1991: folds 
+Uncalled bet (5346) returned to Everbrun11
+Everbrun11 collected 16200 from pot
+Everbrun11: doesn't show hand 
+*** SUMMARY ***
+Total pot 16200 | Rake 0 
+Board [2h 6d 3c]
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Chuckster388 folded before Flop (didn't bet)
+Seat 3: jerdno0 (button) folded on the Flop
+Seat 4: Lecher1991 (small blind) folded on the Flop
+Seat 5: Everbrun11 (big blind) collected (16200)
+Seat 6: viniperri folded before Flop (didn't bet)
+
+PokerStars Hand #251210090872: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXI (1800/3600) - 2024/06/26 23:10:24 UTC [2024/06/26 19:10:24 ET]
+Table '3769361908 4' 6-max Seat #4 is the button
+Seat 1: C0rpsbal (38068 in chips) 
+Seat 2: Chuckster388 (48880 in chips) 
+Seat 3: jerdno0 (53768 in chips) 
+Seat 4: Lecher1991 (49956 in chips) 
+Seat 5: Everbrun11 (85908 in chips) 
+Seat 6: viniperri (94301 in chips) 
+C0rpsbal: posts the ante 900
+Chuckster388: posts the ante 900
+jerdno0: posts the ante 900
+Lecher1991: posts the ante 900
+Everbrun11: posts the ante 900
+viniperri: posts the ante 900
+Everbrun11: posts small blind 1800
+viniperri: posts big blind 3600
+*** HOLE CARDS ***
+C0rpsbal: folds 
+Chuckster388: folds 
+jerdno0: calls 3600
+Lecher1991: folds 
+Everbrun11: calls 1800
+viniperri: checks 
+*** FLOP *** [Qs 2h 6s]
+Everbrun11: checks 
+viniperri: checks 
+jerdno0: bets 8100
+Everbrun11: folds 
+viniperri: folds 
+Uncalled bet (8100) returned to jerdno0
+jerdno0 collected 16200 from pot
+*** SUMMARY ***
+Total pot 16200 | Rake 0 
+Board [Qs 2h 6s]
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Chuckster388 folded before Flop (didn't bet)
+Seat 3: jerdno0 collected (16200)
+Seat 4: Lecher1991 (button) folded before Flop (didn't bet)
+Seat 5: Everbrun11 (small blind) folded on the Flop
+Seat 6: viniperri (big blind) folded on the Flop
+
+PokerStars Hand #251210105836: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXII (2000/4000) - 2024/06/26 23:11:32 UTC [2024/06/26 19:11:32 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: C0rpsbal (37168 in chips) 
+Seat 2: Chuckster388 (47980 in chips) 
+Seat 3: jerdno0 (65468 in chips) 
+Seat 4: Lecher1991 (49056 in chips) 
+Seat 5: Everbrun11 (81408 in chips) 
+Seat 6: viniperri (89801 in chips) 
+C0rpsbal: posts the ante 1000
+Chuckster388: posts the ante 1000
+jerdno0: posts the ante 1000
+Lecher1991: posts the ante 1000
+Everbrun11: posts the ante 1000
+viniperri: posts the ante 1000
+viniperri: posts small blind 2000
+C0rpsbal: posts big blind 4000
+*** HOLE CARDS ***
+Chuckster388: folds 
+jerdno0: folds 
+Lecher1991: folds 
+Everbrun11: folds 
+viniperri: raises 84801 to 88801 and is all-in
+C0rpsbal: folds 
+Uncalled bet (84801) returned to viniperri
+viniperri collected 14000 from pot
+viniperri: doesn't show hand 
+*** SUMMARY ***
+Total pot 14000 | Rake 0 
+Seat 1: C0rpsbal (big blind) folded before Flop
+Seat 2: Chuckster388 folded before Flop (didn't bet)
+Seat 3: jerdno0 folded before Flop (didn't bet)
+Seat 4: Lecher1991 folded before Flop (didn't bet)
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+Seat 6: viniperri (small blind) collected (14000)
+
+PokerStars Hand #251210113056: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXII (2000/4000) - 2024/06/26 23:12:06 UTC [2024/06/26 19:12:06 ET]
+Table '3769361908 4' 6-max Seat #6 is the button
+Seat 1: C0rpsbal (32168 in chips) 
+Seat 2: Chuckster388 (46980 in chips) 
+Seat 3: jerdno0 (64468 in chips) 
+Seat 4: Lecher1991 (48056 in chips) 
+Seat 5: Everbrun11 (80408 in chips) 
+Seat 6: viniperri (98801 in chips) 
+C0rpsbal: posts the ante 1000
+Chuckster388: posts the ante 1000
+jerdno0: posts the ante 1000
+Lecher1991: posts the ante 1000
+Everbrun11: posts the ante 1000
+viniperri: posts the ante 1000
+C0rpsbal: posts small blind 2000
+Chuckster388: posts big blind 4000
+*** HOLE CARDS ***
+jerdno0: folds 
+Lecher1991: folds 
+Everbrun11: raises 4000 to 8000
+viniperri: folds 
+C0rpsbal: folds 
+Chuckster388: calls 4000
+*** FLOP *** [2c Kd 9s]
+Chuckster388: checks 
+Everbrun11: bets 6000
+Chuckster388: calls 6000
+*** TURN *** [2c Kd 9s] [5s]
+Chuckster388: checks 
+Everbrun11: bets 12000
+Chuckster388: folds 
+Uncalled bet (12000) returned to Everbrun11
+Everbrun11 collected 36000 from pot
+Everbrun11: doesn't show hand 
+*** SUMMARY ***
+Total pot 36000 | Rake 0 
+Board [2c Kd 9s 5s]
+Seat 1: C0rpsbal (small blind) folded before Flop
+Seat 2: Chuckster388 (big blind) folded on the Turn
+Seat 3: jerdno0 folded before Flop (didn't bet)
+Seat 4: Lecher1991 folded before Flop (didn't bet)
+Seat 5: Everbrun11 collected (36000)
+Seat 6: viniperri (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251210129602: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXII (2000/4000) - 2024/06/26 23:13:22 UTC [2024/06/26 19:13:22 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: C0rpsbal (29168 in chips) 
+Seat 2: Chuckster388 (31980 in chips) 
+Seat 3: jerdno0 (63468 in chips) 
+Seat 4: Lecher1991 (47056 in chips) 
+Seat 5: Everbrun11 (101408 in chips) 
+Seat 6: viniperri (97801 in chips) 
+C0rpsbal: posts the ante 1000
+Chuckster388: posts the ante 1000
+jerdno0: posts the ante 1000
+Lecher1991: posts the ante 1000
+Everbrun11: posts the ante 1000
+viniperri: posts the ante 1000
+Chuckster388: posts small blind 2000
+jerdno0: posts big blind 4000
+*** HOLE CARDS ***
+Lecher1991: folds 
+Everbrun11: folds 
+viniperri: raises 4000 to 8000
+C0rpsbal: folds 
+Chuckster388: raises 22980 to 30980 and is all-in
+jerdno0: folds 
+viniperri: calls 22980
+*** FLOP *** [Jc 3h 8d]
+*** TURN *** [Jc 3h 8d] [Tc]
+*** RIVER *** [Jc 3h 8d Tc] [Ks]
+*** SHOW DOWN ***
+Chuckster388: shows [5c Ac] (high card Ace)
+viniperri: shows [6h Ad] (high card Ace)
+Chuckster388 collected 35980 from pot
+viniperri collected 35980 from pot
+*** SUMMARY ***
+Total pot 71960 | Rake 0 
+Board [Jc 3h 8d Tc Ks]
+Seat 1: C0rpsbal (button) folded before Flop (didn't bet)
+Seat 2: Chuckster388 (small blind) showed [5c Ac] and won (35980) with high card Ace
+Seat 3: jerdno0 (big blind) folded before Flop
+Seat 4: Lecher1991 folded before Flop (didn't bet)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: viniperri showed [6h Ad] and won (35980) with high card Ace
+
+PokerStars Hand #251210139144: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXII (2000/4000) - 2024/06/26 23:14:07 UTC [2024/06/26 19:14:07 ET]
+Table '3769361908 4' 6-max Seat #2 is the button
+Seat 1: C0rpsbal (28168 in chips) 
+Seat 2: Chuckster388 (35980 in chips) 
+Seat 3: jerdno0 (58468 in chips) 
+Seat 4: Lecher1991 (46056 in chips) 
+Seat 5: Everbrun11 (100408 in chips) 
+Seat 6: viniperri (101801 in chips) 
+C0rpsbal: posts the ante 1000
+Chuckster388: posts the ante 1000
+jerdno0: posts the ante 1000
+Lecher1991: posts the ante 1000
+Everbrun11: posts the ante 1000
+viniperri: posts the ante 1000
+jerdno0: posts small blind 2000
+Lecher1991: posts big blind 4000
+*** HOLE CARDS ***
+Everbrun11: folds 
+viniperri: folds 
+C0rpsbal: folds 
+Chuckster388: folds 
+jerdno0: folds 
+Uncalled bet (2000) returned to Lecher1991
+Lecher1991 collected 10000 from pot
+*** SUMMARY ***
+Total pot 10000 | Rake 0 
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Chuckster388 (button) folded before Flop (didn't bet)
+Seat 3: jerdno0 (small blind) folded before Flop
+Seat 4: Lecher1991 (big blind) collected (10000)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: viniperri folded before Flop (didn't bet)
+
+PokerStars Hand #251210143376: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXIII (2500/5000) - 2024/06/26 23:14:26 UTC [2024/06/26 19:14:26 ET]
+Table '3769361908 4' 6-max Seat #3 is the button
+Seat 1: C0rpsbal (27168 in chips) 
+Seat 2: Chuckster388 (34980 in chips) 
+Seat 3: jerdno0 (55468 in chips) 
+Seat 4: Lecher1991 (53056 in chips) 
+Seat 5: Everbrun11 (99408 in chips) 
+Seat 6: viniperri (100801 in chips) 
+C0rpsbal: posts the ante 1250
+Chuckster388: posts the ante 1250
+jerdno0: posts the ante 1250
+Lecher1991: posts the ante 1250
+Everbrun11: posts the ante 1250
+viniperri: posts the ante 1250
+Lecher1991: posts small blind 2500
+Everbrun11: posts big blind 5000
+*** HOLE CARDS ***
+viniperri: raises 5000 to 10000
+C0rpsbal: folds 
+Chuckster388: folds 
+jerdno0: folds 
+Lecher1991: folds 
+Everbrun11: calls 5000
+*** FLOP *** [Qs Jh Ks]
+Everbrun11: checks 
+viniperri: bets 7500
+Everbrun11: calls 7500
+*** TURN *** [Qs Jh Ks] [7d]
+Everbrun11: checks 
+viniperri: checks 
+*** RIVER *** [Qs Jh Ks 7d] [4d]
+Everbrun11: bets 15000
+viniperri: calls 15000
+*** SHOW DOWN ***
+Everbrun11: shows [Ts Ah] (a straight, Ten to Ace)
+viniperri: mucks hand 
+Everbrun11 collected 75000 from pot
+*** SUMMARY ***
+Total pot 75000 | Rake 0 
+Board [Qs Jh Ks 7d 4d]
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Chuckster388 folded before Flop (didn't bet)
+Seat 3: jerdno0 (button) folded before Flop (didn't bet)
+Seat 4: Lecher1991 (small blind) folded before Flop
+Seat 5: Everbrun11 (big blind) showed [Ts Ah] and won (75000) with a straight, Ten to Ace
+Seat 6: viniperri mucked
+
+PokerStars Hand #251210158020: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXIII (2500/5000) - 2024/06/26 23:15:35 UTC [2024/06/26 19:15:35 ET]
+Table '3769361908 4' 6-max Seat #4 is the button
+Seat 1: C0rpsbal (25918 in chips) 
+Seat 2: Chuckster388 (33730 in chips) 
+Seat 3: jerdno0 (54218 in chips) 
+Seat 4: Lecher1991 (49306 in chips) 
+Seat 5: Everbrun11 (140658 in chips) 
+Seat 6: viniperri (67051 in chips) 
+C0rpsbal: posts the ante 1250
+Chuckster388: posts the ante 1250
+jerdno0: posts the ante 1250
+Lecher1991: posts the ante 1250
+Everbrun11: posts the ante 1250
+viniperri: posts the ante 1250
+Everbrun11: posts small blind 2500
+viniperri: posts big blind 5000
+*** HOLE CARDS ***
+C0rpsbal: folds 
+Chuckster388: raises 27480 to 32480 and is all-in
+jerdno0: folds 
+Lecher1991: folds 
+Everbrun11: folds 
+viniperri: calls 27480
+*** FLOP *** [Qc 3c 3s]
+*** TURN *** [Qc 3c 3s] [7s]
+*** RIVER *** [Qc 3c 3s 7s] [9h]
+*** SHOW DOWN ***
+viniperri: shows [Ad 4h] (a pair of Threes)
+Chuckster388: shows [2c 2s] (two pair, Threes and Deuces)
+Chuckster388 collected 74960 from pot
+*** SUMMARY ***
+Total pot 74960 | Rake 0 
+Board [Qc 3c 3s 7s 9h]
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Chuckster388 showed [2c 2s] and won (74960) with two pair, Threes and Deuces
+Seat 3: jerdno0 folded before Flop (didn't bet)
+Seat 4: Lecher1991 (button) folded before Flop (didn't bet)
+Seat 5: Everbrun11 (small blind) folded before Flop
+Seat 6: viniperri (big blind) showed [Ad 4h] and lost with a pair of Threes
+
+PokerStars Hand #251210166273: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXIII (2500/5000) - 2024/06/26 23:16:13 UTC [2024/06/26 19:16:13 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: C0rpsbal (24668 in chips) 
+Seat 2: Chuckster388 (74960 in chips) 
+Seat 3: jerdno0 (52968 in chips) 
+Seat 4: Lecher1991 (48056 in chips) 
+Seat 5: Everbrun11 (136908 in chips) 
+Seat 6: viniperri (33321 in chips) 
+C0rpsbal: posts the ante 1250
+Chuckster388: posts the ante 1250
+jerdno0: posts the ante 1250
+Lecher1991: posts the ante 1250
+Everbrun11: posts the ante 1250
+viniperri: posts the ante 1250
+viniperri: posts small blind 2500
+C0rpsbal: posts big blind 5000
+*** HOLE CARDS ***
+Chuckster388: folds 
+jerdno0: folds 
+Lecher1991: folds 
+Everbrun11: raises 130658 to 135658 and is all-in
+viniperri: folds 
+C0rpsbal: folds 
+Uncalled bet (130658) returned to Everbrun11
+Everbrun11 collected 20000 from pot
+Everbrun11: doesn't show hand 
+*** SUMMARY ***
+Total pot 20000 | Rake 0 
+Seat 1: C0rpsbal (big blind) folded before Flop
+Seat 2: Chuckster388 folded before Flop (didn't bet)
+Seat 3: jerdno0 folded before Flop (didn't bet)
+Seat 4: Lecher1991 folded before Flop (didn't bet)
+Seat 5: Everbrun11 (button) collected (20000)
+Seat 6: viniperri (small blind) folded before Flop
+
+PokerStars Hand #251210173976: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXIII (2500/5000) - 2024/06/26 23:16:49 UTC [2024/06/26 19:16:49 ET]
+Table '3769361908 4' 6-max Seat #6 is the button
+Seat 1: C0rpsbal (18418 in chips) 
+Seat 2: Chuckster388 (73710 in chips) 
+Seat 3: jerdno0 (51718 in chips) 
+Seat 4: Lecher1991 (46806 in chips) 
+Seat 5: Everbrun11 (150658 in chips) 
+Seat 6: viniperri (29571 in chips) 
+C0rpsbal: posts the ante 1250
+Chuckster388: posts the ante 1250
+jerdno0: posts the ante 1250
+Lecher1991: posts the ante 1250
+Everbrun11: posts the ante 1250
+viniperri: posts the ante 1250
+C0rpsbal: posts small blind 2500
+Chuckster388: posts big blind 5000
+*** HOLE CARDS ***
+jerdno0: folds 
+Lecher1991: folds 
+Everbrun11: folds 
+viniperri: raises 23321 to 28321 and is all-in
+C0rpsbal: calls 14668 and is all-in
+Chuckster388: folds 
+Uncalled bet (11153) returned to viniperri
+*** FLOP *** [Ad Jd 2h]
+*** TURN *** [Ad Jd 2h] [8h]
+*** RIVER *** [Ad Jd 2h 8h] [3d]
+*** SHOW DOWN ***
+C0rpsbal: shows [Kc 9s] (high card Ace)
+viniperri: shows [Qs 6d] (high card Ace - lower kicker)
+C0rpsbal collected 46836 from pot
+*** SUMMARY ***
+Total pot 46836 | Rake 0 
+Board [Ad Jd 2h 8h 3d]
+Seat 1: C0rpsbal (small blind) showed [Kc 9s] and won (46836) with high card Ace
+Seat 2: Chuckster388 (big blind) folded before Flop
+Seat 3: jerdno0 folded before Flop (didn't bet)
+Seat 4: Lecher1991 folded before Flop (didn't bet)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: viniperri (button) showed [Qs 6d] and lost with high card Ace
+
+PokerStars Hand #251210181535: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXIV (3000/6000) - 2024/06/26 23:17:24 UTC [2024/06/26 19:17:24 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: C0rpsbal (46836 in chips) 
+Seat 2: Chuckster388 (67460 in chips) 
+Seat 3: jerdno0 (50468 in chips) 
+Seat 4: Lecher1991 (45556 in chips) 
+Seat 5: Everbrun11 (149408 in chips) 
+Seat 6: viniperri (11153 in chips) 
+C0rpsbal: posts the ante 1500
+Chuckster388: posts the ante 1500
+jerdno0: posts the ante 1500
+Lecher1991: posts the ante 1500
+Everbrun11: posts the ante 1500
+viniperri: posts the ante 1500
+Chuckster388: posts small blind 3000
+jerdno0: posts big blind 6000
+*** HOLE CARDS ***
+Lecher1991: folds 
+Everbrun11: folds 
+viniperri: folds 
+C0rpsbal: folds 
+Chuckster388: calls 3000
+jerdno0: checks 
+*** FLOP *** [3d 4c 8c]
+Chuckster388: bets 59960 and is all-in
+jerdno0: folds 
+Uncalled bet (59960) returned to Chuckster388
+Chuckster388 collected 21000 from pot
+Chuckster388: doesn't show hand 
+*** SUMMARY ***
+Total pot 21000 | Rake 0 
+Board [3d 4c 8c]
+Seat 1: C0rpsbal (button) folded before Flop (didn't bet)
+Seat 2: Chuckster388 (small blind) collected (21000)
+Seat 3: jerdno0 (big blind) folded on the Flop
+Seat 4: Lecher1991 folded before Flop (didn't bet)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: viniperri folded before Flop (didn't bet)
+
+PokerStars Hand #251210189440: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXIV (3000/6000) - 2024/06/26 23:18:02 UTC [2024/06/26 19:18:02 ET]
+Table '3769361908 4' 6-max Seat #2 is the button
+Seat 1: C0rpsbal (45336 in chips) 
+Seat 2: Chuckster388 (80960 in chips) 
+Seat 3: jerdno0 (42968 in chips) 
+Seat 4: Lecher1991 (44056 in chips) 
+Seat 5: Everbrun11 (147908 in chips) 
+Seat 6: viniperri (9653 in chips) 
+C0rpsbal: posts the ante 1500
+Chuckster388: posts the ante 1500
+jerdno0: posts the ante 1500
+Lecher1991: posts the ante 1500
+Everbrun11: posts the ante 1500
+viniperri: posts the ante 1500
+jerdno0: posts small blind 3000
+Lecher1991: posts big blind 6000
+*** HOLE CARDS ***
+Everbrun11: folds 
+viniperri: folds 
+C0rpsbal: folds 
+Chuckster388: folds 
+jerdno0: calls 3000
+Lecher1991: raises 36556 to 42556 and is all-in
+jerdno0: calls 35468 and is all-in
+Uncalled bet (1088) returned to Lecher1991
+*** FLOP *** [5d Jd 9h]
+*** TURN *** [5d Jd 9h] [4c]
+*** RIVER *** [5d Jd 9h 4c] [Qh]
+*** SHOW DOWN ***
+jerdno0: shows [Kc Js] (a pair of Jacks)
+Lecher1991: shows [7d 8c] (high card Queen)
+jerdno0 collected 91936 from pot
+*** SUMMARY ***
+Total pot 91936 | Rake 0 
+Board [5d Jd 9h 4c Qh]
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Chuckster388 (button) folded before Flop (didn't bet)
+Seat 3: jerdno0 (small blind) showed [Kc Js] and won (91936) with a pair of Jacks
+Seat 4: Lecher1991 (big blind) showed [7d 8c] and lost with high card Queen
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: viniperri folded before Flop (didn't bet)
+
+PokerStars Hand #251210198526: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXIV (3000/6000) - 2024/06/26 23:18:45 UTC [2024/06/26 19:18:45 ET]
+Table '3769361908 4' 6-max Seat #3 is the button
+Seat 1: C0rpsbal (43836 in chips) 
+Seat 2: Chuckster388 (79460 in chips) 
+Seat 3: jerdno0 (91936 in chips) 
+Seat 4: Lecher1991 (1088 in chips) 
+Seat 5: Everbrun11 (146408 in chips) 
+Seat 6: viniperri (8153 in chips) 
+C0rpsbal: posts the ante 1500
+Chuckster388: posts the ante 1500
+jerdno0: posts the ante 1500
+Lecher1991: posts the ante 1088 and is all-in
+Everbrun11: posts the ante 1500
+viniperri: posts the ante 1500
+Everbrun11: posts big blind 6000
+*** HOLE CARDS ***
+viniperri: raises 653 to 6653 and is all-in
+C0rpsbal: folds 
+Chuckster388: folds 
+jerdno0: folds 
+Everbrun11: calls 653
+*** FLOP *** [Kc 8d Jh]
+*** TURN *** [Kc 8d Jh] [Qd]
+*** RIVER *** [Kc 8d Jh Qd] [Ac]
+*** SHOW DOWN ***
+Everbrun11: shows [7s Th] (a straight, Ten to Ace)
+viniperri: shows [5s Kh] (a pair of Kings)
+Everbrun11 collected 15366 from side pot
+Lecher1991: shows [9h 3s] (high card Ace)
+Everbrun11 collected 6528 from main pot
+viniperri finished the tournament in 38th place and received $111.65.
+Lecher1991 finished the tournament in 39th place and received $111.65.
+*** SUMMARY ***
+Total pot 21894 Main pot 6528. Side pot 15366. | Rake 0 
+Board [Kc 8d Jh Qd Ac]
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Chuckster388 folded before Flop (didn't bet)
+Seat 3: jerdno0 (button) folded before Flop (didn't bet)
+Seat 4: Lecher1991 showed [9h 3s] and lost with high card Ace
+Seat 5: Everbrun11 (big blind) showed [7s Th] and won (21894) with a straight, Ten to Ace
+Seat 6: viniperri showed [5s Kh] and lost with a pair of Kings
+
+PokerStars Hand #251210203595: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXIV (3000/6000) - 2024/06/26 23:19:09 UTC [2024/06/26 19:19:09 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: C0rpsbal (42336 in chips) 
+Seat 2: Chuckster388 (77960 in chips) 
+Seat 3: jerdno0 (90436 in chips) 
+Seat 5: Everbrun11 (160149 in chips) 
+C0rpsbal: posts the ante 1500
+Chuckster388: posts the ante 1500
+jerdno0: posts the ante 1500
+Everbrun11: posts the ante 1500
+C0rpsbal: posts small blind 3000
+Chuckster388: posts big blind 6000
+*** HOLE CARDS ***
+jerdno0: calls 6000
+Everbrun11: folds 
+C0rpsbal: folds 
+Chuckster388: checks 
+*** FLOP *** [3d 7s Ah]
+Pseudo Fruto is disconnected 
+Acai Brend is disconnected 
+Chuckster388: checks 
+jerdno0: bets 10500
+Chuckster388: folds 
+Uncalled bet (10500) returned to jerdno0
+jerdno0 collected 21000 from pot
+*** SUMMARY ***
+Total pot 21000 | Rake 0 
+Board [3d 7s Ah]
+Seat 1: C0rpsbal (small blind) folded before Flop
+Seat 2: Chuckster388 (big blind) folded on the Flop
+Seat 3: jerdno0 collected (21000)
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251210210677: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXIV (3000/6000) - 2024/06/26 23:19:43 UTC [2024/06/26 19:19:43 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: C0rpsbal (37836 in chips) 
+Seat 2: Chuckster388 (70460 in chips) 
+Seat 3: jerdno0 (103936 in chips) 
+Seat 4: Pseudo Fruto (106930 in chips) 
+Seat 5: Everbrun11 (158649 in chips) 
+Seat 6: Acai Brend (29566 in chips) 
+C0rpsbal: posts the ante 1500
+Chuckster388: posts the ante 1500
+jerdno0: posts the ante 1500
+Pseudo Fruto: posts the ante 1500
+Everbrun11: posts the ante 1500
+Acai Brend: posts the ante 1500
+Chuckster388: posts small blind 3000
+jerdno0: posts big blind 6000
+*** HOLE CARDS ***
+Pseudo Fruto: folds 
+Everbrun11: folds 
+Acai Brend: raises 22066 to 28066 and is all-in
+C0rpsbal: raises 8270 to 36336 and is all-in
+Chuckster388: folds 
+jerdno0: folds 
+Uncalled bet (8270) returned to C0rpsbal
+*** FLOP *** [5h 6s 3h]
+*** TURN *** [5h 6s 3h] [Jd]
+*** RIVER *** [5h 6s 3h Jd] [6c]
+*** SHOW DOWN ***
+Acai Brend: shows [Th Kh] (a pair of Sixes)
+C0rpsbal: shows [7d As] (a pair of Sixes - Ace kicker)
+C0rpsbal collected 74132 from pot
+Acai Brend finished the tournament in 34th place and received $111.65.
+*** SUMMARY ***
+Total pot 74132 | Rake 0 
+Board [5h 6s 3h Jd 6c]
+Seat 1: C0rpsbal (button) showed [7d As] and won (74132) with a pair of Sixes
+Seat 2: Chuckster388 (small blind) folded before Flop
+Seat 3: jerdno0 (big blind) folded before Flop
+Seat 4: Pseudo Fruto folded before Flop (didn't bet)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: Acai Brend showed [Th Kh] and lost with a pair of Sixes
+
+PokerStars Hand #251210220025: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXV (3500/7000) - 2024/06/26 23:20:28 UTC [2024/06/26 19:20:28 ET]
+Table '3769361908 4' 6-max Seat #2 is the button
+Seat 1: C0rpsbal (82402 in chips) 
+Seat 2: Chuckster388 (65960 in chips) 
+Seat 3: jerdno0 (96436 in chips) 
+Seat 4: Pseudo Fruto (105430 in chips) 
+Seat 5: Everbrun11 (157149 in chips) 
+C0rpsbal: posts the ante 1750
+Chuckster388: posts the ante 1750
+jerdno0: posts the ante 1750
+Pseudo Fruto: posts the ante 1750
+Everbrun11: posts the ante 1750
+jerdno0: posts small blind 3500
+Pseudo Fruto: posts big blind 7000
+*** HOLE CARDS ***
+Everbrun11: folds 
+C0rpsbal: folds 
+Chuckster388: folds 
+jerdno0: calls 3500
+Pseudo Fruto: checks 
+*** FLOP *** [Ah Ad 9h]
+jerdno0: bets 7000
+Pseudo Fruto: folds 
+Uncalled bet (7000) returned to jerdno0
+jerdno0 collected 22750 from pot
+*** SUMMARY ***
+Total pot 22750 | Rake 0 
+Board [Ah Ad 9h]
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Chuckster388 (button) folded before Flop (didn't bet)
+Seat 3: jerdno0 (small blind) collected (22750)
+Seat 4: Pseudo Fruto (big blind) folded on the Flop
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+
+PokerStars Hand #251210231895: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXV (3500/7000) - 2024/06/26 23:21:25 UTC [2024/06/26 19:21:25 ET]
+Table '3769361908 4' 6-max Seat #3 is the button
+Seat 1: C0rpsbal (80652 in chips) 
+Seat 2: Chuckster388 (64210 in chips) 
+Seat 3: jerdno0 (110436 in chips) 
+Seat 4: Pseudo Fruto (96680 in chips) 
+Seat 5: Everbrun11 (155399 in chips) 
+Seat 6: VxVendetta00 (146970 in chips) 
+C0rpsbal: posts the ante 1750
+Chuckster388: posts the ante 1750
+jerdno0: posts the ante 1750
+Pseudo Fruto: posts the ante 1750
+Everbrun11: posts the ante 1750
+VxVendetta00: posts the ante 1750
+Pseudo Fruto: posts small blind 3500
+Everbrun11: posts big blind 7000
+*** HOLE CARDS ***
+VxVendetta00: folds 
+C0rpsbal: folds 
+Chuckster388: folds 
+jerdno0: calls 7000
+Pseudo Fruto: folds 
+Everbrun11: checks 
+*** FLOP *** [9s 5d 6c]
+Everbrun11: checks 
+jerdno0: bets 7000
+Everbrun11: calls 7000
+*** TURN *** [9s 5d 6c] [Kc]
+Everbrun11: checks 
+jerdno0: checks 
+*** RIVER *** [9s 5d 6c Kc] [Qd]
+Everbrun11: bets 13860
+jerdno0: folds 
+Uncalled bet (13860) returned to Everbrun11
+Everbrun11 collected 42000 from pot
+Everbrun11: doesn't show hand 
+*** SUMMARY ***
+Total pot 42000 | Rake 0 
+Board [9s 5d 6c Kc Qd]
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Chuckster388 folded before Flop (didn't bet)
+Seat 3: jerdno0 (button) folded on the River
+Seat 4: Pseudo Fruto (small blind) folded before Flop
+Seat 5: Everbrun11 (big blind) collected (42000)
+Seat 6: VxVendetta00 folded before Flop (didn't bet)
+
+PokerStars Hand #251210244527: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXV (3500/7000) - 2024/06/26 23:22:26 UTC [2024/06/26 19:22:26 ET]
+Table '3769361908 4' 6-max Seat #4 is the button
+Seat 1: C0rpsbal (78902 in chips) 
+Seat 2: Chuckster388 (62460 in chips) 
+Seat 3: jerdno0 (94686 in chips) 
+Seat 4: Pseudo Fruto (91430 in chips) 
+Seat 5: Everbrun11 (181649 in chips) 
+Seat 6: VxVendetta00 (145220 in chips) 
+C0rpsbal: posts the ante 1750
+Chuckster388: posts the ante 1750
+jerdno0: posts the ante 1750
+Pseudo Fruto: posts the ante 1750
+Everbrun11: posts the ante 1750
+VxVendetta00: posts the ante 1750
+Everbrun11: posts small blind 3500
+VxVendetta00: posts big blind 7000
+*** HOLE CARDS ***
+C0rpsbal: folds 
+Chuckster388: folds 
+jerdno0: folds 
+Pseudo Fruto: folds 
+Everbrun11: raises 17500 to 24500
+VxVendetta00: folds 
+Uncalled bet (17500) returned to Everbrun11
+Everbrun11 collected 24500 from pot
+Everbrun11: doesn't show hand 
+*** SUMMARY ***
+Total pot 24500 | Rake 0 
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Chuckster388 folded before Flop (didn't bet)
+Seat 3: jerdno0 folded before Flop (didn't bet)
+Seat 4: Pseudo Fruto (button) folded before Flop (didn't bet)
+Seat 5: Everbrun11 (small blind) collected (24500)
+Seat 6: VxVendetta00 (big blind) folded before Flop
+
+PokerStars Hand #251210250600: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXV (3500/7000) - 2024/06/26 23:22:55 UTC [2024/06/26 19:22:55 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: C0rpsbal (77152 in chips) 
+Seat 2: Chuckster388 (60710 in chips) 
+Seat 4: Pseudo Fruto (89680 in chips) 
+Seat 5: Everbrun11 (197399 in chips) 
+Seat 6: VxVendetta00 (136470 in chips) 
+C0rpsbal: posts the ante 1750
+Chuckster388: posts the ante 1750
+Pseudo Fruto: posts the ante 1750
+Everbrun11: posts the ante 1750
+VxVendetta00: posts the ante 1750
+VxVendetta00: posts small blind 3500
+C0rpsbal: posts big blind 7000
+*** HOLE CARDS ***
+Chuckster388: folds 
+Pseudo Fruto: raises 80930 to 87930 and is all-in
+Everbrun11: folds 
+VxVendetta00: folds 
+C0rpsbal: folds 
+Uncalled bet (80930) returned to Pseudo Fruto
+Pseudo Fruto collected 26250 from pot
+Pseudo Fruto: doesn't show hand 
+*** SUMMARY ***
+Total pot 26250 | Rake 0 
+Seat 1: C0rpsbal (big blind) folded before Flop
+Seat 2: Chuckster388 folded before Flop (didn't bet)
+Seat 4: Pseudo Fruto collected (26250)
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+Seat 6: VxVendetta00 (small blind) folded before Flop
+
+PokerStars Hand #251210254434: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXV (3500/7000) - 2024/06/26 23:23:14 UTC [2024/06/26 19:23:14 ET]
+Table '3769361908 4' 6-max Seat #6 is the button
+Seat 1: C0rpsbal (68402 in chips) 
+Seat 2: Chuckster388 (58960 in chips) 
+Seat 4: Pseudo Fruto (107180 in chips) 
+Seat 5: Everbrun11 (195649 in chips) 
+Seat 6: VxVendetta00 (131220 in chips) 
+C0rpsbal: posts the ante 1750
+Chuckster388: posts the ante 1750
+Pseudo Fruto: posts the ante 1750
+Everbrun11: posts the ante 1750
+VxVendetta00: posts the ante 1750
+C0rpsbal: posts small blind 3500
+Chuckster388: posts big blind 7000
+*** HOLE CARDS ***
+Pseudo Fruto: folds 
+Everbrun11: raises 7000 to 14000
+VxVendetta00: folds 
+C0rpsbal: folds 
+Chuckster388: folds 
+Uncalled bet (7000) returned to Everbrun11
+Everbrun11 collected 26250 from pot
+Everbrun11: doesn't show hand 
+*** SUMMARY ***
+Total pot 26250 | Rake 0 
+Seat 1: C0rpsbal (small blind) folded before Flop
+Seat 2: Chuckster388 (big blind) folded before Flop
+Seat 4: Pseudo Fruto folded before Flop (didn't bet)
+Seat 5: Everbrun11 collected (26250)
+Seat 6: VxVendetta00 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251210261229: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVI (4000/8000) - 2024/06/26 23:23:47 UTC [2024/06/26 19:23:47 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: C0rpsbal (63152 in chips) 
+Seat 2: Chuckster388 (50210 in chips) 
+Seat 4: Pseudo Fruto (105430 in chips) 
+Seat 5: Everbrun11 (213149 in chips) 
+Seat 6: VxVendetta00 (129470 in chips) 
+C0rpsbal: posts the ante 2000
+Chuckster388: posts the ante 2000
+Pseudo Fruto: posts the ante 2000
+Everbrun11: posts the ante 2000
+VxVendetta00: posts the ante 2000
+Chuckster388: posts small blind 4000
+Pseudo Fruto: posts big blind 8000
+*** HOLE CARDS ***
+Everbrun11: raises 8000 to 16000
+VxVendetta00: folds 
+C0rpsbal: folds 
+Chuckster388: folds 
+Pseudo Fruto: folds 
+Uncalled bet (8000) returned to Everbrun11
+Everbrun11 collected 30000 from pot
+Everbrun11: doesn't show hand 
+*** SUMMARY ***
+Total pot 30000 | Rake 0 
+Seat 1: C0rpsbal (button) folded before Flop (didn't bet)
+Seat 2: Chuckster388 (small blind) folded before Flop
+Seat 4: Pseudo Fruto (big blind) folded before Flop
+Seat 5: Everbrun11 collected (30000)
+Seat 6: VxVendetta00 folded before Flop (didn't bet)
+
+PokerStars Hand #251210265582: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVI (4000/8000) - 2024/06/26 23:24:08 UTC [2024/06/26 19:24:08 ET]
+Table '3769361908 4' 6-max Seat #2 is the button
+Seat 1: C0rpsbal (61152 in chips) 
+Seat 2: Chuckster388 (44210 in chips) 
+Seat 4: Pseudo Fruto (95430 in chips) 
+Seat 5: Everbrun11 (233149 in chips) 
+Seat 6: VxVendetta00 (127470 in chips) 
+C0rpsbal: posts the ante 2000
+Chuckster388: posts the ante 2000
+Pseudo Fruto: posts the ante 2000
+Everbrun11: posts the ante 2000
+VxVendetta00: posts the ante 2000
+Pseudo Fruto: posts small blind 4000
+Everbrun11: posts big blind 8000
+*** HOLE CARDS ***
+VxVendetta00: folds 
+C0rpsbal: folds 
+Chuckster388: folds 
+Pseudo Fruto: calls 4000
+Everbrun11: checks 
+*** FLOP *** [Kh 9s 4h]
+Pseudo Fruto: bets 8000
+Everbrun11: folds 
+Uncalled bet (8000) returned to Pseudo Fruto
+Pseudo Fruto collected 26000 from pot
+Pseudo Fruto: doesn't show hand 
+*** SUMMARY ***
+Total pot 26000 | Rake 0 
+Board [Kh 9s 4h]
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Chuckster388 (button) folded before Flop (didn't bet)
+Seat 4: Pseudo Fruto (small blind) collected (26000)
+Seat 5: Everbrun11 (big blind) folded on the Flop
+Seat 6: VxVendetta00 folded before Flop (didn't bet)
+
+PokerStars Hand #251210269356: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVI (4000/8000) - 2024/06/26 23:24:26 UTC [2024/06/26 19:24:26 ET]
+Table '3769361908 4' 6-max Seat #4 is the button
+Seat 1: C0rpsbal (59152 in chips) 
+Seat 2: Chuckster388 (42210 in chips) 
+Seat 4: Pseudo Fruto (111430 in chips) 
+Seat 5: Everbrun11 (223149 in chips) 
+Seat 6: VxVendetta00 (125470 in chips) 
+C0rpsbal: posts the ante 2000
+Chuckster388: posts the ante 2000
+Pseudo Fruto: posts the ante 2000
+Everbrun11: posts the ante 2000
+VxVendetta00: posts the ante 2000
+Everbrun11: posts small blind 4000
+VxVendetta00: posts big blind 8000
+*** HOLE CARDS ***
+C0rpsbal: folds 
+Chuckster388: folds 
+Pseudo Fruto: folds 
+Everbrun11: raises 16000 to 24000
+VxVendetta00: folds 
+Uncalled bet (16000) returned to Everbrun11
+Everbrun11 collected 26000 from pot
+Everbrun11: doesn't show hand 
+*** SUMMARY ***
+Total pot 26000 | Rake 0 
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Chuckster388 folded before Flop (didn't bet)
+Seat 4: Pseudo Fruto (button) folded before Flop (didn't bet)
+Seat 5: Everbrun11 (small blind) collected (26000)
+Seat 6: VxVendetta00 (big blind) folded before Flop
+
+PokerStars Hand #251210275101: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVI (4000/8000) - 2024/06/26 23:24:54 UTC [2024/06/26 19:24:54 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: C0rpsbal (57152 in chips) 
+Seat 2: Chuckster388 (40210 in chips) 
+Seat 4: Pseudo Fruto (109430 in chips) 
+Seat 5: Everbrun11 (239149 in chips) 
+Seat 6: VxVendetta00 (115470 in chips) 
+C0rpsbal: posts the ante 2000
+Chuckster388: posts the ante 2000
+Pseudo Fruto: posts the ante 2000
+Everbrun11: posts the ante 2000
+VxVendetta00: posts the ante 2000
+VxVendetta00: posts small blind 4000
+C0rpsbal: posts big blind 8000
+*** HOLE CARDS ***
+Chuckster388: folds 
+Pseudo Fruto: folds 
+Everbrun11: folds 
+VxVendetta00: folds 
+Uncalled bet (4000) returned to C0rpsbal
+C0rpsbal collected 18000 from pot
+C0rpsbal: doesn't show hand 
+*** SUMMARY ***
+Total pot 18000 | Rake 0 
+Seat 1: C0rpsbal (big blind) collected (18000)
+Seat 2: Chuckster388 folded before Flop (didn't bet)
+Seat 4: Pseudo Fruto folded before Flop (didn't bet)
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+Seat 6: VxVendetta00 (small blind) folded before Flop
+
+PokerStars Hand #251210278059: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVI (4000/8000) - 2024/06/26 23:25:09 UTC [2024/06/26 19:25:09 ET]
+Table '3769361908 4' 6-max Seat #6 is the button
+Seat 1: C0rpsbal (69152 in chips) 
+Seat 2: Chuckster388 (38210 in chips) 
+Seat 4: Pseudo Fruto (107430 in chips) 
+Seat 5: Everbrun11 (237149 in chips) 
+Seat 6: VxVendetta00 (109470 in chips) 
+C0rpsbal: posts the ante 2000
+Chuckster388: posts the ante 2000
+Pseudo Fruto: posts the ante 2000
+Everbrun11: posts the ante 2000
+VxVendetta00: posts the ante 2000
+C0rpsbal: posts small blind 4000
+Chuckster388: posts big blind 8000
+*** HOLE CARDS ***
+Pseudo Fruto: folds 
+Everbrun11: folds 
+VxVendetta00: folds 
+C0rpsbal: folds 
+Uncalled bet (4000) returned to Chuckster388
+Chuckster388 collected 18000 from pot
+Chuckster388: doesn't show hand 
+*** SUMMARY ***
+Total pot 18000 | Rake 0 
+Seat 1: C0rpsbal (small blind) folded before Flop
+Seat 2: Chuckster388 (big blind) collected (18000)
+Seat 4: Pseudo Fruto folded before Flop (didn't bet)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: VxVendetta00 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251210281026: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVI (4000/8000) - 2024/06/26 23:25:23 UTC [2024/06/26 19:25:23 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: C0rpsbal (63152 in chips) 
+Seat 2: Chuckster388 (50210 in chips) 
+Seat 4: Pseudo Fruto (105430 in chips) 
+Seat 5: Everbrun11 (235149 in chips) 
+Seat 6: VxVendetta00 (107470 in chips) 
+C0rpsbal: posts the ante 2000
+Chuckster388: posts the ante 2000
+Pseudo Fruto: posts the ante 2000
+Everbrun11: posts the ante 2000
+VxVendetta00: posts the ante 2000
+Chuckster388: posts small blind 4000
+Pseudo Fruto: posts big blind 8000
+*** HOLE CARDS ***
+Everbrun11: folds 
+VxVendetta00: folds 
+C0rpsbal: folds 
+Chuckster388: raises 40210 to 48210 and is all-in
+Pseudo Fruto: calls 40210
+*** FLOP *** [8s 7c Js]
+*** TURN *** [8s 7c Js] [Qc]
+*** RIVER *** [8s 7c Js Qc] [9s]
+*** SHOW DOWN ***
+Chuckster388: shows [5d Th] (a straight, Eight to Queen)
+Pseudo Fruto: shows [Ks 3h] (high card King)
+Chuckster388 collected 106420 from pot
+*** SUMMARY ***
+Total pot 106420 | Rake 0 
+Board [8s 7c Js Qc 9s]
+Seat 1: C0rpsbal (button) folded before Flop (didn't bet)
+Seat 2: Chuckster388 (small blind) showed [5d Th] and won (106420) with a straight, Eight to Queen
+Seat 4: Pseudo Fruto (big blind) showed [Ks 3h] and lost with high card King
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: VxVendetta00 folded before Flop (didn't bet)
+
+PokerStars Hand #251210285946: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVI (4000/8000) - 2024/06/26 23:25:47 UTC [2024/06/26 19:25:47 ET]
+Table '3769361908 4' 6-max Seat #2 is the button
+Seat 1: C0rpsbal (61152 in chips) 
+Seat 2: Chuckster388 (106420 in chips) 
+Seat 4: Pseudo Fruto (55220 in chips) 
+Seat 5: Everbrun11 (233149 in chips) 
+Seat 6: VxVendetta00 (105470 in chips) 
+C0rpsbal: posts the ante 2000
+Chuckster388: posts the ante 2000
+Pseudo Fruto: posts the ante 2000
+Everbrun11: posts the ante 2000
+VxVendetta00: posts the ante 2000
+Pseudo Fruto: posts small blind 4000
+Everbrun11: posts big blind 8000
+*** HOLE CARDS ***
+VxVendetta00: folds 
+C0rpsbal: raises 8000 to 16000
+Chuckster388: folds 
+Pseudo Fruto: folds 
+Everbrun11: calls 8000
+*** FLOP *** [3h Qc 5h]
+Everbrun11: checks 
+C0rpsbal: bets 8000
+Everbrun11: folds 
+Uncalled bet (8000) returned to C0rpsbal
+C0rpsbal collected 46000 from pot
+C0rpsbal: doesn't show hand 
+*** SUMMARY ***
+Total pot 46000 | Rake 0 
+Board [3h Qc 5h]
+Seat 1: C0rpsbal collected (46000)
+Seat 2: Chuckster388 (button) folded before Flop (didn't bet)
+Seat 4: Pseudo Fruto (small blind) folded before Flop
+Seat 5: Everbrun11 (big blind) folded on the Flop
+Seat 6: VxVendetta00 folded before Flop (didn't bet)
+
+PokerStars Hand #251210294016: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVII (4500/9000) - 2024/06/26 23:26:27 UTC [2024/06/26 19:26:27 ET]
+Table '3769361908 4' 6-max Seat #4 is the button
+Seat 1: C0rpsbal (89152 in chips) 
+Seat 2: Chuckster388 (104420 in chips) 
+Seat 4: Pseudo Fruto (49220 in chips) 
+Seat 5: Everbrun11 (215149 in chips) 
+Seat 6: VxVendetta00 (103470 in chips) 
+C0rpsbal: posts the ante 2250
+Chuckster388: posts the ante 2250
+Pseudo Fruto: posts the ante 2250
+Everbrun11: posts the ante 2250
+VxVendetta00: posts the ante 2250
+Everbrun11: posts small blind 4500
+VxVendetta00: posts big blind 9000
+*** HOLE CARDS ***
+C0rpsbal: raises 77902 to 86902 and is all-in
+Chuckster388: folds 
+Pseudo Fruto: folds 
+Everbrun11: folds 
+VxVendetta00: folds 
+Uncalled bet (77902) returned to C0rpsbal
+C0rpsbal collected 33750 from pot
+C0rpsbal: doesn't show hand 
+*** SUMMARY ***
+Total pot 33750 | Rake 0 
+Seat 1: C0rpsbal collected (33750)
+Seat 2: Chuckster388 folded before Flop (didn't bet)
+Seat 4: Pseudo Fruto (button) folded before Flop (didn't bet)
+Seat 5: Everbrun11 (small blind) folded before Flop
+Seat 6: VxVendetta00 (big blind) folded before Flop
+
+PokerStars Hand #251210298383: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVII (4500/9000) - 2024/06/26 23:26:48 UTC [2024/06/26 19:26:48 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: C0rpsbal (111652 in chips) 
+Seat 2: Chuckster388 (102170 in chips) 
+Seat 4: Pseudo Fruto (46970 in chips) 
+Seat 5: Everbrun11 (208399 in chips) 
+Seat 6: VxVendetta00 (92220 in chips) 
+C0rpsbal: posts the ante 2250
+Chuckster388: posts the ante 2250
+Pseudo Fruto: posts the ante 2250
+Everbrun11: posts the ante 2250
+VxVendetta00: posts the ante 2250
+VxVendetta00: posts small blind 4500
+C0rpsbal: posts big blind 9000
+*** HOLE CARDS ***
+Chuckster388: folds 
+Pseudo Fruto: folds 
+Everbrun11: raises 197149 to 206149 and is all-in
+VxVendetta00: folds 
+C0rpsbal: folds 
+Uncalled bet (197149) returned to Everbrun11
+Everbrun11 collected 33750 from pot
+Everbrun11: doesn't show hand 
+*** SUMMARY ***
+Total pot 33750 | Rake 0 
+Seat 1: C0rpsbal (big blind) folded before Flop
+Seat 2: Chuckster388 folded before Flop (didn't bet)
+Seat 4: Pseudo Fruto folded before Flop (didn't bet)
+Seat 5: Everbrun11 (button) collected (33750)
+Seat 6: VxVendetta00 (small blind) folded before Flop
+
+PokerStars Hand #251210302507: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVII (4500/9000) - 2024/06/26 23:27:09 UTC [2024/06/26 19:27:09 ET]
+Table '3769361908 4' 6-max Seat #6 is the button
+Seat 1: C0rpsbal (100402 in chips) 
+Seat 2: Chuckster388 (99920 in chips) 
+Seat 4: Pseudo Fruto (44720 in chips) 
+Seat 5: Everbrun11 (230899 in chips) 
+Seat 6: VxVendetta00 (85470 in chips) 
+C0rpsbal: posts the ante 2250
+Chuckster388: posts the ante 2250
+Pseudo Fruto: posts the ante 2250
+Everbrun11: posts the ante 2250
+VxVendetta00: posts the ante 2250
+C0rpsbal: posts small blind 4500
+Chuckster388: posts big blind 9000
+*** HOLE CARDS ***
+Pseudo Fruto: raises 33470 to 42470 and is all-in
+Everbrun11: folds 
+VxVendetta00: folds 
+C0rpsbal: raises 55682 to 98152 and is all-in
+Chuckster388: folds 
+Uncalled bet (55682) returned to C0rpsbal
+*** FLOP *** [9c 5s Td]
+*** TURN *** [9c 5s Td] [3h]
+*** RIVER *** [9c 5s Td 3h] [4h]
+*** SHOW DOWN ***
+C0rpsbal: shows [Ah Ad] (a pair of Aces)
+Pseudo Fruto: shows [Kc 7c] (high card King)
+C0rpsbal collected 105190 from pot
+Pseudo Fruto finished the tournament in 26th place and received $135.63.
+MjLK MAN is disconnected 
+aapetrone91 is disconnected 
+*** SUMMARY ***
+Total pot 105190 | Rake 0 
+Board [9c 5s Td 3h 4h]
+Seat 1: C0rpsbal (small blind) showed [Ah Ad] and won (105190) with a pair of Aces
+Seat 2: Chuckster388 (big blind) folded before Flop
+Seat 4: Pseudo Fruto showed [Kc 7c] and lost with high card King
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: VxVendetta00 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251210311580: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVII (4500/9000) - 2024/06/26 23:27:54 UTC [2024/06/26 19:27:54 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: C0rpsbal (160872 in chips) 
+Seat 2: Chuckster388 (88670 in chips) 
+Seat 3: MjLK MAN (268227 in chips) 
+Seat 4: aapetrone91 (186848 in chips) 
+Seat 5: Everbrun11 (228649 in chips) 
+Seat 6: VxVendetta00 (83220 in chips) 
+C0rpsbal: posts the ante 2250
+Chuckster388: posts the ante 2250
+MjLK MAN: posts the ante 2250
+aapetrone91: posts the ante 2250
+Everbrun11: posts the ante 2250
+VxVendetta00: posts the ante 2250
+Chuckster388: posts small blind 4500
+MjLK MAN: posts big blind 9000
+*** HOLE CARDS ***
+aapetrone91: folds 
+Everbrun11: folds 
+VxVendetta00: raises 71970 to 80970 and is all-in
+C0rpsbal: folds 
+Chuckster388: folds 
+MjLK MAN has timed out
+MjLK MAN: folds 
+MjLK MAN is sitting out
+Uncalled bet (71970) returned to VxVendetta00
+VxVendetta00 collected 36000 from pot
+MjLK MAN has returned
+*** SUMMARY ***
+Total pot 36000 | Rake 0 
+Seat 1: C0rpsbal (button) folded before Flop (didn't bet)
+Seat 2: Chuckster388 (small blind) folded before Flop
+Seat 3: MjLK MAN (big blind) folded before Flop
+Seat 4: aapetrone91 folded before Flop (didn't bet)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: VxVendetta00 collected (36000)
+
+PokerStars Hand #251210317409: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVII (4500/9000) - 2024/06/26 23:28:23 UTC [2024/06/26 19:28:23 ET]
+Table '3769361908 4' 6-max Seat #2 is the button
+Seat 1: C0rpsbal (158622 in chips) 
+Seat 2: Chuckster388 (81920 in chips) 
+Seat 3: MjLK MAN (256977 in chips) 
+Seat 4: aapetrone91 (184598 in chips) 
+Seat 5: Everbrun11 (226399 in chips) 
+Seat 6: VxVendetta00 (107970 in chips) 
+C0rpsbal: posts the ante 2250
+Chuckster388: posts the ante 2250
+MjLK MAN: posts the ante 2250
+aapetrone91: posts the ante 2250
+Everbrun11: posts the ante 2250
+VxVendetta00: posts the ante 2250
+MjLK MAN: posts small blind 4500
+aapetrone91: posts big blind 9000
+*** HOLE CARDS ***
+Everbrun11: folds 
+VxVendetta00: folds 
+C0rpsbal: folds 
+Chuckster388: folds 
+MjLK MAN has timed out
+MjLK MAN: folds 
+MjLK MAN is sitting out
+Uncalled bet (4500) returned to aapetrone91
+aapetrone91 collected 22500 from pot
+MjLK MAN has returned
+*** SUMMARY ***
+Total pot 22500 | Rake 0 
+Seat 1: C0rpsbal folded before Flop (didn't bet)
+Seat 2: Chuckster388 (button) folded before Flop (didn't bet)
+Seat 3: MjLK MAN (small blind) folded before Flop
+Seat 4: aapetrone91 (big blind) collected (22500)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: VxVendetta00 folded before Flop (didn't bet)
+
+PokerStars Hand #251210323162: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVII (4500/9000) - 2024/06/26 23:28:52 UTC [2024/06/26 19:28:52 ET]
+Table '3769361908 4' 6-max Seat #3 is the button
+Seat 1: C0rpsbal (156372 in chips) 
+Seat 2: Chuckster388 (79670 in chips) 
+Seat 3: MjLK MAN (250227 in chips) 
+Seat 4: aapetrone91 (200348 in chips) 
+Seat 5: Everbrun11 (224149 in chips) 
+Seat 6: VxVendetta00 (105720 in chips) 
+C0rpsbal: posts the ante 2250
+Chuckster388: posts the ante 2250
+MjLK MAN: posts the ante 2250
+aapetrone91: posts the ante 2250
+Everbrun11: posts the ante 2250
+VxVendetta00: posts the ante 2250
+aapetrone91: posts small blind 4500
+Everbrun11: posts big blind 9000
+*** HOLE CARDS ***
+VxVendetta00: folds 
+C0rpsbal: raises 9000 to 18000
+Chuckster388: folds 
+MjLK MAN has timed out
+MjLK MAN: folds 
+MjLK MAN is sitting out
+MjLK MAN has returned
+aapetrone91: folds 
+Everbrun11: calls 9000
+*** FLOP *** [3s 5c Ad]
+Everbrun11: checks 
+C0rpsbal: bets 16200
+Everbrun11: raises 19800 to 36000
+C0rpsbal: calls 19800
+*** TURN *** [3s 5c Ad] [4d]
+Everbrun11: bets 40500
+C0rpsbal: folds 
+Uncalled bet (40500) returned to Everbrun11
+Everbrun11 collected 126000 from pot
+Everbrun11: doesn't show hand 
+*** SUMMARY ***
+Total pot 126000 | Rake 0 
+Board [3s 5c Ad 4d]
+Seat 1: C0rpsbal folded on the Turn
+Seat 2: Chuckster388 folded before Flop (didn't bet)
+Seat 3: MjLK MAN (button) folded before Flop (didn't bet)
+Seat 4: aapetrone91 (small blind) folded before Flop
+Seat 5: Everbrun11 (big blind) collected (126000)
+Seat 6: VxVendetta00 folded before Flop (didn't bet)
+
+PokerStars Hand #251210340729: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVIII (5000/10000) - 2024/06/26 23:30:20 UTC [2024/06/26 19:30:20 ET]
+Table '3769361908 4' 6-max Seat #4 is the button
+Seat 1: C0rpsbal (100122 in chips) 
+Seat 2: Chuckster388 (77420 in chips) 
+Seat 3: MjLK MAN (247977 in chips) 
+Seat 4: aapetrone91 (193598 in chips) 
+Seat 5: Everbrun11 (293899 in chips) 
+Seat 6: VxVendetta00 (103470 in chips) 
+C0rpsbal: posts the ante 2500
+Chuckster388: posts the ante 2500
+MjLK MAN: posts the ante 2500
+aapetrone91: posts the ante 2500
+Everbrun11: posts the ante 2500
+VxVendetta00: posts the ante 2500
+Everbrun11: posts small blind 5000
+VxVendetta00: posts big blind 10000
+*** HOLE CARDS ***
+C0rpsbal: raises 87622 to 97622 and is all-in
+Chuckster388: folds 
+MjLK MAN: folds 
+aapetrone91: folds 
+Everbrun11: folds 
+VxVendetta00: folds 
+Uncalled bet (87622) returned to C0rpsbal
+C0rpsbal collected 40000 from pot
+C0rpsbal: doesn't show hand 
+*** SUMMARY ***
+Total pot 40000 | Rake 0 
+Seat 1: C0rpsbal collected (40000)
+Seat 2: Chuckster388 folded before Flop (didn't bet)
+Seat 3: MjLK MAN folded before Flop (didn't bet)
+Seat 4: aapetrone91 (button) folded before Flop (didn't bet)
+Seat 5: Everbrun11 (small blind) folded before Flop
+Seat 6: VxVendetta00 (big blind) folded before Flop
+
+PokerStars Hand #251210346489: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVIII (5000/10000) - 2024/06/26 23:30:48 UTC [2024/06/26 19:30:48 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: C0rpsbal (127622 in chips) 
+Seat 3: MjLK MAN (245477 in chips) 
+Seat 4: aapetrone91 (191098 in chips) 
+Seat 5: Everbrun11 (286399 in chips) 
+Seat 6: VxVendetta00 (90970 in chips) 
+C0rpsbal: posts the ante 2500
+MjLK MAN: posts the ante 2500
+aapetrone91: posts the ante 2500
+Everbrun11: posts the ante 2500
+VxVendetta00: posts the ante 2500
+VxVendetta00: posts small blind 5000
+C0rpsbal: posts big blind 10000
+*** HOLE CARDS ***
+MjLK MAN: folds 
+aapetrone91: folds 
+Everbrun11: folds 
+VxVendetta00: raises 78470 to 88470 and is all-in
+C0rpsbal: folds 
+Uncalled bet (78470) returned to VxVendetta00
+VxVendetta00 collected 32500 from pot
+*** SUMMARY ***
+Total pot 32500 | Rake 0 
+Seat 1: C0rpsbal (big blind) folded before Flop
+Seat 3: MjLK MAN folded before Flop (didn't bet)
+Seat 4: aapetrone91 folded before Flop (didn't bet)
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+Seat 6: VxVendetta00 (small blind) collected (32500)
+
+PokerStars Hand #251210349519: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVIII (5000/10000) - 2024/06/26 23:31:04 UTC [2024/06/26 19:31:04 ET]
+Table '3769361908 4' 6-max Seat #6 is the button
+Seat 1: C0rpsbal (115122 in chips) 
+Seat 3: MjLK MAN (242977 in chips) 
+Seat 4: aapetrone91 (188598 in chips) 
+Seat 5: Everbrun11 (283899 in chips) 
+Seat 6: VxVendetta00 (110970 in chips) 
+C0rpsbal: posts the ante 2500
+MjLK MAN: posts the ante 2500
+aapetrone91: posts the ante 2500
+Everbrun11: posts the ante 2500
+VxVendetta00: posts the ante 2500
+C0rpsbal: posts small blind 5000
+MjLK MAN: posts big blind 10000
+*** HOLE CARDS ***
+aapetrone91: folds 
+Everbrun11: folds 
+VxVendetta00: folds 
+C0rpsbal: raises 102622 to 112622 and is all-in
+MjLK MAN: calls 102622
+*** FLOP *** [Td 3c 9s]
+*** TURN *** [Td 3c 9s] [8d]
+*** RIVER *** [Td 3c 9s 8d] [4d]
+*** SHOW DOWN ***
+C0rpsbal: shows [5h Kh] (high card King)
+MjLK MAN: shows [7c Ad] (high card Ace)
+MjLK MAN collected 237744 from pot
+C0rpsbal finished the tournament in 20th place and received $164.76.
+*** SUMMARY ***
+Total pot 237744 | Rake 0 
+Board [Td 3c 9s 8d 4d]
+Seat 1: C0rpsbal (small blind) showed [5h Kh] and lost with high card King
+Seat 3: MjLK MAN (big blind) showed [7c Ad] and won (237744) with high card Ace
+Seat 4: aapetrone91 folded before Flop (didn't bet)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: VxVendetta00 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251210353655: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVIII (5000/10000) - 2024/06/26 23:31:24 UTC [2024/06/26 19:31:24 ET]
+Table '3769361908 4' 6-max Seat #3 is the button
+Seat 3: MjLK MAN (365599 in chips) 
+Seat 4: aapetrone91 (186098 in chips) 
+Seat 5: Everbrun11 (281399 in chips) 
+Seat 6: VxVendetta00 (108470 in chips) 
+MjLK MAN: posts the ante 2500
+aapetrone91: posts the ante 2500
+Everbrun11: posts the ante 2500
+VxVendetta00: posts the ante 2500
+aapetrone91: posts small blind 5000
+Everbrun11: posts big blind 10000
+*** HOLE CARDS ***
+VxVendetta00: raises 95970 to 105970 and is all-in
+MjLK MAN: folds 
+aapetrone91: folds 
+Everbrun11: folds 
+Uncalled bet (95970) returned to VxVendetta00
+VxVendetta00 collected 35000 from pot
+*** SUMMARY ***
+Total pot 35000 | Rake 0 
+Seat 3: MjLK MAN (button) folded before Flop (didn't bet)
+Seat 4: aapetrone91 (small blind) folded before Flop
+Seat 5: Everbrun11 (big blind) folded before Flop
+Seat 6: VxVendetta00 collected (35000)
+
+PokerStars Hand #251210355938: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXVIII (5000/10000) - 2024/06/26 23:31:36 UTC [2024/06/26 19:31:36 ET]
+Table '3769361908 4' 6-max Seat #4 is the button
+Seat 3: MjLK MAN (363099 in chips) 
+Seat 4: aapetrone91 (178598 in chips) 
+Seat 5: Everbrun11 (268899 in chips) 
+Seat 6: VxVendetta00 (130970 in chips) 
+MjLK MAN: posts the ante 2500
+aapetrone91: posts the ante 2500
+Everbrun11: posts the ante 2500
+VxVendetta00: posts the ante 2500
+Everbrun11: posts small blind 5000
+VxVendetta00: posts big blind 10000
+*** HOLE CARDS ***
+MjLK MAN: raises 10000 to 20000
+aapetrone91: raises 30000 to 50000
+Everbrun11: folds 
+VxVendetta00: folds 
+MjLK MAN: calls 30000
+*** FLOP *** [Qc 8s 2d]
+MjLK MAN: checks 
+aapetrone91: bets 27500
+MjLK MAN: calls 27500
+*** TURN *** [Qc 8s 2d] [3s]
+MjLK MAN: checks 
+aapetrone91: bets 98598 and is all-in
+MjLK MAN: calls 98598
+*** RIVER *** [Qc 8s 2d 3s] [9d]
+*** SHOW DOWN ***
+MjLK MAN: shows [Ah Ad] (a pair of Aces)
+aapetrone91: shows [Jh Jc] (a pair of Jacks)
+MjLK MAN collected 377196 from pot
+aapetrone91 finished the tournament in 18th place and received $164.76.
+*** SUMMARY ***
+Total pot 377196 | Rake 0 
+Board [Qc 8s 2d 3s 9d]
+Seat 3: MjLK MAN showed [Ah Ad] and won (377196) with a pair of Aces
+Seat 4: aapetrone91 (button) showed [Jh Jc] and lost with a pair of Jacks
+Seat 5: Everbrun11 (small blind) folded before Flop
+Seat 6: VxVendetta00 (big blind) folded before Flop
+
+PokerStars Hand #251210372977: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXIX (6000/12000) - 2024/06/26 23:33:03 UTC [2024/06/26 19:33:03 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: DR. ELDAR (193614 in chips) 
+Seat 2: mila is best (32638 in chips) 
+Seat 3: MjLK MAN (561697 in chips) 
+Seat 5: Everbrun11 (261399 in chips) 
+Seat 6: VxVendetta00 (118470 in chips) 
+DR. ELDAR: posts the ante 3000
+mila is best: posts the ante 3000
+MjLK MAN: posts the ante 3000
+Everbrun11: posts the ante 3000
+VxVendetta00: posts the ante 3000
+VxVendetta00: posts small blind 6000
+DR. ELDAR: posts big blind 12000
+*** HOLE CARDS ***
+mila is best: folds 
+MjLK MAN: raises 12000 to 24000
+Everbrun11: folds 
+VxVendetta00: folds 
+DR. ELDAR: raises 166614 to 190614 and is all-in
+MjLK MAN: folds 
+Uncalled bet (166614) returned to DR. ELDAR
+DR. ELDAR collected 69000 from pot
+DR. ELDAR: doesn't show hand 
+*** SUMMARY ***
+Total pot 69000 | Rake 0 
+Seat 1: DR. ELDAR (big blind) collected (69000)
+Seat 2: mila is best folded before Flop (didn't bet)
+Seat 3: MjLK MAN folded before Flop
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+Seat 6: VxVendetta00 (small blind) folded before Flop
+
+PokerStars Hand #251210378494: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXIX (6000/12000) - 2024/06/26 23:33:31 UTC [2024/06/26 19:33:31 ET]
+Table '3769361908 4' 6-max Seat #6 is the button
+Seat 1: DR. ELDAR (235614 in chips) 
+Seat 2: mila is best (29638 in chips) 
+Seat 3: MjLK MAN (534697 in chips) 
+Seat 5: Everbrun11 (258399 in chips) 
+Seat 6: VxVendetta00 (109470 in chips) 
+DR. ELDAR: posts the ante 3000
+mila is best: posts the ante 3000
+MjLK MAN: posts the ante 3000
+Everbrun11: posts the ante 3000
+VxVendetta00: posts the ante 3000
+DR. ELDAR: posts small blind 6000
+mila is best: posts big blind 12000
+*** HOLE CARDS ***
+MjLK MAN: folds 
+Everbrun11: raises 12000 to 24000
+VxVendetta00: folds 
+DR. ELDAR: folds 
+mila is best: raises 2638 to 26638 and is all-in
+Everbrun11: calls 2638
+*** FLOP *** [5d Qd Ks]
+*** TURN *** [5d Qd Ks] [3d]
+*** RIVER *** [5d Qd Ks 3d] [Js]
+*** SHOW DOWN ***
+mila is best: shows [Ts Td] (a pair of Tens)
+Everbrun11: shows [Qh As] (a pair of Queens)
+Everbrun11 collected 74276 from pot
+mila is best finished the tournament in 17th place and received $200.15.
+*** SUMMARY ***
+Total pot 74276 | Rake 0 
+Board [5d Qd Ks 3d Js]
+Seat 1: DR. ELDAR (small blind) folded before Flop
+Seat 2: mila is best (big blind) showed [Ts Td] and lost with a pair of Tens
+Seat 3: MjLK MAN folded before Flop (didn't bet)
+Seat 5: Everbrun11 showed [Qh As] and won (74276) with a pair of Queens
+Seat 6: VxVendetta00 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251210383372: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXIX (6000/12000) - 2024/06/26 23:33:55 UTC [2024/06/26 19:33:55 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: DR. ELDAR (226614 in chips) 
+Seat 3: MjLK MAN (531697 in chips) 
+Seat 5: Everbrun11 (303037 in chips) 
+Seat 6: VxVendetta00 (106470 in chips) 
+DR. ELDAR: posts the ante 3000
+MjLK MAN: posts the ante 3000
+Everbrun11: posts the ante 3000
+VxVendetta00: posts the ante 3000
+MjLK MAN: posts small blind 6000
+Everbrun11: posts big blind 12000
+*** HOLE CARDS ***
+Muril0souza is disconnected 
+VxVendetta00: folds 
+DR. ELDAR: folds 
+MjLK MAN: raises 24000 to 36000
+Everbrun11: folds 
+Uncalled bet (24000) returned to MjLK MAN
+MjLK MAN collected 36000 from pot
+MjLK MAN: doesn't show hand 
+*** SUMMARY ***
+Total pot 36000 | Rake 0 
+Seat 1: DR. ELDAR (button) folded before Flop (didn't bet)
+Seat 3: MjLK MAN (small blind) collected (36000)
+Seat 5: Everbrun11 (big blind) folded before Flop
+Seat 6: VxVendetta00 folded before Flop (didn't bet)
+
+PokerStars Hand #251210387413: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXIX (6000/12000) - 2024/06/26 23:34:15 UTC [2024/06/26 19:34:15 ET]
+Table '3769361908 4' 6-max Seat #3 is the button
+Seat 1: DR. ELDAR (223614 in chips) 
+Seat 3: MjLK MAN (552697 in chips) 
+Seat 4: Muril0souza (90798 in chips) out of hand (moved from another table into small blind)
+Seat 5: Everbrun11 (288037 in chips) 
+Seat 6: VxVendetta00 (103470 in chips) 
+Muril0souza will be allowed to play after the button
+DR. ELDAR: posts the ante 3000
+MjLK MAN: posts the ante 3000
+Everbrun11: posts the ante 3000
+VxVendetta00: posts the ante 3000
+Everbrun11: posts small blind 6000
+VxVendetta00: posts big blind 12000
+*** HOLE CARDS ***
+DR. ELDAR: folds 
+MjLK MAN: raises 537697 to 549697 and is all-in
+Everbrun11: folds 
+VxVendetta00: folds 
+Uncalled bet (537697) returned to MjLK MAN
+MjLK MAN collected 42000 from pot
+MjLK MAN: doesn't show hand 
+*** SUMMARY ***
+Total pot 42000 | Rake 0 
+Seat 1: DR. ELDAR folded before Flop (didn't bet)
+Seat 3: MjLK MAN (button) collected (42000)
+Seat 5: Everbrun11 (small blind) folded before Flop
+Seat 6: VxVendetta00 (big blind) folded before Flop
+
+PokerStars Hand #251210389844: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXIX (6000/12000) - 2024/06/26 23:34:27 UTC [2024/06/26 19:34:27 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: DR. ELDAR (220614 in chips) 
+Seat 3: MjLK MAN (579697 in chips) 
+Seat 4: Muril0souza (90798 in chips) 
+Seat 5: Everbrun11 (279037 in chips) 
+Seat 6: VxVendetta00 (88470 in chips) 
+DR. ELDAR: posts the ante 3000
+MjLK MAN: posts the ante 3000
+Muril0souza: posts the ante 3000
+Everbrun11: posts the ante 3000
+VxVendetta00: posts the ante 3000
+VxVendetta00: posts small blind 6000
+DR. ELDAR: posts big blind 12000
+*** HOLE CARDS ***
+MjLK MAN: folds 
+Muril0souza: raises 75798 to 87798 and is all-in
+Everbrun11: folds 
+VxVendetta00: folds 
+DR. ELDAR: folds 
+Uncalled bet (75798) returned to Muril0souza
+Muril0souza collected 45000 from pot
+*** SUMMARY ***
+Total pot 45000 | Rake 0 
+Seat 1: DR. ELDAR (big blind) folded before Flop
+Seat 3: MjLK MAN folded before Flop (didn't bet)
+Seat 4: Muril0souza collected (45000)
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+Seat 6: VxVendetta00 (small blind) folded before Flop
+
+PokerStars Hand #251210392858: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXIX (6000/12000) - 2024/06/26 23:34:42 UTC [2024/06/26 19:34:42 ET]
+Table '3769361908 4' 6-max Seat #6 is the button
+Seat 1: DR. ELDAR (205614 in chips) 
+Seat 3: MjLK MAN (576697 in chips) 
+Seat 4: Muril0souza (120798 in chips) 
+Seat 5: Everbrun11 (276037 in chips) 
+Seat 6: VxVendetta00 (79470 in chips) 
+DR. ELDAR: posts the ante 3000
+MjLK MAN: posts the ante 3000
+Muril0souza: posts the ante 3000
+Everbrun11: posts the ante 3000
+VxVendetta00: posts the ante 3000
+DR. ELDAR: posts small blind 6000
+MjLK MAN: posts big blind 12000
+*** HOLE CARDS ***
+Muril0souza: raises 105798 to 117798 and is all-in
+Everbrun11: folds 
+VxVendetta00: folds 
+DR. ELDAR: folds 
+MjLK MAN: folds 
+Uncalled bet (105798) returned to Muril0souza
+Muril0souza collected 45000 from pot
+*** SUMMARY ***
+Total pot 45000 | Rake 0 
+Seat 1: DR. ELDAR (small blind) folded before Flop
+Seat 3: MjLK MAN (big blind) folded before Flop
+Seat 4: Muril0souza collected (45000)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: VxVendetta00 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251210397751: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXIX (6000/12000) - 2024/06/26 23:35:07 UTC [2024/06/26 19:35:07 ET]
+Table '3769361908 4' 6-max Seat #1 is the button
+Seat 1: DR. ELDAR (196614 in chips) 
+Seat 3: MjLK MAN (561697 in chips) 
+Seat 4: Muril0souza (150798 in chips) 
+Seat 5: Everbrun11 (273037 in chips) 
+Seat 6: VxVendetta00 (76470 in chips) 
+DR. ELDAR: posts the ante 3000
+MjLK MAN: posts the ante 3000
+Muril0souza: posts the ante 3000
+Everbrun11: posts the ante 3000
+VxVendetta00: posts the ante 3000
+MjLK MAN: posts small blind 6000
+Muril0souza: posts big blind 12000
+*** HOLE CARDS ***
+Everbrun11: folds 
+VxVendetta00: folds 
+DR. ELDAR: folds 
+MjLK MAN: folds 
+Uncalled bet (6000) returned to Muril0souza
+Muril0souza collected 27000 from pot
+*** SUMMARY ***
+Total pot 27000 | Rake 0 
+Seat 1: DR. ELDAR (button) folded before Flop (didn't bet)
+Seat 3: MjLK MAN (small blind) folded before Flop
+Seat 4: Muril0souza (big blind) collected (27000)
+Seat 5: Everbrun11 folded before Flop (didn't bet)
+Seat 6: VxVendetta00 folded before Flop (didn't bet)
+
+PokerStars Hand #251210402684: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXX (8000/16000) - 2024/06/26 23:35:32 UTC [2024/06/26 19:35:32 ET]
+Table '3769361908 4' 6-max Seat #3 is the button
+Seat 1: DR. ELDAR (193614 in chips) 
+Seat 3: MjLK MAN (552697 in chips) 
+Seat 4: Muril0souza (168798 in chips) 
+Seat 5: Everbrun11 (270037 in chips) 
+Seat 6: VxVendetta00 (73470 in chips) 
+DR. ELDAR: posts the ante 4000
+MjLK MAN: posts the ante 4000
+Muril0souza: posts the ante 4000
+Everbrun11: posts the ante 4000
+VxVendetta00: posts the ante 4000
+Muril0souza: posts small blind 8000
+Everbrun11: posts big blind 16000
+*** HOLE CARDS ***
+VxVendetta00: folds 
+DR. ELDAR: raises 173614 to 189614 and is all-in
+MjLK MAN: folds 
+Muril0souza: folds 
+Everbrun11: folds 
+Uncalled bet (173614) returned to DR. ELDAR
+DR. ELDAR collected 60000 from pot
+DR. ELDAR: doesn't show hand 
+*** SUMMARY ***
+Total pot 60000 | Rake 0 
+Seat 1: DR. ELDAR collected (60000)
+Seat 3: MjLK MAN (button) folded before Flop (didn't bet)
+Seat 4: Muril0souza (small blind) folded before Flop
+Seat 5: Everbrun11 (big blind) folded before Flop
+Seat 6: VxVendetta00 folded before Flop (didn't bet)
+
+PokerStars Hand #251210408160: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXX (8000/16000) - 2024/06/26 23:36:00 UTC [2024/06/26 19:36:00 ET]
+Table '3769361908 4' 6-max Seat #4 is the button
+Seat 1: DR. ELDAR (233614 in chips) 
+Seat 3: MjLK MAN (548697 in chips) 
+Seat 4: Muril0souza (156798 in chips) 
+Seat 5: Everbrun11 (250037 in chips) 
+Seat 6: VxVendetta00 (69470 in chips) 
+DR. ELDAR: posts the ante 4000
+MjLK MAN: posts the ante 4000
+Muril0souza: posts the ante 4000
+Everbrun11: posts the ante 4000
+VxVendetta00: posts the ante 4000
+Everbrun11: posts small blind 8000
+VxVendetta00: posts big blind 16000
+*** HOLE CARDS ***
+DR. ELDAR: folds 
+MjLK MAN: folds 
+Muril0souza: raises 136798 to 152798 and is all-in
+Everbrun11: folds 
+VxVendetta00: folds 
+Uncalled bet (136798) returned to Muril0souza
+Muril0souza collected 60000 from pot
+*** SUMMARY ***
+Total pot 60000 | Rake 0 
+Seat 1: DR. ELDAR folded before Flop (didn't bet)
+Seat 3: MjLK MAN folded before Flop (didn't bet)
+Seat 4: Muril0souza (button) collected (60000)
+Seat 5: Everbrun11 (small blind) folded before Flop
+Seat 6: VxVendetta00 (big blind) folded before Flop
+
+PokerStars Hand #251210411163: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XXX (8000/16000) - 2024/06/26 23:36:14 UTC [2024/06/26 19:36:14 ET]
+Table '3769361908 4' 6-max Seat #5 is the button
+Seat 1: DR. ELDAR (229614 in chips) 
+Seat 3: MjLK MAN (544697 in chips) 
+Seat 4: Muril0souza (196798 in chips) 
+Seat 5: Everbrun11 (238037 in chips) 
+Seat 6: VxVendetta00 (49470 in chips) 
+DR. ELDAR: posts the ante 4000
+MjLK MAN: posts the ante 4000
+Muril0souza: posts the ante 4000
+Everbrun11: posts the ante 4000
+VxVendetta00: posts the ante 4000
+VxVendetta00: posts small blind 8000
+DR. ELDAR: posts big blind 16000
+*** HOLE CARDS ***
+MjLK MAN: folds 
+Muril0souza: folds 
+Everbrun11: folds 
+VxVendetta00: raises 29470 to 45470 and is all-in
+DR. ELDAR: calls 29470
+*** FLOP *** [6d 8s Ah]
+*** TURN *** [6d 8s Ah] [5h]
+*** RIVER *** [6d 8s Ah 5h] [Ac]
+*** SHOW DOWN ***
+VxVendetta00: shows [8h Qc] (two pair, Aces and Eights)
+DR. ELDAR: shows [As 3h] (three of a kind, Aces)
+DR. ELDAR collected 110940 from pot
+VxVendetta00 finished the tournament in 13th place and received $243.14.
+*** SUMMARY ***
+Total pot 110940 | Rake 0 
+Board [6d 8s Ah 5h Ac]
+Seat 1: DR. ELDAR (big blind) showed [As 3h] and won (110940) with three of a kind, Aces
+Seat 3: MjLK MAN folded before Flop (didn't bet)
+Seat 4: Muril0souza folded before Flop (didn't bet)
+Seat 5: Everbrun11 (button) folded before Flop (didn't bet)
+Seat 6: VxVendetta00 (small blind) showed [8h Qc] and lost with two pair, Aces and Eights

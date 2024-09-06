@@ -1,0 +1,2662 @@
+PokerStars Hand #251204478301: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:47:55 UTC [2024/06/26 13:47:55 ET]
+Table '3769361891 52' 8-max Seat #6 is the button
+Seat 1: ivan limeira (15151 in chips, $25 bounty) 
+Seat 2: jooa42 (40728 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (32127 in chips, $37.50 bounty) 
+Seat 4: t3hN1njALV (38528 in chips, $25 bounty) 
+Seat 5: eze88888 (32878 in chips, $25 bounty) 
+Seat 6: unlogic123 (8662 in chips, $25 bounty) 
+Seat 7: brhhr (41544 in chips, $25 bounty) 
+Seat 8: Tom_Poker_NL (57078 in chips, $25 bounty) 
+ivan limeira: posts the ante 100
+jooa42: posts the ante 100
+gladiatore99: posts the ante 100
+t3hN1njALV: posts the ante 100
+eze88888: posts the ante 100
+unlogic123: posts the ante 100
+brhhr: posts the ante 100
+Tom_Poker_NL: posts the ante 100
+brhhr: posts small blind 400
+Tom_Poker_NL: posts big blind 800
+*** HOLE CARDS ***
+ivan limeira: folds 
+jooa42: folds 
+gladiatore99: folds 
+t3hN1njALV: folds 
+eze88888: folds 
+unlogic123: folds 
+brhhr: folds 
+Uncalled bet (400) returned to Tom_Poker_NL
+Tom_Poker_NL collected 1600 from pot
+Tom_Poker_NL: doesn't show hand 
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Seat 1: ivan limeira folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: t3hN1njALV folded before Flop (didn't bet)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: unlogic123 (button) folded before Flop (didn't bet)
+Seat 7: brhhr (small blind) folded before Flop
+Seat 8: Tom_Poker_NL (big blind) collected (1600)
+
+PokerStars Hand #251204481788: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:48:10 UTC [2024/06/26 13:48:10 ET]
+Table '3769361891 52' 8-max Seat #7 is the button
+Seat 1: ivan limeira (15051 in chips, $25 bounty) 
+Seat 2: jooa42 (40628 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (32027 in chips, $37.50 bounty) 
+Seat 4: t3hN1njALV (38428 in chips, $25 bounty) 
+Seat 5: eze88888 (32778 in chips, $25 bounty) 
+Seat 6: unlogic123 (8562 in chips, $25 bounty) 
+Seat 7: brhhr (41044 in chips, $25 bounty) 
+Seat 8: Tom_Poker_NL (58178 in chips, $25 bounty) 
+ivan limeira: posts the ante 100
+jooa42: posts the ante 100
+gladiatore99: posts the ante 100
+t3hN1njALV: posts the ante 100
+eze88888: posts the ante 100
+unlogic123: posts the ante 100
+brhhr: posts the ante 100
+Tom_Poker_NL: posts the ante 100
+Tom_Poker_NL: posts small blind 400
+ivan limeira: posts big blind 800
+*** HOLE CARDS ***
+jooa42: folds 
+gladiatore99: folds 
+t3hN1njALV: folds 
+eze88888: folds 
+unlogic123: folds 
+brhhr: raises 800 to 1600
+Tom_Poker_NL: raises 4800 to 6400
+ivan limeira: folds 
+brhhr: folds 
+Uncalled bet (4800) returned to Tom_Poker_NL
+Tom_Poker_NL collected 4800 from pot
+Tom_Poker_NL: doesn't show hand 
+*** SUMMARY ***
+Total pot 4800 | Rake 0 
+Seat 1: ivan limeira (big blind) folded before Flop
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: t3hN1njALV folded before Flop (didn't bet)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: unlogic123 folded before Flop (didn't bet)
+Seat 7: brhhr (button) folded before Flop
+Seat 8: Tom_Poker_NL (small blind) collected (4800)
+
+PokerStars Hand #251204490214: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:48:48 UTC [2024/06/26 13:48:48 ET]
+Table '3769361891 52' 8-max Seat #8 is the button
+Seat 1: ivan limeira (14151 in chips, $25 bounty) 
+Seat 2: jooa42 (40528 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (31927 in chips, $37.50 bounty) 
+Seat 4: t3hN1njALV (38328 in chips, $25 bounty) 
+Seat 5: eze88888 (32678 in chips, $25 bounty) 
+Seat 6: unlogic123 (8462 in chips, $25 bounty) 
+Seat 7: brhhr (39344 in chips, $25 bounty) 
+Seat 8: Tom_Poker_NL (61278 in chips, $25 bounty) 
+ivan limeira: posts the ante 100
+jooa42: posts the ante 100
+gladiatore99: posts the ante 100
+t3hN1njALV: posts the ante 100
+eze88888: posts the ante 100
+unlogic123: posts the ante 100
+brhhr: posts the ante 100
+Tom_Poker_NL: posts the ante 100
+ivan limeira: posts small blind 400
+jooa42: posts big blind 800
+*** HOLE CARDS ***
+gladiatore99: folds 
+t3hN1njALV: folds 
+eze88888: folds 
+unlogic123: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+ivan limeira: calls 400
+jooa42: checks 
+*** FLOP *** [2s 3s 5d]
+ivan limeira: bets 800
+jooa42: calls 800
+*** TURN *** [2s 3s 5d] [5s]
+ivan limeira: checks 
+jooa42: checks 
+*** RIVER *** [2s 3s 5d 5s] [5c]
+ivan limeira: checks 
+jooa42: checks 
+*** SHOW DOWN ***
+ivan limeira: shows [8c Ks] (three of a kind, Fives)
+jooa42: mucks hand 
+ivan limeira collected 4000 from pot
+*** SUMMARY ***
+Total pot 4000 | Rake 0 
+Board [2s 3s 5d 5s 5c]
+Seat 1: ivan limeira (small blind) showed [8c Ks] and won (4000) with three of a kind, Fives
+Seat 2: jooa42 (big blind) mucked
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: t3hN1njALV folded before Flop (didn't bet)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: unlogic123 folded before Flop (didn't bet)
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251204506858: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:50:02 UTC [2024/06/26 13:50:02 ET]
+Table '3769361891 52' 8-max Seat #1 is the button
+Seat 1: ivan limeira (16451 in chips, $25 bounty) 
+Seat 2: jooa42 (38828 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (31827 in chips, $37.50 bounty) 
+Seat 4: t3hN1njALV (38228 in chips, $25 bounty) 
+Seat 5: eze88888 (32578 in chips, $25 bounty) 
+Seat 6: unlogic123 (8362 in chips, $25 bounty) 
+Seat 7: brhhr (39244 in chips, $25 bounty) 
+Seat 8: Tom_Poker_NL (61178 in chips, $25 bounty) 
+ivan limeira: posts the ante 100
+jooa42: posts the ante 100
+gladiatore99: posts the ante 100
+t3hN1njALV: posts the ante 100
+eze88888: posts the ante 100
+unlogic123: posts the ante 100
+brhhr: posts the ante 100
+Tom_Poker_NL: posts the ante 100
+jooa42: posts small blind 400
+gladiatore99: posts big blind 800
+*** HOLE CARDS ***
+t3hN1njALV: raises 960 to 1760
+eze88888: folds 
+unlogic123: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+ivan limeira: folds 
+jooa42: folds 
+gladiatore99: calls 960
+*** FLOP *** [5c 4d 8h]
+gladiatore99: checks 
+t3hN1njALV: bets 1605
+gladiatore99: calls 1605
+*** TURN *** [5c 4d 8h] [8c]
+gladiatore99: checks 
+t3hN1njALV: bets 4800
+gladiatore99: raises 6400 to 11200
+t3hN1njALV: folds 
+Uncalled bet (6400) returned to gladiatore99
+gladiatore99 collected 17530 from pot
+gladiatore99: doesn't show hand 
+*** SUMMARY ***
+Total pot 17530 | Rake 0 
+Board [5c 4d 8h 8c]
+Seat 1: ivan limeira (button) folded before Flop (didn't bet)
+Seat 2: jooa42 (small blind) folded before Flop
+Seat 3: gladiatore99 (big blind) collected (17530)
+Seat 4: t3hN1njALV folded on the Turn
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: unlogic123 folded before Flop (didn't bet)
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251204531633: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:51:53 UTC [2024/06/26 13:51:53 ET]
+Table '3769361891 52' 8-max Seat #2 is the button
+Seat 1: ivan limeira (16351 in chips, $25 bounty) 
+Seat 2: jooa42 (38328 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (41092 in chips, $37.50 bounty) 
+Seat 4: t3hN1njALV (29963 in chips, $25 bounty) 
+Seat 5: eze88888 (32478 in chips, $25 bounty) 
+Seat 6: unlogic123 (8262 in chips, $25 bounty) 
+Seat 7: brhhr (39144 in chips, $25 bounty) 
+Seat 8: Tom_Poker_NL (61078 in chips, $25 bounty) 
+ivan limeira: posts the ante 100
+jooa42: posts the ante 100
+gladiatore99: posts the ante 100
+t3hN1njALV: posts the ante 100
+eze88888: posts the ante 100
+unlogic123: posts the ante 100
+brhhr: posts the ante 100
+Tom_Poker_NL: posts the ante 100
+gladiatore99: posts small blind 400
+t3hN1njALV: posts big blind 800
+*** HOLE CARDS ***
+eze88888: raises 800 to 1600
+unlogic123: folds 
+brhhr: folds 
+Tom_Poker_NL: calls 1600
+ivan limeira: folds 
+jooa42: raises 5040 to 6640
+gladiatore99: folds 
+t3hN1njALV: folds 
+eze88888: folds 
+Tom_Poker_NL: calls 5040
+*** FLOP *** [8c 6h Tc]
+Tom_Poker_NL: checks 
+jooa42: bets 5570
+Tom_Poker_NL: calls 5570
+*** TURN *** [8c 6h Tc] [2h]
+Tom_Poker_NL: checks 
+jooa42: bets 26018 and is all-in
+Tom_Poker_NL: folds 
+Uncalled bet (26018) returned to jooa42
+jooa42 collected 28020 from pot
+*** SUMMARY ***
+Total pot 28020 | Rake 0 
+Board [8c 6h Tc 2h]
+Seat 1: ivan limeira folded before Flop (didn't bet)
+Seat 2: jooa42 (button) collected (28020)
+Seat 3: gladiatore99 (small blind) folded before Flop
+Seat 4: t3hN1njALV (big blind) folded before Flop
+Seat 5: eze88888 folded before Flop
+Seat 6: unlogic123 folded before Flop (didn't bet)
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL folded on the Turn
+
+PokerStars Hand #251204552281: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:53:26 UTC [2024/06/26 13:53:26 ET]
+Table '3769361891 52' 8-max Seat #3 is the button
+Seat 1: ivan limeira (16251 in chips, $25 bounty) 
+Seat 2: jooa42 (54038 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (40592 in chips, $37.50 bounty) 
+Seat 4: t3hN1njALV (29063 in chips, $25 bounty) 
+Seat 5: eze88888 (30778 in chips, $25 bounty) 
+Seat 6: unlogic123 (8162 in chips, $25 bounty) 
+Seat 7: brhhr (39044 in chips, $25 bounty) 
+Seat 8: Tom_Poker_NL (48768 in chips, $25 bounty) 
+ivan limeira: posts the ante 100
+jooa42: posts the ante 100
+gladiatore99: posts the ante 100
+t3hN1njALV: posts the ante 100
+eze88888: posts the ante 100
+unlogic123: posts the ante 100
+brhhr: posts the ante 100
+Tom_Poker_NL: posts the ante 100
+t3hN1njALV: posts small blind 400
+eze88888: posts big blind 800
+*** HOLE CARDS ***
+unlogic123: folds 
+brhhr: folds 
+Tom_Poker_NL: raises 800 to 1600
+ivan limeira: folds 
+jooa42: folds 
+gladiatore99: raises 2400 to 4000
+t3hN1njALV: folds 
+eze88888: folds 
+Tom_Poker_NL: calls 2400
+*** FLOP *** [9d 7s Ac]
+Tom_Poker_NL: checks 
+gladiatore99: bets 4000
+Tom_Poker_NL: calls 4000
+*** TURN *** [9d 7s Ac] [8c]
+Tom_Poker_NL: checks 
+gladiatore99: checks 
+*** RIVER *** [9d 7s Ac 8c] [9s]
+Tom_Poker_NL: bets 2000
+gladiatore99: calls 2000
+*** SHOW DOWN ***
+Tom_Poker_NL: shows [Ad Tc] (two pair, Aces and Nines)
+gladiatore99: mucks hand 
+Tom_Poker_NL collected 22000 from pot
+*** SUMMARY ***
+Total pot 22000 | Rake 0 
+Board [9d 7s Ac 8c 9s]
+Seat 1: ivan limeira folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 (button) mucked
+Seat 4: t3hN1njALV (small blind) folded before Flop
+Seat 5: eze88888 (big blind) folded before Flop
+Seat 6: unlogic123 folded before Flop (didn't bet)
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL showed [Ad Tc] and won (22000) with two pair, Aces and Nines
+
+PokerStars Hand #251204573676: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:55:02 UTC [2024/06/26 13:55:02 ET]
+Table '3769361891 52' 8-max Seat #4 is the button
+Seat 1: ivan limeira (16151 in chips, $25 bounty) 
+Seat 2: jooa42 (53938 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (30492 in chips, $37.50 bounty) 
+Seat 4: t3hN1njALV (28563 in chips, $25 bounty) 
+Seat 5: eze88888 (29878 in chips, $25 bounty) 
+Seat 6: unlogic123 (8062 in chips, $25 bounty) 
+Seat 7: brhhr (38944 in chips, $25 bounty) 
+Seat 8: Tom_Poker_NL (60668 in chips, $25 bounty) 
+ivan limeira: posts the ante 100
+jooa42: posts the ante 100
+gladiatore99: posts the ante 100
+t3hN1njALV: posts the ante 100
+eze88888: posts the ante 100
+unlogic123: posts the ante 100
+brhhr: posts the ante 100
+Tom_Poker_NL: posts the ante 100
+eze88888: posts small blind 400
+unlogic123: posts big blind 800
+*** HOLE CARDS ***
+brhhr: folds 
+Tom_Poker_NL: folds 
+ivan limeira: folds 
+jooa42: raises 800 to 1600
+gladiatore99: folds 
+t3hN1njALV: folds 
+eze88888: raises 4000 to 5600
+unlogic123: folds 
+jooa42: raises 48238 to 53838 and is all-in
+eze88888: calls 24178 and is all-in
+Uncalled bet (24060) returned to jooa42
+*** FLOP *** [Ad 8d 5h]
+*** TURN *** [Ad 8d 5h] [9s]
+*** RIVER *** [Ad 8d 5h 9s] [2d]
+*** SHOW DOWN ***
+eze88888: shows [Ah Kh] (a pair of Aces)
+jooa42: shows [Qs Jh] (high card Ace)
+eze88888 collected 61156 from pot
+*** SUMMARY ***
+Total pot 61156 | Rake 0 
+Board [Ad 8d 5h 9s 2d]
+Seat 1: ivan limeira folded before Flop (didn't bet)
+Seat 2: jooa42 showed [Qs Jh] and lost with high card Ace
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: t3hN1njALV (button) folded before Flop (didn't bet)
+Seat 5: eze88888 (small blind) showed [Ah Kh] and won (61156) with a pair of Aces
+Seat 6: unlogic123 (big blind) folded before Flop
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251204645691: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 18:01:53 UTC [2024/06/26 14:01:53 ET]
+Table '3769361891 52' 8-max Seat #5 is the button
+Seat 1: ivan limeira (16051 in chips, $25 bounty) 
+Seat 2: jooa42 (24060 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (30392 in chips, $37.50 bounty) 
+Seat 4: t3hN1njALV (28463 in chips, $25 bounty) 
+Seat 5: eze88888 (61156 in chips, $25 bounty) 
+Seat 6: unlogic123 (7162 in chips, $25 bounty) 
+Seat 7: brhhr (38844 in chips, $25 bounty) 
+Seat 8: Tom_Poker_NL (60568 in chips, $25 bounty) 
+ivan limeira: posts the ante 100
+jooa42: posts the ante 100
+gladiatore99: posts the ante 100
+t3hN1njALV: posts the ante 100
+eze88888: posts the ante 100
+unlogic123: posts the ante 100
+brhhr: posts the ante 100
+Tom_Poker_NL: posts the ante 100
+unlogic123: posts small blind 400
+brhhr: posts big blind 800
+*** HOLE CARDS ***
+Tom_Poker_NL: folds 
+ivan limeira: folds 
+jooa42: folds 
+gladiatore99: folds 
+t3hN1njALV: raises 960 to 1760
+eze88888: folds 
+unlogic123: folds 
+brhhr: raises 4240 to 6000
+t3hN1njALV: calls 4240
+*** FLOP *** [Qc 9h 4h]
+brhhr: checks 
+t3hN1njALV: checks 
+*** TURN *** [Qc 9h 4h] [8c]
+brhhr: checks 
+t3hN1njALV: checks 
+*** RIVER *** [Qc 9h 4h 8c] [Qs]
+brhhr: checks 
+t3hN1njALV: bets 22363 and is all-in
+brhhr: calls 22363
+*** SHOW DOWN ***
+t3hN1njALV: shows [7s 6s] (a pair of Queens)
+brhhr: shows [5c Ad] (a pair of Queens - Ace kicker)
+brhhr collected 57926 from pot
+brhhr wins $12.50 for eliminating t3hN1njALV and their own bounty increases by $12.50 to $37.50
+t3hN1njALV finished the tournament
+*** SUMMARY ***
+Total pot 57926 | Rake 0 
+Board [Qc 9h 4h 8c Qs]
+Seat 1: ivan limeira folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: t3hN1njALV showed [7s 6s] and lost with a pair of Queens
+Seat 5: eze88888 (button) folded before Flop (didn't bet)
+Seat 6: unlogic123 (small blind) folded before Flop
+Seat 7: brhhr (big blind) showed [5c Ad] and won (57926) with a pair of Queens
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251204681107: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:04:31 UTC [2024/06/26 14:04:31 ET]
+Table '3769361891 52' 8-max Seat #6 is the button
+Seat 1: ivan limeira (15951 in chips, $25 bounty) 
+Seat 2: jooa42 (23960 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (30292 in chips, $37.50 bounty) 
+Seat 5: eze88888 (61056 in chips, $25 bounty) 
+Seat 6: unlogic123 (6662 in chips, $25 bounty) 
+Seat 7: brhhr (68307 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (60468 in chips, $25 bounty) 
+ivan limeira: posts the ante 125
+jooa42: posts the ante 125
+gladiatore99: posts the ante 125
+eze88888: posts the ante 125
+unlogic123: posts the ante 125
+brhhr: posts the ante 125
+Tom_Poker_NL: posts the ante 125
+brhhr: posts small blind 450
+Tom_Poker_NL: posts big blind 900
+*** HOLE CARDS ***
+ivan limeira: folds 
+jooa42: folds 
+gladiatore99: folds 
+eze88888: folds 
+unlogic123: folds 
+brhhr: folds 
+Uncalled bet (450) returned to Tom_Poker_NL
+Tom_Poker_NL collected 1775 from pot
+Tom_Poker_NL: doesn't show hand 
+*** SUMMARY ***
+Total pot 1775 | Rake 0 
+Seat 1: ivan limeira folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: unlogic123 (button) folded before Flop (didn't bet)
+Seat 7: brhhr (small blind) folded before Flop
+Seat 8: Tom_Poker_NL (big blind) collected (1775)
+
+PokerStars Hand #251204687870: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:05:00 UTC [2024/06/26 14:05:00 ET]
+Table '3769361891 52' 8-max Seat #7 is the button
+Seat 1: ivan limeira (15826 in chips, $25 bounty) 
+Seat 2: jooa42 (23835 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (30167 in chips, $37.50 bounty) 
+Seat 5: eze88888 (60931 in chips, $25 bounty) 
+Seat 6: unlogic123 (6537 in chips, $25 bounty) 
+Seat 7: brhhr (67732 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (61668 in chips, $25 bounty) 
+ivan limeira: posts the ante 125
+jooa42: posts the ante 125
+gladiatore99: posts the ante 125
+eze88888: posts the ante 125
+unlogic123: posts the ante 125
+brhhr: posts the ante 125
+Tom_Poker_NL: posts the ante 125
+Tom_Poker_NL: posts small blind 450
+ivan limeira: posts big blind 900
+*** HOLE CARDS ***
+jooa42: folds 
+gladiatore99: raises 900 to 1800
+eze88888: folds 
+unlogic123: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+ivan limeira: folds 
+Uncalled bet (900) returned to gladiatore99
+gladiatore99 collected 3125 from pot
+gladiatore99: doesn't show hand 
+*** SUMMARY ***
+Total pot 3125 | Rake 0 
+Seat 1: ivan limeira (big blind) folded before Flop
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 collected (3125)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: unlogic123 folded before Flop (didn't bet)
+Seat 7: brhhr (button) folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL (small blind) folded before Flop
+
+PokerStars Hand #251204693418: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:05:24 UTC [2024/06/26 14:05:24 ET]
+Table '3769361891 52' 8-max Seat #8 is the button
+Seat 1: ivan limeira (14801 in chips, $25 bounty) 
+Seat 2: jooa42 (23710 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (32267 in chips, $37.50 bounty) 
+Seat 5: eze88888 (60806 in chips, $25 bounty) 
+Seat 6: unlogic123 (6412 in chips, $25 bounty) 
+Seat 7: brhhr (67607 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (61093 in chips, $25 bounty) 
+ivan limeira: posts the ante 125
+jooa42: posts the ante 125
+gladiatore99: posts the ante 125
+eze88888: posts the ante 125
+unlogic123: posts the ante 125
+brhhr: posts the ante 125
+Tom_Poker_NL: posts the ante 125
+ivan limeira: posts small blind 450
+jooa42: posts big blind 900
+*** HOLE CARDS ***
+gladiatore99: folds 
+eze88888: folds 
+unlogic123: folds 
+brhhr: raises 900 to 1800
+Tom_Poker_NL: folds 
+ivan limeira: folds 
+jooa42: calls 900
+*** FLOP *** [2c Qc Qh]
+jooa42: checks 
+brhhr: bets 1231
+jooa42: raises 2438 to 3669
+brhhr: calls 2438
+*** TURN *** [2c Qc Qh] [4c]
+jooa42: checks 
+brhhr: bets 3066
+jooa42: folds 
+Uncalled bet (3066) returned to brhhr
+brhhr collected 12263 from pot
+brhhr: doesn't show hand 
+*** SUMMARY ***
+Total pot 12263 | Rake 0 
+Board [2c Qc Qh 4c]
+Seat 1: ivan limeira (small blind) folded before Flop
+Seat 2: jooa42 (big blind) folded on the Turn
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: unlogic123 folded before Flop (didn't bet)
+Seat 7: brhhr collected (12263)
+Seat 8: Tom_Poker_NL (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251204721155: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:07:21 UTC [2024/06/26 14:07:21 ET]
+Table '3769361891 52' 8-max Seat #1 is the button
+Seat 1: ivan limeira (14226 in chips, $25 bounty) 
+Seat 2: jooa42 (18116 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (32142 in chips, $37.50 bounty) 
+Seat 4: Jogi105 (47606 in chips, $37.50 bounty) 
+Seat 5: eze88888 (60681 in chips, $25 bounty) 
+Seat 6: unlogic123 (6287 in chips, $25 bounty) 
+Seat 7: brhhr (74276 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (60968 in chips, $25 bounty) 
+ivan limeira: posts the ante 125
+jooa42: posts the ante 125
+gladiatore99: posts the ante 125
+Jogi105: posts the ante 125
+eze88888: posts the ante 125
+unlogic123: posts the ante 125
+brhhr: posts the ante 125
+Tom_Poker_NL: posts the ante 125
+jooa42: posts small blind 450
+gladiatore99: posts big blind 900
+*** HOLE CARDS ***
+Jogi105: folds 
+eze88888: raises 900 to 1800
+unlogic123: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+ivan limeira: folds 
+jooa42: folds 
+gladiatore99: calls 900
+*** FLOP *** [Kd Kc Qd]
+gladiatore99: checks 
+eze88888: bets 1263
+gladiatore99: folds 
+Uncalled bet (1263) returned to eze88888
+eze88888 collected 5050 from pot
+*** SUMMARY ***
+Total pot 5050 | Rake 0 
+Board [Kd Kc Qd]
+Seat 1: ivan limeira (button) folded before Flop (didn't bet)
+Seat 2: jooa42 (small blind) folded before Flop
+Seat 3: gladiatore99 (big blind) folded on the Flop
+Seat 4: Jogi105 folded before Flop (didn't bet)
+Seat 5: eze88888 collected (5050)
+Seat 6: unlogic123 folded before Flop (didn't bet)
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251204734009: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:08:16 UTC [2024/06/26 14:08:16 ET]
+Table '3769361891 52' 8-max Seat #2 is the button
+Seat 1: ivan limeira (14101 in chips, $25 bounty) 
+Seat 2: jooa42 (17541 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (30217 in chips, $37.50 bounty) 
+Seat 4: Jogi105 (47481 in chips, $37.50 bounty) 
+Seat 5: eze88888 (63806 in chips, $25 bounty) 
+Seat 6: unlogic123 (6162 in chips, $25 bounty) 
+Seat 7: brhhr (74151 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (60843 in chips, $25 bounty) 
+ivan limeira: posts the ante 125
+jooa42: posts the ante 125
+gladiatore99: posts the ante 125
+Jogi105: posts the ante 125
+eze88888: posts the ante 125
+unlogic123: posts the ante 125
+brhhr: posts the ante 125
+Tom_Poker_NL: posts the ante 125
+gladiatore99: posts small blind 450
+Jogi105: posts big blind 900
+*** HOLE CARDS ***
+eze88888: folds 
+unlogic123: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+ivan limeira: folds 
+jooa42: folds 
+gladiatore99: raises 900 to 1800
+Jogi105: calls 900
+*** FLOP *** [8h Ks 2d]
+gladiatore99: bets 1800
+Jogi105: calls 1800
+*** TURN *** [8h Ks 2d] [Kc]
+gladiatore99: bets 2700
+Jogi105: raises 5850 to 8550
+gladiatore99: raises 17942 to 26492 and is all-in
+Jogi105: folds 
+Uncalled bet (17942) returned to gladiatore99
+gladiatore99 collected 25300 from pot
+gladiatore99: doesn't show hand 
+*** SUMMARY ***
+Total pot 25300 | Rake 0 
+Board [8h Ks 2d Kc]
+Seat 1: ivan limeira folded before Flop (didn't bet)
+Seat 2: jooa42 (button) folded before Flop (didn't bet)
+Seat 3: gladiatore99 (small blind) collected (25300)
+Seat 4: Jogi105 (big blind) folded on the Turn
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: unlogic123 folded before Flop (didn't bet)
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251204759884: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:10:07 UTC [2024/06/26 14:10:07 ET]
+Table '3769361891 52' 8-max Seat #3 is the button
+Seat 1: ivan limeira (13976 in chips, $25 bounty) 
+Seat 2: jooa42 (17416 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (43242 in chips, $37.50 bounty) 
+Seat 4: Jogi105 (35206 in chips, $37.50 bounty) 
+Seat 5: eze88888 (63681 in chips, $25 bounty) 
+Seat 6: unlogic123 (6037 in chips, $25 bounty) 
+Seat 7: brhhr (74026 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (60718 in chips, $25 bounty) 
+ivan limeira: posts the ante 125
+jooa42: posts the ante 125
+gladiatore99: posts the ante 125
+Jogi105: posts the ante 125
+eze88888: posts the ante 125
+unlogic123: posts the ante 125
+brhhr: posts the ante 125
+Tom_Poker_NL: posts the ante 125
+Jogi105: posts small blind 450
+eze88888: posts big blind 900
+*** HOLE CARDS ***
+unlogic123: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+ivan limeira: folds 
+jooa42: raises 900 to 1800
+gladiatore99: calls 1800
+Jogi105: calls 1350
+eze88888: calls 900
+*** FLOP *** [9c 5h Qc]
+Jogi105: checks 
+eze88888: checks 
+jooa42: bets 3156
+gladiatore99: folds 
+Jogi105: calls 3156
+eze88888: folds 
+*** TURN *** [9c 5h Qc] [8d]
+Jogi105: checks 
+jooa42: bets 12335 and is all-in
+Jogi105: calls 12335
+*** RIVER *** [9c 5h Qc 8d] [7c]
+*** SHOW DOWN ***
+Jogi105: shows [Tc 8s] (a pair of Eights)
+jooa42: shows [9d 9s] (three of a kind, Nines)
+jooa42 collected 39182 from pot
+*** SUMMARY ***
+Total pot 39182 | Rake 0 
+Board [9c 5h Qc 8d 7c]
+Seat 1: ivan limeira folded before Flop (didn't bet)
+Seat 2: jooa42 showed [9d 9s] and won (39182) with three of a kind, Nines
+Seat 3: gladiatore99 (button) folded on the Flop
+Seat 4: Jogi105 (small blind) showed [Tc 8s] and lost with a pair of Eights
+Seat 5: eze88888 (big blind) folded on the Flop
+Seat 6: unlogic123 folded before Flop (didn't bet)
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251204785911: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:11:58 UTC [2024/06/26 14:11:58 ET]
+Table '3769361891 52' 8-max Seat #4 is the button
+Seat 1: ivan limeira (13851 in chips, $25 bounty) 
+Seat 2: jooa42 (39182 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (41317 in chips, $37.50 bounty) 
+Seat 4: Jogi105 (17790 in chips, $37.50 bounty) 
+Seat 5: eze88888 (61756 in chips, $25 bounty) 
+Seat 6: unlogic123 (5912 in chips, $25 bounty) 
+Seat 7: brhhr (73901 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (60593 in chips, $25 bounty) 
+ivan limeira: posts the ante 125
+jooa42: posts the ante 125
+gladiatore99: posts the ante 125
+Jogi105: posts the ante 125
+eze88888: posts the ante 125
+unlogic123: posts the ante 125
+brhhr: posts the ante 125
+Tom_Poker_NL: posts the ante 125
+eze88888: posts small blind 450
+unlogic123: posts big blind 900
+*** HOLE CARDS ***
+brhhr: raises 900 to 1800
+Tom_Poker_NL: calls 1800
+ivan limeira: folds 
+jooa42: folds 
+gladiatore99: calls 1800
+Jogi105: folds 
+eze88888: folds 
+unlogic123: folds 
+*** FLOP *** [7s 9h Kh]
+brhhr: checks 
+Tom_Poker_NL: checks 
+gladiatore99: bets 2700
+brhhr: calls 2700
+Tom_Poker_NL: folds 
+*** TURN *** [7s 9h Kh] [3h]
+brhhr: checks 
+gladiatore99: checks 
+*** RIVER *** [7s 9h Kh 3h] [Ad]
+brhhr: bets 4077
+gladiatore99: calls 4077
+*** SHOW DOWN ***
+brhhr: shows [Kc Jd] (a pair of Kings)
+gladiatore99: shows [Qc Ac] (a pair of Aces)
+gladiatore99 collected 21304 from pot
+*** SUMMARY ***
+Total pot 21304 | Rake 0 
+Board [7s 9h Kh 3h Ad]
+Seat 1: ivan limeira folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 showed [Qc Ac] and won (21304) with a pair of Aces
+Seat 4: Jogi105 (button) folded before Flop (didn't bet)
+Seat 5: eze88888 (small blind) folded before Flop
+Seat 6: unlogic123 (big blind) folded before Flop
+Seat 7: brhhr showed [Kc Jd] and lost with a pair of Kings
+Seat 8: Tom_Poker_NL folded on the Flop
+
+PokerStars Hand #251204805996: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:13:21 UTC [2024/06/26 14:13:21 ET]
+Table '3769361891 52' 8-max Seat #5 is the button
+Seat 1: ivan limeira (13726 in chips, $25 bounty) 
+Seat 2: jooa42 (39057 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (53919 in chips, $37.50 bounty) 
+Seat 4: Jogi105 (17665 in chips, $37.50 bounty) 
+Seat 5: eze88888 (61181 in chips, $25 bounty) 
+Seat 6: unlogic123 (4887 in chips, $25 bounty) 
+Seat 7: brhhr (65199 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (58668 in chips, $25 bounty) 
+ivan limeira: posts the ante 125
+jooa42: posts the ante 125
+gladiatore99: posts the ante 125
+Jogi105: posts the ante 125
+eze88888: posts the ante 125
+unlogic123: posts the ante 125
+brhhr: posts the ante 125
+Tom_Poker_NL: posts the ante 125
+unlogic123: posts small blind 450
+brhhr: posts big blind 900
+*** HOLE CARDS ***
+Tom_Poker_NL: raises 900 to 1800
+ivan limeira: folds 
+jooa42: folds 
+gladiatore99: folds 
+Jogi105: folds 
+eze88888: folds 
+unlogic123: folds 
+brhhr: calls 900
+*** FLOP *** [As 8c 4c]
+brhhr: checks 
+Tom_Poker_NL: bets 900
+brhhr: folds 
+Uncalled bet (900) returned to Tom_Poker_NL
+Tom_Poker_NL collected 5050 from pot
+Tom_Poker_NL: doesn't show hand 
+*** SUMMARY ***
+Total pot 5050 | Rake 0 
+Board [As 8c 4c]
+Seat 1: ivan limeira folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Jogi105 folded before Flop (didn't bet)
+Seat 5: eze88888 (button) folded before Flop (didn't bet)
+Seat 6: unlogic123 (small blind) folded before Flop
+Seat 7: brhhr (big blind) folded on the Flop
+Seat 8: Tom_Poker_NL collected (5050)
+
+PokerStars Hand #251204815893: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:14:02 UTC [2024/06/26 14:14:02 ET]
+Table '3769361891 52' 8-max Seat #6 is the button
+Seat 1: ivan limeira (13601 in chips, $25 bounty) 
+Seat 2: jooa42 (38932 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (53794 in chips, $37.50 bounty) 
+Seat 4: Jogi105 (17540 in chips, $37.50 bounty) 
+Seat 5: eze88888 (61056 in chips, $25 bounty) 
+Seat 6: unlogic123 (4312 in chips, $25 bounty) 
+Seat 7: brhhr (63274 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (61793 in chips, $25 bounty) 
+ivan limeira: posts the ante 125
+jooa42: posts the ante 125
+gladiatore99: posts the ante 125
+Jogi105: posts the ante 125
+eze88888: posts the ante 125
+unlogic123: posts the ante 125
+brhhr: posts the ante 125
+Tom_Poker_NL: posts the ante 125
+brhhr: posts small blind 450
+Tom_Poker_NL: posts big blind 900
+*** HOLE CARDS ***
+ivan limeira: folds 
+jooa42: folds 
+gladiatore99: folds 
+Jogi105: folds 
+eze88888: folds 
+unlogic123: folds 
+brhhr: calls 450
+Tom_Poker_NL: raises 2250 to 3150
+brhhr: calls 2250
+*** FLOP *** [2d 7c Ts]
+brhhr: checks 
+Tom_Poker_NL: bets 1959
+brhhr: calls 1959
+*** TURN *** [2d 7c Ts] [6d]
+brhhr: checks 
+Tom_Poker_NL: checks 
+*** RIVER *** [2d 7c Ts 6d] [9c]
+brhhr: bets 3928
+Tom_Poker_NL: folds 
+Uncalled bet (3928) returned to brhhr
+brhhr collected 11218 from pot
+brhhr: doesn't show hand 
+*** SUMMARY ***
+Total pot 11218 | Rake 0 
+Board [2d 7c Ts 6d 9c]
+Seat 1: ivan limeira folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Jogi105 folded before Flop (didn't bet)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: unlogic123 (button) folded before Flop (didn't bet)
+Seat 7: brhhr (small blind) collected (11218)
+Seat 8: Tom_Poker_NL (big blind) folded on the River
+
+PokerStars Hand #251204837108: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:15:29 UTC [2024/06/26 14:15:29 ET]
+Table '3769361891 52' 8-max Seat #7 is the button
+Seat 1: ivan limeira (13476 in chips, $25 bounty) 
+Seat 2: jooa42 (38807 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (53669 in chips, $37.50 bounty) 
+Seat 4: Jogi105 (17415 in chips, $37.50 bounty) 
+Seat 5: eze88888 (60931 in chips, $25 bounty) 
+Seat 6: unlogic123 (4187 in chips, $25 bounty) 
+Seat 7: brhhr (69258 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (56559 in chips, $25 bounty) 
+ivan limeira: posts the ante 150
+jooa42: posts the ante 150
+gladiatore99: posts the ante 150
+Jogi105: posts the ante 150
+eze88888: posts the ante 150
+unlogic123: posts the ante 150
+brhhr: posts the ante 150
+Tom_Poker_NL: posts the ante 150
+Tom_Poker_NL: posts small blind 500
+ivan limeira: posts big blind 1000
+*** HOLE CARDS ***
+jooa42: folds 
+gladiatore99: folds 
+Jogi105: folds 
+eze88888: folds 
+unlogic123: folds 
+brhhr: raises 1000 to 2000
+Tom_Poker_NL: folds 
+ivan limeira: calls 1000
+*** FLOP *** [4c 9h 8s]
+ivan limeira: checks 
+brhhr: bets 1425
+ivan limeira: folds 
+Uncalled bet (1425) returned to brhhr
+brhhr collected 5700 from pot
+brhhr: doesn't show hand 
+*** SUMMARY ***
+Total pot 5700 | Rake 0 
+Board [4c 9h 8s]
+Seat 1: ivan limeira (big blind) folded on the Flop
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Jogi105 folded before Flop (didn't bet)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: unlogic123 folded before Flop (didn't bet)
+Seat 7: brhhr (button) collected (5700)
+Seat 8: Tom_Poker_NL (small blind) folded before Flop
+
+PokerStars Hand #251204846379: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:16:07 UTC [2024/06/26 14:16:07 ET]
+Table '3769361891 52' 8-max Seat #8 is the button
+Seat 1: ivan limeira (11326 in chips, $25 bounty) 
+Seat 2: jooa42 (38657 in chips, $37.50 bounty) 
+Seat 3: gladiatore99 (53519 in chips, $37.50 bounty) 
+Seat 4: Jogi105 (17265 in chips, $37.50 bounty) 
+Seat 5: eze88888 (60781 in chips, $25 bounty) 
+Seat 6: unlogic123 (4037 in chips, $25 bounty) 
+Seat 7: brhhr (72808 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (55909 in chips, $25 bounty) 
+ivan limeira: posts the ante 150
+jooa42: posts the ante 150
+gladiatore99: posts the ante 150
+Jogi105: posts the ante 150
+eze88888: posts the ante 150
+unlogic123: posts the ante 150
+brhhr: posts the ante 150
+Tom_Poker_NL: posts the ante 150
+ivan limeira: posts small blind 500
+jooa42: posts big blind 1000
+*** HOLE CARDS ***
+gladiatore99: folds 
+Jogi105: folds 
+eze88888: folds 
+unlogic123: raises 2887 to 3887 and is all-in
+brhhr: folds 
+Tom_Poker_NL: folds 
+ivan limeira: raises 7289 to 11176 and is all-in
+jooa42: calls 10176
+*** FLOP *** [6s 4h 2h]
+*** TURN *** [6s 4h 2h] [Ah]
+*** RIVER *** [6s 4h 2h Ah] [7c]
+*** SHOW DOWN ***
+ivan limeira: shows [Kc 7d] (a pair of Sevens)
+jooa42: shows [Ac Td] (a pair of Aces)
+jooa42 collected 14578 from side pot
+unlogic123: shows [Ks Kd] (a pair of Kings)
+jooa42 collected 12861 from main pot
+ivan limeira is sitting out
+jooa42 wins $12.50 for eliminating ivan limeira and their own bounty increases by $12.50 to $50
+jooa42 wins $12.50 for eliminating unlogic123 and their own bounty increases by $12.50 to $62.50
+ivan limeira finished the tournament
+unlogic123 finished the tournament
+rybioha is disconnected 
+*** SUMMARY ***
+Total pot 27439 Main pot 12861. Side pot 14578. | Rake 0 
+Board [6s 4h 2h Ah 7c]
+Seat 1: ivan limeira (small blind) showed [Kc 7d] and lost with a pair of Sevens
+Seat 2: jooa42 (big blind) showed [Ac Td] and won (27439) with a pair of Aces
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Jogi105 folded before Flop (didn't bet)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: unlogic123 showed [Ks Kd] and lost with a pair of Kings
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251204855983: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:16:47 UTC [2024/06/26 14:16:47 ET]
+Table '3769361891 52' 8-max Seat #2 is the button
+Seat 1: chichi170 (27364 in chips, $25 bounty) 
+Seat 2: jooa42 (54770 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (53369 in chips, $37.50 bounty) 
+Seat 4: Jogi105 (17115 in chips, $37.50 bounty) 
+Seat 5: eze88888 (60631 in chips, $25 bounty) 
+Seat 6: rybioha (19151 in chips, $37.50 bounty) 
+Seat 7: brhhr (72658 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (55759 in chips, $25 bounty) 
+chichi170: posts the ante 150
+jooa42: posts the ante 150
+gladiatore99: posts the ante 150
+Jogi105: posts the ante 150
+eze88888: posts the ante 150
+rybioha: posts the ante 150
+brhhr: posts the ante 150
+Tom_Poker_NL: posts the ante 150
+gladiatore99: posts small blind 500
+Jogi105: posts big blind 1000
+*** HOLE CARDS ***
+eze88888: folds 
+rybioha: folds 
+brhhr: raises 1000 to 2000
+Tom_Poker_NL: folds 
+chichi170: folds 
+jooa42: folds 
+gladiatore99: folds 
+Jogi105: folds 
+Uncalled bet (1000) returned to brhhr
+brhhr collected 3700 from pot
+brhhr: doesn't show hand 
+*** SUMMARY ***
+Total pot 3700 | Rake 0 
+Seat 1: chichi170 folded before Flop (didn't bet)
+Seat 2: jooa42 (button) folded before Flop (didn't bet)
+Seat 3: gladiatore99 (small blind) folded before Flop
+Seat 4: Jogi105 (big blind) folded before Flop
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr collected (3700)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251204863286: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:17:16 UTC [2024/06/26 14:17:16 ET]
+Table '3769361891 52' 8-max Seat #3 is the button
+Seat 1: chichi170 (27214 in chips, $25 bounty) 
+Seat 2: jooa42 (54620 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (52719 in chips, $37.50 bounty) 
+Seat 4: Jogi105 (15965 in chips, $37.50 bounty) 
+Seat 5: eze88888 (60481 in chips, $25 bounty) 
+Seat 6: rybioha (19001 in chips, $37.50 bounty) 
+Seat 7: brhhr (75208 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (55609 in chips, $25 bounty) 
+chichi170: posts the ante 150
+jooa42: posts the ante 150
+gladiatore99: posts the ante 150
+Jogi105: posts the ante 150
+eze88888: posts the ante 150
+rybioha: posts the ante 150
+brhhr: posts the ante 150
+Tom_Poker_NL: posts the ante 150
+Jogi105: posts small blind 500
+eze88888: posts big blind 1000
+*** HOLE CARDS ***
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: raises 1000 to 2000
+chichi170: raises 25064 to 27064 and is all-in
+jooa42: folds 
+gladiatore99: folds 
+Jogi105: folds 
+eze88888: folds 
+Tom_Poker_NL: folds 
+Uncalled bet (25064) returned to chichi170
+chichi170 collected 6700 from pot
+*** SUMMARY ***
+Total pot 6700 | Rake 0 
+Seat 1: chichi170 collected (6700)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 (button) folded before Flop (didn't bet)
+Seat 4: Jogi105 (small blind) folded before Flop
+Seat 5: eze88888 (big blind) folded before Flop
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL folded before Flop
+
+PokerStars Hand #251204871604: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:17:50 UTC [2024/06/26 14:17:50 ET]
+Table '3769361891 52' 8-max Seat #4 is the button
+Seat 1: chichi170 (31764 in chips, $25 bounty) 
+Seat 2: jooa42 (54470 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (52569 in chips, $37.50 bounty) 
+Seat 4: Jogi105 (15315 in chips, $37.50 bounty) 
+Seat 5: eze88888 (59331 in chips, $25 bounty) 
+Seat 6: rybioha (18851 in chips, $37.50 bounty) 
+Seat 7: brhhr (75058 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (53459 in chips, $25 bounty) 
+chichi170: posts the ante 150
+jooa42: posts the ante 150
+gladiatore99: posts the ante 150
+Jogi105: posts the ante 150
+eze88888: posts the ante 150
+rybioha: posts the ante 150
+brhhr: posts the ante 150
+Tom_Poker_NL: posts the ante 150
+eze88888: posts small blind 500
+rybioha: posts big blind 1000
+*** HOLE CARDS ***
+brhhr: raises 1000 to 2000
+Tom_Poker_NL: calls 2000
+chichi170: folds 
+jooa42: folds 
+gladiatore99: folds 
+Jogi105: folds 
+eze88888: calls 1500
+rybioha: folds 
+*** FLOP *** [3c 8c 2s]
+eze88888: checks 
+brhhr: checks 
+Tom_Poker_NL: checks 
+*** TURN *** [3c 8c 2s] [2d]
+eze88888: bets 5412
+brhhr: calls 5412
+Tom_Poker_NL: folds 
+*** RIVER *** [3c 8c 2s 2d] [Qs]
+eze88888: bets 14000
+brhhr: calls 14000
+*** SHOW DOWN ***
+eze88888: shows [3h 3s] (a full house, Threes full of Deuces)
+brhhr: mucks hand 
+eze88888 collected 47024 from pot
+*** SUMMARY ***
+Total pot 47024 | Rake 0 
+Board [3c 8c 2s 2d Qs]
+Seat 1: chichi170 folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Jogi105 (button) folded before Flop (didn't bet)
+Seat 5: eze88888 (small blind) showed [3h 3s] and won (47024) with a full house, Threes full of Deuces
+Seat 6: rybioha (big blind) folded before Flop
+Seat 7: brhhr mucked
+Seat 8: Tom_Poker_NL folded on the Turn
+
+PokerStars Hand #251204899052: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:19:42 UTC [2024/06/26 14:19:42 ET]
+Table '3769361891 52' 8-max Seat #5 is the button
+Seat 1: chichi170 (31614 in chips, $25 bounty) 
+Seat 2: jooa42 (54320 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (52419 in chips, $37.50 bounty) 
+Seat 4: Jogi105 (15165 in chips, $37.50 bounty) 
+Seat 5: eze88888 (84793 in chips, $25 bounty) 
+Seat 6: rybioha (17701 in chips, $37.50 bounty) 
+Seat 7: brhhr (53496 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (51309 in chips, $25 bounty) 
+chichi170: posts the ante 150
+jooa42: posts the ante 150
+gladiatore99: posts the ante 150
+Jogi105: posts the ante 150
+eze88888: posts the ante 150
+rybioha: posts the ante 150
+brhhr: posts the ante 150
+Tom_Poker_NL: posts the ante 150
+rybioha: posts small blind 500
+brhhr: posts big blind 1000
+*** HOLE CARDS ***
+Tom_Poker_NL: folds 
+chichi170: folds 
+jooa42: folds 
+gladiatore99: folds 
+Jogi105: folds 
+eze88888: folds 
+rybioha: calls 500
+brhhr: checks 
+*** FLOP *** [2h 2d Kc]
+rybioha: bets 1000
+brhhr: calls 1000
+*** TURN *** [2h 2d Kc] [Td]
+rybioha: checks 
+brhhr: bets 2704
+rybioha: folds 
+Uncalled bet (2704) returned to brhhr
+brhhr collected 5200 from pot
+brhhr: doesn't show hand 
+*** SUMMARY ***
+Total pot 5200 | Rake 0 
+Board [2h 2d Kc Td]
+Seat 1: chichi170 folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Jogi105 folded before Flop (didn't bet)
+Seat 5: eze88888 (button) folded before Flop (didn't bet)
+Seat 6: rybioha (small blind) folded on the Turn
+Seat 7: brhhr (big blind) collected (5200)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251204926932: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:21:36 UTC [2024/06/26 14:21:36 ET]
+Table '3769361891 52' 8-max Seat #6 is the button
+Seat 1: chichi170 (31464 in chips, $25 bounty) 
+Seat 2: jooa42 (54170 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (52269 in chips, $37.50 bounty) 
+Seat 4: Jogi105 (15015 in chips, $37.50 bounty) 
+Seat 5: eze88888 (84643 in chips, $25 bounty) 
+Seat 6: rybioha (15551 in chips, $37.50 bounty) 
+Seat 7: brhhr (56546 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (51159 in chips, $25 bounty) 
+chichi170: posts the ante 150
+jooa42: posts the ante 150
+gladiatore99: posts the ante 150
+Jogi105: posts the ante 150
+eze88888: posts the ante 150
+rybioha: posts the ante 150
+brhhr: posts the ante 150
+Tom_Poker_NL: posts the ante 150
+brhhr: posts small blind 500
+Tom_Poker_NL: posts big blind 1000
+*** HOLE CARDS ***
+chichi170: folds 
+jooa42 is disconnected 
+jooa42 is connected 
+jooa42: folds 
+gladiatore99: folds 
+Jogi105: folds 
+eze88888: raises 1000 to 2000
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+Uncalled bet (1000) returned to eze88888
+eze88888 collected 3700 from pot
+*** SUMMARY ***
+Total pot 3700 | Rake 0 
+Seat 1: chichi170 folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Jogi105 folded before Flop (didn't bet)
+Seat 5: eze88888 collected (3700)
+Seat 6: rybioha (button) folded before Flop (didn't bet)
+Seat 7: brhhr (small blind) folded before Flop
+Seat 8: Tom_Poker_NL (big blind) folded before Flop
+
+PokerStars Hand #251204932955: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:22:01 UTC [2024/06/26 14:22:01 ET]
+Table '3769361891 52' 8-max Seat #7 is the button
+Seat 1: chichi170 (31314 in chips, $25 bounty) 
+Seat 2: jooa42 (54020 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (52119 in chips, $37.50 bounty) 
+Seat 4: Jogi105 (14865 in chips, $37.50 bounty) 
+Seat 5: eze88888 (87193 in chips, $25 bounty) 
+Seat 6: rybioha (15401 in chips, $37.50 bounty) 
+Seat 7: brhhr (55896 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (50009 in chips, $25 bounty) 
+chichi170: posts the ante 150
+jooa42: posts the ante 150
+gladiatore99: posts the ante 150
+Jogi105: posts the ante 150
+eze88888: posts the ante 150
+rybioha: posts the ante 150
+brhhr: posts the ante 150
+Tom_Poker_NL: posts the ante 150
+Tom_Poker_NL: posts small blind 500
+chichi170: posts big blind 1000
+*** HOLE CARDS ***
+jooa42: folds 
+gladiatore99: folds 
+Jogi105: raises 1200 to 2200
+eze88888: folds 
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+chichi170: folds 
+Uncalled bet (1200) returned to Jogi105
+Jogi105 collected 3700 from pot
+*** SUMMARY ***
+Total pot 3700 | Rake 0 
+Seat 1: chichi170 (big blind) folded before Flop
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Jogi105 collected (3700)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr (button) folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL (small blind) folded before Flop
+
+PokerStars Hand #251204940120: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:22:30 UTC [2024/06/26 14:22:30 ET]
+Table '3769361891 52' 8-max Seat #8 is the button
+Seat 1: chichi170 (30164 in chips, $25 bounty) 
+Seat 2: jooa42 (53870 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (51969 in chips, $37.50 bounty) 
+Seat 4: Jogi105 (17415 in chips, $37.50 bounty) 
+Seat 5: eze88888 (87043 in chips, $25 bounty) 
+Seat 6: rybioha (15251 in chips, $37.50 bounty) 
+Seat 7: brhhr (55746 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (49359 in chips, $25 bounty) 
+chichi170: posts the ante 150
+jooa42: posts the ante 150
+gladiatore99: posts the ante 150
+Jogi105: posts the ante 150
+eze88888: posts the ante 150
+rybioha: posts the ante 150
+brhhr: posts the ante 150
+Tom_Poker_NL: posts the ante 150
+chichi170: posts small blind 500
+jooa42: posts big blind 1000
+*** HOLE CARDS ***
+gladiatore99: raises 1500 to 2500
+Jogi105: folds 
+eze88888: folds 
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+chichi170: raises 27514 to 30014 and is all-in
+jooa42: folds 
+gladiatore99: calls 27514
+*** FLOP *** [Tc Th Ad]
+*** TURN *** [Tc Th Ad] [Qs]
+*** RIVER *** [Tc Th Ad Qs] [9s]
+*** SHOW DOWN ***
+chichi170: shows [Kh 3h] (a pair of Tens)
+gladiatore99: shows [Kd Ah] (two pair, Aces and Tens)
+gladiatore99 collected 62228 from pot
+gladiatore99 wins $12.50 for eliminating chichi170 and their own bounty increases by $12.50 to $50
+chichi170 finished the tournament
+*** SUMMARY ***
+Total pot 62228 | Rake 0 
+Board [Tc Th Ad Qs 9s]
+Seat 1: chichi170 (small blind) showed [Kh 3h] and lost with a pair of Tens
+Seat 2: jooa42 (big blind) folded before Flop
+Seat 3: gladiatore99 showed [Kd Ah] and won (62228) with two pair, Aces and Tens
+Seat 4: Jogi105 folded before Flop (didn't bet)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251204950999: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:23:14 UTC [2024/06/26 14:23:14 ET]
+Table '3769361891 52' 8-max Seat #2 is the button
+Seat 2: jooa42 (52720 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (84033 in chips, $50 bounty) 
+Seat 4: Jogi105 (17265 in chips, $37.50 bounty) 
+Seat 5: eze88888 (86893 in chips, $25 bounty) 
+Seat 6: rybioha (15101 in chips, $37.50 bounty) 
+Seat 7: brhhr (55596 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (49209 in chips, $25 bounty) 
+jooa42: posts the ante 150
+gladiatore99: posts the ante 150
+Jogi105: posts the ante 150
+eze88888: posts the ante 150
+rybioha: posts the ante 150
+brhhr: posts the ante 150
+Tom_Poker_NL: posts the ante 150
+gladiatore99: posts small blind 500
+Jogi105: posts big blind 1000
+*** HOLE CARDS ***
+eze88888: folds 
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+jooa42: raises 1000 to 2000
+gladiatore99: calls 1500
+Jogi105: raises 15115 to 17115 and is all-in
+jooa42: folds 
+WellBr20 is disconnected 
+gladiatore99: folds 
+Uncalled bet (15115) returned to Jogi105
+Jogi105 collected 7050 from pot
+*** SUMMARY ***
+Total pot 7050 | Rake 0 
+Seat 2: jooa42 (button) folded before Flop
+Seat 3: gladiatore99 (small blind) folded before Flop
+Seat 4: Jogi105 (big blind) collected (7050)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251204960600: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:23:53 UTC [2024/06/26 14:23:53 ET]
+Table '3769361891 52' 8-max Seat #3 is the button
+Seat 1: WellBr20 (25000 in chips, $25 bounty) 
+Seat 2: jooa42 (50570 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (81883 in chips, $50 bounty) 
+Seat 4: Jogi105 (22165 in chips, $37.50 bounty) 
+Seat 5: eze88888 (86743 in chips, $25 bounty) 
+Seat 6: rybioha (14951 in chips, $37.50 bounty) 
+Seat 7: brhhr (55446 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (49059 in chips, $25 bounty) 
+WellBr20: posts the ante 150
+jooa42: posts the ante 150
+gladiatore99: posts the ante 150
+Jogi105: posts the ante 150
+eze88888: posts the ante 150
+rybioha: posts the ante 150
+brhhr: posts the ante 150
+Tom_Poker_NL: posts the ante 150
+Jogi105: posts small blind 500
+eze88888: posts big blind 1000
+*** HOLE CARDS ***
+rybioha: folds 
+brhhr: raises 1000 to 2000
+Tom_Poker_NL: folds 
+WellBr20: folds 
+jooa42: folds 
+gladiatore99: folds 
+Jogi105: folds 
+eze88888: calls 1000
+*** FLOP *** [Th 6s 2d]
+eze88888: checks 
+brhhr: bets 4275
+eze88888: folds 
+Uncalled bet (4275) returned to brhhr
+brhhr collected 5700 from pot
+brhhr: doesn't show hand 
+*** SUMMARY ***
+Total pot 5700 | Rake 0 
+Board [Th 6s 2d]
+Seat 1: WellBr20 folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 (button) folded before Flop (didn't bet)
+Seat 4: Jogi105 (small blind) folded before Flop
+Seat 5: eze88888 (big blind) folded on the Flop
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr collected (5700)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251204978438: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:25:05 UTC [2024/06/26 14:25:05 ET]
+Table '3769361891 52' 8-max Seat #4 is the button
+Seat 1: WellBr20 (24850 in chips, $25 bounty) 
+Seat 2: jooa42 (50420 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (81733 in chips, $50 bounty) 
+Seat 4: Jogi105 (21515 in chips, $37.50 bounty) 
+Seat 5: eze88888 (84593 in chips, $25 bounty) 
+Seat 6: rybioha (14801 in chips, $37.50 bounty) 
+Seat 7: brhhr (58996 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (48909 in chips, $25 bounty) 
+WellBr20: posts the ante 175
+jooa42: posts the ante 175
+gladiatore99: posts the ante 175
+Jogi105: posts the ante 175
+eze88888: posts the ante 175
+rybioha: posts the ante 175
+brhhr: posts the ante 175
+Tom_Poker_NL: posts the ante 175
+eze88888: posts small blind 600
+rybioha: posts big blind 1200
+*** HOLE CARDS ***
+brhhr: folds 
+Tom_Poker_NL: folds 
+WellBr20: folds 
+jooa42: folds 
+gladiatore99: folds 
+Jogi105: folds 
+eze88888: raises 83218 to 84418 and is all-in
+rybioha: calls 13426 and is all-in
+Uncalled bet (69792) returned to eze88888
+*** FLOP *** [7h Ks 3c]
+*** TURN *** [7h Ks 3c] [Qh]
+*** RIVER *** [7h Ks 3c Qh] [8h]
+*** SHOW DOWN ***
+eze88888: shows [2c 3d] (a pair of Threes)
+rybioha: shows [Kd Td] (a pair of Kings)
+rybioha collected 30652 from pot
+*** SUMMARY ***
+Total pot 30652 | Rake 0 
+Board [7h Ks 3c Qh 8h]
+Seat 1: WellBr20 folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Jogi105 (button) folded before Flop (didn't bet)
+Seat 5: eze88888 (small blind) showed [2c 3d] and lost with a pair of Threes
+Seat 6: rybioha (big blind) showed [Kd Td] and won (30652) with a pair of Kings
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251204987229: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:25:41 UTC [2024/06/26 14:25:41 ET]
+Table '3769361891 52' 8-max Seat #5 is the button
+Seat 1: WellBr20 (24675 in chips, $25 bounty) 
+Seat 2: jooa42 (50245 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (81558 in chips, $50 bounty) 
+Seat 4: Jogi105 (21340 in chips, $37.50 bounty) 
+Seat 5: eze88888 (69792 in chips, $25 bounty) 
+Seat 6: rybioha (30652 in chips, $37.50 bounty) 
+Seat 7: brhhr (58821 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (48734 in chips, $25 bounty) 
+WellBr20: posts the ante 175
+jooa42: posts the ante 175
+gladiatore99: posts the ante 175
+Jogi105: posts the ante 175
+eze88888: posts the ante 175
+rybioha: posts the ante 175
+brhhr: posts the ante 175
+Tom_Poker_NL: posts the ante 175
+rybioha: posts small blind 600
+brhhr: posts big blind 1200
+*** HOLE CARDS ***
+Tom_Poker_NL: folds 
+WellBr20: folds 
+jooa42: folds 
+gladiatore99: folds 
+Jogi105: folds 
+eze88888: folds 
+rybioha: calls 600
+brhhr: raises 2400 to 3600
+rybioha: folds 
+Uncalled bet (2400) returned to brhhr
+brhhr collected 3800 from pot
+brhhr: doesn't show hand 
+*** SUMMARY ***
+Total pot 3800 | Rake 0 
+Seat 1: WellBr20 folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Jogi105 folded before Flop (didn't bet)
+Seat 5: eze88888 (button) folded before Flop (didn't bet)
+Seat 6: rybioha (small blind) folded before Flop
+Seat 7: brhhr (big blind) collected (3800)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251204998665: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:26:27 UTC [2024/06/26 14:26:27 ET]
+Table '3769361891 52' 8-max Seat #6 is the button
+Seat 2: jooa42 (50070 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (81383 in chips, $50 bounty) 
+Seat 4: Jogi105 (21165 in chips, $37.50 bounty) 
+Seat 5: eze88888 (69617 in chips, $25 bounty) 
+Seat 6: rybioha (29277 in chips, $37.50 bounty) 
+Seat 7: brhhr (61246 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (48559 in chips, $25 bounty) 
+jooa42: posts the ante 175
+gladiatore99: posts the ante 175
+Jogi105: posts the ante 175
+eze88888: posts the ante 175
+rybioha: posts the ante 175
+brhhr: posts the ante 175
+Tom_Poker_NL: posts the ante 175
+brhhr: posts small blind 600
+Tom_Poker_NL: posts big blind 1200
+*** HOLE CARDS ***
+jooa42: folds 
+gladiatore99: folds 
+Jogi105: folds 
+passosgg is disconnected 
+eze88888: raises 1200 to 2400
+rybioha: folds 
+brhhr: calls 1800
+Tom_Poker_NL: calls 1200
+*** FLOP *** [6d 7d 4h]
+brhhr: checks 
+Tom_Poker_NL: checks 
+eze88888: bets 2780
+brhhr: folds 
+Tom_Poker_NL: folds 
+Uncalled bet (2780) returned to eze88888
+eze88888 collected 8425 from pot
+*** SUMMARY ***
+Total pot 8425 | Rake 0 
+Board [6d 7d 4h]
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Jogi105 folded before Flop (didn't bet)
+Seat 5: eze88888 collected (8425)
+Seat 6: rybioha (button) folded before Flop (didn't bet)
+Seat 7: brhhr (small blind) folded on the Flop
+Seat 8: Tom_Poker_NL (big blind) folded on the Flop
+
+PokerStars Hand #251205010342: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:27:14 UTC [2024/06/26 14:27:14 ET]
+Table '3769361891 52' 8-max Seat #7 is the button
+Seat 1: passosgg (25000 in chips, $25 bounty) 
+Seat 2: jooa42 (49895 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (81208 in chips, $50 bounty) 
+Seat 4: Jogi105 (20990 in chips, $37.50 bounty) 
+Seat 5: eze88888 (75467 in chips, $25 bounty) 
+Seat 6: rybioha (29102 in chips, $37.50 bounty) 
+Seat 7: brhhr (58671 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (45984 in chips, $25 bounty) 
+passosgg: posts the ante 175
+jooa42: posts the ante 175
+gladiatore99: posts the ante 175
+Jogi105: posts the ante 175
+eze88888: posts the ante 175
+rybioha: posts the ante 175
+brhhr: posts the ante 175
+Tom_Poker_NL: posts the ante 175
+Tom_Poker_NL: posts small blind 600
+passosgg: posts big blind 1200
+*** HOLE CARDS ***
+jooa42: folds 
+gladiatore99: folds 
+Jogi105: folds 
+eze88888: folds 
+rybioha: folds 
+brhhr: raises 1200 to 2400
+Tom_Poker_NL: folds 
+passosgg: calls 1200
+*** FLOP *** [7s 7c 7h]
+passosgg: checks 
+brhhr: bets 1700
+passosgg: calls 1700
+*** TURN *** [7s 7c 7h] [7d]
+passosgg: checks 
+brhhr: bets 2550
+passosgg: calls 2550
+*** RIVER *** [7s 7c 7h 7d] [Td]
+passosgg: checks 
+brhhr: checks 
+*** SHOW DOWN ***
+passosgg: shows [8h Kh] (four of a kind, Sevens)
+brhhr: shows [3h Ks] (four of a kind, Sevens)
+passosgg collected 7650 from pot
+brhhr collected 7650 from pot
+*** SUMMARY ***
+Total pot 15300 | Rake 0 
+Board [7s 7c 7h 7d Td]
+Seat 1: passosgg (big blind) showed [8h Kh] and won (7650) with four of a kind, Sevens
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Jogi105 folded before Flop (didn't bet)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr (button) showed [3h Ks] and won (7650) with four of a kind, Sevens
+Seat 8: Tom_Poker_NL (small blind) folded before Flop
+
+PokerStars Hand #251205043389: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:29:26 UTC [2024/06/26 14:29:26 ET]
+Table '3769361891 52' 8-max Seat #8 is the button
+Seat 1: passosgg (25825 in chips, $25 bounty) 
+Seat 2: jooa42 (49720 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (81033 in chips, $50 bounty) 
+Seat 4: Jogi105 (20815 in chips, $37.50 bounty) 
+Seat 5: eze88888 (75292 in chips, $25 bounty) 
+Seat 6: rybioha (28927 in chips, $37.50 bounty) 
+Seat 7: brhhr (59496 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (45209 in chips, $25 bounty) 
+passosgg: posts the ante 175
+jooa42: posts the ante 175
+gladiatore99: posts the ante 175
+Jogi105: posts the ante 175
+eze88888: posts the ante 175
+rybioha: posts the ante 175
+brhhr: posts the ante 175
+Tom_Poker_NL: posts the ante 175
+passosgg: posts small blind 600
+jooa42: posts big blind 1200
+*** HOLE CARDS ***
+gladiatore99: folds 
+Jogi105: raises 1440 to 2640
+eze88888: calls 2640
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+passosgg: folds 
+jooa42: folds 
+*** FLOP *** [7c Kh 3h]
+Jogi105: checks 
+eze88888: bets 2798
+Jogi105: calls 2798
+*** TURN *** [7c Kh 3h] [9h]
+Jogi105: checks 
+eze88888: bets 3519
+Jogi105: folds 
+Uncalled bet (3519) returned to eze88888
+eze88888 collected 14076 from pot
+*** SUMMARY ***
+Total pot 14076 | Rake 0 
+Board [7c Kh 3h 9h]
+Seat 1: passosgg (small blind) folded before Flop
+Seat 2: jooa42 (big blind) folded before Flop
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Jogi105 folded on the Turn
+Seat 5: eze88888 collected (14076)
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205059396: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:30:28 UTC [2024/06/26 14:30:28 ET]
+Table '3769361891 52' 8-max Seat #1 is the button
+Seat 1: passosgg (25050 in chips, $25 bounty) 
+Seat 2: jooa42 (48345 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (80858 in chips, $50 bounty) 
+Seat 4: Jogi105 (15202 in chips, $37.50 bounty) 
+Seat 5: eze88888 (83755 in chips, $25 bounty) 
+Seat 6: rybioha (28752 in chips, $37.50 bounty) 
+Seat 7: brhhr (59321 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (45034 in chips, $25 bounty) 
+passosgg: posts the ante 175
+jooa42: posts the ante 175
+gladiatore99: posts the ante 175
+Jogi105: posts the ante 175
+eze88888: posts the ante 175
+rybioha: posts the ante 175
+brhhr: posts the ante 175
+Tom_Poker_NL: posts the ante 175
+jooa42: posts small blind 600
+gladiatore99: posts big blind 1200
+*** HOLE CARDS ***
+Jogi105: folds 
+eze88888: folds 
+rybioha: raises 1200 to 2400
+brhhr: raises 3600 to 6000
+Tom_Poker_NL: folds 
+passosgg: folds 
+jooa42: raises 42170 to 48170 and is all-in
+gladiatore99: folds 
+rybioha: folds 
+brhhr: calls 42170
+*** FLOP *** [2d 3h Kd]
+*** TURN *** [2d 3h Kd] [8h]
+*** RIVER *** [2d 3h Kd 8h] [As]
+*** SHOW DOWN ***
+jooa42: shows [Ah 2h] (two pair, Aces and Deuces)
+brhhr: shows [Td Tc] (a pair of Tens)
+jooa42 collected 101340 from pot
+*** SUMMARY ***
+Total pot 101340 | Rake 0 
+Board [2d 3h Kd 8h As]
+Seat 1: passosgg (button) folded before Flop (didn't bet)
+Seat 2: jooa42 (small blind) showed [Ah 2h] and won (101340) with two pair, Aces and Deuces
+Seat 3: gladiatore99 (big blind) folded before Flop
+Seat 4: Jogi105 folded before Flop (didn't bet)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: rybioha folded before Flop
+Seat 7: brhhr showed [Td Tc] and lost with a pair of Tens
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251205079680: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:31:47 UTC [2024/06/26 14:31:47 ET]
+Table '3769361891 52' 8-max Seat #2 is the button
+Seat 1: passosgg (24875 in chips, $25 bounty) 
+Seat 2: jooa42 (101340 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (79483 in chips, $50 bounty) 
+Seat 4: Jogi105 (15027 in chips, $37.50 bounty) 
+Seat 5: eze88888 (83580 in chips, $25 bounty) 
+Seat 6: rybioha (26177 in chips, $37.50 bounty) 
+Seat 7: brhhr (10976 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (44859 in chips, $25 bounty) 
+passosgg: posts the ante 175
+jooa42: posts the ante 175
+gladiatore99: posts the ante 175
+Jogi105: posts the ante 175
+eze88888: posts the ante 175
+rybioha: posts the ante 175
+brhhr: posts the ante 175
+Tom_Poker_NL: posts the ante 175
+gladiatore99: posts small blind 600
+Jogi105: posts big blind 1200
+*** HOLE CARDS ***
+eze88888: folds 
+rybioha: folds 
+brhhr: raises 9601 to 10801 and is all-in
+Tom_Poker_NL: folds 
+passosgg: folds 
+jooa42: folds 
+gladiatore99: folds 
+Jogi105: folds 
+Uncalled bet (9601) returned to brhhr
+brhhr collected 4400 from pot
+brhhr: doesn't show hand 
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Seat 1: passosgg folded before Flop (didn't bet)
+Seat 2: jooa42 (button) folded before Flop (didn't bet)
+Seat 3: gladiatore99 (small blind) folded before Flop
+Seat 4: Jogi105 (big blind) folded before Flop
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr collected (4400)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251205087119: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:32:17 UTC [2024/06/26 14:32:17 ET]
+Table '3769361891 52' 8-max Seat #3 is the button
+Seat 1: passosgg (24700 in chips, $25 bounty) 
+Seat 2: jooa42 (101165 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (78708 in chips, $50 bounty) 
+Seat 4: Jogi105 (13652 in chips, $37.50 bounty) 
+Seat 5: eze88888 (83405 in chips, $25 bounty) 
+Seat 6: rybioha (26002 in chips, $37.50 bounty) 
+Seat 7: brhhr (14001 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (44684 in chips, $25 bounty) 
+passosgg: posts the ante 175
+jooa42: posts the ante 175
+gladiatore99: posts the ante 175
+Jogi105: posts the ante 175
+eze88888: posts the ante 175
+rybioha: posts the ante 175
+brhhr: posts the ante 175
+Tom_Poker_NL: posts the ante 175
+Jogi105: posts small blind 600
+eze88888: posts big blind 1200
+*** HOLE CARDS ***
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: raises 1200 to 2400
+passosgg: folds 
+jooa42: calls 2400
+gladiatore99: folds 
+Jogi105: folds 
+eze88888: calls 1200
+*** FLOP *** [Kd Tc 6s]
+eze88888: checks 
+Tom_Poker_NL: bets 1800
+jooa42: folds 
+eze88888: calls 1800
+*** TURN *** [Kd Tc 6s] [3h]
+eze88888: checks 
+Tom_Poker_NL: bets 9000
+eze88888: folds 
+Uncalled bet (9000) returned to Tom_Poker_NL
+Tom_Poker_NL collected 12800 from pot
+Tom_Poker_NL: doesn't show hand 
+*** SUMMARY ***
+Total pot 12800 | Rake 0 
+Board [Kd Tc 6s 3h]
+Seat 1: passosgg folded before Flop (didn't bet)
+Seat 2: jooa42 folded on the Flop
+Seat 3: gladiatore99 (button) folded before Flop (didn't bet)
+Seat 4: Jogi105 (small blind) folded before Flop
+Seat 5: eze88888 (big blind) folded on the Turn
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL collected (12800)
+
+PokerStars Hand #251205103235: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:33:20 UTC [2024/06/26 14:33:20 ET]
+Table '3769361891 52' 8-max Seat #4 is the button
+Seat 1: passosgg (24525 in chips, $25 bounty) 
+Seat 2: jooa42 (98590 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (78533 in chips, $50 bounty) 
+Seat 4: Jogi105 (12877 in chips, $37.50 bounty) 
+Seat 5: eze88888 (79030 in chips, $25 bounty) 
+Seat 6: rybioha (25827 in chips, $37.50 bounty) 
+Seat 7: brhhr (13826 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (53109 in chips, $25 bounty) 
+passosgg: posts the ante 175
+jooa42: posts the ante 175
+gladiatore99: posts the ante 175
+Jogi105: posts the ante 175
+eze88888: posts the ante 175
+rybioha: posts the ante 175
+brhhr: posts the ante 175
+Tom_Poker_NL: posts the ante 175
+eze88888: posts small blind 600
+rybioha: posts big blind 1200
+*** HOLE CARDS ***
+brhhr: folds 
+Tom_Poker_NL: folds 
+passosgg: folds 
+jooa42: raises 1200 to 2400
+gladiatore99: folds 
+Jogi105: raises 10302 to 12702 and is all-in
+eze88888: folds 
+rybioha: folds 
+jooa42: calls 10302
+*** FLOP *** [3c 9d Qd]
+*** TURN *** [3c 9d Qd] [4h]
+*** RIVER *** [3c 9d Qd 4h] [Td]
+*** SHOW DOWN ***
+jooa42: shows [Th Js] (a pair of Tens)
+Jogi105: shows [9h 9c] (three of a kind, Nines)
+Jogi105 collected 28604 from pot
+*** SUMMARY ***
+Total pot 28604 | Rake 0 
+Board [3c 9d Qd 4h Td]
+Seat 1: passosgg folded before Flop (didn't bet)
+Seat 2: jooa42 showed [Th Js] and lost with a pair of Tens
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Jogi105 (button) showed [9h 9c] and won (28604) with three of a kind, Nines
+Seat 5: eze88888 (small blind) folded before Flop
+Seat 6: rybioha (big blind) folded before Flop
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251205117699: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:34:17 UTC [2024/06/26 14:34:17 ET]
+Table '3769361891 52' 8-max Seat #5 is the button
+Seat 1: passosgg (24350 in chips, $25 bounty) 
+Seat 2: jooa42 (85713 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (78358 in chips, $50 bounty) 
+Seat 4: Jogi105 (28604 in chips, $37.50 bounty) 
+Seat 5: eze88888 (78255 in chips, $25 bounty) 
+Seat 6: rybioha (24452 in chips, $37.50 bounty) 
+Seat 7: brhhr (13651 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (52934 in chips, $25 bounty) 
+passosgg: posts the ante 175
+jooa42: posts the ante 175
+gladiatore99: posts the ante 175
+Jogi105: posts the ante 175
+eze88888: posts the ante 175
+rybioha: posts the ante 175
+brhhr: posts the ante 175
+Tom_Poker_NL: posts the ante 175
+rybioha: posts small blind 600
+brhhr: posts big blind 1200
+*** HOLE CARDS ***
+Tom_Poker_NL: folds 
+passosgg: folds 
+jooa42: folds 
+gladiatore99: folds 
+Jogi105: folds 
+eze88888: folds 
+rybioha: raises 23077 to 24277 and is all-in
+brhhr: folds 
+Uncalled bet (23077) returned to rybioha
+rybioha collected 3800 from pot
+rybioha: doesn't show hand 
+*** SUMMARY ***
+Total pot 3800 | Rake 0 
+Seat 1: passosgg folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Jogi105 folded before Flop (didn't bet)
+Seat 5: eze88888 (button) folded before Flop (didn't bet)
+Seat 6: rybioha (small blind) collected (3800)
+Seat 7: brhhr (big blind) folded before Flop
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251205125064: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:34:46 UTC [2024/06/26 14:34:46 ET]
+Table '3769361891 52' 8-max Seat #6 is the button
+Seat 1: passosgg (24175 in chips, $25 bounty) 
+Seat 2: jooa42 (85538 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (78183 in chips, $50 bounty) 
+Seat 4: Jogi105 (28429 in chips, $37.50 bounty) 
+Seat 5: eze88888 (78080 in chips, $25 bounty) 
+Seat 6: rybioha (26877 in chips, $37.50 bounty) 
+Seat 7: brhhr (12276 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (52759 in chips, $25 bounty) 
+passosgg: posts the ante 200
+jooa42: posts the ante 200
+gladiatore99: posts the ante 200
+Jogi105: posts the ante 200
+eze88888: posts the ante 200
+rybioha: posts the ante 200
+brhhr: posts the ante 200
+Tom_Poker_NL: posts the ante 200
+brhhr: posts small blind 700
+Tom_Poker_NL: posts big blind 1400
+*** HOLE CARDS ***
+passosgg: folds 
+jooa42: folds 
+gladiatore99: folds 
+Jogi105: raises 1680 to 3080
+eze88888: folds 
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: calls 1680
+*** FLOP *** [Jd 6d Kd]
+Tom_Poker_NL: checks 
+Jogi105: checks 
+*** TURN *** [Jd 6d Kd] [Js]
+Tom_Poker_NL: bets 5884
+Jogi105: calls 5884
+*** RIVER *** [Jd 6d Kd Js] [3d]
+Tom_Poker_NL: bets 2100
+Jogi105: calls 2100
+*** SHOW DOWN ***
+Tom_Poker_NL: shows [Td 7s] (a flush, King high)
+Jogi105: mucks hand 
+Tom_Poker_NL collected 24428 from pot
+*** SUMMARY ***
+Total pot 24428 | Rake 0 
+Board [Jd 6d Kd Js 3d]
+Seat 1: passosgg folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Jogi105 mucked
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: rybioha (button) folded before Flop (didn't bet)
+Seat 7: brhhr (small blind) folded before Flop
+Seat 8: Tom_Poker_NL (big blind) showed [Td 7s] and won (24428) with a flush, King high
+
+PokerStars Hand #251205136742: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:35:31 UTC [2024/06/26 14:35:31 ET]
+Table '3769361891 52' 8-max Seat #7 is the button
+Seat 1: passosgg (23975 in chips, $25 bounty) 
+Seat 2: jooa42 (85338 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (77983 in chips, $50 bounty) 
+Seat 4: Jogi105 (17165 in chips, $37.50 bounty) 
+Seat 5: eze88888 (77880 in chips, $25 bounty) 
+Seat 6: rybioha (26677 in chips, $37.50 bounty) 
+Seat 7: brhhr (11376 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (65923 in chips, $25 bounty) 
+passosgg: posts the ante 200
+jooa42: posts the ante 200
+gladiatore99: posts the ante 200
+Jogi105: posts the ante 200
+eze88888: posts the ante 200
+rybioha: posts the ante 200
+brhhr: posts the ante 200
+Tom_Poker_NL: posts the ante 200
+Tom_Poker_NL: posts small blind 700
+passosgg: posts big blind 1400
+*** HOLE CARDS ***
+jooa42: raises 1400 to 2800
+gladiatore99: calls 2800
+Jogi105: raises 14165 to 16965 and is all-in
+eze88888: folds 
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+passosgg: folds 
+jooa42: folds 
+gladiatore99: calls 14165
+*** FLOP *** [7s 2h Ks]
+*** TURN *** [7s 2h Ks] [4d]
+*** RIVER *** [7s 2h Ks 4d] [4c]
+*** SHOW DOWN ***
+gladiatore99: shows [As Ah] (two pair, Aces and Fours)
+Jogi105: shows [Ac Qc] (a pair of Fours)
+gladiatore99 collected 40430 from pot
+gladiatore99 wins $18.75 for eliminating Jogi105 and their own bounty increases by $18.75 to $68.75
+Jogi105 finished the tournament
+*** SUMMARY ***
+Total pot 40430 | Rake 0 
+Board [7s 2h Ks 4d 4c]
+Seat 1: passosgg (big blind) folded before Flop
+Seat 2: jooa42 folded before Flop
+Seat 3: gladiatore99 showed [As Ah] and won (40430) with two pair, Aces and Fours
+Seat 4: Jogi105 showed [Ac Qc] and lost with a pair of Fours
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr (button) folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL (small blind) folded before Flop
+
+PokerStars Hand #251205148859: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:36:19 UTC [2024/06/26 14:36:19 ET]
+Table '3769361891 52' 8-max Seat #8 is the button
+Seat 1: passosgg (22375 in chips, $25 bounty) 
+Seat 2: jooa42 (82338 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (101248 in chips, $68.75 bounty) 
+Seat 5: eze88888 (77680 in chips, $25 bounty) 
+Seat 6: rybioha (26477 in chips, $37.50 bounty) 
+Seat 7: brhhr (11176 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (65023 in chips, $25 bounty) 
+passosgg: posts the ante 200
+jooa42: posts the ante 200
+gladiatore99: posts the ante 200
+eze88888: posts the ante 200
+rybioha: posts the ante 200
+brhhr: posts the ante 200
+Tom_Poker_NL: posts the ante 200
+passosgg: posts small blind 700
+jooa42: posts big blind 1400
+*** HOLE CARDS ***
+gladiatore99: raises 1400 to 2800
+eze88888: folds 
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+passosgg: folds 
+jooa42: folds 
+Uncalled bet (1400) returned to gladiatore99
+gladiatore99 collected 4900 from pot
+gladiatore99: doesn't show hand 
+*** SUMMARY ***
+Total pot 4900 | Rake 0 
+Seat 1: passosgg (small blind) folded before Flop
+Seat 2: jooa42 (big blind) folded before Flop
+Seat 3: gladiatore99 collected (4900)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205156550: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:36:48 UTC [2024/06/26 14:36:48 ET]
+Table '3769361891 52' 8-max Seat #1 is the button
+Seat 1: passosgg (21475 in chips, $25 bounty) 
+Seat 2: jooa42 (80738 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (104548 in chips, $68.75 bounty) 
+Seat 5: eze88888 (77480 in chips, $25 bounty) 
+Seat 6: rybioha (26277 in chips, $37.50 bounty) 
+Seat 7: brhhr (10976 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (64823 in chips, $25 bounty) 
+passosgg: posts the ante 200
+jooa42: posts the ante 200
+gladiatore99: posts the ante 200
+eze88888: posts the ante 200
+rybioha: posts the ante 200
+brhhr: posts the ante 200
+Tom_Poker_NL: posts the ante 200
+jooa42: posts small blind 700
+gladiatore99: posts big blind 1400
+*** HOLE CARDS ***
+eze88888: folds 
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+passosgg: folds 
+jooa42: folds 
+Uncalled bet (700) returned to gladiatore99
+gladiatore99 collected 2800 from pot
+gladiatore99: doesn't show hand 
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Seat 1: passosgg (button) folded before Flop (didn't bet)
+Seat 2: jooa42 (small blind) folded before Flop
+Seat 3: gladiatore99 (big blind) collected (2800)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251205160677: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:37:04 UTC [2024/06/26 14:37:04 ET]
+Table '3769361891 52' 8-max Seat #2 is the button
+Seat 1: passosgg (21275 in chips, $25 bounty) 
+Seat 2: jooa42 (79838 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (106448 in chips, $68.75 bounty) 
+Seat 5: eze88888 (77280 in chips, $25 bounty) 
+Seat 6: rybioha (26077 in chips, $37.50 bounty) 
+Seat 7: brhhr (10776 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (64623 in chips, $25 bounty) 
+passosgg: posts the ante 200
+jooa42: posts the ante 200
+gladiatore99: posts the ante 200
+eze88888: posts the ante 200
+rybioha: posts the ante 200
+brhhr: posts the ante 200
+Tom_Poker_NL: posts the ante 200
+gladiatore99: posts small blind 700
+eze88888: posts big blind 1400
+*** HOLE CARDS ***
+rybioha: folds 
+brhhr: raises 9176 to 10576 and is all-in
+Tom_Poker_NL: folds 
+passosgg: folds 
+jooa42: calls 10576
+gladiatore99: folds 
+eze88888: folds 
+*** FLOP *** [Ad 5c 4h]
+*** TURN *** [Ad 5c 4h] [Qc]
+*** RIVER *** [Ad 5c 4h Qc] [Th]
+*** SHOW DOWN ***
+brhhr: shows [Jd Jh] (a pair of Jacks)
+jooa42: shows [Kh 7c] (high card Ace)
+Bibiloi34 is disconnected 
+brhhr collected 24652 from pot
+*** SUMMARY ***
+Total pot 24652 | Rake 0 
+Board [Ad 5c 4h Qc Th]
+Seat 1: passosgg folded before Flop (didn't bet)
+Seat 2: jooa42 (button) showed [Kh 7c] and lost with high card Ace
+Seat 3: gladiatore99 (small blind) folded before Flop
+Seat 5: eze88888 (big blind) folded before Flop
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr showed [Jd Jh] and won (24652) with a pair of Jacks
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251205171765: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:37:47 UTC [2024/06/26 14:37:47 ET]
+Table '3769361891 52' 8-max Seat #3 is the button
+Seat 1: passosgg (21075 in chips, $25 bounty) 
+Seat 2: jooa42 (69062 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (105548 in chips, $68.75 bounty) 
+Seat 4: Bibiloi34 (25000 in chips) out of hand (moved from another table into small blind)
+Seat 5: eze88888 (75680 in chips, $25 bounty) 
+Seat 6: rybioha (25877 in chips, $37.50 bounty) 
+Seat 7: brhhr (24652 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (64423 in chips, $25 bounty) 
+Bibiloi34 will be allowed to play after the button
+passosgg: posts the ante 200
+jooa42: posts the ante 200
+gladiatore99: posts the ante 200
+eze88888: posts the ante 200
+rybioha: posts the ante 200
+brhhr: posts the ante 200
+Tom_Poker_NL: posts the ante 200
+eze88888: posts small blind 700
+rybioha: posts big blind 1400
+*** HOLE CARDS ***
+brhhr: folds 
+Tom_Poker_NL: folds 
+passosgg: folds 
+jooa42: raises 1400 to 2800
+gladiatore99: folds 
+eze88888: folds 
+rybioha: folds 
+Uncalled bet (1400) returned to jooa42
+jooa42 collected 4900 from pot
+*** SUMMARY ***
+Total pot 4900 | Rake 0 
+Seat 1: passosgg folded before Flop (didn't bet)
+Seat 2: jooa42 collected (4900)
+Seat 3: gladiatore99 (button) folded before Flop (didn't bet)
+Seat 5: eze88888 (small blind) folded before Flop
+Seat 6: rybioha (big blind) folded before Flop
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251205175651: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:38:02 UTC [2024/06/26 14:38:02 ET]
+Table '3769361891 52' 8-max Seat #5 is the button
+Seat 1: passosgg (20875 in chips, $25 bounty) 
+Seat 2: jooa42 (72362 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (105348 in chips, $68.75 bounty) 
+Seat 4: Bibiloi34 (25000 in chips, $25 bounty) 
+Seat 5: eze88888 (74780 in chips, $25 bounty) 
+Seat 6: rybioha (24277 in chips, $37.50 bounty) 
+Seat 7: brhhr (24452 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (64223 in chips, $25 bounty) 
+passosgg: posts the ante 200
+jooa42: posts the ante 200
+gladiatore99: posts the ante 200
+Bibiloi34: posts the ante 200
+eze88888: posts the ante 200
+rybioha: posts the ante 200
+brhhr: posts the ante 200
+Tom_Poker_NL: posts the ante 200
+rybioha: posts small blind 700
+brhhr: posts big blind 1400
+*** HOLE CARDS ***
+Tom_Poker_NL: folds 
+passosgg: folds 
+jooa42: folds 
+gladiatore99: raises 1400 to 2800
+Bibiloi34: folds 
+eze88888: folds 
+rybioha: folds 
+brhhr: folds 
+Uncalled bet (1400) returned to gladiatore99
+gladiatore99 collected 5100 from pot
+gladiatore99: doesn't show hand 
+*** SUMMARY ***
+Total pot 5100 | Rake 0 
+Seat 1: passosgg folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 collected (5100)
+Seat 4: Bibiloi34 folded before Flop (didn't bet)
+Seat 5: eze88888 (button) folded before Flop (didn't bet)
+Seat 6: rybioha (small blind) folded before Flop
+Seat 7: brhhr (big blind) folded before Flop
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251205181445: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:38:25 UTC [2024/06/26 14:38:25 ET]
+Table '3769361891 52' 8-max Seat #6 is the button
+Seat 1: passosgg (20675 in chips, $25 bounty) 
+Seat 2: jooa42 (72162 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (108848 in chips, $68.75 bounty) 
+Seat 4: Bibiloi34 (24800 in chips, $25 bounty) 
+Seat 5: eze88888 (74580 in chips, $25 bounty) 
+Seat 6: rybioha (23377 in chips, $37.50 bounty) 
+Seat 7: brhhr (22852 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (64023 in chips, $25 bounty) 
+passosgg: posts the ante 200
+jooa42: posts the ante 200
+gladiatore99: posts the ante 200
+Bibiloi34: posts the ante 200
+eze88888: posts the ante 200
+rybioha: posts the ante 200
+brhhr: posts the ante 200
+Tom_Poker_NL: posts the ante 200
+brhhr: posts small blind 700
+Tom_Poker_NL: posts big blind 1400
+*** HOLE CARDS ***
+passosgg: folds 
+jooa42: raises 1400 to 2800
+gladiatore99: calls 2800
+Bibiloi34: folds 
+eze88888: folds 
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: calls 1400
+*** FLOP *** [9d 5s 8h]
+Tom_Poker_NL: checks 
+jooa42: checks 
+gladiatore99: bets 2800
+Tom_Poker_NL: calls 2800
+jooa42: calls 2800
+*** TURN *** [9d 5s 8h] [Kc]
+Tom_Poker_NL: checks 
+jooa42: checks 
+gladiatore99: checks 
+*** RIVER *** [9d 5s 8h Kc] [7h]
+Tom_Poker_NL: checks 
+jooa42: bets 4775
+gladiatore99: folds 
+Tom_Poker_NL: folds 
+Uncalled bet (4775) returned to jooa42
+jooa42 collected 19100 from pot
+*** SUMMARY ***
+Total pot 19100 | Rake 0 
+Board [9d 5s 8h Kc 7h]
+Seat 1: passosgg folded before Flop (didn't bet)
+Seat 2: jooa42 collected (19100)
+Seat 3: gladiatore99 folded on the River
+Seat 4: Bibiloi34 folded before Flop (didn't bet)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: rybioha (button) folded before Flop (didn't bet)
+Seat 7: brhhr (small blind) folded before Flop
+Seat 8: Tom_Poker_NL (big blind) folded on the River
+
+PokerStars Hand #251205199935: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:39:36 UTC [2024/06/26 14:39:36 ET]
+Table '3769361891 52' 8-max Seat #7 is the button
+Seat 1: passosgg (20475 in chips, $25 bounty) 
+Seat 2: jooa42 (85462 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (103048 in chips, $68.75 bounty) 
+Seat 4: Bibiloi34 (24600 in chips, $25 bounty) 
+Seat 5: eze88888 (74380 in chips, $25 bounty) 
+Seat 6: rybioha (23177 in chips, $37.50 bounty) 
+Seat 7: brhhr (21952 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (58223 in chips, $25 bounty) 
+passosgg: posts the ante 200
+jooa42: posts the ante 200
+gladiatore99: posts the ante 200
+Bibiloi34: posts the ante 200
+eze88888: posts the ante 200
+rybioha: posts the ante 200
+brhhr: posts the ante 200
+Tom_Poker_NL: posts the ante 200
+Tom_Poker_NL: posts small blind 700
+passosgg: posts big blind 1400
+*** HOLE CARDS ***
+jooa42: raises 1400 to 2800
+gladiatore99: calls 2800
+Bibiloi34: raises 8400 to 11200
+eze88888: folds 
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+passosgg: folds 
+jooa42: folds 
+gladiatore99: folds 
+Uncalled bet (8400) returned to Bibiloi34
+Bibiloi34 collected 12100 from pot
+Bibiloi34: doesn't show hand 
+*** SUMMARY ***
+Total pot 12100 | Rake 0 
+Seat 1: passosgg (big blind) folded before Flop
+Seat 2: jooa42 folded before Flop
+Seat 3: gladiatore99 folded before Flop
+Seat 4: Bibiloi34 collected (12100)
+Seat 5: eze88888 folded before Flop (didn't bet)
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr (button) folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL (small blind) folded before Flop
+
+PokerStars Hand #251205215811: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:40:37 UTC [2024/06/26 14:40:37 ET]
+Table '3769361891 52' 8-max Seat #8 is the button
+Seat 1: passosgg (18875 in chips, $25 bounty) 
+Seat 2: jooa42 (82462 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (100048 in chips, $68.75 bounty) 
+Seat 4: Bibiloi34 (33700 in chips, $25 bounty) 
+Seat 6: rybioha (22977 in chips, $37.50 bounty) 
+Seat 7: brhhr (21752 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (57323 in chips, $25 bounty) 
+passosgg: posts the ante 200
+jooa42: posts the ante 200
+gladiatore99: posts the ante 200
+Bibiloi34: posts the ante 200
+rybioha: posts the ante 200
+brhhr: posts the ante 200
+Tom_Poker_NL: posts the ante 200
+passosgg: posts small blind 700
+jooa42: posts big blind 1400
+*** HOLE CARDS ***
+gladiatore99: raises 1400 to 2800
+Bibiloi34: calls 2800
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: raises 8400 to 11200
+passosgg: folds 
+fAArid88 is disconnected 
+jooa42: folds 
+gladiatore99: folds 
+Bibiloi34: calls 8400
+*** FLOP *** [6s 7c Jc]
+Bibiloi34: checks 
+Tom_Poker_NL: bets 31570
+Bibiloi34: calls 22300 and is all-in
+Uncalled bet (9270) returned to Tom_Poker_NL
+*** TURN *** [6s 7c Jc] [Qd]
+*** RIVER *** [6s 7c Jc Qd] [2c]
+*** SHOW DOWN ***
+Bibiloi34: shows [9d Jh] (a pair of Jacks)
+Tom_Poker_NL: shows [Ac Kc] (a flush, Ace high)
+Tom_Poker_NL collected 73300 from pot
+Tom_Poker_NL wins $12.50 for eliminating Bibiloi34 and their own bounty increases by $12.50 to $37.50
+Bibiloi34 finished the tournament
+*** SUMMARY ***
+Total pot 73300 | Rake 0 
+Board [6s 7c Jc Qd 2c]
+Seat 1: passosgg (small blind) folded before Flop
+Seat 2: jooa42 (big blind) folded before Flop
+Seat 3: gladiatore99 folded before Flop
+Seat 4: Bibiloi34 showed [9d Jh] and lost with a pair of Jacks
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL (button) showed [Ac Kc] and won (73300) with a flush, Ace high
+
+PokerStars Hand #251205230331: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:41:33 UTC [2024/06/26 14:41:33 ET]
+Table '3769361891 52' 8-max Seat #1 is the button
+Seat 1: passosgg (17975 in chips, $25 bounty) 
+Seat 2: jooa42 (80862 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (97048 in chips, $68.75 bounty) 
+Seat 5: fAArid88 (25000 in chips, $25 bounty) 
+Seat 6: rybioha (22777 in chips, $37.50 bounty) 
+Seat 7: brhhr (21552 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (96923 in chips, $37.50 bounty) 
+passosgg: posts the ante 200
+jooa42: posts the ante 200
+gladiatore99: posts the ante 200
+fAArid88: posts the ante 200
+rybioha: posts the ante 200
+brhhr: posts the ante 200
+Tom_Poker_NL: posts the ante 200
+jooa42: posts small blind 700
+gladiatore99: posts big blind 1400
+*** HOLE CARDS ***
+fAArid88: folds 
+Bibiloi34 is disconnected 
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+passosgg: raises 16375 to 17775 and is all-in
+jooa42: folds 
+gladiatore99: calls 16375
+*** FLOP *** [6s 8d Qs]
+*** TURN *** [6s 8d Qs] [Th]
+*** RIVER *** [6s 8d Qs Th] [As]
+*** SHOW DOWN ***
+gladiatore99: shows [9d Kd] (high card Ace)
+passosgg: shows [Ts Ac] (two pair, Aces and Tens)
+passosgg collected 37650 from pot
+*** SUMMARY ***
+Total pot 37650 | Rake 0 
+Board [6s 8d Qs Th As]
+Seat 1: passosgg (button) showed [Ts Ac] and won (37650) with two pair, Aces and Tens
+Seat 2: jooa42 (small blind) folded before Flop
+Seat 3: gladiatore99 (big blind) showed [9d Kd] and lost with high card Ace
+Seat 5: fAArid88 folded before Flop (didn't bet)
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251205241583: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:42:16 UTC [2024/06/26 14:42:16 ET]
+Table '3769361891 52' 8-max Seat #2 is the button
+Seat 1: passosgg (37650 in chips, $25 bounty) 
+Seat 2: jooa42 (79962 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (79073 in chips, $68.75 bounty) 
+Seat 4: Bibiloi34 (25000 in chips, $25 bounty) 
+Seat 5: fAArid88 (24800 in chips, $25 bounty) 
+Seat 6: rybioha (22577 in chips, $37.50 bounty) 
+Seat 7: brhhr (21352 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (96723 in chips, $37.50 bounty) 
+passosgg: posts the ante 200
+jooa42: posts the ante 200
+gladiatore99: posts the ante 200
+Bibiloi34: posts the ante 200
+fAArid88: posts the ante 200
+rybioha: posts the ante 200
+brhhr: posts the ante 200
+Tom_Poker_NL: posts the ante 200
+gladiatore99: posts small blind 700
+Bibiloi34: posts big blind 1400
+*** HOLE CARDS ***
+fAArid88: folds 
+rybioha: raises 1400 to 2800
+brhhr: folds 
+Tom_Poker_NL: folds 
+passosgg: folds 
+jooa42: folds 
+gladiatore99: raises 4200 to 7000
+Bibiloi34: calls 5600
+rybioha: folds 
+*** FLOP *** [Ah 4h 5s]
+gladiatore99: bets 5600
+Bibiloi34: calls 5600
+*** TURN *** [Ah 4h 5s] [Kc]
+gladiatore99: checks 
+Bibiloi34: bets 12200 and is all-in
+gladiatore99: folds 
+Uncalled bet (12200) returned to Bibiloi34
+Bibiloi34 collected 29600 from pot
+Bibiloi34: doesn't show hand 
+*** SUMMARY ***
+Total pot 29600 | Rake 0 
+Board [Ah 4h 5s Kc]
+Seat 1: passosgg folded before Flop (didn't bet)
+Seat 2: jooa42 (button) folded before Flop (didn't bet)
+Seat 3: gladiatore99 (small blind) folded on the Turn
+Seat 4: Bibiloi34 (big blind) collected (29600)
+Seat 5: fAArid88 folded before Flop (didn't bet)
+Seat 6: rybioha folded before Flop
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251205257756: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:43:18 UTC [2024/06/26 14:43:18 ET]
+Table '3769361891 52' 8-max Seat #3 is the button
+Seat 1: passosgg (37450 in chips, $25 bounty) 
+Seat 2: jooa42 (79762 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (66273 in chips, $68.75 bounty) 
+Seat 4: Bibiloi34 (41800 in chips, $25 bounty) 
+Seat 5: fAArid88 (24600 in chips, $25 bounty) 
+Seat 6: rybioha (19577 in chips, $37.50 bounty) 
+Seat 7: brhhr (21152 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (96523 in chips, $37.50 bounty) 
+passosgg: posts the ante 200
+jooa42: posts the ante 200
+gladiatore99: posts the ante 200
+Bibiloi34: posts the ante 200
+fAArid88: posts the ante 200
+rybioha: posts the ante 200
+brhhr: posts the ante 200
+Tom_Poker_NL: posts the ante 200
+Bibiloi34: posts small blind 700
+fAArid88: posts big blind 1400
+*** HOLE CARDS ***
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+passosgg: folds 
+jooa42: folds 
+gladiatore99: folds 
+Bibiloi34: folds 
+Uncalled bet (700) returned to fAArid88
+fAArid88 collected 3000 from pot
+fAArid88: doesn't show hand 
+*** SUMMARY ***
+Total pot 3000 | Rake 0 
+Seat 1: passosgg folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 (button) folded before Flop (didn't bet)
+Seat 4: Bibiloi34 (small blind) folded before Flop
+Seat 5: fAArid88 (big blind) collected (3000)
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251205261992: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:43:34 UTC [2024/06/26 14:43:34 ET]
+Table '3769361891 52' 8-max Seat #4 is the button
+Seat 1: passosgg (37250 in chips, $25 bounty) 
+Seat 2: jooa42 (79562 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (66073 in chips, $68.75 bounty) 
+Seat 4: Bibiloi34 (40900 in chips, $25 bounty) 
+Seat 5: fAArid88 (26700 in chips, $25 bounty) 
+Seat 6: rybioha (19377 in chips, $37.50 bounty) 
+Seat 7: brhhr (20952 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (96323 in chips, $37.50 bounty) 
+passosgg: posts the ante 200
+jooa42: posts the ante 200
+gladiatore99: posts the ante 200
+Bibiloi34: posts the ante 200
+fAArid88: posts the ante 200
+rybioha: posts the ante 200
+brhhr: posts the ante 200
+Tom_Poker_NL: posts the ante 200
+fAArid88: posts small blind 700
+rybioha: posts big blind 1400
+*** HOLE CARDS ***
+brhhr: folds 
+Tom_Poker_NL: folds 
+passosgg: folds 
+jooa42: folds 
+gladiatore99: folds 
+Bibiloi34: raises 2800 to 4200
+fAArid88: raises 22300 to 26500 and is all-in
+rybioha: folds 
+Bibiloi34: calls 22300
+*** FLOP *** [5d 7s Kc]
+*** TURN *** [5d 7s Kc] [4c]
+*** RIVER *** [5d 7s Kc 4c] [As]
+*** SHOW DOWN ***
+fAArid88: shows [Jd Ac] (a pair of Aces)
+Bibiloi34: shows [6s Ks] (a pair of Kings)
+fAArid88 collected 56000 from pot
+*** SUMMARY ***
+Total pot 56000 | Rake 0 
+Board [5d 7s Kc 4c As]
+Seat 1: passosgg folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Bibiloi34 (button) showed [6s Ks] and lost with a pair of Kings
+Seat 5: fAArid88 (small blind) showed [Jd Ac] and won (56000) with a pair of Aces
+Seat 6: rybioha (big blind) folded before Flop
+Seat 7: brhhr folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251205270413: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:44:06 UTC [2024/06/26 14:44:06 ET]
+Table '3769361891 52' 8-max Seat #5 is the button
+Seat 1: passosgg (37050 in chips, $25 bounty) 
+Seat 2: jooa42 (79362 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (65873 in chips, $68.75 bounty) 
+Seat 4: Bibiloi34 (14200 in chips, $25 bounty) 
+Seat 5: fAArid88 (56000 in chips, $25 bounty) 
+Seat 6: rybioha (17777 in chips, $37.50 bounty) 
+Seat 7: brhhr (20752 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (96123 in chips, $37.50 bounty) 
+passosgg: posts the ante 200
+jooa42: posts the ante 200
+gladiatore99: posts the ante 200
+Bibiloi34: posts the ante 200
+fAArid88: posts the ante 200
+rybioha: posts the ante 200
+brhhr: posts the ante 200
+Tom_Poker_NL: posts the ante 200
+rybioha: posts small blind 700
+brhhr: posts big blind 1400
+*** HOLE CARDS ***
+Tom_Poker_NL: folds 
+passosgg: folds 
+jooa42: folds 
+gladiatore99: folds 
+Bibiloi34: folds 
+fAArid88: folds 
+rybioha: raises 16177 to 17577 and is all-in
+brhhr: calls 16177
+*** FLOP *** [Ac 7h 4d]
+*** TURN *** [Ac 7h 4d] [Ts]
+*** RIVER *** [Ac 7h 4d Ts] [3d]
+*** SHOW DOWN ***
+rybioha: shows [6d Ad] (a pair of Aces)
+brhhr: shows [6s As] (a pair of Aces)
+rybioha collected 18377 from pot
+brhhr collected 18377 from pot
+*** SUMMARY ***
+Total pot 36754 | Rake 0 
+Board [Ac 7h 4d Ts 3d]
+Seat 1: passosgg folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Bibiloi34 folded before Flop (didn't bet)
+Seat 5: fAArid88 (button) folded before Flop (didn't bet)
+Seat 6: rybioha (small blind) showed [6d Ad] and won (18377) with a pair of Aces
+Seat 7: brhhr (big blind) showed [6s As] and won (18377) with a pair of Aces
+Seat 8: Tom_Poker_NL folded before Flop (didn't bet)
+
+PokerStars Hand #251205278522: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 18:44:37 UTC [2024/06/26 14:44:37 ET]
+Table '3769361891 52' 8-max Seat #6 is the button
+Seat 1: passosgg (36850 in chips, $25 bounty) 
+Seat 2: jooa42 (79162 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (65673 in chips, $68.75 bounty) 
+Seat 4: Bibiloi34 (14000 in chips, $25 bounty) 
+Seat 5: fAArid88 (55800 in chips, $25 bounty) 
+Seat 6: rybioha (18377 in chips, $37.50 bounty) 
+Seat 7: brhhr (21352 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (95923 in chips, $37.50 bounty) 
+passosgg: posts the ante 225
+jooa42: posts the ante 225
+gladiatore99: posts the ante 225
+Bibiloi34: posts the ante 225
+fAArid88: posts the ante 225
+rybioha: posts the ante 225
+brhhr: posts the ante 225
+Tom_Poker_NL: posts the ante 225
+brhhr: posts small blind 800
+Tom_Poker_NL: posts big blind 1600
+*** HOLE CARDS ***
+passosgg: folds 
+jooa42: folds 
+gladiatore99: folds 
+Bibiloi34: raises 12175 to 13775 and is all-in
+fAArid88: folds 
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: folds 
+Uncalled bet (12175) returned to Bibiloi34
+Bibiloi34 collected 5800 from pot
+Bibiloi34: doesn't show hand 
+*** SUMMARY ***
+Total pot 5800 | Rake 0 
+Seat 1: passosgg folded before Flop (didn't bet)
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Bibiloi34 collected (5800)
+Seat 5: fAArid88 folded before Flop (didn't bet)
+Seat 6: rybioha (button) folded before Flop (didn't bet)
+Seat 7: brhhr (small blind) folded before Flop
+Seat 8: Tom_Poker_NL (big blind) folded before Flop
+
+PokerStars Hand #251205286895: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 18:45:08 UTC [2024/06/26 14:45:08 ET]
+Table '3769361891 52' 8-max Seat #7 is the button
+Seat 1: passosgg (36625 in chips, $25 bounty) 
+Seat 2: jooa42 (78937 in chips, $62.50 bounty) 
+Seat 3: gladiatore99 (65448 in chips, $68.75 bounty) 
+Seat 4: Bibiloi34 (17975 in chips, $25 bounty) 
+Seat 5: fAArid88 (55575 in chips, $25 bounty) 
+Seat 6: rybioha (18152 in chips, $37.50 bounty) 
+Seat 7: brhhr (20327 in chips, $37.50 bounty) 
+Seat 8: Tom_Poker_NL (94098 in chips, $37.50 bounty) 
+passosgg: posts the ante 225
+jooa42: posts the ante 225
+gladiatore99: posts the ante 225
+Bibiloi34: posts the ante 225
+fAArid88: posts the ante 225
+rybioha: posts the ante 225
+brhhr: posts the ante 225
+Tom_Poker_NL: posts the ante 225
+Tom_Poker_NL: posts small blind 800
+passosgg: posts big blind 1600
+*** HOLE CARDS ***
+jooa42: folds 
+gladiatore99: folds 
+Bibiloi34: raises 16150 to 17750 and is all-in
+fAArid88: folds 
+rybioha: folds 
+brhhr: folds 
+Tom_Poker_NL: raises 16150 to 33900
+passosgg: raises 2500 to 36400 and is all-in
+Tom_Poker_NL: calls 2500
+*** FLOP *** [7h 7s 5s]
+*** TURN *** [7h 7s 5s] [Kc]
+*** RIVER *** [7h 7s 5s Kc] [4h]
+*** SHOW DOWN ***
+Tom_Poker_NL: shows [7c Ad] (three of a kind, Sevens)
+passosgg: shows [Ts Tc] (two pair, Tens and Sevens)
+Tom_Poker_NL collected 37300 from side pot
+Bibiloi34: shows [Ah 4s] (two pair, Sevens and Fours)
+Tom_Poker_NL collected 55050 from main pot
+Tom_Poker_NL wins $12.50 for eliminating passosgg and their own bounty increases by $12.50 to $50
+Tom_Poker_NL wins $12.50 for eliminating Bibiloi34 and their own bounty increases by $12.50 to $62.50
+passosgg finished the tournament
+Bibiloi34 finished the tournament
+*** SUMMARY ***
+Total pot 92350 Main pot 55050. Side pot 37300. | Rake 0 
+Board [7h 7s 5s Kc 4h]
+Seat 1: passosgg (big blind) showed [Ts Tc] and lost with two pair, Tens and Sevens
+Seat 2: jooa42 folded before Flop (didn't bet)
+Seat 3: gladiatore99 folded before Flop (didn't bet)
+Seat 4: Bibiloi34 showed [Ah 4s] and lost with two pair, Sevens and Fours
+Seat 5: fAArid88 folded before Flop (didn't bet)
+Seat 6: rybioha folded before Flop (didn't bet)
+Seat 7: brhhr (button) folded before Flop (didn't bet)
+Seat 8: Tom_Poker_NL (small blind) showed [7c Ad] and won (92350) with three of a kind, Sevens

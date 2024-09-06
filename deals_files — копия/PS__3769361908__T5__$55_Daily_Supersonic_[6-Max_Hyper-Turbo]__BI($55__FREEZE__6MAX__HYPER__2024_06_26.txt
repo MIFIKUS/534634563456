@@ -1,0 +1,1943 @@
+PokerStars Hand #251209432006: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/26 22:25:25 UTC [2024/06/26 18:25:25 ET]
+Table '3769361908 5' 6-max Seat #3 is the button
+Seat 1: assalbi (26362 in chips) is sitting out
+Seat 2: marquinhosss (14590 in chips) 
+Seat 3: despair515 (12353 in chips) 
+Seat 4: AkwasYT (19836 in chips) 
+Seat 5: zioeddy2312 (7240 in chips) 
+Seat 6: ricardons8 (9880 in chips) 
+assalbi: posts the ante 60
+marquinhosss: posts the ante 60
+despair515: posts the ante 60
+AkwasYT: posts the ante 60
+zioeddy2312: posts the ante 60
+ricardons8: posts the ante 60
+AkwasYT: posts small blind 125
+zioeddy2312: posts big blind 250
+*** HOLE CARDS ***
+ricardons8: folds 
+assalbi: folds 
+marquinhosss: folds 
+despair515: folds 
+AkwasYT: calls 125
+zioeddy2312: checks 
+*** FLOP *** [8h 9s 9h]
+AkwasYT: checks 
+zioeddy2312: checks 
+*** TURN *** [8h 9s 9h] [2d]
+AkwasYT: checks 
+zioeddy2312: checks 
+*** RIVER *** [8h 9s 9h 2d] [2c]
+AkwasYT: bets 500
+zioeddy2312: folds 
+Uncalled bet (500) returned to AkwasYT
+AkwasYT collected 860 from pot
+AkwasYT: doesn't show hand 
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [8h 9s 9h 2d 2c]
+Seat 1: assalbi folded before Flop (didn't bet)
+Seat 2: marquinhosss folded before Flop (didn't bet)
+Seat 3: despair515 (button) folded before Flop (didn't bet)
+Seat 4: AkwasYT (small blind) collected (860)
+Seat 5: zioeddy2312 (big blind) folded on the River
+Seat 6: ricardons8 folded before Flop (didn't bet)
+
+PokerStars Hand #251209440172: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/26 22:25:55 UTC [2024/06/26 18:25:55 ET]
+Table '3769361908 5' 6-max Seat #4 is the button
+Seat 1: assalbi (26302 in chips) is sitting out
+Seat 2: marquinhosss (14530 in chips) 
+Seat 3: despair515 (12293 in chips) 
+Seat 4: AkwasYT (20386 in chips) 
+Seat 5: zioeddy2312 (6930 in chips) 
+Seat 6: ricardons8 (9820 in chips) 
+assalbi: posts the ante 60
+marquinhosss: posts the ante 60
+despair515: posts the ante 60
+AkwasYT: posts the ante 60
+zioeddy2312: posts the ante 60
+ricardons8: posts the ante 60
+zioeddy2312: posts small blind 125
+ricardons8: posts big blind 250
+*** HOLE CARDS ***
+assalbi: folds 
+marquinhosss: folds 
+despair515: folds 
+AkwasYT: folds 
+zioeddy2312: calls 125
+ricardons8: raises 625 to 875
+zioeddy2312: folds 
+Uncalled bet (625) returned to ricardons8
+ricardons8 collected 860 from pot
+ricardons8: doesn't show hand 
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Seat 1: assalbi folded before Flop (didn't bet)
+Seat 2: marquinhosss folded before Flop (didn't bet)
+Seat 3: despair515 folded before Flop (didn't bet)
+Seat 4: AkwasYT (button) folded before Flop (didn't bet)
+Seat 5: zioeddy2312 (small blind) folded before Flop
+Seat 6: ricardons8 (big blind) collected (860)
+
+PokerStars Hand #251209447568: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:26:22 UTC [2024/06/26 18:26:22 ET]
+Table '3769361908 5' 6-max Seat #5 is the button
+Seat 1: assalbi (26242 in chips) is sitting out
+Seat 2: marquinhosss (14470 in chips) 
+Seat 3: despair515 (12233 in chips) 
+Seat 4: AkwasYT (20326 in chips) 
+Seat 5: zioeddy2312 (6620 in chips) 
+Seat 6: ricardons8 (10370 in chips) 
+assalbi: posts the ante 75
+marquinhosss: posts the ante 75
+despair515: posts the ante 75
+AkwasYT: posts the ante 75
+zioeddy2312: posts the ante 75
+ricardons8: posts the ante 75
+ricardons8: posts small blind 150
+assalbi: posts big blind 300
+*** HOLE CARDS ***
+marquinhosss: folds 
+despair515: folds 
+AkwasYT: folds 
+zioeddy2312: raises 600 to 900
+ricardons8: raises 9395 to 10295 and is all-in
+assalbi: folds 
+zioeddy2312: calls 5645 and is all-in
+Uncalled bet (3750) returned to ricardons8
+*** FLOP *** [8d 4h 8s]
+*** TURN *** [8d 4h 8s] [Jh]
+*** RIVER *** [8d 4h 8s Jh] [Qs]
+*** SHOW DOWN ***
+ricardons8: shows [Tc As] (a pair of Eights)
+zioeddy2312: shows [Jc Qc] (two pair, Queens and Jacks)
+zioeddy2312 collected 13840 from pot
+*** SUMMARY ***
+Total pot 13840 | Rake 0 
+Board [8d 4h 8s Jh Qs]
+Seat 1: assalbi (big blind) folded before Flop
+Seat 2: marquinhosss folded before Flop (didn't bet)
+Seat 3: despair515 folded before Flop (didn't bet)
+Seat 4: AkwasYT folded before Flop (didn't bet)
+Seat 5: zioeddy2312 (button) showed [Jc Qc] and won (13840) with two pair, Queens and Jacks
+Seat 6: ricardons8 (small blind) showed [Tc As] and lost with a pair of Eights
+
+PokerStars Hand #251209457991: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:26:59 UTC [2024/06/26 18:26:59 ET]
+Table '3769361908 5' 6-max Seat #6 is the button
+Seat 1: assalbi (25867 in chips) is sitting out
+Seat 2: marquinhosss (14395 in chips) 
+Seat 3: despair515 (12158 in chips) 
+Seat 4: AkwasYT (20251 in chips) 
+Seat 5: zioeddy2312 (13840 in chips) 
+Seat 6: ricardons8 (3750 in chips) 
+assalbi: posts the ante 75
+marquinhosss: posts the ante 75
+despair515: posts the ante 75
+AkwasYT: posts the ante 75
+zioeddy2312: posts the ante 75
+ricardons8: posts the ante 75
+assalbi: posts small blind 150
+marquinhosss: posts big blind 300
+*** HOLE CARDS ***
+despair515: folds 
+AkwasYT: raises 300 to 600
+zioeddy2312: folds 
+ricardons8: raises 3075 to 3675 and is all-in
+assalbi: folds 
+marquinhosss: folds 
+AkwasYT: calls 3075
+*** FLOP *** [2d 8h 4d]
+*** TURN *** [2d 8h 4d] [3s]
+*** RIVER *** [2d 8h 4d 3s] [6d]
+*** SHOW DOWN ***
+AkwasYT: shows [Qd Qc] (a pair of Queens)
+ricardons8: shows [Ah Ks] (high card Ace)
+AkwasYT collected 8250 from pot
+ricardons8 finished the tournament
+*** SUMMARY ***
+Total pot 8250 | Rake 0 
+Board [2d 8h 4d 3s 6d]
+Seat 1: assalbi (small blind) folded before Flop
+Seat 2: marquinhosss (big blind) folded before Flop
+Seat 3: despair515 folded before Flop (didn't bet)
+Seat 4: AkwasYT showed [Qd Qc] and won (8250) with a pair of Queens
+Seat 5: zioeddy2312 folded before Flop (didn't bet)
+Seat 6: ricardons8 (button) showed [Ah Ks] and lost with high card Ace
+
+PokerStars Hand #251209466510: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:27:30 UTC [2024/06/26 18:27:30 ET]
+Table '3769361908 5' 6-max Seat #1 is the button
+Seat 1: assalbi (25642 in chips) is sitting out
+Seat 2: marquinhosss (14020 in chips) 
+Seat 4: AkwasYT (24751 in chips) 
+Seat 5: zioeddy2312 (13765 in chips) 
+assalbi: posts the ante 75
+marquinhosss: posts the ante 75
+AkwasYT: posts the ante 75
+zioeddy2312: posts the ante 75
+marquinhosss: posts small blind 150
+AkwasYT: posts big blind 300
+*** HOLE CARDS ***
+zioeddy2312: folds 
+assalbi: folds 
+burianjpb is disconnected 
+marquinhosss: calls 150
+AkwasYT: raises 300 to 600
+marquinhosss: calls 300
+*** FLOP *** [8c 4s 2c]
+marquinhosss: checks 
+AkwasYT: checks 
+*** TURN *** [8c 4s 2c] [Tc]
+marquinhosss: bets 495
+AkwasYT: calls 495
+*** RIVER *** [8c 4s 2c Tc] [Kd]
+marquinhosss: bets 822
+AkwasYT: folds 
+Uncalled bet (822) returned to marquinhosss
+marquinhosss collected 2490 from pot
+marquinhosss: doesn't show hand 
+*** SUMMARY ***
+Total pot 2490 | Rake 0 
+Board [8c 4s 2c Tc Kd]
+Seat 1: assalbi (button) folded before Flop (didn't bet)
+Seat 2: marquinhosss (small blind) collected (2490)
+Seat 4: AkwasYT (big blind) folded on the River
+Seat 5: zioeddy2312 folded before Flop (didn't bet)
+
+PokerStars Hand #251209480145: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:28:19 UTC [2024/06/26 18:28:19 ET]
+Table '3769361908 5' 6-max Seat #2 is the button
+Seat 1: assalbi (25567 in chips) is sitting out
+Seat 2: marquinhosss (15340 in chips) 
+Seat 3: burianjpb (13090 in chips) out of hand (moved from another table into small blind)
+Seat 4: AkwasYT (23581 in chips) 
+Seat 5: zioeddy2312 (13690 in chips) 
+burianjpb will be allowed to play after the button
+assalbi: posts the ante 75
+marquinhosss: posts the ante 75
+AkwasYT: posts the ante 75
+zioeddy2312: posts the ante 75
+AkwasYT: posts small blind 150
+zioeddy2312: posts big blind 300
+*** HOLE CARDS ***
+assalbi: folds 
+marquinhosss: raises 300 to 600
+AkwasYT: calls 450
+zioeddy2312: folds 
+*** FLOP *** [9s 2d Kd]
+AkwasYT: checks 
+marquinhosss: bets 594
+AkwasYT: calls 594
+*** TURN *** [9s 2d Kd] [7h]
+AkwasYT: bets 900
+marquinhosss: calls 900
+*** RIVER *** [9s 2d Kd 7h] [4c]
+AkwasYT: checks 
+marquinhosss: checks 
+*** SHOW DOWN ***
+AkwasYT: shows [Kc Th] (a pair of Kings)
+marquinhosss: mucks hand 
+AkwasYT collected 4788 from pot
+*** SUMMARY ***
+Total pot 4788 | Rake 0 
+Board [9s 2d Kd 7h 4c]
+Seat 1: assalbi folded before Flop (didn't bet)
+Seat 2: marquinhosss (button) mucked
+Seat 4: AkwasYT (small blind) showed [Kc Th] and won (4788) with a pair of Kings
+Seat 5: zioeddy2312 (big blind) folded before Flop
+
+PokerStars Hand #251209491052: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:28:58 UTC [2024/06/26 18:28:58 ET]
+Table '3769361908 5' 6-max Seat #4 is the button
+Seat 1: assalbi (25492 in chips) is sitting out
+Seat 2: marquinhosss (13171 in chips) 
+Seat 3: burianjpb (13090 in chips) 
+Seat 4: AkwasYT (26200 in chips) 
+Seat 5: zioeddy2312 (13315 in chips) 
+assalbi: posts the ante 75
+marquinhosss: posts the ante 75
+burianjpb: posts the ante 75
+AkwasYT: posts the ante 75
+zioeddy2312: posts the ante 75
+zioeddy2312: posts small blind 150
+assalbi: posts big blind 300
+*** HOLE CARDS ***
+marquinhosss: folds 
+burianjpb: folds 
+AkwasYT: folds 
+zioeddy2312: raises 300 to 600
+assalbi: folds 
+Uncalled bet (300) returned to zioeddy2312
+zioeddy2312 collected 975 from pot
+*** SUMMARY ***
+Total pot 975 | Rake 0 
+Seat 1: assalbi (big blind) folded before Flop
+Seat 2: marquinhosss folded before Flop (didn't bet)
+Seat 3: burianjpb folded before Flop (didn't bet)
+Seat 4: AkwasYT (button) folded before Flop (didn't bet)
+Seat 5: zioeddy2312 (small blind) collected (975)
+
+PokerStars Hand #251209497894: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:29:23 UTC [2024/06/26 18:29:23 ET]
+Table '3769361908 5' 6-max Seat #5 is the button
+Seat 1: assalbi (25117 in chips) is sitting out
+Seat 2: marquinhosss (13096 in chips) 
+Seat 3: burianjpb (13015 in chips) 
+Seat 4: AkwasYT (26125 in chips) 
+Seat 5: zioeddy2312 (13915 in chips) 
+assalbi: posts the ante 100
+marquinhosss: posts the ante 100
+burianjpb: posts the ante 100
+AkwasYT: posts the ante 100
+zioeddy2312: posts the ante 100
+assalbi: posts small blind 200
+marquinhosss: posts big blind 400
+*** HOLE CARDS ***
+burianjpb: folds 
+AkwasYT: raises 400 to 800
+zioeddy2312: folds 
+assalbi: folds 
+marquinhosss: calls 400
+*** FLOP *** [3h 8c 7s]
+marquinhosss: checks 
+AkwasYT: checks 
+*** TURN *** [3h 8c 7s] [5c]
+marquinhosss: checks 
+assalbi has returned
+AkwasYT: bets 800
+marquinhosss: calls 800
+*** RIVER *** [3h 8c 7s 5c] [Qs]
+marquinhosss: checks 
+AkwasYT: bets 1200
+marquinhosss: calls 1200
+*** SHOW DOWN ***
+AkwasYT: shows [Tc Ah] (high card Ace)
+marquinhosss: mucks hand 
+AkwasYT collected 6300 from pot
+*** SUMMARY ***
+Total pot 6300 | Rake 0 
+Board [3h 8c 7s 5c Qs]
+Seat 1: assalbi (small blind) folded before Flop
+Seat 2: marquinhosss (big blind) mucked
+Seat 3: burianjpb folded before Flop (didn't bet)
+Seat 4: AkwasYT showed [Tc Ah] and won (6300) with high card Ace
+Seat 5: zioeddy2312 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209511634: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:30:11 UTC [2024/06/26 18:30:11 ET]
+Table '3769361908 5' 6-max Seat #1 is the button
+Seat 1: assalbi (24817 in chips) 
+Seat 2: marquinhosss (10196 in chips) 
+Seat 3: burianjpb (12915 in chips) 
+Seat 4: AkwasYT (29525 in chips) 
+Seat 5: zioeddy2312 (13815 in chips) 
+Seat 6: antonisar (10000 in chips) 
+assalbi: posts the ante 100
+marquinhosss: posts the ante 100
+burianjpb: posts the ante 100
+AkwasYT: posts the ante 100
+zioeddy2312: posts the ante 100
+antonisar: posts the ante 100
+marquinhosss: posts small blind 200
+burianjpb: posts big blind 400
+*** HOLE CARDS ***
+AkwasYT: folds 
+zioeddy2312: folds 
+antonisar: folds 
+assalbi has timed out
+assalbi: folds 
+assalbi is sitting out
+marquinhosss: calls 200
+burianjpb: raises 800 to 1200
+marquinhosss: calls 800
+*** FLOP *** [7s 5s 3d]
+marquinhosss: checks 
+burianjpb: checks 
+*** TURN *** [7s 5s 3d] [9d]
+marquinhosss: checks 
+burianjpb: checks 
+*** RIVER *** [7s 5s 3d 9d] [2h]
+marquinhosss: checks 
+burianjpb: checks 
+*** SHOW DOWN ***
+marquinhosss: shows [3c Ad] (a pair of Threes)
+burianjpb: mucks hand 
+marquinhosss collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | Rake 0 
+Board [7s 5s 3d 9d 2h]
+Seat 1: assalbi (button) folded before Flop (didn't bet)
+Seat 2: marquinhosss (small blind) showed [3c Ad] and won (3000) with a pair of Threes
+Seat 3: burianjpb (big blind) mucked
+Seat 4: AkwasYT folded before Flop (didn't bet)
+Seat 5: zioeddy2312 folded before Flop (didn't bet)
+Seat 6: antonisar folded before Flop (didn't bet)
+
+PokerStars Hand #251209535093: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:31:37 UTC [2024/06/26 18:31:37 ET]
+Table '3769361908 5' 6-max Seat #2 is the button
+Seat 1: assalbi (24717 in chips) is sitting out
+Seat 2: marquinhosss (11896 in chips) 
+Seat 3: burianjpb (11615 in chips) 
+Seat 4: AkwasYT (29425 in chips) 
+Seat 5: zioeddy2312 (13715 in chips) 
+Seat 6: antonisar (9900 in chips) 
+assalbi: posts the ante 100
+marquinhosss: posts the ante 100
+burianjpb: posts the ante 100
+AkwasYT: posts the ante 100
+zioeddy2312: posts the ante 100
+antonisar: posts the ante 100
+burianjpb: posts small blind 200
+AkwasYT: posts big blind 400
+*** HOLE CARDS ***
+zioeddy2312: raises 800 to 1200
+antonisar: calls 1200
+assalbi: folds 
+marquinhosss: raises 10596 to 11796 and is all-in
+burianjpb: folds 
+AkwasYT: folds 
+zioeddy2312: folds 
+antonisar: calls 8600 and is all-in
+Uncalled bet (1996) returned to marquinhosss
+*** FLOP *** [Ts Kd Kh]
+*** TURN *** [Ts Kd Kh] [5c]
+*** RIVER *** [Ts Kd Kh 5c] [9c]
+*** SHOW DOWN ***
+antonisar: shows [Js Ac] (a pair of Kings)
+marquinhosss: shows [Kc As] (three of a kind, Kings)
+marquinhosss collected 22000 from pot
+antonisar finished the tournament
+*** SUMMARY ***
+Total pot 22000 | Rake 0 
+Board [Ts Kd Kh 5c 9c]
+Seat 1: assalbi folded before Flop (didn't bet)
+Seat 2: marquinhosss (button) showed [Kc As] and won (22000) with three of a kind, Kings
+Seat 3: burianjpb (small blind) folded before Flop
+Seat 4: AkwasYT (big blind) folded before Flop
+Seat 5: zioeddy2312 folded before Flop
+Seat 6: antonisar showed [Js Ac] and lost with a pair of Kings
+
+PokerStars Hand #251209551859: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:32:38 UTC [2024/06/26 18:32:38 ET]
+Table '3769361908 5' 6-max Seat #3 is the button
+Seat 1: assalbi (24617 in chips) is sitting out
+Seat 2: marquinhosss (23996 in chips) 
+Seat 3: burianjpb (11315 in chips) 
+Seat 4: AkwasYT (28925 in chips) 
+Seat 5: zioeddy2312 (12415 in chips) 
+assalbi: posts the ante 125
+marquinhosss: posts the ante 125
+burianjpb: posts the ante 125
+AkwasYT: posts the ante 125
+zioeddy2312: posts the ante 125
+AkwasYT: posts small blind 250
+zioeddy2312: posts big blind 500
+*** HOLE CARDS ***
+assalbi: folds 
+marquinhosss: folds 
+burianjpb: folds 
+AkwasYT: calls 250
+zioeddy2312: checks 
+*** FLOP *** [4d Ah 7c]
+AkwasYT: checks 
+zioeddy2312: checks 
+*** TURN *** [4d Ah 7c] [8h]
+AkwasYT: bets 1000
+zioeddy2312: calls 1000
+*** RIVER *** [4d Ah 7c 8h] [5h]
+AkwasYT: checks 
+zioeddy2312: bets 2500
+AkwasYT: folds 
+Uncalled bet (2500) returned to zioeddy2312
+zioeddy2312 collected 3625 from pot
+*** SUMMARY ***
+Total pot 3625 | Rake 0 
+Board [4d Ah 7c 8h 5h]
+Seat 1: assalbi folded before Flop (didn't bet)
+Seat 2: marquinhosss folded before Flop (didn't bet)
+Seat 3: burianjpb (button) folded before Flop (didn't bet)
+Seat 4: AkwasYT (small blind) folded on the River
+Seat 5: zioeddy2312 (big blind) collected (3625)
+
+PokerStars Hand #251209569606: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:33:45 UTC [2024/06/26 18:33:45 ET]
+Table '3769361908 5' 6-max Seat #4 is the button
+Seat 1: assalbi (24492 in chips) is sitting out
+Seat 2: marquinhosss (23871 in chips) 
+Seat 3: burianjpb (11190 in chips) 
+Seat 4: AkwasYT (27300 in chips) 
+Seat 5: zioeddy2312 (14415 in chips) 
+assalbi: posts the ante 125
+marquinhosss: posts the ante 125
+burianjpb: posts the ante 125
+AkwasYT: posts the ante 125
+zioeddy2312: posts the ante 125
+zioeddy2312: posts small blind 250
+assalbi: posts big blind 500
+*** HOLE CARDS ***
+marquinhosss: folds 
+burianjpb: folds 
+AkwasYT: folds 
+zioeddy2312: folds 
+Uncalled bet (250) returned to assalbi
+assalbi collected 1125 from pot
+assalbi: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 1: assalbi (big blind) collected (1125)
+Seat 2: marquinhosss folded before Flop (didn't bet)
+Seat 3: burianjpb folded before Flop (didn't bet)
+Seat 4: AkwasYT (button) folded before Flop (didn't bet)
+Seat 5: zioeddy2312 (small blind) folded before Flop
+
+PokerStars Hand #251209571950: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:33:53 UTC [2024/06/26 18:33:53 ET]
+Table '3769361908 5' 6-max Seat #5 is the button
+Seat 1: assalbi (25242 in chips) is sitting out
+Seat 2: marquinhosss (23746 in chips) 
+Seat 3: burianjpb (11065 in chips) 
+Seat 4: AkwasYT (27175 in chips) 
+Seat 5: zioeddy2312 (14040 in chips) 
+assalbi: posts the ante 125
+marquinhosss: posts the ante 125
+burianjpb: posts the ante 125
+AkwasYT: posts the ante 125
+zioeddy2312: posts the ante 125
+assalbi: posts small blind 250
+marquinhosss: posts big blind 500
+*** HOLE CARDS ***
+burianjpb: folds 
+AkwasYT: folds 
+zioeddy2312: folds 
+assalbi: folds 
+Uncalled bet (250) returned to marquinhosss
+marquinhosss collected 1125 from pot
+marquinhosss: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 1: assalbi (small blind) folded before Flop
+Seat 2: marquinhosss (big blind) collected (1125)
+Seat 3: burianjpb folded before Flop (didn't bet)
+Seat 4: AkwasYT folded before Flop (didn't bet)
+Seat 5: zioeddy2312 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209574863: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:34:04 UTC [2024/06/26 18:34:04 ET]
+Table '3769361908 5' 6-max Seat #1 is the button
+Seat 1: assalbi (24867 in chips) is sitting out
+Seat 2: marquinhosss (24496 in chips) 
+Seat 3: burianjpb (10940 in chips) 
+Seat 4: AkwasYT (27050 in chips) 
+Seat 5: zioeddy2312 (13915 in chips) 
+assalbi: posts the ante 125
+marquinhosss: posts the ante 125
+burianjpb: posts the ante 125
+AkwasYT: posts the ante 125
+zioeddy2312: posts the ante 125
+marquinhosss: posts small blind 250
+burianjpb: posts big blind 500
+*** HOLE CARDS ***
+AkwasYT: folds 
+zioeddy2312: folds 
+assalbi: folds 
+marquinhosss: calls 250
+burianjpb: checks 
+*** FLOP *** [Tc 7s Kh]
+marquinhosss: bets 500
+burianjpb: calls 500
+*** TURN *** [Tc 7s Kh] [Td]
+marquinhosss: checks 
+burianjpb: bets 865
+marquinhosss: calls 865
+*** RIVER *** [Tc 7s Kh Td] [6h]
+marquinhosss: bets 3702
+burianjpb: folds 
+Uncalled bet (3702) returned to marquinhosss
+marquinhosss collected 4355 from pot
+marquinhosss: doesn't show hand 
+*** SUMMARY ***
+Total pot 4355 | Rake 0 
+Board [Tc 7s Kh Td 6h]
+Seat 1: assalbi (button) folded before Flop (didn't bet)
+Seat 2: marquinhosss (small blind) collected (4355)
+Seat 3: burianjpb (big blind) folded on the River
+Seat 4: AkwasYT folded before Flop (didn't bet)
+Seat 5: zioeddy2312 folded before Flop (didn't bet)
+
+PokerStars Hand #251209588156: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:34:53 UTC [2024/06/26 18:34:53 ET]
+Table '3769361908 5' 6-max Seat #2 is the button
+Seat 1: assalbi (24742 in chips) is sitting out
+Seat 2: marquinhosss (26861 in chips) 
+Seat 3: burianjpb (8950 in chips) 
+Seat 4: AkwasYT (26925 in chips) 
+Seat 5: zioeddy2312 (13790 in chips) 
+Seat 6: adrf1999 (10000 in chips) 
+assalbi: posts the ante 125
+marquinhosss: posts the ante 125
+burianjpb: posts the ante 125
+AkwasYT: posts the ante 125
+zioeddy2312: posts the ante 125
+adrf1999: posts the ante 125
+burianjpb: posts small blind 250
+AkwasYT: posts big blind 500
+*** HOLE CARDS ***
+zioeddy2312: folds 
+adrf1999: raises 500 to 1000
+assalbi: folds 
+marquinhosss: folds 
+burianjpb: calls 750
+AkwasYT: calls 500
+*** FLOP *** [4c Td Qc]
+burianjpb: checks 
+AkwasYT: checks 
+adrf1999: bets 1000
+burianjpb: calls 1000
+AkwasYT: folds 
+*** TURN *** [4c Td Qc] [Ks]
+burianjpb: checks 
+adrf1999: bets 2000
+burianjpb: raises 4825 to 6825 and is all-in
+adrf1999: calls 4825
+*** RIVER *** [4c Td Qc Ks] [Qd]
+*** SHOW DOWN ***
+burianjpb: shows [Kd 9d] (two pair, Kings and Queens)
+adrf1999: shows [4s 4d] (a full house, Fours full of Queens)
+adrf1999 collected 19400 from pot
+burianjpb finished the tournament
+*** SUMMARY ***
+Total pot 19400 | Rake 0 
+Board [4c Td Qc Ks Qd]
+Seat 1: assalbi folded before Flop (didn't bet)
+Seat 2: marquinhosss (button) folded before Flop (didn't bet)
+Seat 3: burianjpb (small blind) showed [Kd 9d] and lost with two pair, Kings and Queens
+Seat 4: AkwasYT (big blind) folded on the Flop
+Seat 5: zioeddy2312 folded before Flop (didn't bet)
+Seat 6: adrf1999 showed [4s 4d] and won (19400) with a full house, Fours full of Queens
+
+PokerStars Hand #251209607364: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:36:04 UTC [2024/06/26 18:36:04 ET]
+Table '3769361908 5' 6-max Seat #4 is the button
+Seat 1: assalbi (24617 in chips) is sitting out
+Seat 2: marquinhosss (26736 in chips) 
+Seat 4: AkwasYT (25800 in chips) 
+Seat 5: zioeddy2312 (13665 in chips) 
+Seat 6: adrf1999 (20450 in chips) 
+assalbi: posts the ante 150
+marquinhosss: posts the ante 150
+AkwasYT: posts the ante 150
+zioeddy2312: posts the ante 150
+adrf1999: posts the ante 150
+zioeddy2312: posts small blind 300
+adrf1999: posts big blind 600
+*** HOLE CARDS ***
+assalbi: folds 
+marquinhosss: folds 
+AkwasYT: folds 
+zioeddy2312: raises 1800 to 2400
+adrf1999: raises 17900 to 20300 and is all-in
+zioeddy2312: calls 11115 and is all-in
+Uncalled bet (6785) returned to adrf1999
+assalbi has returned
+*** FLOP *** [As 7s Qh]
+*** TURN *** [As 7s Qh] [Kd]
+*** RIVER *** [As 7s Qh Kd] [6s]
+*** SHOW DOWN ***
+zioeddy2312: shows [Qd Ah] (two pair, Aces and Queens)
+adrf1999: shows [Kh Jc] (a pair of Kings)
+zioeddy2312 collected 27780 from pot
+*** SUMMARY ***
+Total pot 27780 | Rake 0 
+Board [As 7s Qh Kd 6s]
+Seat 1: assalbi folded before Flop (didn't bet)
+Seat 2: marquinhosss folded before Flop (didn't bet)
+Seat 4: AkwasYT (button) folded before Flop (didn't bet)
+Seat 5: zioeddy2312 (small blind) showed [Qd Ah] and won (27780) with two pair, Aces and Queens
+Seat 6: adrf1999 (big blind) showed [Kh Jc] and lost with a pair of Kings
+
+PokerStars Hand #251209616827: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:36:40 UTC [2024/06/26 18:36:40 ET]
+Table '3769361908 5' 6-max Seat #5 is the button
+Seat 1: assalbi (24467 in chips) 
+Seat 2: marquinhosss (26586 in chips) 
+Seat 4: AkwasYT (25650 in chips) 
+Seat 5: zioeddy2312 (27780 in chips) 
+Seat 6: adrf1999 (6785 in chips) 
+assalbi: posts the ante 150
+marquinhosss: posts the ante 150
+AkwasYT: posts the ante 150
+zioeddy2312: posts the ante 150
+adrf1999: posts the ante 150
+adrf1999: posts small blind 300
+assalbi: posts big blind 600
+*** HOLE CARDS ***
+marquinhosss: raises 600 to 1200
+AkwasYT: folds 
+zioeddy2312: folds 
+adrf1999: folds 
+assalbi: calls 600
+*** FLOP *** [Jc 4d 9h]
+assalbi: checks 
+marquinhosss: bets 1139
+assalbi: calls 1139
+*** TURN *** [Jc 4d 9h] [8h]
+assalbi: checks 
+marquinhosss: bets 3780
+assalbi: calls 3780
+*** RIVER *** [Jc 4d 9h 8h] [6c]
+assalbi: checks 
+marquinhosss: checks 
+*** SHOW DOWN ***
+assalbi: shows [Td Kd] (high card King)
+marquinhosss: shows [9d 8d] (two pair, Nines and Eights)
+marquinhosss collected 13288 from pot
+*** SUMMARY ***
+Total pot 13288 | Rake 0 
+Board [Jc 4d 9h 8h 6c]
+Seat 1: assalbi (big blind) showed [Td Kd] and lost with high card King
+Seat 2: marquinhosss showed [9d 8d] and won (13288) with two pair, Nines and Eights
+Seat 4: AkwasYT folded before Flop (didn't bet)
+Seat 5: zioeddy2312 (button) folded before Flop (didn't bet)
+Seat 6: adrf1999 (small blind) folded before Flop
+
+PokerStars Hand #251209629572: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:37:28 UTC [2024/06/26 18:37:28 ET]
+Table '3769361908 5' 6-max Seat #6 is the button
+Seat 1: assalbi (18198 in chips) 
+Seat 2: marquinhosss (33605 in chips) 
+Seat 3: Chuckster388 (10000 in chips) 
+Seat 4: AkwasYT (25500 in chips) 
+Seat 5: zioeddy2312 (27630 in chips) 
+Seat 6: adrf1999 (6335 in chips) 
+assalbi: posts the ante 150
+marquinhosss: posts the ante 150
+Chuckster388: posts the ante 150
+AkwasYT: posts the ante 150
+zioeddy2312: posts the ante 150
+adrf1999: posts the ante 150
+assalbi: posts small blind 300
+marquinhosss: posts big blind 600
+*** HOLE CARDS ***
+Chuckster388: folds 
+AkwasYT: raises 600 to 1200
+zioeddy2312: folds 
+adrf1999: folds 
+assalbi: folds 
+marquinhosss: calls 600
+*** FLOP *** [As 7s 5s]
+marquinhosss: checks 
+AkwasYT: bets 1800
+marquinhosss: raises 4500 to 6300
+AkwasYT: folds [Kd Kc]
+Uncalled bet (4500) returned to marquinhosss
+marquinhosss collected 7200 from pot
+marquinhosss: doesn't show hand 
+*** SUMMARY ***
+Total pot 7200 | Rake 0 
+Board [As 7s 5s]
+Seat 1: assalbi (small blind) folded before Flop
+Seat 2: marquinhosss (big blind) collected (7200)
+Seat 3: Chuckster388 folded before Flop (didn't bet)
+Seat 4: AkwasYT folded on the Flop
+Seat 5: zioeddy2312 folded before Flop (didn't bet)
+Seat 6: adrf1999 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209646196: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:38:30 UTC [2024/06/26 18:38:30 ET]
+Table '3769361908 5' 6-max Seat #1 is the button
+Seat 1: assalbi (17748 in chips) 
+Seat 2: marquinhosss (37655 in chips) 
+Seat 3: Chuckster388 (9850 in chips) 
+Seat 4: AkwasYT (22350 in chips) 
+Seat 5: zioeddy2312 (27480 in chips) 
+Seat 6: adrf1999 (6185 in chips) 
+assalbi: posts the ante 200
+marquinhosss: posts the ante 200
+Chuckster388: posts the ante 200
+AkwasYT: posts the ante 200
+zioeddy2312: posts the ante 200
+adrf1999: posts the ante 200
+marquinhosss: posts small blind 400
+Chuckster388: posts big blind 800
+*** HOLE CARDS ***
+AkwasYT: folds 
+zioeddy2312: raises 1600 to 2400
+adrf1999: raises 3585 to 5985 and is all-in
+assalbi: folds 
+marquinhosss: calls 5585
+Chuckster388: folds 
+zioeddy2312: folds 
+*** FLOP *** [Tc Kh Kc]
+*** TURN *** [Tc Kh Kc] [Qc]
+*** RIVER *** [Tc Kh Kc Qc] [8d]
+*** SHOW DOWN ***
+marquinhosss: shows [Ah Jd] (a straight, Ten to Ace)
+adrf1999: shows [6c 6h] (two pair, Kings and Sixes)
+marquinhosss collected 16370 from pot
+adrf1999 finished the tournament
+*** SUMMARY ***
+Total pot 16370 | Rake 0 
+Board [Tc Kh Kc Qc 8d]
+Seat 1: assalbi (button) folded before Flop (didn't bet)
+Seat 2: marquinhosss (small blind) showed [Ah Jd] and won (16370) with a straight, Ten to Ace
+Seat 3: Chuckster388 (big blind) folded before Flop
+Seat 4: AkwasYT folded before Flop (didn't bet)
+Seat 5: zioeddy2312 folded before Flop
+Seat 6: adrf1999 showed [6c 6h] and lost with two pair, Kings and Sixes
+
+PokerStars Hand #251209655542: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:39:05 UTC [2024/06/26 18:39:05 ET]
+Table '3769361908 5' 6-max Seat #2 is the button
+Seat 1: assalbi (17548 in chips) 
+Seat 2: marquinhosss (47840 in chips) 
+Seat 3: Chuckster388 (8850 in chips) 
+Seat 4: AkwasYT (22150 in chips) 
+Seat 5: zioeddy2312 (24880 in chips) 
+assalbi: posts the ante 200
+marquinhosss: posts the ante 200
+Chuckster388: posts the ante 200
+AkwasYT: posts the ante 200
+zioeddy2312: posts the ante 200
+Chuckster388: posts small blind 400
+AkwasYT: posts big blind 800
+*** HOLE CARDS ***
+zioeddy2312: folds 
+assalbi: raises 800 to 1600
+marquinhosss: folds 
+Chuckster388: folds 
+AkwasYT: calls 800
+*** FLOP *** [Qs Tc Kc]
+AkwasYT: bets 2400
+assalbi: calls 2400
+*** TURN *** [Qs Tc Kc] [8s]
+AkwasYT: checks 
+assalbi: checks 
+*** RIVER *** [Qs Tc Kc 8s] [4h]
+AkwasYT: checks 
+assalbi: checks 
+*** SHOW DOWN ***
+AkwasYT: shows [Ts 7c] (a pair of Tens)
+assalbi: mucks hand 
+AkwasYT collected 9400 from pot
+*** SUMMARY ***
+Total pot 9400 | Rake 0 
+Board [Qs Tc Kc 8s 4h]
+Seat 1: assalbi mucked
+Seat 2: marquinhosss (button) folded before Flop (didn't bet)
+Seat 3: Chuckster388 (small blind) folded before Flop
+Seat 4: AkwasYT (big blind) showed [Ts 7c] and won (9400) with a pair of Tens
+Seat 5: zioeddy2312 folded before Flop (didn't bet)
+
+PokerStars Hand #251209668666: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:39:54 UTC [2024/06/26 18:39:54 ET]
+Table '3769361908 5' 6-max Seat #3 is the button
+Seat 1: assalbi (13348 in chips) 
+Seat 2: marquinhosss (47640 in chips) 
+Seat 3: Chuckster388 (8250 in chips) 
+Seat 4: AkwasYT (27350 in chips) 
+Seat 5: zioeddy2312 (24680 in chips) 
+Seat 6: sinister778 (34396 in chips) 
+assalbi: posts the ante 200
+marquinhosss: posts the ante 200
+Chuckster388: posts the ante 200
+AkwasYT: posts the ante 200
+zioeddy2312: posts the ante 200
+sinister778: posts the ante 200
+AkwasYT: posts small blind 400
+zioeddy2312: posts big blind 800
+*** HOLE CARDS ***
+sinister778: raises 800 to 1600
+assalbi: folds 
+marquinhosss: folds 
+Chuckster388: folds 
+AkwasYT: folds 
+zioeddy2312: calls 800
+*** FLOP *** [2c Ad Td]
+zioeddy2312: checks 
+sinister778: bets 2400
+zioeddy2312: calls 2400
+*** TURN *** [2c Ad Td] [Ks]
+zioeddy2312: checks 
+sinister778: bets 5600
+zioeddy2312: calls 5600
+*** RIVER *** [2c Ad Td Ks] [9c]
+zioeddy2312: checks 
+sinister778: bets 24596 and is all-in
+zioeddy2312: folds 
+Uncalled bet (24596) returned to sinister778
+sinister778 collected 20800 from pot
+*** SUMMARY ***
+Total pot 20800 | Rake 0 
+Board [2c Ad Td Ks 9c]
+Seat 1: assalbi folded before Flop (didn't bet)
+Seat 2: marquinhosss folded before Flop (didn't bet)
+Seat 3: Chuckster388 (button) folded before Flop (didn't bet)
+Seat 4: AkwasYT (small blind) folded before Flop
+Seat 5: zioeddy2312 (big blind) folded on the River
+Seat 6: sinister778 collected (20800)
+
+PokerStars Hand #251209698479: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:41:48 UTC [2024/06/26 18:41:48 ET]
+Table '3769361908 5' 6-max Seat #4 is the button
+Seat 1: assalbi (13148 in chips) 
+Seat 2: marquinhosss (47440 in chips) 
+Seat 3: Chuckster388 (8050 in chips) 
+Seat 4: AkwasYT (26750 in chips) 
+Seat 5: zioeddy2312 (14880 in chips) 
+Seat 6: sinister778 (45396 in chips) 
+assalbi: posts the ante 250
+marquinhosss: posts the ante 250
+Chuckster388: posts the ante 250
+AkwasYT: posts the ante 250
+zioeddy2312: posts the ante 250
+sinister778: posts the ante 250
+zioeddy2312: posts small blind 500
+sinister778: posts big blind 1000
+*** HOLE CARDS ***
+assalbi: folds 
+marquinhosss: raises 1000 to 2000
+Chuckster388: folds 
+AkwasYT: folds 
+zioeddy2312: folds 
+sinister778: calls 1000
+*** FLOP *** [Ad As 2c]
+sinister778: checks 
+marquinhosss: bets 1500
+sinister778: folds 
+Uncalled bet (1500) returned to marquinhosss
+marquinhosss collected 6000 from pot
+marquinhosss: doesn't show hand 
+*** SUMMARY ***
+Total pot 6000 | Rake 0 
+Board [Ad As 2c]
+Seat 1: assalbi folded before Flop (didn't bet)
+Seat 2: marquinhosss collected (6000)
+Seat 3: Chuckster388 folded before Flop (didn't bet)
+Seat 4: AkwasYT (button) folded before Flop (didn't bet)
+Seat 5: zioeddy2312 (small blind) folded before Flop
+Seat 6: sinister778 (big blind) folded on the Flop
+
+PokerStars Hand #251209712105: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:42:41 UTC [2024/06/26 18:42:41 ET]
+Table '3769361908 5' 6-max Seat #5 is the button
+Seat 1: assalbi (12898 in chips) 
+Seat 2: marquinhosss (51190 in chips) 
+Seat 3: Chuckster388 (7800 in chips) 
+Seat 4: AkwasYT (26500 in chips) 
+Seat 5: zioeddy2312 (14130 in chips) 
+Seat 6: sinister778 (43146 in chips) 
+assalbi: posts the ante 250
+marquinhosss: posts the ante 250
+Chuckster388: posts the ante 250
+AkwasYT: posts the ante 250
+zioeddy2312: posts the ante 250
+sinister778: posts the ante 250
+sinister778: posts small blind 500
+assalbi: posts big blind 1000
+*** HOLE CARDS ***
+marquinhosss: folds 
+Chuckster388: folds 
+AkwasYT: raises 1000 to 2000
+zioeddy2312: folds 
+sinister778: folds 
+assalbi: calls 1000
+*** FLOP *** [4d 9c As]
+assalbi: checks 
+AkwasYT: bets 2000
+assalbi: folds 
+Uncalled bet (2000) returned to AkwasYT
+AkwasYT collected 6000 from pot
+AkwasYT: doesn't show hand 
+*** SUMMARY ***
+Total pot 6000 | Rake 0 
+Board [4d 9c As]
+Seat 1: assalbi (big blind) folded on the Flop
+Seat 2: marquinhosss folded before Flop (didn't bet)
+Seat 3: Chuckster388 folded before Flop (didn't bet)
+Seat 4: AkwasYT collected (6000)
+Seat 5: zioeddy2312 (button) folded before Flop (didn't bet)
+Seat 6: sinister778 (small blind) folded before Flop
+
+PokerStars Hand #251209721496: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:43:18 UTC [2024/06/26 18:43:18 ET]
+Table '3769361908 5' 6-max Seat #6 is the button
+Seat 1: assalbi (10648 in chips) 
+Seat 2: marquinhosss (50940 in chips) 
+Seat 3: Chuckster388 (7550 in chips) 
+Seat 4: AkwasYT (30250 in chips) 
+Seat 5: zioeddy2312 (13880 in chips) 
+Seat 6: sinister778 (42396 in chips) 
+assalbi: posts the ante 250
+marquinhosss: posts the ante 250
+Chuckster388: posts the ante 250
+AkwasYT: posts the ante 250
+zioeddy2312: posts the ante 250
+sinister778: posts the ante 250
+assalbi: posts small blind 500
+marquinhosss: posts big blind 1000
+*** HOLE CARDS ***
+Chuckster388: folds 
+AkwasYT: folds 
+zioeddy2312: folds 
+sinister778: raises 1000 to 2000
+assalbi: folds 
+marquinhosss: calls 1000
+*** FLOP *** [6s Kh 8d]
+marquinhosss: checks 
+sinister778: bets 2500
+marquinhosss: folds 
+Uncalled bet (2500) returned to sinister778
+sinister778 collected 6000 from pot
+*** SUMMARY ***
+Total pot 6000 | Rake 0 
+Board [6s Kh 8d]
+Seat 1: assalbi (small blind) folded before Flop
+Seat 2: marquinhosss (big blind) folded on the Flop
+Seat 3: Chuckster388 folded before Flop (didn't bet)
+Seat 4: AkwasYT folded before Flop (didn't bet)
+Seat 5: zioeddy2312 folded before Flop (didn't bet)
+Seat 6: sinister778 (button) collected (6000)
+
+PokerStars Hand #251209736206: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:44:15 UTC [2024/06/26 18:44:15 ET]
+Table '3769361908 5' 6-max Seat #1 is the button
+Seat 1: assalbi (9898 in chips) 
+Seat 2: marquinhosss (48690 in chips) 
+Seat 3: Chuckster388 (7300 in chips) 
+Seat 4: AkwasYT (30000 in chips) 
+Seat 5: zioeddy2312 (13630 in chips) 
+Seat 6: sinister778 (46146 in chips) 
+assalbi: posts the ante 300
+marquinhosss: posts the ante 300
+Chuckster388: posts the ante 300
+AkwasYT: posts the ante 300
+zioeddy2312: posts the ante 300
+sinister778: posts the ante 300
+marquinhosss: posts small blind 600
+Chuckster388: posts big blind 1200
+*** HOLE CARDS ***
+AkwasYT: raises 2400 to 3600
+zioeddy2312: folds 
+sinister778: folds 
+assalbi: folds 
+marquinhosss: folds 
+Chuckster388: calls 2400
+*** FLOP *** [Kh 9s 6c]
+Chuckster388: bets 3400 and is all-in
+AkwasYT: calls 3400
+*** TURN *** [Kh 9s 6c] [5s]
+*** RIVER *** [Kh 9s 6c 5s] [2s]
+*** SHOW DOWN ***
+Chuckster388: shows [6h Ah] (a pair of Sixes)
+AkwasYT: shows [Qc As] (high card Ace)
+Chuckster388 collected 16400 from pot
+*** SUMMARY ***
+Total pot 16400 | Rake 0 
+Board [Kh 9s 6c 5s 2s]
+Seat 1: assalbi (button) folded before Flop (didn't bet)
+Seat 2: marquinhosss (small blind) folded before Flop
+Seat 3: Chuckster388 (big blind) showed [6h Ah] and won (16400) with a pair of Sixes
+Seat 4: AkwasYT showed [Qc As] and lost with high card Ace
+Seat 5: zioeddy2312 folded before Flop (didn't bet)
+Seat 6: sinister778 folded before Flop (didn't bet)
+
+PokerStars Hand #251209747343: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:44:58 UTC [2024/06/26 18:44:58 ET]
+Table '3769361908 5' 6-max Seat #2 is the button
+Seat 1: assalbi (9598 in chips) 
+Seat 2: marquinhosss (47790 in chips) 
+Seat 3: Chuckster388 (16400 in chips) 
+Seat 4: AkwasYT (22700 in chips) 
+Seat 5: zioeddy2312 (13330 in chips) 
+Seat 6: sinister778 (45846 in chips) 
+assalbi: posts the ante 300
+marquinhosss: posts the ante 300
+Chuckster388: posts the ante 300
+AkwasYT: posts the ante 300
+zioeddy2312: posts the ante 300
+sinister778: posts the ante 300
+Chuckster388: posts small blind 600
+AkwasYT: posts big blind 1200
+*** HOLE CARDS ***
+zioeddy2312: raises 11830 to 13030 and is all-in
+sinister778: folds 
+assalbi: folds 
+marquinhosss: folds 
+Chuckster388: folds 
+AkwasYT: folds 
+Uncalled bet (11830) returned to zioeddy2312
+zioeddy2312 collected 4800 from pot
+*** SUMMARY ***
+Total pot 4800 | Rake 0 
+Seat 1: assalbi folded before Flop (didn't bet)
+Seat 2: marquinhosss (button) folded before Flop (didn't bet)
+Seat 3: Chuckster388 (small blind) folded before Flop
+Seat 4: AkwasYT (big blind) folded before Flop
+Seat 5: zioeddy2312 collected (4800)
+Seat 6: sinister778 folded before Flop (didn't bet)
+
+PokerStars Hand #251209751443: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:45:14 UTC [2024/06/26 18:45:14 ET]
+Table '3769361908 5' 6-max Seat #3 is the button
+Seat 1: assalbi (9298 in chips) 
+Seat 2: marquinhosss (47490 in chips) 
+Seat 3: Chuckster388 (15500 in chips) 
+Seat 4: AkwasYT (21200 in chips) 
+Seat 5: zioeddy2312 (16630 in chips) 
+Seat 6: sinister778 (45546 in chips) 
+assalbi: posts the ante 300
+marquinhosss: posts the ante 300
+Chuckster388: posts the ante 300
+AkwasYT: posts the ante 300
+zioeddy2312: posts the ante 300
+sinister778: posts the ante 300
+AkwasYT: posts small blind 600
+zioeddy2312: posts big blind 1200
+*** HOLE CARDS ***
+sinister778: raises 1200 to 2400
+assalbi: raises 6598 to 8998 and is all-in
+marquinhosss: folds 
+Chuckster388: folds 
+AkwasYT: raises 11902 to 20900 and is all-in
+zioeddy2312: folds 
+sinister778: calls 18500
+*** FLOP *** [Js 2c Jh]
+*** TURN *** [Js 2c Jh] [8h]
+*** RIVER *** [Js 2c Jh 8h] [7d]
+*** SHOW DOWN ***
+AkwasYT: shows [Qd Td] (a pair of Jacks)
+sinister778: shows [Ah Kh] (a pair of Jacks - Ace kicker)
+sinister778 collected 23804 from side pot
+assalbi: shows [Ts Ac] (a pair of Jacks - lower kicker)
+sinister778 collected 29994 from main pot
+AkwasYT finished the tournament
+assalbi finished the tournament
+IgorHKR is disconnected 
+*** SUMMARY ***
+Total pot 53798 Main pot 29994. Side pot 23804. | Rake 0 
+Board [Js 2c Jh 8h 7d]
+Seat 1: assalbi showed [Ts Ac] and lost with a pair of Jacks
+Seat 2: marquinhosss folded before Flop (didn't bet)
+Seat 3: Chuckster388 (button) folded before Flop (didn't bet)
+Seat 4: AkwasYT (small blind) showed [Qd Td] and lost with a pair of Jacks
+Seat 5: zioeddy2312 (big blind) folded before Flop
+Seat 6: sinister778 showed [Ah Kh] and won (53798) with a pair of Jacks
+
+PokerStars Hand #251209760768: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:45:50 UTC [2024/06/26 18:45:50 ET]
+Table '3769361908 5' 6-max Seat #5 is the button
+Seat 1: IgorHKR (10000 in chips) 
+Seat 2: marquinhosss (47190 in chips) 
+Seat 3: Chuckster388 (15200 in chips) 
+Seat 5: zioeddy2312 (15130 in chips) 
+Seat 6: sinister778 (78144 in chips) 
+IgorHKR: posts the ante 300
+marquinhosss: posts the ante 300
+Chuckster388: posts the ante 300
+zioeddy2312: posts the ante 300
+sinister778: posts the ante 300
+sinister778: posts small blind 600
+IgorHKR: posts big blind 1200
+*** HOLE CARDS ***
+marquinhosss: folds 
+Chuckster388: raises 13700 to 14900 and is all-in
+zioeddy2312: folds 
+sinister778: folds 
+IgorHKR: folds 
+Uncalled bet (13700) returned to Chuckster388
+Chuckster388 collected 4500 from pot
+Chuckster388: doesn't show hand 
+*** SUMMARY ***
+Total pot 4500 | Rake 0 
+Seat 1: IgorHKR (big blind) folded before Flop
+Seat 2: marquinhosss folded before Flop (didn't bet)
+Seat 3: Chuckster388 collected (4500)
+Seat 5: zioeddy2312 (button) folded before Flop (didn't bet)
+Seat 6: sinister778 (small blind) folded before Flop
+
+PokerStars Hand #251209764897: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:46:06 UTC [2024/06/26 18:46:06 ET]
+Table '3769361908 5' 6-max Seat #6 is the button
+Seat 1: IgorHKR (8500 in chips) 
+Seat 2: marquinhosss (46890 in chips) 
+Seat 3: Chuckster388 (18200 in chips) 
+Seat 5: zioeddy2312 (14830 in chips) 
+Seat 6: sinister778 (77244 in chips) 
+IgorHKR: posts the ante 300
+marquinhosss: posts the ante 300
+Chuckster388: posts the ante 300
+zioeddy2312: posts the ante 300
+sinister778: posts the ante 300
+IgorHKR: posts small blind 600
+marquinhosss: posts big blind 1200
+*** HOLE CARDS ***
+Theo7171 is disconnected 
+Chuckster388: raises 1320 to 2520
+zioeddy2312: folds 
+sinister778: folds 
+IgorHKR: folds 
+marquinhosss: folds 
+Uncalled bet (1320) returned to Chuckster388
+Chuckster388 collected 4500 from pot
+Chuckster388: doesn't show hand 
+*** SUMMARY ***
+Total pot 4500 | Rake 0 
+Seat 1: IgorHKR (small blind) folded before Flop
+Seat 2: marquinhosss (big blind) folded before Flop
+Seat 3: Chuckster388 collected (4500)
+Seat 5: zioeddy2312 folded before Flop (didn't bet)
+Seat 6: sinister778 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209770205: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:46:27 UTC [2024/06/26 18:46:27 ET]
+Table '3769361908 5' 6-max Seat #1 is the button
+Seat 1: IgorHKR (7600 in chips) 
+Seat 2: marquinhosss (45390 in chips) 
+Seat 3: Chuckster388 (21200 in chips) 
+Seat 4: Theo7171 (10000 in chips) 
+Seat 5: zioeddy2312 (14530 in chips) 
+Seat 6: sinister778 (76944 in chips) 
+IgorHKR: posts the ante 300
+marquinhosss: posts the ante 300
+Chuckster388: posts the ante 300
+Theo7171: posts the ante 300
+zioeddy2312: posts the ante 300
+sinister778: posts the ante 300
+marquinhosss: posts small blind 600
+Chuckster388: posts big blind 1200
+*** HOLE CARDS ***
+Theo7171: folds 
+zioeddy2312: folds 
+sinister778: folds 
+IgorHKR: folds 
+marquinhosss: raises 43890 to 45090 and is all-in
+Chuckster388: folds 
+Uncalled bet (43890) returned to marquinhosss
+marquinhosss collected 4200 from pot
+marquinhosss: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 1: IgorHKR (button) folded before Flop (didn't bet)
+Seat 2: marquinhosss (small blind) collected (4200)
+Seat 3: Chuckster388 (big blind) folded before Flop
+Seat 4: Theo7171 folded before Flop (didn't bet)
+Seat 5: zioeddy2312 folded before Flop (didn't bet)
+Seat 6: sinister778 folded before Flop (didn't bet)
+
+PokerStars Hand #251209775738: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 22:46:49 UTC [2024/06/26 18:46:49 ET]
+Table '3769361908 5' 6-max Seat #2 is the button
+Seat 1: IgorHKR (7300 in chips) 
+Seat 2: marquinhosss (48090 in chips) 
+Seat 3: Chuckster388 (19700 in chips) 
+Seat 4: Theo7171 (9700 in chips) 
+Seat 5: zioeddy2312 (14230 in chips) 
+Seat 6: sinister778 (76644 in chips) 
+IgorHKR: posts the ante 300
+marquinhosss: posts the ante 300
+Chuckster388: posts the ante 300
+Theo7171: posts the ante 300
+zioeddy2312: posts the ante 300
+sinister778: posts the ante 300
+Chuckster388: posts small blind 600
+Theo7171: posts big blind 1200
+*** HOLE CARDS ***
+zioeddy2312: folds 
+sinister778: raises 1800 to 3000
+IgorHKR: folds 
+marquinhosss: folds 
+Chuckster388: folds 
+Theo7171: calls 1800
+*** FLOP *** [9d 8s Ks]
+Theo7171: bets 6400 and is all-in
+sinister778: calls 6400
+*** TURN *** [9d 8s Ks] [5s]
+*** RIVER *** [9d 8s Ks 5s] [Tc]
+*** SHOW DOWN ***
+Theo7171: shows [Th Jd] (a pair of Tens)
+sinister778: shows [Ts As] (a flush, Ace high)
+sinister778 collected 21200 from pot
+Theo7171 finished the tournament
+*** SUMMARY ***
+Total pot 21200 | Rake 0 
+Board [9d 8s Ks 5s Tc]
+Seat 1: IgorHKR folded before Flop (didn't bet)
+Seat 2: marquinhosss (button) folded before Flop (didn't bet)
+Seat 3: Chuckster388 (small blind) folded before Flop
+Seat 4: Theo7171 (big blind) showed [Th Jd] and lost with a pair of Tens
+Seat 5: zioeddy2312 folded before Flop (didn't bet)
+Seat 6: sinister778 showed [Ts As] and won (21200) with a flush, Ace high
+
+PokerStars Hand #251209784941: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:47:25 UTC [2024/06/26 18:47:25 ET]
+Table '3769361908 5' 6-max Seat #3 is the button
+Seat 1: IgorHKR (7000 in chips) 
+Seat 2: marquinhosss (47790 in chips) 
+Seat 3: Chuckster388 (18800 in chips) 
+Seat 5: zioeddy2312 (13930 in chips) 
+Seat 6: sinister778 (88144 in chips) 
+IgorHKR: posts the ante 400
+marquinhosss: posts the ante 400
+Chuckster388: posts the ante 400
+zioeddy2312: posts the ante 400
+sinister778: posts the ante 400
+zioeddy2312: posts small blind 800
+sinister778: posts big blind 1600
+*** HOLE CARDS ***
+IgorHKR: raises 5000 to 6600 and is all-in
+marquinhosss: folds 
+Chuckster388: raises 11800 to 18400 and is all-in
+zioeddy2312: folds 
+sinister778: folds 
+Uncalled bet (11800) returned to Chuckster388
+*** FLOP *** [9s Jh 6d]
+*** TURN *** [9s Jh 6d] [2s]
+*** RIVER *** [9s Jh 6d 2s] [3d]
+*** SHOW DOWN ***
+IgorHKR: shows [8h 8d] (a pair of Eights)
+Chuckster388: shows [Kc 9d] (a pair of Nines)
+Chuckster388 collected 17600 from pot
+IgorHKR finished the tournament
+$ubuta1 is disconnected 
+*** SUMMARY ***
+Total pot 17600 | Rake 0 
+Board [9s Jh 6d 2s 3d]
+Seat 1: IgorHKR showed [8h 8d] and lost with a pair of Eights
+Seat 2: marquinhosss folded before Flop (didn't bet)
+Seat 3: Chuckster388 (button) showed [Kc 9d] and won (17600) with a pair of Nines
+Seat 5: zioeddy2312 (small blind) folded before Flop
+Seat 6: sinister778 (big blind) folded before Flop
+
+PokerStars Hand #251209794496: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:48:03 UTC [2024/06/26 18:48:03 ET]
+Table '3769361908 5' 6-max Seat #5 is the button
+Seat 2: marquinhosss (47390 in chips) 
+Seat 3: Chuckster388 (29400 in chips) 
+Seat 4: $ubuta1 (19448 in chips) 
+Seat 5: zioeddy2312 (12730 in chips) 
+Seat 6: sinister778 (86144 in chips) 
+marquinhosss: posts the ante 400
+Chuckster388: posts the ante 400
+$ubuta1: posts the ante 400
+zioeddy2312: posts the ante 400
+sinister778: posts the ante 400
+sinister778: posts small blind 800
+marquinhosss: posts big blind 1600
+*** HOLE CARDS ***
+Chuckster388: folds 
+$ubuta1: folds 
+zioeddy2312: folds 
+DeathBrain09 is disconnected 
+sinister778: calls 800
+marquinhosss: checks 
+*** FLOP *** [2d 7h 3s]
+sinister778: bets 3200
+marquinhosss: raises 8000 to 11200
+sinister778: folds 
+Uncalled bet (8000) returned to marquinhosss
+marquinhosss collected 11600 from pot
+marquinhosss: doesn't show hand 
+*** SUMMARY ***
+Total pot 11600 | Rake 0 
+Board [2d 7h 3s]
+Seat 2: marquinhosss (big blind) collected (11600)
+Seat 3: Chuckster388 folded before Flop (didn't bet)
+Seat 4: $ubuta1 folded before Flop (didn't bet)
+Seat 5: zioeddy2312 (button) folded before Flop (didn't bet)
+Seat 6: sinister778 (small blind) folded on the Flop
+
+PokerStars Hand #251209805603: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:48:46 UTC [2024/06/26 18:48:46 ET]
+Table '3769361908 5' 6-max Seat #6 is the button
+Seat 1: DeathBrain09 (28700 in chips) out of hand (moved from another table into small blind)
+Seat 2: marquinhosss (53790 in chips) 
+Seat 3: Chuckster388 (29000 in chips) 
+Seat 4: $ubuta1 (19048 in chips) 
+Seat 5: zioeddy2312 (12330 in chips) 
+Seat 6: sinister778 (80944 in chips) 
+DeathBrain09 will be allowed to play after the button
+marquinhosss: posts the ante 400
+Chuckster388: posts the ante 400
+$ubuta1: posts the ante 400
+zioeddy2312: posts the ante 400
+sinister778: posts the ante 400
+marquinhosss: posts small blind 800
+Chuckster388: posts big blind 1600
+*** HOLE CARDS ***
+$ubuta1: folds 
+zioeddy2312: raises 10330 to 11930 and is all-in
+sinister778: folds 
+marquinhosss: folds 
+Chuckster388: calls 10330
+*** FLOP *** [As 7d 7h]
+*** TURN *** [As 7d 7h] [4h]
+*** RIVER *** [As 7d 7h 4h] [Qh]
+*** SHOW DOWN ***
+Chuckster388: shows [2s Ac] (two pair, Aces and Sevens)
+zioeddy2312: shows [6d Ad] (two pair, Aces and Sevens)
+Chuckster388 collected 13330 from pot
+zioeddy2312 collected 13330 from pot
+*** SUMMARY ***
+Total pot 26660 | Rake 0 
+Board [As 7d 7h 4h Qh]
+Seat 2: marquinhosss (small blind) folded before Flop
+Seat 3: Chuckster388 (big blind) showed [2s Ac] and won (13330) with two pair, Aces and Sevens
+Seat 4: $ubuta1 folded before Flop (didn't bet)
+Seat 5: zioeddy2312 showed [6d Ad] and won (13330) with two pair, Aces and Sevens
+Seat 6: sinister778 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209813181: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:49:17 UTC [2024/06/26 18:49:17 ET]
+Table '3769361908 5' 6-max Seat #2 is the button
+Seat 1: DeathBrain09 (28700 in chips) 
+Seat 2: marquinhosss (52590 in chips) 
+Seat 3: Chuckster388 (30000 in chips) 
+Seat 4: $ubuta1 (18648 in chips) 
+Seat 5: zioeddy2312 (13330 in chips) 
+Seat 6: sinister778 (80544 in chips) 
+DeathBrain09: posts the ante 400
+marquinhosss: posts the ante 400
+Chuckster388: posts the ante 400
+$ubuta1: posts the ante 400
+zioeddy2312: posts the ante 400
+sinister778: posts the ante 400
+Chuckster388: posts small blind 800
+$ubuta1: posts big blind 1600
+*** HOLE CARDS ***
+zioeddy2312: raises 11330 to 12930 and is all-in
+sinister778: calls 12930
+DeathBrain09: folds 
+marquinhosss: folds 
+Chuckster388: folds 
+$ubuta1: folds 
+*** FLOP *** [4d 6s Jd]
+*** TURN *** [4d 6s Jd] [7s]
+*** RIVER *** [4d 6s Jd 7s] [7c]
+*** SHOW DOWN ***
+zioeddy2312: shows [9d Ah] (a pair of Sevens)
+sinister778: shows [Kd Jh] (two pair, Jacks and Sevens)
+sinister778 collected 30660 from pot
+zioeddy2312 finished the tournament in 116th place
+*** SUMMARY ***
+Total pot 30660 | Rake 0 
+Board [4d 6s Jd 7s 7c]
+Seat 1: DeathBrain09 folded before Flop (didn't bet)
+Seat 2: marquinhosss (button) folded before Flop (didn't bet)
+Seat 3: Chuckster388 (small blind) folded before Flop
+Seat 4: $ubuta1 (big blind) folded before Flop
+Seat 5: zioeddy2312 showed [9d Ah] and lost with a pair of Sevens
+Seat 6: sinister778 showed [Kd Jh] and won (30660) with two pair, Jacks and Sevens
+
+PokerStars Hand #251209820827: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/26 22:49:48 UTC [2024/06/26 18:49:48 ET]
+Table '3769361908 5' 6-max Seat #3 is the button
+Seat 1: DeathBrain09 (28300 in chips) 
+Seat 2: marquinhosss (52190 in chips) 
+Seat 3: Chuckster388 (28800 in chips) 
+Seat 4: $ubuta1 (16648 in chips) 
+Seat 6: sinister778 (97874 in chips) 
+DeathBrain09: posts the ante 400
+marquinhosss: posts the ante 400
+Chuckster388: posts the ante 400
+$ubuta1: posts the ante 400
+sinister778: posts the ante 400
+$ubuta1: posts small blind 800
+sinister778: posts big blind 1600
+*** HOLE CARDS ***
+DeathBrain09: folds 
+marquinhosss: folds 
+Chuckster388: folds 
+$ubuta1: raises 14648 to 16248 and is all-in
+sinister778: calls 14648
+*** FLOP *** [9h 6c 2h]
+*** TURN *** [9h 6c 2h] [9s]
+*** RIVER *** [9h 6c 2h 9s] [Kh]
+*** SHOW DOWN ***
+$ubuta1: shows [6s Ad] (two pair, Nines and Sixes)
+sinister778: shows [4c Kd] (two pair, Kings and Nines)
+sinister778 collected 34496 from pot
+$ubuta1 finished the tournament in 110th place
+*** SUMMARY ***
+Total pot 34496 | Rake 0 
+Board [9h 6c 2h 9s Kh]
+Seat 1: DeathBrain09 folded before Flop (didn't bet)
+Seat 2: marquinhosss folded before Flop (didn't bet)
+Seat 3: Chuckster388 (button) folded before Flop (didn't bet)
+Seat 4: $ubuta1 (small blind) showed [6s Ad] and lost with two pair, Nines and Sixes
+Seat 6: sinister778 (big blind) showed [4c Kd] and won (34496) with two pair, Kings and Nines
+
+PokerStars Hand #251209830105: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:50:25 UTC [2024/06/26 18:50:25 ET]
+Table '3769361908 5' 6-max Seat #6 is the button
+Seat 1: DeathBrain09 (27900 in chips) 
+Seat 2: marquinhosss (51790 in chips) 
+Seat 3: Chuckster388 (28400 in chips) 
+Seat 4: xxxppp (33800 in chips) 
+Seat 5: SicKTHPS (62577 in chips) 
+Seat 6: sinister778 (115722 in chips) 
+DeathBrain09: posts the ante 500
+marquinhosss: posts the ante 500
+Chuckster388: posts the ante 500
+xxxppp: posts the ante 500
+SicKTHPS: posts the ante 500
+sinister778: posts the ante 500
+DeathBrain09: posts small blind 1000
+marquinhosss: posts big blind 2000
+*** HOLE CARDS ***
+Chuckster388: folds 
+xxxppp: folds 
+SicKTHPS: raises 2000 to 4000
+sinister778: calls 4000
+DeathBrain09: folds 
+marquinhosss: raises 47290 to 51290 and is all-in
+SicKTHPS: folds 
+sinister778: folds 
+Uncalled bet (47290) returned to marquinhosss
+marquinhosss collected 16000 from pot
+marquinhosss: doesn't show hand 
+*** SUMMARY ***
+Total pot 16000 | Rake 0 
+Seat 1: DeathBrain09 (small blind) folded before Flop
+Seat 2: marquinhosss (big blind) collected (16000)
+Seat 3: Chuckster388 folded before Flop (didn't bet)
+Seat 4: xxxppp folded before Flop (didn't bet)
+Seat 5: SicKTHPS folded before Flop
+Seat 6: sinister778 (button) folded before Flop
+
+PokerStars Hand #251209840285: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:51:08 UTC [2024/06/26 18:51:08 ET]
+Table '3769361908 5' 6-max Seat #1 is the button
+Seat 1: DeathBrain09 (26400 in chips) 
+Seat 2: marquinhosss (63290 in chips) 
+Seat 3: Chuckster388 (27900 in chips) 
+Seat 4: xxxppp (33300 in chips) 
+Seat 5: SicKTHPS (58077 in chips) 
+Seat 6: sinister778 (111222 in chips) 
+DeathBrain09: posts the ante 500
+marquinhosss: posts the ante 500
+Chuckster388: posts the ante 500
+xxxppp: posts the ante 500
+SicKTHPS: posts the ante 500
+sinister778: posts the ante 500
+marquinhosss: posts small blind 1000
+Chuckster388: posts big blind 2000
+*** HOLE CARDS ***
+xxxppp: raises 2000 to 4000
+SicKTHPS: folds 
+sinister778: folds 
+DeathBrain09: folds 
+marquinhosss: folds 
+Chuckster388: calls 2000
+*** FLOP *** [5d 7d Qh]
+Chuckster388: checks 
+xxxppp: bets 4000
+Chuckster388: calls 4000
+*** TURN *** [5d 7d Qh] [9c]
+Chuckster388: checks 
+xxxppp: checks 
+*** RIVER *** [5d 7d Qh 9c] [5s]
+Chuckster388: bets 6000
+xxxppp: calls 6000
+*** SHOW DOWN ***
+Chuckster388: shows [3c Qc] (two pair, Queens and Fives)
+xxxppp: mucks hand 
+Chuckster388 collected 32000 from pot
+*** SUMMARY ***
+Total pot 32000 | Rake 0 
+Board [5d 7d Qh 9c 5s]
+Seat 1: DeathBrain09 (button) folded before Flop (didn't bet)
+Seat 2: marquinhosss (small blind) folded before Flop
+Seat 3: Chuckster388 (big blind) showed [3c Qc] and won (32000) with two pair, Queens and Fives
+Seat 4: xxxppp mucked
+Seat 5: SicKTHPS folded before Flop (didn't bet)
+Seat 6: sinister778 folded before Flop (didn't bet)
+
+PokerStars Hand #251209848835: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:51:42 UTC [2024/06/26 18:51:42 ET]
+Table '3769361908 5' 6-max Seat #2 is the button
+Seat 1: DeathBrain09 (25900 in chips) 
+Seat 2: marquinhosss (61790 in chips) 
+Seat 3: Chuckster388 (45400 in chips) 
+Seat 4: xxxppp (18800 in chips) 
+Seat 5: SicKTHPS (57577 in chips) 
+Seat 6: sinister778 (110722 in chips) 
+DeathBrain09: posts the ante 500
+marquinhosss: posts the ante 500
+Chuckster388: posts the ante 500
+xxxppp: posts the ante 500
+SicKTHPS: posts the ante 500
+sinister778: posts the ante 500
+Chuckster388: posts small blind 1000
+xxxppp: posts big blind 2000
+*** HOLE CARDS ***
+SicKTHPS: folds 
+sinister778: folds 
+DeathBrain09: folds 
+marquinhosss: raises 2000 to 4000
+Chuckster388: folds 
+xxxppp: calls 2000
+*** FLOP *** [8d 5h Kc]
+xxxppp: checks 
+marquinhosss: bets 2000
+xxxppp: folds 
+Uncalled bet (2000) returned to marquinhosss
+marquinhosss collected 12000 from pot
+marquinhosss: doesn't show hand 
+*** SUMMARY ***
+Total pot 12000 | Rake 0 
+Board [8d 5h Kc]
+Seat 1: DeathBrain09 folded before Flop (didn't bet)
+Seat 2: marquinhosss (button) collected (12000)
+Seat 3: Chuckster388 (small blind) folded before Flop
+Seat 4: xxxppp (big blind) folded on the Flop
+Seat 5: SicKTHPS folded before Flop (didn't bet)
+Seat 6: sinister778 folded before Flop (didn't bet)
+
+PokerStars Hand #251209854597: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:52:06 UTC [2024/06/26 18:52:06 ET]
+Table '3769361908 5' 6-max Seat #3 is the button
+Seat 1: DeathBrain09 (25400 in chips) 
+Seat 2: marquinhosss (69290 in chips) 
+Seat 3: Chuckster388 (43900 in chips) 
+Seat 4: xxxppp (14300 in chips) 
+Seat 5: SicKTHPS (57077 in chips) 
+Seat 6: sinister778 (110222 in chips) 
+DeathBrain09: posts the ante 500
+marquinhosss: posts the ante 500
+Chuckster388: posts the ante 500
+xxxppp: posts the ante 500
+SicKTHPS: posts the ante 500
+sinister778: posts the ante 500
+xxxppp: posts small blind 1000
+SicKTHPS: posts big blind 2000
+*** HOLE CARDS ***
+sinister778: folds 
+DeathBrain09: folds 
+marquinhosss: raises 2000 to 4000
+Chuckster388: folds 
+xxxppp: calls 3000
+SicKTHPS: folds 
+*** FLOP *** [Js 8d 2h]
+xxxppp: bets 9800 and is all-in
+marquinhosss: calls 9800
+*** TURN *** [Js 8d 2h] [Th]
+*** RIVER *** [Js 8d 2h Th] [6s]
+*** SHOW DOWN ***
+xxxppp: shows [Ks 4s] (high card King)
+marquinhosss: shows [Tc Kh] (a pair of Tens)
+marquinhosss collected 32600 from pot
+xxxppp finished the tournament in 93rd place
+*** SUMMARY ***
+Total pot 32600 | Rake 0 
+Board [Js 8d 2h Th 6s]
+Seat 1: DeathBrain09 folded before Flop (didn't bet)
+Seat 2: marquinhosss showed [Tc Kh] and won (32600) with a pair of Tens
+Seat 3: Chuckster388 (button) folded before Flop (didn't bet)
+Seat 4: xxxppp (small blind) showed [Ks 4s] and lost with high card King
+Seat 5: SicKTHPS (big blind) folded before Flop
+Seat 6: sinister778 folded before Flop (didn't bet)
+
+PokerStars Hand #251209862488: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/26 22:52:38 UTC [2024/06/26 18:52:38 ET]
+Table '3769361908 5' 6-max Seat #5 is the button
+Seat 1: DeathBrain09 (24900 in chips) 
+Seat 2: marquinhosss (87590 in chips) 
+Seat 3: Chuckster388 (43400 in chips) 
+Seat 5: SicKTHPS (54577 in chips) 
+Seat 6: sinister778 (109722 in chips) 
+DeathBrain09: posts the ante 500
+marquinhosss: posts the ante 500
+Chuckster388: posts the ante 500
+SicKTHPS: posts the ante 500
+sinister778: posts the ante 500
+sinister778: posts small blind 1000
+DeathBrain09: posts big blind 2000
+*** HOLE CARDS ***
+marquinhosss: folds 
+Chuckster388: raises 2000 to 4000
+SicKTHPS: folds 
+sinister778: folds 
+DeathBrain09: calls 2000
+*** FLOP *** [8d 2h 9d]
+DeathBrain09: checks 
+Chuckster388: checks 
+*** TURN *** [8d 2h 9d] [5h]
+DeathBrain09: bets 3680
+Chuckster388: calls 3680
+*** RIVER *** [8d 2h 9d 5h] [4c]
+DeathBrain09: bets 16720 and is all-in
+Chuckster388: folds 
+Uncalled bet (16720) returned to DeathBrain09
+DeathBrain09 collected 18860 from pot
+*** SUMMARY ***
+Total pot 18860 | Rake 0 
+Board [8d 2h 9d 5h 4c]
+Seat 1: DeathBrain09 (big blind) collected (18860)
+Seat 2: marquinhosss folded before Flop (didn't bet)
+Seat 3: Chuckster388 folded on the River
+Seat 5: SicKTHPS (button) folded before Flop (didn't bet)
+Seat 6: sinister778 (small blind) folded before Flop
+
+PokerStars Hand #251209873218: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/26 22:53:22 UTC [2024/06/26 18:53:22 ET]
+Table '3769361908 5' 6-max Seat #6 is the button
+Seat 1: DeathBrain09 (35580 in chips) 
+Seat 2: marquinhosss (87090 in chips) 
+Seat 3: Chuckster388 (35220 in chips) 
+Seat 4: jvieiradias8 (13900 in chips) 
+Seat 5: SicKTHPS (54077 in chips) 
+Seat 6: sinister778 (108222 in chips) 
+DeathBrain09: posts the ante 600
+marquinhosss: posts the ante 600
+Chuckster388: posts the ante 600
+jvieiradias8: posts the ante 600
+SicKTHPS: posts the ante 600
+sinister778: posts the ante 600
+DeathBrain09: posts small blind 1200
+marquinhosss: posts big blind 2400
+*** HOLE CARDS ***
+Chuckster388: folds 
+jvieiradias8: raises 10900 to 13300 and is all-in
+SicKTHPS: folds 
+sinister778: folds 
+DeathBrain09: folds 
+marquinhosss: folds 
+Uncalled bet (10900) returned to jvieiradias8
+jvieiradias8 collected 9600 from pot
+jvieiradias8: doesn't show hand 
+*** SUMMARY ***
+Total pot 9600 | Rake 0 
+Seat 1: DeathBrain09 (small blind) folded before Flop
+Seat 2: marquinhosss (big blind) folded before Flop
+Seat 3: Chuckster388 folded before Flop (didn't bet)
+Seat 4: jvieiradias8 collected (9600)
+Seat 5: SicKTHPS folded before Flop (didn't bet)
+Seat 6: sinister778 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209879638: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/26 22:53:48 UTC [2024/06/26 18:53:48 ET]
+Table '3769361908 5' 6-max Seat #1 is the button
+Seat 1: DeathBrain09 (33780 in chips) 
+Seat 2: marquinhosss (84090 in chips) 
+Seat 3: Chuckster388 (34620 in chips) 
+Seat 4: jvieiradias8 (20500 in chips) 
+Seat 5: SicKTHPS (53477 in chips) 
+Seat 6: sinister778 (107622 in chips) 
+DeathBrain09: posts the ante 600
+marquinhosss: posts the ante 600
+Chuckster388: posts the ante 600
+jvieiradias8: posts the ante 600
+SicKTHPS: posts the ante 600
+sinister778: posts the ante 600
+marquinhosss: posts small blind 1200
+Chuckster388: posts big blind 2400
+*** HOLE CARDS ***
+jvieiradias8: folds 
+SicKTHPS: folds 
+sinister778: raises 2400 to 4800
+DeathBrain09: folds 
+marquinhosss: folds 
+Chuckster388: folds 
+Uncalled bet (2400) returned to sinister778
+sinister778 collected 9600 from pot
+*** SUMMARY ***
+Total pot 9600 | Rake 0 
+Seat 1: DeathBrain09 (button) folded before Flop (didn't bet)
+Seat 2: marquinhosss (small blind) folded before Flop
+Seat 3: Chuckster388 (big blind) folded before Flop
+Seat 4: jvieiradias8 folded before Flop (didn't bet)
+Seat 5: SicKTHPS folded before Flop (didn't bet)
+Seat 6: sinister778 collected (9600)
+
+PokerStars Hand #251209888555: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/26 22:54:25 UTC [2024/06/26 18:54:25 ET]
+Table '3769361908 5' 6-max Seat #2 is the button
+Seat 1: DeathBrain09 (33180 in chips) 
+Seat 2: marquinhosss (82290 in chips) 
+Seat 3: Chuckster388 (31620 in chips) 
+Seat 4: jvieiradias8 (19900 in chips) 
+Seat 5: SicKTHPS (52877 in chips) 
+Seat 6: sinister778 (114222 in chips) 
+DeathBrain09: posts the ante 600
+marquinhosss: posts the ante 600
+Chuckster388: posts the ante 600
+jvieiradias8: posts the ante 600
+SicKTHPS: posts the ante 600
+sinister778: posts the ante 600
+Chuckster388: posts small blind 1200
+jvieiradias8: posts big blind 2400
+*** HOLE CARDS ***
+SicKTHPS: folds 
+sinister778: folds 
+DeathBrain09: folds 
+marquinhosss: folds 
+Chuckster388: raises 28620 to 31020 and is all-in
+jvieiradias8: calls 16900 and is all-in
+Uncalled bet (11720) returned to Chuckster388
+*** FLOP *** [4c Ac 7d]
+*** TURN *** [4c Ac 7d] [Tc]
+*** RIVER *** [4c Ac 7d Tc] [Qs]
+*** SHOW DOWN ***
+Chuckster388: shows [2c Jc] (a flush, Ace high)
+jvieiradias8: shows [Ah Qd] (two pair, Aces and Queens)
+Chuckster388 collected 42200 from pot
+jvieiradias8 finished the tournament in 78th place
+*** SUMMARY ***
+Total pot 42200 | Rake 0 
+Board [4c Ac 7d Tc Qs]
+Seat 1: DeathBrain09 folded before Flop (didn't bet)
+Seat 2: marquinhosss (button) folded before Flop (didn't bet)
+Seat 3: Chuckster388 (small blind) showed [2c Jc] and won (42200) with a flush, Ace high
+Seat 4: jvieiradias8 (big blind) showed [Ah Qd] and lost with two pair, Aces and Queens
+Seat 5: SicKTHPS folded before Flop (didn't bet)
+Seat 6: sinister778 folded before Flop (didn't bet)
+
+PokerStars Hand #251209964596: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/26 23:01:09 UTC [2024/06/26 19:01:09 ET]
+Table '3769361908 5' 6-max Seat #3 is the button
+Seat 1: DeathBrain09 (32580 in chips) 
+Seat 2: marquinhosss (81690 in chips) 
+Seat 3: Chuckster388 (53920 in chips) 
+Seat 4: Earl of Poker V (31812 in chips) out of hand (moved from another table into small blind)
+Seat 5: SicKTHPS (52277 in chips) 
+Seat 6: sinister778 (113622 in chips) 
+Earl of Poker V will be allowed to play after the button
+DeathBrain09: posts the ante 600
+marquinhosss: posts the ante 600
+Chuckster388: posts the ante 600
+SicKTHPS: posts the ante 600
+sinister778: posts the ante 600
+SicKTHPS: posts small blind 1200
+sinister778: posts big blind 2400
+*** HOLE CARDS ***
+DeathBrain09: folds 
+marquinhosss: raises 2400 to 4800
+Chuckster388: folds 
+SicKTHPS: folds 
+sinister778: folds 
+Uncalled bet (2400) returned to marquinhosss
+marquinhosss collected 9000 from pot
+marquinhosss: doesn't show hand 
+*** SUMMARY ***
+Total pot 9000 | Rake 0 
+Seat 1: DeathBrain09 folded before Flop (didn't bet)
+Seat 2: marquinhosss collected (9000)
+Seat 3: Chuckster388 (button) folded before Flop (didn't bet)
+Seat 5: SicKTHPS (small blind) folded before Flop
+Seat 6: sinister778 (big blind) folded before Flop
+
+PokerStars Hand #251209977028: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/26 23:02:04 UTC [2024/06/26 19:02:04 ET]
+Table '3769361908 5' 6-max Seat #5 is the button
+Seat 1: DeathBrain09 (31980 in chips) 
+Seat 2: marquinhosss (87690 in chips) 
+Seat 3: Chuckster388 (53320 in chips) 
+Seat 4: Earl of Poker V (31812 in chips) 
+Seat 5: SicKTHPS (50477 in chips) 
+Seat 6: sinister778 (110622 in chips) 
+DeathBrain09: posts the ante 600
+marquinhosss: posts the ante 600
+Chuckster388: posts the ante 600
+Earl of Poker V: posts the ante 600
+SicKTHPS: posts the ante 600
+sinister778: posts the ante 600
+sinister778: posts small blind 1200
+DeathBrain09: posts big blind 2400
+*** HOLE CARDS ***
+marquinhosss: folds 
+Chuckster388: folds 
+Earl of Poker V: folds 
+SicKTHPS: raises 2400 to 4800
+sinister778: folds 
+DeathBrain09: calls 2400
+*** FLOP *** [Ac 8d 9h]
+DeathBrain09: checks 
+SicKTHPS: bets 4896
+DeathBrain09: raises 4896 to 9792
+SicKTHPS: raises 35285 to 45077 and is all-in
+DeathBrain09: folds 
+Uncalled bet (35285) returned to SicKTHPS
+SicKTHPS collected 33984 from pot
+SicKTHPS: doesn't show hand 
+*** SUMMARY ***
+Total pot 33984 | Rake 0 
+Board [Ac 8d 9h]
+Seat 1: DeathBrain09 (big blind) folded on the Flop
+Seat 2: marquinhosss folded before Flop (didn't bet)
+Seat 3: Chuckster388 folded before Flop (didn't bet)
+Seat 4: Earl of Poker V folded before Flop (didn't bet)
+Seat 5: SicKTHPS (button) collected (33984)
+Seat 6: sinister778 (small blind) folded before Flop
+
+PokerStars Hand #251209986131: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIX (1400/2800) - 2024/06/26 23:02:43 UTC [2024/06/26 19:02:43 ET]
+Table '3769361908 5' 6-max Seat #6 is the button
+Seat 1: DeathBrain09 (16788 in chips) 
+Seat 2: marquinhosss (87090 in chips) 
+Seat 3: Chuckster388 (52720 in chips) 
+Seat 4: Earl of Poker V (31212 in chips) 
+Seat 5: SicKTHPS (69269 in chips) 
+Seat 6: sinister778 (108822 in chips) 
+DeathBrain09: posts the ante 700
+marquinhosss: posts the ante 700
+Chuckster388: posts the ante 700
+Earl of Poker V: posts the ante 700
+SicKTHPS: posts the ante 700
+sinister778: posts the ante 700
+DeathBrain09: posts small blind 1400
+marquinhosss: posts big blind 2800
+*** HOLE CARDS ***
+Chuckster388: raises 4060 to 6860
+Earl of Poker V: folds 
+SicKTHPS: folds 
+sinister778: folds 
+DeathBrain09: folds 
+marquinhosss: calls 4060
+*** FLOP *** [Jc Qs 2c]
+marquinhosss: checks 
+Chuckster388: bets 6376
+marquinhosss: folds 
+Uncalled bet (6376) returned to Chuckster388
+Chuckster388 collected 19320 from pot
+Chuckster388: doesn't show hand 
+*** SUMMARY ***
+Total pot 19320 | Rake 0 
+Board [Jc Qs 2c]
+Seat 1: DeathBrain09 (small blind) folded before Flop
+Seat 2: marquinhosss (big blind) folded on the Flop
+Seat 3: Chuckster388 collected (19320)
+Seat 4: Earl of Poker V folded before Flop (didn't bet)
+Seat 5: SicKTHPS folded before Flop (didn't bet)
+Seat 6: sinister778 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209996362: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIX (1400/2800) - 2024/06/26 23:03:27 UTC [2024/06/26 19:03:27 ET]
+Table '3769361908 5' 6-max Seat #1 is the button
+Seat 1: DeathBrain09 (14688 in chips) 
+Seat 2: marquinhosss (79530 in chips) 
+Seat 3: Chuckster388 (64480 in chips) 
+Seat 4: Earl of Poker V (30512 in chips) 
+Seat 5: SicKTHPS (68569 in chips) 
+Seat 6: sinister778 (108122 in chips) 
+DeathBrain09: posts the ante 700
+marquinhosss: posts the ante 700
+Chuckster388: posts the ante 700
+Earl of Poker V: posts the ante 700
+SicKTHPS: posts the ante 700
+sinister778: posts the ante 700
+marquinhosss: posts small blind 1400
+Chuckster388: posts big blind 2800
+*** HOLE CARDS ***
+Earl of Poker V: folds 
+SicKTHPS: folds 
+sinister778: folds 
+DeathBrain09: raises 11188 to 13988 and is all-in
+marquinhosss: folds 
+Chuckster388: folds 
+Uncalled bet (11188) returned to DeathBrain09
+DeathBrain09 collected 11200 from pot
+*** SUMMARY ***
+Total pot 11200 | Rake 0 
+Seat 1: DeathBrain09 (button) collected (11200)
+Seat 2: marquinhosss (small blind) folded before Flop
+Seat 3: Chuckster388 (big blind) folded before Flop
+Seat 4: Earl of Poker V folded before Flop (didn't bet)
+Seat 5: SicKTHPS folded before Flop (didn't bet)
+Seat 6: sinister778 folded before Flop (didn't bet)
+
+PokerStars Hand #251210001660: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIX (1400/2800) - 2024/06/26 23:03:50 UTC [2024/06/26 19:03:50 ET]
+Table '3769361908 5' 6-max Seat #2 is the button
+Seat 1: DeathBrain09 (22388 in chips) 
+Seat 2: marquinhosss (77430 in chips) 
+Seat 3: Chuckster388 (60980 in chips) 
+Seat 4: Earl of Poker V (29812 in chips) 
+Seat 5: SicKTHPS (67869 in chips) 
+Seat 6: sinister778 (107422 in chips) 
+DeathBrain09: posts the ante 700
+marquinhosss: posts the ante 700
+Chuckster388: posts the ante 700
+Earl of Poker V: posts the ante 700
+SicKTHPS: posts the ante 700
+sinister778: posts the ante 700
+Chuckster388: posts small blind 1400
+Earl of Poker V: posts big blind 2800
+*** HOLE CARDS ***
+SicKTHPS: folds 
+sinister778: folds 
+DeathBrain09: raises 18888 to 21688 and is all-in
+marquinhosss: folds 
+Chuckster388: folds 
+Earl of Poker V: calls 18888
+*** FLOP *** [9c 7h 4d]
+*** TURN *** [9c 7h 4d] [5d]
+*** RIVER *** [9c 7h 4d 5d] [7d]
+*** SHOW DOWN ***
+Earl of Poker V: shows [Ac Ts] (a pair of Sevens)
+DeathBrain09: shows [Jd Qs] (a pair of Sevens - lower kicker)
+Earl of Poker V collected 48976 from pot
+DeathBrain09 finished the tournament in 67th place
+*** SUMMARY ***
+Total pot 48976 | Rake 0 
+Board [9c 7h 4d 5d 7d]
+Seat 1: DeathBrain09 showed [Jd Qs] and lost with a pair of Sevens
+Seat 2: marquinhosss (button) folded before Flop (didn't bet)
+Seat 3: Chuckster388 (small blind) folded before Flop
+Seat 4: Earl of Poker V (big blind) showed [Ac Ts] and won (48976) with a pair of Sevens
+Seat 5: SicKTHPS folded before Flop (didn't bet)
+Seat 6: sinister778 folded before Flop (didn't bet)

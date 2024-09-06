@@ -1,0 +1,2268 @@
+PokerStars Hand #251204365006: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VII (350/700) - 2024/06/26 17:39:36 UTC [2024/06/26 13:39:36 ET]
+Table '3769361891 70' 8-max Seat #4 is the button
+Seat 1: kykyryry (72040 in chips, $50 bounty) 
+Seat 2: Orion DMC (23361 in chips, $25 bounty) 
+Seat 3: ricardons8 (31285 in chips, $25 bounty) 
+Seat 4: fischex_2000 (37405 in chips, $25 bounty) 
+Seat 5: NarSsm (24336 in chips, $25 bounty) 
+Seat 6: MarzViktor (18566 in chips, $25 bounty) 
+Seat 7: TxiiN (19892 in chips, $25 bounty) 
+Seat 8: mcluki83 (23068 in chips, $25 bounty) 
+kykyryry: posts the ante 90
+Orion DMC: posts the ante 90
+ricardons8: posts the ante 90
+fischex_2000: posts the ante 90
+NarSsm: posts the ante 90
+MarzViktor: posts the ante 90
+TxiiN: posts the ante 90
+mcluki83: posts the ante 90
+NarSsm: posts small blind 350
+MarzViktor: posts big blind 700
+*** HOLE CARDS ***
+TxiiN: raises 700 to 1400
+mcluki83: folds 
+kykyryry: folds 
+Orion DMC: folds 
+ricardons8: folds 
+fischex_2000: folds 
+NarSsm: folds 
+MarzViktor: calls 700
+*** FLOP *** [3c 3h 3s]
+MarzViktor: checks 
+TxiiN: bets 1050
+MarzViktor: calls 1050
+*** TURN *** [3c 3h 3s] [Qc]
+MarzViktor: checks 
+TxiiN: bets 3850
+MarzViktor: calls 3850
+*** RIVER *** [3c 3h 3s Qc] [5h]
+MarzViktor: checks 
+TxiiN: bets 13502 and is all-in
+MarzViktor: folds 
+Uncalled bet (13502) returned to TxiiN
+TxiiN collected 13670 from pot
+TxiiN: doesn't show hand 
+*** SUMMARY ***
+Total pot 13670 | Rake 0 
+Board [3c 3h 3s Qc 5h]
+Seat 1: kykyryry folded before Flop (didn't bet)
+Seat 2: Orion DMC folded before Flop (didn't bet)
+Seat 3: ricardons8 folded before Flop (didn't bet)
+Seat 4: fischex_2000 (button) folded before Flop (didn't bet)
+Seat 5: NarSsm (small blind) folded before Flop
+Seat 6: MarzViktor (big blind) folded on the River
+Seat 7: TxiiN collected (13670)
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204385863: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VII (350/700) - 2024/06/26 17:41:06 UTC [2024/06/26 13:41:06 ET]
+Table '3769361891 70' 8-max Seat #5 is the button
+Seat 1: kykyryry (71950 in chips, $50 bounty) 
+Seat 2: Orion DMC (23271 in chips, $25 bounty) 
+Seat 3: ricardons8 (31195 in chips, $25 bounty) 
+Seat 4: fischex_2000 (37315 in chips, $25 bounty) 
+Seat 5: NarSsm (23896 in chips, $25 bounty) 
+Seat 6: MarzViktor (12176 in chips, $25 bounty) 
+Seat 7: TxiiN (27172 in chips, $25 bounty) 
+Seat 8: mcluki83 (22978 in chips, $25 bounty) 
+kykyryry: posts the ante 90
+Orion DMC: posts the ante 90
+ricardons8: posts the ante 90
+fischex_2000: posts the ante 90
+NarSsm: posts the ante 90
+MarzViktor: posts the ante 90
+TxiiN: posts the ante 90
+mcluki83: posts the ante 90
+MarzViktor: posts small blind 350
+TxiiN: posts big blind 700
+*** HOLE CARDS ***
+mcluki83: folds 
+kykyryry: raises 700 to 1400
+Orion DMC: calls 1400
+ricardons8: folds 
+fischex_2000: folds 
+NarSsm: folds 
+MarzViktor: folds 
+TxiiN: folds 
+*** FLOP *** [Kd Jc Qc]
+kykyryry: checks 
+Orion DMC: bets 2100
+kykyryry: folds 
+Uncalled bet (2100) returned to Orion DMC
+Orion DMC collected 4570 from pot
+Orion DMC: doesn't show hand 
+*** SUMMARY ***
+Total pot 4570 | Rake 0 
+Board [Kd Jc Qc]
+Seat 1: kykyryry folded on the Flop
+Seat 2: Orion DMC collected (4570)
+Seat 3: ricardons8 folded before Flop (didn't bet)
+Seat 4: fischex_2000 folded before Flop (didn't bet)
+Seat 5: NarSsm (button) folded before Flop (didn't bet)
+Seat 6: MarzViktor (small blind) folded before Flop
+Seat 7: TxiiN (big blind) folded before Flop
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204401010: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VII (350/700) - 2024/06/26 17:42:12 UTC [2024/06/26 13:42:12 ET]
+Table '3769361891 70' 8-max Seat #6 is the button
+Seat 1: kykyryry (70460 in chips, $50 bounty) 
+Seat 2: Orion DMC (26351 in chips, $25 bounty) 
+Seat 3: ricardons8 (31105 in chips, $25 bounty) 
+Seat 4: fischex_2000 (37225 in chips, $25 bounty) 
+Seat 5: NarSsm (23806 in chips, $25 bounty) 
+Seat 6: MarzViktor (11736 in chips, $25 bounty) 
+Seat 7: TxiiN (26382 in chips, $25 bounty) 
+Seat 8: mcluki83 (22888 in chips, $25 bounty) 
+kykyryry: posts the ante 90
+Orion DMC: posts the ante 90
+ricardons8: posts the ante 90
+fischex_2000: posts the ante 90
+NarSsm: posts the ante 90
+MarzViktor: posts the ante 90
+TxiiN: posts the ante 90
+mcluki83: posts the ante 90
+TxiiN: posts small blind 350
+mcluki83: posts big blind 700
+*** HOLE CARDS ***
+kykyryry: raises 1050 to 1750
+Orion DMC: folds 
+ricardons8: calls 1750
+fischex_2000: folds 
+NarSsm: folds 
+MarzViktor: raises 9896 to 11646 and is all-in
+TxiiN: folds 
+mcluki83: raises 11152 to 22798 and is all-in
+kykyryry: raises 47572 to 70370 and is all-in
+ricardons8: calls 29265 and is all-in
+Uncalled bet (39355) returned to kykyryry
+*** FLOP *** [7s As 7h]
+*** TURN *** [7s As 7h] [6c]
+*** RIVER *** [7s As 7h 6c] [4h]
+*** SHOW DOWN ***
+kykyryry: shows [Th Tc] (two pair, Tens and Sevens)
+ricardons8: shows [5d 6d] (two pair, Sevens and Sixes)
+kykyryry collected 16434 from side pot-2 
+mcluki83: shows [Kd Ac] (two pair, Aces and Sevens)
+mcluki83 collected 33456 from side pot-1 
+MarzViktor: shows [Qh Qc] (two pair, Queens and Sevens)
+mcluki83 collected 47654 from main pot
+kykyryry wins $12.50 for eliminating ricardons8 and their own bounty increases by $12.50 to $62.50
+mcluki83 wins $12.50 for eliminating MarzViktor and their own bounty increases by $12.50 to $37.50
+ricardons8 finished the tournament
+MarzViktor finished the tournament
+Andk(mlr) is disconnected 
+*** SUMMARY ***
+Total pot 97544 Main pot 47654. Side pot-1 33456. Side pot-2 16434. | Rake 0 
+Board [7s As 7h 6c 4h]
+Seat 1: kykyryry showed [Th Tc] and won (16434) with two pair, Tens and Sevens
+Seat 2: Orion DMC folded before Flop (didn't bet)
+Seat 3: ricardons8 showed [5d 6d] and lost with two pair, Sevens and Sixes
+Seat 4: fischex_2000 folded before Flop (didn't bet)
+Seat 5: NarSsm folded before Flop (didn't bet)
+Seat 6: MarzViktor (button) showed [Qh Qc] and lost with two pair, Queens and Sevens
+Seat 7: TxiiN (small blind) folded before Flop
+Seat 8: mcluki83 (big blind) showed [Kd Ac] and won (81110) with two pair, Aces and Sevens
+
+PokerStars Hand #251204415745: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VII (350/700) - 2024/06/26 17:43:18 UTC [2024/06/26 13:43:18 ET]
+Table '3769361891 70' 8-max Seat #7 is the button
+Seat 1: kykyryry (55789 in chips, $62.50 bounty) 
+Seat 2: Orion DMC (26261 in chips, $25 bounty) 
+Seat 4: fischex_2000 (37135 in chips, $25 bounty) 
+Seat 5: NarSsm (23716 in chips, $25 bounty) 
+Seat 6: Andk(mlr) (13137 in chips, $25 bounty) 
+Seat 7: TxiiN (25942 in chips, $25 bounty) 
+Seat 8: mcluki83 (81110 in chips, $37.50 bounty) 
+kykyryry: posts the ante 90
+Orion DMC: posts the ante 90
+fischex_2000: posts the ante 90
+NarSsm: posts the ante 90
+Andk(mlr): posts the ante 90
+TxiiN: posts the ante 90
+mcluki83: posts the ante 90
+mcluki83: posts small blind 350
+kykyryry: posts big blind 700
+*** HOLE CARDS ***
+Orion DMC: folds 
+fischex_2000: calls 700
+NarSsm: folds 
+Andk(mlr): folds 
+gustavoodias is disconnected 
+TxiiN: raises 1750 to 2450
+mcluki83: folds 
+kykyryry: raises 5950 to 8400
+fischex_2000: folds 
+TxiiN: folds 
+Uncalled bet (5950) returned to kykyryry
+kykyryry collected 6580 from pot
+kykyryry: doesn't show hand 
+*** SUMMARY ***
+Total pot 6580 | Rake 0 
+Seat 1: kykyryry (big blind) collected (6580)
+Seat 2: Orion DMC folded before Flop (didn't bet)
+Seat 4: fischex_2000 folded before Flop
+Seat 5: NarSsm folded before Flop (didn't bet)
+Seat 6: Andk(mlr) folded before Flop (didn't bet)
+Seat 7: TxiiN (button) folded before Flop
+Seat 8: mcluki83 (small blind) folded before Flop
+
+PokerStars Hand #251204424513: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VII (350/700) - 2024/06/26 17:43:56 UTC [2024/06/26 13:43:56 ET]
+Table '3769361891 70' 8-max Seat #8 is the button
+Seat 1: kykyryry (59829 in chips, $62.50 bounty) 
+Seat 2: Orion DMC (26171 in chips, $25 bounty) 
+Seat 3: gustavoodias (25000 in chips, $25 bounty) 
+Seat 4: fischex_2000 (36345 in chips, $25 bounty) 
+Seat 5: NarSsm (23626 in chips, $25 bounty) 
+Seat 6: Andk(mlr) (13047 in chips, $25 bounty) 
+Seat 7: TxiiN (23402 in chips, $25 bounty) 
+Seat 8: mcluki83 (80670 in chips, $37.50 bounty) 
+kykyryry: posts the ante 90
+Orion DMC: posts the ante 90
+gustavoodias: posts the ante 90
+fischex_2000: posts the ante 90
+NarSsm: posts the ante 90
+Andk(mlr): posts the ante 90
+TxiiN: posts the ante 90
+mcluki83: posts the ante 90
+kykyryry: posts small blind 350
+Orion DMC: posts big blind 700
+*** HOLE CARDS ***
+gustavoodias: raises 770 to 1470
+fischex_2000: folds 
+NarSsm: folds 
+Andk(mlr): folds 
+TxiiN: folds 
+mcluki83: calls 1470
+kykyryry: folds 
+Orion DMC: calls 770
+*** FLOP *** [6h 8c 5s]
+Orion DMC: checks 
+gustavoodias: checks 
+mcluki83: bets 2450
+Orion DMC: calls 2450
+gustavoodias: calls 2450
+*** TURN *** [6h 8c 5s] [Js]
+Orion DMC: bets 2800
+gustavoodias: folds 
+mcluki83: calls 2800
+*** RIVER *** [6h 8c 5s Js] [Th]
+Orion DMC: bets 2800
+mcluki83: calls 2800
+*** SHOW DOWN ***
+Orion DMC: shows [5c Jd] (two pair, Jacks and Fives)
+mcluki83: mucks hand 
+Orion DMC collected 24030 from pot
+*** SUMMARY ***
+Total pot 24030 | Rake 0 
+Board [6h 8c 5s Js Th]
+Seat 1: kykyryry (small blind) folded before Flop
+Seat 2: Orion DMC (big blind) showed [5c Jd] and won (24030) with two pair, Jacks and Fives
+Seat 3: gustavoodias folded on the Turn
+Seat 4: fischex_2000 folded before Flop (didn't bet)
+Seat 5: NarSsm folded before Flop (didn't bet)
+Seat 6: Andk(mlr) folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 (button) mucked
+
+PokerStars Hand #251204445023: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VII (350/700) - 2024/06/26 17:45:26 UTC [2024/06/26 13:45:26 ET]
+Table '3769361891 70' 8-max Seat #1 is the button
+Seat 1: kykyryry (59389 in chips, $62.50 bounty) 
+Seat 2: Orion DMC (40591 in chips, $25 bounty) 
+Seat 3: gustavoodias (20990 in chips, $25 bounty) 
+Seat 4: fischex_2000 (36255 in chips, $25 bounty) 
+Seat 5: NarSsm (23536 in chips, $25 bounty) 
+Seat 6: Andk(mlr) (12957 in chips, $25 bounty) 
+Seat 7: TxiiN (23312 in chips, $25 bounty) 
+Seat 8: mcluki83 (71060 in chips, $37.50 bounty) 
+kykyryry: posts the ante 90
+Orion DMC: posts the ante 90
+gustavoodias: posts the ante 90
+fischex_2000: posts the ante 90
+NarSsm: posts the ante 90
+Andk(mlr): posts the ante 90
+TxiiN: posts the ante 90
+mcluki83: posts the ante 90
+Orion DMC: posts small blind 350
+gustavoodias: posts big blind 700
+*** HOLE CARDS ***
+fischex_2000: calls 700
+NarSsm: folds 
+Andk(mlr): folds 
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: raises 1750 to 2450
+Orion DMC: folds 
+gustavoodias: folds 
+fischex_2000: calls 1750
+*** FLOP *** [8s Qd 6c]
+fischex_2000: bets 3000
+kykyryry: folds 
+Uncalled bet (3000) returned to fischex_2000
+fischex_2000 collected 6670 from pot
+*** SUMMARY ***
+Total pot 6670 | Rake 0 
+Board [8s Qd 6c]
+Seat 1: kykyryry (button) folded on the Flop
+Seat 2: Orion DMC (small blind) folded before Flop
+Seat 3: gustavoodias (big blind) folded before Flop
+Seat 4: fischex_2000 collected (6670)
+Seat 5: NarSsm folded before Flop (didn't bet)
+Seat 6: Andk(mlr) folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204456505: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VII (350/700) - 2024/06/26 17:46:17 UTC [2024/06/26 13:46:17 ET]
+Table '3769361891 70' 8-max Seat #2 is the button
+Seat 1: kykyryry (56849 in chips, $62.50 bounty) 
+Seat 2: Orion DMC (40151 in chips, $25 bounty) 
+Seat 3: gustavoodias (20200 in chips, $25 bounty) 
+Seat 4: fischex_2000 (40385 in chips, $25 bounty) 
+Seat 5: NarSsm (23446 in chips, $25 bounty) 
+Seat 6: Andk(mlr) (12867 in chips, $25 bounty) 
+Seat 7: TxiiN (23222 in chips, $25 bounty) 
+Seat 8: mcluki83 (70970 in chips, $37.50 bounty) 
+kykyryry: posts the ante 90
+Orion DMC: posts the ante 90
+gustavoodias: posts the ante 90
+fischex_2000: posts the ante 90
+NarSsm: posts the ante 90
+Andk(mlr): posts the ante 90
+TxiiN: posts the ante 90
+mcluki83: posts the ante 90
+gustavoodias: posts small blind 350
+fischex_2000: posts big blind 700
+*** HOLE CARDS ***
+NarSsm: raises 770 to 1470
+Andk(mlr): folds 
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: folds 
+Orion DMC: folds 
+gustavoodias: folds 
+fischex_2000: calls 770
+*** FLOP *** [7h 2s 5c]
+fischex_2000: bets 2200
+NarSsm: calls 2200
+*** TURN *** [7h 2s 5c] [Jh]
+fischex_2000: checks 
+NarSsm: bets 4205
+fischex_2000: folds 
+Uncalled bet (4205) returned to NarSsm
+NarSsm collected 8410 from pot
+*** SUMMARY ***
+Total pot 8410 | Rake 0 
+Board [7h 2s 5c Jh]
+Seat 1: kykyryry folded before Flop (didn't bet)
+Seat 2: Orion DMC (button) folded before Flop (didn't bet)
+Seat 3: gustavoodias (small blind) folded before Flop
+Seat 4: fischex_2000 (big blind) folded on the Turn
+Seat 5: NarSsm collected (8410)
+Seat 6: Andk(mlr) folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204476130: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:47:45 UTC [2024/06/26 13:47:45 ET]
+Table '3769361891 70' 8-max Seat #3 is the button
+Seat 1: kykyryry (56759 in chips, $62.50 bounty) 
+Seat 2: Orion DMC (40061 in chips, $25 bounty) 
+Seat 3: gustavoodias (19760 in chips, $25 bounty) 
+Seat 4: fischex_2000 (36625 in chips, $25 bounty) 
+Seat 5: NarSsm (28096 in chips, $25 bounty) 
+Seat 6: Andk(mlr) (12777 in chips, $25 bounty) 
+Seat 7: TxiiN (23132 in chips, $25 bounty) 
+Seat 8: mcluki83 (70880 in chips, $37.50 bounty) 
+kykyryry: posts the ante 100
+Orion DMC: posts the ante 100
+gustavoodias: posts the ante 100
+fischex_2000: posts the ante 100
+NarSsm: posts the ante 100
+Andk(mlr): posts the ante 100
+TxiiN: posts the ante 100
+mcluki83: posts the ante 100
+fischex_2000: posts small blind 400
+NarSsm: posts big blind 800
+*** HOLE CARDS ***
+Andk(mlr): folds 
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: raises 800 to 1600
+Orion DMC: folds 
+gustavoodias: folds 
+fischex_2000: calls 1200
+NarSsm: raises 4000 to 5600
+kykyryry: folds 
+fischex_2000: folds 
+Uncalled bet (4000) returned to NarSsm
+NarSsm collected 5600 from pot
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Seat 1: kykyryry folded before Flop
+Seat 2: Orion DMC folded before Flop (didn't bet)
+Seat 3: gustavoodias (button) folded before Flop (didn't bet)
+Seat 4: fischex_2000 (small blind) folded before Flop
+Seat 5: NarSsm (big blind) collected (5600)
+Seat 6: Andk(mlr) folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204488883: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:48:42 UTC [2024/06/26 13:48:42 ET]
+Table '3769361891 70' 8-max Seat #4 is the button
+Seat 1: kykyryry (55059 in chips, $62.50 bounty) 
+Seat 2: Orion DMC (39961 in chips, $25 bounty) 
+Seat 3: gustavoodias (19660 in chips, $25 bounty) 
+Seat 4: fischex_2000 (34925 in chips, $25 bounty) 
+Seat 5: NarSsm (31996 in chips, $25 bounty) 
+Seat 6: Andk(mlr) (12677 in chips, $25 bounty) 
+Seat 7: TxiiN (23032 in chips, $25 bounty) 
+Seat 8: mcluki83 (70780 in chips, $37.50 bounty) 
+kykyryry: posts the ante 100
+Orion DMC: posts the ante 100
+gustavoodias: posts the ante 100
+fischex_2000: posts the ante 100
+NarSsm: posts the ante 100
+Andk(mlr): posts the ante 100
+TxiiN: posts the ante 100
+mcluki83: posts the ante 100
+NarSsm: posts small blind 400
+Andk(mlr): posts big blind 800
+*** HOLE CARDS ***
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: raises 800 to 1600
+Orion DMC: folds 
+gustavoodias: raises 17960 to 19560 and is all-in
+fischex_2000: folds 
+NarSsm: folds 
+Andk(mlr): folds 
+kykyryry: calls 17960
+*** FLOP *** [5s 8s Th]
+*** TURN *** [5s 8s Th] [7d]
+*** RIVER *** [5s 8s Th 7d] [Kc]
+*** SHOW DOWN ***
+kykyryry: shows [Ac Tc] (a pair of Tens)
+gustavoodias: shows [Qh Ad] (high card Ace)
+kykyryry collected 41120 from pot
+kykyryry wins $12.50 for eliminating gustavoodias and their own bounty increases by $12.50 to $75
+gustavoodias finished the tournament
+*** SUMMARY ***
+Total pot 41120 | Rake 0 
+Board [5s 8s Th 7d Kc]
+Seat 1: kykyryry showed [Ac Tc] and won (41120) with a pair of Tens
+Seat 2: Orion DMC folded before Flop (didn't bet)
+Seat 3: gustavoodias showed [Qh Ad] and lost with high card Ace
+Seat 4: fischex_2000 (button) folded before Flop (didn't bet)
+Seat 5: NarSsm (small blind) folded before Flop
+Seat 6: Andk(mlr) (big blind) folded before Flop
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204502276: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:49:42 UTC [2024/06/26 13:49:42 ET]
+Table '3769361891 70' 8-max Seat #5 is the button
+Seat 1: kykyryry (76519 in chips, $75 bounty) 
+Seat 2: Orion DMC (39861 in chips, $25 bounty) 
+Seat 4: fischex_2000 (34825 in chips, $25 bounty) 
+Seat 5: NarSsm (31496 in chips, $25 bounty) 
+Seat 6: Andk(mlr) (11777 in chips, $25 bounty) 
+Seat 7: TxiiN (22932 in chips, $25 bounty) 
+Seat 8: mcluki83 (70680 in chips, $37.50 bounty) 
+kykyryry: posts the ante 100
+Orion DMC: posts the ante 100
+fischex_2000: posts the ante 100
+NarSsm: posts the ante 100
+Andk(mlr): posts the ante 100
+TxiiN: posts the ante 100
+mcluki83: posts the ante 100
+Andk(mlr): posts small blind 400
+TxiiN: posts big blind 800
+*** HOLE CARDS ***
+mcluki83: raises 1016 to 1816
+Poiizem is disconnected 
+kykyryry: folds 
+Orion DMC: calls 1816
+fischex_2000: calls 1816
+NarSsm: folds 
+Andk(mlr): folds 
+TxiiN: calls 1016
+*** FLOP *** [6h 4c 3s]
+TxiiN: checks 
+mcluki83: bets 3011
+Orion DMC: folds 
+fischex_2000: folds 
+TxiiN: calls 3011
+*** TURN *** [6h 4c 3s] [9d]
+TxiiN: checks 
+mcluki83: checks 
+*** RIVER *** [6h 4c 3s 9d] [2h]
+TxiiN: bets 8000
+mcluki83: calls 8000
+*** SHOW DOWN ***
+TxiiN: shows [As 7s] (high card Ace)
+mcluki83: shows [2s 2d] (three of a kind, Deuces)
+mcluki83 collected 30386 from pot
+*** SUMMARY ***
+Total pot 30386 | Rake 0 
+Board [6h 4c 3s 9d 2h]
+Seat 1: kykyryry folded before Flop (didn't bet)
+Seat 2: Orion DMC folded on the Flop
+Seat 4: fischex_2000 folded on the Flop
+Seat 5: NarSsm (button) folded before Flop (didn't bet)
+Seat 6: Andk(mlr) (small blind) folded before Flop
+Seat 7: TxiiN (big blind) showed [As 7s] and lost with high card Ace
+Seat 8: mcluki83 showed [2s 2d] and won (30386) with three of a kind, Deuces
+
+PokerStars Hand #251204518101: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:50:53 UTC [2024/06/26 13:50:53 ET]
+Table '3769361891 70' 8-max Seat #6 is the button
+Seat 1: kykyryry (76419 in chips, $75 bounty) 
+Seat 2: Orion DMC (37945 in chips, $25 bounty) 
+Seat 3: Poiizem (25000 in chips, $25 bounty) 
+Seat 4: fischex_2000 (32909 in chips, $25 bounty) 
+Seat 5: NarSsm (31396 in chips, $25 bounty) 
+Seat 6: Andk(mlr) (11277 in chips, $25 bounty) 
+Seat 7: TxiiN (10005 in chips, $25 bounty) 
+Seat 8: mcluki83 (88139 in chips, $37.50 bounty) 
+kykyryry: posts the ante 100
+Orion DMC: posts the ante 100
+Poiizem: posts the ante 100
+fischex_2000: posts the ante 100
+NarSsm: posts the ante 100
+Andk(mlr): posts the ante 100
+TxiiN: posts the ante 100
+mcluki83: posts the ante 100
+TxiiN: posts small blind 400
+mcluki83: posts big blind 800
+*** HOLE CARDS ***
+kykyryry: folds 
+Orion DMC: folds 
+Poiizem: raises 800 to 1600
+fischex_2000: folds 
+NarSsm: raises 3200 to 4800
+Andk(mlr): folds 
+TxiiN: folds 
+mcluki83: folds 
+Poiizem: calls 3200
+*** FLOP *** [9c Ts Th]
+Poiizem: checks 
+NarSsm: bets 3828
+Poiizem: calls 3828
+*** TURN *** [9c Ts Th] [6c]
+Poiizem: checks 
+NarSsm: bets 21528
+Poiizem: calls 16272 and is all-in
+Uncalled bet (5256) returned to NarSsm
+*** RIVER *** [9c Ts Th 6c] [Ac]
+*** SHOW DOWN ***
+Poiizem: shows [8h 9h] (two pair, Tens and Nines)
+NarSsm: shows [Js Jd] (two pair, Jacks and Tens)
+NarSsm collected 51800 from pot
+NarSsm wins $12.50 for eliminating Poiizem and their own bounty increases by $12.50 to $37.50
+Poiizem finished the tournament
+*** SUMMARY ***
+Total pot 51800 | Rake 0 
+Board [9c Ts Th 6c Ac]
+Seat 1: kykyryry folded before Flop (didn't bet)
+Seat 2: Orion DMC folded before Flop (didn't bet)
+Seat 3: Poiizem showed [8h 9h] and lost with two pair, Tens and Nines
+Seat 4: fischex_2000 folded before Flop (didn't bet)
+Seat 5: NarSsm showed [Js Jd] and won (51800) with two pair, Jacks and Tens
+Seat 6: Andk(mlr) (button) folded before Flop (didn't bet)
+Seat 7: TxiiN (small blind) folded before Flop
+Seat 8: mcluki83 (big blind) folded before Flop
+
+PokerStars Hand #251204534885: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:52:07 UTC [2024/06/26 13:52:07 ET]
+Table '3769361891 70' 8-max Seat #7 is the button
+Seat 1: kykyryry (76319 in chips, $75 bounty) 
+Seat 2: Orion DMC (37845 in chips, $25 bounty) 
+Seat 4: fischex_2000 (32809 in chips, $25 bounty) 
+Seat 5: NarSsm (58196 in chips, $37.50 bounty) 
+Seat 6: Andk(mlr) (11177 in chips, $25 bounty) 
+Seat 7: TxiiN (9505 in chips, $25 bounty) 
+Seat 8: mcluki83 (87239 in chips, $37.50 bounty) 
+kykyryry: posts the ante 100
+Orion DMC: posts the ante 100
+fischex_2000: posts the ante 100
+NarSsm: posts the ante 100
+Andk(mlr): posts the ante 100
+TxiiN: posts the ante 100
+mcluki83: posts the ante 100
+mcluki83: posts small blind 400
+kykyryry: posts big blind 800
+*** HOLE CARDS ***
+Orion DMC: folds 
+fischex_2000: folds 
+NarSsm: folds 
+Andk(mlr): raises 10277 to 11077 and is all-in
+TxiiN: folds 
+mcluki83: folds 
+Lobo_Mau5555 is disconnected 
+kykyryry: calls 10277
+*** FLOP *** [Ts Jc Js]
+*** TURN *** [Ts Jc Js] [Jd]
+*** RIVER *** [Ts Jc Js Jd] [5c]
+*** SHOW DOWN ***
+kykyryry: shows [Ah 6c] (three of a kind, Jacks)
+Andk(mlr): shows [As Qh] (three of a kind, Jacks - Ace+Queen kicker)
+Andk(mlr) collected 23254 from pot
+*** SUMMARY ***
+Total pot 23254 | Rake 0 
+Board [Ts Jc Js Jd 5c]
+Seat 1: kykyryry (big blind) showed [Ah 6c] and lost with three of a kind, Jacks
+Seat 2: Orion DMC folded before Flop (didn't bet)
+Seat 4: fischex_2000 folded before Flop (didn't bet)
+Seat 5: NarSsm folded before Flop (didn't bet)
+Seat 6: Andk(mlr) showed [As Qh] and won (23254) with three of a kind, Jacks
+Seat 7: TxiiN (button) folded before Flop (didn't bet)
+Seat 8: mcluki83 (small blind) folded before Flop
+
+PokerStars Hand #251204544816: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:52:52 UTC [2024/06/26 13:52:52 ET]
+Table '3769361891 70' 8-max Seat #8 is the button
+Seat 1: kykyryry (65142 in chips, $75 bounty) 
+Seat 2: Orion DMC (37745 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (25000 in chips, $25 bounty) 
+Seat 4: fischex_2000 (32709 in chips, $25 bounty) 
+Seat 5: NarSsm (58096 in chips, $37.50 bounty) 
+Seat 6: Andk(mlr) (23254 in chips, $25 bounty) 
+Seat 7: TxiiN (9405 in chips, $25 bounty) 
+Seat 8: mcluki83 (86739 in chips, $37.50 bounty) 
+kykyryry: posts the ante 100
+Orion DMC: posts the ante 100
+Lobo_Mau5555: posts the ante 100
+fischex_2000: posts the ante 100
+NarSsm: posts the ante 100
+Andk(mlr): posts the ante 100
+TxiiN: posts the ante 100
+mcluki83: posts the ante 100
+kykyryry: posts small blind 400
+Orion DMC: posts big blind 800
+*** HOLE CARDS ***
+Lobo_Mau5555: folds 
+fischex_2000: folds 
+NarSsm: folds 
+Andk(mlr): folds 
+TxiiN: raises 8505 to 9305 and is all-in
+mcluki83: folds 
+kykyryry: folds 
+Orion DMC: calls 8505
+*** FLOP *** [5d 2d Kc]
+*** TURN *** [5d 2d Kc] [8s]
+*** RIVER *** [5d 2d Kc 8s] [Kh]
+*** SHOW DOWN ***
+Orion DMC: shows [Jh 7d] (a pair of Kings)
+TxiiN: shows [8d Jd] (two pair, Kings and Eights)
+TxiiN collected 19810 from pot
+*** SUMMARY ***
+Total pot 19810 | Rake 0 
+Board [5d 2d Kc 8s Kh]
+Seat 1: kykyryry (small blind) folded before Flop
+Seat 2: Orion DMC (big blind) showed [Jh 7d] and lost with a pair of Kings
+Seat 3: Lobo_Mau5555 folded before Flop (didn't bet)
+Seat 4: fischex_2000 folded before Flop (didn't bet)
+Seat 5: NarSsm folded before Flop (didn't bet)
+Seat 6: Andk(mlr) folded before Flop (didn't bet)
+Seat 7: TxiiN showed [8d Jd] and won (19810) with two pair, Kings and Eights
+Seat 8: mcluki83 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251204555499: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:53:40 UTC [2024/06/26 13:53:40 ET]
+Table '3769361891 70' 8-max Seat #1 is the button
+Seat 1: kykyryry (64642 in chips, $75 bounty) 
+Seat 2: Orion DMC (28340 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (24900 in chips, $25 bounty) 
+Seat 4: fischex_2000 (32609 in chips, $25 bounty) 
+Seat 5: NarSsm (57996 in chips, $37.50 bounty) 
+Seat 6: Andk(mlr) (23154 in chips, $25 bounty) 
+Seat 7: TxiiN (19810 in chips, $25 bounty) 
+Seat 8: mcluki83 (86639 in chips, $37.50 bounty) 
+kykyryry: posts the ante 100
+Orion DMC: posts the ante 100
+Lobo_Mau5555: posts the ante 100
+fischex_2000: posts the ante 100
+NarSsm: posts the ante 100
+Andk(mlr): posts the ante 100
+TxiiN: posts the ante 100
+mcluki83: posts the ante 100
+Orion DMC: posts small blind 400
+Lobo_Mau5555: posts big blind 800
+*** HOLE CARDS ***
+fischex_2000: folds 
+NarSsm: folds 
+Andk(mlr): folds 
+TxiiN: raises 800 to 1600
+mcluki83: folds 
+kykyryry: folds 
+Orion DMC: calls 1200
+Lobo_Mau5555: calls 800
+*** FLOP *** [9d 8h Jc]
+Orion DMC: checks 
+Lobo_Mau5555: checks 
+TxiiN: checks 
+*** TURN *** [9d 8h Jc] [6d]
+Orion DMC: bets 2400
+Lobo_Mau5555: folds 
+TxiiN: folds 
+Uncalled bet (2400) returned to Orion DMC
+Orion DMC collected 5600 from pot
+Orion DMC: doesn't show hand 
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Board [9d 8h Jc 6d]
+Seat 1: kykyryry (button) folded before Flop (didn't bet)
+Seat 2: Orion DMC (small blind) collected (5600)
+Seat 3: Lobo_Mau5555 (big blind) folded on the Turn
+Seat 4: fischex_2000 folded before Flop (didn't bet)
+Seat 5: NarSsm folded before Flop (didn't bet)
+Seat 6: Andk(mlr) folded before Flop (didn't bet)
+Seat 7: TxiiN folded on the Turn
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204570352: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 17:54:47 UTC [2024/06/26 13:54:47 ET]
+Table '3769361891 70' 8-max Seat #2 is the button
+Seat 1: kykyryry (64542 in chips, $75 bounty) 
+Seat 2: Orion DMC (32240 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (23200 in chips, $25 bounty) 
+Seat 4: fischex_2000 (32509 in chips, $25 bounty) 
+Seat 5: NarSsm (57896 in chips, $37.50 bounty) 
+Seat 6: Andk(mlr) (23054 in chips, $25 bounty) 
+Seat 7: TxiiN (18110 in chips, $25 bounty) 
+Seat 8: mcluki83 (86539 in chips, $37.50 bounty) 
+kykyryry: posts the ante 100
+Orion DMC: posts the ante 100
+Lobo_Mau5555: posts the ante 100
+fischex_2000: posts the ante 100
+NarSsm: posts the ante 100
+Andk(mlr): posts the ante 100
+TxiiN: posts the ante 100
+mcluki83: posts the ante 100
+Lobo_Mau5555: posts small blind 400
+fischex_2000: posts big blind 800
+*** HOLE CARDS ***
+NarSsm: raises 1040 to 1840
+Andk(mlr): folds 
+TxiiN: folds 
+mcluki83: calls 1840
+kykyryry: folds 
+Orion DMC: calls 1840
+Lobo_Mau5555: folds 
+fischex_2000: calls 1040
+*** FLOP *** [5c 5s Qh]
+fischex_2000: bets 5000
+NarSsm: folds 
+mcluki83: folds 
+Orion DMC: folds 
+Uncalled bet (5000) returned to fischex_2000
+fischex_2000 collected 8560 from pot
+*** SUMMARY ***
+Total pot 8560 | Rake 0 
+Board [5c 5s Qh]
+Seat 1: kykyryry folded before Flop (didn't bet)
+Seat 2: Orion DMC (button) folded on the Flop
+Seat 3: Lobo_Mau5555 (small blind) folded before Flop
+Seat 4: fischex_2000 (big blind) collected (8560)
+Seat 5: NarSsm folded on the Flop
+Seat 6: Andk(mlr) folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded on the Flop
+
+PokerStars Hand #251204646438: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 18:01:56 UTC [2024/06/26 14:01:56 ET]
+Table '3769361891 70' 8-max Seat #3 is the button
+Seat 1: kykyryry (64442 in chips, $75 bounty) 
+Seat 2: Orion DMC (30300 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (22700 in chips, $25 bounty) 
+Seat 4: MrNutShot (25000 in chips) out of hand (moved from another table into small blind)
+Seat 5: NarSsm (55956 in chips, $37.50 bounty) 
+Seat 6: Andk(mlr) (22954 in chips, $25 bounty) 
+Seat 7: TxiiN (18010 in chips, $25 bounty) 
+Seat 8: mcluki83 (84599 in chips, $37.50 bounty) 
+MrNutShot will be allowed to play after the button
+kykyryry: posts the ante 100
+Orion DMC: posts the ante 100
+Lobo_Mau5555: posts the ante 100
+NarSsm: posts the ante 100
+Andk(mlr): posts the ante 100
+TxiiN: posts the ante 100
+mcluki83: posts the ante 100
+NarSsm: posts small blind 400
+Andk(mlr): posts big blind 800
+*** HOLE CARDS ***
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: raises 800 to 1600
+Orion DMC: calls 1600
+Lobo_Mau5555: calls 1600
+NarSsm: folds 
+Andk(mlr): calls 800
+*** FLOP *** [6c Ac Jd]
+Andk(mlr): checks 
+kykyryry: bets 2325
+Orion DMC: folds 
+Lobo_Mau5555: raises 6075 to 8400
+Andk(mlr): folds 
+kykyryry: folds 
+Uncalled bet (6075) returned to Lobo_Mau5555
+Lobo_Mau5555 collected 12150 from pot
+Lobo_Mau5555: doesn't show hand 
+*** SUMMARY ***
+Total pot 12150 | Rake 0 
+Board [6c Ac Jd]
+Seat 1: kykyryry folded on the Flop
+Seat 2: Orion DMC folded on the Flop
+Seat 3: Lobo_Mau5555 (button) collected (12150)
+Seat 5: NarSsm (small blind) folded before Flop
+Seat 6: Andk(mlr) (big blind) folded on the Flop
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204663288: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VIII (400/800) - 2024/06/26 18:03:14 UTC [2024/06/26 14:03:14 ET]
+Table '3769361891 70' 8-max Seat #5 is the button
+Seat 1: kykyryry (60417 in chips, $75 bounty) 
+Seat 2: Orion DMC (28600 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (30825 in chips, $25 bounty) 
+Seat 4: MrNutShot (25000 in chips, $25 bounty) 
+Seat 5: NarSsm (55456 in chips, $37.50 bounty) 
+Seat 6: Andk(mlr) (21254 in chips, $25 bounty) 
+Seat 7: TxiiN (17910 in chips, $25 bounty) 
+Seat 8: mcluki83 (84499 in chips, $37.50 bounty) 
+kykyryry: posts the ante 100
+Orion DMC: posts the ante 100
+Lobo_Mau5555: posts the ante 100
+MrNutShot: posts the ante 100
+NarSsm: posts the ante 100
+Andk(mlr): posts the ante 100
+TxiiN: posts the ante 100
+mcluki83: posts the ante 100
+Andk(mlr): posts small blind 400
+TxiiN: posts big blind 800
+*** HOLE CARDS ***
+mcluki83: folds 
+kykyryry: folds 
+Orion DMC: folds 
+Lobo_Mau5555: folds 
+MrNutShot: folds 
+NarSsm: folds 
+Andk(mlr): calls 400
+TxiiN: raises 1600 to 2400
+Andk(mlr): calls 1600
+*** FLOP *** [6d Qd 4s]
+Andk(mlr): checks 
+TxiiN: bets 1440
+Andk(mlr): raises 2960 to 4400
+TxiiN: calls 2960
+*** TURN *** [6d Qd 4s] [Kd]
+Andk(mlr): checks 
+TxiiN: bets 11010 and is all-in
+Andk(mlr): folds 
+Uncalled bet (11010) returned to TxiiN
+TxiiN collected 14400 from pot
+TxiiN: doesn't show hand 
+*** SUMMARY ***
+Total pot 14400 | Rake 0 
+Board [6d Qd 4s Kd]
+Seat 1: kykyryry folded before Flop (didn't bet)
+Seat 2: Orion DMC folded before Flop (didn't bet)
+Seat 3: Lobo_Mau5555 folded before Flop (didn't bet)
+Seat 4: MrNutShot folded before Flop (didn't bet)
+Seat 5: NarSsm (button) folded before Flop (didn't bet)
+Seat 6: Andk(mlr) (small blind) folded on the Turn
+Seat 7: TxiiN (big blind) collected (14400)
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204687495: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:04:59 UTC [2024/06/26 14:04:59 ET]
+Table '3769361891 70' 8-max Seat #6 is the button
+Seat 1: kykyryry (60317 in chips, $75 bounty) 
+Seat 2: Orion DMC (28500 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (30725 in chips, $25 bounty) 
+Seat 4: MrNutShot (24900 in chips, $25 bounty) 
+Seat 5: NarSsm (55356 in chips, $37.50 bounty) 
+Seat 6: Andk(mlr) (14354 in chips, $25 bounty) 
+Seat 7: TxiiN (25410 in chips, $25 bounty) 
+Seat 8: mcluki83 (84399 in chips, $37.50 bounty) 
+kykyryry: posts the ante 125
+Orion DMC: posts the ante 125
+Lobo_Mau5555: posts the ante 125
+MrNutShot: posts the ante 125
+NarSsm: posts the ante 125
+Andk(mlr): posts the ante 125
+TxiiN: posts the ante 125
+mcluki83: posts the ante 125
+TxiiN: posts small blind 450
+mcluki83: posts big blind 900
+*** HOLE CARDS ***
+kykyryry: folds 
+Orion DMC: folds 
+Lobo_Mau5555: folds 
+MrNutShot: calls 900
+NarSsm: raises 2070 to 2970
+Andk(mlr): folds 
+TxiiN: folds 
+mcluki83: folds 
+MrNutShot: calls 2070
+*** FLOP *** [Jd 3s Jc]
+MrNutShot: checks 
+NarSsm: bets 2151
+MrNutShot: calls 2151
+*** TURN *** [Jd 3s Jc] [Qd]
+MrNutShot: checks 
+NarSsm: bets 4155
+MrNutShot: calls 4155
+*** RIVER *** [Jd 3s Jc Qd] [8h]
+MrNutShot: bets 2700
+NarSsm: raises 41868 to 44568
+MrNutShot: calls 12799 and is all-in
+Uncalled bet (29069) returned to NarSsm
+*** SHOW DOWN ***
+NarSsm: shows [Tc Kc] (a pair of Jacks)
+MrNutShot: shows [Qs Jh] (a full house, Jacks full of Queens)
+MrNutShot collected 51900 from pot
+*** SUMMARY ***
+Total pot 51900 | Rake 0 
+Board [Jd 3s Jc Qd 8h]
+Seat 1: kykyryry folded before Flop (didn't bet)
+Seat 2: Orion DMC folded before Flop (didn't bet)
+Seat 3: Lobo_Mau5555 folded before Flop (didn't bet)
+Seat 4: MrNutShot showed [Qs Jh] and won (51900) with a full house, Jacks full of Queens
+Seat 5: NarSsm showed [Tc Kc] and lost with a pair of Jacks
+Seat 6: Andk(mlr) (button) folded before Flop (didn't bet)
+Seat 7: TxiiN (small blind) folded before Flop
+Seat 8: mcluki83 (big blind) folded before Flop
+
+PokerStars Hand #251204714420: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:06:53 UTC [2024/06/26 14:06:53 ET]
+Table '3769361891 70' 8-max Seat #7 is the button
+Seat 1: kykyryry (60192 in chips, $75 bounty) 
+Seat 2: Orion DMC (28375 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (30600 in chips, $25 bounty) 
+Seat 4: MrNutShot (51900 in chips, $25 bounty) 
+Seat 5: NarSsm (30456 in chips, $37.50 bounty) 
+Seat 6: Andk(mlr) (14229 in chips, $25 bounty) 
+Seat 7: TxiiN (24835 in chips, $25 bounty) 
+Seat 8: mcluki83 (83374 in chips, $37.50 bounty) 
+kykyryry: posts the ante 125
+Orion DMC: posts the ante 125
+Lobo_Mau5555: posts the ante 125
+MrNutShot: posts the ante 125
+NarSsm: posts the ante 125
+Andk(mlr): posts the ante 125
+TxiiN: posts the ante 125
+mcluki83: posts the ante 125
+mcluki83: posts small blind 450
+kykyryry: posts big blind 900
+*** HOLE CARDS ***
+Orion DMC: folds 
+Lobo_Mau5555: raises 900 to 1800
+MrNutShot: folds 
+NarSsm: folds 
+Andk(mlr): folds 
+TxiiN: folds 
+mcluki83: calls 1350
+kykyryry: folds 
+*** FLOP *** [7c 6d 2h]
+mcluki83: checks 
+Lobo_Mau5555: checks 
+*** TURN *** [7c 6d 2h] [5c]
+mcluki83: bets 2970
+Lobo_Mau5555: folds 
+Uncalled bet (2970) returned to mcluki83
+mcluki83 collected 5500 from pot
+mcluki83: doesn't show hand 
+*** SUMMARY ***
+Total pot 5500 | Rake 0 
+Board [7c 6d 2h 5c]
+Seat 1: kykyryry (big blind) folded before Flop
+Seat 2: Orion DMC folded before Flop (didn't bet)
+Seat 3: Lobo_Mau5555 folded on the Turn
+Seat 4: MrNutShot folded before Flop (didn't bet)
+Seat 5: NarSsm folded before Flop (didn't bet)
+Seat 6: Andk(mlr) folded before Flop (didn't bet)
+Seat 7: TxiiN (button) folded before Flop (didn't bet)
+Seat 8: mcluki83 (small blind) collected (5500)
+
+PokerStars Hand #251204727004: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:07:47 UTC [2024/06/26 14:07:47 ET]
+Table '3769361891 70' 8-max Seat #8 is the button
+Seat 1: kykyryry (59167 in chips, $75 bounty) 
+Seat 2: Orion DMC (28250 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (28675 in chips, $25 bounty) 
+Seat 4: MrNutShot (51775 in chips, $25 bounty) 
+Seat 5: NarSsm (30331 in chips, $37.50 bounty) 
+Seat 6: Andk(mlr) (14104 in chips, $25 bounty) 
+Seat 7: TxiiN (24710 in chips, $25 bounty) 
+Seat 8: mcluki83 (86949 in chips, $37.50 bounty) 
+kykyryry: posts the ante 125
+Orion DMC: posts the ante 125
+Lobo_Mau5555: posts the ante 125
+MrNutShot: posts the ante 125
+NarSsm: posts the ante 125
+Andk(mlr): posts the ante 125
+TxiiN: posts the ante 125
+mcluki83: posts the ante 125
+kykyryry: posts small blind 450
+Orion DMC: posts big blind 900
+*** HOLE CARDS ***
+Lobo_Mau5555: folds 
+MrNutShot: folds 
+NarSsm: folds 
+Andk(mlr): folds 
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: raises 2250 to 3150
+Orion DMC: folds 
+Uncalled bet (2250) returned to kykyryry
+kykyryry collected 2800 from pot
+kykyryry: doesn't show hand 
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Seat 1: kykyryry (small blind) collected (2800)
+Seat 2: Orion DMC (big blind) folded before Flop
+Seat 3: Lobo_Mau5555 folded before Flop (didn't bet)
+Seat 4: MrNutShot folded before Flop (didn't bet)
+Seat 5: NarSsm folded before Flop (didn't bet)
+Seat 6: Andk(mlr) folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251204734437: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:08:18 UTC [2024/06/26 14:08:18 ET]
+Table '3769361891 70' 8-max Seat #1 is the button
+Seat 1: kykyryry (60942 in chips, $75 bounty) 
+Seat 2: Orion DMC (27225 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (28550 in chips, $25 bounty) 
+Seat 4: MrNutShot (51650 in chips, $25 bounty) 
+Seat 5: NarSsm (30206 in chips, $37.50 bounty) 
+Seat 6: Andk(mlr) (13979 in chips, $25 bounty) 
+Seat 7: TxiiN (24585 in chips, $25 bounty) 
+Seat 8: mcluki83 (86824 in chips, $37.50 bounty) 
+kykyryry: posts the ante 125
+Orion DMC: posts the ante 125
+Lobo_Mau5555: posts the ante 125
+MrNutShot: posts the ante 125
+NarSsm: posts the ante 125
+Andk(mlr): posts the ante 125
+TxiiN: posts the ante 125
+mcluki83: posts the ante 125
+Orion DMC: posts small blind 450
+Lobo_Mau5555: posts big blind 900
+*** HOLE CARDS ***
+MrNutShot: folds 
+NarSsm: folds 
+Andk(mlr): raises 900 to 1800
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: calls 1800
+Orion DMC: calls 1350
+Lobo_Mau5555: calls 900
+*** FLOP *** [2c 5d Th]
+Orion DMC: bets 1800
+Lobo_Mau5555: calls 1800
+Andk(mlr): calls 1800
+kykyryry: folds 
+*** TURN *** [2c 5d Th] [6s]
+Orion DMC: bets 1800
+Lobo_Mau5555: raises 1800 to 3600
+Andk(mlr): folds 
+Orion DMC: calls 1800
+*** RIVER *** [2c 5d Th 6s] [9d]
+Orion DMC: checks 
+Lobo_Mau5555: checks 
+*** SHOW DOWN ***
+Orion DMC: shows [8s Td] (a pair of Tens)
+Lobo_Mau5555: mucks hand 
+Orion DMC collected 20800 from pot
+*** SUMMARY ***
+Total pot 20800 | Rake 0 
+Board [2c 5d Th 6s 9d]
+Seat 1: kykyryry (button) folded on the Flop
+Seat 2: Orion DMC (small blind) showed [8s Td] and won (20800) with a pair of Tens
+Seat 3: Lobo_Mau5555 (big blind) mucked
+Seat 4: MrNutShot folded before Flop (didn't bet)
+Seat 5: NarSsm folded before Flop (didn't bet)
+Seat 6: Andk(mlr) folded on the Turn
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204753746: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:09:41 UTC [2024/06/26 14:09:41 ET]
+Table '3769361891 70' 8-max Seat #2 is the button
+Seat 1: kykyryry (59017 in chips, $75 bounty) 
+Seat 2: Orion DMC (40700 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (21225 in chips, $25 bounty) 
+Seat 4: MrNutShot (51525 in chips, $25 bounty) 
+Seat 5: NarSsm (30081 in chips, $37.50 bounty) 
+Seat 6: Andk(mlr) (10254 in chips, $25 bounty) 
+Seat 7: TxiiN (24460 in chips, $25 bounty) 
+Seat 8: mcluki83 (86699 in chips, $37.50 bounty) 
+kykyryry: posts the ante 125
+Orion DMC: posts the ante 125
+Lobo_Mau5555: posts the ante 125
+MrNutShot: posts the ante 125
+NarSsm: posts the ante 125
+Andk(mlr): posts the ante 125
+TxiiN: posts the ante 125
+mcluki83: posts the ante 125
+Lobo_Mau5555: posts small blind 450
+MrNutShot: posts big blind 900
+*** HOLE CARDS ***
+NarSsm: folds 
+Andk(mlr): folds 
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: raises 900 to 1800
+Orion DMC: folds 
+Lobo_Mau5555: raises 19300 to 21100 and is all-in
+MrNutShot: folds 
+kykyryry: folds 
+Uncalled bet (19300) returned to Lobo_Mau5555
+Lobo_Mau5555 collected 5500 from pot
+Lobo_Mau5555: doesn't show hand 
+*** SUMMARY ***
+Total pot 5500 | Rake 0 
+Seat 1: kykyryry folded before Flop
+Seat 2: Orion DMC (button) folded before Flop (didn't bet)
+Seat 3: Lobo_Mau5555 (small blind) collected (5500)
+Seat 4: MrNutShot (big blind) folded before Flop
+Seat 5: NarSsm folded before Flop (didn't bet)
+Seat 6: Andk(mlr) folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204764306: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:10:26 UTC [2024/06/26 14:10:26 ET]
+Table '3769361891 70' 8-max Seat #3 is the button
+Seat 1: kykyryry (57092 in chips, $75 bounty) 
+Seat 2: Orion DMC (40575 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (24800 in chips, $25 bounty) 
+Seat 4: MrNutShot (50500 in chips, $25 bounty) 
+Seat 6: Andk(mlr) (10129 in chips, $25 bounty) 
+Seat 7: TxiiN (24335 in chips, $25 bounty) 
+Seat 8: mcluki83 (86574 in chips, $37.50 bounty) 
+kykyryry: posts the ante 125
+Orion DMC: posts the ante 125
+Lobo_Mau5555: posts the ante 125
+MrNutShot: posts the ante 125
+Andk(mlr): posts the ante 125
+TxiiN: posts the ante 125
+mcluki83: posts the ante 125
+MrNutShot: posts small blind 450
+Andk(mlr): posts big blind 900
+*** HOLE CARDS ***
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: folds 
+Orion DMC: raises 1800 to 2700
+Lobo_Mau5555: folds 
+MrNutShot: folds 
+Andk(mlr): folds 
+Uncalled bet (1800) returned to Orion DMC
+Orion DMC collected 3125 from pot
+Orion DMC: doesn't show hand 
+*** SUMMARY ***
+Total pot 3125 | Rake 0 
+Seat 1: kykyryry folded before Flop (didn't bet)
+Seat 2: Orion DMC collected (3125)
+Seat 3: Lobo_Mau5555 (button) folded before Flop (didn't bet)
+Seat 4: MrNutShot (small blind) folded before Flop
+Seat 6: Andk(mlr) (big blind) folded before Flop
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204769192: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:10:47 UTC [2024/06/26 14:10:47 ET]
+Table '3769361891 70' 8-max Seat #4 is the button
+Seat 1: kykyryry (56967 in chips, $75 bounty) 
+Seat 2: Orion DMC (42675 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (24675 in chips, $25 bounty) 
+Seat 4: MrNutShot (49925 in chips, $25 bounty) 
+Seat 6: Andk(mlr) (9104 in chips, $25 bounty) 
+Seat 7: TxiiN (24210 in chips, $25 bounty) 
+Seat 8: mcluki83 (86449 in chips, $37.50 bounty) 
+kykyryry: posts the ante 125
+Orion DMC: posts the ante 125
+Lobo_Mau5555: posts the ante 125
+MrNutShot: posts the ante 125
+Andk(mlr): posts the ante 125
+TxiiN: posts the ante 125
+mcluki83: posts the ante 125
+Andk(mlr): posts small blind 450
+TxiiN: posts big blind 900
+*** HOLE CARDS ***
+mcluki83: folds 
+kykyryry: raises 900 to 1800
+Orion DMC: calls 1800
+Lobo_Mau5555: calls 1800
+MrNutShot: calls 1800
+Andk(mlr): raises 7179 to 8979 and is all-in
+TxiiN: folds 
+madmax0977 is disconnected 
+kykyryry: raises 47863 to 56842 and is all-in
+Orion DMC: folds 
+Lobo_Mau5555: folds 
+MrNutShot: folds 
+Uncalled bet (47863) returned to kykyryry
+*** FLOP *** [Ad Ac Td]
+*** TURN *** [Ad Ac Td] [Js]
+*** RIVER *** [Ad Ac Td Js] [6c]
+*** SHOW DOWN ***
+Andk(mlr): shows [7c 8c] (a pair of Aces)
+kykyryry: shows [Jh Qd] (two pair, Aces and Jacks)
+kykyryry collected 25133 from pot
+kykyryry wins $12.50 for eliminating Andk(mlr) and their own bounty increases by $12.50 to $87.50
+Andk(mlr) finished the tournament
+*** SUMMARY ***
+Total pot 25133 | Rake 0 
+Board [Ad Ac Td Js 6c]
+Seat 1: kykyryry showed [Jh Qd] and won (25133) with two pair, Aces and Jacks
+Seat 2: Orion DMC folded before Flop
+Seat 3: Lobo_Mau5555 folded before Flop
+Seat 4: MrNutShot (button) folded before Flop
+Seat 6: Andk(mlr) (small blind) showed [7c 8c] and lost with a pair of Aces
+Seat 7: TxiiN (big blind) folded before Flop
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204782557: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:11:44 UTC [2024/06/26 14:11:44 ET]
+Table '3769361891 70' 8-max Seat #7 is the button
+Seat 1: kykyryry (72996 in chips, $87.50 bounty) 
+Seat 2: Orion DMC (40750 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (22750 in chips, $25 bounty) 
+Seat 4: MrNutShot (48000 in chips, $25 bounty) 
+Seat 5: madmax0977 (24828 in chips, $37.50 bounty) 
+Seat 7: TxiiN (23185 in chips, $25 bounty) 
+Seat 8: mcluki83 (86324 in chips, $37.50 bounty) 
+kykyryry: posts the ante 125
+Orion DMC: posts the ante 125
+Lobo_Mau5555: posts the ante 125
+MrNutShot: posts the ante 125
+madmax0977: posts the ante 125
+TxiiN: posts the ante 125
+mcluki83: posts the ante 125
+mcluki83: posts small blind 450
+kykyryry: posts big blind 900
+*** HOLE CARDS ***
+Orion DMC: raises 900 to 1800
+Lobo_Mau5555: folds 
+MrNutShot: folds 
+madmax0977: folds 
+TxiiN: folds 
+mcluki83: calls 1350
+kykyryry: raises 8100 to 9900
+Orion DMC: folds 
+mcluki83: folds 
+Uncalled bet (8100) returned to kykyryry
+kykyryry collected 6275 from pot
+kykyryry: doesn't show hand 
+*** SUMMARY ***
+Total pot 6275 | Rake 0 
+Seat 1: kykyryry (big blind) collected (6275)
+Seat 2: Orion DMC folded before Flop
+Seat 3: Lobo_Mau5555 folded before Flop (didn't bet)
+Seat 4: MrNutShot folded before Flop (didn't bet)
+Seat 5: madmax0977 folded before Flop (didn't bet)
+Seat 7: TxiiN (button) folded before Flop (didn't bet)
+Seat 8: mcluki83 (small blind) folded before Flop
+
+PokerStars Hand #251204792352: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:12:24 UTC [2024/06/26 14:12:24 ET]
+Table '3769361891 70' 8-max Seat #8 is the button
+Seat 1: kykyryry (77346 in chips, $87.50 bounty) 
+Seat 2: Orion DMC (38825 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (22625 in chips, $25 bounty) 
+Seat 4: MrNutShot (47875 in chips, $25 bounty) 
+Seat 5: madmax0977 (24703 in chips, $37.50 bounty) 
+Seat 7: TxiiN (23060 in chips, $25 bounty) 
+Seat 8: mcluki83 (84399 in chips, $37.50 bounty) 
+kykyryry: posts the ante 125
+Orion DMC: posts the ante 125
+Lobo_Mau5555: posts the ante 125
+MrNutShot: posts the ante 125
+madmax0977: posts the ante 125
+TxiiN: posts the ante 125
+mcluki83: posts the ante 125
+kykyryry: posts small blind 450
+Orion DMC: posts big blind 900
+*** HOLE CARDS ***
+Lobo_Mau5555: folds 
+MrNutShot: folds 
+madmax0977: raises 900 to 1800
+TxiiN: calls 1800
+mcluki83: folds 
+kykyryry: folds 
+Orion DMC: calls 900
+*** FLOP *** [7d Td Qd]
+Orion DMC: checks 
+madmax0977: checks 
+TxiiN: bets 1800
+Orion DMC: calls 1800
+madmax0977: calls 1800
+*** TURN *** [7d Td Qd] [Qc]
+Orion DMC: checks 
+madmax0977: checks 
+TxiiN: checks 
+*** RIVER *** [7d Td Qd Qc] [8h]
+Orion DMC: bets 12125
+nellinhoo is disconnected 
+madmax0977: folds 
+TxiiN: folds 
+Uncalled bet (12125) returned to Orion DMC
+Orion DMC collected 12125 from pot
+Orion DMC: doesn't show hand 
+*** SUMMARY ***
+Total pot 12125 | Rake 0 
+Board [7d Td Qd Qc 8h]
+Seat 1: kykyryry (small blind) folded before Flop
+Seat 2: Orion DMC (big blind) collected (12125)
+Seat 3: Lobo_Mau5555 folded before Flop (didn't bet)
+Seat 4: MrNutShot folded before Flop (didn't bet)
+Seat 5: madmax0977 folded on the River
+Seat 7: TxiiN folded on the River
+Seat 8: mcluki83 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251204808992: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IX (450/900) - 2024/06/26 18:13:34 UTC [2024/06/26 14:13:34 ET]
+Table '3769361891 70' 8-max Seat #1 is the button
+Seat 1: kykyryry (76771 in chips, $87.50 bounty) 
+Seat 2: Orion DMC (47225 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (22500 in chips, $25 bounty) 
+Seat 4: MrNutShot (47750 in chips, $25 bounty) 
+Seat 5: madmax0977 (20978 in chips, $37.50 bounty) 
+Seat 6: nellinhoo (25000 in chips, $25 bounty) 
+Seat 7: TxiiN (19335 in chips, $25 bounty) 
+Seat 8: mcluki83 (84274 in chips, $37.50 bounty) 
+kykyryry: posts the ante 125
+Orion DMC: posts the ante 125
+Lobo_Mau5555: posts the ante 125
+MrNutShot: posts the ante 125
+madmax0977: posts the ante 125
+nellinhoo: posts the ante 125
+TxiiN: posts the ante 125
+mcluki83: posts the ante 125
+Orion DMC: posts small blind 450
+Lobo_Mau5555: posts big blind 900
+*** HOLE CARDS ***
+MrNutShot: calls 900
+madmax0977: folds 
+nellinhoo: folds 
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: raises 2250 to 3150
+Orion DMC: folds 
+Lobo_Mau5555: folds 
+MrNutShot: calls 2250
+*** FLOP *** [9c Js 2d]
+MrNutShot: checks 
+kykyryry: bets 2682
+MrNutShot: raises 2682 to 5364
+kykyryry: calls 2682
+*** TURN *** [9c Js 2d] [3d]
+MrNutShot: checks 
+kykyryry: bets 9883
+MrNutShot: folds 
+Uncalled bet (9883) returned to kykyryry
+kykyryry collected 19378 from pot
+kykyryry: doesn't show hand 
+*** SUMMARY ***
+Total pot 19378 | Rake 0 
+Board [9c Js 2d 3d]
+Seat 1: kykyryry (button) collected (19378)
+Seat 2: Orion DMC (small blind) folded before Flop
+Seat 3: Lobo_Mau5555 (big blind) folded before Flop
+Seat 4: MrNutShot folded on the Turn
+Seat 5: madmax0977 folded before Flop (didn't bet)
+Seat 6: nellinhoo folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204827419: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:14:50 UTC [2024/06/26 14:14:50 ET]
+Table '3769361891 70' 8-max Seat #2 is the button
+Seat 1: kykyryry (87510 in chips, $87.50 bounty) 
+Seat 2: Orion DMC (46650 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (21475 in chips, $25 bounty) 
+Seat 4: MrNutShot (39111 in chips, $25 bounty) 
+Seat 5: madmax0977 (20853 in chips, $37.50 bounty) 
+Seat 6: nellinhoo (24875 in chips, $25 bounty) 
+Seat 7: TxiiN (19210 in chips, $25 bounty) 
+Seat 8: mcluki83 (84149 in chips, $37.50 bounty) 
+kykyryry: posts the ante 150
+Orion DMC: posts the ante 150
+Lobo_Mau5555: posts the ante 150
+MrNutShot: posts the ante 150
+madmax0977: posts the ante 150
+nellinhoo: posts the ante 150
+TxiiN: posts the ante 150
+mcluki83: posts the ante 150
+Lobo_Mau5555: posts small blind 500
+MrNutShot: posts big blind 1000
+*** HOLE CARDS ***
+madmax0977: folds 
+nellinhoo: folds 
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: folds 
+Orion DMC: raises 2000 to 3000
+Lobo_Mau5555: folds 
+MrNutShot: raises 3000 to 6000
+Orion DMC: raises 40500 to 46500 and is all-in
+MrNutShot: calls 32961 and is all-in
+Uncalled bet (7539) returned to Orion DMC
+*** FLOP *** [9h 6h 7d]
+*** TURN *** [9h 6h 7d] [5s]
+*** RIVER *** [9h 6h 7d 5s] [8h]
+*** SHOW DOWN ***
+MrNutShot: shows [Kc Ad] (a straight, Five to Nine)
+Orion DMC: shows [As Ah] (a straight, Five to Nine)
+MrNutShot collected 39811 from pot
+Orion DMC collected 39811 from pot
+*** SUMMARY ***
+Total pot 79622 | Rake 0 
+Board [9h 6h 7d 5s 8h]
+Seat 1: kykyryry folded before Flop (didn't bet)
+Seat 2: Orion DMC (button) showed [As Ah] and won (39811) with a straight, Five to Nine
+Seat 3: Lobo_Mau5555 (small blind) folded before Flop
+Seat 4: MrNutShot (big blind) showed [Kc Ad] and won (39811) with a straight, Five to Nine
+Seat 5: madmax0977 folded before Flop (didn't bet)
+Seat 6: nellinhoo folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204836631: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:15:27 UTC [2024/06/26 14:15:27 ET]
+Table '3769361891 70' 8-max Seat #3 is the button
+Seat 1: kykyryry (87360 in chips, $87.50 bounty) 
+Seat 2: Orion DMC (47350 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (20825 in chips, $25 bounty) 
+Seat 4: MrNutShot (39811 in chips, $25 bounty) 
+Seat 5: madmax0977 (20703 in chips, $37.50 bounty) 
+Seat 6: nellinhoo (24725 in chips, $25 bounty) 
+Seat 7: TxiiN (19060 in chips, $25 bounty) 
+Seat 8: mcluki83 (83999 in chips, $37.50 bounty) 
+kykyryry: posts the ante 150
+Orion DMC: posts the ante 150
+Lobo_Mau5555: posts the ante 150
+MrNutShot: posts the ante 150
+madmax0977: posts the ante 150
+nellinhoo: posts the ante 150
+TxiiN: posts the ante 150
+mcluki83: posts the ante 150
+MrNutShot: posts small blind 500
+madmax0977: posts big blind 1000
+*** HOLE CARDS ***
+nellinhoo: folds 
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: raises 1000 to 2000
+Orion DMC: calls 2000
+Lobo_Mau5555: calls 2000
+MrNutShot: calls 1500
+madmax0977: folds 
+*** FLOP *** [Kc 6s Jc]
+MrNutShot: bets 37661 and is all-in
+kykyryry: raises 47549 to 85210 and is all-in
+Orion DMC: folds 
+Lobo_Mau5555: folds 
+Uncalled bet (47549) returned to kykyryry
+*** TURN *** [Kc 6s Jc] [9d]
+*** RIVER *** [Kc 6s Jc 9d] [7d]
+*** SHOW DOWN ***
+MrNutShot: shows [4h Kh] (a pair of Kings)
+kykyryry: shows [As Ks] (a pair of Kings - Ace kicker)
+kykyryry collected 85522 from pot
+kykyryry wins $12.50 for eliminating MrNutShot and their own bounty increases by $12.50 to $100
+MrNutShot finished the tournament
+*** SUMMARY ***
+Total pot 85522 | Rake 0 
+Board [Kc 6s Jc 9d 7d]
+Seat 1: kykyryry showed [As Ks] and won (85522) with a pair of Kings
+Seat 2: Orion DMC folded on the Flop
+Seat 3: Lobo_Mau5555 (button) folded on the Flop
+Seat 4: MrNutShot (small blind) showed [4h Kh] and lost with a pair of Kings
+Seat 5: madmax0977 (big blind) folded before Flop
+Seat 6: nellinhoo folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204852783: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:16:33 UTC [2024/06/26 14:16:33 ET]
+Table '3769361891 70' 8-max Seat #5 is the button
+Seat 1: kykyryry (133071 in chips, $100 bounty) 
+Seat 2: Orion DMC (45200 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (18675 in chips, $25 bounty) 
+Seat 5: madmax0977 (19553 in chips, $37.50 bounty) 
+Seat 6: nellinhoo (24575 in chips, $25 bounty) 
+Seat 7: TxiiN (18910 in chips, $25 bounty) 
+Seat 8: mcluki83 (83849 in chips, $37.50 bounty) 
+kykyryry: posts the ante 150
+Orion DMC: posts the ante 150
+Lobo_Mau5555: posts the ante 150
+madmax0977: posts the ante 150
+nellinhoo: posts the ante 150
+TxiiN: posts the ante 150
+mcluki83: posts the ante 150
+nellinhoo: posts small blind 500
+TxiiN: posts big blind 1000
+*** HOLE CARDS ***
+mcluki83: folds 
+kykyryry: folds 
+Orion DMC: folds 
+Lobo_Mau5555: folds 
+madmax0977: calls 1000
+nellinhoo: raises 23425 to 24425 and is all-in
+TxiiN: folds 
+madmax0977: folds 
+Uncalled bet (23425) returned to nellinhoo
+nellinhoo collected 4050 from pot
+nellinhoo: doesn't show hand 
+*** SUMMARY ***
+Total pot 4050 | Rake 0 
+Seat 1: kykyryry folded before Flop (didn't bet)
+Seat 2: Orion DMC folded before Flop (didn't bet)
+Seat 3: Lobo_Mau5555 folded before Flop (didn't bet)
+Seat 5: madmax0977 (button) folded before Flop
+Seat 6: nellinhoo (small blind) collected (4050)
+Seat 7: TxiiN (big blind) folded before Flop
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204859427: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:17:01 UTC [2024/06/26 14:17:01 ET]
+Table '3769361891 70' 8-max Seat #6 is the button
+Seat 1: kykyryry (132921 in chips, $100 bounty) 
+Seat 2: Orion DMC (45050 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (18525 in chips, $25 bounty) 
+Seat 5: madmax0977 (18403 in chips, $37.50 bounty) 
+Seat 6: nellinhoo (27475 in chips, $25 bounty) 
+Seat 7: TxiiN (17760 in chips, $25 bounty) 
+Seat 8: mcluki83 (83699 in chips, $37.50 bounty) 
+kykyryry: posts the ante 150
+Orion DMC: posts the ante 150
+Lobo_Mau5555: posts the ante 150
+madmax0977: posts the ante 150
+nellinhoo: posts the ante 150
+TxiiN: posts the ante 150
+mcluki83: posts the ante 150
+TxiiN: posts small blind 500
+mcluki83: posts big blind 1000
+*** HOLE CARDS ***
+kykyryry: folds 
+Orion DMC: folds 
+Lobo_Mau5555: folds 
+madmax0977: calls 1000
+nellinhoo: folds 
+TxiiN: calls 500
+mcluki83: checks 
+*** FLOP *** [9s 4c Ac]
+TxiiN: checks 
+mcluki83: bets 1944
+madmax0977: folds 
+TxiiN: folds 
+Uncalled bet (1944) returned to mcluki83
+mcluki83 collected 4050 from pot
+mcluki83: doesn't show hand 
+*** SUMMARY ***
+Total pot 4050 | Rake 0 
+Board [9s 4c Ac]
+Seat 1: kykyryry folded before Flop (didn't bet)
+Seat 2: Orion DMC folded before Flop (didn't bet)
+Seat 3: Lobo_Mau5555 folded before Flop (didn't bet)
+Seat 5: madmax0977 folded on the Flop
+Seat 6: nellinhoo (button) folded before Flop (didn't bet)
+Seat 7: TxiiN (small blind) folded on the Flop
+Seat 8: mcluki83 (big blind) collected (4050)
+
+PokerStars Hand #251204870488: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:17:46 UTC [2024/06/26 14:17:46 ET]
+Table '3769361891 70' 8-max Seat #7 is the button
+Seat 1: kykyryry (132771 in chips, $100 bounty) 
+Seat 2: Orion DMC (44900 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (18375 in chips, $25 bounty) 
+Seat 4: 88mcm (38193 in chips, $25 bounty) 
+Seat 5: madmax0977 (17253 in chips, $37.50 bounty) 
+Seat 6: nellinhoo (27325 in chips, $25 bounty) 
+Seat 7: TxiiN (16610 in chips, $25 bounty) 
+Seat 8: mcluki83 (86599 in chips, $37.50 bounty) 
+kykyryry: posts the ante 150
+Orion DMC: posts the ante 150
+Lobo_Mau5555: posts the ante 150
+88mcm: posts the ante 150
+madmax0977: posts the ante 150
+nellinhoo: posts the ante 150
+TxiiN: posts the ante 150
+mcluki83: posts the ante 150
+mcluki83: posts small blind 500
+kykyryry: posts big blind 1000
+*** HOLE CARDS ***
+Orion DMC: raises 1000 to 2000
+Lobo_Mau5555: calls 2000
+88mcm: folds 
+madmax0977: folds 
+nellinhoo: folds 
+TxiiN: folds 
+mcluki83: calls 1500
+kykyryry: folds 
+*** FLOP *** [Kh 7s As]
+mcluki83: checks 
+Orion DMC: bets 3000
+Lobo_Mau5555: calls 3000
+mcluki83: calls 3000
+*** TURN *** [Kh 7s As] [Js]
+mcluki83: checks 
+Orion DMC: checks 
+Lobo_Mau5555: bets 8600
+mcluki83: calls 8600
+Orion DMC: folds 
+*** RIVER *** [Kh 7s As Js] [Qh]
+mcluki83: bets 16512
+Lobo_Mau5555: folds 
+Uncalled bet (16512) returned to mcluki83
+mcluki83 collected 34400 from pot
+mcluki83: doesn't show hand 
+*** SUMMARY ***
+Total pot 34400 | Rake 0 
+Board [Kh 7s As Js Qh]
+Seat 1: kykyryry (big blind) folded before Flop
+Seat 2: Orion DMC folded on the Turn
+Seat 3: Lobo_Mau5555 folded on the River
+Seat 4: 88mcm folded before Flop (didn't bet)
+Seat 5: madmax0977 folded before Flop (didn't bet)
+Seat 6: nellinhoo folded before Flop (didn't bet)
+Seat 7: TxiiN (button) folded before Flop (didn't bet)
+Seat 8: mcluki83 (small blind) collected (34400)
+
+PokerStars Hand #251204885803: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:18:48 UTC [2024/06/26 14:18:48 ET]
+Table '3769361891 70' 8-max Seat #8 is the button
+Seat 1: kykyryry (131621 in chips, $100 bounty) 
+Seat 2: Orion DMC (39750 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (4625 in chips, $25 bounty) 
+Seat 4: 88mcm (38043 in chips, $25 bounty) 
+Seat 5: madmax0977 (17103 in chips, $37.50 bounty) 
+Seat 6: nellinhoo (27175 in chips, $25 bounty) 
+Seat 7: TxiiN (16460 in chips, $25 bounty) 
+Seat 8: mcluki83 (107249 in chips, $37.50 bounty) 
+kykyryry: posts the ante 150
+Orion DMC: posts the ante 150
+Lobo_Mau5555: posts the ante 150
+88mcm: posts the ante 150
+madmax0977: posts the ante 150
+nellinhoo: posts the ante 150
+TxiiN: posts the ante 150
+mcluki83: posts the ante 150
+kykyryry: posts small blind 500
+Orion DMC: posts big blind 1000
+*** HOLE CARDS ***
+Lobo_Mau5555: folds 
+88mcm: folds 
+madmax0977: folds 
+nellinhoo: folds 
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: raises 2500 to 3500
+Orion DMC: folds 
+Uncalled bet (2500) returned to kykyryry
+kykyryry collected 3200 from pot
+kykyryry: doesn't show hand 
+*** SUMMARY ***
+Total pot 3200 | Rake 0 
+Seat 1: kykyryry (small blind) collected (3200)
+Seat 2: Orion DMC (big blind) folded before Flop
+Seat 3: Lobo_Mau5555 folded before Flop (didn't bet)
+Seat 4: 88mcm folded before Flop (didn't bet)
+Seat 5: madmax0977 folded before Flop (didn't bet)
+Seat 6: nellinhoo folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251204899084: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:19:42 UTC [2024/06/26 14:19:42 ET]
+Table '3769361891 70' 8-max Seat #1 is the button
+Seat 1: kykyryry (133671 in chips, $100 bounty) 
+Seat 2: Orion DMC (38600 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (4475 in chips, $25 bounty) 
+Seat 4: 88mcm (37893 in chips, $25 bounty) 
+Seat 5: madmax0977 (16953 in chips, $37.50 bounty) 
+Seat 6: nellinhoo (27025 in chips, $25 bounty) 
+Seat 7: TxiiN (16310 in chips, $25 bounty) 
+Seat 8: mcluki83 (107099 in chips, $37.50 bounty) 
+kykyryry: posts the ante 150
+Orion DMC: posts the ante 150
+Lobo_Mau5555: posts the ante 150
+88mcm: posts the ante 150
+madmax0977: posts the ante 150
+nellinhoo: posts the ante 150
+TxiiN: posts the ante 150
+mcluki83: posts the ante 150
+Orion DMC: posts small blind 500
+Lobo_Mau5555: posts big blind 1000
+*** HOLE CARDS ***
+88mcm: raises 1000 to 2000
+madmax0977: folds 
+nellinhoo: folds 
+TxiiN: folds 
+mcluki83: calls 2000
+kykyryry: folds 
+Orion DMC: raises 2000 to 4000
+Lobo_Mau5555: folds 
+88mcm: raises 2000 to 6000
+mcluki83: folds 
+Orion DMC: calls 2000
+*** FLOP *** [4d 4h 8c]
+Orion DMC: checks 
+88mcm: checks 
+*** TURN *** [4d 4h 8c] [4c]
+Orion DMC: checks 
+88mcm: bets 16200
+Orion DMC: folds 
+Uncalled bet (16200) returned to 88mcm
+88mcm collected 16200 from pot
+*** SUMMARY ***
+Total pot 16200 | Rake 0 
+Board [4d 4h 8c 4c]
+Seat 1: kykyryry (button) folded before Flop (didn't bet)
+Seat 2: Orion DMC (small blind) folded on the Turn
+Seat 3: Lobo_Mau5555 (big blind) folded before Flop
+Seat 4: 88mcm collected (16200)
+Seat 5: madmax0977 folded before Flop (didn't bet)
+Seat 6: nellinhoo folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded before Flop
+
+PokerStars Hand #251204910980: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:20:31 UTC [2024/06/26 14:20:31 ET]
+Table '3769361891 70' 8-max Seat #2 is the button
+Seat 1: kykyryry (133521 in chips, $100 bounty) 
+Seat 2: Orion DMC (32450 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (3325 in chips, $25 bounty) 
+Seat 4: 88mcm (47943 in chips, $25 bounty) 
+Seat 5: madmax0977 (16803 in chips, $37.50 bounty) 
+Seat 6: nellinhoo (26875 in chips, $25 bounty) 
+Seat 7: TxiiN (16160 in chips, $25 bounty) 
+Seat 8: mcluki83 (104949 in chips, $37.50 bounty) 
+kykyryry: posts the ante 150
+Orion DMC: posts the ante 150
+Lobo_Mau5555: posts the ante 150
+88mcm: posts the ante 150
+madmax0977: posts the ante 150
+nellinhoo: posts the ante 150
+TxiiN: posts the ante 150
+mcluki83: posts the ante 150
+Lobo_Mau5555: posts small blind 500
+88mcm: posts big blind 1000
+*** HOLE CARDS ***
+madmax0977: folds 
+nellinhoo: folds 
+TxiiN: folds 
+mcluki83: raises 2000 to 3000
+kykyryry: folds 
+Orion DMC: calls 3000
+Lobo_Mau5555: raises 175 to 3175 and is all-in
+88mcm: raises 2000 to 5175
+mcluki83: calls 2175
+Orion DMC: calls 2175
+*** FLOP *** [8h 4s Ac]
+88mcm: checks 
+mcluki83: checks 
+Orion DMC: checks 
+*** TURN *** [8h 4s Ac] [Qd]
+88mcm: bets 19900
+mcluki83: folds 
+Orion DMC: folds 
+Uncalled bet (19900) returned to 88mcm
+*** RIVER *** [8h 4s Ac Qd] [9h]
+*** SHOW DOWN ***
+88mcm: shows [Ah Tc] (a pair of Aces)
+88mcm collected 6000 from side pot
+Lobo_Mau5555: shows [Kd As] (a pair of Aces - King kicker)
+Lobo_Mau5555 collected 13900 from main pot
+*** SUMMARY ***
+Total pot 19900 Main pot 13900. Side pot 6000. | Rake 0 
+Board [8h 4s Ac Qd 9h]
+Seat 1: kykyryry folded before Flop (didn't bet)
+Seat 2: Orion DMC (button) folded on the Turn
+Seat 3: Lobo_Mau5555 (small blind) showed [Kd As] and won (13900) with a pair of Aces
+Seat 4: 88mcm (big blind) showed [Ah Tc] and won (6000) with a pair of Aces
+Seat 5: madmax0977 folded before Flop (didn't bet)
+Seat 6: nellinhoo folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded on the Turn
+
+PokerStars Hand #251204926521: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:21:35 UTC [2024/06/26 14:21:35 ET]
+Table '3769361891 70' 8-max Seat #3 is the button
+Seat 1: kykyryry (133371 in chips, $100 bounty) 
+Seat 2: Orion DMC (27125 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (13900 in chips, $25 bounty) 
+Seat 4: 88mcm (48618 in chips, $25 bounty) 
+Seat 5: madmax0977 (16653 in chips, $37.50 bounty) 
+Seat 6: nellinhoo (26725 in chips, $25 bounty) 
+Seat 7: TxiiN (16010 in chips, $25 bounty) 
+Seat 8: mcluki83 (99624 in chips, $37.50 bounty) 
+kykyryry: posts the ante 150
+Orion DMC: posts the ante 150
+Lobo_Mau5555: posts the ante 150
+88mcm: posts the ante 150
+madmax0977: posts the ante 150
+nellinhoo: posts the ante 150
+TxiiN: posts the ante 150
+mcluki83: posts the ante 150
+88mcm: posts small blind 500
+madmax0977: posts big blind 1000
+*** HOLE CARDS ***
+nellinhoo: folds 
+TxiiN: folds 
+mcluki83: raises 1270 to 2270
+kykyryry: folds 
+Orion DMC: calls 2270
+Lobo_Mau5555: folds 
+88mcm: folds 
+madmax0977: folds 
+*** FLOP *** [Kd 2s Td]
+mcluki83: checks 
+Orion DMC: checks 
+*** TURN *** [Kd 2s Td] [8h]
+mcluki83: bets 2606
+Orion DMC: calls 2606
+*** RIVER *** [Kd 2s Td 8h] [3s]
+mcluki83: checks 
+Orion DMC: checks 
+*** SHOW DOWN ***
+mcluki83: shows [8c 6c] (a pair of Eights)
+Orion DMC: shows [Tc As] (a pair of Tens)
+Orion DMC collected 12452 from pot
+*** SUMMARY ***
+Total pot 12452 | Rake 0 
+Board [Kd 2s Td 8h 3s]
+Seat 1: kykyryry folded before Flop (didn't bet)
+Seat 2: Orion DMC showed [Tc As] and won (12452) with a pair of Tens
+Seat 3: Lobo_Mau5555 (button) folded before Flop (didn't bet)
+Seat 4: 88mcm (small blind) folded before Flop
+Seat 5: madmax0977 (big blind) folded before Flop
+Seat 6: nellinhoo folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 showed [8c 6c] and lost with a pair of Eights
+
+PokerStars Hand #251204934155: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:22:06 UTC [2024/06/26 14:22:06 ET]
+Table '3769361891 70' 8-max Seat #4 is the button
+Seat 1: kykyryry (133221 in chips, $100 bounty) 
+Seat 2: Orion DMC (34551 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (13750 in chips, $25 bounty) 
+Seat 4: 88mcm (47968 in chips, $25 bounty) 
+Seat 5: madmax0977 (15503 in chips, $37.50 bounty) 
+Seat 6: nellinhoo (26575 in chips, $25 bounty) 
+Seat 7: TxiiN (15860 in chips, $25 bounty) 
+Seat 8: mcluki83 (94598 in chips, $37.50 bounty) 
+kykyryry: posts the ante 150
+Orion DMC: posts the ante 150
+Lobo_Mau5555: posts the ante 150
+88mcm: posts the ante 150
+madmax0977: posts the ante 150
+nellinhoo: posts the ante 150
+TxiiN: posts the ante 150
+mcluki83: posts the ante 150
+madmax0977: posts small blind 500
+nellinhoo: posts big blind 1000
+*** HOLE CARDS ***
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: raises 1000 to 2000
+Orion DMC: calls 2000
+Lobo_Mau5555: folds 
+88mcm: folds 
+madmax0977: folds 
+nellinhoo: raises 24425 to 26425 and is all-in
+kykyryry: folds 
+Orion DMC: folds 
+Uncalled bet (24425) returned to nellinhoo
+nellinhoo collected 7700 from pot
+nellinhoo: doesn't show hand 
+*** SUMMARY ***
+Total pot 7700 | Rake 0 
+Seat 1: kykyryry folded before Flop
+Seat 2: Orion DMC folded before Flop
+Seat 3: Lobo_Mau5555 folded before Flop (didn't bet)
+Seat 4: 88mcm (button) folded before Flop (didn't bet)
+Seat 5: madmax0977 (small blind) folded before Flop
+Seat 6: nellinhoo (big blind) collected (7700)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204943497: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:22:44 UTC [2024/06/26 14:22:44 ET]
+Table '3769361891 70' 8-max Seat #5 is the button
+Seat 1: kykyryry (131071 in chips, $100 bounty) 
+Seat 2: Orion DMC (32401 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (13600 in chips, $25 bounty) 
+Seat 4: 88mcm (47818 in chips, $25 bounty) 
+Seat 5: madmax0977 (14853 in chips, $37.50 bounty) 
+Seat 6: nellinhoo (32125 in chips, $25 bounty) 
+Seat 7: TxiiN (15710 in chips, $25 bounty) 
+Seat 8: mcluki83 (94448 in chips, $37.50 bounty) 
+kykyryry: posts the ante 150
+Orion DMC: posts the ante 150
+Lobo_Mau5555: posts the ante 150
+88mcm: posts the ante 150
+madmax0977: posts the ante 150
+nellinhoo: posts the ante 150
+TxiiN: posts the ante 150
+mcluki83: posts the ante 150
+nellinhoo: posts small blind 500
+TxiiN: posts big blind 1000
+*** HOLE CARDS ***
+mcluki83: folds 
+kykyryry: folds 
+Orion DMC: folds 
+Lobo_Mau5555: folds 
+88mcm: raises 1000 to 2000
+madmax0977: raises 12703 to 14703 and is all-in
+nellinhoo: folds 
+TxiiN: folds 
+88mcm: calls 12703
+*** FLOP *** [Js Kh 3d]
+*** TURN *** [Js Kh 3d] [3c]
+*** RIVER *** [Js Kh 3d 3c] [4h]
+*** SHOW DOWN ***
+88mcm: shows [Kc Kd] (a full house, Kings full of Threes)
+madmax0977: shows [Qh Qc] (two pair, Queens and Threes)
+88mcm collected 32106 from pot
+88mcm wins $18.75 for eliminating madmax0977 and their own bounty increases by $18.75 to $43.75
+madmax0977 finished the tournament
+*** SUMMARY ***
+Total pot 32106 | Rake 0 
+Board [Js Kh 3d 3c 4h]
+Seat 1: kykyryry folded before Flop (didn't bet)
+Seat 2: Orion DMC folded before Flop (didn't bet)
+Seat 3: Lobo_Mau5555 folded before Flop (didn't bet)
+Seat 4: 88mcm showed [Kc Kd] and won (32106) with a full house, Kings full of Threes
+Seat 5: madmax0977 (button) showed [Qh Qc] and lost with two pair, Queens and Threes
+Seat 6: nellinhoo (small blind) folded before Flop
+Seat 7: TxiiN (big blind) folded before Flop
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251204956932: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:23:38 UTC [2024/06/26 14:23:38 ET]
+Table '3769361891 70' 8-max Seat #6 is the button
+Seat 1: kykyryry (130921 in chips, $100 bounty) 
+Seat 2: Orion DMC (32251 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (13450 in chips, $25 bounty) 
+Seat 4: 88mcm (65071 in chips, $43.75 bounty) 
+Seat 6: nellinhoo (31475 in chips, $25 bounty) 
+Seat 7: TxiiN (14560 in chips, $25 bounty) 
+Seat 8: mcluki83 (94298 in chips, $37.50 bounty) 
+kykyryry: posts the ante 150
+Orion DMC: posts the ante 150
+Lobo_Mau5555: posts the ante 150
+88mcm: posts the ante 150
+nellinhoo: posts the ante 150
+TxiiN: posts the ante 150
+mcluki83: posts the ante 150
+TxiiN: posts small blind 500
+mcluki83: posts big blind 1000
+*** HOLE CARDS ***
+kykyryry: folds 
+Orion DMC: raises 1000 to 2000
+Lobo_Mau5555: folds 
+88mcm: folds 
+nellinhoo: folds 
+fabiano_ac is disconnected 
+TxiiN: folds 
+mcluki83: calls 1000
+*** FLOP *** [9s Td 3h]
+mcluki83: checks 
+Orion DMC: bets 3000
+mcluki83: calls 3000
+*** TURN *** [9s Td 3h] [4h]
+mcluki83: checks 
+Orion DMC: bets 3000
+mcluki83: raises 8000 to 11000
+Orion DMC: calls 8000
+*** RIVER *** [9s Td 3h 4h] [2c]
+mcluki83: checks 
+Orion DMC: checks 
+*** SHOW DOWN ***
+mcluki83: shows [Tc Js] (a pair of Tens)
+Orion DMC: shows [Kd Ts] (a pair of Tens - King kicker)
+Orion DMC collected 33550 from pot
+*** SUMMARY ***
+Total pot 33550 | Rake 0 
+Board [9s Td 3h 4h 2c]
+Seat 1: kykyryry folded before Flop (didn't bet)
+Seat 2: Orion DMC showed [Kd Ts] and won (33550) with a pair of Tens
+Seat 3: Lobo_Mau5555 folded before Flop (didn't bet)
+Seat 4: 88mcm folded before Flop (didn't bet)
+Seat 6: nellinhoo (button) folded before Flop (didn't bet)
+Seat 7: TxiiN (small blind) folded before Flop
+Seat 8: mcluki83 (big blind) showed [Tc Js] and lost with a pair of Tens
+
+PokerStars Hand #251204979981: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:25:11 UTC [2024/06/26 14:25:11 ET]
+Table '3769361891 70' 8-max Seat #7 is the button
+Seat 1: kykyryry (130771 in chips, $100 bounty) 
+Seat 2: Orion DMC (49651 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (13300 in chips, $25 bounty) 
+Seat 4: 88mcm (64921 in chips, $43.75 bounty) 
+Seat 5: fabiano_ac (25000 in chips, $25 bounty) 
+Seat 6: nellinhoo (31325 in chips, $25 bounty) 
+Seat 7: TxiiN (13910 in chips, $25 bounty) 
+Seat 8: mcluki83 (78148 in chips, $37.50 bounty) 
+kykyryry: posts the ante 175
+Orion DMC: posts the ante 175
+Lobo_Mau5555: posts the ante 175
+88mcm: posts the ante 175
+fabiano_ac: posts the ante 175
+nellinhoo: posts the ante 175
+TxiiN: posts the ante 175
+mcluki83: posts the ante 175
+mcluki83: posts small blind 600
+kykyryry: posts big blind 1200
+*** HOLE CARDS ***
+Orion DMC: raises 1200 to 2400
+Lobo_Mau5555: folds 
+88mcm: raises 1200 to 3600
+fabiano_ac: folds 
+nellinhoo: folds 
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: folds 
+Orion DMC: calls 1200
+*** FLOP *** [Ac 3d Jc]
+Orion DMC: checks 
+88mcm: bets 3600
+Orion DMC: calls 3600
+*** TURN *** [Ac 3d Jc] [2c]
+Orion DMC: checks 
+88mcm: bets 7200
+Orion DMC: folds 
+Uncalled bet (7200) returned to 88mcm
+88mcm collected 17600 from pot
+*** SUMMARY ***
+Total pot 17600 | Rake 0 
+Board [Ac 3d Jc 2c]
+Seat 1: kykyryry (big blind) folded before Flop
+Seat 2: Orion DMC folded on the Turn
+Seat 3: Lobo_Mau5555 folded before Flop (didn't bet)
+Seat 4: 88mcm collected (17600)
+Seat 5: fabiano_ac folded before Flop (didn't bet)
+Seat 6: nellinhoo folded before Flop (didn't bet)
+Seat 7: TxiiN (button) folded before Flop (didn't bet)
+Seat 8: mcluki83 (small blind) folded before Flop
+
+PokerStars Hand #251204990751: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:25:55 UTC [2024/06/26 14:25:55 ET]
+Table '3769361891 70' 8-max Seat #8 is the button
+Seat 1: kykyryry (129396 in chips, $100 bounty) 
+Seat 2: Orion DMC (42276 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (13125 in chips, $25 bounty) 
+Seat 4: 88mcm (75146 in chips, $43.75 bounty) 
+Seat 5: fabiano_ac (24825 in chips, $25 bounty) 
+Seat 6: nellinhoo (31150 in chips, $25 bounty) 
+Seat 7: TxiiN (13735 in chips, $25 bounty) 
+Seat 8: mcluki83 (77373 in chips, $37.50 bounty) 
+kykyryry: posts the ante 175
+Orion DMC: posts the ante 175
+Lobo_Mau5555: posts the ante 175
+88mcm: posts the ante 175
+fabiano_ac: posts the ante 175
+nellinhoo: posts the ante 175
+TxiiN: posts the ante 175
+mcluki83: posts the ante 175
+kykyryry: posts small blind 600
+Orion DMC: posts big blind 1200
+*** HOLE CARDS ***
+Lobo_Mau5555: folds 
+88mcm: calls 1200
+fabiano_ac: folds 
+nellinhoo: folds 
+TxiiN: folds 
+mcluki83: raises 3000 to 4200
+kykyryry: raises 11400 to 15600
+Orion DMC: folds 
+88mcm: calls 14400
+mcluki83: folds 
+*** FLOP *** [5c 3s 8c]
+kykyryry: bets 11780
+88mcm: folds 
+Uncalled bet (11780) returned to kykyryry
+kykyryry collected 38000 from pot
+kykyryry: doesn't show hand 
+*** SUMMARY ***
+Total pot 38000 | Rake 0 
+Board [5c 3s 8c]
+Seat 1: kykyryry (small blind) collected (38000)
+Seat 2: Orion DMC (big blind) folded before Flop
+Seat 3: Lobo_Mau5555 folded before Flop (didn't bet)
+Seat 4: 88mcm folded on the Flop
+Seat 5: fabiano_ac folded before Flop (didn't bet)
+Seat 6: nellinhoo folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 (button) folded before Flop
+
+PokerStars Hand #251205003003: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:26:44 UTC [2024/06/26 14:26:44 ET]
+Table '3769361891 70' 8-max Seat #1 is the button
+Seat 1: kykyryry (151621 in chips, $100 bounty) 
+Seat 2: Orion DMC (40901 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (12950 in chips, $25 bounty) 
+Seat 4: 88mcm (59371 in chips, $43.75 bounty) 
+Seat 5: fabiano_ac (24650 in chips, $25 bounty) 
+Seat 6: nellinhoo (30975 in chips, $25 bounty) 
+Seat 7: TxiiN (13560 in chips, $25 bounty) 
+Seat 8: mcluki83 (72998 in chips, $37.50 bounty) 
+kykyryry: posts the ante 175
+Orion DMC: posts the ante 175
+Lobo_Mau5555: posts the ante 175
+88mcm: posts the ante 175
+fabiano_ac: posts the ante 175
+nellinhoo: posts the ante 175
+TxiiN: posts the ante 175
+mcluki83: posts the ante 175
+Orion DMC: posts small blind 600
+Lobo_Mau5555: posts big blind 1200
+*** HOLE CARDS ***
+88mcm: folds 
+fabiano_ac: raises 1200 to 2400
+nellinhoo: folds 
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: folds 
+Orion DMC: calls 1800
+Lobo_Mau5555: folds 
+*** FLOP *** [Ks 5h 5s]
+Orion DMC: checks 
+fabiano_ac: bets 3700
+Orion DMC: raises 34626 to 38326 and is all-in
+fabiano_ac: folds 
+Uncalled bet (34626) returned to Orion DMC
+Orion DMC collected 14800 from pot
+Orion DMC: doesn't show hand 
+*** SUMMARY ***
+Total pot 14800 | Rake 0 
+Board [Ks 5h 5s]
+Seat 1: kykyryry (button) folded before Flop (didn't bet)
+Seat 2: Orion DMC (small blind) collected (14800)
+Seat 3: Lobo_Mau5555 (big blind) folded before Flop
+Seat 4: 88mcm folded before Flop (didn't bet)
+Seat 5: fabiano_ac folded on the Flop
+Seat 6: nellinhoo folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251205012797: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:27:24 UTC [2024/06/26 14:27:24 ET]
+Table '3769361891 70' 8-max Seat #2 is the button
+Seat 1: kykyryry (151446 in chips, $100 bounty) 
+Seat 2: Orion DMC (49426 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (11575 in chips, $25 bounty) 
+Seat 4: 88mcm (59196 in chips, $43.75 bounty) 
+Seat 5: fabiano_ac (18375 in chips, $25 bounty) 
+Seat 6: nellinhoo (30800 in chips, $25 bounty) 
+Seat 7: TxiiN (13385 in chips, $25 bounty) 
+Seat 8: mcluki83 (72823 in chips, $37.50 bounty) 
+kykyryry: posts the ante 175
+Orion DMC: posts the ante 175
+Lobo_Mau5555: posts the ante 175
+88mcm: posts the ante 175
+fabiano_ac: posts the ante 175
+nellinhoo: posts the ante 175
+TxiiN: posts the ante 175
+mcluki83: posts the ante 175
+Lobo_Mau5555: posts small blind 600
+88mcm: posts big blind 1200
+*** HOLE CARDS ***
+fabiano_ac: folds 
+nellinhoo: folds 
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: raises 1200 to 2400
+Orion DMC: folds 
+Lobo_Mau5555: calls 1800
+88mcm: folds 
+*** FLOP *** [Jc As Td]
+Lobo_Mau5555: checks 
+kykyryry: bets 2294
+Lobo_Mau5555: folds 
+Uncalled bet (2294) returned to kykyryry
+kykyryry collected 7400 from pot
+kykyryry: doesn't show hand 
+*** SUMMARY ***
+Total pot 7400 | Rake 0 
+Board [Jc As Td]
+Seat 1: kykyryry collected (7400)
+Seat 2: Orion DMC (button) folded before Flop (didn't bet)
+Seat 3: Lobo_Mau5555 (small blind) folded on the Flop
+Seat 4: 88mcm (big blind) folded before Flop
+Seat 5: fabiano_ac folded before Flop (didn't bet)
+Seat 6: nellinhoo folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded before Flop (didn't bet)
+
+PokerStars Hand #251205022092: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:28:00 UTC [2024/06/26 14:28:00 ET]
+Table '3769361891 70' 8-max Seat #3 is the button
+Seat 1: kykyryry (156271 in chips, $100 bounty) 
+Seat 2: Orion DMC (49251 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (9000 in chips, $25 bounty) 
+Seat 4: 88mcm (57821 in chips, $43.75 bounty) 
+Seat 5: fabiano_ac (18200 in chips, $25 bounty) 
+Seat 6: nellinhoo (30625 in chips, $25 bounty) 
+Seat 7: TxiiN (13210 in chips, $25 bounty) 
+Seat 8: mcluki83 (72648 in chips, $37.50 bounty) 
+kykyryry: posts the ante 175
+Orion DMC: posts the ante 175
+Lobo_Mau5555: posts the ante 175
+88mcm: posts the ante 175
+fabiano_ac: posts the ante 175
+nellinhoo: posts the ante 175
+TxiiN: posts the ante 175
+mcluki83: posts the ante 175
+88mcm: posts small blind 600
+fabiano_ac: posts big blind 1200
+*** HOLE CARDS ***
+nellinhoo: folds 
+TxiiN: folds 
+mcluki83: raises 1524 to 2724
+kykyryry: folds 
+Orion DMC: calls 2724
+Lobo_Mau5555: folds 
+88mcm: folds 
+fabiano_ac: folds 
+*** FLOP *** [5h 6d 7d]
+mcluki83: bets 3600
+Orion DMC: folds 
+Uncalled bet (3600) returned to mcluki83
+mcluki83 collected 8648 from pot
+mcluki83: doesn't show hand 
+*** SUMMARY ***
+Total pot 8648 | Rake 0 
+Board [5h 6d 7d]
+Seat 1: kykyryry folded before Flop (didn't bet)
+Seat 2: Orion DMC folded on the Flop
+Seat 3: Lobo_Mau5555 (button) folded before Flop (didn't bet)
+Seat 4: 88mcm (small blind) folded before Flop
+Seat 5: fabiano_ac (big blind) folded before Flop
+Seat 6: nellinhoo folded before Flop (didn't bet)
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 collected (8648)
+
+PokerStars Hand #251205032022: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:28:40 UTC [2024/06/26 14:28:40 ET]
+Table '3769361891 70' 8-max Seat #4 is the button
+Seat 1: kykyryry (156096 in chips, $100 bounty) 
+Seat 2: Orion DMC (46352 in chips, $25 bounty) 
+Seat 3: Lobo_Mau5555 (8825 in chips, $25 bounty) 
+Seat 4: 88mcm (57046 in chips, $43.75 bounty) 
+Seat 5: fabiano_ac (16825 in chips, $25 bounty) 
+Seat 6: nellinhoo (30450 in chips, $25 bounty) 
+Seat 7: TxiiN (13035 in chips, $25 bounty) 
+Seat 8: mcluki83 (78397 in chips, $37.50 bounty) 
+kykyryry: posts the ante 175
+Orion DMC: posts the ante 175
+Lobo_Mau5555: posts the ante 175
+88mcm: posts the ante 175
+fabiano_ac: posts the ante 175
+nellinhoo: posts the ante 175
+TxiiN: posts the ante 175
+mcluki83: posts the ante 175
+fabiano_ac: posts small blind 600
+nellinhoo: posts big blind 1200
+*** HOLE CARDS ***
+TxiiN: folds 
+mcluki83: folds 
+kykyryry: folds 
+Orion DMC: raises 1400 to 2600
+Lobo_Mau5555: folds 
+88mcm: raises 1400 to 4000
+fabiano_ac: calls 3400
+nellinhoo: folds 
+Orion DMC: calls 1400
+*** FLOP *** [9c Ks 2d]
+fabiano_ac: checks 
+Orion DMC: checks 
+88mcm: bets 3600
+fabiano_ac: raises 9050 to 12650 and is all-in
+Orion DMC: folds 
+88mcm: calls 9050
+*** TURN *** [9c Ks 2d] [6d]
+*** RIVER *** [9c Ks 2d 6d] [4s]
+*** SHOW DOWN ***
+fabiano_ac: shows [Kc Td] (a pair of Kings)
+88mcm: shows [Qs Kd] (a pair of Kings - Queen kicker)
+88mcm collected 39900 from pot
+88mcm wins $12.50 for eliminating fabiano_ac and their own bounty increases by $12.50 to $56.25
+fabiano_ac finished the tournament
+*** SUMMARY ***
+Total pot 39900 | Rake 0 
+Board [9c Ks 2d 6d 4s]
+Seat 1: kykyryry folded before Flop (didn't bet)
+Seat 2: Orion DMC folded on the Flop
+Seat 3: Lobo_Mau5555 folded before Flop (didn't bet)
+Seat 4: 88mcm (button) showed [Qs Kd] and won (39900) with a pair of Kings
+Seat 5: fabiano_ac (small blind) showed [Kc Td] and lost with a pair of Kings
+Seat 6: nellinhoo (big blind) folded before Flop
+Seat 7: TxiiN folded before Flop (didn't bet)
+Seat 8: mcluki83 folded before Flop (didn't bet)

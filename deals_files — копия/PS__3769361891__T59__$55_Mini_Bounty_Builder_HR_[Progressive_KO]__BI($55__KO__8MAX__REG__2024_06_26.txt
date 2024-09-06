@@ -1,0 +1,200 @@
+PokerStars Hand #251205780945: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XV (1000/2000) - 2024/06/26 19:17:54 UTC [2024/06/26 15:17:54 ET]
+Table '3769361891 59' 8-max Seat #8 is the button
+Seat 1: Ayronn (97836 in chips, $75 bounty) 
+Seat 2: Galochina10 (156060 in chips, $25 bounty) 
+Seat 3: jako8900 (49746 in chips, $25 bounty) 
+Seat 4: drinho2pac (261653 in chips, $125 bounty) 
+Seat 5: BernardoDG (142299 in chips, $56.25 bounty) 
+Seat 6: ThenISawHerFace (185093 in chips, $137.50 bounty) 
+Seat 7: Emilohlsson (116223 in chips, $50 bounty) 
+Seat 8: Dih21 (2930 in chips, $25 bounty) 
+Ayronn: posts the ante 300
+Galochina10: posts the ante 300
+jako8900: posts the ante 300
+drinho2pac: posts the ante 300
+BernardoDG: posts the ante 300
+ThenISawHerFace: posts the ante 300
+Emilohlsson: posts the ante 300
+Dih21: posts the ante 300
+Ayronn: posts small blind 1000
+Galochina10: posts big blind 2000
+*** HOLE CARDS ***
+jako8900: folds 
+drinho2pac: folds 
+BernardoDG: raises 2000 to 4000
+ThenISawHerFace: folds 
+Emilohlsson: folds 
+Dih21: folds 
+Ayronn: folds 
+Galochina10: calls 2000
+*** FLOP *** [7d Jc 8d]
+Galochina10: checks 
+BernardoDG: bets 3762
+Galochina10: raises 8238 to 12000
+BernardoDG: calls 8238
+*** TURN *** [7d Jc 8d] [Kh]
+Galochina10: bets 22656
+BernardoDG: calls 22656
+*** RIVER *** [7d Jc 8d Kh] [Td]
+Galochina10: bets 117104 and is all-in
+BernardoDG: folds 
+Uncalled bet (117104) returned to Galochina10
+Galochina10 collected 80712 from pot
+*** SUMMARY ***
+Total pot 80712 | Rake 0 
+Board [7d Jc 8d Kh Td]
+Seat 1: Ayronn (small blind) folded before Flop
+Seat 2: Galochina10 (big blind) collected (80712)
+Seat 3: jako8900 folded before Flop (didn't bet)
+Seat 4: drinho2pac folded before Flop (didn't bet)
+Seat 5: BernardoDG folded on the River
+Seat 6: ThenISawHerFace folded before Flop (didn't bet)
+Seat 7: Emilohlsson folded before Flop (didn't bet)
+Seat 8: Dih21 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205811411: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XV (1000/2000) - 2024/06/26 19:19:46 UTC [2024/06/26 15:19:46 ET]
+Table '3769361891 59' 8-max Seat #1 is the button
+Seat 1: Ayronn (96536 in chips, $75 bounty) 
+Seat 2: Galochina10 (197816 in chips, $25 bounty) 
+Seat 3: jako8900 (49446 in chips, $25 bounty) 
+Seat 4: drinho2pac (261353 in chips, $125 bounty) 
+Seat 5: BernardoDG (103343 in chips, $56.25 bounty) 
+Seat 6: ThenISawHerFace (184793 in chips, $137.50 bounty) 
+Seat 7: Emilohlsson (115923 in chips, $50 bounty) 
+Seat 8: Dih21 (2630 in chips, $25 bounty) 
+Ayronn: posts the ante 300
+Galochina10: posts the ante 300
+jako8900: posts the ante 300
+drinho2pac: posts the ante 300
+BernardoDG: posts the ante 300
+ThenISawHerFace: posts the ante 300
+Emilohlsson: posts the ante 300
+Dih21: posts the ante 300
+Galochina10: posts small blind 1000
+jako8900: posts big blind 2000
+*** HOLE CARDS ***
+drinho2pac: folds 
+BernardoDG: folds 
+ThenISawHerFace: raises 2200 to 4200
+Emilohlsson: folds 
+Dih21: folds 
+Ayronn: folds 
+Galochina10: folds 
+jako8900: calls 2200
+*** FLOP *** [7h 2c 9d]
+jako8900: checks 
+ThenISawHerFace: bets 4956
+jako8900: folds 
+Uncalled bet (4956) returned to ThenISawHerFace
+ThenISawHerFace collected 11800 from pot
+ThenISawHerFace: doesn't show hand 
+*** SUMMARY ***
+Total pot 11800 | Rake 0 
+Board [7h 2c 9d]
+Seat 1: Ayronn (button) folded before Flop (didn't bet)
+Seat 2: Galochina10 (small blind) folded before Flop
+Seat 3: jako8900 (big blind) folded on the Flop
+Seat 4: drinho2pac folded before Flop (didn't bet)
+Seat 5: BernardoDG folded before Flop (didn't bet)
+Seat 6: ThenISawHerFace collected (11800)
+Seat 7: Emilohlsson folded before Flop (didn't bet)
+Seat 8: Dih21 folded before Flop (didn't bet)
+
+PokerStars Hand #251205831708: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XV (1000/2000) - 2024/06/26 19:21:00 UTC [2024/06/26 15:21:00 ET]
+Table '3769361891 59' 8-max Seat #2 is the button
+Seat 1: Ayronn (96236 in chips, $75 bounty) 
+Seat 2: Galochina10 (196516 in chips, $25 bounty) 
+Seat 3: jako8900 (44946 in chips, $25 bounty) 
+Seat 4: drinho2pac (261053 in chips, $125 bounty) 
+Seat 5: BernardoDG (103043 in chips, $56.25 bounty) 
+Seat 6: ThenISawHerFace (192093 in chips, $137.50 bounty) 
+Seat 7: Emilohlsson (115623 in chips, $50 bounty) 
+Seat 8: Dih21 (2330 in chips, $25 bounty) 
+Ayronn: posts the ante 300
+Galochina10: posts the ante 300
+jako8900: posts the ante 300
+drinho2pac: posts the ante 300
+BernardoDG: posts the ante 300
+ThenISawHerFace: posts the ante 300
+Emilohlsson: posts the ante 300
+Dih21: posts the ante 300
+jako8900: posts small blind 1000
+drinho2pac: posts big blind 2000
+*** HOLE CARDS ***
+BernardoDG: folds 
+ThenISawHerFace: raises 2000 to 4000
+Emilohlsson: folds 
+Dih21: folds 
+Ayronn: folds 
+Galochina10: calls 4000
+jako8900: folds 
+drinho2pac: folds 
+*** FLOP *** [Ah 8s Js]
+ThenISawHerFace: bets 8442
+Galochina10: folds 
+Uncalled bet (8442) returned to ThenISawHerFace
+ThenISawHerFace collected 13400 from pot
+ThenISawHerFace: doesn't show hand 
+*** SUMMARY ***
+Total pot 13400 | Rake 0 
+Board [Ah 8s Js]
+Seat 1: Ayronn folded before Flop (didn't bet)
+Seat 2: Galochina10 (button) folded on the Flop
+Seat 3: jako8900 (small blind) folded before Flop
+Seat 4: drinho2pac (big blind) folded before Flop
+Seat 5: BernardoDG folded before Flop (didn't bet)
+Seat 6: ThenISawHerFace collected (13400)
+Seat 7: Emilohlsson folded before Flop (didn't bet)
+Seat 8: Dih21 folded before Flop (didn't bet)
+
+PokerStars Hand #251205843657: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XVI (1250/2500) - 2024/06/26 19:21:44 UTC [2024/06/26 15:21:44 ET]
+Table '3769361891 59' 8-max Seat #3 is the button
+Seat 1: Ayronn (95936 in chips, $75 bounty) 
+Seat 2: Galochina10 (192216 in chips, $25 bounty) 
+Seat 3: jako8900 (43646 in chips, $25 bounty) 
+Seat 4: drinho2pac (258753 in chips, $125 bounty) 
+Seat 5: BernardoDG (102743 in chips, $56.25 bounty) 
+Seat 6: ThenISawHerFace (201193 in chips, $137.50 bounty) 
+Seat 7: Emilohlsson (115323 in chips, $50 bounty) 
+Seat 8: Dih21 (2030 in chips, $25 bounty) 
+Ayronn: posts the ante 350
+Galochina10: posts the ante 350
+jako8900: posts the ante 350
+drinho2pac: posts the ante 350
+BernardoDG: posts the ante 350
+ThenISawHerFace: posts the ante 350
+Emilohlsson: posts the ante 350
+Dih21: posts the ante 350
+drinho2pac: posts small blind 1250
+BernardoDG: posts big blind 2500
+*** HOLE CARDS ***
+ThenISawHerFace: folds 
+Emilohlsson: folds 
+Dih21: calls 1680 and is all-in
+Ayronn: folds 
+Galochina10: folds 
+jako8900: folds 
+drinho2pac: raises 255903 to 258403 and is all-in
+BernardoDG: folds 
+Uncalled bet (255903) returned to drinho2pac
+*** FLOP *** [8s Ah 5s]
+*** TURN *** [8s Ah 5s] [Ac]
+*** RIVER *** [8s Ah 5s Ac] [Jh]
+*** SHOW DOWN ***
+drinho2pac: shows [2s As] (three of a kind, Aces)
+drinho2pac collected 1640 from side pot
+Dih21: shows [8h Ts] (two pair, Aces and Eights)
+drinho2pac collected 7840 from main pot
+drinho2pac wins $12.50 for eliminating Dih21 and their own bounty increases by $12.50 to $137.50
+Dih21 finished the tournament in 372nd place
+*** SUMMARY ***
+Total pot 9480 Main pot 7840. Side pot 1640. | Rake 0 
+Board [8s Ah 5s Ac Jh]
+Seat 1: Ayronn folded before Flop (didn't bet)
+Seat 2: Galochina10 folded before Flop (didn't bet)
+Seat 3: jako8900 (button) folded before Flop (didn't bet)
+Seat 4: drinho2pac (small blind) showed [2s As] and won (9480) with three of a kind, Aces
+Seat 5: BernardoDG (big blind) folded before Flop
+Seat 6: ThenISawHerFace folded before Flop (didn't bet)
+Seat 7: Emilohlsson folded before Flop (didn't bet)
+Seat 8: Dih21 showed [8h Ts] and lost with two pair, Aces and Eights

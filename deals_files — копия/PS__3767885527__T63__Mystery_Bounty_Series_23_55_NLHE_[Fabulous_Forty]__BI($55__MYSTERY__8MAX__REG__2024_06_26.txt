@@ -1,0 +1,2541 @@
+PokerStars Hand #251206987410: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:31:39 UTC [2024/06/26 16:31:39 ET]
+Table '3767885527 63' 8-max Seat #5 is the button
+Seat 1: T3RSS1 (51554 in chips) 
+Seat 2: Giginis (280251 in chips) 
+Seat 3: Antanavinis (74238 in chips) 
+Seat 4: BorIska1993 (132514 in chips) 
+Seat 5: haitzi1 (30414 in chips) 
+Seat 6: Varle84 (86978 in chips) 
+Seat 7: RRoleto (39827 in chips) 
+Seat 8: Snoopy95_2.0 (135824 in chips) 
+T3RSS1: posts the ante 625
+Giginis: posts the ante 625
+Antanavinis: posts the ante 625
+BorIska1993: posts the ante 625
+haitzi1: posts the ante 625
+Varle84: posts the ante 625
+RRoleto: posts the ante 625
+Snoopy95_2.0: posts the ante 625
+Varle84: posts small blind 2500
+RRoleto: posts big blind 5000
+*** HOLE CARDS ***
+Snoopy95_2.0: folds 
+T3RSS1: folds 
+Giginis: folds 
+Antanavinis: folds 
+BorIska1993: folds 
+haitzi1: folds 
+Varle84: raises 81353 to 86353 and is all-in
+RRoleto: folds 
+Uncalled bet (81353) returned to Varle84
+Varle84 collected 15000 from pot
+*** SUMMARY ***
+Total pot 15000 | Rake 0 
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: Giginis folded before Flop (didn't bet)
+Seat 3: Antanavinis folded before Flop (didn't bet)
+Seat 4: BorIska1993 folded before Flop (didn't bet)
+Seat 5: haitzi1 (button) folded before Flop (didn't bet)
+Seat 6: Varle84 (small blind) collected (15000)
+Seat 7: RRoleto (big blind) folded before Flop
+Seat 8: Snoopy95_2.0 folded before Flop (didn't bet)
+
+PokerStars Hand #251206997044: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:32:13 UTC [2024/06/26 16:32:13 ET]
+Table '3767885527 63' 8-max Seat #6 is the button
+Seat 1: T3RSS1 (50929 in chips) 
+Seat 2: Giginis (279626 in chips) 
+Seat 3: Antanavinis (73613 in chips) 
+Seat 4: BorIska1993 (131889 in chips) 
+Seat 5: haitzi1 (29789 in chips) 
+Seat 6: Varle84 (96353 in chips) 
+Seat 7: RRoleto (34202 in chips) 
+Seat 8: Snoopy95_2.0 (135199 in chips) 
+T3RSS1: posts the ante 625
+Giginis: posts the ante 625
+Antanavinis: posts the ante 625
+BorIska1993: posts the ante 625
+haitzi1: posts the ante 625
+Varle84: posts the ante 625
+RRoleto: posts the ante 625
+Snoopy95_2.0: posts the ante 625
+RRoleto: posts small blind 2500
+Snoopy95_2.0: posts big blind 5000
+*** HOLE CARDS ***
+T3RSS1: folds 
+Giginis: raises 5000 to 10000
+Antanavinis: raises 62500 to 72500
+BorIska1993: folds 
+haitzi1: folds 
+Varle84: folds 
+RRoleto: folds 
+Snoopy95_2.0: folds 
+Giginis: folds 
+Uncalled bet (62500) returned to Antanavinis
+Antanavinis collected 32500 from pot
+Antanavinis: doesn't show hand 
+*** SUMMARY ***
+Total pot 32500 | Rake 0 
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: Giginis folded before Flop
+Seat 3: Antanavinis collected (32500)
+Seat 4: BorIska1993 folded before Flop (didn't bet)
+Seat 5: haitzi1 folded before Flop (didn't bet)
+Seat 6: Varle84 (button) folded before Flop (didn't bet)
+Seat 7: RRoleto (small blind) folded before Flop
+Seat 8: Snoopy95_2.0 (big blind) folded before Flop
+
+PokerStars Hand #251207031980: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:34:17 UTC [2024/06/26 16:34:17 ET]
+Table '3767885527 63' 8-max Seat #7 is the button
+Seat 1: T3RSS1 (50304 in chips) 
+Seat 2: Giginis (269001 in chips) 
+Seat 3: Antanavinis (95488 in chips) 
+Seat 4: BorIska1993 (131264 in chips) 
+Seat 5: haitzi1 (29164 in chips) 
+Seat 6: Varle84 (95728 in chips) 
+Seat 7: RRoleto (31077 in chips) 
+Seat 8: Snoopy95_2.0 (129574 in chips) 
+T3RSS1: posts the ante 625
+Giginis: posts the ante 625
+Antanavinis: posts the ante 625
+BorIska1993: posts the ante 625
+haitzi1: posts the ante 625
+Varle84: posts the ante 625
+RRoleto: posts the ante 625
+Snoopy95_2.0: posts the ante 625
+Snoopy95_2.0: posts small blind 2500
+T3RSS1: posts big blind 5000
+*** HOLE CARDS ***
+Giginis: folds 
+Antanavinis: folds 
+BorIska1993: folds 
+haitzi1: folds 
+Varle84: folds 
+RRoleto: folds 
+Snoopy95_2.0: raises 123949 to 128949 and is all-in
+T3RSS1: folds 
+Uncalled bet (123949) returned to Snoopy95_2.0
+Snoopy95_2.0 collected 15000 from pot
+Snoopy95_2.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 15000 | Rake 0 
+Seat 1: T3RSS1 (big blind) folded before Flop
+Seat 2: Giginis folded before Flop (didn't bet)
+Seat 3: Antanavinis folded before Flop (didn't bet)
+Seat 4: BorIska1993 folded before Flop (didn't bet)
+Seat 5: haitzi1 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: RRoleto (button) folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 (small blind) collected (15000)
+
+PokerStars Hand #251207041341: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:34:50 UTC [2024/06/26 16:34:50 ET]
+Table '3767885527 63' 8-max Seat #8 is the button
+Seat 1: T3RSS1 (44679 in chips) 
+Seat 2: Giginis (268376 in chips) 
+Seat 3: Antanavinis (94863 in chips) 
+Seat 4: BorIska1993 (130639 in chips) 
+Seat 5: haitzi1 (28539 in chips) 
+Seat 6: Varle84 (95103 in chips) 
+Seat 7: RRoleto (30452 in chips) 
+Seat 8: Snoopy95_2.0 (138949 in chips) 
+T3RSS1: posts the ante 625
+Giginis: posts the ante 625
+Antanavinis: posts the ante 625
+BorIska1993: posts the ante 625
+haitzi1: posts the ante 625
+Varle84: posts the ante 625
+RRoleto: posts the ante 625
+Snoopy95_2.0: posts the ante 625
+T3RSS1: posts small blind 2500
+Giginis: posts big blind 5000
+*** HOLE CARDS ***
+Antanavinis: folds 
+BorIska1993: folds 
+haitzi1: folds 
+Varle84: folds 
+RRoleto: folds 
+Snoopy95_2.0: calls 5000
+T3RSS1: folds 
+Giginis: raises 18000 to 23000
+Snoopy95_2.0: folds 
+Uncalled bet (18000) returned to Giginis
+Giginis collected 17500 from pot
+*** SUMMARY ***
+Total pot 17500 | Rake 0 
+Seat 1: T3RSS1 (small blind) folded before Flop
+Seat 2: Giginis (big blind) collected (17500)
+Seat 3: Antanavinis folded before Flop (didn't bet)
+Seat 4: BorIska1993 folded before Flop (didn't bet)
+Seat 5: haitzi1 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: RRoleto folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 (button) folded before Flop
+
+PokerStars Hand #251207053943: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:35:34 UTC [2024/06/26 16:35:34 ET]
+Table '3767885527 63' 8-max Seat #1 is the button
+Seat 1: T3RSS1 (41554 in chips) 
+Seat 2: Giginis (280251 in chips) 
+Seat 3: Antanavinis (94238 in chips) 
+Seat 4: BorIska1993 (130014 in chips) 
+Seat 5: haitzi1 (27914 in chips) 
+Seat 6: Varle84 (94478 in chips) 
+Seat 7: RRoleto (29827 in chips) 
+Seat 8: Snoopy95_2.0 (133324 in chips) 
+T3RSS1: posts the ante 625
+Giginis: posts the ante 625
+Antanavinis: posts the ante 625
+BorIska1993: posts the ante 625
+haitzi1: posts the ante 625
+Varle84: posts the ante 625
+RRoleto: posts the ante 625
+Snoopy95_2.0: posts the ante 625
+Giginis: posts small blind 2500
+Antanavinis: posts big blind 5000
+*** HOLE CARDS ***
+BorIska1993: folds 
+haitzi1: raises 22289 to 27289 and is all-in
+Varle84: folds 
+RRoleto: folds 
+Snoopy95_2.0: folds 
+T3RSS1: folds 
+Giginis: folds 
+Antanavinis: folds 
+Uncalled bet (22289) returned to haitzi1
+haitzi1 collected 17500 from pot
+*** SUMMARY ***
+Total pot 17500 | Rake 0 
+Seat 1: T3RSS1 (button) folded before Flop (didn't bet)
+Seat 2: Giginis (small blind) folded before Flop
+Seat 3: Antanavinis (big blind) folded before Flop
+Seat 4: BorIska1993 folded before Flop (didn't bet)
+Seat 5: haitzi1 collected (17500)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: RRoleto folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 folded before Flop (didn't bet)
+
+PokerStars Hand #251207061403: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:36:01 UTC [2024/06/26 16:36:01 ET]
+Table '3767885527 63' 8-max Seat #2 is the button
+Seat 1: T3RSS1 (40929 in chips) 
+Seat 2: Giginis (277126 in chips) 
+Seat 3: Antanavinis (88613 in chips) 
+Seat 4: BorIska1993 (129389 in chips) 
+Seat 5: haitzi1 (39789 in chips) 
+Seat 6: Varle84 (93853 in chips) 
+Seat 7: RRoleto (29202 in chips) 
+Seat 8: Snoopy95_2.0 (132699 in chips) 
+T3RSS1: posts the ante 750
+Giginis: posts the ante 750
+Antanavinis: posts the ante 750
+BorIska1993: posts the ante 750
+haitzi1: posts the ante 750
+Varle84: posts the ante 750
+RRoleto: posts the ante 750
+Snoopy95_2.0: posts the ante 750
+Antanavinis: posts small blind 3000
+BorIska1993: posts big blind 6000
+*** HOLE CARDS ***
+haitzi1: folds 
+Varle84: folds 
+RRoleto: folds 
+Snoopy95_2.0: folds 
+T3RSS1: folds 
+Giginis: folds 
+Antanavinis: calls 3000
+BorIska1993: checks 
+*** FLOP *** [Td 6s Tc]
+Antanavinis: checks 
+BorIska1993: checks 
+*** TURN *** [Td 6s Tc] [Th]
+Antanavinis: bets 13500
+BorIska1993: folds 
+Uncalled bet (13500) returned to Antanavinis
+Antanavinis collected 18000 from pot
+Antanavinis: doesn't show hand 
+*** SUMMARY ***
+Total pot 18000 | Rake 0 
+Board [Td 6s Tc Th]
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: Giginis (button) folded before Flop (didn't bet)
+Seat 3: Antanavinis (small blind) collected (18000)
+Seat 4: BorIska1993 (big blind) folded on the Turn
+Seat 5: haitzi1 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: RRoleto folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 folded before Flop (didn't bet)
+
+PokerStars Hand #251207075694: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:36:51 UTC [2024/06/26 16:36:51 ET]
+Table '3767885527 63' 8-max Seat #3 is the button
+Seat 1: T3RSS1 (40179 in chips) 
+Seat 2: Giginis (276376 in chips) 
+Seat 3: Antanavinis (99863 in chips) 
+Seat 4: BorIska1993 (122639 in chips) 
+Seat 5: haitzi1 (39039 in chips) 
+Seat 6: Varle84 (93103 in chips) 
+Seat 7: RRoleto (28452 in chips) 
+Seat 8: Snoopy95_2.0 (131949 in chips) 
+T3RSS1: posts the ante 750
+Giginis: posts the ante 750
+Antanavinis: posts the ante 750
+BorIska1993: posts the ante 750
+haitzi1: posts the ante 750
+Varle84: posts the ante 750
+RRoleto: posts the ante 750
+Snoopy95_2.0: posts the ante 750
+BorIska1993: posts small blind 3000
+haitzi1: posts big blind 6000
+*** HOLE CARDS ***
+Varle84: folds 
+RRoleto: folds 
+Snoopy95_2.0: calls 6000
+T3RSS1: folds 
+Giginis: folds 
+Antanavinis: folds 
+BorIska1993: calls 3000
+haitzi1: checks 
+*** FLOP *** [Ad 6h 3h]
+BorIska1993: checks 
+haitzi1: checks 
+Snoopy95_2.0: bets 6000
+BorIska1993: folds 
+haitzi1: folds 
+Uncalled bet (6000) returned to Snoopy95_2.0
+Snoopy95_2.0 collected 24000 from pot
+Snoopy95_2.0: doesn't show hand 
+*** SUMMARY ***
+Total pot 24000 | Rake 0 
+Board [Ad 6h 3h]
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: Giginis folded before Flop (didn't bet)
+Seat 3: Antanavinis (button) folded before Flop (didn't bet)
+Seat 4: BorIska1993 (small blind) folded on the Flop
+Seat 5: haitzi1 (big blind) folded on the Flop
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: RRoleto folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 collected (24000)
+
+PokerStars Hand #251207085336: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:37:25 UTC [2024/06/26 16:37:25 ET]
+Table '3767885527 63' 8-max Seat #4 is the button
+Seat 1: T3RSS1 (39429 in chips) 
+Seat 2: Giginis (275626 in chips) 
+Seat 3: Antanavinis (99113 in chips) 
+Seat 4: BorIska1993 (115889 in chips) 
+Seat 5: haitzi1 (32289 in chips) 
+Seat 6: Varle84 (92353 in chips) 
+Seat 7: RRoleto (27702 in chips) 
+Seat 8: Snoopy95_2.0 (149199 in chips) 
+T3RSS1: posts the ante 750
+Giginis: posts the ante 750
+Antanavinis: posts the ante 750
+BorIska1993: posts the ante 750
+haitzi1: posts the ante 750
+Varle84: posts the ante 750
+RRoleto: posts the ante 750
+Snoopy95_2.0: posts the ante 750
+haitzi1: posts small blind 3000
+Varle84: posts big blind 6000
+*** HOLE CARDS ***
+RRoleto: folds 
+Snoopy95_2.0: folds 
+T3RSS1: folds 
+Giginis: folds 
+Antanavinis: folds 
+BorIska1993: raises 6000 to 12000
+haitzi1: folds 
+Varle84: raises 79603 to 91603 and is all-in
+BorIska1993: folds 
+Uncalled bet (79603) returned to Varle84
+Varle84 collected 33000 from pot
+*** SUMMARY ***
+Total pot 33000 | Rake 0 
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: Giginis folded before Flop (didn't bet)
+Seat 3: Antanavinis folded before Flop (didn't bet)
+Seat 4: BorIska1993 (button) folded before Flop
+Seat 5: haitzi1 (small blind) folded before Flop
+Seat 6: Varle84 (big blind) collected (33000)
+Seat 7: RRoleto folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 folded before Flop (didn't bet)
+
+PokerStars Hand #251207100786: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:38:20 UTC [2024/06/26 16:38:20 ET]
+Table '3767885527 63' 8-max Seat #5 is the button
+Seat 1: T3RSS1 (38679 in chips) 
+Seat 2: Giginis (274876 in chips) 
+Seat 3: Antanavinis (98363 in chips) 
+Seat 4: BorIska1993 (103139 in chips) 
+Seat 5: haitzi1 (28539 in chips) 
+Seat 6: Varle84 (112603 in chips) 
+Seat 7: RRoleto (26952 in chips) 
+Seat 8: Snoopy95_2.0 (148449 in chips) 
+T3RSS1: posts the ante 750
+Giginis: posts the ante 750
+Antanavinis: posts the ante 750
+BorIska1993: posts the ante 750
+haitzi1: posts the ante 750
+Varle84: posts the ante 750
+RRoleto: posts the ante 750
+Snoopy95_2.0: posts the ante 750
+Varle84: posts small blind 3000
+RRoleto: posts big blind 6000
+*** HOLE CARDS ***
+Snoopy95_2.0: calls 6000
+T3RSS1: raises 31929 to 37929 and is all-in
+Giginis: folds 
+Antanavinis: folds 
+BorIska1993: folds 
+haitzi1: folds 
+Varle84: folds 
+RRoleto: calls 20202 and is all-in
+Snoopy95_2.0: calls 31929
+*** FLOP *** [2s Ts 9d]
+*** TURN *** [2s Ts 9d] [Ah]
+*** RIVER *** [2s Ts 9d Ah] [9h]
+*** SHOW DOWN ***
+Snoopy95_2.0: shows [Tc Jc] (two pair, Tens and Nines)
+T3RSS1: shows [Ad Qs] (two pair, Aces and Nines)
+T3RSS1 collected 23454 from side pot
+RRoleto: shows [2c As] (two pair, Aces and Nines - lower kicker)
+T3RSS1 collected 87606 from main pot
+RRoleto finished the tournament in 263rd place and received $104.64.
+*** SUMMARY ***
+Total pot 111060 Main pot 87606. Side pot 23454. | Rake 0 
+Board [2s Ts 9d Ah 9h]
+Seat 1: T3RSS1 showed [Ad Qs] and won (111060) with two pair, Aces and Nines
+Seat 2: Giginis folded before Flop (didn't bet)
+Seat 3: Antanavinis folded before Flop (didn't bet)
+Seat 4: BorIska1993 folded before Flop (didn't bet)
+Seat 5: haitzi1 (button) folded before Flop (didn't bet)
+Seat 6: Varle84 (small blind) folded before Flop
+Seat 7: RRoleto (big blind) showed [2c As] and lost with two pair, Aces and Nines
+Seat 8: Snoopy95_2.0 showed [Tc Jc] and lost with two pair, Tens and Nines
+
+PokerStars Hand #251207113713: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:39:05 UTC [2024/06/26 16:39:05 ET]
+Table '3767885527 63' 8-max Seat #6 is the button
+Seat 1: T3RSS1 (111060 in chips) 
+Seat 2: Giginis (274126 in chips) 
+Seat 3: Antanavinis (97613 in chips) 
+Seat 4: BorIska1993 (102389 in chips) 
+Seat 5: haitzi1 (27789 in chips) 
+Seat 6: Varle84 (108853 in chips) 
+Seat 8: Snoopy95_2.0 (109770 in chips) 
+T3RSS1: posts the ante 750
+Giginis: posts the ante 750
+Antanavinis: posts the ante 750
+BorIska1993: posts the ante 750
+haitzi1: posts the ante 750
+Varle84: posts the ante 750
+Snoopy95_2.0: posts the ante 750
+Snoopy95_2.0: posts small blind 3000
+T3RSS1: posts big blind 6000
+*** HOLE CARDS ***
+Giginis: folds 
+Antanavinis: folds 
+BorIska1993: folds 
+VICTOR TXR1 is disconnected 
+haitzi1: folds 
+Varle84: raises 6000 to 12000
+Snoopy95_2.0: calls 9000
+T3RSS1: calls 6000
+*** FLOP *** [Js 4c 3h]
+Snoopy95_2.0: checks 
+T3RSS1: checks 
+Varle84: bets 12780
+Snoopy95_2.0: folds 
+T3RSS1: raises 85530 to 98310 and is all-in
+Varle84: folds 
+Uncalled bet (85530) returned to T3RSS1
+T3RSS1 collected 66810 from pot
+*** SUMMARY ***
+Total pot 66810 | Rake 0 
+Board [Js 4c 3h]
+Seat 1: T3RSS1 (big blind) collected (66810)
+Seat 2: Giginis folded before Flop (didn't bet)
+Seat 3: Antanavinis folded before Flop (didn't bet)
+Seat 4: BorIska1993 folded before Flop (didn't bet)
+Seat 5: haitzi1 folded before Flop (didn't bet)
+Seat 6: Varle84 (button) folded on the Flop
+Seat 8: Snoopy95_2.0 (small blind) folded on the Flop
+
+PokerStars Hand #251207136075: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:40:25 UTC [2024/06/26 16:40:25 ET]
+Table '3767885527 63' 8-max Seat #8 is the button
+Seat 1: T3RSS1 (152340 in chips) 
+Seat 2: Giginis (273376 in chips) 
+Seat 3: Antanavinis (96863 in chips) 
+Seat 4: BorIska1993 (101639 in chips) 
+Seat 5: haitzi1 (27039 in chips) 
+Seat 6: Varle84 (83323 in chips) 
+Seat 7: VICTOR TXR1 (122957 in chips) 
+Seat 8: Snoopy95_2.0 (97020 in chips) 
+T3RSS1: posts the ante 750
+Giginis: posts the ante 750
+Antanavinis: posts the ante 750
+BorIska1993: posts the ante 750
+haitzi1: posts the ante 750
+Varle84: posts the ante 750
+VICTOR TXR1: posts the ante 750
+Snoopy95_2.0: posts the ante 750
+T3RSS1: posts small blind 3000
+Giginis: posts big blind 6000
+*** HOLE CARDS ***
+Antanavinis: raises 6000 to 12000
+BorIska1993: folds 
+haitzi1: folds 
+Varle84: folds 
+VICTOR TXR1: folds 
+Snoopy95_2.0: folds 
+T3RSS1: folds 
+Giginis: calls 6000
+*** FLOP *** [7s 6s Qc]
+Giginis: checks 
+Antanavinis: bets 10890
+Giginis: calls 10890
+*** TURN *** [7s 6s Qc] [9h]
+Giginis: checks 
+Antanavinis: bets 25080
+Giginis: raises 64920 to 90000
+Antanavinis: calls 48143 and is all-in
+Uncalled bet (16777) returned to Giginis
+*** RIVER *** [7s 6s Qc 9h] [8s]
+*** SHOW DOWN ***
+Giginis: shows [6h 9s] (two pair, Nines and Sixes)
+Antanavinis: shows [Ks Kc] (a pair of Kings)
+Giginis collected 201226 from pot
+Antanavinis finished the tournament in 240th place and received $115.10.
+*** SUMMARY ***
+Total pot 201226 | Rake 0 
+Board [7s 6s Qc 9h 8s]
+Seat 1: T3RSS1 (small blind) folded before Flop
+Seat 2: Giginis (big blind) showed [6h 9s] and won (201226) with two pair, Nines and Sixes
+Seat 3: Antanavinis showed [Ks Kc] and lost with a pair of Kings
+Seat 4: BorIska1993 folded before Flop (didn't bet)
+Seat 5: haitzi1 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207156206: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:41:37 UTC [2024/06/26 16:41:37 ET]
+Table '3767885527 63' 8-max Seat #1 is the button
+Seat 1: T3RSS1 (148590 in chips) 
+Seat 2: Giginis (377739 in chips) 
+Seat 4: BorIska1993 (100889 in chips) 
+Seat 5: haitzi1 (26289 in chips) 
+Seat 6: Varle84 (82573 in chips) 
+Seat 7: VICTOR TXR1 (122207 in chips) 
+Seat 8: Snoopy95_2.0 (96270 in chips) 
+T3RSS1: posts the ante 750
+Giginis: posts the ante 750
+BorIska1993: posts the ante 750
+haitzi1: posts the ante 750
+Varle84: posts the ante 750
+VICTOR TXR1: posts the ante 750
+Snoopy95_2.0: posts the ante 750
+Giginis: posts small blind 3000
+BorIska1993: posts big blind 6000
+*** HOLE CARDS ***
+haitzi1: folds 
+Varle84: folds 
+VICTOR TXR1: raises 6960 to 12960
+Snoopy95_2.0: folds 
+T3RSS1: folds 
+Giginis: folds 
+BorIska1993: raises 87179 to 100139 and is all-in
+VICTOR TXR1: folds 
+Uncalled bet (87179) returned to BorIska1993
+BorIska1993 collected 34170 from pot
+BorIska1993: doesn't show hand 
+*** SUMMARY ***
+Total pot 34170 | Rake 0 
+Seat 1: T3RSS1 (button) folded before Flop (didn't bet)
+Seat 2: Giginis (small blind) folded before Flop
+Seat 4: BorIska1993 (big blind) collected (34170)
+Seat 5: haitzi1 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 folded before Flop
+Seat 8: Snoopy95_2.0 folded before Flop (didn't bet)
+
+PokerStars Hand #251207163344: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:42:03 UTC [2024/06/26 16:42:03 ET]
+Table '3767885527 63' 8-max Seat #2 is the button
+Seat 1: T3RSS1 (147840 in chips) 
+Seat 2: Giginis (373989 in chips) 
+Seat 4: BorIska1993 (121349 in chips) 
+Seat 5: haitzi1 (25539 in chips) 
+Seat 6: Varle84 (81823 in chips) 
+Seat 7: VICTOR TXR1 (108497 in chips) 
+Seat 8: Snoopy95_2.0 (95520 in chips) 
+T3RSS1: posts the ante 750
+Giginis: posts the ante 750
+BorIska1993: posts the ante 750
+haitzi1: posts the ante 750
+Varle84: posts the ante 750
+VICTOR TXR1: posts the ante 750
+Snoopy95_2.0: posts the ante 750
+BorIska1993: posts small blind 3000
+haitzi1: posts big blind 6000
+*** HOLE CARDS ***
+Varle84: raises 75073 to 81073 and is all-in
+VICTOR TXR1: folds 
+Snoopy95_2.0: folds 
+T3RSS1: folds 
+Giginis: folds 
+BorIska1993: raises 39526 to 120599 and is all-in
+haitzi1: folds 
+Uncalled bet (39526) returned to BorIska1993
+*** FLOP *** [3s 2s Kc]
+*** TURN *** [3s 2s Kc] [4s]
+*** RIVER *** [3s 2s Kc 4s] [5s]
+*** SHOW DOWN ***
+BorIska1993: shows [Tc Ah] (a straight, Ace to Five)
+Varle84: shows [Jc Ac] (a straight, Ace to Five)
+BorIska1993 collected 86698 from pot
+Varle84 collected 86698 from pot
+*** SUMMARY ***
+Total pot 173396 | Rake 0 
+Board [3s 2s Kc 4s 5s]
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: Giginis (button) folded before Flop (didn't bet)
+Seat 4: BorIska1993 (small blind) showed [Tc Ah] and won (86698) with a straight, Ace to Five
+Seat 5: haitzi1 (big blind) folded before Flop
+Seat 6: Varle84 showed [Jc Ac] and won (86698) with a straight, Ace to Five
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 folded before Flop (didn't bet)
+
+PokerStars Hand #251207172961: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:42:38 UTC [2024/06/26 16:42:38 ET]
+Table '3767885527 63' 8-max Seat #4 is the button
+Seat 1: T3RSS1 (147090 in chips) 
+Seat 2: Giginis (373239 in chips) 
+Seat 4: BorIska1993 (126224 in chips) 
+Seat 5: haitzi1 (18789 in chips) 
+Seat 6: Varle84 (86698 in chips) 
+Seat 7: VICTOR TXR1 (107747 in chips) 
+Seat 8: Snoopy95_2.0 (94770 in chips) 
+T3RSS1: posts the ante 750
+Giginis: posts the ante 750
+BorIska1993: posts the ante 750
+haitzi1: posts the ante 750
+Varle84: posts the ante 750
+VICTOR TXR1: posts the ante 750
+Snoopy95_2.0: posts the ante 750
+haitzi1: posts small blind 3000
+Varle84: posts big blind 6000
+*** HOLE CARDS ***
+VICTOR TXR1: folds 
+Snoopy95_2.0: calls 6000
+T3RSS1: folds 
+Giginis: folds 
+BorIska1993: folds 
+haitzi1: raises 12039 to 18039 and is all-in
+Varle84: folds 
+Snoopy95_2.0: calls 12039
+*** FLOP *** [9h 9d Jd]
+*** TURN *** [9h 9d Jd] [5h]
+MaCheCazzoFai is disconnected 
+*** RIVER *** [9h 9d Jd 5h] [9s]
+*** SHOW DOWN ***
+haitzi1: shows [8h Qs] (three of a kind, Nines)
+Snoopy95_2.0: shows [Ac 7s] (three of a kind, Nines - Ace kicker)
+Snoopy95_2.0 collected 47328 from pot
+haitzi1 finished the tournament in 231st place and received $115.10.
+*** SUMMARY ***
+Total pot 47328 | Rake 0 
+Board [9h 9d Jd 5h 9s]
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: Giginis folded before Flop (didn't bet)
+Seat 4: BorIska1993 (button) folded before Flop (didn't bet)
+Seat 5: haitzi1 (small blind) showed [8h Qs] and lost with three of a kind, Nines
+Seat 6: Varle84 (big blind) folded before Flop
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 showed [Ac 7s] and won (47328) with three of a kind, Nines
+
+PokerStars Hand #251207182610: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:43:13 UTC [2024/06/26 16:43:13 ET]
+Table '3767885527 63' 8-max Seat #6 is the button
+Seat 1: T3RSS1 (146340 in chips) 
+Seat 2: Giginis (372489 in chips) 
+Seat 3: MaCheCazzoFai (117831 in chips) 
+Seat 4: BorIska1993 (125474 in chips) 
+Seat 6: Varle84 (79948 in chips) 
+Seat 7: VICTOR TXR1 (106997 in chips) 
+Seat 8: Snoopy95_2.0 (123309 in chips) 
+T3RSS1: posts the ante 750
+Giginis: posts the ante 750
+MaCheCazzoFai: posts the ante 750
+BorIska1993: posts the ante 750
+Varle84: posts the ante 750
+VICTOR TXR1: posts the ante 750
+Snoopy95_2.0: posts the ante 750
+VICTOR TXR1: posts small blind 3000
+Snoopy95_2.0: posts big blind 6000
+*** HOLE CARDS ***
+T3RSS1: folds 
+Giginis: folds 
+MaCheCazzoFai: folds 
+BorIska1993: folds 
+Varle84: raises 73198 to 79198 and is all-in
+VICTOR TXR1: folds 
+Snoopy95_2.0: folds 
+Uncalled bet (73198) returned to Varle84
+Varle84 collected 20250 from pot
+*** SUMMARY ***
+Total pot 20250 | Rake 0 
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: Giginis folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: BorIska1993 folded before Flop (didn't bet)
+Seat 6: Varle84 (button) collected (20250)
+Seat 7: VICTOR TXR1 (small blind) folded before Flop
+Seat 8: Snoopy95_2.0 (big blind) folded before Flop
+
+PokerStars Hand #251207190264: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:43:41 UTC [2024/06/26 16:43:41 ET]
+Table '3767885527 63' 8-max Seat #7 is the button
+Seat 1: T3RSS1 (145590 in chips) 
+Seat 2: Giginis (371739 in chips) 
+Seat 3: MaCheCazzoFai (117081 in chips) 
+Seat 4: BorIska1993 (124724 in chips) 
+Seat 6: Varle84 (93448 in chips) 
+Seat 7: VICTOR TXR1 (103247 in chips) 
+Seat 8: Snoopy95_2.0 (116559 in chips) 
+T3RSS1: posts the ante 750
+Giginis: posts the ante 750
+MaCheCazzoFai: posts the ante 750
+BorIska1993: posts the ante 750
+Varle84: posts the ante 750
+VICTOR TXR1: posts the ante 750
+Snoopy95_2.0: posts the ante 750
+Snoopy95_2.0: posts small blind 3000
+T3RSS1: posts big blind 6000
+*** HOLE CARDS ***
+Giginis: folds 
+MaCheCazzoFai: raises 6000 to 12000
+BorIska1993: folds 
+Varle84: folds 
+VICTOR TXR1: folds 
+Snoopy95_2.0: folds 
+T3RSS1: folds 
+Uncalled bet (6000) returned to MaCheCazzoFai
+MaCheCazzoFai collected 20250 from pot
+MaCheCazzoFai: doesn't show hand 
+*** SUMMARY ***
+Total pot 20250 | Rake 0 
+Seat 1: T3RSS1 (big blind) folded before Flop
+Seat 2: Giginis folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai collected (20250)
+Seat 4: BorIska1993 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 (button) folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 (small blind) folded before Flop
+
+PokerStars Hand #251207196620: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:44:04 UTC [2024/06/26 16:44:04 ET]
+Table '3767885527 63' 8-max Seat #8 is the button
+Seat 1: T3RSS1 (138840 in chips) 
+Seat 2: Giginis (370989 in chips) 
+Seat 3: MaCheCazzoFai (130581 in chips) 
+Seat 4: BorIska1993 (123974 in chips) 
+Seat 6: Varle84 (92698 in chips) 
+Seat 7: VICTOR TXR1 (102497 in chips) 
+Seat 8: Snoopy95_2.0 (112809 in chips) 
+T3RSS1: posts the ante 750
+Giginis: posts the ante 750
+MaCheCazzoFai: posts the ante 750
+BorIska1993: posts the ante 750
+Varle84: posts the ante 750
+VICTOR TXR1: posts the ante 750
+Snoopy95_2.0: posts the ante 750
+T3RSS1: posts small blind 3000
+Giginis: posts big blind 6000
+*** HOLE CARDS ***
+MaCheCazzoFai: folds 
+BorIska1993: folds 
+Varle84: folds 
+VICTOR TXR1: raises 6000 to 12000
+Snoopy95_2.0: folds 
+T3RSS1: folds 
+Giginis: calls 6000
+*** FLOP *** [5s 7d Ah]
+Giginis: checks 
+VICTOR TXR1: bets 9998
+Giginis: folds 
+Uncalled bet (9998) returned to VICTOR TXR1
+VICTOR TXR1 collected 32250 from pot
+VICTOR TXR1: doesn't show hand 
+*** SUMMARY ***
+Total pot 32250 | Rake 0 
+Board [5s 7d Ah]
+Seat 1: T3RSS1 (small blind) folded before Flop
+Seat 2: Giginis (big blind) folded on the Flop
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: BorIska1993 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 collected (32250)
+Seat 8: Snoopy95_2.0 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207208319: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:44:47 UTC [2024/06/26 16:44:47 ET]
+Table '3767885527 63' 8-max Seat #1 is the button
+Seat 1: T3RSS1 (135090 in chips) 
+Seat 2: Giginis (358239 in chips) 
+Seat 3: MaCheCazzoFai (129831 in chips) 
+Seat 4: BorIska1993 (123224 in chips) 
+Seat 6: Varle84 (91948 in chips) 
+Seat 7: VICTOR TXR1 (121997 in chips) 
+Seat 8: Snoopy95_2.0 (112059 in chips) 
+T3RSS1: posts the ante 750
+Giginis: posts the ante 750
+MaCheCazzoFai: posts the ante 750
+BorIska1993: posts the ante 750
+Varle84: posts the ante 750
+VICTOR TXR1: posts the ante 750
+Snoopy95_2.0: posts the ante 750
+Giginis: posts small blind 3000
+MaCheCazzoFai: posts big blind 6000
+*** HOLE CARDS ***
+BorIska1993: folds 
+Varle84: folds 
+NOEXITNO is disconnected 
+VICTOR TXR1: folds 
+Snoopy95_2.0: raises 6000 to 12000
+T3RSS1: folds 
+Giginis: folds 
+MaCheCazzoFai: raises 117081 to 129081 and is all-in
+Snoopy95_2.0: folds 
+Uncalled bet (117081) returned to MaCheCazzoFai
+MaCheCazzoFai collected 32250 from pot
+MaCheCazzoFai: doesn't show hand 
+*** SUMMARY ***
+Total pot 32250 | Rake 0 
+Seat 1: T3RSS1 (button) folded before Flop (didn't bet)
+Seat 2: Giginis (small blind) folded before Flop
+Seat 3: MaCheCazzoFai (big blind) collected (32250)
+Seat 4: BorIska1993 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 folded before Flop
+
+PokerStars Hand #251207216266: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:45:16 UTC [2024/06/26 16:45:16 ET]
+Table '3767885527 63' 8-max Seat #2 is the button
+Seat 1: T3RSS1 (134340 in chips) 
+Seat 2: Giginis (354489 in chips) 
+Seat 3: MaCheCazzoFai (149331 in chips) 
+Seat 4: BorIska1993 (122474 in chips) 
+Seat 5: NOEXITNO (69770 in chips) 
+Seat 6: Varle84 (91198 in chips) 
+Seat 7: VICTOR TXR1 (121247 in chips) 
+Seat 8: Snoopy95_2.0 (99309 in chips) 
+T3RSS1: posts the ante 750
+Giginis: posts the ante 750
+MaCheCazzoFai: posts the ante 750
+BorIska1993: posts the ante 750
+NOEXITNO: posts the ante 750
+Varle84: posts the ante 750
+VICTOR TXR1: posts the ante 750
+Snoopy95_2.0: posts the ante 750
+MaCheCazzoFai: posts small blind 3000
+BorIska1993: posts big blind 6000
+*** HOLE CARDS ***
+NOEXITNO: folds 
+Varle84: raises 6000 to 12000
+VICTOR TXR1: folds 
+Snoopy95_2.0: folds 
+T3RSS1: folds 
+Giginis: folds 
+MaCheCazzoFai: folds 
+BorIska1993: calls 6000
+*** FLOP *** [5c 2d 7s]
+BorIska1993: checks 
+Varle84: bets 17160
+BorIska1993: folds 
+Uncalled bet (17160) returned to Varle84
+Varle84 collected 33000 from pot
+*** SUMMARY ***
+Total pot 33000 | Rake 0 
+Board [5c 2d 7s]
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: Giginis (button) folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai (small blind) folded before Flop
+Seat 4: BorIska1993 (big blind) folded on the Flop
+Seat 5: NOEXITNO folded before Flop (didn't bet)
+Seat 6: Varle84 collected (33000)
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 folded before Flop (didn't bet)
+
+PokerStars Hand #251207230533: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:46:08 UTC [2024/06/26 16:46:08 ET]
+Table '3767885527 63' 8-max Seat #3 is the button
+Seat 1: T3RSS1 (133590 in chips) 
+Seat 2: Giginis (353739 in chips) 
+Seat 3: MaCheCazzoFai (145581 in chips) 
+Seat 4: BorIska1993 (109724 in chips) 
+Seat 5: NOEXITNO (69020 in chips) 
+Seat 6: Varle84 (111448 in chips) 
+Seat 7: VICTOR TXR1 (120497 in chips) 
+Seat 8: Snoopy95_2.0 (98559 in chips) 
+T3RSS1: posts the ante 875
+Giginis: posts the ante 875
+MaCheCazzoFai: posts the ante 875
+BorIska1993: posts the ante 875
+NOEXITNO: posts the ante 875
+Varle84: posts the ante 875
+VICTOR TXR1: posts the ante 875
+Snoopy95_2.0: posts the ante 875
+BorIska1993: posts small blind 3500
+NOEXITNO: posts big blind 7000
+*** HOLE CARDS ***
+Varle84: folds 
+VICTOR TXR1: folds 
+Snoopy95_2.0: folds 
+T3RSS1: raises 125715 to 132715 and is all-in
+Giginis: folds 
+MaCheCazzoFai: folds 
+BorIska1993: calls 105349 and is all-in
+NOEXITNO: calls 61145 and is all-in
+Uncalled bet (23866) returned to T3RSS1
+*** FLOP *** [Kh 3c 6c]
+*** TURN *** [Kh 3c 6c] [3h]
+*** RIVER *** [Kh 3c 6c 3h] [Ts]
+*** SHOW DOWN ***
+BorIska1993: shows [8c 8d] (two pair, Eights and Threes)
+T3RSS1: shows [Ad Kc] (two pair, Kings and Threes)
+T3RSS1 collected 81408 from side pot
+NOEXITNO: shows [Jd Jc] (two pair, Jacks and Threes)
+T3RSS1 collected 211435 from main pot
+BorIska1993 finished the tournament in 213th place and received $115.10.
+NOEXITNO finished the tournament in 214th place and received $115.10.
+*** SUMMARY ***
+Total pot 292843 Main pot 211435. Side pot 81408. | Rake 0 
+Board [Kh 3c 6c 3h Ts]
+Seat 1: T3RSS1 showed [Ad Kc] and won (292843) with two pair, Kings and Threes
+Seat 2: Giginis folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai (button) folded before Flop (didn't bet)
+Seat 4: BorIska1993 (small blind) showed [8c 8d] and lost with two pair, Eights and Threes
+Seat 5: NOEXITNO (big blind) showed [Jd Jc] and lost with two pair, Jacks and Threes
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 folded before Flop (didn't bet)
+
+PokerStars Hand #251207242317: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:46:51 UTC [2024/06/26 16:46:51 ET]
+Table '3767885527 63' 8-max Seat #6 is the button
+Seat 1: T3RSS1 (316709 in chips) 
+Seat 2: Giginis (352864 in chips) 
+Seat 3: MaCheCazzoFai (144706 in chips) 
+Seat 6: Varle84 (110573 in chips) 
+Seat 7: VICTOR TXR1 (119622 in chips) 
+Seat 8: Snoopy95_2.0 (97684 in chips) 
+T3RSS1: posts the ante 875
+Giginis: posts the ante 875
+MaCheCazzoFai: posts the ante 875
+Varle84: posts the ante 875
+VICTOR TXR1: posts the ante 875
+Snoopy95_2.0: posts the ante 875
+VICTOR TXR1: posts small blind 3500
+Snoopy95_2.0: posts big blind 7000
+*** HOLE CARDS ***
+T3RSS1: folds 
+Billionai8 is disconnected 
+Giginis: raises 7000 to 14000
+MaCheCazzoFai: folds 
+Varle84: folds 
+VICTOR TXR1: folds 
+Snoopy95_2.0: folds 
+Uncalled bet (7000) returned to Giginis
+Giginis collected 22750 from pot
+*** SUMMARY ***
+Total pot 22750 | Rake 0 
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: Giginis collected (22750)
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 6: Varle84 (button) folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 (small blind) folded before Flop
+Seat 8: Snoopy95_2.0 (big blind) folded before Flop
+
+PokerStars Hand #251207250608: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:47:21 UTC [2024/06/26 16:47:21 ET]
+Table '3767885527 63' 8-max Seat #7 is the button
+Seat 1: T3RSS1 (315834 in chips) 
+Seat 2: Giginis (367739 in chips) 
+Seat 3: MaCheCazzoFai (143831 in chips) 
+Seat 4: Billionai8 (474062 in chips) 
+Seat 6: Varle84 (109698 in chips) 
+Seat 7: VICTOR TXR1 (115247 in chips) 
+Seat 8: Snoopy95_2.0 (89809 in chips) 
+T3RSS1: posts the ante 875
+Giginis: posts the ante 875
+MaCheCazzoFai: posts the ante 875
+Billionai8: posts the ante 875
+Varle84: posts the ante 875
+VICTOR TXR1: posts the ante 875
+Snoopy95_2.0: posts the ante 875
+Snoopy95_2.0: posts small blind 3500
+T3RSS1: posts big blind 7000
+*** HOLE CARDS ***
+Giginis: folds 
+MaCheCazzoFai: folds 
+Billionai8: raises 7000 to 14000
+Varle84: raises 94823 to 108823 and is all-in
+VICTOR TXR1: folds 
+Snoopy95_2.0: folds 
+T3RSS1: folds 
+Billionai8: folds 
+Uncalled bet (94823) returned to Varle84
+Varle84 collected 44625 from pot
+*** SUMMARY ***
+Total pot 44625 | Rake 0 
+Seat 1: T3RSS1 (big blind) folded before Flop
+Seat 2: Giginis folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: Billionai8 folded before Flop
+Seat 6: Varle84 collected (44625)
+Seat 7: VICTOR TXR1 (button) folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 (small blind) folded before Flop
+
+PokerStars Hand #251207258684: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:47:50 UTC [2024/06/26 16:47:50 ET]
+Table '3767885527 63' 8-max Seat #8 is the button
+Seat 1: T3RSS1 (307959 in chips) 
+Seat 2: Giginis (366864 in chips) 
+Seat 3: MaCheCazzoFai (142956 in chips) 
+Seat 4: Billionai8 (459187 in chips) 
+Seat 6: Varle84 (139448 in chips) 
+Seat 7: VICTOR TXR1 (114372 in chips) 
+Seat 8: Snoopy95_2.0 (85434 in chips) 
+T3RSS1: posts the ante 875
+Giginis: posts the ante 875
+MaCheCazzoFai: posts the ante 875
+Billionai8: posts the ante 875
+Varle84: posts the ante 875
+VICTOR TXR1: posts the ante 875
+Snoopy95_2.0: posts the ante 875
+T3RSS1: posts small blind 3500
+Giginis: posts big blind 7000
+*** HOLE CARDS ***
+MaCheCazzoFai: folds 
+Billionai8: folds 
+Varle84: raises 7000 to 14000
+VICTOR TXR1: folds 
+Snoopy95_2.0: folds 
+T3RSS1: folds 
+Giginis: calls 7000
+*** FLOP *** [8s 7d 6h]
+Giginis: checks 
+Varle84: bets 25200
+Giginis: folds 
+Uncalled bet (25200) returned to Varle84
+Varle84 collected 37625 from pot
+*** SUMMARY ***
+Total pot 37625 | Rake 0 
+Board [8s 7d 6h]
+Seat 1: T3RSS1 (small blind) folded before Flop
+Seat 2: Giginis (big blind) folded on the Flop
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 6: Varle84 collected (37625)
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207277085: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:48:57 UTC [2024/06/26 16:48:57 ET]
+Table '3767885527 63' 8-max Seat #1 is the button
+Seat 1: T3RSS1 (303584 in chips) 
+Seat 2: Giginis (351989 in chips) 
+Seat 3: MaCheCazzoFai (142081 in chips) 
+Seat 4: Billionai8 (458312 in chips) 
+Seat 6: Varle84 (162198 in chips) 
+Seat 7: VICTOR TXR1 (113497 in chips) 
+Seat 8: Snoopy95_2.0 (84559 in chips) 
+T3RSS1: posts the ante 875
+Giginis: posts the ante 875
+MaCheCazzoFai: posts the ante 875
+Billionai8: posts the ante 875
+Varle84: posts the ante 875
+VICTOR TXR1: posts the ante 875
+Snoopy95_2.0: posts the ante 875
+Giginis: posts small blind 3500
+MaCheCazzoFai: posts big blind 7000
+*** HOLE CARDS ***
+Billionai8: raises 7000 to 14000
+Varle84: folds 
+VICTOR TXR1: folds 
+Snoopy95_2.0: folds 
+T3RSS1: folds 
+Giginis: folds 
+MaCheCazzoFai: raises 127206 to 141206 and is all-in
+Billionai8: calls 127206
+*** FLOP *** [4h Ks Qh]
+*** TURN *** [4h Ks Qh] [2s]
+*** RIVER *** [4h Ks Qh 2s] [7h]
+*** SHOW DOWN ***
+MaCheCazzoFai: shows [Kd Ah] (a pair of Kings)
+Billionai8: shows [3d 3s] (a pair of Threes)
+MaCheCazzoFai collected 292037 from pot
+*** SUMMARY ***
+Total pot 292037 | Rake 0 
+Board [4h Ks Qh 2s 7h]
+Seat 1: T3RSS1 (button) folded before Flop (didn't bet)
+Seat 2: Giginis (small blind) folded before Flop
+Seat 3: MaCheCazzoFai (big blind) showed [Kd Ah] and won (292037) with a pair of Kings
+Seat 4: Billionai8 showed [3d 3s] and lost with a pair of Threes
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 folded before Flop (didn't bet)
+
+PokerStars Hand #251207286056: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:49:30 UTC [2024/06/26 16:49:30 ET]
+Table '3767885527 63' 8-max Seat #2 is the button
+Seat 1: T3RSS1 (302709 in chips) 
+Seat 2: Giginis (347614 in chips) 
+Seat 3: MaCheCazzoFai (292037 in chips) 
+Seat 4: Billionai8 (316231 in chips) 
+Seat 5: Joes38 (228746 in chips) 
+Seat 6: Varle84 (161323 in chips) 
+Seat 7: VICTOR TXR1 (112622 in chips) 
+Seat 8: Snoopy95_2.0 (83684 in chips) 
+T3RSS1: posts the ante 875
+Giginis: posts the ante 875
+MaCheCazzoFai: posts the ante 875
+Billionai8: posts the ante 875
+Joes38: posts the ante 875
+Varle84: posts the ante 875
+VICTOR TXR1: posts the ante 875
+Snoopy95_2.0: posts the ante 875
+MaCheCazzoFai: posts small blind 3500
+Billionai8: posts big blind 7000
+*** HOLE CARDS ***
+Joes38: folds 
+Varle84: folds 
+VICTOR TXR1: folds 
+Snoopy95_2.0: folds 
+T3RSS1: folds 
+Giginis: raises 7000 to 14000
+MaCheCazzoFai: raises 42000 to 56000
+Billionai8: folds 
+Giginis: folds 
+Uncalled bet (42000) returned to MaCheCazzoFai
+MaCheCazzoFai collected 42000 from pot
+MaCheCazzoFai: doesn't show hand 
+*** SUMMARY ***
+Total pot 42000 | Rake 0 
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: Giginis (button) folded before Flop
+Seat 3: MaCheCazzoFai (small blind) collected (42000)
+Seat 4: Billionai8 (big blind) folded before Flop
+Seat 5: Joes38 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 folded before Flop (didn't bet)
+
+PokerStars Hand #251207294998: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:50:03 UTC [2024/06/26 16:50:03 ET]
+Table '3767885527 63' 8-max Seat #3 is the button
+Seat 1: T3RSS1 (301834 in chips) 
+Seat 2: Giginis (332739 in chips) 
+Seat 3: MaCheCazzoFai (319162 in chips) 
+Seat 4: Billionai8 (308356 in chips) 
+Seat 5: Joes38 (227871 in chips) 
+Seat 6: Varle84 (160448 in chips) 
+Seat 7: VICTOR TXR1 (111747 in chips) 
+Seat 8: Snoopy95_2.0 (82809 in chips) 
+T3RSS1: posts the ante 875
+Giginis: posts the ante 875
+MaCheCazzoFai: posts the ante 875
+Billionai8: posts the ante 875
+Joes38: posts the ante 875
+Varle84: posts the ante 875
+VICTOR TXR1: posts the ante 875
+Snoopy95_2.0: posts the ante 875
+Billionai8: posts small blind 3500
+Joes38: posts big blind 7000
+*** HOLE CARDS ***
+Varle84: folds 
+VICTOR TXR1: folds 
+Snoopy95_2.0: folds 
+T3RSS1: raises 7000 to 14000
+Giginis: folds 
+MaCheCazzoFai: folds 
+Billionai8: folds 
+Joes38: folds 
+Uncalled bet (7000) returned to T3RSS1
+T3RSS1 collected 24500 from pot
+*** SUMMARY ***
+Total pot 24500 | Rake 0 
+Seat 1: T3RSS1 collected (24500)
+Seat 2: Giginis folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai (button) folded before Flop (didn't bet)
+Seat 4: Billionai8 (small blind) folded before Flop
+Seat 5: Joes38 (big blind) folded before Flop
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 folded before Flop (didn't bet)
+
+PokerStars Hand #251207302119: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:50:29 UTC [2024/06/26 16:50:29 ET]
+Table '3767885527 63' 8-max Seat #4 is the button
+Seat 1: T3RSS1 (318459 in chips) 
+Seat 3: MaCheCazzoFai (318287 in chips) 
+Seat 4: Billionai8 (303981 in chips) 
+Seat 5: Joes38 (219996 in chips) 
+Seat 6: Varle84 (159573 in chips) 
+Seat 7: VICTOR TXR1 (110872 in chips) 
+Seat 8: Snoopy95_2.0 (81934 in chips) 
+T3RSS1: posts the ante 875
+MaCheCazzoFai: posts the ante 875
+Billionai8: posts the ante 875
+Joes38: posts the ante 875
+Varle84: posts the ante 875
+VICTOR TXR1: posts the ante 875
+Snoopy95_2.0: posts the ante 875
+Joes38: posts small blind 3500
+Varle84: posts big blind 7000
+*** HOLE CARDS ***
+VICTOR TXR1: folds 
+Snoopy95_2.0: folds 
+T3RSS1: folds 
+MaCheCazzoFai: folds 
+Billionai8: folds 
+Joes38: folds 
+Uncalled bet (3500) returned to Varle84
+Varle84 collected 13125 from pot
+*** SUMMARY ***
+Total pot 13125 | Rake 0 
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: Billionai8 (button) folded before Flop (didn't bet)
+Seat 5: Joes38 (small blind) folded before Flop
+Seat 6: Varle84 (big blind) collected (13125)
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: Snoopy95_2.0 folded before Flop (didn't bet)
+
+PokerStars Hand #251207305894: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:50:43 UTC [2024/06/26 16:50:43 ET]
+Table '3767885527 63' 8-max Seat #5 is the button
+Seat 1: T3RSS1 (317584 in chips) 
+Seat 3: MaCheCazzoFai (317412 in chips) 
+Seat 4: Billionai8 (303106 in chips) 
+Seat 5: Joes38 (215621 in chips) 
+Seat 6: Varle84 (168323 in chips) 
+Seat 7: VICTOR TXR1 (109997 in chips) 
+Seat 8: Snoopy95_2.0 (81059 in chips) 
+T3RSS1: posts the ante 875
+MaCheCazzoFai: posts the ante 875
+Billionai8: posts the ante 875
+Joes38: posts the ante 875
+Varle84: posts the ante 875
+VICTOR TXR1: posts the ante 875
+Snoopy95_2.0: posts the ante 875
+Varle84: posts small blind 3500
+VICTOR TXR1: posts big blind 7000
+*** HOLE CARDS ***
+Snoopy95_2.0: folds 
+T3RSS1: raises 7000 to 14000
+MaCheCazzoFai: raises 28000 to 42000
+Billionai8: folds 
+Joes38: folds 
+Varle84: folds 
+VICTOR TXR1: folds 
+T3RSS1: folds 
+Uncalled bet (28000) returned to MaCheCazzoFai
+gibbo888 is disconnected 
+MaCheCazzoFai collected 44625 from pot
+MaCheCazzoFai: doesn't show hand 
+*** SUMMARY ***
+Total pot 44625 | Rake 0 
+Seat 1: T3RSS1 folded before Flop
+Seat 3: MaCheCazzoFai collected (44625)
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 5: Joes38 (button) folded before Flop (didn't bet)
+Seat 6: Varle84 (small blind) folded before Flop
+Seat 7: VICTOR TXR1 (big blind) folded before Flop
+Seat 8: Snoopy95_2.0 folded before Flop (didn't bet)
+
+PokerStars Hand #251207311364: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:51:03 UTC [2024/06/26 16:51:03 ET]
+Table '3767885527 63' 8-max Seat #6 is the button
+Seat 1: T3RSS1 (302709 in chips) 
+Seat 2: gibbo888 (274749 in chips) 
+Seat 3: MaCheCazzoFai (347162 in chips) 
+Seat 4: Billionai8 (302231 in chips) 
+Seat 5: Joes38 (214746 in chips) 
+Seat 6: Varle84 (163948 in chips) 
+Seat 7: VICTOR TXR1 (102122 in chips) 
+Seat 8: Snoopy95_2.0 (80184 in chips) 
+T3RSS1: posts the ante 875
+gibbo888: posts the ante 875
+MaCheCazzoFai: posts the ante 875
+Billionai8: posts the ante 875
+Joes38: posts the ante 875
+Varle84: posts the ante 875
+VICTOR TXR1: posts the ante 875
+Snoopy95_2.0: posts the ante 875
+VICTOR TXR1: posts small blind 3500
+Snoopy95_2.0: posts big blind 7000
+*** HOLE CARDS ***
+T3RSS1 is disconnected 
+T3RSS1 is connected 
+T3RSS1 is disconnected 
+T3RSS1 is connected 
+T3RSS1: raises 7700 to 14700
+gibbo888: folds 
+MaCheCazzoFai: folds 
+Billionai8: folds 
+Joes38: folds 
+Varle84: folds 
+VICTOR TXR1: folds 
+Snoopy95_2.0: calls 7700
+*** FLOP *** [3h Ac 5h]
+Snoopy95_2.0: checks 
+T3RSS1: bets 20349
+Snoopy95_2.0: raises 44260 to 64609 and is all-in
+T3RSS1: calls 44260
+*** TURN *** [3h Ac 5h] [9c]
+*** RIVER *** [3h Ac 5h 9c] [7h]
+*** SHOW DOWN ***
+Snoopy95_2.0: shows [4c 5d] (a pair of Fives)
+T3RSS1: shows [Ad Qc] (a pair of Aces)
+T3RSS1 collected 169118 from pot
+Snoopy95_2.0 finished the tournament in 196th place and received $115.10.
+*** SUMMARY ***
+Total pot 169118 | Rake 0 
+Board [3h Ac 5h 9c 7h]
+Seat 1: T3RSS1 showed [Ad Qc] and won (169118) with a pair of Aces
+Seat 2: gibbo888 folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 5: Joes38 folded before Flop (didn't bet)
+Seat 6: Varle84 (button) folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 (small blind) folded before Flop
+Seat 8: Snoopy95_2.0 (big blind) showed [4c 5d] and lost with a pair of Fives
+
+PokerStars Hand #251207323587: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:51:48 UTC [2024/06/26 16:51:48 ET]
+Table '3767885527 63' 8-max Seat #7 is the button
+Seat 1: T3RSS1 (391643 in chips) 
+Seat 2: gibbo888 (273874 in chips) 
+Seat 3: MaCheCazzoFai (346287 in chips) 
+Seat 4: Billionai8 (301356 in chips) 
+Seat 5: Joes38 (213871 in chips) 
+Seat 6: Varle84 (163073 in chips) 
+Seat 7: VICTOR TXR1 (97747 in chips) 
+T3RSS1: posts the ante 875
+gibbo888: posts the ante 875
+MaCheCazzoFai: posts the ante 875
+Billionai8: posts the ante 875
+Joes38: posts the ante 875
+Varle84: posts the ante 875
+VICTOR TXR1: posts the ante 875
+T3RSS1: posts small blind 3500
+gibbo888: posts big blind 7000
+*** HOLE CARDS ***
+MaCheCazzoFai: folds 
+Billionai8: folds 
+Joes38: folds 
+Varle84: raises 7000 to 14000
+VICTOR TXR1: folds 
+T3RSS1: folds 
+gibbo888: calls 7000
+*** FLOP *** [8h 2c Qd]
+gibbo888: checks 
+Varle84: bets 11620
+GuyFromGipsy is disconnected 
+gibbo888: raises 19880 to 31500
+Varle84: calls 19880
+*** TURN *** [8h 2c Qd] [8s]
+gibbo888: checks 
+Varle84: bets 22680
+gibbo888: folds 
+Uncalled bet (22680) returned to Varle84
+Varle84 collected 100625 from pot
+*** SUMMARY ***
+Total pot 100625 | Rake 0 
+Board [8h 2c Qd 8s]
+Seat 1: T3RSS1 (small blind) folded before Flop
+Seat 2: gibbo888 (big blind) folded on the Turn
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 5: Joes38 folded before Flop (didn't bet)
+Seat 6: Varle84 collected (100625)
+Seat 7: VICTOR TXR1 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207343174: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:53:01 UTC [2024/06/26 16:53:01 ET]
+Table '3767885527 63' 8-max Seat #1 is the button
+Seat 1: T3RSS1 (387268 in chips) 
+Seat 2: gibbo888 (227499 in chips) 
+Seat 3: MaCheCazzoFai (345412 in chips) 
+Seat 4: Billionai8 (300481 in chips) 
+Seat 5: Joes38 (212996 in chips) 
+Seat 6: Varle84 (217323 in chips) 
+Seat 7: VICTOR TXR1 (96872 in chips) 
+Seat 8: GuyFromGipsy (228893 in chips) 
+T3RSS1: posts the ante 875
+gibbo888: posts the ante 875
+MaCheCazzoFai: posts the ante 875
+Billionai8: posts the ante 875
+Joes38: posts the ante 875
+Varle84: posts the ante 875
+VICTOR TXR1: posts the ante 875
+GuyFromGipsy: posts the ante 875
+gibbo888: posts small blind 3500
+MaCheCazzoFai: posts big blind 7000
+*** HOLE CARDS ***
+Billionai8: folds 
+Joes38: folds 
+Varle84: folds 
+VICTOR TXR1: folds 
+GuyFromGipsy: folds 
+T3RSS1: raises 7700 to 14700
+gibbo888: folds 
+MaCheCazzoFai: calls 7700
+*** FLOP *** [Qc 5c Ac]
+MaCheCazzoFai: checks 
+T3RSS1: bets 13167
+MaCheCazzoFai: raises 16559 to 29726
+T3RSS1: calls 16559
+*** TURN *** [Qc 5c Ac] [Jc]
+MaCheCazzoFai: checks 
+T3RSS1: checks 
+*** RIVER *** [Qc 5c Ac Jc] [Td]
+MaCheCazzoFai: checks 
+T3RSS1: checks 
+*** SHOW DOWN ***
+MaCheCazzoFai: shows [Kc 6c] (a flush, Ace high)
+T3RSS1: mucks hand 
+MaCheCazzoFai collected 99352 from pot
+*** SUMMARY ***
+Total pot 99352 | Rake 0 
+Board [Qc 5c Ac Jc Td]
+Seat 1: T3RSS1 (button) mucked
+Seat 2: gibbo888 (small blind) folded before Flop
+Seat 3: MaCheCazzoFai (big blind) showed [Kc 6c] and won (99352) with a flush, Ace high
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 5: Joes38 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: GuyFromGipsy folded before Flop (didn't bet)
+
+PokerStars Hand #251207361275: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:54:09 UTC [2024/06/26 16:54:09 ET]
+Table '3767885527 63' 8-max Seat #2 is the button
+Seat 1: T3RSS1 (341967 in chips) 
+Seat 2: gibbo888 (223124 in chips) 
+Seat 3: MaCheCazzoFai (399463 in chips) 
+Seat 4: Billionai8 (299606 in chips) 
+Seat 5: Joes38 (212121 in chips) 
+Seat 6: Varle84 (216448 in chips) 
+Seat 7: VICTOR TXR1 (95997 in chips) 
+Seat 8: GuyFromGipsy (228018 in chips) 
+T3RSS1: posts the ante 875
+gibbo888: posts the ante 875
+MaCheCazzoFai: posts the ante 875
+Billionai8: posts the ante 875
+Joes38: posts the ante 875
+Varle84: posts the ante 875
+VICTOR TXR1: posts the ante 875
+GuyFromGipsy: posts the ante 875
+MaCheCazzoFai: posts small blind 3500
+Billionai8: posts big blind 7000
+*** HOLE CARDS ***
+Joes38: raises 8400 to 15400
+Varle84: folds 
+VICTOR TXR1: folds 
+GuyFromGipsy: folds 
+T3RSS1: folds 
+gibbo888: folds 
+MaCheCazzoFai: folds 
+Billionai8: folds 
+Uncalled bet (8400) returned to Joes38
+Joes38 collected 24500 from pot
+*** SUMMARY ***
+Total pot 24500 | Rake 0 
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: gibbo888 (button) folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai (small blind) folded before Flop
+Seat 4: Billionai8 (big blind) folded before Flop
+Seat 5: Joes38 collected (24500)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: GuyFromGipsy folded before Flop (didn't bet)
+
+PokerStars Hand #251207367304: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:54:32 UTC [2024/06/26 16:54:32 ET]
+Table '3767885527 63' 8-max Seat #3 is the button
+Seat 1: T3RSS1 (341092 in chips) 
+Seat 2: gibbo888 (222249 in chips) 
+Seat 3: MaCheCazzoFai (395088 in chips) 
+Seat 4: Billionai8 (291731 in chips) 
+Seat 5: Joes38 (228746 in chips) 
+Seat 6: Varle84 (215573 in chips) 
+Seat 7: VICTOR TXR1 (95122 in chips) 
+Seat 8: GuyFromGipsy (227143 in chips) 
+T3RSS1: posts the ante 875
+gibbo888: posts the ante 875
+MaCheCazzoFai: posts the ante 875
+Billionai8: posts the ante 875
+Joes38: posts the ante 875
+Varle84: posts the ante 875
+VICTOR TXR1: posts the ante 875
+GuyFromGipsy: posts the ante 875
+Billionai8: posts small blind 3500
+Joes38: posts big blind 7000
+*** HOLE CARDS ***
+Varle84: raises 7000 to 14000
+VICTOR TXR1: folds 
+GuyFromGipsy: folds 
+T3RSS1: folds 
+gibbo888: folds 
+MaCheCazzoFai: folds 
+Billionai8: folds 
+Joes38: folds 
+Uncalled bet (7000) returned to Varle84
+Varle84 collected 24500 from pot
+*** SUMMARY ***
+Total pot 24500 | Rake 0 
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: gibbo888 folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai (button) folded before Flop (didn't bet)
+Seat 4: Billionai8 (small blind) folded before Flop
+Seat 5: Joes38 (big blind) folded before Flop
+Seat 6: Varle84 collected (24500)
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: GuyFromGipsy folded before Flop (didn't bet)
+
+PokerStars Hand #251207373646: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 20:54:55 UTC [2024/06/26 16:54:55 ET]
+Table '3767885527 63' 8-max Seat #4 is the button
+Seat 1: T3RSS1 (340217 in chips) 
+Seat 2: gibbo888 (221374 in chips) 
+Seat 3: MaCheCazzoFai (394213 in chips) 
+Seat 4: Billionai8 (287356 in chips) 
+Seat 5: Joes38 (220871 in chips) 
+Seat 6: Varle84 (232198 in chips) 
+Seat 7: VICTOR TXR1 (94247 in chips) 
+Seat 8: GuyFromGipsy (226268 in chips) 
+T3RSS1: posts the ante 875
+gibbo888: posts the ante 875
+MaCheCazzoFai: posts the ante 875
+Billionai8: posts the ante 875
+Joes38: posts the ante 875
+Varle84: posts the ante 875
+VICTOR TXR1: posts the ante 875
+GuyFromGipsy: posts the ante 875
+Joes38: posts small blind 3500
+Varle84: posts big blind 7000
+*** HOLE CARDS ***
+VICTOR TXR1: folds 
+GuyFromGipsy: folds 
+T3RSS1: folds 
+gibbo888: raises 7000 to 14000
+MaCheCazzoFai: folds 
+Billionai8: raises 28000 to 42000
+Joes38: folds 
+Varle84: folds 
+gibbo888: calls 28000
+*** FLOP *** [5d 8s 4d]
+gibbo888: checks 
+Billionai8: checks 
+*** TURN *** [5d 8s 4d] [Td]
+gibbo888: checks 
+Billionai8: checks 
+*** RIVER *** [5d 8s 4d Td] [Js]
+gibbo888: checks 
+Billionai8: checks 
+*** SHOW DOWN ***
+gibbo888: shows [Qd Kc] (high card King)
+Billionai8: shows [4h Kh] (a pair of Fours)
+Billionai8 collected 101500 from pot
+*** SUMMARY ***
+Total pot 101500 | Rake 0 
+Board [5d 8s 4d Td Js]
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: gibbo888 showed [Qd Kc] and lost with high card King
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: Billionai8 (button) showed [4h Kh] and won (101500) with a pair of Fours
+Seat 5: Joes38 (small blind) folded before Flop
+Seat 6: Varle84 (big blind) folded before Flop
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: GuyFromGipsy folded before Flop (didn't bet)
+
+PokerStars Hand #251207474919: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 21:02:48 UTC [2024/06/26 17:02:48 ET]
+Table '3767885527 63' 8-max Seat #5 is the button
+Seat 1: T3RSS1 (339342 in chips) 
+Seat 2: gibbo888 (178499 in chips) 
+Seat 3: MaCheCazzoFai (393338 in chips) 
+Seat 4: Billionai8 (345981 in chips) 
+Seat 5: Joes38 (216496 in chips) 
+Seat 6: Varle84 (224323 in chips) 
+Seat 7: VICTOR TXR1 (93372 in chips) 
+Seat 8: GuyFromGipsy (225393 in chips) 
+T3RSS1: posts the ante 875
+gibbo888: posts the ante 875
+MaCheCazzoFai: posts the ante 875
+Billionai8: posts the ante 875
+Joes38: posts the ante 875
+Varle84: posts the ante 875
+VICTOR TXR1: posts the ante 875
+GuyFromGipsy: posts the ante 875
+Varle84: posts small blind 3500
+VICTOR TXR1: posts big blind 7000
+*** HOLE CARDS ***
+GuyFromGipsy: folds 
+T3RSS1: folds 
+gibbo888: raises 7000 to 14000
+MaCheCazzoFai: folds 
+Billionai8: folds 
+Joes38: folds 
+Varle84: folds 
+VICTOR TXR1: folds 
+Uncalled bet (7000) returned to gibbo888
+gibbo888 collected 24500 from pot
+*** SUMMARY ***
+Total pot 24500 | Rake 0 
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: gibbo888 collected (24500)
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 5: Joes38 (button) folded before Flop (didn't bet)
+Seat 6: Varle84 (small blind) folded before Flop
+Seat 7: VICTOR TXR1 (big blind) folded before Flop
+Seat 8: GuyFromGipsy folded before Flop (didn't bet)
+
+PokerStars Hand #251207480591: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXI (3500/7000) - 2024/06/26 21:03:09 UTC [2024/06/26 17:03:09 ET]
+Table '3767885527 63' 8-max Seat #6 is the button
+Seat 1: T3RSS1 (338467 in chips) 
+Seat 2: gibbo888 (195124 in chips) 
+Seat 3: MaCheCazzoFai (392463 in chips) 
+Seat 4: Billionai8 (345106 in chips) 
+Seat 5: Joes38 (215621 in chips) 
+Seat 6: Varle84 (219948 in chips) 
+Seat 7: VICTOR TXR1 (85497 in chips) 
+Seat 8: GuyFromGipsy (224518 in chips) 
+T3RSS1: posts the ante 875
+gibbo888: posts the ante 875
+MaCheCazzoFai: posts the ante 875
+Billionai8: posts the ante 875
+Joes38: posts the ante 875
+Varle84: posts the ante 875
+VICTOR TXR1: posts the ante 875
+GuyFromGipsy: posts the ante 875
+VICTOR TXR1: posts small blind 3500
+GuyFromGipsy: posts big blind 7000
+*** HOLE CARDS ***
+T3RSS1: folds 
+gibbo888: folds 
+MaCheCazzoFai: folds 
+Billionai8: folds 
+Joes38: folds 
+Varle84: folds 
+VICTOR TXR1: calls 3500
+GuyFromGipsy: raises 216643 to 223643 and is all-in
+VICTOR TXR1: folds 
+Uncalled bet (216643) returned to GuyFromGipsy
+GuyFromGipsy collected 21000 from pot
+GuyFromGipsy: doesn't show hand 
+*** SUMMARY ***
+Total pot 21000 | Rake 0 
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: gibbo888 folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 5: Joes38 folded before Flop (didn't bet)
+Seat 6: Varle84 (button) folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 (small blind) folded before Flop
+Seat 8: GuyFromGipsy (big blind) collected (21000)
+
+PokerStars Hand #251207500261: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXII (4000/8000) - 2024/06/26 21:04:21 UTC [2024/06/26 17:04:21 ET]
+Table '3767885527 63' 8-max Seat #7 is the button
+Seat 1: T3RSS1 (337592 in chips) 
+Seat 2: gibbo888 (194249 in chips) 
+Seat 3: MaCheCazzoFai (391588 in chips) 
+Seat 4: Billionai8 (344231 in chips) 
+Seat 5: Joes38 (214746 in chips) 
+Seat 6: Varle84 (219073 in chips) 
+Seat 7: VICTOR TXR1 (77622 in chips) 
+Seat 8: GuyFromGipsy (237643 in chips) 
+T3RSS1: posts the ante 1000
+gibbo888: posts the ante 1000
+MaCheCazzoFai: posts the ante 1000
+Billionai8: posts the ante 1000
+Joes38: posts the ante 1000
+Varle84: posts the ante 1000
+VICTOR TXR1: posts the ante 1000
+GuyFromGipsy: posts the ante 1000
+GuyFromGipsy: posts small blind 4000
+T3RSS1: posts big blind 8000
+*** HOLE CARDS ***
+gibbo888: folds 
+MaCheCazzoFai: folds 
+Billionai8: folds 
+Joes38: folds 
+Varle84: raises 8000 to 16000
+VICTOR TXR1: folds 
+GuyFromGipsy: raises 32000 to 48000
+T3RSS1: folds 
+Varle84: folds 
+Uncalled bet (32000) returned to GuyFromGipsy
+GuyFromGipsy collected 48000 from pot
+GuyFromGipsy: doesn't show hand 
+*** SUMMARY ***
+Total pot 48000 | Rake 0 
+Seat 1: T3RSS1 (big blind) folded before Flop
+Seat 2: gibbo888 folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 5: Joes38 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop
+Seat 7: VICTOR TXR1 (button) folded before Flop (didn't bet)
+Seat 8: GuyFromGipsy (small blind) collected (48000)
+
+PokerStars Hand #251207512232: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXII (4000/8000) - 2024/06/26 21:05:06 UTC [2024/06/26 17:05:06 ET]
+Table '3767885527 63' 8-max Seat #8 is the button
+Seat 1: T3RSS1 (328592 in chips) 
+Seat 2: gibbo888 (193249 in chips) 
+Seat 3: MaCheCazzoFai (390588 in chips) 
+Seat 4: Billionai8 (343231 in chips) 
+Seat 5: Joes38 (213746 in chips) 
+Seat 6: Varle84 (202073 in chips) 
+Seat 7: VICTOR TXR1 (76622 in chips) 
+Seat 8: GuyFromGipsy (268643 in chips) 
+T3RSS1: posts the ante 1000
+gibbo888: posts the ante 1000
+MaCheCazzoFai: posts the ante 1000
+Billionai8: posts the ante 1000
+Joes38: posts the ante 1000
+Varle84: posts the ante 1000
+VICTOR TXR1: posts the ante 1000
+GuyFromGipsy: posts the ante 1000
+T3RSS1: posts small blind 4000
+gibbo888: posts big blind 8000
+*** HOLE CARDS ***
+MaCheCazzoFai: raises 8000 to 16000
+Billionai8: folds 
+Joes38: folds 
+Varle84: folds 
+VICTOR TXR1: folds 
+GuyFromGipsy: folds 
+T3RSS1: folds 
+gibbo888: folds 
+Uncalled bet (8000) returned to MaCheCazzoFai
+MaCheCazzoFai collected 28000 from pot
+MaCheCazzoFai: doesn't show hand 
+*** SUMMARY ***
+Total pot 28000 | Rake 0 
+Seat 1: T3RSS1 (small blind) folded before Flop
+Seat 2: gibbo888 (big blind) folded before Flop
+Seat 3: MaCheCazzoFai collected (28000)
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 5: Joes38 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: GuyFromGipsy (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207523520: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXII (4000/8000) - 2024/06/26 21:05:43 UTC [2024/06/26 17:05:43 ET]
+Table '3767885527 63' 8-max Seat #1 is the button
+Seat 1: T3RSS1 (323592 in chips) 
+Seat 2: gibbo888 (184249 in chips) 
+Seat 3: MaCheCazzoFai (409588 in chips) 
+Seat 4: Billionai8 (342231 in chips) 
+Seat 6: Varle84 (201073 in chips) 
+Seat 7: VICTOR TXR1 (75622 in chips) 
+Seat 8: GuyFromGipsy (267643 in chips) 
+T3RSS1: posts the ante 1000
+gibbo888: posts the ante 1000
+MaCheCazzoFai: posts the ante 1000
+Billionai8: posts the ante 1000
+Varle84: posts the ante 1000
+VICTOR TXR1: posts the ante 1000
+GuyFromGipsy: posts the ante 1000
+gibbo888: posts small blind 4000
+MaCheCazzoFai: posts big blind 8000
+*** HOLE CARDS ***
+Billionai8: folds 
+Varle84: folds 
+Juicy_J_93 is disconnected 
+VICTOR TXR1: folds 
+GuyFromGipsy: folds 
+T3RSS1: folds 
+gibbo888: folds 
+Uncalled bet (4000) returned to MaCheCazzoFai
+MaCheCazzoFai collected 15000 from pot
+MaCheCazzoFai: doesn't show hand 
+*** SUMMARY ***
+Total pot 15000 | Rake 0 
+Seat 1: T3RSS1 (button) folded before Flop (didn't bet)
+Seat 2: gibbo888 (small blind) folded before Flop
+Seat 3: MaCheCazzoFai (big blind) collected (15000)
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: GuyFromGipsy folded before Flop (didn't bet)
+
+PokerStars Hand #251207530156: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXII (4000/8000) - 2024/06/26 21:06:05 UTC [2024/06/26 17:06:05 ET]
+Table '3767885527 63' 8-max Seat #2 is the button
+Seat 1: T3RSS1 (322592 in chips) 
+Seat 2: gibbo888 (179249 in chips) 
+Seat 3: MaCheCazzoFai (419588 in chips) 
+Seat 4: Billionai8 (341231 in chips) 
+Seat 5: Juicy_J_93 (166051 in chips) 
+Seat 6: Varle84 (200073 in chips) 
+Seat 7: VICTOR TXR1 (74622 in chips) 
+Seat 8: GuyFromGipsy (266643 in chips) 
+T3RSS1: posts the ante 1000
+gibbo888: posts the ante 1000
+MaCheCazzoFai: posts the ante 1000
+Billionai8: posts the ante 1000
+Juicy_J_93: posts the ante 1000
+Varle84: posts the ante 1000
+VICTOR TXR1: posts the ante 1000
+GuyFromGipsy: posts the ante 1000
+MaCheCazzoFai: posts small blind 4000
+Billionai8: posts big blind 8000
+*** HOLE CARDS ***
+Juicy_J_93: folds 
+Varle84: folds 
+VICTOR TXR1: folds 
+GuyFromGipsy: folds 
+T3RSS1: folds 
+gibbo888: folds 
+MaCheCazzoFai: calls 4000
+Billionai8: checks 
+*** FLOP *** [8d 9h 5h]
+MaCheCazzoFai: checks 
+Billionai8: checks 
+*** TURN *** [8d 9h 5h] [Qh]
+MaCheCazzoFai: bets 16000
+Billionai8: folds 
+Uncalled bet (16000) returned to MaCheCazzoFai
+MaCheCazzoFai collected 24000 from pot
+MaCheCazzoFai: doesn't show hand 
+*** SUMMARY ***
+Total pot 24000 | Rake 0 
+Board [8d 9h 5h Qh]
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: gibbo888 (button) folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai (small blind) collected (24000)
+Seat 4: Billionai8 (big blind) folded on the Turn
+Seat 5: Juicy_J_93 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: GuyFromGipsy folded before Flop (didn't bet)
+
+PokerStars Hand #251207543368: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXII (4000/8000) - 2024/06/26 21:06:49 UTC [2024/06/26 17:06:49 ET]
+Table '3767885527 63' 8-max Seat #3 is the button
+Seat 1: T3RSS1 (321592 in chips) 
+Seat 2: gibbo888 (178249 in chips) 
+Seat 3: MaCheCazzoFai (434588 in chips) 
+Seat 4: Billionai8 (332231 in chips) 
+Seat 5: Juicy_J_93 (165051 in chips) 
+Seat 6: Varle84 (199073 in chips) 
+Seat 7: VICTOR TXR1 (73622 in chips) 
+Seat 8: GuyFromGipsy (265643 in chips) 
+T3RSS1: posts the ante 1000
+gibbo888: posts the ante 1000
+MaCheCazzoFai: posts the ante 1000
+Billionai8: posts the ante 1000
+Juicy_J_93: posts the ante 1000
+Varle84: posts the ante 1000
+VICTOR TXR1: posts the ante 1000
+GuyFromGipsy: posts the ante 1000
+Billionai8: posts small blind 4000
+Juicy_J_93: posts big blind 8000
+*** HOLE CARDS ***
+Varle84: folds 
+VICTOR TXR1: folds 
+GuyFromGipsy: folds 
+T3RSS1: folds 
+gibbo888: folds 
+MaCheCazzoFai: folds 
+Billionai8: raises 323231 to 331231 and is all-in
+Juicy_J_93: folds 
+Uncalled bet (323231) returned to Billionai8
+Billionai8 collected 24000 from pot
+Billionai8: doesn't show hand 
+*** SUMMARY ***
+Total pot 24000 | Rake 0 
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: gibbo888 folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai (button) folded before Flop (didn't bet)
+Seat 4: Billionai8 (small blind) collected (24000)
+Seat 5: Juicy_J_93 (big blind) folded before Flop
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 folded before Flop (didn't bet)
+Seat 8: GuyFromGipsy folded before Flop (didn't bet)
+
+PokerStars Hand #251207552217: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXII (4000/8000) - 2024/06/26 21:07:19 UTC [2024/06/26 17:07:19 ET]
+Table '3767885527 63' 8-max Seat #4 is the button
+Seat 1: T3RSS1 (320592 in chips) 
+Seat 2: gibbo888 (177249 in chips) 
+Seat 3: MaCheCazzoFai (433588 in chips) 
+Seat 4: Billionai8 (347231 in chips) 
+Seat 5: Juicy_J_93 (156051 in chips) 
+Seat 6: Varle84 (198073 in chips) 
+Seat 7: VICTOR TXR1 (72622 in chips) 
+Seat 8: GuyFromGipsy (264643 in chips) 
+T3RSS1: posts the ante 1000
+gibbo888: posts the ante 1000
+MaCheCazzoFai: posts the ante 1000
+Billionai8: posts the ante 1000
+Juicy_J_93: posts the ante 1000
+Varle84: posts the ante 1000
+VICTOR TXR1: posts the ante 1000
+GuyFromGipsy: posts the ante 1000
+Juicy_J_93: posts small blind 4000
+Varle84: posts big blind 8000
+*** HOLE CARDS ***
+VICTOR TXR1: raises 63622 to 71622 and is all-in
+GuyFromGipsy: folds 
+T3RSS1: folds 
+gibbo888: folds 
+MaCheCazzoFai: folds 
+Billionai8: folds 
+Juicy_J_93: folds 
+Varle84: folds 
+Uncalled bet (63622) returned to VICTOR TXR1
+VICTOR TXR1 collected 28000 from pot
+VICTOR TXR1: doesn't show hand 
+*** SUMMARY ***
+Total pot 28000 | Rake 0 
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: gibbo888 folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: Billionai8 (button) folded before Flop (didn't bet)
+Seat 5: Juicy_J_93 (small blind) folded before Flop
+Seat 6: Varle84 (big blind) folded before Flop
+Seat 7: VICTOR TXR1 collected (28000)
+Seat 8: GuyFromGipsy folded before Flop (didn't bet)
+
+PokerStars Hand #251207562158: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXII (4000/8000) - 2024/06/26 21:07:52 UTC [2024/06/26 17:07:52 ET]
+Table '3767885527 63' 8-max Seat #5 is the button
+Seat 1: T3RSS1 (319592 in chips) 
+Seat 2: gibbo888 (176249 in chips) 
+Seat 3: MaCheCazzoFai (432588 in chips) 
+Seat 4: Billionai8 (346231 in chips) 
+Seat 5: Juicy_J_93 (151051 in chips) 
+Seat 6: Varle84 (189073 in chips) 
+Seat 7: VICTOR TXR1 (91622 in chips) 
+Seat 8: GuyFromGipsy (263643 in chips) 
+T3RSS1: posts the ante 1000
+gibbo888: posts the ante 1000
+MaCheCazzoFai: posts the ante 1000
+Billionai8: posts the ante 1000
+Juicy_J_93: posts the ante 1000
+Varle84: posts the ante 1000
+VICTOR TXR1: posts the ante 1000
+GuyFromGipsy: posts the ante 1000
+Varle84: posts small blind 4000
+VICTOR TXR1: posts big blind 8000
+*** HOLE CARDS ***
+GuyFromGipsy: folds 
+T3RSS1: folds 
+gibbo888: folds 
+MaCheCazzoFai: folds 
+Billionai8: folds 
+Juicy_J_93: raises 8000 to 16000
+Varle84: folds 
+VICTOR TXR1: folds 
+Uncalled bet (8000) returned to Juicy_J_93
+Juicy_J_93 collected 28000 from pot
+Juicy_J_93: doesn't show hand 
+*** SUMMARY ***
+Total pot 28000 | Rake 0 
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: gibbo888 folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 5: Juicy_J_93 (button) collected (28000)
+Seat 6: Varle84 (small blind) folded before Flop
+Seat 7: VICTOR TXR1 (big blind) folded before Flop
+Seat 8: GuyFromGipsy folded before Flop (didn't bet)
+
+PokerStars Hand #251207571153: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXII (4000/8000) - 2024/06/26 21:08:21 UTC [2024/06/26 17:08:21 ET]
+Table '3767885527 63' 8-max Seat #6 is the button
+Seat 1: T3RSS1 (318592 in chips) 
+Seat 2: gibbo888 (175249 in chips) 
+Seat 3: MaCheCazzoFai (431588 in chips) 
+Seat 4: Billionai8 (345231 in chips) 
+Seat 5: Juicy_J_93 (170051 in chips) 
+Seat 6: Varle84 (184073 in chips) 
+Seat 7: VICTOR TXR1 (82622 in chips) 
+Seat 8: GuyFromGipsy (262643 in chips) 
+T3RSS1: posts the ante 1000
+gibbo888: posts the ante 1000
+MaCheCazzoFai: posts the ante 1000
+Billionai8: posts the ante 1000
+Juicy_J_93: posts the ante 1000
+Varle84: posts the ante 1000
+VICTOR TXR1: posts the ante 1000
+GuyFromGipsy: posts the ante 1000
+VICTOR TXR1: posts small blind 4000
+GuyFromGipsy: posts big blind 8000
+*** HOLE CARDS ***
+T3RSS1: folds 
+gibbo888: folds 
+MaCheCazzoFai: folds 
+Billionai8: folds 
+Juicy_J_93: folds 
+Varle84: folds 
+VICTOR TXR1: folds 
+Uncalled bet (4000) returned to GuyFromGipsy
+GuyFromGipsy collected 16000 from pot
+GuyFromGipsy: doesn't show hand 
+*** SUMMARY ***
+Total pot 16000 | Rake 0 
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: gibbo888 folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 5: Juicy_J_93 folded before Flop (didn't bet)
+Seat 6: Varle84 (button) folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 (small blind) folded before Flop
+Seat 8: GuyFromGipsy (big blind) collected (16000)
+
+PokerStars Hand #251207576231: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXII (4000/8000) - 2024/06/26 21:08:38 UTC [2024/06/26 17:08:38 ET]
+Table '3767885527 63' 8-max Seat #7 is the button
+Seat 1: T3RSS1 (317592 in chips) 
+Seat 2: gibbo888 (174249 in chips) 
+Seat 3: MaCheCazzoFai (430588 in chips) 
+Seat 4: Billionai8 (344231 in chips) 
+Seat 5: Juicy_J_93 (169051 in chips) 
+Seat 6: Varle84 (183073 in chips) 
+Seat 7: VICTOR TXR1 (77622 in chips) 
+Seat 8: GuyFromGipsy (273643 in chips) 
+T3RSS1: posts the ante 1000
+gibbo888: posts the ante 1000
+MaCheCazzoFai: posts the ante 1000
+Billionai8: posts the ante 1000
+Juicy_J_93: posts the ante 1000
+Varle84: posts the ante 1000
+VICTOR TXR1: posts the ante 1000
+GuyFromGipsy: posts the ante 1000
+GuyFromGipsy: posts small blind 4000
+T3RSS1: posts big blind 8000
+*** HOLE CARDS ***
+gibbo888: folds 
+MaCheCazzoFai: folds 
+Billionai8: raises 8000 to 16000
+Juicy_J_93: folds 
+Varle84: raises 166073 to 182073 and is all-in
+VICTOR TXR1: folds 
+GuyFromGipsy: folds 
+T3RSS1: folds 
+Billionai8: folds 
+Uncalled bet (166073) returned to Varle84
+Varle84 collected 52000 from pot
+*** SUMMARY ***
+Total pot 52000 | Rake 0 
+Seat 1: T3RSS1 (big blind) folded before Flop
+Seat 2: gibbo888 folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: Billionai8 folded before Flop
+Seat 5: Juicy_J_93 folded before Flop (didn't bet)
+Seat 6: Varle84 collected (52000)
+Seat 7: VICTOR TXR1 (button) folded before Flop (didn't bet)
+Seat 8: GuyFromGipsy (small blind) folded before Flop
+
+PokerStars Hand #251207591755: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXII (4000/8000) - 2024/06/26 21:09:29 UTC [2024/06/26 17:09:29 ET]
+Table '3767885527 63' 8-max Seat #8 is the button
+Seat 1: T3RSS1 (308592 in chips) 
+Seat 2: gibbo888 (173249 in chips) 
+Seat 3: MaCheCazzoFai (429588 in chips) 
+Seat 4: Billionai8 (327231 in chips) 
+Seat 5: Juicy_J_93 (168051 in chips) 
+Seat 6: Varle84 (218073 in chips) 
+Seat 7: VICTOR TXR1 (76622 in chips) 
+Seat 8: GuyFromGipsy (268643 in chips) 
+T3RSS1: posts the ante 1000
+gibbo888: posts the ante 1000
+MaCheCazzoFai: posts the ante 1000
+Billionai8: posts the ante 1000
+Juicy_J_93: posts the ante 1000
+Varle84: posts the ante 1000
+VICTOR TXR1: posts the ante 1000
+GuyFromGipsy: posts the ante 1000
+T3RSS1: posts small blind 4000
+gibbo888: posts big blind 8000
+*** HOLE CARDS ***
+MaCheCazzoFai: folds 
+Billionai8: folds 
+Juicy_J_93: folds 
+Varle84: folds 
+VICTOR TXR1: raises 67622 to 75622 and is all-in
+GuyFromGipsy has timed out
+GuyFromGipsy: folds 
+GuyFromGipsy is sitting out
+T3RSS1: raises 231970 to 307592 and is all-in
+gibbo888: folds 
+Uncalled bet (231970) returned to T3RSS1
+*** FLOP *** [6d Kd Qd]
+GuyFromGipsy has returned
+*** TURN *** [6d Kd Qd] [Qs]
+*** RIVER *** [6d Kd Qd Qs] [6s]
+*** SHOW DOWN ***
+T3RSS1: shows [Ks Ad] (two pair, Kings and Queens)
+VICTOR TXR1: shows [As 4d] (two pair, Queens and Sixes)
+T3RSS1 collected 167244 from pot
+VICTOR TXR1 finished the tournament in 160th place and received $126.61.
+*** SUMMARY ***
+Total pot 167244 | Rake 0 
+Board [6d Kd Qd Qs 6s]
+Seat 1: T3RSS1 (small blind) showed [Ks Ad] and won (167244) with two pair, Kings and Queens
+Seat 2: gibbo888 (big blind) folded before Flop
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 5: Juicy_J_93 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: VICTOR TXR1 showed [As 4d] and lost with two pair, Queens and Sixes
+Seat 8: GuyFromGipsy (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207602298: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXII (4000/8000) - 2024/06/26 21:10:03 UTC [2024/06/26 17:10:03 ET]
+Table '3767885527 63' 8-max Seat #1 is the button
+Seat 1: T3RSS1 (399214 in chips) 
+Seat 2: gibbo888 (164249 in chips) 
+Seat 3: MaCheCazzoFai (428588 in chips) 
+Seat 4: Billionai8 (326231 in chips) 
+Seat 5: Juicy_J_93 (167051 in chips) 
+Seat 6: Varle84 (217073 in chips) 
+Seat 8: GuyFromGipsy (267643 in chips) 
+T3RSS1: posts the ante 1000
+gibbo888: posts the ante 1000
+MaCheCazzoFai: posts the ante 1000
+Billionai8: posts the ante 1000
+Juicy_J_93: posts the ante 1000
+Varle84: posts the ante 1000
+GuyFromGipsy: posts the ante 1000
+gibbo888: posts small blind 4000
+MaCheCazzoFai: posts big blind 8000
+*** HOLE CARDS ***
+Billionai8: folds 
+Juicy_J_93: folds 
+Varle84: folds 
+GuyFromGipsy: raises 8000 to 16000
+T3RSS1: folds 
+gibbo888: folds 
+MaCheCazzoFai: raises 40000 to 56000
+GuyFromGipsy: raises 210643 to 266643 and is all-in
+MaCheCazzoFai: folds 
+Uncalled bet (210643) returned to GuyFromGipsy
+GuyFromGipsy collected 123000 from pot
+GuyFromGipsy: doesn't show hand 
+*** SUMMARY ***
+Total pot 123000 | Rake 0 
+Seat 1: T3RSS1 (button) folded before Flop (didn't bet)
+Seat 2: gibbo888 (small blind) folded before Flop
+Seat 3: MaCheCazzoFai (big blind) folded before Flop
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 5: Juicy_J_93 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 8: GuyFromGipsy collected (123000)
+
+PokerStars Hand #251207612875: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXII (4000/8000) - 2024/06/26 21:10:38 UTC [2024/06/26 17:10:38 ET]
+Table '3767885527 63' 8-max Seat #2 is the button
+Seat 1: T3RSS1 (398214 in chips) 
+Seat 2: gibbo888 (159249 in chips) 
+Seat 3: MaCheCazzoFai (371588 in chips) 
+Seat 4: Billionai8 (325231 in chips) 
+Seat 5: Juicy_J_93 (166051 in chips) 
+Seat 6: Varle84 (216073 in chips) 
+Seat 8: GuyFromGipsy (333643 in chips) 
+T3RSS1: posts the ante 1000
+gibbo888: posts the ante 1000
+MaCheCazzoFai: posts the ante 1000
+Billionai8: posts the ante 1000
+Juicy_J_93: posts the ante 1000
+Varle84: posts the ante 1000
+GuyFromGipsy: posts the ante 1000
+MaCheCazzoFai: posts small blind 4000
+Billionai8: posts big blind 8000
+*** HOLE CARDS ***
+Juicy_J_93: folds 
+Varle84: folds 
+GuyFromGipsy: folds 
+T3RSS1: folds 
+gibbo888: folds 
+MaCheCazzoFai: calls 4000
+Billionai8: raises 20000 to 28000
+MaCheCazzoFai: folds 
+Uncalled bet (20000) returned to Billionai8
+Billionai8 collected 23000 from pot
+Billionai8: doesn't show hand 
+*** SUMMARY ***
+Total pot 23000 | Rake 0 
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: gibbo888 (button) folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai (small blind) folded before Flop
+Seat 4: Billionai8 (big blind) collected (23000)
+Seat 5: Juicy_J_93 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 8: GuyFromGipsy folded before Flop (didn't bet)
+
+PokerStars Hand #251207624603: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXII (4000/8000) - 2024/06/26 21:11:16 UTC [2024/06/26 17:11:16 ET]
+Table '3767885527 63' 8-max Seat #3 is the button
+Seat 1: T3RSS1 (397214 in chips) 
+Seat 2: gibbo888 (158249 in chips) 
+Seat 3: MaCheCazzoFai (362588 in chips) 
+Seat 4: Billionai8 (339231 in chips) 
+Seat 5: Juicy_J_93 (165051 in chips) 
+Seat 6: Varle84 (215073 in chips) 
+Seat 8: GuyFromGipsy (332643 in chips) 
+T3RSS1: posts the ante 1000
+gibbo888: posts the ante 1000
+MaCheCazzoFai: posts the ante 1000
+Billionai8: posts the ante 1000
+Juicy_J_93: posts the ante 1000
+Varle84: posts the ante 1000
+GuyFromGipsy: posts the ante 1000
+Billionai8: posts small blind 4000
+Juicy_J_93: posts big blind 8000
+*** HOLE CARDS ***
+Varle84: folds 
+GuyFromGipsy: folds 
+T3RSS1: raises 8800 to 16800
+gibbo888: folds 
+MaCheCazzoFai: calls 16800
+Billionai8: calls 12800
+JAYJOEEEEE is disconnected 
+Juicy_J_93: calls 8800
+*** FLOP *** [6h 4c 6s]
+Billionai8: checks 
+Juicy_J_93: checks 
+T3RSS1: checks 
+MaCheCazzoFai: checks 
+*** TURN *** [6h 4c 6s] [9d]
+Billionai8: checks 
+Juicy_J_93: checks 
+T3RSS1: checks 
+MaCheCazzoFai: bets 37100
+Billionai8: folds 
+Juicy_J_93: folds 
+T3RSS1: folds 
+Uncalled bet (37100) returned to MaCheCazzoFai
+MaCheCazzoFai collected 74200 from pot
+MaCheCazzoFai: doesn't show hand 
+*** SUMMARY ***
+Total pot 74200 | Rake 0 
+Board [6h 4c 6s 9d]
+Seat 1: T3RSS1 folded on the Turn
+Seat 2: gibbo888 folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai (button) collected (74200)
+Seat 4: Billionai8 (small blind) folded on the Turn
+Seat 5: Juicy_J_93 (big blind) folded on the Turn
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 8: GuyFromGipsy folded before Flop (didn't bet)
+
+PokerStars Hand #251207653615: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXII (4000/8000) - 2024/06/26 21:12:51 UTC [2024/06/26 17:12:51 ET]
+Table '3767885527 63' 8-max Seat #4 is the button
+Seat 1: T3RSS1 (379414 in chips) 
+Seat 2: gibbo888 (157249 in chips) 
+Seat 3: MaCheCazzoFai (418988 in chips) 
+Seat 4: Billionai8 (321431 in chips) 
+Seat 5: Juicy_J_93 (147251 in chips) 
+Seat 6: Varle84 (214073 in chips) 
+Seat 7: JAYJOEEEEE (372572 in chips) 
+Seat 8: GuyFromGipsy (331643 in chips) 
+T3RSS1: posts the ante 1000
+gibbo888: posts the ante 1000
+MaCheCazzoFai: posts the ante 1000
+Billionai8: posts the ante 1000
+Juicy_J_93: posts the ante 1000
+Varle84: posts the ante 1000
+JAYJOEEEEE: posts the ante 1000
+GuyFromGipsy: posts the ante 1000
+Juicy_J_93: posts small blind 4000
+Varle84: posts big blind 8000
+*** HOLE CARDS ***
+JAYJOEEEEE: raises 9600 to 17600
+GuyFromGipsy: folds 
+T3RSS1: folds 
+gibbo888: folds 
+MaCheCazzoFai: calls 17600
+Billionai8: folds 
+Juicy_J_93: folds 
+Varle84: calls 9600
+*** FLOP *** [Td 3d 6c]
+Varle84: checks 
+JAYJOEEEEE: bets 19440
+MaCheCazzoFai: calls 19440
+Varle84: folds 
+*** TURN *** [Td 3d 6c] [Qc]
+JAYJOEEEEE: bets 46656
+MaCheCazzoFai: raises 98496 to 145152
+JAYJOEEEEE: calls 98496
+*** RIVER *** [Td 3d 6c Qc] [9d]
+JAYJOEEEEE: checks 
+MaCheCazzoFai: checks 
+*** SHOW DOWN ***
+JAYJOEEEEE: shows [Qs Kh] (a pair of Queens)
+MaCheCazzoFai: shows [Ts Tc] (three of a kind, Tens)
+MaCheCazzoFai collected 393984 from pot
+*** SUMMARY ***
+Total pot 393984 | Rake 0 
+Board [Td 3d 6c Qc 9d]
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: gibbo888 folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai showed [Ts Tc] and won (393984) with three of a kind, Tens
+Seat 4: Billionai8 (button) folded before Flop (didn't bet)
+Seat 5: Juicy_J_93 (small blind) folded before Flop
+Seat 6: Varle84 (big blind) folded on the Flop
+Seat 7: JAYJOEEEEE showed [Qs Kh] and lost with a pair of Queens
+Seat 8: GuyFromGipsy folded before Flop (didn't bet)
+
+PokerStars Hand #251207684806: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXIII (5000/10000) - 2024/06/26 21:14:32 UTC [2024/06/26 17:14:32 ET]
+Table '3767885527 63' 8-max Seat #5 is the button
+Seat 1: T3RSS1 (378414 in chips) 
+Seat 2: gibbo888 (156249 in chips) 
+Seat 3: MaCheCazzoFai (629780 in chips) 
+Seat 4: Billionai8 (320431 in chips) 
+Seat 5: Juicy_J_93 (142251 in chips) 
+Seat 6: Varle84 (195473 in chips) 
+Seat 7: JAYJOEEEEE (189380 in chips) 
+Seat 8: GuyFromGipsy (330643 in chips) 
+T3RSS1: posts the ante 1250
+gibbo888: posts the ante 1250
+MaCheCazzoFai: posts the ante 1250
+Billionai8: posts the ante 1250
+Juicy_J_93: posts the ante 1250
+Varle84: posts the ante 1250
+JAYJOEEEEE: posts the ante 1250
+GuyFromGipsy: posts the ante 1250
+Varle84: posts small blind 5000
+JAYJOEEEEE: posts big blind 10000
+*** HOLE CARDS ***
+GuyFromGipsy: folds 
+T3RSS1: raises 11000 to 21000
+gibbo888: folds 
+MaCheCazzoFai: folds 
+Billionai8: calls 21000
+Juicy_J_93: folds 
+Varle84: folds 
+JAYJOEEEEE: folds 
+*** FLOP *** [Qd 6s 7h]
+T3RSS1: bets 22110
+Billionai8: calls 22110
+*** TURN *** [Qd 6s 7h] [Ts]
+T3RSS1: bets 56722
+Billionai8: calls 56722
+*** RIVER *** [Qd 6s 7h Ts] [8d]
+T3RSS1: checks 
+Billionai8: checks 
+*** SHOW DOWN ***
+T3RSS1: shows [As 9s] (a straight, Six to Ten)
+Billionai8: mucks hand 
+T3RSS1 collected 224664 from pot
+*** SUMMARY ***
+Total pot 224664 | Rake 0 
+Board [Qd 6s 7h Ts 8d]
+Seat 1: T3RSS1 showed [As 9s] and won (224664) with a straight, Six to Ten
+Seat 2: gibbo888 folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: Billionai8 mucked
+Seat 5: Juicy_J_93 (button) folded before Flop (didn't bet)
+Seat 6: Varle84 (small blind) folded before Flop
+Seat 7: JAYJOEEEEE (big blind) folded before Flop
+Seat 8: GuyFromGipsy folded before Flop (didn't bet)
+
+PokerStars Hand #251207716607: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXIII (5000/10000) - 2024/06/26 21:16:15 UTC [2024/06/26 17:16:15 ET]
+Table '3767885527 63' 8-max Seat #6 is the button
+Seat 1: T3RSS1 (501996 in chips) 
+Seat 2: gibbo888 (154999 in chips) 
+Seat 3: MaCheCazzoFai (628530 in chips) 
+Seat 4: Billionai8 (219349 in chips) 
+Seat 5: Juicy_J_93 (141001 in chips) 
+Seat 6: Varle84 (189223 in chips) 
+Seat 7: JAYJOEEEEE (178130 in chips) 
+Seat 8: GuyFromGipsy (329393 in chips) 
+T3RSS1: posts the ante 1250
+gibbo888: posts the ante 1250
+MaCheCazzoFai: posts the ante 1250
+Billionai8: posts the ante 1250
+Juicy_J_93: posts the ante 1250
+Varle84: posts the ante 1250
+JAYJOEEEEE: posts the ante 1250
+GuyFromGipsy: posts the ante 1250
+JAYJOEEEEE: posts small blind 5000
+GuyFromGipsy: posts big blind 10000
+*** HOLE CARDS ***
+T3RSS1: folds 
+gibbo888: raises 12000 to 22000
+MaCheCazzoFai: folds 
+Billionai8: folds 
+Juicy_J_93: folds 
+Varle84: folds 
+JAYJOEEEEE: folds 
+GuyFromGipsy: calls 12000
+*** FLOP *** [Kh 2c 7d]
+GuyFromGipsy: checks 
+gibbo888: bets 131749 and is all-in
+GuyFromGipsy: folds 
+Uncalled bet (131749) returned to gibbo888
+gibbo888 collected 59000 from pot
+gibbo888: doesn't show hand 
+*** SUMMARY ***
+Total pot 59000 | Rake 0 
+Board [Kh 2c 7d]
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: gibbo888 collected (59000)
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 5: Juicy_J_93 folded before Flop (didn't bet)
+Seat 6: Varle84 (button) folded before Flop (didn't bet)
+Seat 7: JAYJOEEEEE (small blind) folded before Flop
+Seat 8: GuyFromGipsy (big blind) folded on the Flop
+
+PokerStars Hand #251207733118: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXIII (5000/10000) - 2024/06/26 21:17:09 UTC [2024/06/26 17:17:09 ET]
+Table '3767885527 63' 8-max Seat #7 is the button
+Seat 1: T3RSS1 (500746 in chips) 
+Seat 2: gibbo888 (190749 in chips) 
+Seat 3: MaCheCazzoFai (627280 in chips) 
+Seat 4: Billionai8 (218099 in chips) 
+Seat 5: Juicy_J_93 (139751 in chips) 
+Seat 6: Varle84 (187973 in chips) 
+Seat 7: JAYJOEEEEE (171880 in chips) 
+Seat 8: GuyFromGipsy (306143 in chips) 
+T3RSS1: posts the ante 1250
+gibbo888: posts the ante 1250
+MaCheCazzoFai: posts the ante 1250
+Billionai8: posts the ante 1250
+Juicy_J_93: posts the ante 1250
+Varle84: posts the ante 1250
+JAYJOEEEEE: posts the ante 1250
+GuyFromGipsy: posts the ante 1250
+GuyFromGipsy: posts small blind 5000
+T3RSS1: posts big blind 10000
+*** HOLE CARDS ***
+gibbo888: folds 
+MaCheCazzoFai: folds 
+Billionai8: folds 
+Juicy_J_93: folds 
+Varle84: folds 
+JAYJOEEEEE: folds 
+GuyFromGipsy: folds 
+Uncalled bet (5000) returned to T3RSS1
+T3RSS1 collected 20000 from pot
+T3RSS1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20000 | Rake 0 
+Seat 1: T3RSS1 (big blind) collected (20000)
+Seat 2: gibbo888 folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 5: Juicy_J_93 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: JAYJOEEEEE (button) folded before Flop (didn't bet)
+Seat 8: GuyFromGipsy (small blind) folded before Flop
+
+PokerStars Hand #251207738507: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXIII (5000/10000) - 2024/06/26 21:17:26 UTC [2024/06/26 17:17:26 ET]
+Table '3767885527 63' 8-max Seat #8 is the button
+Seat 1: T3RSS1 (514496 in chips) 
+Seat 2: gibbo888 (189499 in chips) 
+Seat 3: MaCheCazzoFai (626030 in chips) 
+Seat 4: Billionai8 (216849 in chips) 
+Seat 5: Juicy_J_93 (138501 in chips) 
+Seat 6: Varle84 (186723 in chips) 
+Seat 7: JAYJOEEEEE (170630 in chips) 
+Seat 8: GuyFromGipsy (299893 in chips) 
+T3RSS1: posts the ante 1250
+gibbo888: posts the ante 1250
+MaCheCazzoFai: posts the ante 1250
+Billionai8: posts the ante 1250
+Juicy_J_93: posts the ante 1250
+Varle84: posts the ante 1250
+JAYJOEEEEE: posts the ante 1250
+GuyFromGipsy: posts the ante 1250
+T3RSS1: posts small blind 5000
+gibbo888: posts big blind 10000
+*** HOLE CARDS ***
+MaCheCazzoFai: raises 10000 to 20000
+Billionai8: folds 
+Juicy_J_93: folds 
+Varle84: folds 
+JAYJOEEEEE: raises 149380 to 169380 and is all-in
+GuyFromGipsy: folds 
+T3RSS1: folds 
+gibbo888: folds 
+MaCheCazzoFai: folds 
+Uncalled bet (149380) returned to JAYJOEEEEE
+JAYJOEEEEE collected 65000 from pot
+JAYJOEEEEE: doesn't show hand 
+*** SUMMARY ***
+Total pot 65000 | Rake 0 
+Seat 1: T3RSS1 (small blind) folded before Flop
+Seat 2: gibbo888 (big blind) folded before Flop
+Seat 3: MaCheCazzoFai folded before Flop
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 5: Juicy_J_93 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: JAYJOEEEEE collected (65000)
+Seat 8: GuyFromGipsy (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207748778: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXIII (5000/10000) - 2024/06/26 21:17:59 UTC [2024/06/26 17:17:59 ET]
+Table '3767885527 63' 8-max Seat #1 is the button
+Seat 1: T3RSS1 (508246 in chips) 
+Seat 2: gibbo888 (178249 in chips) 
+Seat 3: MaCheCazzoFai (604780 in chips) 
+Seat 4: Billionai8 (215599 in chips) 
+Seat 5: Juicy_J_93 (137251 in chips) 
+Seat 6: Varle84 (185473 in chips) 
+Seat 7: JAYJOEEEEE (214380 in chips) 
+Seat 8: GuyFromGipsy (298643 in chips) 
+T3RSS1: posts the ante 1250
+gibbo888: posts the ante 1250
+MaCheCazzoFai: posts the ante 1250
+Billionai8: posts the ante 1250
+Juicy_J_93: posts the ante 1250
+Varle84: posts the ante 1250
+JAYJOEEEEE: posts the ante 1250
+GuyFromGipsy: posts the ante 1250
+gibbo888: posts small blind 5000
+MaCheCazzoFai: posts big blind 10000
+*** HOLE CARDS ***
+Billionai8: folds 
+Juicy_J_93: folds 
+Varle84: raises 174223 to 184223 and is all-in
+JAYJOEEEEE: folds 
+GuyFromGipsy: folds 
+T3RSS1: folds 
+gibbo888: calls 171999 and is all-in
+MaCheCazzoFai: folds 
+Uncalled bet (7224) returned to Varle84
+*** FLOP *** [As Ks Ad]
+*** TURN *** [As Ks Ad] [4c]
+*** RIVER *** [As Ks Ad 4c] [6h]
+*** SHOW DOWN ***
+gibbo888: shows [Ah Ac] (four of a kind, Aces)
+Varle84: shows [8c 8s] (two pair, Aces and Eights)
+gibbo888 collected 373998 from pot
+*** SUMMARY ***
+Total pot 373998 | Rake 0 
+Board [As Ks Ad 4c 6h]
+Seat 1: T3RSS1 (button) folded before Flop (didn't bet)
+Seat 2: gibbo888 (small blind) showed [Ah Ac] and won (373998) with four of a kind, Aces
+Seat 3: MaCheCazzoFai (big blind) folded before Flop
+Seat 4: Billionai8 folded before Flop (didn't bet)
+Seat 5: Juicy_J_93 folded before Flop (didn't bet)
+Seat 6: Varle84 showed [8c 8s] and lost with two pair, Aces and Eights
+Seat 7: JAYJOEEEEE folded before Flop (didn't bet)
+Seat 8: GuyFromGipsy folded before Flop (didn't bet)
+
+PokerStars Hand #251207761006: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XXIII (5000/10000) - 2024/06/26 21:18:39 UTC [2024/06/26 17:18:39 ET]
+Table '3767885527 63' 8-max Seat #2 is the button
+Seat 1: T3RSS1 (506996 in chips) 
+Seat 2: gibbo888 (373998 in chips) 
+Seat 3: MaCheCazzoFai (593530 in chips) 
+Seat 4: Billionai8 (214349 in chips) 
+Seat 5: Juicy_J_93 (136001 in chips) 
+Seat 6: Varle84 (7224 in chips) 
+Seat 7: JAYJOEEEEE (213130 in chips) 
+Seat 8: GuyFromGipsy (297393 in chips) 
+T3RSS1: posts the ante 1250
+gibbo888: posts the ante 1250
+MaCheCazzoFai: posts the ante 1250
+Billionai8: posts the ante 1250
+Juicy_J_93: posts the ante 1250
+Varle84: posts the ante 1250
+JAYJOEEEEE: posts the ante 1250
+GuyFromGipsy: posts the ante 1250
+MaCheCazzoFai: posts small blind 5000
+Billionai8: posts big blind 10000
+*** HOLE CARDS ***
+Juicy_J_93: folds 
+Varle84: calls 5974 and is all-in
+JAYJOEEEEE: folds 
+GuyFromGipsy: folds 
+T3RSS1: folds 
+gibbo888: folds 
+MaCheCazzoFai: folds 
+Uncalled bet (4026) returned to Billionai8
+*** FLOP *** [Qc 2s Js]
+*** TURN *** [Qc 2s Js] [5c]
+*** RIVER *** [Qc 2s Js 5c] [3s]
+*** SHOW DOWN ***
+Billionai8: shows [5d Jd] (two pair, Jacks and Fives)
+Varle84: shows [9c 3c] (a pair of Threes)
+Billionai8 collected 26948 from pot
+Varle84 finished the tournament in 137th place and received $139.27.
+*** SUMMARY ***
+Total pot 26948 | Rake 0 
+Board [Qc 2s Js 5c 3s]
+Seat 1: T3RSS1 folded before Flop (didn't bet)
+Seat 2: gibbo888 (button) folded before Flop (didn't bet)
+Seat 3: MaCheCazzoFai (small blind) folded before Flop
+Seat 4: Billionai8 (big blind) showed [5d Jd] and won (26948) with two pair, Jacks and Fives
+Seat 5: Juicy_J_93 folded before Flop (didn't bet)
+Seat 6: Varle84 showed [9c 3c] and lost with a pair of Threes
+Seat 7: JAYJOEEEEE folded before Flop (didn't bet)
+Seat 8: GuyFromGipsy folded before Flop (didn't bet)

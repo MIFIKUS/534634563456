@@ -1,0 +1,3057 @@
+
+
+
+PokerStars Hand #251215755314: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level II (20/40) - 2024/06/27 11:28:47 UTC [2024/06/27 7:28:47 ET]
+Table '3771164546 2' 6-max Seat #1 is the button
+Seat 1: adri472472 (2832 in chips, $25 bounty) 
+Seat 2: siriku1 (3112 in chips, $25 bounty) 
+Seat 3: adrf1999 (2917 in chips, $25 bounty) 
+Seat 5: santiga (2917 in chips, $25 bounty) 
+Seat 6: peace&loove (3229 in chips, $25 bounty) 
+adri472472: posts the ante 10
+siriku1: posts the ante 10
+adrf1999: posts the ante 10
+santiga: posts the ante 10
+peace&loove: posts the ante 10
+siriku1: posts small blind 20
+adrf1999: posts big blind 40
+*** HOLE CARDS ***
+santiga: folds 
+peace&loove: folds 
+adri472472: folds 
+siriku1: raises 80 to 120
+adrf1999: raises 240 to 360
+siriku1: folds 
+Uncalled bet (240) returned to adrf1999
+adrf1999 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: adri472472 (button) folded before Flop (didn't bet)
+Seat 2: siriku1 (small blind) folded before Flop
+Seat 3: adrf1999 (big blind) collected (290)
+Seat 5: santiga folded before Flop (didn't bet)
+Seat 6: peace&loove folded before Flop (didn't bet)
+
+PokerStars Hand #251215759583: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level II (20/40) - 2024/06/27 11:29:19 UTC [2024/06/27 7:29:19 ET]
+Table '3771164546 2' 6-max Seat #2 is the button
+Seat 1: adri472472 (2822 in chips, $25 bounty) 
+Seat 2: siriku1 (2982 in chips, $25 bounty) 
+Seat 3: adrf1999 (3077 in chips, $25 bounty) 
+Seat 5: santiga (2907 in chips, $25 bounty) 
+Seat 6: peace&loove (3219 in chips, $25 bounty) 
+adri472472: posts the ante 10
+siriku1: posts the ante 10
+adrf1999: posts the ante 10
+santiga: posts the ante 10
+peace&loove: posts the ante 10
+adrf1999: posts small blind 20
+santiga: posts big blind 40
+*** HOLE CARDS ***
+peace&loove: folds 
+adri472472: calls 40
+siriku1: raises 80 to 120
+adrf1999: folds 
+santiga: calls 80
+adri472472: raises 2692 to 2812 and is all-in
+siriku1: folds 
+santiga: calls 2692
+*** FLOP *** [Ts 9h 5d]
+*** TURN *** [Ts 9h 5d] [4c]
+*** RIVER *** [Ts 9h 5d 4c] [3s]
+*** SHOW DOWN ***
+santiga: shows [9c 9s] (three of a kind, Nines)
+adri472472: shows [Qc Ah] (high card Ace)
+santiga collected 5814 from pot
+santiga wins $12.50 for eliminating adri472472 and their own bounty increases by $12.50 to $37.50
+adri472472 finished the tournament
+*** SUMMARY ***
+Total pot 5814 | Rake 0 
+Board [Ts 9h 5d 4c 3s]
+Seat 1: adri472472 showed [Qc Ah] and lost with high card Ace
+Seat 2: siriku1 (button) folded before Flop
+Seat 3: adrf1999 (small blind) folded before Flop
+Seat 5: santiga (big blind) showed [9c 9s] and won (5814) with three of a kind, Nines
+Seat 6: peace&loove folded before Flop (didn't bet)
+
+PokerStars Hand #251215767208: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level II (20/40) - 2024/06/27 11:30:17 UTC [2024/06/27 7:30:17 ET]
+Table '3771164546 2' 6-max Seat #3 is the button
+Seat 2: siriku1 (2852 in chips, $25 bounty) 
+Seat 3: adrf1999 (3047 in chips, $25 bounty) 
+Seat 5: santiga (5899 in chips, $37.50 bounty) 
+Seat 6: peace&loove (3209 in chips, $25 bounty) 
+siriku1: posts the ante 10
+adrf1999: posts the ante 10
+santiga: posts the ante 10
+peace&loove: posts the ante 10
+santiga: posts small blind 20
+peace&loove: posts big blind 40
+*** HOLE CARDS ***
+Dbabreu2 is disconnected 
+siriku1: folds 
+adrf1999: raises 80 to 120
+santiga: folds 
+peace&loove: folds 
+Uncalled bet (80) returned to adrf1999
+adrf1999 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 2: siriku1 folded before Flop (didn't bet)
+Seat 3: adrf1999 (button) collected (140)
+Seat 5: santiga (small blind) folded before Flop
+Seat 6: peace&loove (big blind) folded before Flop
+
+PokerStars Hand #251215771609: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level II (20/40) - 2024/06/27 11:30:51 UTC [2024/06/27 7:30:51 ET]
+Table '3771164546 2' 6-max Seat #5 is the button
+Seat 1: Dbabreu2 (3000 in chips, $25 bounty) 
+Seat 2: siriku1 (2842 in chips, $25 bounty) 
+Seat 3: adrf1999 (3137 in chips, $25 bounty) 
+Seat 5: santiga (5869 in chips, $37.50 bounty) 
+Seat 6: peace&loove (3159 in chips, $25 bounty) 
+Dbabreu2: posts the ante 10
+siriku1: posts the ante 10
+adrf1999: posts the ante 10
+santiga: posts the ante 10
+peace&loove: posts the ante 10
+peace&loove: posts small blind 20
+Dbabreu2: posts big blind 40
+*** HOLE CARDS ***
+siriku1: folds 
+adrf1999: raises 80 to 120
+santiga: folds 
+peace&loove: folds 
+Dbabreu2: calls 80
+*** FLOP *** [4c 6s Ts]
+Dbabreu2: checks 
+darkziv is disconnected 
+adrf1999: checks 
+*** TURN *** [4c 6s Ts] [Qs]
+Dbabreu2: checks 
+adrf1999: bets 160
+Dbabreu2: folds 
+Uncalled bet (160) returned to adrf1999
+adrf1999 collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Board [4c 6s Ts Qs]
+Seat 1: Dbabreu2 (big blind) folded on the Turn
+Seat 2: siriku1 folded before Flop (didn't bet)
+Seat 3: adrf1999 collected (310)
+Seat 5: santiga (button) folded before Flop (didn't bet)
+Seat 6: peace&loove (small blind) folded before Flop
+
+PokerStars Hand #251215780330: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level III (30/60) - 2024/06/27 11:31:57 UTC [2024/06/27 7:31:57 ET]
+Table '3771164546 2' 6-max Seat #6 is the button
+Seat 1: Dbabreu2 (2870 in chips, $25 bounty) 
+Seat 2: siriku1 (2832 in chips, $25 bounty) 
+Seat 3: adrf1999 (3317 in chips, $25 bounty) 
+Seat 4: darkziv (3000 in chips, $25 bounty) 
+Seat 5: santiga (5859 in chips, $37.50 bounty) 
+Seat 6: peace&loove (3129 in chips, $25 bounty) 
+Dbabreu2: posts the ante 15
+siriku1: posts the ante 15
+adrf1999: posts the ante 15
+darkziv: posts the ante 15
+santiga: posts the ante 15
+peace&loove: posts the ante 15
+Dbabreu2: posts small blind 30
+siriku1: posts big blind 60
+*** HOLE CARDS ***
+adrf1999: folds 
+darkziv: folds 
+santiga: folds 
+peace&loove: folds 
+Dbabreu2: calls 30
+siriku1: checks 
+*** FLOP *** [Ks 9c 8s]
+Dbabreu2: bets 60
+siriku1: calls 60
+*** TURN *** [Ks 9c 8s] [Tc]
+Dbabreu2: bets 510
+siriku1: folds 
+Uncalled bet (510) returned to Dbabreu2
+Dbabreu2 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [Ks 9c 8s Tc]
+Seat 1: Dbabreu2 (small blind) collected (330)
+Seat 2: siriku1 (big blind) folded on the Turn
+Seat 3: adrf1999 folded before Flop (didn't bet)
+Seat 4: darkziv folded before Flop (didn't bet)
+Seat 5: santiga folded before Flop (didn't bet)
+Seat 6: peace&loove (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251215786603: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level III (30/60) - 2024/06/27 11:32:45 UTC [2024/06/27 7:32:45 ET]
+Table '3771164546 2' 6-max Seat #1 is the button
+Seat 1: Dbabreu2 (3065 in chips, $25 bounty) 
+Seat 2: siriku1 (2697 in chips, $25 bounty) 
+Seat 4: darkziv (2985 in chips, $25 bounty) 
+Seat 5: santiga (5844 in chips, $37.50 bounty) 
+Seat 6: peace&loove (3114 in chips, $25 bounty) 
+Dbabreu2: posts the ante 15
+siriku1: posts the ante 15
+darkziv: posts the ante 15
+santiga: posts the ante 15
+peace&loove: posts the ante 15
+siriku1: posts small blind 30
+darkziv: posts big blind 60
+*** HOLE CARDS ***
+santiga: folds 
+peace&loove: folds 
+Dbabreu2: folds 
+siriku1: calls 30
+darkziv: checks 
+*** FLOP *** [3d 9c 5s]
+siriku1: checks 
+darkziv: checks 
+*** TURN *** [3d 9c 5s] [8s]
+siriku1: checks 
+darkziv: bets 60
+siriku1: calls 60
+*** RIVER *** [3d 9c 5s 8s] [Qs]
+siriku1: checks 
+darkziv: checks 
+*** SHOW DOWN ***
+siriku1: shows [5c 6h] (a pair of Fives)
+darkziv: mucks hand 
+siriku1 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | Rake 0 
+Board [3d 9c 5s 8s Qs]
+Seat 1: Dbabreu2 (button) folded before Flop (didn't bet)
+Seat 2: siriku1 (small blind) showed [5c 6h] and won (315) with a pair of Fives
+Seat 4: darkziv (big blind) mucked
+Seat 5: santiga folded before Flop (didn't bet)
+Seat 6: peace&loove folded before Flop (didn't bet)
+
+PokerStars Hand #251215798525: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (40/80) - 2024/06/27 11:34:16 UTC [2024/06/27 7:34:16 ET]
+Table '3771164546 2' 6-max Seat #2 is the button
+Seat 1: Dbabreu2 (3050 in chips, $25 bounty) 
+Seat 2: siriku1 (2877 in chips, $25 bounty) 
+Seat 4: darkziv (2850 in chips, $25 bounty) 
+Seat 5: santiga (5829 in chips, $37.50 bounty) 
+Seat 6: peace&loove (3099 in chips, $25 bounty) 
+Dbabreu2: posts the ante 20
+siriku1: posts the ante 20
+darkziv: posts the ante 20
+santiga: posts the ante 20
+peace&loove: posts the ante 20
+darkziv: posts small blind 40
+santiga: posts big blind 80
+*** HOLE CARDS ***
+peace&loove: raises 104 to 184
+Dbabreu2: folds 
+siriku1: folds 
+darkziv: folds 
+santiga: calls 104
+*** FLOP *** [Kd 2s 5s]
+santiga: checks 
+peace&loove: bets 168
+santiga: raises 392 to 560
+peace&loove: calls 392
+*** TURN *** [Kd 2s 5s] [Jc]
+santiga: checks 
+peace&loove: checks 
+*** RIVER *** [Kd 2s 5s Jc] [As]
+santiga: checks 
+peace&loove: checks 
+*** SHOW DOWN ***
+santiga: shows [Qh Js] (a pair of Jacks)
+peace&loove: mucks hand 
+santiga collected 1628 from pot
+*** SUMMARY ***
+Total pot 1628 | Rake 0 
+Board [Kd 2s 5s Jc As]
+Seat 1: Dbabreu2 folded before Flop (didn't bet)
+Seat 2: siriku1 (button) folded before Flop (didn't bet)
+Seat 4: darkziv (small blind) folded before Flop
+Seat 5: santiga (big blind) showed [Qh Js] and won (1628) with a pair of Jacks
+Seat 6: peace&loove mucked
+
+PokerStars Hand #251215808860: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (40/80) - 2024/06/27 11:35:35 UTC [2024/06/27 7:35:35 ET]
+Table '3771164546 2' 6-max Seat #4 is the button
+Seat 1: Dbabreu2 (3030 in chips, $25 bounty) 
+Seat 2: siriku1 (2857 in chips, $25 bounty) 
+Seat 4: darkziv (2790 in chips, $25 bounty) 
+Seat 5: santiga (6693 in chips, $37.50 bounty) 
+Seat 6: peace&loove (2335 in chips, $25 bounty) 
+Dbabreu2: posts the ante 20
+siriku1: posts the ante 20
+darkziv: posts the ante 20
+santiga: posts the ante 20
+peace&loove: posts the ante 20
+santiga: posts small blind 40
+peace&loove: posts big blind 80
+*** HOLE CARDS ***
+Dbabreu2: raises 104 to 184
+siriku1: folds 
+darkziv: calls 184
+santiga: raises 6489 to 6673 and is all-in
+peace&loove: folds 
+Dbabreu2: folds 
+darkziv: folds 
+Uncalled bet (6489) returned to santiga
+santiga collected 732 from pot
+santiga: doesn't show hand 
+*** SUMMARY ***
+Total pot 732 | Rake 0 
+Seat 1: Dbabreu2 folded before Flop
+Seat 2: siriku1 folded before Flop (didn't bet)
+Seat 4: darkziv (button) folded before Flop
+Seat 5: santiga (small blind) collected (732)
+Seat 6: peace&loove (big blind) folded before Flop
+
+PokerStars Hand #251215812858: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (40/80) - 2024/06/27 11:36:04 UTC [2024/06/27 7:36:04 ET]
+Table '3771164546 2' 6-max Seat #5 is the button
+Seat 1: Dbabreu2 (2826 in chips, $25 bounty) 
+Seat 2: siriku1 (2837 in chips, $25 bounty) 
+Seat 4: darkziv (2586 in chips, $25 bounty) 
+Seat 5: santiga (7221 in chips, $37.50 bounty) 
+Seat 6: peace&loove (2235 in chips, $25 bounty) 
+Dbabreu2: posts the ante 20
+siriku1: posts the ante 20
+darkziv: posts the ante 20
+santiga: posts the ante 20
+peace&loove: posts the ante 20
+peace&loove: posts small blind 40
+Dbabreu2: posts big blind 80
+*** HOLE CARDS ***
+siriku1: folds 
+darkziv: folds 
+santiga: folds 
+peace&loove: folds 
+Uncalled bet (40) returned to Dbabreu2
+Dbabreu2 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Seat 1: Dbabreu2 (big blind) collected (180)
+Seat 2: siriku1 folded before Flop (didn't bet)
+Seat 4: darkziv folded before Flop (didn't bet)
+Seat 5: santiga (button) folded before Flop (didn't bet)
+Seat 6: peace&loove (small blind) folded before Flop
+
+PokerStars Hand #251215816215: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (40/80) - 2024/06/27 11:36:29 UTC [2024/06/27 7:36:29 ET]
+Table '3771164546 2' 6-max Seat #6 is the button
+Seat 1: Dbabreu2 (2946 in chips, $25 bounty) 
+Seat 2: siriku1 (2817 in chips, $25 bounty) 
+Seat 4: darkziv (2566 in chips, $25 bounty) 
+Seat 5: santiga (7201 in chips, $37.50 bounty) 
+Seat 6: peace&loove (2175 in chips, $25 bounty) 
+Dbabreu2: posts the ante 20
+siriku1: posts the ante 20
+darkziv: posts the ante 20
+santiga: posts the ante 20
+peace&loove: posts the ante 20
+Dbabreu2: posts small blind 40
+siriku1: posts big blind 80
+*** HOLE CARDS ***
+darkziv: folds 
+santiga: raises 128 to 208
+peace&loove: folds 
+Dbabreu2: folds 
+siriku1: folds 
+Uncalled bet (128) returned to santiga
+santiga collected 300 from pot
+santiga: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: Dbabreu2 (small blind) folded before Flop
+Seat 2: siriku1 (big blind) folded before Flop
+Seat 4: darkziv folded before Flop (didn't bet)
+Seat 5: santiga collected (300)
+Seat 6: peace&loove (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251215818565: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (40/80) - 2024/06/27 11:36:47 UTC [2024/06/27 7:36:47 ET]
+Table '3771164546 2' 6-max Seat #1 is the button
+Seat 1: Dbabreu2 (2886 in chips, $25 bounty) 
+Seat 2: siriku1 (2717 in chips, $25 bounty) 
+Seat 4: darkziv (2546 in chips, $25 bounty) 
+Seat 5: santiga (7401 in chips, $37.50 bounty) 
+Seat 6: peace&loove (2155 in chips, $25 bounty) 
+Dbabreu2: posts the ante 20
+siriku1: posts the ante 20
+darkziv: posts the ante 20
+santiga: posts the ante 20
+peace&loove: posts the ante 20
+siriku1: posts small blind 40
+darkziv: posts big blind 80
+*** HOLE CARDS ***
+santiga: raises 128 to 208
+peace&loove: raises 1927 to 2135 and is all-in
+Dbabreu2: folds 
+siriku1: folds 
+darkziv: folds 
+santiga: calls 1927
+*** FLOP *** [5h 2c Js]
+*** TURN *** [5h 2c Js] [Td]
+*** RIVER *** [5h 2c Js Td] [4c]
+*** SHOW DOWN ***
+santiga: shows [As Qd] (high card Ace)
+peace&loove: shows [8c Ac] (high card Ace - lower kicker)
+santiga collected 4490 from pot
+santiga wins $12.50 for eliminating peace&loove and their own bounty increases by $12.50 to $50
+peace&loove finished the tournament
+*** SUMMARY ***
+Total pot 4490 | Rake 0 
+Board [5h 2c Js Td 4c]
+Seat 1: Dbabreu2 (button) folded before Flop (didn't bet)
+Seat 2: siriku1 (small blind) folded before Flop
+Seat 4: darkziv (big blind) folded before Flop
+Seat 5: santiga showed [As Qd] and won (4490) with high card Ace
+Seat 6: peace&loove showed [8c Ac] and lost with high card Ace
+
+PokerStars Hand #251215825377: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level V (50/100) - 2024/06/27 11:37:38 UTC [2024/06/27 7:37:38 ET]
+Table '3771164546 2' 6-max Seat #2 is the button
+Seat 1: Dbabreu2 (2866 in chips, $25 bounty) 
+Seat 2: siriku1 (2657 in chips, $25 bounty) 
+Seat 4: darkziv (2446 in chips, $25 bounty) 
+Seat 5: santiga (9736 in chips, $50 bounty) 
+Dbabreu2: posts the ante 25
+siriku1: posts the ante 25
+darkziv: posts the ante 25
+santiga: posts the ante 25
+darkziv: posts small blind 50
+santiga: posts big blind 100
+*** HOLE CARDS ***
+Dbabreu2: folds 
+siriku1: folds 
+darkziv: calls 50
+santiga: raises 9611 to 9711 and is all-in
+darkziv: calls 2321 and is all-in
+Uncalled bet (7290) returned to santiga
+*** FLOP *** [8c Jd Ah]
+*** TURN *** [8c Jd Ah] [Jh]
+*** RIVER *** [8c Jd Ah Jh] [2h]
+*** SHOW DOWN ***
+darkziv: shows [Qh Ac] (two pair, Aces and Jacks)
+santiga: shows [Ks 4h] (a pair of Jacks)
+darkziv collected 4942 from pot
+*** SUMMARY ***
+Total pot 4942 | Rake 0 
+Board [8c Jd Ah Jh 2h]
+Seat 1: Dbabreu2 folded before Flop (didn't bet)
+Seat 2: siriku1 (button) folded before Flop (didn't bet)
+Seat 4: darkziv (small blind) showed [Qh Ac] and won (4942) with two pair, Aces and Jacks
+Seat 5: santiga (big blind) showed [Ks 4h] and lost with a pair of Jacks
+
+PokerStars Hand #251215829238: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level V (50/100) - 2024/06/27 11:38:07 UTC [2024/06/27 7:38:07 ET]
+Table '3771164546 2' 6-max Seat #4 is the button
+Seat 1: Dbabreu2 (2841 in chips, $25 bounty) 
+Seat 2: siriku1 (2632 in chips, $25 bounty) 
+Seat 4: darkziv (4942 in chips, $25 bounty) 
+Seat 5: santiga (7290 in chips, $50 bounty) 
+Dbabreu2: posts the ante 25
+siriku1: posts the ante 25
+darkziv: posts the ante 25
+santiga: posts the ante 25
+santiga: posts small blind 50
+Dbabreu2: posts big blind 100
+*** HOLE CARDS ***
+siriku1: raises 110 to 210
+darkziv: folds 
+santiga: folds 
+hozeis is disconnected 
+Dbabreu2: calls 110
+*** FLOP *** [Qh Jh 4s]
+Dbabreu2: checks 
+siriku1: bets 188
+Dbabreu2: calls 188
+*** TURN *** [Qh Jh 4s] [3c]
+Dbabreu2: checks 
+siriku1: checks 
+*** RIVER *** [Qh Jh 4s 3c] [5s]
+Dbabreu2: bets 710
+siriku1: calls 710
+*** SHOW DOWN ***
+Dbabreu2: shows [Qd 4c] (two pair, Queens and Fours)
+siriku1: mucks hand 
+Dbabreu2 collected 2366 from pot
+kazymyr92 is disconnected 
+*** SUMMARY ***
+Total pot 2366 | Rake 0 
+Board [Qh Jh 4s 3c 5s]
+Seat 1: Dbabreu2 (big blind) showed [Qd 4c] and won (2366) with two pair, Queens and Fours
+Seat 2: siriku1 mucked
+Seat 4: darkziv (button) folded before Flop (didn't bet)
+Seat 5: santiga (small blind) folded before Flop
+
+PokerStars Hand #251215838613: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level V (50/100) - 2024/06/27 11:39:18 UTC [2024/06/27 7:39:18 ET]
+Table '3771164546 2' 6-max Seat #5 is the button
+Seat 1: Dbabreu2 (4074 in chips, $25 bounty) 
+Seat 2: siriku1 (1499 in chips, $25 bounty) 
+Seat 3: kazymyr92 (3000 in chips, $25 bounty) 
+Seat 4: darkziv (4917 in chips, $25 bounty) 
+Seat 5: santiga (7215 in chips, $50 bounty) 
+Seat 6: hozeis (3000 in chips) out of hand (moved from another table into small blind)
+hozeis will be allowed to play after the button
+Dbabreu2: posts the ante 25
+siriku1: posts the ante 25
+kazymyr92: posts the ante 25
+darkziv: posts the ante 25
+santiga: posts the ante 25
+Dbabreu2: posts small blind 50
+siriku1: posts big blind 100
+*** HOLE CARDS ***
+kazymyr92 is connected 
+kazymyr92: folds 
+darkziv: raises 124 to 224
+santiga: folds 
+Dbabreu2: folds 
+siriku1: folds 
+Uncalled bet (124) returned to darkziv
+darkziv collected 375 from pot
+darkziv: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: Dbabreu2 (small blind) folded before Flop
+Seat 2: siriku1 (big blind) folded before Flop
+Seat 3: kazymyr92 folded before Flop (didn't bet)
+Seat 4: darkziv collected (375)
+Seat 5: santiga (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251215844223: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level V (50/100) - 2024/06/27 11:40:01 UTC [2024/06/27 7:40:01 ET]
+Table '3771164546 2' 6-max Seat #1 is the button
+Seat 1: Dbabreu2 (3999 in chips, $25 bounty) 
+Seat 2: siriku1 (1374 in chips, $25 bounty) 
+Seat 3: kazymyr92 (2975 in chips, $25 bounty) 
+Seat 4: darkziv (5167 in chips, $25 bounty) 
+Seat 5: santiga (7190 in chips, $50 bounty) 
+Seat 6: hozeis (3000 in chips, $25 bounty) 
+Dbabreu2: posts the ante 25
+siriku1: posts the ante 25
+kazymyr92: posts the ante 25
+darkziv: posts the ante 25
+santiga: posts the ante 25
+hozeis: posts the ante 25
+siriku1: posts small blind 50
+kazymyr92: posts big blind 100
+*** HOLE CARDS ***
+darkziv: folds 
+santiga: raises 160 to 260
+hozeis: folds 
+Dbabreu2: folds 
+siriku1: folds 
+kazymyr92: folds 
+Uncalled bet (160) returned to santiga
+santiga collected 400 from pot
+santiga: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: Dbabreu2 (button) folded before Flop (didn't bet)
+Seat 2: siriku1 (small blind) folded before Flop
+Seat 3: kazymyr92 (big blind) folded before Flop
+Seat 4: darkziv folded before Flop (didn't bet)
+Seat 5: santiga collected (400)
+Seat 6: hozeis folded before Flop (didn't bet)
+
+PokerStars Hand #251215848115: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VI (60/120) - 2024/06/27 11:40:31 UTC [2024/06/27 7:40:31 ET]
+Table '3771164546 2' 6-max Seat #2 is the button
+Seat 1: Dbabreu2 (3974 in chips, $25 bounty) 
+Seat 2: siriku1 (1299 in chips, $25 bounty) 
+Seat 3: kazymyr92 (2850 in chips, $25 bounty) 
+Seat 4: darkziv (5142 in chips, $25 bounty) 
+Seat 5: santiga (7465 in chips, $50 bounty) 
+Seat 6: hozeis (2975 in chips, $25 bounty) 
+Dbabreu2: posts the ante 30
+siriku1: posts the ante 30
+kazymyr92: posts the ante 30
+darkziv: posts the ante 30
+santiga: posts the ante 30
+hozeis: posts the ante 30
+kazymyr92: posts small blind 60
+darkziv: posts big blind 120
+*** HOLE CARDS ***
+santiga: folds 
+hozeis: folds 
+Dbabreu2: folds 
+siriku1: raises 1149 to 1269 and is all-in
+kazymyr92: folds 
+darkziv: calls 1149
+*** FLOP *** [Jc Qd 5s]
+*** TURN *** [Jc Qd 5s] [Kh]
+*** RIVER *** [Jc Qd 5s Kh] [3d]
+*** SHOW DOWN ***
+darkziv: shows [8s As] (high card Ace)
+siriku1: shows [2d Kd] (a pair of Kings)
+siriku1 collected 2778 from pot
+*** SUMMARY ***
+Total pot 2778 | Rake 0 
+Board [Jc Qd 5s Kh 3d]
+Seat 1: Dbabreu2 folded before Flop (didn't bet)
+Seat 2: siriku1 (button) showed [2d Kd] and won (2778) with a pair of Kings
+Seat 3: kazymyr92 (small blind) folded before Flop
+Seat 4: darkziv (big blind) showed [8s As] and lost with high card Ace
+Seat 5: santiga folded before Flop (didn't bet)
+Seat 6: hozeis folded before Flop (didn't bet)
+
+PokerStars Hand #251215851664: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VI (60/120) - 2024/06/27 11:40:57 UTC [2024/06/27 7:40:57 ET]
+Table '3771164546 2' 6-max Seat #3 is the button
+Seat 1: Dbabreu2 (3944 in chips, $25 bounty) 
+Seat 2: siriku1 (2778 in chips, $25 bounty) 
+Seat 3: kazymyr92 (2760 in chips, $25 bounty) 
+Seat 4: darkziv (3843 in chips, $25 bounty) 
+Seat 5: santiga (7435 in chips, $50 bounty) 
+Seat 6: hozeis (2945 in chips, $25 bounty) 
+Dbabreu2: posts the ante 30
+siriku1: posts the ante 30
+kazymyr92: posts the ante 30
+darkziv: posts the ante 30
+santiga: posts the ante 30
+hozeis: posts the ante 30
+darkziv: posts small blind 60
+santiga: posts big blind 120
+*** HOLE CARDS ***
+hozeis: raises 144 to 264
+Dbabreu2: folds 
+siriku1: folds 
+kazymyr92: folds 
+darkziv: calls 204
+santiga: folds 
+*** FLOP *** [3h Kh Ks]
+darkziv: checks 
+hozeis: bets 228
+darkziv: calls 228
+*** TURN *** [3h Kh Ks] [2c]
+darkziv: checks 
+hozeis: checks 
+*** RIVER *** [3h Kh Ks 2c] [4c]
+darkziv: checks 
+hozeis: checks 
+*** SHOW DOWN ***
+darkziv: shows [8h Ah] (a pair of Kings)
+hozeis: shows [As Jh] (a pair of Kings - Ace+Jack kicker)
+hozeis collected 1284 from pot
+*** SUMMARY ***
+Total pot 1284 | Rake 0 
+Board [3h Kh Ks 2c 4c]
+Seat 1: Dbabreu2 folded before Flop (didn't bet)
+Seat 2: siriku1 folded before Flop (didn't bet)
+Seat 3: kazymyr92 (button) folded before Flop (didn't bet)
+Seat 4: darkziv (small blind) showed [8h Ah] and lost with a pair of Kings
+Seat 5: santiga (big blind) folded before Flop
+Seat 6: hozeis showed [As Jh] and won (1284) with a pair of Kings
+
+PokerStars Hand #251215862680: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VI (60/120) - 2024/06/27 11:42:21 UTC [2024/06/27 7:42:21 ET]
+Table '3771164546 2' 6-max Seat #4 is the button
+Seat 2: siriku1 (2748 in chips, $25 bounty) 
+Seat 3: kazymyr92 (2730 in chips, $25 bounty) 
+Seat 4: darkziv (3321 in chips, $25 bounty) 
+Seat 5: santiga (7285 in chips, $50 bounty) 
+Seat 6: hozeis (3707 in chips, $25 bounty) 
+siriku1: posts the ante 30
+kazymyr92: posts the ante 30
+darkziv: posts the ante 30
+santiga: posts the ante 30
+hozeis: posts the ante 30
+santiga: posts small blind 60
+hozeis: posts big blind 120
+*** HOLE CARDS ***
+siriku1: folds 
+kazymyr92: folds 
+darkziv: folds 
+santiga: raises 240 to 360
+hozeis: calls 240
+*** FLOP *** [Jc 7d 9c]
+santiga: bets 287
+hozeis: calls 287
+*** TURN *** [Jc 7d 9c] [Ks]
+santiga: bets 840
+hozeis: raises 2190 to 3030 and is all-in
+santiga: folds 
+Uncalled bet (2190) returned to hozeis
+hozeis collected 3124 from pot
+*** SUMMARY ***
+Total pot 3124 | Rake 0 
+Board [Jc 7d 9c Ks]
+Seat 2: siriku1 folded before Flop (didn't bet)
+Seat 3: kazymyr92 folded before Flop (didn't bet)
+Seat 4: darkziv (button) folded before Flop (didn't bet)
+Seat 5: santiga (small blind) folded on the Turn
+Seat 6: hozeis (big blind) collected (3124)
+
+PokerStars Hand #251215870767: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (80/160) - 2024/06/27 11:43:22 UTC [2024/06/27 7:43:22 ET]
+Table '3771164546 2' 6-max Seat #5 is the button
+Seat 2: siriku1 (2718 in chips, $25 bounty) 
+Seat 3: kazymyr92 (2700 in chips, $25 bounty) 
+Seat 4: darkziv (3291 in chips, $25 bounty) 
+Seat 5: santiga (5768 in chips, $50 bounty) 
+Seat 6: hozeis (5314 in chips, $25 bounty) 
+siriku1: posts the ante 40
+kazymyr92: posts the ante 40
+darkziv: posts the ante 40
+santiga: posts the ante 40
+hozeis: posts the ante 40
+hozeis: posts small blind 80
+siriku1: posts big blind 160
+*** HOLE CARDS ***
+kazymyr92: folds 
+darkziv: folds 
+santiga: folds 
+hozeis: raises 4000 to 4160
+siriku1: folds 
+Uncalled bet (4000) returned to hozeis
+hozeis collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 2: siriku1 (big blind) folded before Flop
+Seat 3: kazymyr92 folded before Flop (didn't bet)
+Seat 4: darkziv folded before Flop (didn't bet)
+Seat 5: santiga (button) folded before Flop (didn't bet)
+Seat 6: hozeis (small blind) collected (520)
+
+PokerStars Hand #251215875383: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (80/160) - 2024/06/27 11:43:56 UTC [2024/06/27 7:43:56 ET]
+Table '3771164546 2' 6-max Seat #6 is the button
+Seat 2: siriku1 (2518 in chips, $25 bounty) 
+Seat 3: kazymyr92 (2660 in chips, $25 bounty) 
+Seat 4: darkziv (3251 in chips, $25 bounty) 
+Seat 5: santiga (5728 in chips, $50 bounty) 
+Seat 6: hozeis (5634 in chips, $25 bounty) 
+siriku1: posts the ante 40
+kazymyr92: posts the ante 40
+darkziv: posts the ante 40
+santiga: posts the ante 40
+hozeis: posts the ante 40
+siriku1: posts small blind 80
+kazymyr92: posts big blind 160
+*** HOLE CARDS ***
+darkziv: raises 198 to 358
+santiga: folds 
+hozeis: folds 
+siriku1: folds 
+kazymyr92: calls 198
+*** FLOP *** [Js Jh 7d]
+kazymyr92: checks 
+darkziv: bets 239
+kazymyr92: calls 239
+*** TURN *** [Js Jh 7d] [Kh]
+kazymyr92: bets 442
+darkziv: folds 
+Uncalled bet (442) returned to kazymyr92
+kazymyr92 collected 1474 from pot
+*** SUMMARY ***
+Total pot 1474 | Rake 0 
+Board [Js Jh 7d Kh]
+Seat 2: siriku1 (small blind) folded before Flop
+Seat 3: kazymyr92 (big blind) collected (1474)
+Seat 4: darkziv folded on the Turn
+Seat 5: santiga folded before Flop (didn't bet)
+Seat 6: hozeis (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251215883097: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (80/160) - 2024/06/27 11:44:52 UTC [2024/06/27 7:44:52 ET]
+Table '3771164546 2' 6-max Seat #2 is the button
+Seat 1: Karaage_Hiro (5262 in chips, $25 bounty) 
+Seat 2: siriku1 (2398 in chips, $25 bounty) 
+Seat 3: kazymyr92 (3497 in chips, $25 bounty) 
+Seat 4: darkziv (2614 in chips, $25 bounty) 
+Seat 5: santiga (5688 in chips, $50 bounty) 
+Seat 6: hozeis (5594 in chips, $25 bounty) 
+Karaage_Hiro: posts the ante 40
+siriku1: posts the ante 40
+kazymyr92: posts the ante 40
+darkziv: posts the ante 40
+santiga: posts the ante 40
+hozeis: posts the ante 40
+kazymyr92: posts small blind 80
+darkziv: posts big blind 160
+*** HOLE CARDS ***
+santiga: raises 256 to 416
+hozeis: raises 576 to 992
+Karaage_Hiro: folds 
+siriku1: folds 
+kazymyr92: raises 1088 to 2080
+darkziv: folds 
+santiga: folds 
+hozeis: raises 2080 to 4160
+kazymyr92: calls 1377 and is all-in
+Uncalled bet (703) returned to hozeis
+*** FLOP *** [9h Qs Kd]
+*** TURN *** [9h Qs Kd] [3d]
+*** RIVER *** [9h Qs Kd 3d] [2d]
+*** SHOW DOWN ***
+kazymyr92: shows [As Kc] (a pair of Kings)
+hozeis: shows [Qc Qd] (three of a kind, Queens)
+hozeis collected 7730 from pot
+hozeis wins $12.50 for eliminating kazymyr92 and their own bounty increases by $12.50 to $37.50
+kazymyr92 finished the tournament
+siriku1 is disconnected 
+*** SUMMARY ***
+Total pot 7730 | Rake 0 
+Board [9h Qs Kd 3d 2d]
+Seat 1: Karaage_Hiro folded before Flop (didn't bet)
+Seat 2: siriku1 (button) folded before Flop (didn't bet)
+Seat 3: kazymyr92 (small blind) showed [As Kc] and lost with a pair of Kings
+Seat 4: darkziv (big blind) folded before Flop
+Seat 5: santiga folded before Flop
+Seat 6: hozeis showed [Qc Qd] and won (7730) with three of a kind, Queens
+
+PokerStars Hand #251215889424: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (80/160) - 2024/06/27 11:45:38 UTC [2024/06/27 7:45:38 ET]
+Table '3771164546 2' 6-max Seat #4 is the button
+Seat 1: Karaage_Hiro (5222 in chips, $25 bounty) 
+Seat 2: siriku1 (2358 in chips, $25 bounty) 
+Seat 4: darkziv (2414 in chips, $25 bounty) 
+Seat 5: santiga (5232 in chips, $50 bounty) 
+Seat 6: hozeis (9827 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 40
+siriku1: posts the ante 40
+darkziv: posts the ante 40
+santiga: posts the ante 40
+hozeis: posts the ante 40
+santiga: posts small blind 80
+hozeis: posts big blind 160
+*** HOLE CARDS ***
+Karaage_Hiro: folds 
+siriku1 has timed out while disconnected
+siriku1: folds 
+siriku1 is sitting out
+darkziv: folds 
+santiga: calls 80
+hozeis: checks 
+*** FLOP *** [9h Jd Jh]
+santiga: bets 160
+hozeis: folds 
+Uncalled bet (160) returned to santiga
+santiga collected 520 from pot
+santiga: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [9h Jd Jh]
+Seat 1: Karaage_Hiro folded before Flop (didn't bet)
+Seat 2: siriku1 folded before Flop (didn't bet)
+Seat 4: darkziv (button) folded before Flop (didn't bet)
+Seat 5: santiga (small blind) collected (520)
+Seat 6: hozeis (big blind) folded on the Flop
+
+PokerStars Hand #251215894229: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VIII (100/200) - 2024/06/27 11:46:14 UTC [2024/06/27 7:46:14 ET]
+Table '3771164546 2' 6-max Seat #5 is the button
+Seat 1: Karaage_Hiro (5182 in chips, $25 bounty) 
+Seat 2: siriku1 (2318 in chips, $25 bounty) 
+Seat 4: darkziv (2374 in chips, $25 bounty) 
+Seat 5: santiga (5552 in chips, $50 bounty) 
+Seat 6: hozeis (9627 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 50
+siriku1: posts the ante 50
+darkziv: posts the ante 50
+santiga: posts the ante 50
+hozeis: posts the ante 50
+hozeis: posts small blind 100
+Karaage_Hiro: posts big blind 200
+*** HOLE CARDS ***
+siriku1: raises 2068 to 2268 and is all-in
+darkziv: raises 56 to 2324 and is all-in
+santiga: folds 
+hozeis: folds 
+Karaage_Hiro: folds 
+Uncalled bet (56) returned to darkziv
+*** FLOP *** [Kc 5s Tc]
+*** TURN *** [Kc 5s Tc] [8c]
+*** RIVER *** [Kc 5s Tc 8c] [3c]
+*** SHOW DOWN ***
+siriku1: shows [Ad 6s] (high card Ace)
+darkziv: shows [Kh Jc] (a flush, King high)
+darkziv collected 5086 from pot
+darkziv wins $12.50 for eliminating siriku1 and their own bounty increases by $12.50 to $37.50
+siriku1 finished the tournament
+*** SUMMARY ***
+Total pot 5086 | Rake 0 
+Board [Kc 5s Tc 8c 3c]
+Seat 1: Karaage_Hiro (big blind) folded before Flop
+Seat 2: siriku1 showed [Ad 6s] and lost with high card Ace
+Seat 4: darkziv showed [Kh Jc] and won (5086) with a flush, King high
+Seat 5: santiga (button) folded before Flop (didn't bet)
+Seat 6: hozeis (small blind) folded before Flop
+
+PokerStars Hand #251215898972: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VIII (100/200) - 2024/06/27 11:46:49 UTC [2024/06/27 7:46:49 ET]
+Table '3771164546 2' 6-max Seat #6 is the button
+Seat 1: Karaage_Hiro (4932 in chips, $25 bounty) 
+Seat 4: darkziv (5142 in chips, $37.50 bounty) 
+Seat 5: santiga (5502 in chips, $50 bounty) 
+Seat 6: hozeis (9477 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 50
+darkziv: posts the ante 50
+santiga: posts the ante 50
+hozeis: posts the ante 50
+Karaage_Hiro: posts small blind 100
+darkziv: posts big blind 200
+*** HOLE CARDS ***
+santiga: folds 
+hozeis: folds 
+Karaage_Hiro: raises 240 to 440
+darkziv: calls 240
+*** FLOP *** [7s 3h Qh]
+Karaage_Hiro: bets 540
+darkziv: raises 540 to 1080
+Karaage_Hiro: folds 
+Uncalled bet (540) returned to darkziv
+darkziv collected 2160 from pot
+darkziv: doesn't show hand 
+*** SUMMARY ***
+Total pot 2160 | Rake 0 
+Board [7s 3h Qh]
+Seat 1: Karaage_Hiro (small blind) folded on the Flop
+Seat 4: darkziv (big blind) collected (2160)
+Seat 5: santiga folded before Flop (didn't bet)
+Seat 6: hozeis (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251215903597: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VIII (100/200) - 2024/06/27 11:47:23 UTC [2024/06/27 7:47:23 ET]
+Table '3771164546 2' 6-max Seat #1 is the button
+Seat 1: Karaage_Hiro (3902 in chips, $25 bounty) 
+Seat 4: darkziv (6272 in chips, $37.50 bounty) 
+Seat 5: santiga (5452 in chips, $50 bounty) 
+Seat 6: hozeis (9427 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 50
+darkziv: posts the ante 50
+santiga: posts the ante 50
+hozeis: posts the ante 50
+darkziv: posts small blind 100
+santiga: posts big blind 200
+*** HOLE CARDS ***
+hozeis: folds 
+Karaage_Hiro: folds 
+darkziv: raises 334 to 534
+santiga: calls 334
+*** FLOP *** [Td 2d Ts]
+darkziv: checks 
+santiga: checks 
+*** TURN *** [Td 2d Ts] [8h]
+darkziv: bets 306
+santiga: calls 306
+*** RIVER *** [Td 2d Ts 8h] [5d]
+darkziv: checks 
+santiga: checks 
+*** SHOW DOWN ***
+darkziv: shows [Kh Ad] (a pair of Tens)
+santiga: shows [8c 4h] (two pair, Tens and Eights)
+santiga collected 1880 from pot
+*** SUMMARY ***
+Total pot 1880 | Rake 0 
+Board [Td 2d Ts 8h 5d]
+Seat 1: Karaage_Hiro (button) folded before Flop (didn't bet)
+Seat 4: darkziv (small blind) showed [Kh Ad] and lost with a pair of Tens
+Seat 5: santiga (big blind) showed [8c 4h] and won (1880) with two pair, Tens and Eights
+Seat 6: hozeis folded before Flop (didn't bet)
+
+PokerStars Hand #251215909708: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VIII (100/200) - 2024/06/27 11:48:08 UTC [2024/06/27 7:48:08 ET]
+Table '3771164546 2' 6-max Seat #4 is the button
+Seat 1: Karaage_Hiro (3852 in chips, $25 bounty) 
+Seat 4: darkziv (5382 in chips, $37.50 bounty) 
+Seat 5: santiga (6442 in chips, $50 bounty) 
+Seat 6: hozeis (9377 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 50
+darkziv: posts the ante 50
+santiga: posts the ante 50
+hozeis: posts the ante 50
+santiga: posts small blind 100
+hozeis: posts big blind 200
+*** HOLE CARDS ***
+Karaage_Hiro: folds 
+darkziv: folds 
+santiga: raises 500 to 700
+hozeis: calls 500
+*** FLOP *** [Ks 4d 9s]
+santiga: bets 528
+hozeis: calls 528
+*** TURN *** [Ks 4d 9s] [Jh]
+santiga: checks 
+hozeis: bets 1301
+santiga: calls 1301
+*** RIVER *** [Ks 4d 9s Jh] [9d]
+santiga: checks 
+hozeis: bets 6798 and is all-in
+santiga: folds 
+Uncalled bet (6798) returned to hozeis
+hozeis collected 5258 from pot
+*** SUMMARY ***
+Total pot 5258 | Rake 0 
+Board [Ks 4d 9s Jh 9d]
+Seat 1: Karaage_Hiro folded before Flop (didn't bet)
+Seat 4: darkziv (button) folded before Flop (didn't bet)
+Seat 5: santiga (small blind) folded on the River
+Seat 6: hozeis (big blind) collected (5258)
+
+PokerStars Hand #251215921639: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IX (125/250) - 2024/06/27 11:49:35 UTC [2024/06/27 7:49:35 ET]
+Table '3771164546 2' 6-max Seat #5 is the button
+Seat 1: Karaage_Hiro (3802 in chips, $25 bounty) 
+Seat 4: darkziv (5332 in chips, $37.50 bounty) 
+Seat 5: santiga (3863 in chips, $50 bounty) 
+Seat 6: hozeis (12056 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 60
+darkziv: posts the ante 60
+santiga: posts the ante 60
+hozeis: posts the ante 60
+hozeis: posts small blind 125
+Karaage_Hiro: posts big blind 250
+*** HOLE CARDS ***
+darkziv: folds 
+santiga: raises 3553 to 3803 and is all-in
+hozeis: folds 
+Karaage_Hiro: folds 
+Uncalled bet (3553) returned to santiga
+santiga collected 865 from pot
+santiga: doesn't show hand 
+*** SUMMARY ***
+Total pot 865 | Rake 0 
+Seat 1: Karaage_Hiro (big blind) folded before Flop
+Seat 4: darkziv folded before Flop (didn't bet)
+Seat 5: santiga (button) collected (865)
+Seat 6: hozeis (small blind) folded before Flop
+
+PokerStars Hand #251215924995: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IX (125/250) - 2024/06/27 11:50:00 UTC [2024/06/27 7:50:00 ET]
+Table '3771164546 2' 6-max Seat #6 is the button
+Seat 1: Karaage_Hiro (3492 in chips, $25 bounty) 
+Seat 4: darkziv (5272 in chips, $37.50 bounty) 
+Seat 5: santiga (4418 in chips, $50 bounty) 
+Seat 6: hozeis (11871 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 60
+darkziv: posts the ante 60
+santiga: posts the ante 60
+hozeis: posts the ante 60
+Karaage_Hiro: posts small blind 125
+darkziv: posts big blind 250
+*** HOLE CARDS ***
+santiga: folds 
+hozeis: folds 
+Karaage_Hiro: folds 
+Uncalled bet (125) returned to darkziv
+darkziv collected 490 from pot
+darkziv: doesn't show hand 
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Seat 1: Karaage_Hiro (small blind) folded before Flop
+Seat 4: darkziv (big blind) collected (490)
+Seat 5: santiga folded before Flop (didn't bet)
+Seat 6: hozeis (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251215926410: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IX (125/250) - 2024/06/27 11:50:10 UTC [2024/06/27 7:50:10 ET]
+Table '3771164546 2' 6-max Seat #1 is the button
+Seat 1: Karaage_Hiro (3307 in chips, $25 bounty) 
+Seat 4: darkziv (5577 in chips, $37.50 bounty) 
+Seat 5: santiga (4358 in chips, $50 bounty) 
+Seat 6: hozeis (11811 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 60
+darkziv: posts the ante 60
+santiga: posts the ante 60
+hozeis: posts the ante 60
+darkziv: posts small blind 125
+santiga: posts big blind 250
+*** HOLE CARDS ***
+hozeis: folds 
+Karaage_Hiro: folds 
+darkziv: raises 375 to 625
+santiga: calls 375
+*** FLOP *** [7d Jh 3d]
+darkziv: checks 
+santiga: checks 
+*** TURN *** [7d Jh 3d] [9s]
+darkziv: bets 375
+santiga: folds 
+Uncalled bet (375) returned to darkziv
+darkziv collected 1490 from pot
+darkziv: doesn't show hand 
+*** SUMMARY ***
+Total pot 1490 | Rake 0 
+Board [7d Jh 3d 9s]
+Seat 1: Karaage_Hiro (button) folded before Flop (didn't bet)
+Seat 4: darkziv (small blind) collected (1490)
+Seat 5: santiga (big blind) folded on the Turn
+Seat 6: hozeis folded before Flop (didn't bet)
+
+PokerStars Hand #251215931872: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IX (125/250) - 2024/06/27 11:50:50 UTC [2024/06/27 7:50:50 ET]
+Table '3771164546 2' 6-max Seat #4 is the button
+Seat 1: Karaage_Hiro (3247 in chips, $25 bounty) 
+Seat 4: darkziv (6382 in chips, $37.50 bounty) 
+Seat 5: santiga (3673 in chips, $50 bounty) 
+Seat 6: hozeis (11751 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 60
+darkziv: posts the ante 60
+santiga: posts the ante 60
+hozeis: posts the ante 60
+santiga: posts small blind 125
+hozeis: posts big blind 250
+*** HOLE CARDS ***
+Karaage_Hiro: folds 
+darkziv: folds 
+santiga: calls 125
+hozeis: raises 5000 to 5250
+santiga: folds 
+Uncalled bet (5000) returned to hozeis
+hozeis collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Seat 1: Karaage_Hiro folded before Flop (didn't bet)
+Seat 4: darkziv (button) folded before Flop (didn't bet)
+Seat 5: santiga (small blind) folded before Flop
+Seat 6: hozeis (big blind) collected (740)
+
+PokerStars Hand #251215934177: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IX (125/250) - 2024/06/27 11:51:06 UTC [2024/06/27 7:51:06 ET]
+Table '3771164546 2' 6-max Seat #5 is the button
+Seat 1: Karaage_Hiro (3187 in chips, $25 bounty) 
+Seat 4: darkziv (6322 in chips, $37.50 bounty) 
+Seat 5: santiga (3363 in chips, $50 bounty) 
+Seat 6: hozeis (12181 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 60
+darkziv: posts the ante 60
+santiga: posts the ante 60
+hozeis: posts the ante 60
+hozeis: posts small blind 125
+Karaage_Hiro: posts big blind 250
+*** HOLE CARDS ***
+darkziv: raises 250 to 500
+santiga: folds 
+hozeis: folds 
+Karaage_Hiro: raises 750 to 1250
+darkziv: folds 
+Uncalled bet (750) returned to Karaage_Hiro
+Karaage_Hiro collected 1365 from pot
+Karaage_Hiro: doesn't show hand 
+*** SUMMARY ***
+Total pot 1365 | Rake 0 
+Seat 1: Karaage_Hiro (big blind) collected (1365)
+Seat 4: darkziv folded before Flop
+Seat 5: santiga (button) folded before Flop (didn't bet)
+Seat 6: hozeis (small blind) folded before Flop
+
+PokerStars Hand #251215938857: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IX (125/250) - 2024/06/27 11:51:41 UTC [2024/06/27 7:51:41 ET]
+Table '3771164546 2' 6-max Seat #6 is the button
+Seat 1: Karaage_Hiro (3992 in chips, $25 bounty) 
+Seat 4: darkziv (5762 in chips, $37.50 bounty) 
+Seat 5: santiga (3303 in chips, $50 bounty) 
+Seat 6: hozeis (11996 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 60
+darkziv: posts the ante 60
+santiga: posts the ante 60
+hozeis: posts the ante 60
+Karaage_Hiro: posts small blind 125
+darkziv: posts big blind 250
+*** HOLE CARDS ***
+santiga: folds 
+hozeis: folds 
+Karaage_Hiro: raises 3682 to 3932 and is all-in
+darkziv: calls 3682
+*** FLOP *** [Ks As Kc]
+*** TURN *** [Ks As Kc] [2h]
+*** RIVER *** [Ks As Kc 2h] [Ad]
+*** SHOW DOWN ***
+Karaage_Hiro: shows [3d Qd] (two pair, Aces and Kings)
+darkziv: shows [8s Kh] (a full house, Kings full of Aces)
+darkziv collected 8104 from pot
+darkziv wins $12.50 for eliminating Karaage_Hiro and their own bounty increases by $12.50 to $50
+Karaage_Hiro finished the tournament
+*** SUMMARY ***
+Total pot 8104 | Rake 0 
+Board [Ks As Kc 2h Ad]
+Seat 1: Karaage_Hiro (small blind) showed [3d Qd] and lost with two pair, Aces and Kings
+Seat 4: darkziv (big blind) showed [8s Kh] and won (8104) with a full house, Kings full of Aces
+Seat 5: santiga folded before Flop (didn't bet)
+Seat 6: hozeis (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #251215752021: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level II (20/40) - 2024/06/27 11:28:21 UTC [2024/06/27 7:28:21 ET]
+Table '3771164546 1' 6-max Seat #6 is the button
+Seat 1: billionaaire (2538 in chips, $25 bounty) 
+Seat 3: Orgil550 (3300 in chips, $25 bounty) 
+Seat 4: osakei1024 (3421 in chips, $25 bounty) 
+Seat 6: Karaage_Hiro (2867 in chips, $25 bounty) 
+billionaaire: posts the ante 10
+Orgil550: posts the ante 10
+osakei1024: posts the ante 10
+Karaage_Hiro: posts the ante 10
+billionaaire: posts small blind 20
+Orgil550: posts big blind 40
+*** HOLE CARDS ***
+osakei1024: folds 
+Karaage_Hiro: raises 48 to 88
+billionaaire: folds 
+Orgil550: calls 48
+*** FLOP *** [3d 5h As]
+Orgil550: checks 
+Karaage_Hiro: bets 78
+Orgil550: raises 78 to 156
+Shunzao is disconnected 
+Karaage_Hiro: calls 78
+*** TURN *** [3d 5h As] [Ks]
+Orgil550: bets 548
+Karaage_Hiro: calls 548
+*** RIVER *** [3d 5h As Ks] [4d]
+Orgil550: bets 2498 and is all-in
+Karaage_Hiro: folds 
+Uncalled bet (2498) returned to Orgil550
+Orgil550 collected 1644 from pot
+*** SUMMARY ***
+Total pot 1644 | Rake 0 
+Board [3d 5h As Ks 4d]
+Seat 1: billionaaire (small blind) folded before Flop
+Seat 3: Orgil550 (big blind) collected (1644)
+Seat 4: osakei1024 folded before Flop (didn't bet)
+Seat 6: Karaage_Hiro (button) folded on the River
+
+PokerStars Hand #251215759249: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level II (20/40) - 2024/06/27 11:29:17 UTC [2024/06/27 7:29:17 ET]
+Table '3771164546 1' 6-max Seat #1 is the button
+Seat 1: billionaaire (2508 in chips, $25 bounty) 
+Seat 3: Orgil550 (4142 in chips, $25 bounty) 
+Seat 4: osakei1024 (3411 in chips, $25 bounty) 
+Seat 5: Shunzao (3000 in chips, $25 bounty) 
+Seat 6: Karaage_Hiro (2065 in chips, $25 bounty) 
+billionaaire: posts the ante 10
+Orgil550: posts the ante 10
+osakei1024: posts the ante 10
+Shunzao: posts the ante 10
+Karaage_Hiro: posts the ante 10
+Orgil550: posts small blind 20
+osakei1024: posts big blind 40
+*** HOLE CARDS ***
+Shunzao: folds 
+Karaage_Hiro: folds 
+billionaaire: raises 92 to 132
+Orgil550: folds 
+osakei1024: calls 92
+*** FLOP *** [3h 5s Ts]
+osakei1024: checks 
+billionaaire: bets 334
+osakei1024: folds 
+Uncalled bet (334) returned to billionaaire
+billionaaire collected 334 from pot
+billionaaire: doesn't show hand 
+*** SUMMARY ***
+Total pot 334 | Rake 0 
+Board [3h 5s Ts]
+Seat 1: billionaaire (button) collected (334)
+Seat 3: Orgil550 (small blind) folded before Flop
+Seat 4: osakei1024 (big blind) folded on the Flop
+Seat 5: Shunzao folded before Flop (didn't bet)
+Seat 6: Karaage_Hiro folded before Flop (didn't bet)
+
+PokerStars Hand #251215764546: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level II (20/40) - 2024/06/27 11:29:56 UTC [2024/06/27 7:29:56 ET]
+Table '3771164546 1' 6-max Seat #3 is the button
+Seat 1: billionaaire (2700 in chips, $25 bounty) 
+Seat 3: Orgil550 (4112 in chips, $25 bounty) 
+Seat 4: osakei1024 (3269 in chips, $25 bounty) 
+Seat 5: Shunzao (2990 in chips, $25 bounty) 
+Seat 6: Karaage_Hiro (2055 in chips, $25 bounty) 
+billionaaire: posts the ante 10
+Orgil550: posts the ante 10
+osakei1024: posts the ante 10
+Shunzao: posts the ante 10
+Karaage_Hiro: posts the ante 10
+osakei1024: posts small blind 20
+Shunzao: posts big blind 40
+*** HOLE CARDS ***
+Karaage_Hiro: raises 40 to 80
+billionaaire: folds 
+Orgil550: calls 80
+osakei1024: folds 
+Shunzao: calls 40
+*** FLOP *** [Js 3d 2s]
+Shunzao: checks 
+Karaage_Hiro: checks 
+Orgil550: checks 
+*** TURN *** [Js 3d 2s] [Qc]
+Shunzao: checks 
+Karaage_Hiro: checks 
+Orgil550: checks 
+*** RIVER *** [Js 3d 2s Qc] [9c]
+Shunzao: bets 390
+Karaage_Hiro: folds 
+Orgil550: folds 
+Uncalled bet (390) returned to Shunzao
+Shunzao collected 310 from pot
+Shunzao: doesn't show hand 
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Board [Js 3d 2s Qc 9c]
+Seat 1: billionaaire folded before Flop (didn't bet)
+Seat 3: Orgil550 (button) folded on the River
+Seat 4: osakei1024 (small blind) folded before Flop
+Seat 5: Shunzao (big blind) collected (310)
+Seat 6: Karaage_Hiro folded on the River
+
+PokerStars Hand #251215770766: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level II (20/40) - 2024/06/27 11:30:45 UTC [2024/06/27 7:30:45 ET]
+Table '3771164546 1' 6-max Seat #4 is the button
+Seat 1: billionaaire (2690 in chips, $25 bounty) 
+Seat 3: Orgil550 (4022 in chips, $25 bounty) 
+Seat 4: osakei1024 (3239 in chips, $25 bounty) 
+Seat 5: Shunzao (3210 in chips, $25 bounty) 
+Seat 6: Karaage_Hiro (1965 in chips, $25 bounty) 
+billionaaire: posts the ante 10
+Orgil550: posts the ante 10
+osakei1024: posts the ante 10
+Shunzao: posts the ante 10
+Karaage_Hiro: posts the ante 10
+Shunzao: posts small blind 20
+Karaage_Hiro: posts big blind 40
+*** HOLE CARDS ***
+billionaaire: folds 
+Orgil550: folds 
+osakei1024: raises 60 to 100
+Shunzao: folds 
+Karaage_Hiro: raises 180 to 280
+osakei1024: calls 180
+*** FLOP *** [Ts 2h 3s]
+Karaage_Hiro: bets 280
+osakei1024: raises 405 to 685
+Karaage_Hiro: raises 990 to 1675 and is all-in
+osakei1024: calls 990
+*** TURN *** [Ts 2h 3s] [Ad]
+*** RIVER *** [Ts 2h 3s Ad] [Ac]
+*** SHOW DOWN ***
+Karaage_Hiro: shows [Kc Ks] (two pair, Aces and Kings)
+osakei1024: shows [7h Th] (two pair, Aces and Tens)
+Karaage_Hiro collected 3980 from pot
+*** SUMMARY ***
+Total pot 3980 | Rake 0 
+Board [Ts 2h 3s Ad Ac]
+Seat 1: billionaaire folded before Flop (didn't bet)
+Seat 3: Orgil550 folded before Flop (didn't bet)
+Seat 4: osakei1024 (button) showed [7h Th] and lost with two pair, Aces and Tens
+Seat 5: Shunzao (small blind) folded before Flop
+Seat 6: Karaage_Hiro (big blind) showed [Kc Ks] and won (3980) with two pair, Aces and Kings
+
+PokerStars Hand #251215779724: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level III (30/60) - 2024/06/27 11:31:53 UTC [2024/06/27 7:31:53 ET]
+Table '3771164546 1' 6-max Seat #5 is the button
+Seat 1: billionaaire (2680 in chips, $25 bounty) 
+Seat 3: Orgil550 (4012 in chips, $25 bounty) 
+Seat 4: osakei1024 (1274 in chips, $25 bounty) 
+Seat 5: Shunzao (3180 in chips, $25 bounty) 
+Seat 6: Karaage_Hiro (3980 in chips, $25 bounty) 
+billionaaire: posts the ante 15
+Orgil550: posts the ante 15
+osakei1024: posts the ante 15
+Shunzao: posts the ante 15
+Karaage_Hiro: posts the ante 15
+Karaage_Hiro: posts small blind 30
+billionaaire: posts big blind 60
+*** HOLE CARDS ***
+Orgil550: calls 60
+osakei1024: folds 
+Shunzao: folds 
+Karaage_Hiro: raises 90 to 150
+phbarbosaa is disconnected 
+billionaaire: raises 288 to 438
+Orgil550: calls 378
+Karaage_Hiro: calls 288
+*** FLOP *** [4s 3d 9h]
+Karaage_Hiro: checks 
+billionaaire: bets 248
+Orgil550: calls 248
+Karaage_Hiro: folds 
+*** TURN *** [4s 3d 9h] [9d]
+billionaaire: bets 622
+Orgil550: calls 622
+*** RIVER *** [4s 3d 9h 9d] [6h]
+billionaaire: checks 
+Orgil550: bets 2689 and is all-in
+billionaaire: folds 
+Uncalled bet (2689) returned to Orgil550
+Orgil550 collected 3129 from pot
+*** SUMMARY ***
+Total pot 3129 | Rake 0 
+Board [4s 3d 9h 9d 6h]
+Seat 1: billionaaire (big blind) folded on the River
+Seat 3: Orgil550 collected (3129)
+Seat 4: osakei1024 folded before Flop (didn't bet)
+Seat 5: Shunzao (button) folded before Flop (didn't bet)
+Seat 6: Karaage_Hiro (small blind) folded on the Flop
+
+PokerStars Hand #251215794048: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level III (30/60) - 2024/06/27 11:33:42 UTC [2024/06/27 7:33:42 ET]
+Table '3771164546 1' 6-max Seat #6 is the button
+Seat 1: billionaaire (1357 in chips, $25 bounty) 
+Seat 2: phbarbosaa (3000 in chips, $25 bounty) 
+Seat 3: Orgil550 (5818 in chips, $25 bounty) 
+Seat 5: Shunzao (3165 in chips, $25 bounty) 
+Seat 6: Karaage_Hiro (3527 in chips, $25 bounty) 
+billionaaire: posts the ante 15
+phbarbosaa: posts the ante 15
+Orgil550: posts the ante 15
+Shunzao: posts the ante 15
+Karaage_Hiro: posts the ante 15
+billionaaire: posts small blind 30
+phbarbosaa: posts big blind 60
+*** HOLE CARDS ***
+Orgil550: folds 
+Shunzao: folds 
+Karaage_Hiro: folds 
+billionaaire: raises 1282 to 1342 and is all-in
+phbarbosaa: folds 
+Uncalled bet (1282) returned to billionaaire
+billionaaire collected 195 from pot
+billionaaire: doesn't show hand 
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Seat 1: billionaaire (small blind) collected (195)
+Seat 2: phbarbosaa (big blind) folded before Flop
+Seat 3: Orgil550 folded before Flop (didn't bet)
+Seat 5: Shunzao folded before Flop (didn't bet)
+Seat 6: Karaage_Hiro (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251215797187: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (40/80) - 2024/06/27 11:34:06 UTC [2024/06/27 7:34:06 ET]
+Table '3771164546 1' 6-max Seat #1 is the button
+Seat 1: billionaaire (1477 in chips, $25 bounty) 
+Seat 2: phbarbosaa (2925 in chips, $25 bounty) 
+Seat 3: Orgil550 (5803 in chips, $25 bounty) 
+Seat 5: Shunzao (3150 in chips, $25 bounty) 
+Seat 6: Karaage_Hiro (3512 in chips, $25 bounty) 
+billionaaire: posts the ante 20
+phbarbosaa: posts the ante 20
+Orgil550: posts the ante 20
+Shunzao: posts the ante 20
+Karaage_Hiro: posts the ante 20
+phbarbosaa: posts small blind 40
+Orgil550: posts big blind 80
+*** HOLE CARDS ***
+Shunzao: folds 
+Karaage_Hiro: raises 80 to 160
+billionaaire: folds 
+phbarbosaa: raises 500 to 660
+Orgil550: folds 
+Karaage_Hiro: folds 
+Uncalled bet (500) returned to phbarbosaa
+phbarbosaa collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: billionaaire (button) folded before Flop (didn't bet)
+Seat 2: phbarbosaa (small blind) collected (500)
+Seat 3: Orgil550 (big blind) folded before Flop
+Seat 5: Shunzao folded before Flop (didn't bet)
+Seat 6: Karaage_Hiro folded before Flop
+
+PokerStars Hand #251215800368: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (40/80) - 2024/06/27 11:34:30 UTC [2024/06/27 7:34:30 ET]
+Table '3771164546 1' 6-max Seat #2 is the button
+Seat 1: billionaaire (1457 in chips, $25 bounty) 
+Seat 2: phbarbosaa (3245 in chips, $25 bounty) 
+Seat 3: Orgil550 (5703 in chips, $25 bounty) 
+Seat 5: Shunzao (3130 in chips, $25 bounty) 
+Seat 6: Karaage_Hiro (3332 in chips, $25 bounty) 
+billionaaire: posts the ante 20
+phbarbosaa: posts the ante 20
+Orgil550: posts the ante 20
+Shunzao: posts the ante 20
+Karaage_Hiro: posts the ante 20
+Orgil550: posts small blind 40
+Shunzao: posts big blind 80
+*** HOLE CARDS ***
+Karaage_Hiro: raises 80 to 160
+billionaaire: folds 
+phbarbosaa: folds 
+Orgil550: folds 
+Shunzao: raises 480 to 640
+Karaage_Hiro: raises 2672 to 3312 and is all-in
+Shunzao: folds 
+Uncalled bet (2672) returned to Karaage_Hiro
+Karaage_Hiro collected 1420 from pot
+Karaage_Hiro: doesn't show hand 
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Seat 1: billionaaire folded before Flop (didn't bet)
+Seat 2: phbarbosaa (button) folded before Flop (didn't bet)
+Seat 3: Orgil550 (small blind) folded before Flop
+Seat 5: Shunzao (big blind) folded before Flop
+Seat 6: Karaage_Hiro collected (1420)
+
+PokerStars Hand #251215806421: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (40/80) - 2024/06/27 11:35:16 UTC [2024/06/27 7:35:16 ET]
+Table '3771164546 1' 6-max Seat #3 is the button
+Seat 1: billionaaire (1437 in chips, $25 bounty) 
+Seat 2: phbarbosaa (3225 in chips, $25 bounty) 
+Seat 3: Orgil550 (5643 in chips, $25 bounty) 
+Seat 5: Shunzao (2470 in chips, $25 bounty) 
+Seat 6: Karaage_Hiro (4092 in chips, $25 bounty) 
+billionaaire: posts the ante 20
+phbarbosaa: posts the ante 20
+Orgil550: posts the ante 20
+Shunzao: posts the ante 20
+Karaage_Hiro: posts the ante 20
+Shunzao: posts small blind 40
+Karaage_Hiro: posts big blind 80
+*** HOLE CARDS ***
+billionaaire: folds 
+phbarbosaa: raises 80 to 160
+Orgil550: folds 
+Shunzao: folds 
+Karaage_Hiro: calls 80
+*** FLOP *** [2c Tc 9c]
+Karaage_Hiro: checks 
+phbarbosaa: bets 120
+Karaage_Hiro: folds 
+Uncalled bet (120) returned to phbarbosaa
+phbarbosaa collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Board [2c Tc 9c]
+Seat 1: billionaaire folded before Flop (didn't bet)
+Seat 2: phbarbosaa collected (460)
+Seat 3: Orgil550 (button) folded before Flop (didn't bet)
+Seat 5: Shunzao (small blind) folded before Flop
+Seat 6: Karaage_Hiro (big blind) folded on the Flop
+
+PokerStars Hand #251215811259: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (40/80) - 2024/06/27 11:35:53 UTC [2024/06/27 7:35:53 ET]
+Table '3771164546 1' 6-max Seat #5 is the button
+Seat 1: billionaaire (1417 in chips, $25 bounty) 
+Seat 2: phbarbosaa (3505 in chips, $25 bounty) 
+Seat 3: Orgil550 (5623 in chips, $25 bounty) 
+Seat 5: Shunzao (2410 in chips, $25 bounty) 
+Seat 6: Karaage_Hiro (3912 in chips, $25 bounty) 
+billionaaire: posts the ante 20
+phbarbosaa: posts the ante 20
+Orgil550: posts the ante 20
+Shunzao: posts the ante 20
+Karaage_Hiro: posts the ante 20
+Karaage_Hiro: posts small blind 40
+billionaaire: posts big blind 80
+*** HOLE CARDS ***
+phbarbosaa: raises 80 to 160
+Orgil550: raises 80 to 240
+Shunzao: folds 
+Karaage_Hiro: folds 
+billionaaire: folds 
+phbarbosaa: calls 80
+*** FLOP *** [2c Th 2d]
+phbarbosaa: checks 
+Orgil550: bets 350
+phbarbosaa: folds 
+Uncalled bet (350) returned to Orgil550
+Orgil550 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [2c Th 2d]
+Seat 1: billionaaire (big blind) folded before Flop
+Seat 2: phbarbosaa folded on the Flop
+Seat 3: Orgil550 collected (700)
+Seat 5: Shunzao (button) folded before Flop (didn't bet)
+Seat 6: Karaage_Hiro (small blind) folded before Flop
+
+PokerStars Hand #251215817422: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (40/80) - 2024/06/27 11:36:38 UTC [2024/06/27 7:36:38 ET]
+Table '3771164546 1' 6-max Seat #6 is the button
+Seat 1: billionaaire (1317 in chips, $25 bounty) 
+Seat 2: phbarbosaa (3245 in chips, $25 bounty) 
+Seat 3: Orgil550 (6063 in chips, $25 bounty) 
+Seat 5: Shunzao (2390 in chips, $25 bounty) 
+Seat 6: Karaage_Hiro (3852 in chips, $25 bounty) 
+billionaaire: posts the ante 20
+phbarbosaa: posts the ante 20
+Orgil550: posts the ante 20
+Shunzao: posts the ante 20
+Karaage_Hiro: posts the ante 20
+billionaaire: posts small blind 40
+phbarbosaa: posts big blind 80
+*** HOLE CARDS ***
+Orgil550: calls 80
+Shunzao: raises 80 to 160
+Karaage_Hiro: calls 160
+billionaaire: folds 
+phbarbosaa: calls 80
+Orgil550: calls 80
+*** FLOP *** [Kd Jc As]
+phbarbosaa: checks 
+Orgil550: checks 
+Shunzao: bets 202
+Karaage_Hiro: folds 
+phbarbosaa: folds 
+Orgil550: calls 202
+*** TURN *** [Kd Jc As] [5c]
+Orgil550: checks 
+Shunzao: bets 604
+Orgil550: folds 
+Uncalled bet (604) returned to Shunzao
+Shunzao collected 1184 from pot
+Shunzao: doesn't show hand 
+*** SUMMARY ***
+Total pot 1184 | Rake 0 
+Board [Kd Jc As 5c]
+Seat 1: billionaaire (small blind) folded before Flop
+Seat 2: phbarbosaa (big blind) folded on the Flop
+Seat 3: Orgil550 folded on the Turn
+Seat 5: Shunzao collected (1184)
+Seat 6: Karaage_Hiro (button) folded on the Flop
+
+PokerStars Hand #251215826279: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level V (50/100) - 2024/06/27 11:37:45 UTC [2024/06/27 7:37:45 ET]
+Table '3771164546 1' 6-max Seat #1 is the button
+Seat 1: billionaaire (1257 in chips, $25 bounty) 
+Seat 2: phbarbosaa (3065 in chips, $25 bounty) 
+Seat 3: Orgil550 (5681 in chips, $25 bounty) 
+Seat 5: Shunzao (3192 in chips, $25 bounty) 
+Seat 6: Karaage_Hiro (3672 in chips, $25 bounty) 
+billionaaire: posts the ante 25
+phbarbosaa: posts the ante 25
+Orgil550: posts the ante 25
+Shunzao: posts the ante 25
+Karaage_Hiro: posts the ante 25
+phbarbosaa: posts small blind 50
+Orgil550: posts big blind 100
+*** HOLE CARDS ***
+Shunzao: folds 
+Karaage_Hiro: raises 120 to 220
+billionaaire: folds 
+phbarbosaa: calls 170
+Orgil550: folds 
+*** FLOP *** [Js 5c 7s]
+phbarbosaa: checks 
+Karaage_Hiro: bets 333
+phbarbosaa: folds 
+Uncalled bet (333) returned to Karaage_Hiro
+Karaage_Hiro collected 665 from pot
+Karaage_Hiro: doesn't show hand 
+*** SUMMARY ***
+Total pot 665 | Rake 0 
+Board [Js 5c 7s]
+Seat 1: billionaaire (button) folded before Flop (didn't bet)
+Seat 2: phbarbosaa (small blind) folded on the Flop
+Seat 3: Orgil550 (big blind) folded before Flop
+Seat 5: Shunzao folded before Flop (didn't bet)
+Seat 6: Karaage_Hiro collected (665)
+
+PokerStars Hand #251215831640: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level V (50/100) - 2024/06/27 11:38:25 UTC [2024/06/27 7:38:25 ET]
+Table '3771164546 1' 6-max Seat #2 is the button
+Seat 1: billionaaire (1232 in chips, $25 bounty) 
+Seat 2: phbarbosaa (2820 in chips, $25 bounty) 
+Seat 3: Orgil550 (5556 in chips, $25 bounty) 
+Seat 5: Shunzao (3167 in chips, $25 bounty) 
+Seat 6: Karaage_Hiro (4092 in chips, $25 bounty) 
+billionaaire: posts the ante 25
+phbarbosaa: posts the ante 25
+Orgil550: posts the ante 25
+Shunzao: posts the ante 25
+Karaage_Hiro: posts the ante 25
+Orgil550: posts small blind 50
+Shunzao: posts big blind 100
+*** HOLE CARDS ***
+Karaage_Hiro: raises 120 to 220
+billionaaire: folds 
+phbarbosaa: folds 
+Orgil550: folds 
+Shunzao: folds 
+Uncalled bet (120) returned to Karaage_Hiro
+Karaage_Hiro collected 375 from pot
+Karaage_Hiro: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: billionaaire folded before Flop (didn't bet)
+Seat 2: phbarbosaa (button) folded before Flop (didn't bet)
+Seat 3: Orgil550 (small blind) folded before Flop
+Seat 5: Shunzao (big blind) folded before Flop
+Seat 6: Karaage_Hiro collected (375)
+
+PokerStars Hand #251215834543: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level V (50/100) - 2024/06/27 11:38:47 UTC [2024/06/27 7:38:47 ET]
+Table '3771164546 1' 6-max Seat #3 is the button
+Seat 1: billionaaire (1207 in chips, $25 bounty) 
+Seat 2: phbarbosaa (2795 in chips, $25 bounty) 
+Seat 3: Orgil550 (5481 in chips, $25 bounty) 
+Seat 5: Shunzao (3042 in chips, $25 bounty) 
+Seat 6: Karaage_Hiro (4342 in chips, $25 bounty) 
+billionaaire: posts the ante 25
+phbarbosaa: posts the ante 25
+Orgil550: posts the ante 25
+Shunzao: posts the ante 25
+Karaage_Hiro: posts the ante 25
+Shunzao: posts small blind 50
+Karaage_Hiro: posts big blind 100
+*** HOLE CARDS ***
+billionaaire: folds 
+phbarbosaa: raises 100 to 200
+Orgil550: raises 5256 to 5456 and is all-in
+Shunzao: folds 
+Karaage_Hiro: folds 
+phbarbosaa: folds 
+Uncalled bet (5256) returned to Orgil550
+Orgil550 collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: billionaaire folded before Flop (didn't bet)
+Seat 2: phbarbosaa folded before Flop
+Seat 3: Orgil550 (button) collected (675)
+Seat 5: Shunzao (small blind) folded before Flop
+Seat 6: Karaage_Hiro (big blind) folded before Flop
+
+PokerStars Hand #251215838355: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level V (50/100) - 2024/06/27 11:39:16 UTC [2024/06/27 7:39:16 ET]
+Table '3771164546 1' 6-max Seat #5 is the button
+Seat 1: billionaaire (1182 in chips, $25 bounty) 
+Seat 2: phbarbosaa (2570 in chips, $25 bounty) 
+Seat 3: Orgil550 (5931 in chips, $25 bounty) 
+Seat 4: gustavoodias (3000 in chips, $25 bounty) 
+Seat 5: Shunzao (2967 in chips, $25 bounty) 
+Seat 6: Karaage_Hiro (4217 in chips, $25 bounty) 
+billionaaire: posts the ante 25
+phbarbosaa: posts the ante 25
+Orgil550: posts the ante 25
+gustavoodias: posts the ante 25
+Shunzao: posts the ante 25
+Karaage_Hiro: posts the ante 25
+Karaage_Hiro: posts small blind 50
+billionaaire: posts big blind 100
+*** HOLE CARDS ***
+phbarbosaa: folds 
+Orgil550: folds 
+gustavoodias is disconnected 
+gustavoodias has timed out while disconnected
+gustavoodias: folds 
+gustavoodias is sitting out
+Shunzao: raises 100 to 200
+Karaage_Hiro: folds 
+billionaaire: calls 100
+*** FLOP *** [3h 2s Ac]
+billionaaire: checks 
+Shunzao: bets 156
+billionaaire: raises 304 to 460
+gustavoodias is disconnected 
+Shunzao: raises 927 to 1387
+gustavoodias has returned
+billionaaire: calls 497 and is all-in
+Uncalled bet (430) returned to Shunzao
+*** TURN *** [3h 2s Ac] [4s]
+*** RIVER *** [3h 2s Ac 4s] [9c]
+*** SHOW DOWN ***
+billionaaire: shows [7c 3s] (a pair of Threes)
+Shunzao: shows [6d 6h] (a pair of Sixes)
+Shunzao collected 2514 from pot
+Shunzao wins $12.50 for eliminating billionaaire and their own bounty increases by $12.50 to $37.50
+billionaaire finished the tournament
+*** SUMMARY ***
+Total pot 2514 | Rake 0 
+Board [3h 2s Ac 4s 9c]
+Seat 1: billionaaire (big blind) showed [7c 3s] and lost with a pair of Threes
+Seat 2: phbarbosaa folded before Flop (didn't bet)
+Seat 3: Orgil550 folded before Flop (didn't bet)
+Seat 4: gustavoodias folded before Flop (didn't bet)
+Seat 5: Shunzao (button) showed [6d 6h] and won (2514) with a pair of Sixes
+Seat 6: Karaage_Hiro (small blind) folded before Flop
+
+PokerStars Hand #251215849473: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VI (60/120) - 2024/06/27 11:40:41 UTC [2024/06/27 7:40:41 ET]
+Table '3771164546 1' 6-max Seat #6 is the button
+Seat 2: phbarbosaa (2545 in chips, $25 bounty) 
+Seat 3: Orgil550 (5906 in chips, $25 bounty) 
+Seat 4: gustavoodias (2975 in chips, $25 bounty) 
+Seat 5: Shunzao (4299 in chips, $37.50 bounty) 
+Seat 6: Karaage_Hiro (4142 in chips, $25 bounty) 
+phbarbosaa: posts the ante 30
+Orgil550: posts the ante 30
+gustavoodias: posts the ante 30
+Shunzao: posts the ante 30
+Karaage_Hiro: posts the ante 30
+phbarbosaa: posts small blind 60
+Orgil550: posts big blind 120
+*** HOLE CARDS ***
+gustavoodias: folds 
+Shunzao: raises 120 to 240
+Karaage_Hiro: folds 
+phbarbosaa: folds 
+Orgil550: calls 120
+*** FLOP *** [Jd 2s Jh]
+Orgil550: checks 
+Shunzao: bets 352
+Orgil550: calls 352
+*** TURN *** [Jd 2s Jh] [6d]
+Orgil550: checks 
+Shunzao: bets 362
+Orgil550: calls 362
+*** RIVER *** [Jd 2s Jh 6d] [9c]
+Orgil550: bets 4922 and is all-in
+Shunzao: folds 
+Uncalled bet (4922) returned to Orgil550
+Orgil550 collected 2118 from pot
+*** SUMMARY ***
+Total pot 2118 | Rake 0 
+Board [Jd 2s Jh 6d 9c]
+Seat 2: phbarbosaa (small blind) folded before Flop
+Seat 3: Orgil550 (big blind) collected (2118)
+Seat 4: gustavoodias folded before Flop (didn't bet)
+Seat 5: Shunzao folded on the River
+Seat 6: Karaage_Hiro (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251215857227: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VI (60/120) - 2024/06/27 11:41:40 UTC [2024/06/27 7:41:40 ET]
+Table '3771164546 1' 6-max Seat #2 is the button
+Seat 2: phbarbosaa (2455 in chips, $25 bounty) 
+Seat 3: Orgil550 (7040 in chips, $25 bounty) 
+Seat 4: gustavoodias (2945 in chips, $25 bounty) 
+Seat 5: Shunzao (3315 in chips, $37.50 bounty) 
+Seat 6: Karaage_Hiro (4112 in chips, $25 bounty) 
+phbarbosaa: posts the ante 30
+Orgil550: posts the ante 30
+gustavoodias: posts the ante 30
+Shunzao: posts the ante 30
+Karaage_Hiro: posts the ante 30
+Orgil550: posts small blind 60
+gustavoodias: posts big blind 120
+*** HOLE CARDS ***
+Shunzao: raises 120 to 240
+Karaage_Hiro: folds 
+phbarbosaa: folds 
+Orgil550: folds 
+gustavoodias: calls 120
+*** FLOP *** [Jd 7h 9d]
+gustavoodias: checks 
+Shunzao: bets 178
+gustavoodias: folds 
+Uncalled bet (178) returned to Shunzao
+Shunzao collected 690 from pot
+Shunzao: doesn't show hand 
+*** SUMMARY ***
+Total pot 690 | Rake 0 
+Board [Jd 7h 9d]
+Seat 2: phbarbosaa (button) folded before Flop (didn't bet)
+Seat 3: Orgil550 (small blind) folded before Flop
+Seat 4: gustavoodias (big blind) folded on the Flop
+Seat 5: Shunzao collected (690)
+Seat 6: Karaage_Hiro folded before Flop (didn't bet)
+
+PokerStars Hand #251215864279: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VI (60/120) - 2024/06/27 11:42:33 UTC [2024/06/27 7:42:33 ET]
+Table '3771164546 1' 6-max Seat #3 is the button
+Seat 2: phbarbosaa (2425 in chips, $25 bounty) 
+Seat 3: Orgil550 (6950 in chips, $25 bounty) 
+Seat 4: gustavoodias (2675 in chips, $25 bounty) 
+Seat 5: Shunzao (3735 in chips, $37.50 bounty) 
+Seat 6: Karaage_Hiro (4082 in chips, $25 bounty) 
+phbarbosaa: posts the ante 30
+Orgil550: posts the ante 30
+gustavoodias: posts the ante 30
+Shunzao: posts the ante 30
+Karaage_Hiro: posts the ante 30
+gustavoodias: posts small blind 60
+Shunzao: posts big blind 120
+*** HOLE CARDS ***
+Karaage_Hiro: raises 120 to 240
+phbarbosaa: folds 
+Orgil550: calls 240
+gustavoodias: folds 
+Shunzao: folds 
+*** FLOP *** [3c Js Ks]
+Karaage_Hiro: bets 240
+Orgil550: calls 240
+*** TURN *** [3c Js Ks] [Ah]
+Karaage_Hiro: bets 720
+Orgil550: calls 720
+*** RIVER *** [3c Js Ks Ah] [8c]
+Karaage_Hiro: bets 2852 and is all-in
+Orgil550: folds 
+Uncalled bet (2852) returned to Karaage_Hiro
+Karaage_Hiro collected 2730 from pot
+Karaage_Hiro: doesn't show hand 
+*** SUMMARY ***
+Total pot 2730 | Rake 0 
+Board [3c Js Ks Ah 8c]
+Seat 2: phbarbosaa folded before Flop (didn't bet)
+Seat 3: Orgil550 (button) folded on the River
+Seat 4: gustavoodias (small blind) folded before Flop
+Seat 5: Shunzao (big blind) folded before Flop
+Seat 6: Karaage_Hiro collected (2730)
+
+PokerStars Hand #251215871926: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (80/160) - 2024/06/27 11:43:30 UTC [2024/06/27 7:43:30 ET]
+Table '3771164546 1' 6-max Seat #4 is the button
+Seat 2: phbarbosaa (2395 in chips, $25 bounty) 
+Seat 3: Orgil550 (5720 in chips, $25 bounty) 
+Seat 4: gustavoodias (2585 in chips, $25 bounty) 
+Seat 5: Shunzao (3585 in chips, $37.50 bounty) 
+Seat 6: Karaage_Hiro (5582 in chips, $25 bounty) 
+phbarbosaa: posts the ante 40
+Orgil550: posts the ante 40
+gustavoodias: posts the ante 40
+Shunzao: posts the ante 40
+Karaage_Hiro: posts the ante 40
+Shunzao: posts small blind 80
+Karaage_Hiro: posts big blind 160
+*** HOLE CARDS ***
+phbarbosaa: folds 
+Orgil550: calls 160
+gustavoodias: raises 2385 to 2545 and is all-in
+Shunzao: raises 1000 to 3545 and is all-in
+Karaage_Hiro: folds 
+Orgil550: folds 
+Uncalled bet (1000) returned to Shunzao
+*** FLOP *** [4c 4d 2h]
+*** TURN *** [4c 4d 2h] [3d]
+*** RIVER *** [4c 4d 2h 3d] [7c]
+*** SHOW DOWN ***
+Shunzao: shows [Ah Kh] (a pair of Fours)
+gustavoodias: shows [5h 5c] (two pair, Fives and Fours)
+gustavoodias collected 5610 from pot
+*** SUMMARY ***
+Total pot 5610 | Rake 0 
+Board [4c 4d 2h 3d 7c]
+Seat 2: phbarbosaa folded before Flop (didn't bet)
+Seat 3: Orgil550 folded before Flop
+Seat 4: gustavoodias (button) showed [5h 5c] and won (5610) with two pair, Fives and Fours
+Seat 5: Shunzao (small blind) showed [Ah Kh] and lost with a pair of Fours
+Seat 6: Karaage_Hiro (big blind) folded before Flop
+
+PokerStars Hand #251215876683: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (80/160) - 2024/06/27 11:44:05 UTC [2024/06/27 7:44:05 ET]
+Table '3771164546 1' 6-max Seat #5 is the button
+Seat 2: phbarbosaa (2355 in chips, $25 bounty) 
+Seat 3: Orgil550 (5520 in chips, $25 bounty) 
+Seat 4: gustavoodias (5610 in chips, $25 bounty) 
+Seat 5: Shunzao (1000 in chips, $37.50 bounty) 
+Seat 6: Karaage_Hiro (5382 in chips, $25 bounty) 
+phbarbosaa: posts the ante 40
+Orgil550: posts the ante 40
+gustavoodias: posts the ante 40
+Shunzao: posts the ante 40
+Karaage_Hiro: posts the ante 40
+Karaage_Hiro: posts small blind 80
+phbarbosaa: posts big blind 160
+*** HOLE CARDS ***
+Orgil550: calls 160
+gustavoodias: folds 
+Shunzao: raises 800 to 960 and is all-in
+Karaage_Hiro: folds 
+phbarbosaa: raises 1355 to 2315 and is all-in
+Orgil550: calls 2155
+*** FLOP *** [6d 9h 5c]
+*** TURN *** [6d 9h 5c] [Tc]
+*** RIVER *** [6d 9h 5c Tc] [4c]
+*** SHOW DOWN ***
+phbarbosaa: shows [Ad 7d] (high card Ace)
+Orgil550: shows [Qh As] (high card Ace - Queen kicker)
+Orgil550 collected 2710 from side pot
+Shunzao: shows [Ah Jc] (high card Ace - lower kicker)
+Orgil550 collected 3160 from main pot
+Orgil550 wins $12.50 for eliminating phbarbosaa and their own bounty increases by $12.50 to $37.50
+Orgil550 wins $18.75 for eliminating Shunzao and their own bounty increases by $18.75 to $56.25
+phbarbosaa finished the tournament
+Shunzao finished the tournament
+*** SUMMARY ***
+Total pot 5870 Main pot 3160. Side pot 2710. | Rake 0 
+Board [6d 9h 5c Tc 4c]
+Seat 2: phbarbosaa (big blind) showed [Ad 7d] and lost with high card Ace
+Seat 3: Orgil550 showed [Qh As] and won (5870) with high card Ace
+Seat 4: gustavoodias folded before Flop (didn't bet)
+Seat 5: Shunzao (button) showed [Ah Jc] and lost with high card Ace
+Seat 6: Karaage_Hiro (small blind) folded before Flop
+
+
+
+PokerStars Hand #251215755314: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level II (20/40) - 2024/06/27 11:28:47 UTC [2024/06/27 7:28:47 ET]
+Table '3771164546 2' 6-max Seat #1 is the button
+Seat 1: adri472472 (2832 in chips, $25 bounty) 
+Seat 2: siriku1 (3112 in chips, $25 bounty) 
+Seat 3: adrf1999 (2917 in chips, $25 bounty) 
+Seat 5: santiga (2917 in chips, $25 bounty) 
+Seat 6: peace&loove (3229 in chips, $25 bounty) 
+adri472472: posts the ante 10
+siriku1: posts the ante 10
+adrf1999: posts the ante 10
+santiga: posts the ante 10
+peace&loove: posts the ante 10
+siriku1: posts small blind 20
+adrf1999: posts big blind 40
+*** HOLE CARDS ***
+santiga: folds 
+peace&loove: folds 
+adri472472: folds 
+siriku1: raises 80 to 120
+adrf1999: raises 240 to 360
+siriku1: folds 
+Uncalled bet (240) returned to adrf1999
+adrf1999 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: adri472472 (button) folded before Flop (didn't bet)
+Seat 2: siriku1 (small blind) folded before Flop
+Seat 3: adrf1999 (big blind) collected (290)
+Seat 5: santiga folded before Flop (didn't bet)
+Seat 6: peace&loove folded before Flop (didn't bet)
+
+PokerStars Hand #251215759583: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level II (20/40) - 2024/06/27 11:29:19 UTC [2024/06/27 7:29:19 ET]
+Table '3771164546 2' 6-max Seat #2 is the button
+Seat 1: adri472472 (2822 in chips, $25 bounty) 
+Seat 2: siriku1 (2982 in chips, $25 bounty) 
+Seat 3: adrf1999 (3077 in chips, $25 bounty) 
+Seat 5: santiga (2907 in chips, $25 bounty) 
+Seat 6: peace&loove (3219 in chips, $25 bounty) 
+adri472472: posts the ante 10
+siriku1: posts the ante 10
+adrf1999: posts the ante 10
+santiga: posts the ante 10
+peace&loove: posts the ante 10
+adrf1999: posts small blind 20
+santiga: posts big blind 40
+*** HOLE CARDS ***
+peace&loove: folds 
+adri472472: calls 40
+siriku1: raises 80 to 120
+adrf1999: folds 
+santiga: calls 80
+adri472472: raises 2692 to 2812 and is all-in
+siriku1: folds 
+santiga: calls 2692
+*** FLOP *** [Ts 9h 5d]
+*** TURN *** [Ts 9h 5d] [4c]
+*** RIVER *** [Ts 9h 5d 4c] [3s]
+*** SHOW DOWN ***
+santiga: shows [9c 9s] (three of a kind, Nines)
+adri472472: shows [Qc Ah] (high card Ace)
+santiga collected 5814 from pot
+santiga wins $12.50 for eliminating adri472472 and their own bounty increases by $12.50 to $37.50
+adri472472 finished the tournament
+*** SUMMARY ***
+Total pot 5814 | Rake 0 
+Board [Ts 9h 5d 4c 3s]
+Seat 1: adri472472 showed [Qc Ah] and lost with high card Ace
+Seat 2: siriku1 (button) folded before Flop
+Seat 3: adrf1999 (small blind) folded before Flop
+Seat 5: santiga (big blind) showed [9c 9s] and won (5814) with three of a kind, Nines
+Seat 6: peace&loove folded before Flop (didn't bet)
+
+PokerStars Hand #251215767208: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level II (20/40) - 2024/06/27 11:30:17 UTC [2024/06/27 7:30:17 ET]
+Table '3771164546 2' 6-max Seat #3 is the button
+Seat 2: siriku1 (2852 in chips, $25 bounty) 
+Seat 3: adrf1999 (3047 in chips, $25 bounty) 
+Seat 5: santiga (5899 in chips, $37.50 bounty) 
+Seat 6: peace&loove (3209 in chips, $25 bounty) 
+siriku1: posts the ante 10
+adrf1999: posts the ante 10
+santiga: posts the ante 10
+peace&loove: posts the ante 10
+santiga: posts small blind 20
+peace&loove: posts big blind 40
+*** HOLE CARDS ***
+Dbabreu2 is disconnected 
+siriku1: folds 
+adrf1999: raises 80 to 120
+santiga: folds 
+peace&loove: folds 
+Uncalled bet (80) returned to adrf1999
+adrf1999 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 2: siriku1 folded before Flop (didn't bet)
+Seat 3: adrf1999 (button) collected (140)
+Seat 5: santiga (small blind) folded before Flop
+Seat 6: peace&loove (big blind) folded before Flop
+
+PokerStars Hand #251215771609: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level II (20/40) - 2024/06/27 11:30:51 UTC [2024/06/27 7:30:51 ET]
+Table '3771164546 2' 6-max Seat #5 is the button
+Seat 1: Dbabreu2 (3000 in chips, $25 bounty) 
+Seat 2: siriku1 (2842 in chips, $25 bounty) 
+Seat 3: adrf1999 (3137 in chips, $25 bounty) 
+Seat 5: santiga (5869 in chips, $37.50 bounty) 
+Seat 6: peace&loove (3159 in chips, $25 bounty) 
+Dbabreu2: posts the ante 10
+siriku1: posts the ante 10
+adrf1999: posts the ante 10
+santiga: posts the ante 10
+peace&loove: posts the ante 10
+peace&loove: posts small blind 20
+Dbabreu2: posts big blind 40
+*** HOLE CARDS ***
+siriku1: folds 
+adrf1999: raises 80 to 120
+santiga: folds 
+peace&loove: folds 
+Dbabreu2: calls 80
+*** FLOP *** [4c 6s Ts]
+Dbabreu2: checks 
+darkziv is disconnected 
+adrf1999: checks 
+*** TURN *** [4c 6s Ts] [Qs]
+Dbabreu2: checks 
+adrf1999: bets 160
+Dbabreu2: folds 
+Uncalled bet (160) returned to adrf1999
+adrf1999 collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Board [4c 6s Ts Qs]
+Seat 1: Dbabreu2 (big blind) folded on the Turn
+Seat 2: siriku1 folded before Flop (didn't bet)
+Seat 3: adrf1999 collected (310)
+Seat 5: santiga (button) folded before Flop (didn't bet)
+Seat 6: peace&loove (small blind) folded before Flop
+
+PokerStars Hand #251215780330: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level III (30/60) - 2024/06/27 11:31:57 UTC [2024/06/27 7:31:57 ET]
+Table '3771164546 2' 6-max Seat #6 is the button
+Seat 1: Dbabreu2 (2870 in chips, $25 bounty) 
+Seat 2: siriku1 (2832 in chips, $25 bounty) 
+Seat 3: adrf1999 (3317 in chips, $25 bounty) 
+Seat 4: darkziv (3000 in chips, $25 bounty) 
+Seat 5: santiga (5859 in chips, $37.50 bounty) 
+Seat 6: peace&loove (3129 in chips, $25 bounty) 
+Dbabreu2: posts the ante 15
+siriku1: posts the ante 15
+adrf1999: posts the ante 15
+darkziv: posts the ante 15
+santiga: posts the ante 15
+peace&loove: posts the ante 15
+Dbabreu2: posts small blind 30
+siriku1: posts big blind 60
+*** HOLE CARDS ***
+adrf1999: folds 
+darkziv: folds 
+santiga: folds 
+peace&loove: folds 
+Dbabreu2: calls 30
+siriku1: checks 
+*** FLOP *** [Ks 9c 8s]
+Dbabreu2: bets 60
+siriku1: calls 60
+*** TURN *** [Ks 9c 8s] [Tc]
+Dbabreu2: bets 510
+siriku1: folds 
+Uncalled bet (510) returned to Dbabreu2
+Dbabreu2 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [Ks 9c 8s Tc]
+Seat 1: Dbabreu2 (small blind) collected (330)
+Seat 2: siriku1 (big blind) folded on the Turn
+Seat 3: adrf1999 folded before Flop (didn't bet)
+Seat 4: darkziv folded before Flop (didn't bet)
+Seat 5: santiga folded before Flop (didn't bet)
+Seat 6: peace&loove (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251215786603: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level III (30/60) - 2024/06/27 11:32:45 UTC [2024/06/27 7:32:45 ET]
+Table '3771164546 2' 6-max Seat #1 is the button
+Seat 1: Dbabreu2 (3065 in chips, $25 bounty) 
+Seat 2: siriku1 (2697 in chips, $25 bounty) 
+Seat 4: darkziv (2985 in chips, $25 bounty) 
+Seat 5: santiga (5844 in chips, $37.50 bounty) 
+Seat 6: peace&loove (3114 in chips, $25 bounty) 
+Dbabreu2: posts the ante 15
+siriku1: posts the ante 15
+darkziv: posts the ante 15
+santiga: posts the ante 15
+peace&loove: posts the ante 15
+siriku1: posts small blind 30
+darkziv: posts big blind 60
+*** HOLE CARDS ***
+santiga: folds 
+peace&loove: folds 
+Dbabreu2: folds 
+siriku1: calls 30
+darkziv: checks 
+*** FLOP *** [3d 9c 5s]
+siriku1: checks 
+darkziv: checks 
+*** TURN *** [3d 9c 5s] [8s]
+siriku1: checks 
+darkziv: bets 60
+siriku1: calls 60
+*** RIVER *** [3d 9c 5s 8s] [Qs]
+siriku1: checks 
+darkziv: checks 
+*** SHOW DOWN ***
+siriku1: shows [5c 6h] (a pair of Fives)
+darkziv: mucks hand 
+siriku1 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | Rake 0 
+Board [3d 9c 5s 8s Qs]
+Seat 1: Dbabreu2 (button) folded before Flop (didn't bet)
+Seat 2: siriku1 (small blind) showed [5c 6h] and won (315) with a pair of Fives
+Seat 4: darkziv (big blind) mucked
+Seat 5: santiga folded before Flop (didn't bet)
+Seat 6: peace&loove folded before Flop (didn't bet)
+
+PokerStars Hand #251215798525: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (40/80) - 2024/06/27 11:34:16 UTC [2024/06/27 7:34:16 ET]
+Table '3771164546 2' 6-max Seat #2 is the button
+Seat 1: Dbabreu2 (3050 in chips, $25 bounty) 
+Seat 2: siriku1 (2877 in chips, $25 bounty) 
+Seat 4: darkziv (2850 in chips, $25 bounty) 
+Seat 5: santiga (5829 in chips, $37.50 bounty) 
+Seat 6: peace&loove (3099 in chips, $25 bounty) 
+Dbabreu2: posts the ante 20
+siriku1: posts the ante 20
+darkziv: posts the ante 20
+santiga: posts the ante 20
+peace&loove: posts the ante 20
+darkziv: posts small blind 40
+santiga: posts big blind 80
+*** HOLE CARDS ***
+peace&loove: raises 104 to 184
+Dbabreu2: folds 
+siriku1: folds 
+darkziv: folds 
+santiga: calls 104
+*** FLOP *** [Kd 2s 5s]
+santiga: checks 
+peace&loove: bets 168
+santiga: raises 392 to 560
+peace&loove: calls 392
+*** TURN *** [Kd 2s 5s] [Jc]
+santiga: checks 
+peace&loove: checks 
+*** RIVER *** [Kd 2s 5s Jc] [As]
+santiga: checks 
+peace&loove: checks 
+*** SHOW DOWN ***
+santiga: shows [Qh Js] (a pair of Jacks)
+peace&loove: mucks hand 
+santiga collected 1628 from pot
+*** SUMMARY ***
+Total pot 1628 | Rake 0 
+Board [Kd 2s 5s Jc As]
+Seat 1: Dbabreu2 folded before Flop (didn't bet)
+Seat 2: siriku1 (button) folded before Flop (didn't bet)
+Seat 4: darkziv (small blind) folded before Flop
+Seat 5: santiga (big blind) showed [Qh Js] and won (1628) with a pair of Jacks
+Seat 6: peace&loove mucked
+
+PokerStars Hand #251215808860: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (40/80) - 2024/06/27 11:35:35 UTC [2024/06/27 7:35:35 ET]
+Table '3771164546 2' 6-max Seat #4 is the button
+Seat 1: Dbabreu2 (3030 in chips, $25 bounty) 
+Seat 2: siriku1 (2857 in chips, $25 bounty) 
+Seat 4: darkziv (2790 in chips, $25 bounty) 
+Seat 5: santiga (6693 in chips, $37.50 bounty) 
+Seat 6: peace&loove (2335 in chips, $25 bounty) 
+Dbabreu2: posts the ante 20
+siriku1: posts the ante 20
+darkziv: posts the ante 20
+santiga: posts the ante 20
+peace&loove: posts the ante 20
+santiga: posts small blind 40
+peace&loove: posts big blind 80
+*** HOLE CARDS ***
+Dbabreu2: raises 104 to 184
+siriku1: folds 
+darkziv: calls 184
+santiga: raises 6489 to 6673 and is all-in
+peace&loove: folds 
+Dbabreu2: folds 
+darkziv: folds 
+Uncalled bet (6489) returned to santiga
+santiga collected 732 from pot
+santiga: doesn't show hand 
+*** SUMMARY ***
+Total pot 732 | Rake 0 
+Seat 1: Dbabreu2 folded before Flop
+Seat 2: siriku1 folded before Flop (didn't bet)
+Seat 4: darkziv (button) folded before Flop
+Seat 5: santiga (small blind) collected (732)
+Seat 6: peace&loove (big blind) folded before Flop
+
+PokerStars Hand #251215812858: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (40/80) - 2024/06/27 11:36:04 UTC [2024/06/27 7:36:04 ET]
+Table '3771164546 2' 6-max Seat #5 is the button
+Seat 1: Dbabreu2 (2826 in chips, $25 bounty) 
+Seat 2: siriku1 (2837 in chips, $25 bounty) 
+Seat 4: darkziv (2586 in chips, $25 bounty) 
+Seat 5: santiga (7221 in chips, $37.50 bounty) 
+Seat 6: peace&loove (2235 in chips, $25 bounty) 
+Dbabreu2: posts the ante 20
+siriku1: posts the ante 20
+darkziv: posts the ante 20
+santiga: posts the ante 20
+peace&loove: posts the ante 20
+peace&loove: posts small blind 40
+Dbabreu2: posts big blind 80
+*** HOLE CARDS ***
+siriku1: folds 
+darkziv: folds 
+santiga: folds 
+peace&loove: folds 
+Uncalled bet (40) returned to Dbabreu2
+Dbabreu2 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Seat 1: Dbabreu2 (big blind) collected (180)
+Seat 2: siriku1 folded before Flop (didn't bet)
+Seat 4: darkziv folded before Flop (didn't bet)
+Seat 5: santiga (button) folded before Flop (didn't bet)
+Seat 6: peace&loove (small blind) folded before Flop
+
+PokerStars Hand #251215816215: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (40/80) - 2024/06/27 11:36:29 UTC [2024/06/27 7:36:29 ET]
+Table '3771164546 2' 6-max Seat #6 is the button
+Seat 1: Dbabreu2 (2946 in chips, $25 bounty) 
+Seat 2: siriku1 (2817 in chips, $25 bounty) 
+Seat 4: darkziv (2566 in chips, $25 bounty) 
+Seat 5: santiga (7201 in chips, $37.50 bounty) 
+Seat 6: peace&loove (2175 in chips, $25 bounty) 
+Dbabreu2: posts the ante 20
+siriku1: posts the ante 20
+darkziv: posts the ante 20
+santiga: posts the ante 20
+peace&loove: posts the ante 20
+Dbabreu2: posts small blind 40
+siriku1: posts big blind 80
+*** HOLE CARDS ***
+darkziv: folds 
+santiga: raises 128 to 208
+peace&loove: folds 
+Dbabreu2: folds 
+siriku1: folds 
+Uncalled bet (128) returned to santiga
+santiga collected 300 from pot
+santiga: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: Dbabreu2 (small blind) folded before Flop
+Seat 2: siriku1 (big blind) folded before Flop
+Seat 4: darkziv folded before Flop (didn't bet)
+Seat 5: santiga collected (300)
+Seat 6: peace&loove (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251215818565: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (40/80) - 2024/06/27 11:36:47 UTC [2024/06/27 7:36:47 ET]
+Table '3771164546 2' 6-max Seat #1 is the button
+Seat 1: Dbabreu2 (2886 in chips, $25 bounty) 
+Seat 2: siriku1 (2717 in chips, $25 bounty) 
+Seat 4: darkziv (2546 in chips, $25 bounty) 
+Seat 5: santiga (7401 in chips, $37.50 bounty) 
+Seat 6: peace&loove (2155 in chips, $25 bounty) 
+Dbabreu2: posts the ante 20
+siriku1: posts the ante 20
+darkziv: posts the ante 20
+santiga: posts the ante 20
+peace&loove: posts the ante 20
+siriku1: posts small blind 40
+darkziv: posts big blind 80
+*** HOLE CARDS ***
+santiga: raises 128 to 208
+peace&loove: raises 1927 to 2135 and is all-in
+Dbabreu2: folds 
+siriku1: folds 
+darkziv: folds 
+santiga: calls 1927
+*** FLOP *** [5h 2c Js]
+*** TURN *** [5h 2c Js] [Td]
+*** RIVER *** [5h 2c Js Td] [4c]
+*** SHOW DOWN ***
+santiga: shows [As Qd] (high card Ace)
+peace&loove: shows [8c Ac] (high card Ace - lower kicker)
+santiga collected 4490 from pot
+santiga wins $12.50 for eliminating peace&loove and their own bounty increases by $12.50 to $50
+peace&loove finished the tournament
+*** SUMMARY ***
+Total pot 4490 | Rake 0 
+Board [5h 2c Js Td 4c]
+Seat 1: Dbabreu2 (button) folded before Flop (didn't bet)
+Seat 2: siriku1 (small blind) folded before Flop
+Seat 4: darkziv (big blind) folded before Flop
+Seat 5: santiga showed [As Qd] and won (4490) with high card Ace
+Seat 6: peace&loove showed [8c Ac] and lost with high card Ace
+
+PokerStars Hand #251215825377: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level V (50/100) - 2024/06/27 11:37:38 UTC [2024/06/27 7:37:38 ET]
+Table '3771164546 2' 6-max Seat #2 is the button
+Seat 1: Dbabreu2 (2866 in chips, $25 bounty) 
+Seat 2: siriku1 (2657 in chips, $25 bounty) 
+Seat 4: darkziv (2446 in chips, $25 bounty) 
+Seat 5: santiga (9736 in chips, $50 bounty) 
+Dbabreu2: posts the ante 25
+siriku1: posts the ante 25
+darkziv: posts the ante 25
+santiga: posts the ante 25
+darkziv: posts small blind 50
+santiga: posts big blind 100
+*** HOLE CARDS ***
+Dbabreu2: folds 
+siriku1: folds 
+darkziv: calls 50
+santiga: raises 9611 to 9711 and is all-in
+darkziv: calls 2321 and is all-in
+Uncalled bet (7290) returned to santiga
+*** FLOP *** [8c Jd Ah]
+*** TURN *** [8c Jd Ah] [Jh]
+*** RIVER *** [8c Jd Ah Jh] [2h]
+*** SHOW DOWN ***
+darkziv: shows [Qh Ac] (two pair, Aces and Jacks)
+santiga: shows [Ks 4h] (a pair of Jacks)
+darkziv collected 4942 from pot
+*** SUMMARY ***
+Total pot 4942 | Rake 0 
+Board [8c Jd Ah Jh 2h]
+Seat 1: Dbabreu2 folded before Flop (didn't bet)
+Seat 2: siriku1 (button) folded before Flop (didn't bet)
+Seat 4: darkziv (small blind) showed [Qh Ac] and won (4942) with two pair, Aces and Jacks
+Seat 5: santiga (big blind) showed [Ks 4h] and lost with a pair of Jacks
+
+PokerStars Hand #251215829238: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level V (50/100) - 2024/06/27 11:38:07 UTC [2024/06/27 7:38:07 ET]
+Table '3771164546 2' 6-max Seat #4 is the button
+Seat 1: Dbabreu2 (2841 in chips, $25 bounty) 
+Seat 2: siriku1 (2632 in chips, $25 bounty) 
+Seat 4: darkziv (4942 in chips, $25 bounty) 
+Seat 5: santiga (7290 in chips, $50 bounty) 
+Dbabreu2: posts the ante 25
+siriku1: posts the ante 25
+darkziv: posts the ante 25
+santiga: posts the ante 25
+santiga: posts small blind 50
+Dbabreu2: posts big blind 100
+*** HOLE CARDS ***
+siriku1: raises 110 to 210
+darkziv: folds 
+santiga: folds 
+hozeis is disconnected 
+Dbabreu2: calls 110
+*** FLOP *** [Qh Jh 4s]
+Dbabreu2: checks 
+siriku1: bets 188
+Dbabreu2: calls 188
+*** TURN *** [Qh Jh 4s] [3c]
+Dbabreu2: checks 
+siriku1: checks 
+*** RIVER *** [Qh Jh 4s 3c] [5s]
+Dbabreu2: bets 710
+siriku1: calls 710
+*** SHOW DOWN ***
+Dbabreu2: shows [Qd 4c] (two pair, Queens and Fours)
+siriku1: mucks hand 
+Dbabreu2 collected 2366 from pot
+kazymyr92 is disconnected 
+*** SUMMARY ***
+Total pot 2366 | Rake 0 
+Board [Qh Jh 4s 3c 5s]
+Seat 1: Dbabreu2 (big blind) showed [Qd 4c] and won (2366) with two pair, Queens and Fours
+Seat 2: siriku1 mucked
+Seat 4: darkziv (button) folded before Flop (didn't bet)
+Seat 5: santiga (small blind) folded before Flop
+
+PokerStars Hand #251215838613: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level V (50/100) - 2024/06/27 11:39:18 UTC [2024/06/27 7:39:18 ET]
+Table '3771164546 2' 6-max Seat #5 is the button
+Seat 1: Dbabreu2 (4074 in chips, $25 bounty) 
+Seat 2: siriku1 (1499 in chips, $25 bounty) 
+Seat 3: kazymyr92 (3000 in chips, $25 bounty) 
+Seat 4: darkziv (4917 in chips, $25 bounty) 
+Seat 5: santiga (7215 in chips, $50 bounty) 
+Seat 6: hozeis (3000 in chips) out of hand (moved from another table into small blind)
+hozeis will be allowed to play after the button
+Dbabreu2: posts the ante 25
+siriku1: posts the ante 25
+kazymyr92: posts the ante 25
+darkziv: posts the ante 25
+santiga: posts the ante 25
+Dbabreu2: posts small blind 50
+siriku1: posts big blind 100
+*** HOLE CARDS ***
+kazymyr92 is connected 
+kazymyr92: folds 
+darkziv: raises 124 to 224
+santiga: folds 
+Dbabreu2: folds 
+siriku1: folds 
+Uncalled bet (124) returned to darkziv
+darkziv collected 375 from pot
+darkziv: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: Dbabreu2 (small blind) folded before Flop
+Seat 2: siriku1 (big blind) folded before Flop
+Seat 3: kazymyr92 folded before Flop (didn't bet)
+Seat 4: darkziv collected (375)
+Seat 5: santiga (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251215844223: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level V (50/100) - 2024/06/27 11:40:01 UTC [2024/06/27 7:40:01 ET]
+Table '3771164546 2' 6-max Seat #1 is the button
+Seat 1: Dbabreu2 (3999 in chips, $25 bounty) 
+Seat 2: siriku1 (1374 in chips, $25 bounty) 
+Seat 3: kazymyr92 (2975 in chips, $25 bounty) 
+Seat 4: darkziv (5167 in chips, $25 bounty) 
+Seat 5: santiga (7190 in chips, $50 bounty) 
+Seat 6: hozeis (3000 in chips, $25 bounty) 
+Dbabreu2: posts the ante 25
+siriku1: posts the ante 25
+kazymyr92: posts the ante 25
+darkziv: posts the ante 25
+santiga: posts the ante 25
+hozeis: posts the ante 25
+siriku1: posts small blind 50
+kazymyr92: posts big blind 100
+*** HOLE CARDS ***
+darkziv: folds 
+santiga: raises 160 to 260
+hozeis: folds 
+Dbabreu2: folds 
+siriku1: folds 
+kazymyr92: folds 
+Uncalled bet (160) returned to santiga
+santiga collected 400 from pot
+santiga: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: Dbabreu2 (button) folded before Flop (didn't bet)
+Seat 2: siriku1 (small blind) folded before Flop
+Seat 3: kazymyr92 (big blind) folded before Flop
+Seat 4: darkziv folded before Flop (didn't bet)
+Seat 5: santiga collected (400)
+Seat 6: hozeis folded before Flop (didn't bet)
+
+PokerStars Hand #251215848115: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VI (60/120) - 2024/06/27 11:40:31 UTC [2024/06/27 7:40:31 ET]
+Table '3771164546 2' 6-max Seat #2 is the button
+Seat 1: Dbabreu2 (3974 in chips, $25 bounty) 
+Seat 2: siriku1 (1299 in chips, $25 bounty) 
+Seat 3: kazymyr92 (2850 in chips, $25 bounty) 
+Seat 4: darkziv (5142 in chips, $25 bounty) 
+Seat 5: santiga (7465 in chips, $50 bounty) 
+Seat 6: hozeis (2975 in chips, $25 bounty) 
+Dbabreu2: posts the ante 30
+siriku1: posts the ante 30
+kazymyr92: posts the ante 30
+darkziv: posts the ante 30
+santiga: posts the ante 30
+hozeis: posts the ante 30
+kazymyr92: posts small blind 60
+darkziv: posts big blind 120
+*** HOLE CARDS ***
+santiga: folds 
+hozeis: folds 
+Dbabreu2: folds 
+siriku1: raises 1149 to 1269 and is all-in
+kazymyr92: folds 
+darkziv: calls 1149
+*** FLOP *** [Jc Qd 5s]
+*** TURN *** [Jc Qd 5s] [Kh]
+*** RIVER *** [Jc Qd 5s Kh] [3d]
+*** SHOW DOWN ***
+darkziv: shows [8s As] (high card Ace)
+siriku1: shows [2d Kd] (a pair of Kings)
+siriku1 collected 2778 from pot
+*** SUMMARY ***
+Total pot 2778 | Rake 0 
+Board [Jc Qd 5s Kh 3d]
+Seat 1: Dbabreu2 folded before Flop (didn't bet)
+Seat 2: siriku1 (button) showed [2d Kd] and won (2778) with a pair of Kings
+Seat 3: kazymyr92 (small blind) folded before Flop
+Seat 4: darkziv (big blind) showed [8s As] and lost with high card Ace
+Seat 5: santiga folded before Flop (didn't bet)
+Seat 6: hozeis folded before Flop (didn't bet)
+
+PokerStars Hand #251215851664: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VI (60/120) - 2024/06/27 11:40:57 UTC [2024/06/27 7:40:57 ET]
+Table '3771164546 2' 6-max Seat #3 is the button
+Seat 1: Dbabreu2 (3944 in chips, $25 bounty) 
+Seat 2: siriku1 (2778 in chips, $25 bounty) 
+Seat 3: kazymyr92 (2760 in chips, $25 bounty) 
+Seat 4: darkziv (3843 in chips, $25 bounty) 
+Seat 5: santiga (7435 in chips, $50 bounty) 
+Seat 6: hozeis (2945 in chips, $25 bounty) 
+Dbabreu2: posts the ante 30
+siriku1: posts the ante 30
+kazymyr92: posts the ante 30
+darkziv: posts the ante 30
+santiga: posts the ante 30
+hozeis: posts the ante 30
+darkziv: posts small blind 60
+santiga: posts big blind 120
+*** HOLE CARDS ***
+hozeis: raises 144 to 264
+Dbabreu2: folds 
+siriku1: folds 
+kazymyr92: folds 
+darkziv: calls 204
+santiga: folds 
+*** FLOP *** [3h Kh Ks]
+darkziv: checks 
+hozeis: bets 228
+darkziv: calls 228
+*** TURN *** [3h Kh Ks] [2c]
+darkziv: checks 
+hozeis: checks 
+*** RIVER *** [3h Kh Ks 2c] [4c]
+darkziv: checks 
+hozeis: checks 
+*** SHOW DOWN ***
+darkziv: shows [8h Ah] (a pair of Kings)
+hozeis: shows [As Jh] (a pair of Kings - Ace+Jack kicker)
+hozeis collected 1284 from pot
+*** SUMMARY ***
+Total pot 1284 | Rake 0 
+Board [3h Kh Ks 2c 4c]
+Seat 1: Dbabreu2 folded before Flop (didn't bet)
+Seat 2: siriku1 folded before Flop (didn't bet)
+Seat 3: kazymyr92 (button) folded before Flop (didn't bet)
+Seat 4: darkziv (small blind) showed [8h Ah] and lost with a pair of Kings
+Seat 5: santiga (big blind) folded before Flop
+Seat 6: hozeis showed [As Jh] and won (1284) with a pair of Kings
+
+PokerStars Hand #251215862680: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VI (60/120) - 2024/06/27 11:42:21 UTC [2024/06/27 7:42:21 ET]
+Table '3771164546 2' 6-max Seat #4 is the button
+Seat 2: siriku1 (2748 in chips, $25 bounty) 
+Seat 3: kazymyr92 (2730 in chips, $25 bounty) 
+Seat 4: darkziv (3321 in chips, $25 bounty) 
+Seat 5: santiga (7285 in chips, $50 bounty) 
+Seat 6: hozeis (3707 in chips, $25 bounty) 
+siriku1: posts the ante 30
+kazymyr92: posts the ante 30
+darkziv: posts the ante 30
+santiga: posts the ante 30
+hozeis: posts the ante 30
+santiga: posts small blind 60
+hozeis: posts big blind 120
+*** HOLE CARDS ***
+siriku1: folds 
+kazymyr92: folds 
+darkziv: folds 
+santiga: raises 240 to 360
+hozeis: calls 240
+*** FLOP *** [Jc 7d 9c]
+santiga: bets 287
+hozeis: calls 287
+*** TURN *** [Jc 7d 9c] [Ks]
+santiga: bets 840
+hozeis: raises 2190 to 3030 and is all-in
+santiga: folds 
+Uncalled bet (2190) returned to hozeis
+hozeis collected 3124 from pot
+*** SUMMARY ***
+Total pot 3124 | Rake 0 
+Board [Jc 7d 9c Ks]
+Seat 2: siriku1 folded before Flop (didn't bet)
+Seat 3: kazymyr92 folded before Flop (didn't bet)
+Seat 4: darkziv (button) folded before Flop (didn't bet)
+Seat 5: santiga (small blind) folded on the Turn
+Seat 6: hozeis (big blind) collected (3124)
+
+PokerStars Hand #251215870767: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (80/160) - 2024/06/27 11:43:22 UTC [2024/06/27 7:43:22 ET]
+Table '3771164546 2' 6-max Seat #5 is the button
+Seat 2: siriku1 (2718 in chips, $25 bounty) 
+Seat 3: kazymyr92 (2700 in chips, $25 bounty) 
+Seat 4: darkziv (3291 in chips, $25 bounty) 
+Seat 5: santiga (5768 in chips, $50 bounty) 
+Seat 6: hozeis (5314 in chips, $25 bounty) 
+siriku1: posts the ante 40
+kazymyr92: posts the ante 40
+darkziv: posts the ante 40
+santiga: posts the ante 40
+hozeis: posts the ante 40
+hozeis: posts small blind 80
+siriku1: posts big blind 160
+*** HOLE CARDS ***
+kazymyr92: folds 
+darkziv: folds 
+santiga: folds 
+hozeis: raises 4000 to 4160
+siriku1: folds 
+Uncalled bet (4000) returned to hozeis
+hozeis collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 2: siriku1 (big blind) folded before Flop
+Seat 3: kazymyr92 folded before Flop (didn't bet)
+Seat 4: darkziv folded before Flop (didn't bet)
+Seat 5: santiga (button) folded before Flop (didn't bet)
+Seat 6: hozeis (small blind) collected (520)
+
+PokerStars Hand #251215875383: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (80/160) - 2024/06/27 11:43:56 UTC [2024/06/27 7:43:56 ET]
+Table '3771164546 2' 6-max Seat #6 is the button
+Seat 2: siriku1 (2518 in chips, $25 bounty) 
+Seat 3: kazymyr92 (2660 in chips, $25 bounty) 
+Seat 4: darkziv (3251 in chips, $25 bounty) 
+Seat 5: santiga (5728 in chips, $50 bounty) 
+Seat 6: hozeis (5634 in chips, $25 bounty) 
+siriku1: posts the ante 40
+kazymyr92: posts the ante 40
+darkziv: posts the ante 40
+santiga: posts the ante 40
+hozeis: posts the ante 40
+siriku1: posts small blind 80
+kazymyr92: posts big blind 160
+*** HOLE CARDS ***
+darkziv: raises 198 to 358
+santiga: folds 
+hozeis: folds 
+siriku1: folds 
+kazymyr92: calls 198
+*** FLOP *** [Js Jh 7d]
+kazymyr92: checks 
+darkziv: bets 239
+kazymyr92: calls 239
+*** TURN *** [Js Jh 7d] [Kh]
+kazymyr92: bets 442
+darkziv: folds 
+Uncalled bet (442) returned to kazymyr92
+kazymyr92 collected 1474 from pot
+*** SUMMARY ***
+Total pot 1474 | Rake 0 
+Board [Js Jh 7d Kh]
+Seat 2: siriku1 (small blind) folded before Flop
+Seat 3: kazymyr92 (big blind) collected (1474)
+Seat 4: darkziv folded on the Turn
+Seat 5: santiga folded before Flop (didn't bet)
+Seat 6: hozeis (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251215883097: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (80/160) - 2024/06/27 11:44:52 UTC [2024/06/27 7:44:52 ET]
+Table '3771164546 2' 6-max Seat #2 is the button
+Seat 1: Karaage_Hiro (5262 in chips, $25 bounty) 
+Seat 2: siriku1 (2398 in chips, $25 bounty) 
+Seat 3: kazymyr92 (3497 in chips, $25 bounty) 
+Seat 4: darkziv (2614 in chips, $25 bounty) 
+Seat 5: santiga (5688 in chips, $50 bounty) 
+Seat 6: hozeis (5594 in chips, $25 bounty) 
+Karaage_Hiro: posts the ante 40
+siriku1: posts the ante 40
+kazymyr92: posts the ante 40
+darkziv: posts the ante 40
+santiga: posts the ante 40
+hozeis: posts the ante 40
+kazymyr92: posts small blind 80
+darkziv: posts big blind 160
+*** HOLE CARDS ***
+santiga: raises 256 to 416
+hozeis: raises 576 to 992
+Karaage_Hiro: folds 
+siriku1: folds 
+kazymyr92: raises 1088 to 2080
+darkziv: folds 
+santiga: folds 
+hozeis: raises 2080 to 4160
+kazymyr92: calls 1377 and is all-in
+Uncalled bet (703) returned to hozeis
+*** FLOP *** [9h Qs Kd]
+*** TURN *** [9h Qs Kd] [3d]
+*** RIVER *** [9h Qs Kd 3d] [2d]
+*** SHOW DOWN ***
+kazymyr92: shows [As Kc] (a pair of Kings)
+hozeis: shows [Qc Qd] (three of a kind, Queens)
+hozeis collected 7730 from pot
+hozeis wins $12.50 for eliminating kazymyr92 and their own bounty increases by $12.50 to $37.50
+kazymyr92 finished the tournament
+siriku1 is disconnected 
+*** SUMMARY ***
+Total pot 7730 | Rake 0 
+Board [9h Qs Kd 3d 2d]
+Seat 1: Karaage_Hiro folded before Flop (didn't bet)
+Seat 2: siriku1 (button) folded before Flop (didn't bet)
+Seat 3: kazymyr92 (small blind) showed [As Kc] and lost with a pair of Kings
+Seat 4: darkziv (big blind) folded before Flop
+Seat 5: santiga folded before Flop
+Seat 6: hozeis showed [Qc Qd] and won (7730) with three of a kind, Queens
+
+PokerStars Hand #251215889424: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (80/160) - 2024/06/27 11:45:38 UTC [2024/06/27 7:45:38 ET]
+Table '3771164546 2' 6-max Seat #4 is the button
+Seat 1: Karaage_Hiro (5222 in chips, $25 bounty) 
+Seat 2: siriku1 (2358 in chips, $25 bounty) 
+Seat 4: darkziv (2414 in chips, $25 bounty) 
+Seat 5: santiga (5232 in chips, $50 bounty) 
+Seat 6: hozeis (9827 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 40
+siriku1: posts the ante 40
+darkziv: posts the ante 40
+santiga: posts the ante 40
+hozeis: posts the ante 40
+santiga: posts small blind 80
+hozeis: posts big blind 160
+*** HOLE CARDS ***
+Karaage_Hiro: folds 
+siriku1 has timed out while disconnected
+siriku1: folds 
+siriku1 is sitting out
+darkziv: folds 
+santiga: calls 80
+hozeis: checks 
+*** FLOP *** [9h Jd Jh]
+santiga: bets 160
+hozeis: folds 
+Uncalled bet (160) returned to santiga
+santiga collected 520 from pot
+santiga: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [9h Jd Jh]
+Seat 1: Karaage_Hiro folded before Flop (didn't bet)
+Seat 2: siriku1 folded before Flop (didn't bet)
+Seat 4: darkziv (button) folded before Flop (didn't bet)
+Seat 5: santiga (small blind) collected (520)
+Seat 6: hozeis (big blind) folded on the Flop
+
+PokerStars Hand #251215894229: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VIII (100/200) - 2024/06/27 11:46:14 UTC [2024/06/27 7:46:14 ET]
+Table '3771164546 2' 6-max Seat #5 is the button
+Seat 1: Karaage_Hiro (5182 in chips, $25 bounty) 
+Seat 2: siriku1 (2318 in chips, $25 bounty) 
+Seat 4: darkziv (2374 in chips, $25 bounty) 
+Seat 5: santiga (5552 in chips, $50 bounty) 
+Seat 6: hozeis (9627 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 50
+siriku1: posts the ante 50
+darkziv: posts the ante 50
+santiga: posts the ante 50
+hozeis: posts the ante 50
+hozeis: posts small blind 100
+Karaage_Hiro: posts big blind 200
+*** HOLE CARDS ***
+siriku1: raises 2068 to 2268 and is all-in
+darkziv: raises 56 to 2324 and is all-in
+santiga: folds 
+hozeis: folds 
+Karaage_Hiro: folds 
+Uncalled bet (56) returned to darkziv
+*** FLOP *** [Kc 5s Tc]
+*** TURN *** [Kc 5s Tc] [8c]
+*** RIVER *** [Kc 5s Tc 8c] [3c]
+*** SHOW DOWN ***
+siriku1: shows [Ad 6s] (high card Ace)
+darkziv: shows [Kh Jc] (a flush, King high)
+darkziv collected 5086 from pot
+darkziv wins $12.50 for eliminating siriku1 and their own bounty increases by $12.50 to $37.50
+siriku1 finished the tournament
+*** SUMMARY ***
+Total pot 5086 | Rake 0 
+Board [Kc 5s Tc 8c 3c]
+Seat 1: Karaage_Hiro (big blind) folded before Flop
+Seat 2: siriku1 showed [Ad 6s] and lost with high card Ace
+Seat 4: darkziv showed [Kh Jc] and won (5086) with a flush, King high
+Seat 5: santiga (button) folded before Flop (didn't bet)
+Seat 6: hozeis (small blind) folded before Flop
+
+PokerStars Hand #251215898972: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VIII (100/200) - 2024/06/27 11:46:49 UTC [2024/06/27 7:46:49 ET]
+Table '3771164546 2' 6-max Seat #6 is the button
+Seat 1: Karaage_Hiro (4932 in chips, $25 bounty) 
+Seat 4: darkziv (5142 in chips, $37.50 bounty) 
+Seat 5: santiga (5502 in chips, $50 bounty) 
+Seat 6: hozeis (9477 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 50
+darkziv: posts the ante 50
+santiga: posts the ante 50
+hozeis: posts the ante 50
+Karaage_Hiro: posts small blind 100
+darkziv: posts big blind 200
+*** HOLE CARDS ***
+santiga: folds 
+hozeis: folds 
+Karaage_Hiro: raises 240 to 440
+darkziv: calls 240
+*** FLOP *** [7s 3h Qh]
+Karaage_Hiro: bets 540
+darkziv: raises 540 to 1080
+Karaage_Hiro: folds 
+Uncalled bet (540) returned to darkziv
+darkziv collected 2160 from pot
+darkziv: doesn't show hand 
+*** SUMMARY ***
+Total pot 2160 | Rake 0 
+Board [7s 3h Qh]
+Seat 1: Karaage_Hiro (small blind) folded on the Flop
+Seat 4: darkziv (big blind) collected (2160)
+Seat 5: santiga folded before Flop (didn't bet)
+Seat 6: hozeis (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251215903597: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VIII (100/200) - 2024/06/27 11:47:23 UTC [2024/06/27 7:47:23 ET]
+Table '3771164546 2' 6-max Seat #1 is the button
+Seat 1: Karaage_Hiro (3902 in chips, $25 bounty) 
+Seat 4: darkziv (6272 in chips, $37.50 bounty) 
+Seat 5: santiga (5452 in chips, $50 bounty) 
+Seat 6: hozeis (9427 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 50
+darkziv: posts the ante 50
+santiga: posts the ante 50
+hozeis: posts the ante 50
+darkziv: posts small blind 100
+santiga: posts big blind 200
+*** HOLE CARDS ***
+hozeis: folds 
+Karaage_Hiro: folds 
+darkziv: raises 334 to 534
+santiga: calls 334
+*** FLOP *** [Td 2d Ts]
+darkziv: checks 
+santiga: checks 
+*** TURN *** [Td 2d Ts] [8h]
+darkziv: bets 306
+santiga: calls 306
+*** RIVER *** [Td 2d Ts 8h] [5d]
+darkziv: checks 
+santiga: checks 
+*** SHOW DOWN ***
+darkziv: shows [Kh Ad] (a pair of Tens)
+santiga: shows [8c 4h] (two pair, Tens and Eights)
+santiga collected 1880 from pot
+*** SUMMARY ***
+Total pot 1880 | Rake 0 
+Board [Td 2d Ts 8h 5d]
+Seat 1: Karaage_Hiro (button) folded before Flop (didn't bet)
+Seat 4: darkziv (small blind) showed [Kh Ad] and lost with a pair of Tens
+Seat 5: santiga (big blind) showed [8c 4h] and won (1880) with two pair, Tens and Eights
+Seat 6: hozeis folded before Flop (didn't bet)
+
+PokerStars Hand #251215909708: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VIII (100/200) - 2024/06/27 11:48:08 UTC [2024/06/27 7:48:08 ET]
+Table '3771164546 2' 6-max Seat #4 is the button
+Seat 1: Karaage_Hiro (3852 in chips, $25 bounty) 
+Seat 4: darkziv (5382 in chips, $37.50 bounty) 
+Seat 5: santiga (6442 in chips, $50 bounty) 
+Seat 6: hozeis (9377 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 50
+darkziv: posts the ante 50
+santiga: posts the ante 50
+hozeis: posts the ante 50
+santiga: posts small blind 100
+hozeis: posts big blind 200
+*** HOLE CARDS ***
+Karaage_Hiro: folds 
+darkziv: folds 
+santiga: raises 500 to 700
+hozeis: calls 500
+*** FLOP *** [Ks 4d 9s]
+santiga: bets 528
+hozeis: calls 528
+*** TURN *** [Ks 4d 9s] [Jh]
+santiga: checks 
+hozeis: bets 1301
+santiga: calls 1301
+*** RIVER *** [Ks 4d 9s Jh] [9d]
+santiga: checks 
+hozeis: bets 6798 and is all-in
+santiga: folds 
+Uncalled bet (6798) returned to hozeis
+hozeis collected 5258 from pot
+*** SUMMARY ***
+Total pot 5258 | Rake 0 
+Board [Ks 4d 9s Jh 9d]
+Seat 1: Karaage_Hiro folded before Flop (didn't bet)
+Seat 4: darkziv (button) folded before Flop (didn't bet)
+Seat 5: santiga (small blind) folded on the River
+Seat 6: hozeis (big blind) collected (5258)
+
+PokerStars Hand #251215921639: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IX (125/250) - 2024/06/27 11:49:35 UTC [2024/06/27 7:49:35 ET]
+Table '3771164546 2' 6-max Seat #5 is the button
+Seat 1: Karaage_Hiro (3802 in chips, $25 bounty) 
+Seat 4: darkziv (5332 in chips, $37.50 bounty) 
+Seat 5: santiga (3863 in chips, $50 bounty) 
+Seat 6: hozeis (12056 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 60
+darkziv: posts the ante 60
+santiga: posts the ante 60
+hozeis: posts the ante 60
+hozeis: posts small blind 125
+Karaage_Hiro: posts big blind 250
+*** HOLE CARDS ***
+darkziv: folds 
+santiga: raises 3553 to 3803 and is all-in
+hozeis: folds 
+Karaage_Hiro: folds 
+Uncalled bet (3553) returned to santiga
+santiga collected 865 from pot
+santiga: doesn't show hand 
+*** SUMMARY ***
+Total pot 865 | Rake 0 
+Seat 1: Karaage_Hiro (big blind) folded before Flop
+Seat 4: darkziv folded before Flop (didn't bet)
+Seat 5: santiga (button) collected (865)
+Seat 6: hozeis (small blind) folded before Flop
+
+PokerStars Hand #251215924995: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IX (125/250) - 2024/06/27 11:50:00 UTC [2024/06/27 7:50:00 ET]
+Table '3771164546 2' 6-max Seat #6 is the button
+Seat 1: Karaage_Hiro (3492 in chips, $25 bounty) 
+Seat 4: darkziv (5272 in chips, $37.50 bounty) 
+Seat 5: santiga (4418 in chips, $50 bounty) 
+Seat 6: hozeis (11871 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 60
+darkziv: posts the ante 60
+santiga: posts the ante 60
+hozeis: posts the ante 60
+Karaage_Hiro: posts small blind 125
+darkziv: posts big blind 250
+*** HOLE CARDS ***
+santiga: folds 
+hozeis: folds 
+Karaage_Hiro: folds 
+Uncalled bet (125) returned to darkziv
+darkziv collected 490 from pot
+darkziv: doesn't show hand 
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Seat 1: Karaage_Hiro (small blind) folded before Flop
+Seat 4: darkziv (big blind) collected (490)
+Seat 5: santiga folded before Flop (didn't bet)
+Seat 6: hozeis (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251215926410: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IX (125/250) - 2024/06/27 11:50:10 UTC [2024/06/27 7:50:10 ET]
+Table '3771164546 2' 6-max Seat #1 is the button
+Seat 1: Karaage_Hiro (3307 in chips, $25 bounty) 
+Seat 4: darkziv (5577 in chips, $37.50 bounty) 
+Seat 5: santiga (4358 in chips, $50 bounty) 
+Seat 6: hozeis (11811 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 60
+darkziv: posts the ante 60
+santiga: posts the ante 60
+hozeis: posts the ante 60
+darkziv: posts small blind 125
+santiga: posts big blind 250
+*** HOLE CARDS ***
+hozeis: folds 
+Karaage_Hiro: folds 
+darkziv: raises 375 to 625
+santiga: calls 375
+*** FLOP *** [7d Jh 3d]
+darkziv: checks 
+santiga: checks 
+*** TURN *** [7d Jh 3d] [9s]
+darkziv: bets 375
+santiga: folds 
+Uncalled bet (375) returned to darkziv
+darkziv collected 1490 from pot
+darkziv: doesn't show hand 
+*** SUMMARY ***
+Total pot 1490 | Rake 0 
+Board [7d Jh 3d 9s]
+Seat 1: Karaage_Hiro (button) folded before Flop (didn't bet)
+Seat 4: darkziv (small blind) collected (1490)
+Seat 5: santiga (big blind) folded on the Turn
+Seat 6: hozeis folded before Flop (didn't bet)
+
+PokerStars Hand #251215931872: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IX (125/250) - 2024/06/27 11:50:50 UTC [2024/06/27 7:50:50 ET]
+Table '3771164546 2' 6-max Seat #4 is the button
+Seat 1: Karaage_Hiro (3247 in chips, $25 bounty) 
+Seat 4: darkziv (6382 in chips, $37.50 bounty) 
+Seat 5: santiga (3673 in chips, $50 bounty) 
+Seat 6: hozeis (11751 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 60
+darkziv: posts the ante 60
+santiga: posts the ante 60
+hozeis: posts the ante 60
+santiga: posts small blind 125
+hozeis: posts big blind 250
+*** HOLE CARDS ***
+Karaage_Hiro: folds 
+darkziv: folds 
+santiga: calls 125
+hozeis: raises 5000 to 5250
+santiga: folds 
+Uncalled bet (5000) returned to hozeis
+hozeis collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Seat 1: Karaage_Hiro folded before Flop (didn't bet)
+Seat 4: darkziv (button) folded before Flop (didn't bet)
+Seat 5: santiga (small blind) folded before Flop
+Seat 6: hozeis (big blind) collected (740)
+
+PokerStars Hand #251215934177: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IX (125/250) - 2024/06/27 11:51:06 UTC [2024/06/27 7:51:06 ET]
+Table '3771164546 2' 6-max Seat #5 is the button
+Seat 1: Karaage_Hiro (3187 in chips, $25 bounty) 
+Seat 4: darkziv (6322 in chips, $37.50 bounty) 
+Seat 5: santiga (3363 in chips, $50 bounty) 
+Seat 6: hozeis (12181 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 60
+darkziv: posts the ante 60
+santiga: posts the ante 60
+hozeis: posts the ante 60
+hozeis: posts small blind 125
+Karaage_Hiro: posts big blind 250
+*** HOLE CARDS ***
+darkziv: raises 250 to 500
+santiga: folds 
+hozeis: folds 
+Karaage_Hiro: raises 750 to 1250
+darkziv: folds 
+Uncalled bet (750) returned to Karaage_Hiro
+Karaage_Hiro collected 1365 from pot
+Karaage_Hiro: doesn't show hand 
+*** SUMMARY ***
+Total pot 1365 | Rake 0 
+Seat 1: Karaage_Hiro (big blind) collected (1365)
+Seat 4: darkziv folded before Flop
+Seat 5: santiga (button) folded before Flop (didn't bet)
+Seat 6: hozeis (small blind) folded before Flop
+
+PokerStars Hand #251215938857: Tournament #3771164546, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IX (125/250) - 2024/06/27 11:51:41 UTC [2024/06/27 7:51:41 ET]
+Table '3771164546 2' 6-max Seat #6 is the button
+Seat 1: Karaage_Hiro (3992 in chips, $25 bounty) 
+Seat 4: darkziv (5762 in chips, $37.50 bounty) 
+Seat 5: santiga (3303 in chips, $50 bounty) 
+Seat 6: hozeis (11996 in chips, $37.50 bounty) 
+Karaage_Hiro: posts the ante 60
+darkziv: posts the ante 60
+santiga: posts the ante 60
+hozeis: posts the ante 60
+Karaage_Hiro: posts small blind 125
+darkziv: posts big blind 250
+*** HOLE CARDS ***
+santiga: folds 
+hozeis: folds 
+Karaage_Hiro: raises 3682 to 3932 and is all-in
+darkziv: calls 3682
+*** FLOP *** [Ks As Kc]
+*** TURN *** [Ks As Kc] [2h]
+*** RIVER *** [Ks As Kc 2h] [Ad]
+*** SHOW DOWN ***
+Karaage_Hiro: shows [3d Qd] (two pair, Aces and Kings)
+darkziv: shows [8s Kh] (a full house, Kings full of Aces)
+darkziv collected 8104 from pot
+darkziv wins $12.50 for eliminating Karaage_Hiro and their own bounty increases by $12.50 to $50
+Karaage_Hiro finished the tournament
+*** SUMMARY ***
+Total pot 8104 | Rake 0 
+Board [Ks As Kc 2h Ad]
+Seat 1: Karaage_Hiro (small blind) showed [3d Qd] and lost with two pair, Aces and Kings
+Seat 4: darkziv (big blind) showed [8s Kh] and won (8104) with a full house, Kings full of Aces
+Seat 5: santiga folded before Flop (didn't bet)
+Seat 6: hozeis (button) folded before Flop (didn't bet)
+

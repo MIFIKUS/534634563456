@@ -1,0 +1,754 @@
+PokerStars Hand #251201088539: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 12:49:56 UTC [2024/06/26 8:49:56 ET]
+Table '3769360068 7' 8-max Seat #1 is the button
+Seat 1: SandStyle (2360 in chips, $25 bounty) 
+Seat 2: WediKeyeh (1750 in chips, $25 bounty) 
+Seat 3: billyh2704 (1940 in chips, $25 bounty) 
+Seat 4: Finally24 (2000 in chips, $25 bounty) 
+SandStyle: posts the ante 30
+WediKeyeh: posts the ante 30
+billyh2704: posts the ante 30
+Finally24: posts the ante 30
+WediKeyeh: posts small blind 100
+billyh2704: posts big blind 200
+*** HOLE CARDS ***
+billyh2704 is disconnected 
+Finally24: folds 
+SandStyle: raises 2130 to 2330 and is all-in
+WediKeyeh: folds 
+billyh2704: folds 
+Uncalled bet (2130) returned to SandStyle
+SandStyle collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Seat 1: SandStyle (button) collected (620)
+Seat 2: WediKeyeh (small blind) folded before Flop
+Seat 3: billyh2704 (big blind) folded before Flop
+Seat 4: Finally24 folded before Flop (didn't bet)
+
+PokerStars Hand #251201090934: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 12:50:11 UTC [2024/06/26 8:50:11 ET]
+Table '3769360068 7' 8-max Seat #2 is the button
+Seat 1: SandStyle (2750 in chips, $25 bounty) 
+Seat 2: WediKeyeh (1620 in chips, $25 bounty) 
+Seat 3: billyh2704 (1710 in chips, $25 bounty) 
+Seat 4: Finally24 (1970 in chips, $25 bounty) 
+SandStyle: posts the ante 30
+WediKeyeh: posts the ante 30
+billyh2704: posts the ante 30
+Finally24: posts the ante 30
+billyh2704: posts small blind 100
+Finally24: posts big blind 200
+*** HOLE CARDS ***
+SandStyle: folds 
+WediKeyeh: folds 
+billyh2704: raises 1480 to 1680 and is all-in
+santiga is disconnected 
+Finally24: folds 
+Uncalled bet (1480) returned to billyh2704
+billyh2704 collected 520 from pot
+billyh2704: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 1: SandStyle folded before Flop (didn't bet)
+Seat 2: WediKeyeh (button) folded before Flop (didn't bet)
+Seat 3: billyh2704 (small blind) collected (520)
+Seat 4: Finally24 (big blind) folded before Flop
+
+PokerStars Hand #251201093462: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 12:50:28 UTC [2024/06/26 8:50:28 ET]
+Table '3769360068 7' 8-max Seat #3 is the button
+Seat 1: SandStyle (2720 in chips, $25 bounty) 
+Seat 2: WediKeyeh (1590 in chips, $25 bounty) 
+Seat 3: billyh2704 (2000 in chips, $25 bounty) 
+Seat 4: Finally24 (1740 in chips, $25 bounty) 
+Seat 5: santiga (2510 in chips, $43.75 bounty) 
+SandStyle: posts the ante 30
+WediKeyeh: posts the ante 30
+billyh2704: posts the ante 30
+Finally24: posts the ante 30
+santiga: posts the ante 30
+Finally24: posts small blind 100
+santiga: posts big blind 200
+*** HOLE CARDS ***
+SandStyle: folds 
+WediKeyeh: raises 1360 to 1560 and is all-in
+JohnJohn4Life is disconnected 
+billyh2704: folds 
+Finally24: folds 
+santiga: folds 
+Uncalled bet (1360) returned to WediKeyeh
+WediKeyeh collected 650 from pot
+WediKeyeh: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 1: SandStyle folded before Flop (didn't bet)
+Seat 2: WediKeyeh collected (650)
+Seat 3: billyh2704 (button) folded before Flop (didn't bet)
+Seat 4: Finally24 (small blind) folded before Flop
+Seat 5: santiga (big blind) folded before Flop
+
+PokerStars Hand #251201095602: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 12:50:42 UTC [2024/06/26 8:50:42 ET]
+Table '3769360068 7' 8-max Seat #4 is the button
+Seat 1: SandStyle (2690 in chips, $25 bounty) 
+Seat 2: WediKeyeh (2010 in chips, $25 bounty) 
+Seat 3: billyh2704 (1970 in chips, $25 bounty) 
+Seat 4: Finally24 (1610 in chips, $25 bounty) 
+Seat 5: santiga (2280 in chips, $43.75 bounty) 
+Seat 6: JohnJohn4Life (1590 in chips, $25 bounty) 
+SandStyle: posts the ante 30
+WediKeyeh: posts the ante 30
+billyh2704: posts the ante 30
+Finally24: posts the ante 30
+santiga: posts the ante 30
+JohnJohn4Life: posts the ante 30
+santiga: posts small blind 100
+JohnJohn4Life: posts big blind 200
+*** HOLE CARDS ***
+SandStyle: raises 2460 to 2660 and is all-in
+WediKeyeh: folds 
+billyh2704: calls 1940 and is all-in
+Finally24: folds 
+santiga: folds 
+JohnJohn4Life: folds 
+Uncalled bet (720) returned to SandStyle
+*** FLOP *** [Kc 3s 6d]
+*** TURN *** [Kc 3s 6d] [9d]
+*** RIVER *** [Kc 3s 6d 9d] [6h]
+*** SHOW DOWN ***
+SandStyle: shows [Ad Td] (a pair of Sixes)
+billyh2704: shows [Jd Kd] (two pair, Kings and Sixes)
+billyh2704 collected 4360 from pot
+*** SUMMARY ***
+Total pot 4360 | Rake 0 
+Board [Kc 3s 6d 9d 6h]
+Seat 1: SandStyle showed [Ad Td] and lost with a pair of Sixes
+Seat 2: WediKeyeh folded before Flop (didn't bet)
+Seat 3: billyh2704 showed [Jd Kd] and won (4360) with two pair, Kings and Sixes
+Seat 4: Finally24 (button) folded before Flop (didn't bet)
+Seat 5: santiga (small blind) folded before Flop
+Seat 6: JohnJohn4Life (big blind) folded before Flop
+
+PokerStars Hand #251201099961: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 12:51:11 UTC [2024/06/26 8:51:11 ET]
+Table '3769360068 7' 8-max Seat #5 is the button
+Seat 1: SandStyle (720 in chips, $25 bounty) 
+Seat 2: WediKeyeh (1980 in chips, $25 bounty) 
+Seat 3: billyh2704 (4360 in chips, $25 bounty) 
+Seat 4: Finally24 (1580 in chips, $25 bounty) 
+Seat 5: santiga (2150 in chips, $43.75 bounty) 
+Seat 6: JohnJohn4Life (1360 in chips, $25 bounty) 
+SandStyle: posts the ante 30
+WediKeyeh: posts the ante 30
+billyh2704: posts the ante 30
+Finally24: posts the ante 30
+santiga: posts the ante 30
+JohnJohn4Life: posts the ante 30
+JohnJohn4Life: posts small blind 100
+SandStyle: posts big blind 200
+*** HOLE CARDS ***
+WediKeyeh: folds 
+billyh2704: folds 
+Finally24: raises 1350 to 1550 and is all-in
+santiga: folds 
+JohnJohn4Life: calls 1230 and is all-in
+SandStyle: calls 490 and is all-in
+Uncalled bet (220) returned to Finally24
+*** FLOP *** [Qc Ks 4h]
+*** TURN *** [Qc Ks 4h] [Ah]
+*** RIVER *** [Qc Ks 4h Ah] [7s]
+*** SHOW DOWN ***
+JohnJohn4Life: shows [Jc Ad] (a pair of Aces)
+Finally24: shows [Qd Ac] (two pair, Aces and Queens)
+Finally24 collected 1280 from side pot
+SandStyle: shows [Ts Jd] (a straight, Ten to Ace)
+SandStyle collected 2250 from main pot
+Finally24 wins $12.50 for eliminating JohnJohn4Life and their own bounty increases by $12.50 to $37.50
+JohnJohn4Life finished the tournament
+*** SUMMARY ***
+Total pot 3530 Main pot 2250. Side pot 1280. | Rake 0 
+Board [Qc Ks 4h Ah 7s]
+Seat 1: SandStyle (big blind) showed [Ts Jd] and won (2250) with a straight, Ten to Ace
+Seat 2: WediKeyeh folded before Flop (didn't bet)
+Seat 3: billyh2704 folded before Flop (didn't bet)
+Seat 4: Finally24 showed [Qd Ac] and won (1280) with two pair, Aces and Queens
+Seat 5: santiga (button) folded before Flop (didn't bet)
+Seat 6: JohnJohn4Life (small blind) showed [Jc Ad] and lost with a pair of Aces
+
+PokerStars Hand #251201104679: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 12:51:42 UTC [2024/06/26 8:51:42 ET]
+Table '3769360068 7' 8-max Seat #1 is the button
+Seat 1: SandStyle (2250 in chips, $25 bounty) 
+Seat 2: WediKeyeh (1950 in chips, $25 bounty) 
+Seat 3: billyh2704 (4330 in chips, $25 bounty) 
+Seat 4: Finally24 (1500 in chips, $37.50 bounty) 
+Seat 5: santiga (2120 in chips, $43.75 bounty) 
+SandStyle: posts the ante 30
+WediKeyeh: posts the ante 30
+billyh2704: posts the ante 30
+Finally24: posts the ante 30
+santiga: posts the ante 30
+WediKeyeh: posts small blind 100
+billyh2704: posts big blind 200
+*** HOLE CARDS ***
+JohnJohn4Life is disconnected 
+Finally24: folds 
+santiga: folds 
+SandStyle: folds 
+Fruitbat23 is disconnected 
+WediKeyeh: calls 100
+billyh2704: checks 
+*** FLOP *** [3c 4h 2c]
+WediKeyeh: bets 200
+billyh2704: calls 200
+*** TURN *** [3c 4h 2c] [4s]
+WediKeyeh: checks 
+billyh2704: bets 285
+WediKeyeh: calls 285
+*** RIVER *** [3c 4h 2c 4s] [2s]
+WediKeyeh: bets 1235 and is all-in
+billyh2704: folds 
+Uncalled bet (1235) returned to WediKeyeh
+WediKeyeh collected 1520 from pot
+WediKeyeh: doesn't show hand 
+*** SUMMARY ***
+Total pot 1520 | Rake 0 
+Board [3c 4h 2c 4s 2s]
+Seat 1: SandStyle (button) folded before Flop (didn't bet)
+Seat 2: WediKeyeh (small blind) collected (1520)
+Seat 3: billyh2704 (big blind) folded on the River
+Seat 4: Finally24 folded before Flop (didn't bet)
+Seat 5: santiga folded before Flop (didn't bet)
+
+PokerStars Hand #251201114366: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 12:52:45 UTC [2024/06/26 8:52:45 ET]
+Table '3769360068 7' 8-max Seat #2 is the button
+Seat 1: SandStyle (2220 in chips, $25 bounty) 
+Seat 2: WediKeyeh (2755 in chips, $25 bounty) 
+Seat 3: billyh2704 (3615 in chips, $25 bounty) 
+Seat 4: Finally24 (1470 in chips, $37.50 bounty) 
+Seat 5: santiga (2090 in chips, $43.75 bounty) 
+Seat 6: Fruitbat23 (3780 in chips, $25 bounty) 
+Seat 7: JohnJohn4Life (2000 in chips, $25 bounty) 
+SandStyle: posts the ante 30
+WediKeyeh: posts the ante 30
+billyh2704: posts the ante 30
+Finally24: posts the ante 30
+santiga: posts the ante 30
+Fruitbat23: posts the ante 30
+JohnJohn4Life: posts the ante 30
+billyh2704: posts small blind 100
+Finally24: posts big blind 200
+*** HOLE CARDS ***
+santiga: raises 200 to 400
+Fruitbat23: folds 
+JohnJohn4Life: folds 
+SandStyle: folds 
+WediKeyeh: folds 
+billyh2704: calls 300
+Finally24: folds 
+*** FLOP *** [Qc 8h Td]
+billyh2704: checks 
+santiga: bets 200
+billyh2704: calls 200
+*** TURN *** [Qc 8h Td] [3d]
+billyh2704: checks 
+santiga: bets 200
+billyh2704: folds 
+Uncalled bet (200) returned to santiga
+santiga collected 1610 from pot
+santiga: doesn't show hand 
+*** SUMMARY ***
+Total pot 1610 | Rake 0 
+Board [Qc 8h Td 3d]
+Seat 1: SandStyle folded before Flop (didn't bet)
+Seat 2: WediKeyeh (button) folded before Flop (didn't bet)
+Seat 3: billyh2704 (small blind) folded on the Turn
+Seat 4: Finally24 (big blind) folded before Flop
+Seat 5: santiga collected (1610)
+Seat 6: Fruitbat23 folded before Flop (didn't bet)
+Seat 7: JohnJohn4Life folded before Flop (didn't bet)
+
+PokerStars Hand #251201122406: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 12:53:38 UTC [2024/06/26 8:53:38 ET]
+Table '3769360068 7' 8-max Seat #3 is the button
+Seat 1: SandStyle (2190 in chips, $25 bounty) 
+Seat 2: WediKeyeh (2725 in chips, $25 bounty) 
+Seat 3: billyh2704 (2985 in chips, $25 bounty) 
+Seat 4: Finally24 (1240 in chips, $37.50 bounty) 
+Seat 5: santiga (3070 in chips, $43.75 bounty) 
+Seat 6: Fruitbat23 (3750 in chips, $25 bounty) 
+Seat 7: JohnJohn4Life (1970 in chips, $25 bounty) 
+SandStyle: posts the ante 30
+WediKeyeh: posts the ante 30
+billyh2704: posts the ante 30
+Finally24: posts the ante 30
+santiga: posts the ante 30
+Fruitbat23: posts the ante 30
+JohnJohn4Life: posts the ante 30
+Finally24: posts small blind 100
+santiga: posts big blind 200
+*** HOLE CARDS ***
+Fruitbat23: raises 3520 to 3720 and is all-in
+JohnJohn4Life: folds 
+SandStyle: folds 
+WediKeyeh: folds 
+billyh2704: folds 
+Finally24: folds 
+santiga: folds 
+Uncalled bet (3520) returned to Fruitbat23
+Fruitbat23 collected 710 from pot
+Fruitbat23: doesn't show hand 
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Seat 1: SandStyle folded before Flop (didn't bet)
+Seat 2: WediKeyeh folded before Flop (didn't bet)
+Seat 3: billyh2704 (button) folded before Flop (didn't bet)
+Seat 4: Finally24 (small blind) folded before Flop
+Seat 5: santiga (big blind) folded before Flop
+Seat 6: Fruitbat23 collected (710)
+Seat 7: JohnJohn4Life folded before Flop (didn't bet)
+
+PokerStars Hand #251201130903: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 12:54:33 UTC [2024/06/26 8:54:33 ET]
+Table '3769360068 7' 8-max Seat #4 is the button
+Seat 1: SandStyle (2160 in chips, $25 bounty) 
+Seat 3: billyh2704 (2955 in chips, $25 bounty) 
+Seat 4: Finally24 (1110 in chips, $37.50 bounty) 
+Seat 5: santiga (2840 in chips, $43.75 bounty) 
+Seat 6: Fruitbat23 (4230 in chips, $25 bounty) 
+Seat 7: JohnJohn4Life (1940 in chips, $25 bounty) 
+Seat 8: Bratinho77 (2000 in chips, $25 bounty) 
+SandStyle: posts the ante 30
+billyh2704: posts the ante 30
+Finally24: posts the ante 30
+santiga: posts the ante 30
+Fruitbat23: posts the ante 30
+JohnJohn4Life: posts the ante 30
+Bratinho77: posts the ante 30
+santiga: posts small blind 100
+Fruitbat23: posts big blind 200
+*** HOLE CARDS ***
+JohnJohn4Life: folds 
+Bratinho77: folds 
+SandStyle: folds 
+billyh2704: raises 2725 to 2925 and is all-in
+Finally24: calls 1080 and is all-in
+santiga: folds 
+Fruitbat23: folds 
+Uncalled bet (1845) returned to billyh2704
+*** FLOP *** [4h Js As]
+*** TURN *** [4h Js As] [4d]
+*** RIVER *** [4h Js As 4d] [7h]
+*** SHOW DOWN ***
+billyh2704: shows [Ts Th] (two pair, Tens and Fours)
+Finally24: shows [8d 9d] (a pair of Fours)
+billyh2704 collected 2670 from pot
+billyh2704 wins $18.75 for eliminating Finally24 and their own bounty increases by $18.75 to $43.75
+Finally24 finished the tournament
+*** SUMMARY ***
+Total pot 2670 | Rake 0 
+Board [4h Js As 4d 7h]
+Seat 1: SandStyle folded before Flop (didn't bet)
+Seat 3: billyh2704 showed [Ts Th] and won (2670) with two pair, Tens and Fours
+Seat 4: Finally24 (button) showed [8d 9d] and lost with a pair of Fours
+Seat 5: santiga (small blind) folded before Flop
+Seat 6: Fruitbat23 (big blind) folded before Flop
+Seat 7: JohnJohn4Life folded before Flop (didn't bet)
+Seat 8: Bratinho77 folded before Flop (didn't bet)
+
+PokerStars Hand #251201178690: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 13:00:38 UTC [2024/06/26 9:00:38 ET]
+Table '3769360068 7' 8-max Seat #5 is the button
+Seat 1: SandStyle (2130 in chips, $25 bounty) 
+Seat 2: Dbabreu2 (2000 in chips, $25 bounty) 
+Seat 3: billyh2704 (4515 in chips, $43.75 bounty) 
+Seat 5: santiga (2710 in chips, $43.75 bounty) 
+Seat 6: Fruitbat23 (4000 in chips, $25 bounty) 
+Seat 7: JohnJohn4Life (1910 in chips, $25 bounty) 
+Seat 8: Bratinho77 (1970 in chips, $25 bounty) 
+SandStyle: posts the ante 30
+Dbabreu2: posts the ante 30
+billyh2704: posts the ante 30
+santiga: posts the ante 30
+Fruitbat23: posts the ante 30
+JohnJohn4Life: posts the ante 30
+Bratinho77: posts the ante 30
+Fruitbat23: posts small blind 100
+JohnJohn4Life: posts big blind 200
+*** HOLE CARDS ***
+Bratinho77: raises 1740 to 1940 and is all-in
+SandStyle: folds 
+Dbabreu2: folds 
+billyh2704: folds 
+santiga: folds 
+Fruitbat23: folds 
+JohnJohn4Life: calls 1680 and is all-in
+Uncalled bet (60) returned to Bratinho77
+*** FLOP *** [8s 4s 6d]
+*** TURN *** [8s 4s 6d] [8c]
+*** RIVER *** [8s 4s 6d 8c] [Kh]
+*** SHOW DOWN ***
+JohnJohn4Life: shows [Qh As] (a pair of Eights)
+Bratinho77: shows [Td Ad] (a pair of Eights - lower kicker)
+JohnJohn4Life collected 4070 from pot
+*** SUMMARY ***
+Total pot 4070 | Rake 0 
+Board [8s 4s 6d 8c Kh]
+Seat 1: SandStyle folded before Flop (didn't bet)
+Seat 2: Dbabreu2 folded before Flop (didn't bet)
+Seat 3: billyh2704 folded before Flop (didn't bet)
+Seat 5: santiga (button) folded before Flop (didn't bet)
+Seat 6: Fruitbat23 (small blind) folded before Flop
+Seat 7: JohnJohn4Life (big blind) showed [Qh As] and won (4070) with a pair of Eights
+Seat 8: Bratinho77 showed [Td Ad] and lost with a pair of Eights
+
+PokerStars Hand #251201183120: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 13:01:08 UTC [2024/06/26 9:01:08 ET]
+Table '3769360068 7' 8-max Seat #6 is the button
+Seat 1: SandStyle (2100 in chips, $25 bounty) 
+Seat 2: Dbabreu2 (1970 in chips, $25 bounty) 
+Seat 3: billyh2704 (4485 in chips, $43.75 bounty) 
+Seat 5: santiga (2680 in chips, $43.75 bounty) 
+Seat 6: Fruitbat23 (3870 in chips, $25 bounty) 
+Seat 7: JohnJohn4Life (4070 in chips, $25 bounty) 
+Seat 8: Bratinho77 (60 in chips, $25 bounty) 
+SandStyle: posts the ante 30
+Dbabreu2: posts the ante 30
+billyh2704: posts the ante 30
+santiga: posts the ante 30
+Fruitbat23: posts the ante 30
+JohnJohn4Life: posts the ante 30
+Bratinho77: posts the ante 30
+JohnJohn4Life: posts small blind 100
+Bratinho77: posts big blind 30 and is all-in
+*** HOLE CARDS ***
+SandStyle: folds 
+Dbabreu2: folds 
+billyh2704: raises 4355 to 4455 and is all-in
+santiga: calls 2650 and is all-in
+Fruitbat23: folds 
+JohnJohn4Life: folds 
+Uncalled bet (1805) returned to billyh2704
+*** FLOP *** [7h 2c Kh]
+*** TURN *** [7h 2c Kh] [Ac]
+*** RIVER *** [7h 2c Kh Ac] [6h]
+*** SHOW DOWN ***
+billyh2704: shows [Ah Js] (a pair of Aces)
+santiga: shows [Tc Td] (a pair of Tens)
+billyh2704 collected 5310 from side pot
+Bratinho77: shows [Jh 7c] (a pair of Sevens)
+billyh2704 collected 330 from main pot
+billyh2704 wins $21.88 for eliminating santiga and their own bounty increases by $21.87 to $65.62
+billyh2704 wins $12.50 for eliminating Bratinho77 and their own bounty increases by $12.50 to $78.12
+santiga finished the tournament
+Bratinho77 finished the tournament
+*** SUMMARY ***
+Total pot 5640 Main pot 330. Side pot 5310. | Rake 0 
+Board [7h 2c Kh Ac 6h]
+Seat 1: SandStyle folded before Flop (didn't bet)
+Seat 2: Dbabreu2 folded before Flop (didn't bet)
+Seat 3: billyh2704 showed [Ah Js] and won (5640) with a pair of Aces
+Seat 5: santiga showed [Tc Td] and lost with a pair of Tens
+Seat 6: Fruitbat23 (button) folded before Flop (didn't bet)
+Seat 7: JohnJohn4Life (small blind) folded before Flop
+Seat 8: Bratinho77 (big blind) showed [Jh 7c] and lost with a pair of Sevens
+
+PokerStars Hand #251201187878: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 13:01:39 UTC [2024/06/26 9:01:39 ET]
+Table '3769360068 7' 8-max Seat #7 is the button
+Seat 1: SandStyle (2070 in chips, $25 bounty) 
+Seat 2: Dbabreu2 (1940 in chips, $25 bounty) 
+Seat 3: billyh2704 (7445 in chips, $78.12 bounty) 
+Seat 6: Fruitbat23 (3840 in chips, $25 bounty) 
+Seat 7: JohnJohn4Life (3940 in chips, $25 bounty) 
+SandStyle: posts the ante 30
+Dbabreu2: posts the ante 30
+billyh2704: posts the ante 30
+Fruitbat23: posts the ante 30
+JohnJohn4Life: posts the ante 30
+SandStyle: posts small blind 100
+Dbabreu2: posts big blind 200
+*** HOLE CARDS ***
+Joelauson7 is disconnected 
+billyh2704: folds 
+Fruitbat23: folds 
+JohnJohn4Life: raises 3710 to 3910 and is all-in
+SandStyle: folds 
+Dbabreu2: folds 
+Uncalled bet (3710) returned to JohnJohn4Life
+JohnJohn4Life collected 650 from pot
+JohnJohn4Life: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 1: SandStyle (small blind) folded before Flop
+Seat 2: Dbabreu2 (big blind) folded before Flop
+Seat 3: billyh2704 folded before Flop (didn't bet)
+Seat 6: Fruitbat23 folded before Flop (didn't bet)
+Seat 7: JohnJohn4Life (button) collected (650)
+
+PokerStars Hand #251201191067: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 13:02:00 UTC [2024/06/26 9:02:00 ET]
+Table '3769360068 7' 8-max Seat #1 is the button
+Seat 1: SandStyle (1940 in chips, $25 bounty) 
+Seat 2: Dbabreu2 (1710 in chips, $25 bounty) 
+Seat 3: billyh2704 (7415 in chips, $78.12 bounty) 
+Seat 4: Joelauson7 (3854 in chips, $37.50 bounty) 
+Seat 6: Fruitbat23 (3810 in chips, $25 bounty) 
+Seat 7: JohnJohn4Life (4360 in chips, $25 bounty) 
+SandStyle: posts the ante 30
+Dbabreu2: posts the ante 30
+billyh2704: posts the ante 30
+Joelauson7: posts the ante 30
+Fruitbat23: posts the ante 30
+JohnJohn4Life: posts the ante 30
+Dbabreu2: posts small blind 100
+billyh2704: posts big blind 200
+*** HOLE CARDS ***
+Joelauson7: folds 
+Fruitbat23: folds 
+JohnJohn4Life: folds 
+SandStyle: raises 1710 to 1910 and is all-in
+Dbabreu2: folds 
+billyh2704: folds 
+Uncalled bet (1710) returned to SandStyle
+SandStyle collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Seat 1: SandStyle (button) collected (680)
+Seat 2: Dbabreu2 (small blind) folded before Flop
+Seat 3: billyh2704 (big blind) folded before Flop
+Seat 4: Joelauson7 folded before Flop (didn't bet)
+Seat 6: Fruitbat23 folded before Flop (didn't bet)
+Seat 7: JohnJohn4Life folded before Flop (didn't bet)
+
+PokerStars Hand #251201194097: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 13:02:20 UTC [2024/06/26 9:02:20 ET]
+Table '3769360068 7' 8-max Seat #2 is the button
+Seat 1: SandStyle (2390 in chips, $25 bounty) 
+Seat 2: Dbabreu2 (1580 in chips, $25 bounty) 
+Seat 3: billyh2704 (7185 in chips, $78.12 bounty) 
+Seat 4: Joelauson7 (3824 in chips, $37.50 bounty) 
+Seat 6: Fruitbat23 (3780 in chips, $25 bounty) 
+Seat 7: JohnJohn4Life (4330 in chips, $25 bounty) 
+SandStyle: posts the ante 30
+Dbabreu2: posts the ante 30
+billyh2704: posts the ante 30
+Joelauson7: posts the ante 30
+Fruitbat23: posts the ante 30
+JohnJohn4Life: posts the ante 30
+billyh2704: posts small blind 100
+Joelauson7: posts big blind 200
+*** HOLE CARDS ***
+Fruitbat23: folds 
+JohnJohn4Life: folds 
+SandStyle: folds 
+Dbabreu2: folds 
+billyh2704: raises 6600 to 6800
+Joelauson7: folds 
+Uncalled bet (6600) returned to billyh2704
+billyh2704 collected 580 from pot
+billyh2704: doesn't show hand 
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Seat 1: SandStyle folded before Flop (didn't bet)
+Seat 2: Dbabreu2 (button) folded before Flop (didn't bet)
+Seat 3: billyh2704 (small blind) collected (580)
+Seat 4: Joelauson7 (big blind) folded before Flop
+Seat 6: Fruitbat23 folded before Flop (didn't bet)
+Seat 7: JohnJohn4Life folded before Flop (didn't bet)
+
+PokerStars Hand #251201196970: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 13:02:38 UTC [2024/06/26 9:02:38 ET]
+Table '3769360068 7' 8-max Seat #3 is the button
+Seat 1: SandStyle (2360 in chips, $25 bounty) 
+Seat 2: Dbabreu2 (1550 in chips, $25 bounty) 
+Seat 3: billyh2704 (7535 in chips, $78.12 bounty) 
+Seat 4: Joelauson7 (3594 in chips, $37.50 bounty) 
+Seat 6: Fruitbat23 (3750 in chips, $25 bounty) 
+Seat 7: JohnJohn4Life (4300 in chips, $25 bounty) 
+SandStyle: posts the ante 30
+Dbabreu2: posts the ante 30
+billyh2704: posts the ante 30
+Joelauson7: posts the ante 30
+Fruitbat23: posts the ante 30
+JohnJohn4Life: posts the ante 30
+Joelauson7: posts small blind 100
+Fruitbat23: posts big blind 200
+*** HOLE CARDS ***
+JohnJohn4Life: folds 
+SandStyle: raises 2130 to 2330 and is all-in
+Dbabreu2: folds 
+billyh2704: folds 
+Joelauson7: folds 
+Fruitbat23: calls 2130
+*** FLOP *** [9s Th Jc]
+*** TURN *** [9s Th Jc] [7d]
+*** RIVER *** [9s Th Jc 7d] [As]
+*** SHOW DOWN ***
+Fruitbat23: shows [8s 8h] (a straight, Seven to Jack)
+SandStyle: shows [Tc Ah] (two pair, Aces and Tens)
+Fruitbat23 collected 4940 from pot
+Fruitbat23 wins $12.50 for eliminating SandStyle and their own bounty increases by $12.50 to $37.50
+SandStyle finished the tournament
+*** SUMMARY ***
+Total pot 4940 | Rake 0 
+Board [9s Th Jc 7d As]
+Seat 1: SandStyle showed [Tc Ah] and lost with two pair, Aces and Tens
+Seat 2: Dbabreu2 folded before Flop (didn't bet)
+Seat 3: billyh2704 (button) folded before Flop (didn't bet)
+Seat 4: Joelauson7 (small blind) folded before Flop
+Seat 6: Fruitbat23 (big blind) showed [8s 8h] and won (4940) with a straight, Seven to Jack
+Seat 7: JohnJohn4Life folded before Flop (didn't bet)
+
+PokerStars Hand #251201199986: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 13:02:58 UTC [2024/06/26 9:02:58 ET]
+Table '3769360068 7' 8-max Seat #4 is the button
+Seat 2: Dbabreu2 (1520 in chips, $25 bounty) 
+Seat 3: billyh2704 (7505 in chips, $78.12 bounty) 
+Seat 4: Joelauson7 (3464 in chips, $37.50 bounty) 
+Seat 6: Fruitbat23 (6330 in chips, $37.50 bounty) 
+Seat 7: JohnJohn4Life (4270 in chips, $25 bounty) 
+Dbabreu2: posts the ante 30
+billyh2704: posts the ante 30
+Joelauson7: posts the ante 30
+Fruitbat23: posts the ante 30
+JohnJohn4Life: posts the ante 30
+Fruitbat23: posts small blind 100
+JohnJohn4Life: posts big blind 200
+*** HOLE CARDS ***
+Dbabreu2: folds 
+billyh2704: raises 240 to 440
+Joelauson7: folds 
+Fruitbat23: folds 
+JohnJohn4Life: calls 240
+*** FLOP *** [2c Kc Qd]
+JohnJohn4Life: checks 
+billyh2704: bets 339
+JohnJohn4Life: folds 
+Uncalled bet (339) returned to billyh2704
+billyh2704 collected 1130 from pot
+billyh2704: doesn't show hand 
+*** SUMMARY ***
+Total pot 1130 | Rake 0 
+Board [2c Kc Qd]
+Seat 2: Dbabreu2 folded before Flop (didn't bet)
+Seat 3: billyh2704 collected (1130)
+Seat 4: Joelauson7 (button) folded before Flop (didn't bet)
+Seat 6: Fruitbat23 (small blind) folded before Flop
+Seat 7: JohnJohn4Life (big blind) folded on the Flop
+
+PokerStars Hand #251201207674: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 13:03:47 UTC [2024/06/26 9:03:47 ET]
+Table '3769360068 7' 8-max Seat #6 is the button
+Seat 2: Dbabreu2 (1490 in chips, $25 bounty) 
+Seat 3: billyh2704 (8165 in chips, $78.12 bounty) 
+Seat 4: Joelauson7 (3434 in chips, $37.50 bounty) 
+Seat 6: Fruitbat23 (6200 in chips, $37.50 bounty) 
+Seat 7: JohnJohn4Life (3800 in chips, $25 bounty) 
+Dbabreu2: posts the ante 30
+billyh2704: posts the ante 30
+Joelauson7: posts the ante 30
+Fruitbat23: posts the ante 30
+JohnJohn4Life: posts the ante 30
+JohnJohn4Life: posts small blind 100
+Dbabreu2: posts big blind 200
+*** HOLE CARDS ***
+billyh2704: folds 
+Joelauson7: folds 
+falcken13 is disconnected 
+Fruitbat23: folds 
+JohnJohn4Life: raises 3570 to 3770 and is all-in
+Dbabreu2: calls 1260 and is all-in
+Uncalled bet (2310) returned to JohnJohn4Life
+*** FLOP *** [2c 8d Qs]
+*** TURN *** [2c 8d Qs] [3c]
+*** RIVER *** [2c 8d Qs 3c] [2d]
+*** SHOW DOWN ***
+JohnJohn4Life: shows [8c Qh] (two pair, Queens and Eights)
+Dbabreu2: shows [Qd 3h] (two pair, Queens and Threes)
+JohnJohn4Life collected 3070 from pot
+JohnJohn4Life wins $12.50 for eliminating Dbabreu2 and their own bounty increases by $12.50 to $37.50
+Dbabreu2 finished the tournament
+*** SUMMARY ***
+Total pot 3070 | Rake 0 
+Board [2c 8d Qs 3c 2d]
+Seat 2: Dbabreu2 (big blind) showed [Qd 3h] and lost with two pair, Queens and Threes
+Seat 3: billyh2704 folded before Flop (didn't bet)
+Seat 4: Joelauson7 folded before Flop (didn't bet)
+Seat 6: Fruitbat23 (button) folded before Flop (didn't bet)
+Seat 7: JohnJohn4Life (small blind) showed [8c Qh] and won (3070) with two pair, Queens and Eights
+
+PokerStars Hand #251201213874: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 13:04:26 UTC [2024/06/26 9:04:26 ET]
+Table '3769360068 7' 8-max Seat #7 is the button
+Seat 1: linie3 (16880 in chips) out of hand (moved from another table into small blind)
+Seat 3: billyh2704 (8135 in chips, $78.12 bounty) 
+Seat 4: Joelauson7 (3404 in chips, $37.50 bounty) 
+Seat 5: falcken13 (5400 in chips, $25 bounty) 
+Seat 6: Fruitbat23 (6170 in chips, $37.50 bounty) 
+Seat 7: JohnJohn4Life (5380 in chips, $37.50 bounty) 
+Seat 8: WediKeyeh (2245 in chips) out of hand (moved from another table into small blind)
+WediKeyeh will be allowed to play after the button
+linie3 will be allowed to play after the button
+billyh2704: posts the ante 30
+Joelauson7: posts the ante 30
+falcken13: posts the ante 30
+Fruitbat23: posts the ante 30
+JohnJohn4Life: posts the ante 30
+billyh2704: posts small blind 100
+Joelauson7: posts big blind 200
+*** HOLE CARDS ***
+falcken13: folds 
+Fruitbat23: raises 200 to 400
+LiamDoyle992 is disconnected 
+JohnJohn4Life: calls 400
+billyh2704: folds 
+Joelauson7: folds 
+*** FLOP *** [Ad 3c 6d]
+Fruitbat23: bets 375
+JohnJohn4Life: folds 
+Uncalled bet (375) returned to Fruitbat23
+Fruitbat23 collected 1250 from pot
+Fruitbat23: doesn't show hand 
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Board [Ad 3c 6d]
+Seat 3: billyh2704 (small blind) folded before Flop
+Seat 4: Joelauson7 (big blind) folded before Flop
+Seat 5: falcken13 folded before Flop (didn't bet)
+Seat 6: Fruitbat23 collected (1250)
+Seat 7: JohnJohn4Life (button) folded on the Flop
+
+PokerStars Hand #251201223270: Tournament #3769360068, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level I (100/200) - 2024/06/26 13:05:25 UTC [2024/06/26 9:05:25 ET]
+Table '3769360068 7' 8-max Seat #3 is the button
+Seat 1: linie3 (16880 in chips, $112.50 bounty) 
+Seat 2: LiamDoyle992 (2000 in chips, $25 bounty) 
+Seat 3: billyh2704 (8005 in chips, $78.12 bounty) 
+Seat 4: Joelauson7 (3174 in chips, $37.50 bounty) 
+Seat 6: Fruitbat23 (6990 in chips, $37.50 bounty) 
+Seat 7: JohnJohn4Life (4950 in chips, $37.50 bounty) 
+Seat 8: WediKeyeh (2245 in chips, $25 bounty) 
+linie3: posts the ante 30
+LiamDoyle992: posts the ante 30
+billyh2704: posts the ante 30
+Joelauson7: posts the ante 30
+Fruitbat23: posts the ante 30
+JohnJohn4Life: posts the ante 30
+WediKeyeh: posts the ante 30
+Joelauson7: posts small blind 100
+Fruitbat23: posts big blind 200
+*** HOLE CARDS ***
+JohnJohn4Life: raises 200 to 400
+WediKeyeh: folds 
+linie3: folds 
+LiamDoyle992: raises 1570 to 1970 and is all-in
+billyh2704: folds 
+Joelauson7: folds 
+Fruitbat23: raises 4990 to 6960 and is all-in
+JohnJohn4Life: calls 4520 and is all-in
+Uncalled bet (2040) returned to Fruitbat23
+*** FLOP *** [4d 3d 2c]
+*** TURN *** [4d 3d 2c] [6c]
+*** RIVER *** [4d 3d 2c 6c] [Ad]
+*** SHOW DOWN ***
+Fruitbat23: shows [Tc Td] (a pair of Tens)
+JohnJohn4Life: shows [Kc Ah] (a pair of Aces)
+JohnJohn4Life collected 5900 from side pot
+LiamDoyle992: shows [Qc Qd] (a pair of Queens)
+JohnJohn4Life collected 6220 from main pot
+JohnJohn4Life wins $12.50 for eliminating LiamDoyle992 and their own bounty increases by $12.50 to $50
+LiamDoyle992 finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 12120 Main pot 6220. Side pot 5900. | Rake 0 
+Board [4d 3d 2c 6c Ad]
+Seat 1: linie3 folded before Flop (didn't bet)
+Seat 2: LiamDoyle992 showed [Qc Qd] and lost with a pair of Queens
+Seat 3: billyh2704 (button) folded before Flop (didn't bet)
+Seat 4: Joelauson7 (small blind) folded before Flop
+Seat 6: Fruitbat23 (big blind) showed [Tc Td] and lost with a pair of Tens
+Seat 7: JohnJohn4Life showed [Kc Ah] and won (12120) with a pair of Aces
+Seat 8: WediKeyeh folded before Flop (didn't bet)

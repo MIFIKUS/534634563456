@@ -1,0 +1,679 @@
+PokerStars Hand #251205799339: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:19:02 UTC [2024/06/26 15:19:02 ET]
+Table '3767885527 94' 8-max Seat #5 is the button
+Seat 1: pazipro (66633 in chips) 
+Seat 2: 010101777 (43448 in chips) 
+Seat 3: Parrafelipe (15667 in chips) 
+Seat 4: PIUlimeira (52085 in chips) 
+Seat 5: Ale7anderr77 (71117 in chips) 
+Seat 6: Hookz (24007 in chips) 
+Seat 7: esdeathonlol (26575 in chips) 
+Seat 8: Thrumbo (76020 in chips) 
+pazipro: posts the ante 175
+010101777: posts the ante 175
+Parrafelipe: posts the ante 175
+PIUlimeira: posts the ante 175
+Ale7anderr77: posts the ante 175
+Hookz: posts the ante 175
+esdeathonlol: posts the ante 175
+Thrumbo: posts the ante 175
+Hookz: posts small blind 700
+esdeathonlol: posts big blind 1400
+*** HOLE CARDS ***
+Thrumbo: raises 1540 to 2940
+pazipro: folds 
+010101777: calls 2940
+Parrafelipe: folds 
+PIUlimeira: folds 
+Ale7anderr77: raises 7840 to 10780
+Hookz: folds 
+esdeathonlol: folds 
+Thrumbo: folds 
+010101777: raises 32493 to 43273 and is all-in
+Ale7anderr77: calls 32493
+*** FLOP *** [6c Ts Tc]
+*** TURN *** [6c Ts Tc] [Qs]
+*** RIVER *** [6c Ts Tc Qs] [Jc]
+*** SHOW DOWN ***
+010101777: shows [9h 9s] (two pair, Tens and Nines)
+Ale7anderr77: shows [Qd Kh] (two pair, Queens and Tens)
+Ale7anderr77 collected 92986 from pot
+010101777 finished the tournament
+*** SUMMARY ***
+Total pot 92986 | Rake 0 
+Board [6c Ts Tc Qs Jc]
+Seat 1: pazipro folded before Flop (didn't bet)
+Seat 2: 010101777 showed [9h 9s] and lost with two pair, Tens and Nines
+Seat 3: Parrafelipe folded before Flop (didn't bet)
+Seat 4: PIUlimeira folded before Flop (didn't bet)
+Seat 5: Ale7anderr77 (button) showed [Qd Kh] and won (92986) with two pair, Queens and Tens
+Seat 6: Hookz (small blind) folded before Flop
+Seat 7: esdeathonlol (big blind) folded before Flop
+Seat 8: Thrumbo folded before Flop
+
+PokerStars Hand #251205823612: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:20:30 UTC [2024/06/26 15:20:30 ET]
+Table '3767885527 94' 8-max Seat #6 is the button
+Seat 1: pazipro (66458 in chips) 
+Seat 3: Parrafelipe (15492 in chips) 
+Seat 4: PIUlimeira (51910 in chips) 
+Seat 5: Ale7anderr77 (120655 in chips) 
+Seat 6: Hookz (23132 in chips) 
+Seat 7: esdeathonlol (25000 in chips) 
+Seat 8: Thrumbo (72905 in chips) 
+pazipro: posts the ante 200
+Parrafelipe: posts the ante 200
+PIUlimeira: posts the ante 200
+Ale7anderr77: posts the ante 200
+Hookz: posts the ante 200
+esdeathonlol: posts the ante 200
+Thrumbo: posts the ante 200
+esdeathonlol: posts small blind 800
+Thrumbo: posts big blind 1600
+*** HOLE CARDS ***
+pazipro: folds 
+Parrafelipe: folds 
+PIUlimeira: folds 
+Ale7anderr77: raises 1600 to 3200
+Hookz: folds 
+esdeathonlol: folds 
+saupra506 is disconnected 
+Thrumbo: calls 1600
+*** FLOP *** [Ts Tc 4s]
+Thrumbo: checks 
+Ale7anderr77: bets 2924
+Thrumbo: raises 4334 to 7258
+Ale7anderr77: calls 4334
+*** TURN *** [Ts Tc 4s] [Kh]
+Thrumbo: bets 10402
+Ale7anderr77: calls 10402
+*** RIVER *** [Ts Tc 4s Kh] [7s]
+Thrumbo: bets 13176
+Ale7anderr77: raises 22292 to 35468
+Thrumbo: raises 16377 to 51845 and is all-in
+Ale7anderr77: calls 16377
+*** SHOW DOWN ***
+Thrumbo: shows [Kd Td] (a full house, Tens full of Kings)
+Ale7anderr77: shows [Ks 5s] (a flush, King high)
+Thrumbo collected 147610 from pot
+*** SUMMARY ***
+Total pot 147610 | Rake 0 
+Board [Ts Tc 4s Kh 7s]
+Seat 1: pazipro folded before Flop (didn't bet)
+Seat 3: Parrafelipe folded before Flop (didn't bet)
+Seat 4: PIUlimeira folded before Flop (didn't bet)
+Seat 5: Ale7anderr77 showed [Ks 5s] and lost with a flush, King high
+Seat 6: Hookz (button) folded before Flop (didn't bet)
+Seat 7: esdeathonlol (small blind) folded before Flop
+Seat 8: Thrumbo (big blind) showed [Kd Td] and won (147610) with a full house, Tens full of Kings
+
+PokerStars Hand #251205857723: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:22:36 UTC [2024/06/26 15:22:36 ET]
+Table '3767885527 94' 8-max Seat #7 is the button
+Seat 1: pazipro (66258 in chips) 
+Seat 2: saupra506 (25000 in chips) 
+Seat 3: Parrafelipe (15292 in chips) 
+Seat 4: PIUlimeira (51710 in chips) 
+Seat 5: Ale7anderr77 (47750 in chips) 
+Seat 6: Hookz (22932 in chips) 
+Seat 7: esdeathonlol (24000 in chips) 
+Seat 8: Thrumbo (147610 in chips) 
+pazipro: posts the ante 200
+saupra506: posts the ante 200
+Parrafelipe: posts the ante 200
+PIUlimeira: posts the ante 200
+Ale7anderr77: posts the ante 200
+Hookz: posts the ante 200
+esdeathonlol: posts the ante 200
+Thrumbo: posts the ante 200
+Thrumbo: posts small blind 800
+pazipro: posts big blind 1600
+*** HOLE CARDS ***
+saupra506: folds 
+Parrafelipe: folds 
+PIUlimeira: raises 1600 to 3200
+Ale7anderr77: calls 3200
+Hookz: folds 
+esdeathonlol: folds 
+Thrumbo: folds 
+pazipro: folds 
+*** FLOP *** [8c 7d Th]
+PIUlimeira: checks 
+Ale7anderr77: checks 
+*** TURN *** [8c 7d Th] [5d]
+PIUlimeira: bets 5920
+Ale7anderr77: calls 5920
+*** RIVER *** [8c 7d Th 5d] [Jc]
+PIUlimeira: checks 
+Ale7anderr77: bets 17125
+PIUlimeira: folds 
+Uncalled bet (17125) returned to Ale7anderr77
+Ale7anderr77 collected 22240 from pot
+*** SUMMARY ***
+Total pot 22240 | Rake 0 
+Board [8c 7d Th 5d Jc]
+Seat 1: pazipro (big blind) folded before Flop
+Seat 2: saupra506 folded before Flop (didn't bet)
+Seat 3: Parrafelipe folded before Flop (didn't bet)
+Seat 4: PIUlimeira folded on the River
+Seat 5: Ale7anderr77 collected (22240)
+Seat 6: Hookz folded before Flop (didn't bet)
+Seat 7: esdeathonlol (button) folded before Flop (didn't bet)
+Seat 8: Thrumbo (small blind) folded before Flop
+
+PokerStars Hand #251205890730: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:24:36 UTC [2024/06/26 15:24:36 ET]
+Table '3767885527 94' 8-max Seat #8 is the button
+Seat 1: pazipro (64458 in chips) 
+Seat 2: saupra506 (24800 in chips) 
+Seat 3: Parrafelipe (15092 in chips) 
+Seat 4: PIUlimeira (42390 in chips) 
+Seat 5: Ale7anderr77 (60670 in chips) 
+Seat 6: Hookz (22732 in chips) 
+Seat 7: esdeathonlol (23800 in chips) 
+Seat 8: Thrumbo (146610 in chips) 
+pazipro: posts the ante 200
+saupra506: posts the ante 200
+Parrafelipe: posts the ante 200
+PIUlimeira: posts the ante 200
+Ale7anderr77: posts the ante 200
+Hookz: posts the ante 200
+esdeathonlol: posts the ante 200
+Thrumbo: posts the ante 200
+pazipro: posts small blind 800
+saupra506: posts big blind 1600
+*** HOLE CARDS ***
+Parrafelipe: folds 
+PIUlimeira: folds 
+Ale7anderr77: folds 
+Hookz: folds 
+esdeathonlol: raises 1600 to 3200
+Thrumbo: folds 
+pazipro: folds 
+saupra506: calls 1600
+*** FLOP *** [Js 2c 6s]
+saupra506: checks 
+esdeathonlol: bets 6400
+saupra506: folds [Td]
+Uncalled bet (6400) returned to esdeathonlol
+esdeathonlol collected 8800 from pot
+*** SUMMARY ***
+Total pot 8800 | Rake 0 
+Board [Js 2c 6s]
+Seat 1: pazipro (small blind) folded before Flop
+Seat 2: saupra506 (big blind) folded on the Flop
+Seat 3: Parrafelipe folded before Flop (didn't bet)
+Seat 4: PIUlimeira folded before Flop (didn't bet)
+Seat 5: Ale7anderr77 folded before Flop (didn't bet)
+Seat 6: Hookz folded before Flop (didn't bet)
+Seat 7: esdeathonlol collected (8800)
+Seat 8: Thrumbo (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205906340: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:25:33 UTC [2024/06/26 15:25:33 ET]
+Table '3767885527 94' 8-max Seat #1 is the button
+Seat 1: pazipro (63458 in chips) 
+Seat 2: saupra506 (21400 in chips) 
+Seat 3: Parrafelipe (14892 in chips) 
+Seat 4: PIUlimeira (42190 in chips) 
+Seat 5: Ale7anderr77 (60470 in chips) 
+Seat 6: Hookz (22532 in chips) 
+Seat 7: esdeathonlol (29200 in chips) 
+Seat 8: Thrumbo (146410 in chips) 
+pazipro: posts the ante 200
+saupra506: posts the ante 200
+Parrafelipe: posts the ante 200
+PIUlimeira: posts the ante 200
+Ale7anderr77: posts the ante 200
+Hookz: posts the ante 200
+esdeathonlol: posts the ante 200
+Thrumbo: posts the ante 200
+saupra506: posts small blind 800
+Parrafelipe: posts big blind 1600
+*** HOLE CARDS ***
+PIUlimeira: raises 1600 to 3200
+Ale7anderr77: folds 
+Hookz: folds 
+esdeathonlol: folds 
+Thrumbo: folds 
+pazipro: raises 4800 to 8000
+saupra506: folds 
+Parrafelipe: folds 
+PIUlimeira: folds 
+Uncalled bet (4800) returned to pazipro
+pazipro collected 10400 from pot
+pazipro: doesn't show hand 
+*** SUMMARY ***
+Total pot 10400 | Rake 0 
+Seat 1: pazipro (button) collected (10400)
+Seat 2: saupra506 (small blind) folded before Flop
+Seat 3: Parrafelipe (big blind) folded before Flop
+Seat 4: PIUlimeira folded before Flop
+Seat 5: Ale7anderr77 folded before Flop (didn't bet)
+Seat 6: Hookz folded before Flop (didn't bet)
+Seat 7: esdeathonlol folded before Flop (didn't bet)
+Seat 8: Thrumbo folded before Flop (didn't bet)
+
+PokerStars Hand #251205918304: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:26:16 UTC [2024/06/26 15:26:16 ET]
+Table '3767885527 94' 8-max Seat #2 is the button
+Seat 1: pazipro (70458 in chips) 
+Seat 2: saupra506 (20400 in chips) 
+Seat 3: Parrafelipe (13092 in chips) 
+Seat 4: PIUlimeira (38790 in chips) 
+Seat 5: Ale7anderr77 (60270 in chips) 
+Seat 6: Hookz (22332 in chips) 
+Seat 7: esdeathonlol (29000 in chips) 
+Seat 8: Thrumbo (146210 in chips) 
+pazipro: posts the ante 200
+saupra506: posts the ante 200
+Parrafelipe: posts the ante 200
+PIUlimeira: posts the ante 200
+Ale7anderr77: posts the ante 200
+Hookz: posts the ante 200
+esdeathonlol: posts the ante 200
+Thrumbo: posts the ante 200
+Parrafelipe: posts small blind 800
+PIUlimeira: posts big blind 1600
+*** HOLE CARDS ***
+Ale7anderr77: raises 1600 to 3200
+Hookz: raises 18932 to 22132 and is all-in
+esdeathonlol: folds 
+Thrumbo: folds 
+pazipro: folds 
+saupra506: folds 
+Parrafelipe: folds 
+PIUlimeira: folds 
+Ale7anderr77: folds 
+Uncalled bet (18932) returned to Hookz
+Hookz collected 10400 from pot
+Hookz: doesn't show hand 
+*** SUMMARY ***
+Total pot 10400 | Rake 0 
+Seat 1: pazipro folded before Flop (didn't bet)
+Seat 2: saupra506 (button) folded before Flop (didn't bet)
+Seat 3: Parrafelipe (small blind) folded before Flop
+Seat 4: PIUlimeira (big blind) folded before Flop
+Seat 5: Ale7anderr77 folded before Flop
+Seat 6: Hookz collected (10400)
+Seat 7: esdeathonlol folded before Flop (didn't bet)
+Seat 8: Thrumbo folded before Flop (didn't bet)
+
+PokerStars Hand #251205932095: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:27:07 UTC [2024/06/26 15:27:07 ET]
+Table '3767885527 94' 8-max Seat #3 is the button
+Seat 1: pazipro (70258 in chips) 
+Seat 2: saupra506 (20200 in chips) 
+Seat 3: Parrafelipe (12092 in chips) 
+Seat 4: PIUlimeira (36990 in chips) 
+Seat 5: Ale7anderr77 (56870 in chips) 
+Seat 6: Hookz (29332 in chips) 
+Seat 7: esdeathonlol (28800 in chips) 
+Seat 8: Thrumbo (146010 in chips) 
+pazipro: posts the ante 200
+saupra506: posts the ante 200
+Parrafelipe: posts the ante 200
+PIUlimeira: posts the ante 200
+Ale7anderr77: posts the ante 200
+Hookz: posts the ante 200
+esdeathonlol: posts the ante 200
+Thrumbo: posts the ante 200
+PIUlimeira: posts small blind 800
+Ale7anderr77: posts big blind 1600
+*** HOLE CARDS ***
+Hookz: folds 
+esdeathonlol: folds 
+Thrumbo: folds 
+pazipro: raises 1600 to 3200
+saupra506: folds 
+Parrafelipe: folds 
+PIUlimeira: folds 
+Ale7anderr77: calls 1600
+*** FLOP *** [5s 3h 2d]
+Ale7anderr77: checks 
+pazipro: bets 2640
+Ale7anderr77: raises 6387 to 9027
+pazipro: folds 
+Uncalled bet (6387) returned to Ale7anderr77
+Ale7anderr77 collected 14080 from pot
+*** SUMMARY ***
+Total pot 14080 | Rake 0 
+Board [5s 3h 2d]
+Seat 1: pazipro folded on the Flop
+Seat 2: saupra506 folded before Flop (didn't bet)
+Seat 3: Parrafelipe (button) folded before Flop (didn't bet)
+Seat 4: PIUlimeira (small blind) folded before Flop
+Seat 5: Ale7anderr77 (big blind) collected (14080)
+Seat 6: Hookz folded before Flop (didn't bet)
+Seat 7: esdeathonlol folded before Flop (didn't bet)
+Seat 8: Thrumbo folded before Flop (didn't bet)
+
+PokerStars Hand #251205947468: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:28:04 UTC [2024/06/26 15:28:04 ET]
+Table '3767885527 94' 8-max Seat #4 is the button
+Seat 1: pazipro (64218 in chips) 
+Seat 2: saupra506 (20000 in chips) 
+Seat 3: Parrafelipe (11892 in chips) 
+Seat 4: PIUlimeira (35990 in chips) 
+Seat 5: Ale7anderr77 (64910 in chips) 
+Seat 6: Hookz (29132 in chips) 
+Seat 7: esdeathonlol (28600 in chips) 
+Seat 8: Thrumbo (145810 in chips) 
+pazipro: posts the ante 200
+saupra506: posts the ante 200
+Parrafelipe: posts the ante 200
+PIUlimeira: posts the ante 200
+Ale7anderr77: posts the ante 200
+Hookz: posts the ante 200
+esdeathonlol: posts the ante 200
+Thrumbo: posts the ante 200
+Ale7anderr77: posts small blind 800
+Hookz: posts big blind 1600
+*** HOLE CARDS ***
+esdeathonlol: folds 
+Thrumbo: folds 
+pazipro: folds 
+saupra506: raises 1920 to 3520
+Parrafelipe: folds 
+PIUlimeira: folds 
+Ale7anderr77: folds 
+Hookz: folds 
+Uncalled bet (1920) returned to saupra506
+saupra506 collected 5600 from pot
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Seat 1: pazipro folded before Flop (didn't bet)
+Seat 2: saupra506 collected (5600)
+Seat 3: Parrafelipe folded before Flop (didn't bet)
+Seat 4: PIUlimeira (button) folded before Flop (didn't bet)
+Seat 5: Ale7anderr77 (small blind) folded before Flop
+Seat 6: Hookz (big blind) folded before Flop
+Seat 7: esdeathonlol folded before Flop (didn't bet)
+Seat 8: Thrumbo folded before Flop (didn't bet)
+
+PokerStars Hand #251205954400: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:28:30 UTC [2024/06/26 15:28:30 ET]
+Table '3767885527 94' 8-max Seat #5 is the button
+Seat 1: pazipro (64018 in chips) 
+Seat 2: saupra506 (23800 in chips) 
+Seat 3: Parrafelipe (11692 in chips) 
+Seat 4: PIUlimeira (35790 in chips) 
+Seat 5: Ale7anderr77 (63910 in chips) 
+Seat 6: Hookz (27332 in chips) 
+Seat 7: esdeathonlol (28400 in chips) 
+Seat 8: Thrumbo (145610 in chips) 
+pazipro: posts the ante 200
+saupra506: posts the ante 200
+Parrafelipe: posts the ante 200
+PIUlimeira: posts the ante 200
+Ale7anderr77: posts the ante 200
+Hookz: posts the ante 200
+esdeathonlol: posts the ante 200
+Thrumbo: posts the ante 200
+Hookz: posts small blind 800
+esdeathonlol: posts big blind 1600
+*** HOLE CARDS ***
+Thrumbo: folds 
+pazipro: folds 
+saupra506: folds 
+Parrafelipe: folds 
+PIUlimeira: folds 
+Ale7anderr77: raises 1600 to 3200
+Hookz: raises 23932 to 27132 and is all-in
+esdeathonlol: folds 
+Ale7anderr77: folds 
+Uncalled bet (23932) returned to Hookz
+Hookz collected 9600 from pot
+Hookz: doesn't show hand 
+*** SUMMARY ***
+Total pot 9600 | Rake 0 
+Seat 1: pazipro folded before Flop (didn't bet)
+Seat 2: saupra506 folded before Flop (didn't bet)
+Seat 3: Parrafelipe folded before Flop (didn't bet)
+Seat 4: PIUlimeira folded before Flop (didn't bet)
+Seat 5: Ale7anderr77 (button) folded before Flop
+Seat 6: Hookz (small blind) collected (9600)
+Seat 7: esdeathonlol (big blind) folded before Flop
+Seat 8: Thrumbo folded before Flop (didn't bet)
+
+PokerStars Hand #251205970421: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:29:30 UTC [2024/06/26 15:29:30 ET]
+Table '3767885527 94' 8-max Seat #6 is the button
+Seat 1: pazipro (63818 in chips) 
+Seat 2: saupra506 (23600 in chips) 
+Seat 3: Parrafelipe (11492 in chips) 
+Seat 4: PIUlimeira (35590 in chips) 
+Seat 5: Ale7anderr77 (60510 in chips) 
+Seat 6: Hookz (33532 in chips) 
+Seat 7: esdeathonlol (26600 in chips) 
+Seat 8: Thrumbo (145410 in chips) 
+pazipro: posts the ante 250
+saupra506: posts the ante 250
+Parrafelipe: posts the ante 250
+PIUlimeira: posts the ante 250
+Ale7anderr77: posts the ante 250
+Hookz: posts the ante 250
+esdeathonlol: posts the ante 250
+Thrumbo: posts the ante 250
+esdeathonlol: posts small blind 1000
+Thrumbo: posts big blind 2000
+*** HOLE CARDS ***
+pazipro: raises 2000 to 4000
+saupra506: folds 
+Parrafelipe: folds 
+PIUlimeira: folds 
+Ale7anderr77: folds 
+Hookz: folds 
+esdeathonlol: folds 
+Thrumbo: calls 2000
+*** FLOP *** [5h 4s 9h]
+Thrumbo: checks 
+pazipro: checks 
+*** TURN *** [5h 4s 9h] [Kh]
+Thrumbo: checks 
+pazipro: checks 
+*** RIVER *** [5h 4s 9h Kh] [Ah]
+Thrumbo: checks 
+pazipro: checks 
+*** SHOW DOWN ***
+Thrumbo: shows [7c 5c] (a pair of Fives)
+pazipro: shows [Qs Ad] (a pair of Aces)
+pazipro collected 11000 from pot
+*** SUMMARY ***
+Total pot 11000 | Rake 0 
+Board [5h 4s 9h Kh Ah]
+Seat 1: pazipro showed [Qs Ad] and won (11000) with a pair of Aces
+Seat 2: saupra506 folded before Flop (didn't bet)
+Seat 3: Parrafelipe folded before Flop (didn't bet)
+Seat 4: PIUlimeira folded before Flop (didn't bet)
+Seat 5: Ale7anderr77 folded before Flop (didn't bet)
+Seat 6: Hookz (button) folded before Flop (didn't bet)
+Seat 7: esdeathonlol (small blind) folded before Flop
+Seat 8: Thrumbo (big blind) showed [7c 5c] and lost with a pair of Fives
+
+PokerStars Hand #251205987450: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:30:32 UTC [2024/06/26 15:30:32 ET]
+Table '3767885527 94' 8-max Seat #7 is the button
+Seat 1: pazipro (70568 in chips) 
+Seat 2: saupra506 (23350 in chips) 
+Seat 3: Parrafelipe (11242 in chips) 
+Seat 4: PIUlimeira (35340 in chips) 
+Seat 5: Ale7anderr77 (60260 in chips) 
+Seat 6: Hookz (33282 in chips) 
+Seat 7: esdeathonlol (25350 in chips) 
+Seat 8: Thrumbo (141160 in chips) 
+pazipro: posts the ante 250
+saupra506: posts the ante 250
+Parrafelipe: posts the ante 250
+PIUlimeira: posts the ante 250
+Ale7anderr77: posts the ante 250
+Hookz: posts the ante 250
+esdeathonlol: posts the ante 250
+Thrumbo: posts the ante 250
+Thrumbo: posts small blind 1000
+pazipro: posts big blind 2000
+*** HOLE CARDS ***
+saupra506: folds 
+Parrafelipe: folds 
+PIUlimeira: folds 
+Ale7anderr77: folds 
+Hookz: folds 
+esdeathonlol: raises 2000 to 4000
+Thrumbo: folds 
+pazipro: calls 2000
+*** FLOP *** [Jc Qh 3d]
+pazipro: checks 
+esdeathonlol: bets 6000
+pazipro: raises 23000 to 29000
+esdeathonlol: folds 
+Uncalled bet (23000) returned to pazipro
+pazipro collected 23000 from pot
+pazipro: doesn't show hand 
+*** SUMMARY ***
+Total pot 23000 | Rake 0 
+Board [Jc Qh 3d]
+Seat 1: pazipro (big blind) collected (23000)
+Seat 2: saupra506 folded before Flop (didn't bet)
+Seat 3: Parrafelipe folded before Flop (didn't bet)
+Seat 4: PIUlimeira folded before Flop (didn't bet)
+Seat 5: Ale7anderr77 folded before Flop (didn't bet)
+Seat 6: Hookz folded before Flop (didn't bet)
+Seat 7: esdeathonlol (button) folded on the Flop
+Seat 8: Thrumbo (small blind) folded before Flop
+
+PokerStars Hand #251206000911: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:31:21 UTC [2024/06/26 15:31:21 ET]
+Table '3767885527 94' 8-max Seat #8 is the button
+Seat 1: pazipro (83318 in chips) 
+Seat 2: saupra506 (23100 in chips) 
+Seat 3: Parrafelipe (10992 in chips) 
+Seat 4: PIUlimeira (35090 in chips) 
+Seat 5: Ale7anderr77 (60010 in chips) 
+Seat 6: Hookz (33032 in chips) 
+Seat 7: esdeathonlol (15100 in chips) 
+Seat 8: Thrumbo (139910 in chips) 
+pazipro: posts the ante 250
+saupra506: posts the ante 250
+Parrafelipe: posts the ante 250
+PIUlimeira: posts the ante 250
+Ale7anderr77: posts the ante 250
+Hookz: posts the ante 250
+esdeathonlol: posts the ante 250
+Thrumbo: posts the ante 250
+pazipro: posts small blind 1000
+saupra506: posts big blind 2000
+*** HOLE CARDS ***
+Parrafelipe: folds 
+PIUlimeira: folds 
+Ale7anderr77: folds 
+Hookz: folds 
+esdeathonlol: folds 
+Thrumbo: folds 
+pazipro: raises 81068 to 83068 and is all-in
+saupra506: folds 
+Uncalled bet (81068) returned to pazipro
+pazipro collected 6000 from pot
+pazipro: doesn't show hand 
+*** SUMMARY ***
+Total pot 6000 | Rake 0 
+Seat 1: pazipro (small blind) collected (6000)
+Seat 2: saupra506 (big blind) folded before Flop
+Seat 3: Parrafelipe folded before Flop (didn't bet)
+Seat 4: PIUlimeira folded before Flop (didn't bet)
+Seat 5: Ale7anderr77 folded before Flop (didn't bet)
+Seat 6: Hookz folded before Flop (didn't bet)
+Seat 7: esdeathonlol folded before Flop (didn't bet)
+Seat 8: Thrumbo (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251206008118: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:31:47 UTC [2024/06/26 15:31:47 ET]
+Table '3767885527 94' 8-max Seat #1 is the button
+Seat 1: pazipro (87068 in chips) 
+Seat 2: saupra506 (20850 in chips) 
+Seat 3: Parrafelipe (10742 in chips) 
+Seat 4: PIUlimeira (34840 in chips) 
+Seat 5: Ale7anderr77 (59760 in chips) 
+Seat 6: Hookz (32782 in chips) 
+Seat 7: esdeathonlol (14850 in chips) 
+Seat 8: Thrumbo (139660 in chips) 
+pazipro: posts the ante 250
+saupra506: posts the ante 250
+Parrafelipe: posts the ante 250
+PIUlimeira: posts the ante 250
+Ale7anderr77: posts the ante 250
+Hookz: posts the ante 250
+esdeathonlol: posts the ante 250
+Thrumbo: posts the ante 250
+saupra506: posts small blind 1000
+Parrafelipe: posts big blind 2000
+*** HOLE CARDS ***
+PIUlimeira: raises 2000 to 4000
+Ale7anderr77: folds 
+Hookz: folds 
+esdeathonlol: folds 
+Thrumbo: folds 
+pazipro: folds 
+saupra506: folds 
+Parrafelipe: raises 6492 to 10492 and is all-in
+PIUlimeira: calls 6492
+*** FLOP *** [5d 8s 5s]
+*** TURN *** [5d 8s 5s] [2h]
+*** RIVER *** [5d 8s 5s 2h] [Kc]
+*** SHOW DOWN ***
+Parrafelipe: shows [Ks Qc] (two pair, Kings and Fives)
+PIUlimeira: shows [Ad 6d] (a pair of Fives)
+Parrafelipe collected 23984 from pot
+*** SUMMARY ***
+Total pot 23984 | Rake 0 
+Board [5d 8s 5s 2h Kc]
+Seat 1: pazipro (button) folded before Flop (didn't bet)
+Seat 2: saupra506 (small blind) folded before Flop
+Seat 3: Parrafelipe (big blind) showed [Ks Qc] and won (23984) with two pair, Kings and Fives
+Seat 4: PIUlimeira showed [Ad 6d] and lost with a pair of Fives
+Seat 5: Ale7anderr77 folded before Flop (didn't bet)
+Seat 6: Hookz folded before Flop (didn't bet)
+Seat 7: esdeathonlol folded before Flop (didn't bet)
+Seat 8: Thrumbo folded before Flop (didn't bet)
+
+PokerStars Hand #251206017394: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:32:20 UTC [2024/06/26 15:32:20 ET]
+Table '3767885527 94' 8-max Seat #2 is the button
+Seat 1: pazipro (86818 in chips) 
+Seat 2: saupra506 (19600 in chips) 
+Seat 3: Parrafelipe (23984 in chips) 
+Seat 4: PIUlimeira (24098 in chips) 
+Seat 5: Ale7anderr77 (59510 in chips) 
+Seat 6: Hookz (32532 in chips) 
+Seat 7: esdeathonlol (14600 in chips) 
+Seat 8: Thrumbo (139410 in chips) 
+pazipro: posts the ante 250
+saupra506: posts the ante 250
+Parrafelipe: posts the ante 250
+PIUlimeira: posts the ante 250
+Ale7anderr77: posts the ante 250
+Hookz: posts the ante 250
+esdeathonlol: posts the ante 250
+Thrumbo: posts the ante 250
+Parrafelipe: posts small blind 1000
+PIUlimeira: posts big blind 2000
+*** HOLE CARDS ***
+Ale7anderr77: folds 
+Hookz: folds 
+esdeathonlol: folds 
+Thrumbo: folds 
+pazipro: raises 2000 to 4000
+saupra506: folds 
+Parrafelipe: folds 
+PIUlimeira: calls 2000
+*** FLOP *** [4s Ah 5h]
+PIUlimeira: checks 
+pazipro: bets 3300
+PIUlimeira: calls 3300
+*** TURN *** [4s Ah 5h] [9h]
+PIUlimeira: checks 
+pazipro: bets 5280
+PIUlimeira: raises 11268 to 16548 and is all-in
+pazipro: calls 11268
+*** RIVER *** [4s Ah 5h 9h] [Th]
+*** SHOW DOWN ***
+PIUlimeira: shows [As Ac] (three of a kind, Aces)
+pazipro: shows [Kh Kd] (a flush, Ace high)
+pazipro collected 50696 from pot
+PIUlimeira finished the tournament
+*** SUMMARY ***
+Total pot 50696 | Rake 0 
+Board [4s Ah 5h 9h Th]
+Seat 1: pazipro showed [Kh Kd] and won (50696) with a flush, Ace high
+Seat 2: saupra506 (button) folded before Flop (didn't bet)
+Seat 3: Parrafelipe (small blind) folded before Flop
+Seat 4: PIUlimeira (big blind) showed [As Ac] and lost with three of a kind, Aces
+Seat 5: Ale7anderr77 folded before Flop (didn't bet)
+Seat 6: Hookz folded before Flop (didn't bet)
+Seat 7: esdeathonlol folded before Flop (didn't bet)
+Seat 8: Thrumbo folded before Flop (didn't bet)

@@ -1,0 +1,2431 @@
+PokerStars Hand #251213589917: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (50/100) - 2024/06/27 6:44:51 UTC [2024/06/27 2:44:51 ET]
+Table '3771163222 7' 6-max Seat #5 is the button
+Seat 1: Shadissimo (7663 in chips, $37.50 bounty) 
+Seat 2: slplayer1 (5000 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (4680 in chips, $25 bounty) 
+Seat 4: triggerhappy7 (6138 in chips, $25 bounty) 
+Seat 5: KAnt90909 (5399 in chips, $25 bounty) 
+Seat 6: ChibediRO (5000 in chips) out of hand (moved from another table into small blind)
+ChibediRO will be allowed to play after the button
+Shadissimo: posts the ante 25
+slplayer1: posts the ante 25
+lucasalvares97: posts the ante 25
+triggerhappy7: posts the ante 25
+KAnt90909: posts the ante 25
+Shadissimo: posts small blind 50
+slplayer1: posts big blind 100
+*** HOLE CARDS ***
+lucasalvares97: folds 
+triggerhappy7: folds 
+KAnt90909: raises 100 to 200
+Shadissimo: folds 
+slplayer1: calls 100
+*** FLOP *** [9s Kh Jc]
+slplayer1: checks 
+KAnt90909: bets 400
+slplayer1: folds 
+Uncalled bet (400) returned to KAnt90909
+KAnt90909 collected 575 from pot
+KAnt90909: doesn't show hand 
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Board [9s Kh Jc]
+Seat 1: Shadissimo (small blind) folded before Flop
+Seat 2: slplayer1 (big blind) folded on the Flop
+Seat 3: lucasalvares97 folded before Flop (didn't bet)
+Seat 4: triggerhappy7 folded before Flop (didn't bet)
+Seat 5: KAnt90909 (button) collected (575)
+
+PokerStars Hand #251213593629: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (50/100) - 2024/06/27 6:45:38 UTC [2024/06/27 2:45:38 ET]
+Table '3771163222 7' 6-max Seat #1 is the button
+Seat 1: Shadissimo (7588 in chips, $37.50 bounty) 
+Seat 2: slplayer1 (4775 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (4655 in chips, $25 bounty) 
+Seat 4: triggerhappy7 (6113 in chips, $25 bounty) 
+Seat 5: KAnt90909 (5749 in chips, $25 bounty) 
+Seat 6: ChibediRO (5000 in chips, $25 bounty) 
+Shadissimo: posts the ante 25
+slplayer1: posts the ante 25
+lucasalvares97: posts the ante 25
+triggerhappy7: posts the ante 25
+KAnt90909: posts the ante 25
+ChibediRO: posts the ante 25
+slplayer1: posts small blind 50
+lucasalvares97: posts big blind 100
+*** HOLE CARDS ***
+triggerhappy7: folds 
+KAnt90909: folds 
+ChibediRO: folds 
+Shadissimo: raises 110 to 210
+slplayer1: folds 
+lucasalvares97: calls 110
+*** FLOP *** [Tc 9s Qs]
+lucasalvares97: checks 
+Shadissimo: bets 248
+lucasalvares97: calls 248
+*** TURN *** [Tc 9s Qs] [Js]
+lucasalvares97: checks 
+Shadissimo: checks 
+*** RIVER *** [Tc 9s Qs Js] [4h]
+lucasalvares97: bets 558
+Shadissimo: folds 
+Uncalled bet (558) returned to lucasalvares97
+lucasalvares97 collected 1116 from pot
+*** SUMMARY ***
+Total pot 1116 | Rake 0 
+Board [Tc 9s Qs Js 4h]
+Seat 1: Shadissimo (button) folded on the River
+Seat 2: slplayer1 (small blind) folded before Flop
+Seat 3: lucasalvares97 (big blind) collected (1116)
+Seat 4: triggerhappy7 folded before Flop (didn't bet)
+Seat 5: KAnt90909 folded before Flop (didn't bet)
+Seat 6: ChibediRO folded before Flop (didn't bet)
+
+PokerStars Hand #251213598163: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IV (50/100) - 2024/06/27 6:46:34 UTC [2024/06/27 2:46:34 ET]
+Table '3771163222 7' 6-max Seat #2 is the button
+Seat 1: Shadissimo (7105 in chips, $37.50 bounty) 
+Seat 2: slplayer1 (4700 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (5288 in chips, $25 bounty) 
+Seat 4: triggerhappy7 (6088 in chips, $25 bounty) 
+Seat 5: KAnt90909 (5724 in chips, $25 bounty) 
+Seat 6: ChibediRO (4975 in chips, $25 bounty) 
+Shadissimo: posts the ante 25
+slplayer1: posts the ante 25
+lucasalvares97: posts the ante 25
+triggerhappy7: posts the ante 25
+KAnt90909: posts the ante 25
+ChibediRO: posts the ante 25
+lucasalvares97: posts small blind 50
+triggerhappy7: posts big blind 100
+*** HOLE CARDS ***
+KAnt90909: folds 
+ChibediRO: folds 
+Shadissimo: folds 
+slplayer1: raises 100 to 200
+lucasalvares97: calls 150
+triggerhappy7: calls 100
+*** FLOP *** [9h 5c 8c]
+lucasalvares97: checks 
+triggerhappy7: checks 
+slplayer1: checks 
+*** TURN *** [9h 5c 8c] [8d]
+lucasalvares97: bets 100
+triggerhappy7: raises 475 to 575
+slplayer1: folds 
+lucasalvares97: calls 475
+*** RIVER *** [9h 5c 8c 8d] [6d]
+lucasalvares97: bets 500
+triggerhappy7: folds 
+Uncalled bet (500) returned to lucasalvares97
+lucasalvares97 collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | Rake 0 
+Board [9h 5c 8c 8d 6d]
+Seat 1: Shadissimo folded before Flop (didn't bet)
+Seat 2: slplayer1 (button) folded on the Turn
+Seat 3: lucasalvares97 (small blind) collected (1900)
+Seat 4: triggerhappy7 (big blind) folded on the River
+Seat 5: KAnt90909 folded before Flop (didn't bet)
+Seat 6: ChibediRO folded before Flop (didn't bet)
+
+PokerStars Hand #251213603298: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level V (60/120) - 2024/06/27 6:47:37 UTC [2024/06/27 2:47:37 ET]
+Table '3771163222 7' 6-max Seat #3 is the button
+Seat 1: Shadissimo (7080 in chips, $37.50 bounty) 
+Seat 2: slplayer1 (4475 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (6388 in chips, $25 bounty) 
+Seat 4: triggerhappy7 (5288 in chips, $25 bounty) 
+Seat 5: KAnt90909 (5699 in chips, $25 bounty) 
+Seat 6: ChibediRO (4950 in chips, $25 bounty) 
+Shadissimo: posts the ante 30
+slplayer1: posts the ante 30
+lucasalvares97: posts the ante 30
+triggerhappy7: posts the ante 30
+KAnt90909: posts the ante 30
+ChibediRO: posts the ante 30
+triggerhappy7: posts small blind 60
+KAnt90909: posts big blind 120
+*** HOLE CARDS ***
+ChibediRO: folds 
+Shadissimo: folds 
+slplayer1: folds 
+lucasalvares97: raises 120 to 240
+triggerhappy7: raises 780 to 1020
+KAnt90909: folds 
+lucasalvares97: folds 
+Uncalled bet (780) returned to triggerhappy7
+triggerhappy7 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Seat 1: Shadissimo folded before Flop (didn't bet)
+Seat 2: slplayer1 folded before Flop (didn't bet)
+Seat 3: lucasalvares97 (button) folded before Flop
+Seat 4: triggerhappy7 (small blind) collected (780)
+Seat 5: KAnt90909 (big blind) folded before Flop
+Seat 6: ChibediRO folded before Flop (didn't bet)
+
+PokerStars Hand #251213604577: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level V (60/120) - 2024/06/27 6:47:53 UTC [2024/06/27 2:47:53 ET]
+Table '3771163222 7' 6-max Seat #4 is the button
+Seat 1: Shadissimo (7050 in chips, $37.50 bounty) 
+Seat 2: slplayer1 (4445 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (6118 in chips, $25 bounty) 
+Seat 4: triggerhappy7 (5798 in chips, $25 bounty) 
+Seat 5: KAnt90909 (5549 in chips, $25 bounty) 
+Seat 6: ChibediRO (4920 in chips, $25 bounty) 
+Shadissimo: posts the ante 30
+slplayer1: posts the ante 30
+lucasalvares97: posts the ante 30
+triggerhappy7: posts the ante 30
+KAnt90909: posts the ante 30
+ChibediRO: posts the ante 30
+KAnt90909: posts small blind 60
+ChibediRO: posts big blind 120
+*** HOLE CARDS ***
+Shadissimo: folds 
+slplayer1: folds 
+lucasalvares97: raises 120 to 240
+triggerhappy7: calls 240
+KAnt90909: folds 
+ChibediRO: calls 120
+*** FLOP *** [9d Td Ts]
+ChibediRO: checks 
+lucasalvares97: bets 240
+triggerhappy7: raises 240 to 480
+ChibediRO: folds 
+lucasalvares97: calls 240
+*** TURN *** [9d Td Ts] [Ks]
+lucasalvares97: checks 
+triggerhappy7: bets 960
+lucasalvares97: calls 960
+*** RIVER *** [9d Td Ts Ks] [8d]
+lucasalvares97: checks 
+triggerhappy7: checks 
+*** SHOW DOWN ***
+lucasalvares97: shows [Js 7s] (a straight, Seven to Jack)
+triggerhappy7: mucks hand 
+lucasalvares97 collected 3840 from pot
+*** SUMMARY ***
+Total pot 3840 | Rake 0 
+Board [9d Td Ts Ks 8d]
+Seat 1: Shadissimo folded before Flop (didn't bet)
+Seat 2: slplayer1 folded before Flop (didn't bet)
+Seat 3: lucasalvares97 showed [Js 7s] and won (3840) with a straight, Seven to Jack
+Seat 4: triggerhappy7 (button) mucked
+Seat 5: KAnt90909 (small blind) folded before Flop
+Seat 6: ChibediRO (big blind) folded on the Flop
+
+PokerStars Hand #251213610085: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level V (60/120) - 2024/06/27 6:49:01 UTC [2024/06/27 2:49:01 ET]
+Table '3771163222 7' 6-max Seat #5 is the button
+Seat 1: Shadissimo (7020 in chips, $37.50 bounty) 
+Seat 2: slplayer1 (4415 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (8248 in chips, $25 bounty) 
+Seat 4: triggerhappy7 (4088 in chips, $25 bounty) 
+Seat 5: KAnt90909 (5459 in chips, $25 bounty) 
+Seat 6: ChibediRO (4650 in chips, $25 bounty) 
+Shadissimo: posts the ante 30
+slplayer1: posts the ante 30
+lucasalvares97: posts the ante 30
+triggerhappy7: posts the ante 30
+KAnt90909: posts the ante 30
+ChibediRO: posts the ante 30
+ChibediRO: posts small blind 60
+Shadissimo: posts big blind 120
+*** HOLE CARDS ***
+slplayer1: folds 
+lucasalvares97: folds 
+triggerhappy7: raises 240 to 360
+KAnt90909: folds 
+ChibediRO: folds 
+Shadissimo: folds 
+Uncalled bet (240) returned to triggerhappy7
+triggerhappy7 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 1: Shadissimo (big blind) folded before Flop
+Seat 2: slplayer1 folded before Flop (didn't bet)
+Seat 3: lucasalvares97 folded before Flop (didn't bet)
+Seat 4: triggerhappy7 collected (480)
+Seat 5: KAnt90909 (button) folded before Flop (didn't bet)
+Seat 6: ChibediRO (small blind) folded before Flop
+
+PokerStars Hand #251213612497: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level V (60/120) - 2024/06/27 6:49:31 UTC [2024/06/27 2:49:31 ET]
+Table '3771163222 7' 6-max Seat #6 is the button
+Seat 1: Shadissimo (6870 in chips, $37.50 bounty) 
+Seat 2: slplayer1 (4385 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (8218 in chips, $25 bounty) 
+Seat 4: triggerhappy7 (4418 in chips, $25 bounty) 
+Seat 5: KAnt90909 (5429 in chips, $25 bounty) 
+Seat 6: ChibediRO (4560 in chips, $25 bounty) 
+Shadissimo: posts the ante 30
+slplayer1: posts the ante 30
+lucasalvares97: posts the ante 30
+triggerhappy7: posts the ante 30
+KAnt90909: posts the ante 30
+ChibediRO: posts the ante 30
+Shadissimo: posts small blind 60
+slplayer1: posts big blind 120
+*** HOLE CARDS ***
+lucasalvares97: folds 
+triggerhappy7: raises 120 to 240
+KAnt90909: folds 
+ChibediRO: folds 
+Shadissimo: folds 
+slplayer1: calls 120
+*** FLOP *** [5d Jh 7s]
+slplayer1: checks 
+triggerhappy7: bets 360
+slplayer1: folds 
+Uncalled bet (360) returned to triggerhappy7
+triggerhappy7 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [5d Jh 7s]
+Seat 1: Shadissimo (small blind) folded before Flop
+Seat 2: slplayer1 (big blind) folded on the Flop
+Seat 3: lucasalvares97 folded before Flop (didn't bet)
+Seat 4: triggerhappy7 collected (720)
+Seat 5: KAnt90909 folded before Flop (didn't bet)
+Seat 6: ChibediRO (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251213616630: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VI (80/160) - 2024/06/27 6:50:22 UTC [2024/06/27 2:50:22 ET]
+Table '3771163222 7' 6-max Seat #1 is the button
+Seat 1: Shadissimo (6780 in chips, $37.50 bounty) 
+Seat 2: slplayer1 (4115 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (8188 in chips, $25 bounty) 
+Seat 4: triggerhappy7 (4868 in chips, $25 bounty) 
+Seat 5: KAnt90909 (5399 in chips, $25 bounty) 
+Seat 6: ChibediRO (4530 in chips, $25 bounty) 
+Shadissimo: posts the ante 40
+slplayer1: posts the ante 40
+lucasalvares97: posts the ante 40
+triggerhappy7: posts the ante 40
+KAnt90909: posts the ante 40
+ChibediRO: posts the ante 40
+slplayer1: posts small blind 80
+lucasalvares97: posts big blind 160
+*** HOLE CARDS ***
+triggerhappy7: folds 
+KAnt90909: folds 
+ChibediRO: folds 
+Shadissimo: raises 176 to 336
+slplayer1: folds 
+lucasalvares97: calls 176
+*** FLOP *** [3h Js Kh]
+lucasalvares97: bets 160
+Shadissimo: raises 525 to 685
+lucasalvares97: folds 
+Uncalled bet (525) returned to Shadissimo
+Shadissimo collected 1312 from pot
+Shadissimo: doesn't show hand 
+*** SUMMARY ***
+Total pot 1312 | Rake 0 
+Board [3h Js Kh]
+Seat 1: Shadissimo (button) collected (1312)
+Seat 2: slplayer1 (small blind) folded before Flop
+Seat 3: lucasalvares97 (big blind) folded on the Flop
+Seat 4: triggerhappy7 folded before Flop (didn't bet)
+Seat 5: KAnt90909 folded before Flop (didn't bet)
+Seat 6: ChibediRO folded before Flop (didn't bet)
+
+PokerStars Hand #251213620944: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VI (80/160) - 2024/06/27 6:51:16 UTC [2024/06/27 2:51:16 ET]
+Table '3771163222 7' 6-max Seat #2 is the button
+Seat 1: Shadissimo (7556 in chips, $37.50 bounty) 
+Seat 2: slplayer1 (3995 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (7652 in chips, $25 bounty) 
+Seat 4: triggerhappy7 (4828 in chips, $25 bounty) 
+Seat 5: KAnt90909 (5359 in chips, $25 bounty) 
+Seat 6: ChibediRO (4490 in chips, $25 bounty) 
+Shadissimo: posts the ante 40
+slplayer1: posts the ante 40
+lucasalvares97: posts the ante 40
+triggerhappy7: posts the ante 40
+KAnt90909: posts the ante 40
+ChibediRO: posts the ante 40
+lucasalvares97: posts small blind 80
+triggerhappy7: posts big blind 160
+*** HOLE CARDS ***
+KAnt90909: folds 
+ChibediRO: folds 
+Shadissimo: raises 176 to 336
+slplayer1: folds 
+lucasalvares97: calls 256
+triggerhappy7: folds 
+*** FLOP *** [Th 5h 2d]
+lucasalvares97: bets 160
+Shadissimo: calls 160
+*** TURN *** [Th 5h 2d] [Qc]
+lucasalvares97: bets 696
+Shadissimo: folds 
+Uncalled bet (696) returned to lucasalvares97
+lucasalvares97 collected 1392 from pot
+*** SUMMARY ***
+Total pot 1392 | Rake 0 
+Board [Th 5h 2d Qc]
+Seat 1: Shadissimo folded on the Turn
+Seat 2: slplayer1 (button) folded before Flop (didn't bet)
+Seat 3: lucasalvares97 (small blind) collected (1392)
+Seat 4: triggerhappy7 (big blind) folded before Flop
+Seat 5: KAnt90909 folded before Flop (didn't bet)
+Seat 6: ChibediRO folded before Flop (didn't bet)
+
+PokerStars Hand #251213624120: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VI (80/160) - 2024/06/27 6:51:55 UTC [2024/06/27 2:51:55 ET]
+Table '3771163222 7' 6-max Seat #3 is the button
+Seat 1: Shadissimo (7020 in chips, $37.50 bounty) 
+Seat 2: slplayer1 (3955 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (8508 in chips, $25 bounty) 
+Seat 4: triggerhappy7 (4628 in chips, $25 bounty) 
+Seat 5: KAnt90909 (5319 in chips, $25 bounty) 
+Seat 6: ChibediRO (4450 in chips, $25 bounty) 
+Shadissimo: posts the ante 40
+slplayer1: posts the ante 40
+lucasalvares97: posts the ante 40
+triggerhappy7: posts the ante 40
+KAnt90909: posts the ante 40
+ChibediRO: posts the ante 40
+triggerhappy7: posts small blind 80
+KAnt90909: posts big blind 160
+*** HOLE CARDS ***
+ChibediRO: folds 
+Shadissimo: raises 176 to 336
+slplayer1: calls 336
+lucasalvares97: calls 336
+triggerhappy7: calls 256
+KAnt90909: calls 176
+*** FLOP *** [3d Qc 7h]
+triggerhappy7: bets 960
+KAnt90909: folds 
+Shadissimo: calls 960
+slplayer1: folds 
+lucasalvares97: folds 
+*** TURN *** [3d Qc 7h] [Ah]
+triggerhappy7: checks 
+Shadissimo: checks 
+*** RIVER *** [3d Qc 7h Ah] [4d]
+triggerhappy7: checks 
+Shadissimo: bets 3298
+triggerhappy7: calls 3292 and is all-in
+Uncalled bet (6) returned to Shadissimo
+*** SHOW DOWN ***
+Shadissimo: shows [Qs 4s] (two pair, Queens and Fours)
+triggerhappy7: shows [Qd Ts] (a pair of Queens)
+Shadissimo collected 10424 from pot
+Shadissimo wins $12.50 for eliminating triggerhappy7 and their own bounty increases by $12.50 to $50
+triggerhappy7 finished the tournament
+*** SUMMARY ***
+Total pot 10424 | Rake 0 
+Board [3d Qc 7h Ah 4d]
+Seat 1: Shadissimo showed [Qs 4s] and won (10424) with two pair, Queens and Fours
+Seat 2: slplayer1 folded on the Flop
+Seat 3: lucasalvares97 (button) folded on the Flop
+Seat 4: triggerhappy7 (small blind) showed [Qd Ts] and lost with a pair of Queens
+Seat 5: KAnt90909 (big blind) folded on the Flop
+Seat 6: ChibediRO folded before Flop (didn't bet)
+
+PokerStars Hand #251213631031: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/27 6:53:20 UTC [2024/06/27 2:53:20 ET]
+Table '3771163222 7' 6-max Seat #5 is the button
+Seat 1: Shadissimo (12816 in chips, $50 bounty) 
+Seat 2: slplayer1 (3579 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (8132 in chips, $25 bounty) 
+Seat 5: KAnt90909 (4943 in chips, $25 bounty) 
+Seat 6: ChibediRO (4410 in chips, $25 bounty) 
+Shadissimo: posts the ante 50
+slplayer1: posts the ante 50
+lucasalvares97: posts the ante 50
+KAnt90909: posts the ante 50
+ChibediRO: posts the ante 50
+ChibediRO: posts small blind 100
+Shadissimo: posts big blind 200
+*** HOLE CARDS ***
+slplayer1: folds 
+lucasalvares97: raises 200 to 400
+KAnt90909: folds 
+ChibediRO: folds 
+Shadissimo: raises 1600 to 2000
+lucasalvares97: folds 
+Uncalled bet (1600) returned to Shadissimo
+Shadissimo collected 1150 from pot
+Shadissimo: doesn't show hand 
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Seat 1: Shadissimo (big blind) collected (1150)
+Seat 2: slplayer1 folded before Flop (didn't bet)
+Seat 3: lucasalvares97 folded before Flop
+Seat 5: KAnt90909 (button) folded before Flop (didn't bet)
+Seat 6: ChibediRO (small blind) folded before Flop
+
+PokerStars Hand #251213632543: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/27 6:53:40 UTC [2024/06/27 2:53:40 ET]
+Table '3771163222 7' 6-max Seat #6 is the button
+Seat 1: Shadissimo (13516 in chips, $50 bounty) 
+Seat 2: slplayer1 (3529 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (7682 in chips, $25 bounty) 
+Seat 5: KAnt90909 (4893 in chips, $25 bounty) 
+Seat 6: ChibediRO (4260 in chips, $25 bounty) 
+Shadissimo: posts the ante 50
+slplayer1: posts the ante 50
+lucasalvares97: posts the ante 50
+KAnt90909: posts the ante 50
+ChibediRO: posts the ante 50
+Shadissimo: posts small blind 100
+slplayer1: posts big blind 200
+*** HOLE CARDS ***
+lucasalvares97: folds 
+KAnt90909: folds 
+ChibediRO: raises 200 to 400
+Shadissimo: folds 
+slplayer1: folds 
+Uncalled bet (200) returned to ChibediRO
+ChibediRO collected 750 from pot
+ChibediRO: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Seat 1: Shadissimo (small blind) folded before Flop
+Seat 2: slplayer1 (big blind) folded before Flop
+Seat 3: lucasalvares97 folded before Flop (didn't bet)
+Seat 5: KAnt90909 folded before Flop (didn't bet)
+Seat 6: ChibediRO (button) collected (750)
+
+PokerStars Hand #251213634097: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/27 6:53:59 UTC [2024/06/27 2:53:59 ET]
+Table '3771163222 7' 6-max Seat #1 is the button
+Seat 1: Shadissimo (13366 in chips, $50 bounty) 
+Seat 2: slplayer1 (3279 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (7632 in chips, $25 bounty) 
+Seat 5: KAnt90909 (4843 in chips, $25 bounty) 
+Seat 6: ChibediRO (4760 in chips, $25 bounty) 
+Shadissimo: posts the ante 50
+slplayer1: posts the ante 50
+lucasalvares97: posts the ante 50
+KAnt90909: posts the ante 50
+ChibediRO: posts the ante 50
+slplayer1: posts small blind 100
+lucasalvares97: posts big blind 200
+*** HOLE CARDS ***
+KAnt90909: folds 
+ChibediRO: folds 
+Shadissimo: folds 
+slplayer1: folds 
+Uncalled bet (100) returned to lucasalvares97
+lucasalvares97 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 1: Shadissimo (button) folded before Flop (didn't bet)
+Seat 2: slplayer1 (small blind) folded before Flop
+Seat 3: lucasalvares97 (big blind) collected (450)
+Seat 5: KAnt90909 folded before Flop (didn't bet)
+Seat 6: ChibediRO folded before Flop (didn't bet)
+
+PokerStars Hand #251213635372: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/27 6:54:15 UTC [2024/06/27 2:54:15 ET]
+Table '3771163222 7' 6-max Seat #2 is the button
+Seat 1: Shadissimo (13316 in chips, $50 bounty) 
+Seat 2: slplayer1 (3129 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (7932 in chips, $25 bounty) 
+Seat 5: KAnt90909 (4793 in chips, $25 bounty) 
+Seat 6: ChibediRO (4710 in chips, $25 bounty) 
+Shadissimo: posts the ante 50
+slplayer1: posts the ante 50
+lucasalvares97: posts the ante 50
+KAnt90909: posts the ante 50
+ChibediRO: posts the ante 50
+lucasalvares97: posts small blind 100
+KAnt90909: posts big blind 200
+*** HOLE CARDS ***
+ChibediRO: folds 
+Shadissimo: raises 220 to 420
+slplayer1: folds 
+lucasalvares97: calls 320
+KAnt90909: calls 220
+*** FLOP *** [Js Tc 8h]
+lucasalvares97: bets 200
+KAnt90909: calls 200
+Shadissimo: folds 
+*** TURN *** [Js Tc 8h] [Kh]
+lucasalvares97: checks 
+KAnt90909: bets 1000
+lucasalvares97: calls 1000
+*** RIVER *** [Js Tc 8h Kh] [7h]
+lucasalvares97: checks 
+KAnt90909: checks 
+*** SHOW DOWN ***
+lucasalvares97: shows [Qh Ks] (a pair of Kings)
+KAnt90909: shows [8c Kd] (two pair, Kings and Eights)
+KAnt90909 collected 3910 from pot
+*** SUMMARY ***
+Total pot 3910 | Rake 0 
+Board [Js Tc 8h Kh 7h]
+Seat 1: Shadissimo folded on the Flop
+Seat 2: slplayer1 (button) folded before Flop (didn't bet)
+Seat 3: lucasalvares97 (small blind) showed [Qh Ks] and lost with a pair of Kings
+Seat 5: KAnt90909 (big blind) showed [8c Kd] and won (3910) with two pair, Kings and Eights
+Seat 6: ChibediRO folded before Flop (didn't bet)
+
+PokerStars Hand #251213638396: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/27 6:54:51 UTC [2024/06/27 2:54:51 ET]
+Table '3771163222 7' 6-max Seat #3 is the button
+Seat 1: Shadissimo (12846 in chips, $50 bounty) 
+Seat 2: slplayer1 (3079 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (6262 in chips, $25 bounty) 
+Seat 5: KAnt90909 (7033 in chips, $25 bounty) 
+Seat 6: ChibediRO (4660 in chips, $25 bounty) 
+Shadissimo: posts the ante 50
+slplayer1: posts the ante 50
+lucasalvares97: posts the ante 50
+KAnt90909: posts the ante 50
+ChibediRO: posts the ante 50
+KAnt90909: posts small blind 100
+ChibediRO: posts big blind 200
+*** HOLE CARDS ***
+Shadissimo: folds 
+slplayer1: raises 2829 to 3029 and is all-in
+lucasalvares97: folds 
+KAnt90909: folds 
+ChibediRO: folds 
+Uncalled bet (2829) returned to slplayer1
+slplayer1 collected 750 from pot
+slplayer1: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Seat 1: Shadissimo folded before Flop (didn't bet)
+Seat 2: slplayer1 collected (750)
+Seat 3: lucasalvares97 (button) folded before Flop (didn't bet)
+Seat 5: KAnt90909 (small blind) folded before Flop
+Seat 6: ChibediRO (big blind) folded before Flop
+
+PokerStars Hand #251213639711: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/27 6:55:07 UTC [2024/06/27 2:55:07 ET]
+Table '3771163222 7' 6-max Seat #5 is the button
+Seat 1: Shadissimo (12796 in chips, $50 bounty) 
+Seat 2: slplayer1 (3579 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (6212 in chips, $25 bounty) 
+Seat 5: KAnt90909 (6883 in chips, $25 bounty) 
+Seat 6: ChibediRO (4410 in chips, $25 bounty) 
+Shadissimo: posts the ante 50
+slplayer1: posts the ante 50
+lucasalvares97: posts the ante 50
+KAnt90909: posts the ante 50
+ChibediRO: posts the ante 50
+ChibediRO: posts small blind 100
+Shadissimo: posts big blind 200
+*** HOLE CARDS ***
+slplayer1: folds 
+lucasalvares97: raises 200 to 400
+KAnt90909: folds 
+ChibediRO: folds 
+Shadissimo: calls 200
+*** FLOP *** [3d 2d 9c]
+Shadissimo: checks 
+lucasalvares97: bets 200
+Shadissimo: calls 200
+*** TURN *** [3d 2d 9c] [7c]
+Shadissimo: checks 
+lucasalvares97: bets 200
+Shadissimo: calls 200
+*** RIVER *** [3d 2d 9c 7c] [Ah]
+Shadissimo: checks 
+lucasalvares97: bets 975
+Shadissimo: raises 975 to 1950
+lucasalvares97: folds 
+Uncalled bet (975) returned to Shadissimo
+Shadissimo collected 3900 from pot
+Shadissimo: doesn't show hand 
+*** SUMMARY ***
+Total pot 3900 | Rake 0 
+Board [3d 2d 9c 7c Ah]
+Seat 1: Shadissimo (big blind) collected (3900)
+Seat 2: slplayer1 folded before Flop (didn't bet)
+Seat 3: lucasalvares97 folded on the River
+Seat 5: KAnt90909 (button) folded before Flop (didn't bet)
+Seat 6: ChibediRO (small blind) folded before Flop
+
+PokerStars Hand #251213663973: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/27 7:00:45 UTC [2024/06/27 3:00:45 ET]
+Table '3771163222 7' 6-max Seat #6 is the button
+Seat 1: Shadissimo (14871 in chips, $50 bounty) 
+Seat 2: slplayer1 (3529 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (4387 in chips, $25 bounty) 
+Seat 5: KAnt90909 (6833 in chips, $25 bounty) 
+Seat 6: ChibediRO (4260 in chips, $25 bounty) 
+Shadissimo: posts the ante 50
+slplayer1: posts the ante 50
+lucasalvares97: posts the ante 50
+KAnt90909: posts the ante 50
+ChibediRO: posts the ante 50
+Shadissimo: posts small blind 100
+slplayer1: posts big blind 200
+*** HOLE CARDS ***
+lucasalvares97: calls 200
+KAnt90909: raises 500 to 700
+ChibediRO: folds 
+Shadissimo: folds 
+slplayer1: folds 
+lucasalvares97: folds 
+Uncalled bet (500) returned to KAnt90909
+KAnt90909 collected 950 from pot
+KAnt90909: doesn't show hand 
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Seat 1: Shadissimo (small blind) folded before Flop
+Seat 2: slplayer1 (big blind) folded before Flop
+Seat 3: lucasalvares97 folded before Flop
+Seat 5: KAnt90909 collected (950)
+Seat 6: ChibediRO (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251213665811: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/27 7:01:09 UTC [2024/06/27 3:01:09 ET]
+Table '3771163222 7' 6-max Seat #1 is the button
+Seat 1: Shadissimo (14721 in chips, $50 bounty) 
+Seat 2: slplayer1 (3279 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (4137 in chips, $25 bounty) 
+Seat 5: KAnt90909 (7533 in chips, $25 bounty) 
+Seat 6: ChibediRO (4210 in chips, $25 bounty) 
+Shadissimo: posts the ante 50
+slplayer1: posts the ante 50
+lucasalvares97: posts the ante 50
+KAnt90909: posts the ante 50
+ChibediRO: posts the ante 50
+slplayer1: posts small blind 100
+lucasalvares97: posts big blind 200
+*** HOLE CARDS ***
+KAnt90909: raises 200 to 400
+ChibediRO: folds 
+Shadissimo: calls 400
+slplayer1: folds 
+lucasalvares97: calls 200
+*** FLOP *** [8d 2c 8c]
+lucasalvares97: checks 
+KAnt90909: bets 600
+Shadissimo: folds 
+lucasalvares97: folds 
+Uncalled bet (600) returned to KAnt90909
+KAnt90909 collected 1550 from pot
+KAnt90909: doesn't show hand 
+*** SUMMARY ***
+Total pot 1550 | Rake 0 
+Board [8d 2c 8c]
+Seat 1: Shadissimo (button) folded on the Flop
+Seat 2: slplayer1 (small blind) folded before Flop
+Seat 3: lucasalvares97 (big blind) folded on the Flop
+Seat 5: KAnt90909 collected (1550)
+Seat 6: ChibediRO folded before Flop (didn't bet)
+
+PokerStars Hand #251213671185: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/27 7:02:16 UTC [2024/06/27 3:02:16 ET]
+Table '3771163222 7' 6-max Seat #2 is the button
+Seat 1: Shadissimo (14271 in chips, $50 bounty) 
+Seat 2: slplayer1 (3129 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (3687 in chips, $25 bounty) 
+Seat 5: KAnt90909 (8633 in chips, $25 bounty) 
+Seat 6: ChibediRO (4160 in chips, $25 bounty) 
+Shadissimo: posts the ante 60
+slplayer1: posts the ante 60
+lucasalvares97: posts the ante 60
+KAnt90909: posts the ante 60
+ChibediRO: posts the ante 60
+lucasalvares97: posts small blind 125
+KAnt90909: posts big blind 250
+*** HOLE CARDS ***
+ChibediRO: folds 
+Dbabreu2 is disconnected 
+Shadissimo: folds 
+slplayer1: folds 
+lucasalvares97: calls 125
+KAnt90909: raises 500 to 750
+lucasalvares97: calls 500
+*** FLOP *** [6h Jd 7d]
+lucasalvares97: bets 250
+KAnt90909: raises 750 to 1000
+lucasalvares97: folds 
+Uncalled bet (750) returned to KAnt90909
+KAnt90909 collected 2300 from pot
+KAnt90909: doesn't show hand 
+*** SUMMARY ***
+Total pot 2300 | Rake 0 
+Board [6h Jd 7d]
+Seat 1: Shadissimo folded before Flop (didn't bet)
+Seat 2: slplayer1 (button) folded before Flop (didn't bet)
+Seat 3: lucasalvares97 (small blind) folded on the Flop
+Seat 5: KAnt90909 (big blind) collected (2300)
+Seat 6: ChibediRO folded before Flop (didn't bet)
+
+PokerStars Hand #251213674593: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/27 7:02:59 UTC [2024/06/27 3:02:59 ET]
+Table '3771163222 7' 6-max Seat #3 is the button
+Seat 1: Shadissimo (14211 in chips, $50 bounty) 
+Seat 2: slplayer1 (3069 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (2627 in chips, $25 bounty) 
+Seat 4: Dbabreu2 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 5: KAnt90909 (9873 in chips, $25 bounty) 
+Seat 6: ChibediRO (4100 in chips, $25 bounty) 
+Dbabreu2 will be allowed to play after the button
+Shadissimo: posts the ante 60
+slplayer1: posts the ante 60
+lucasalvares97: posts the ante 60
+KAnt90909: posts the ante 60
+ChibediRO: posts the ante 60
+KAnt90909: posts small blind 125
+ChibediRO: posts big blind 250
+*** HOLE CARDS ***
+Shadissimo: folds 
+slplayer1: folds 
+lucasalvares97: calls 250
+KAnt90909: calls 125
+ChibediRO: checks 
+*** FLOP *** [Th 2d 9h]
+KAnt90909: checks 
+ChibediRO: checks 
+lucasalvares97: checks 
+*** TURN *** [Th 2d 9h] [Qs]
+KAnt90909: bets 750
+ChibediRO: folds 
+lucasalvares97: folds 
+Uncalled bet (750) returned to KAnt90909
+KAnt90909 collected 1050 from pot
+KAnt90909: doesn't show hand 
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [Th 2d 9h Qs]
+Seat 1: Shadissimo folded before Flop (didn't bet)
+Seat 2: slplayer1 folded before Flop (didn't bet)
+Seat 3: lucasalvares97 (button) folded on the Turn
+Seat 5: KAnt90909 (small blind) collected (1050)
+Seat 6: ChibediRO (big blind) folded on the Turn
+
+PokerStars Hand #251213677718: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/27 7:03:38 UTC [2024/06/27 3:03:38 ET]
+Table '3771163222 7' 6-max Seat #5 is the button
+Seat 1: Shadissimo (14151 in chips, $50 bounty) 
+Seat 2: slplayer1 (3009 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (2317 in chips, $25 bounty) 
+Seat 4: Dbabreu2 (5000 in chips, $25 bounty) 
+Seat 5: KAnt90909 (10613 in chips, $25 bounty) 
+Seat 6: ChibediRO (3790 in chips, $25 bounty) 
+Shadissimo: posts the ante 60
+slplayer1: posts the ante 60
+lucasalvares97: posts the ante 60
+Dbabreu2: posts the ante 60
+KAnt90909: posts the ante 60
+ChibediRO: posts the ante 60
+ChibediRO: posts small blind 125
+Shadissimo: posts big blind 250
+*** HOLE CARDS ***
+slplayer1: folds 
+lucasalvares97: folds 
+Dbabreu2: folds 
+KAnt90909: folds 
+ChibediRO: folds 
+Uncalled bet (125) returned to Shadissimo
+Shadissimo collected 610 from pot
+Shadissimo: doesn't show hand 
+*** SUMMARY ***
+Total pot 610 | Rake 0 
+Seat 1: Shadissimo (big blind) collected (610)
+Seat 2: slplayer1 folded before Flop (didn't bet)
+Seat 3: lucasalvares97 folded before Flop (didn't bet)
+Seat 4: Dbabreu2 folded before Flop (didn't bet)
+Seat 5: KAnt90909 (button) folded before Flop (didn't bet)
+Seat 6: ChibediRO (small blind) folded before Flop
+
+PokerStars Hand #251213678743: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/27 7:03:51 UTC [2024/06/27 3:03:51 ET]
+Table '3771163222 7' 6-max Seat #6 is the button
+Seat 1: Shadissimo (14576 in chips, $50 bounty) 
+Seat 2: slplayer1 (2949 in chips, $25 bounty) 
+Seat 3: lucasalvares97 (2257 in chips, $25 bounty) 
+Seat 4: Dbabreu2 (4940 in chips, $25 bounty) 
+Seat 5: KAnt90909 (10553 in chips, $25 bounty) 
+Seat 6: ChibediRO (3605 in chips, $25 bounty) 
+Shadissimo: posts the ante 60
+slplayer1: posts the ante 60
+lucasalvares97: posts the ante 60
+Dbabreu2: posts the ante 60
+KAnt90909: posts the ante 60
+ChibediRO: posts the ante 60
+Shadissimo: posts small blind 125
+slplayer1: posts big blind 250
+*** HOLE CARDS ***
+lucasalvares97: calls 250
+Dbabreu2: folds 
+KAnt90909: raises 250 to 500
+ChibediRO: folds 
+Shadissimo: folds 
+slplayer1: raises 2389 to 2889 and is all-in
+lucasalvares97: folds 
+KAnt90909: calls 2389
+*** FLOP *** [Kd Qs 2s]
+*** TURN *** [Kd Qs 2s] [3d]
+*** RIVER *** [Kd Qs 2s 3d] [6h]
+*** SHOW DOWN ***
+slplayer1: shows [Ac 8c] (high card Ace)
+KAnt90909: shows [9h Kh] (a pair of Kings)
+KAnt90909 collected 6513 from pot
+KAnt90909 wins $12.50 for eliminating slplayer1 and their own bounty increases by $12.50 to $37.50
+slplayer1 finished the tournament
+*** SUMMARY ***
+Total pot 6513 | Rake 0 
+Board [Kd Qs 2s 3d 6h]
+Seat 1: Shadissimo (small blind) folded before Flop
+Seat 2: slplayer1 (big blind) showed [Ac 8c] and lost with high card Ace
+Seat 3: lucasalvares97 folded before Flop
+Seat 4: Dbabreu2 folded before Flop (didn't bet)
+Seat 5: KAnt90909 showed [9h Kh] and won (6513) with a pair of Kings
+Seat 6: ChibediRO (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251213681698: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/27 7:04:28 UTC [2024/06/27 3:04:28 ET]
+Table '3771163222 7' 6-max Seat #1 is the button
+Seat 1: Shadissimo (14391 in chips, $50 bounty) 
+Seat 3: lucasalvares97 (1947 in chips, $25 bounty) 
+Seat 4: Dbabreu2 (4880 in chips, $25 bounty) 
+Seat 5: KAnt90909 (14117 in chips, $37.50 bounty) 
+Seat 6: ChibediRO (3545 in chips, $25 bounty) 
+Shadissimo: posts the ante 60
+lucasalvares97: posts the ante 60
+Dbabreu2: posts the ante 60
+KAnt90909: posts the ante 60
+ChibediRO: posts the ante 60
+lucasalvares97: posts small blind 125
+Dbabreu2: posts big blind 250
+*** HOLE CARDS ***
+KAnt90909: folds 
+ChibediRO: folds 
+Shadissimo: raises 14081 to 14331 and is all-in
+lucasalvares97: calls 1762 and is all-in
+Dbabreu2: calls 4570 and is all-in
+Uncalled bet (9511) returned to Shadissimo
+*** FLOP *** [4c As Jc]
+*** TURN *** [4c As Jc] [5s]
+*** RIVER *** [4c As Jc 5s] [5d]
+*** SHOW DOWN ***
+Dbabreu2: shows [Td 8d] (a pair of Fives)
+Shadissimo: shows [Ac 6c] (two pair, Aces and Fives)
+Shadissimo collected 5866 from side pot
+lucasalvares97: shows [Js Qs] (two pair, Jacks and Fives)
+Shadissimo collected 5961 from main pot
+Shadissimo wins $12.50 for eliminating lucasalvares97 and their own bounty increases by $12.50 to $62.50
+Shadissimo wins $12.50 for eliminating Dbabreu2 and their own bounty increases by $12.50 to $75
+Dbabreu2 finished the tournament
+lucasalvares97 finished the tournament
+*** SUMMARY ***
+Total pot 11827 Main pot 5961. Side pot 5866. | Rake 0 
+Board [4c As Jc 5s 5d]
+Seat 1: Shadissimo (button) showed [Ac 6c] and won (11827) with two pair, Aces and Fives
+Seat 3: lucasalvares97 (small blind) showed [Js Qs] and lost with two pair, Jacks and Fives
+Seat 4: Dbabreu2 (big blind) showed [Td 8d] and lost with a pair of Fives
+Seat 5: KAnt90909 folded before Flop (didn't bet)
+Seat 6: ChibediRO folded before Flop (didn't bet)
+
+PokerStars Hand #251213684325: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/27 7:05:02 UTC [2024/06/27 3:05:02 ET]
+Table '3771163222 7' 6-max Seat #5 is the button
+Seat 1: Shadissimo (21338 in chips, $75 bounty) 
+Seat 2: ProfaNic_v2 (5407 in chips, $37.50 bounty) 
+Seat 4: AdaltoJrBR (2080 in chips, $25 bounty) 
+Seat 5: KAnt90909 (14057 in chips, $37.50 bounty) 
+Seat 6: ChibediRO (3485 in chips, $25 bounty) 
+Shadissimo: posts the ante 75
+ProfaNic_v2: posts the ante 75
+AdaltoJrBR: posts the ante 75
+KAnt90909: posts the ante 75
+ChibediRO: posts the ante 75
+ChibediRO: posts small blind 150
+Shadissimo: posts big blind 300
+*** HOLE CARDS ***
+ProfaNic_v2: raises 300 to 600
+AdaltoJrBR: folds 
+KAnt90909: folds 
+ChibediRO: folds 
+Shadissimo: calls 300
+*** FLOP *** [4s 9s 4h]
+Shadissimo: checks 
+ProfaNic_v2: bets 360
+Shadissimo: folds 
+Uncalled bet (360) returned to ProfaNic_v2
+ProfaNic_v2 collected 1725 from pot
+*** SUMMARY ***
+Total pot 1725 | Rake 0 
+Board [4s 9s 4h]
+Seat 1: Shadissimo (big blind) folded on the Flop
+Seat 2: ProfaNic_v2 collected (1725)
+Seat 4: AdaltoJrBR folded before Flop (didn't bet)
+Seat 5: KAnt90909 (button) folded before Flop (didn't bet)
+Seat 6: ChibediRO (small blind) folded before Flop
+
+PokerStars Hand #251213686201: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/27 7:05:26 UTC [2024/06/27 3:05:26 ET]
+Table '3771163222 7' 6-max Seat #6 is the button
+Seat 1: Shadissimo (20663 in chips, $75 bounty) 
+Seat 2: ProfaNic_v2 (6457 in chips, $37.50 bounty) 
+Seat 4: AdaltoJrBR (2005 in chips, $25 bounty) 
+Seat 5: KAnt90909 (13982 in chips, $37.50 bounty) 
+Seat 6: ChibediRO (3260 in chips, $25 bounty) 
+Shadissimo: posts the ante 75
+ProfaNic_v2: posts the ante 75
+AdaltoJrBR: posts the ante 75
+KAnt90909: posts the ante 75
+ChibediRO: posts the ante 75
+Shadissimo: posts small blind 150
+ProfaNic_v2: posts big blind 300
+*** HOLE CARDS ***
+AdaltoJrBR: raises 1630 to 1930 and is all-in
+KAnt90909: folds 
+ChibediRO: folds 
+Shadissimo: raises 18658 to 20588 and is all-in
+ProfaNic_v2: calls 6082 and is all-in
+Uncalled bet (14206) returned to Shadissimo
+*** FLOP *** [6c 5s 2h]
+*** TURN *** [6c 5s 2h] [7d]
+*** RIVER *** [6c 5s 2h 7d] [9s]
+*** SHOW DOWN ***
+Shadissimo: shows [Ah Qs] (high card Ace)
+ProfaNic_v2: shows [3d 3c] (a pair of Threes)
+ProfaNic_v2 collected 8904 from side pot
+AdaltoJrBR: shows [Jh Kh] (high card King)
+ProfaNic_v2 collected 6165 from main pot
+ProfaNic_v2 wins $12.50 for eliminating AdaltoJrBR and their own bounty increases by $12.50 to $50
+AdaltoJrBR finished the tournament in 31st place
+*** SUMMARY ***
+Total pot 15069 Main pot 6165. Side pot 8904. | Rake 0 
+Board [6c 5s 2h 7d 9s]
+Seat 1: Shadissimo (small blind) showed [Ah Qs] and lost with high card Ace
+Seat 2: ProfaNic_v2 (big blind) showed [3d 3c] and won (15069) with a pair of Threes
+Seat 4: AdaltoJrBR showed [Jh Kh] and lost with high card King
+Seat 5: KAnt90909 folded before Flop (didn't bet)
+Seat 6: ChibediRO (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251213777923: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/27 7:24:24 UTC [2024/06/27 3:24:24 ET]
+Table '3771163222 6' 7-max Seat #2 is the button
+Seat 1: BL4CK11 (41642 in chips, $112.50 bounty) 
+Seat 2: jrmac91 (33452 in chips, $81.25 bounty) 
+Seat 3: Alocasia Nebula (19646 in chips, $50 bounty) 
+Seat 4: Milka2785 (9093 in chips, $37.50 bounty) 
+Seat 5: plsc0meagain (73214 in chips, $159.37 bounty) 
+Seat 6: KAnt90909 (45003 in chips, $75 bounty) 
+Seat 7: Paranoik_UK (32950 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 300
+jrmac91: posts the ante 300
+Alocasia Nebula: posts the ante 300
+Milka2785: posts the ante 300
+plsc0meagain: posts the ante 300
+KAnt90909: posts the ante 300
+Paranoik_UK: posts the ante 300
+Alocasia Nebula: posts small blind 600
+Milka2785: posts big blind 1200
+*** HOLE CARDS ***
+plsc0meagain: folds 
+KAnt90909: raises 1200 to 2400
+Paranoik_UK: folds 
+BL4CK11: folds 
+jrmac91: folds 
+Alocasia Nebula: folds 
+Milka2785: folds 
+Uncalled bet (1200) returned to KAnt90909
+KAnt90909 collected 5100 from pot
+KAnt90909: doesn't show hand 
+*** SUMMARY ***
+Total pot 5100 | Rake 0 
+Seat 1: BL4CK11 folded before Flop (didn't bet)
+Seat 2: jrmac91 (button) folded before Flop (didn't bet)
+Seat 3: Alocasia Nebula (small blind) folded before Flop
+Seat 4: Milka2785 (big blind) folded before Flop
+Seat 5: plsc0meagain folded before Flop (didn't bet)
+Seat 6: KAnt90909 collected (5100)
+Seat 7: Paranoik_UK folded before Flop (didn't bet)
+
+PokerStars Hand #251213779074: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/27 7:24:38 UTC [2024/06/27 3:24:38 ET]
+Table '3771163222 6' 7-max Seat #3 is the button
+Seat 1: BL4CK11 (41342 in chips, $112.50 bounty) 
+Seat 2: jrmac91 (33152 in chips, $81.25 bounty) 
+Seat 3: Alocasia Nebula (18746 in chips, $50 bounty) 
+Seat 4: Milka2785 (7593 in chips, $37.50 bounty) 
+Seat 5: plsc0meagain (72914 in chips, $159.37 bounty) 
+Seat 6: KAnt90909 (48603 in chips, $75 bounty) 
+Seat 7: Paranoik_UK (32650 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 300
+jrmac91: posts the ante 300
+Alocasia Nebula: posts the ante 300
+Milka2785: posts the ante 300
+plsc0meagain: posts the ante 300
+KAnt90909: posts the ante 300
+Paranoik_UK: posts the ante 300
+Milka2785: posts small blind 600
+plsc0meagain: posts big blind 1200
+*** HOLE CARDS ***
+KAnt90909: folds 
+Paranoik_UK: folds 
+BL4CK11: folds 
+jrmac91: folds 
+Alocasia Nebula: folds 
+Milka2785: raises 6093 to 7293 and is all-in
+plsc0meagain: calls 6093
+*** FLOP *** [4d Ac Jd]
+*** TURN *** [4d Ac Jd] [2h]
+*** RIVER *** [4d Ac Jd 2h] [3c]
+*** SHOW DOWN ***
+Milka2785: shows [7c 7d] (a pair of Sevens)
+plsc0meagain: shows [Ad Kc] (a pair of Aces)
+plsc0meagain collected 16686 from pot
+plsc0meagain wins $18.75 for eliminating Milka2785 and their own bounty increases by $18.75 to $178.12
+Milka2785 finished the tournament in 7th place and received $54.76.
+*** SUMMARY ***
+Total pot 16686 | Rake 0 
+Board [4d Ac Jd 2h 3c]
+Seat 1: BL4CK11 folded before Flop (didn't bet)
+Seat 2: jrmac91 folded before Flop (didn't bet)
+Seat 3: Alocasia Nebula (button) folded before Flop (didn't bet)
+Seat 4: Milka2785 (small blind) showed [7c 7d] and lost with a pair of Sevens
+Seat 5: plsc0meagain (big blind) showed [Ad Kc] and won (16686) with a pair of Aces
+Seat 6: KAnt90909 folded before Flop (didn't bet)
+Seat 7: Paranoik_UK folded before Flop (didn't bet)
+
+PokerStars Hand #251213781320: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/27 7:25:05 UTC [2024/06/27 3:25:05 ET]
+Table '3771163222 6' 7-max Seat #5 is the button
+Seat 1: BL4CK11 (41042 in chips, $112.50 bounty) 
+Seat 2: jrmac91 (32852 in chips, $81.25 bounty) 
+Seat 3: Alocasia Nebula (18446 in chips, $50 bounty) 
+Seat 5: plsc0meagain (82007 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (48303 in chips, $75 bounty) 
+Seat 7: Paranoik_UK (32350 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 300
+jrmac91: posts the ante 300
+Alocasia Nebula: posts the ante 300
+plsc0meagain: posts the ante 300
+KAnt90909: posts the ante 300
+Paranoik_UK: posts the ante 300
+KAnt90909: posts small blind 600
+Paranoik_UK: posts big blind 1200
+*** HOLE CARDS ***
+BL4CK11: folds 
+jrmac91: folds 
+Alocasia Nebula: folds 
+plsc0meagain: folds 
+KAnt90909: raises 2160 to 3360
+Paranoik_UK: folds 
+Uncalled bet (2160) returned to KAnt90909
+KAnt90909 collected 4200 from pot
+KAnt90909: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 1: BL4CK11 folded before Flop (didn't bet)
+Seat 2: jrmac91 folded before Flop (didn't bet)
+Seat 3: Alocasia Nebula folded before Flop (didn't bet)
+Seat 5: plsc0meagain (button) folded before Flop (didn't bet)
+Seat 6: KAnt90909 (small blind) collected (4200)
+Seat 7: Paranoik_UK (big blind) folded before Flop
+
+PokerStars Hand #251213783384: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/27 7:25:30 UTC [2024/06/27 3:25:30 ET]
+Table '3771163222 6' 7-max Seat #6 is the button
+Seat 1: BL4CK11 (40742 in chips, $112.50 bounty) 
+Seat 2: jrmac91 (32552 in chips, $81.25 bounty) 
+Seat 3: Alocasia Nebula (18146 in chips, $50 bounty) 
+Seat 5: plsc0meagain (81707 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (51003 in chips, $75 bounty) 
+Seat 7: Paranoik_UK (30850 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 300
+jrmac91: posts the ante 300
+Alocasia Nebula: posts the ante 300
+plsc0meagain: posts the ante 300
+KAnt90909: posts the ante 300
+Paranoik_UK: posts the ante 300
+Paranoik_UK: posts small blind 600
+BL4CK11: posts big blind 1200
+*** HOLE CARDS ***
+jrmac91: folds 
+Alocasia Nebula: folds 
+plsc0meagain: folds 
+KAnt90909: raises 1200 to 2400
+Paranoik_UK: folds 
+BL4CK11: raises 38042 to 40442 and is all-in
+KAnt90909: folds 
+Uncalled bet (38042) returned to BL4CK11
+BL4CK11 collected 7200 from pot
+BL4CK11: doesn't show hand 
+*** SUMMARY ***
+Total pot 7200 | Rake 0 
+Seat 1: BL4CK11 (big blind) collected (7200)
+Seat 2: jrmac91 folded before Flop (didn't bet)
+Seat 3: Alocasia Nebula folded before Flop (didn't bet)
+Seat 5: plsc0meagain folded before Flop (didn't bet)
+Seat 6: KAnt90909 (button) folded before Flop
+Seat 7: Paranoik_UK (small blind) folded before Flop
+
+PokerStars Hand #251213785840: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/27 7:25:59 UTC [2024/06/27 3:25:59 ET]
+Table '3771163222 6' 7-max Seat #7 is the button
+Seat 1: BL4CK11 (45242 in chips, $112.50 bounty) 
+Seat 2: jrmac91 (32252 in chips, $81.25 bounty) 
+Seat 3: Alocasia Nebula (17846 in chips, $50 bounty) 
+Seat 5: plsc0meagain (81407 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (48303 in chips, $75 bounty) 
+Seat 7: Paranoik_UK (29950 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 400
+jrmac91: posts the ante 400
+Alocasia Nebula: posts the ante 400
+plsc0meagain: posts the ante 400
+KAnt90909: posts the ante 400
+Paranoik_UK: posts the ante 400
+BL4CK11: posts small blind 800
+jrmac91: posts big blind 1600
+*** HOLE CARDS ***
+Alocasia Nebula: folds 
+plsc0meagain: folds 
+KAnt90909: folds 
+Paranoik_UK: folds 
+BL4CK11: raises 43242 to 44842 and is all-in
+jrmac91: folds 
+Uncalled bet (43242) returned to BL4CK11
+BL4CK11 collected 5600 from pot
+BL4CK11: doesn't show hand 
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Seat 1: BL4CK11 (small blind) collected (5600)
+Seat 2: jrmac91 (big blind) folded before Flop
+Seat 3: Alocasia Nebula folded before Flop (didn't bet)
+Seat 5: plsc0meagain folded before Flop (didn't bet)
+Seat 6: KAnt90909 folded before Flop (didn't bet)
+Seat 7: Paranoik_UK (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251213787897: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/27 7:26:25 UTC [2024/06/27 3:26:25 ET]
+Table '3771163222 6' 7-max Seat #1 is the button
+Seat 1: BL4CK11 (48842 in chips, $112.50 bounty) 
+Seat 2: jrmac91 (30252 in chips, $81.25 bounty) 
+Seat 3: Alocasia Nebula (17446 in chips, $50 bounty) 
+Seat 5: plsc0meagain (81007 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (47903 in chips, $75 bounty) 
+Seat 7: Paranoik_UK (29550 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 400
+jrmac91: posts the ante 400
+Alocasia Nebula: posts the ante 400
+plsc0meagain: posts the ante 400
+KAnt90909: posts the ante 400
+Paranoik_UK: posts the ante 400
+jrmac91: posts small blind 800
+Alocasia Nebula: posts big blind 1600
+*** HOLE CARDS ***
+plsc0meagain: folds 
+KAnt90909: folds 
+Paranoik_UK: folds 
+BL4CK11: folds 
+jrmac91: raises 28252 to 29852 and is all-in
+Alocasia Nebula: folds 
+Uncalled bet (28252) returned to jrmac91
+jrmac91 collected 5600 from pot
+jrmac91: doesn't show hand 
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Seat 1: BL4CK11 (button) folded before Flop (didn't bet)
+Seat 2: jrmac91 (small blind) collected (5600)
+Seat 3: Alocasia Nebula (big blind) folded before Flop
+Seat 5: plsc0meagain folded before Flop (didn't bet)
+Seat 6: KAnt90909 folded before Flop (didn't bet)
+Seat 7: Paranoik_UK folded before Flop (didn't bet)
+
+PokerStars Hand #251213789097: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/27 7:26:39 UTC [2024/06/27 3:26:39 ET]
+Table '3771163222 6' 7-max Seat #2 is the button
+Seat 1: BL4CK11 (48442 in chips, $112.50 bounty) 
+Seat 2: jrmac91 (33852 in chips, $81.25 bounty) 
+Seat 3: Alocasia Nebula (15446 in chips, $50 bounty) 
+Seat 5: plsc0meagain (80607 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (47503 in chips, $75 bounty) 
+Seat 7: Paranoik_UK (29150 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 400
+jrmac91: posts the ante 400
+Alocasia Nebula: posts the ante 400
+plsc0meagain: posts the ante 400
+KAnt90909: posts the ante 400
+Paranoik_UK: posts the ante 400
+Alocasia Nebula: posts small blind 800
+plsc0meagain: posts big blind 1600
+*** HOLE CARDS ***
+KAnt90909: folds 
+Paranoik_UK: raises 1600 to 3200
+BL4CK11: folds 
+jrmac91: folds 
+Alocasia Nebula: raises 11846 to 15046 and is all-in
+plsc0meagain: folds 
+Paranoik_UK: calls 11846
+*** FLOP *** [Td 2c 3c]
+*** TURN *** [Td 2c 3c] [Qs]
+*** RIVER *** [Td 2c 3c Qs] [Ts]
+*** SHOW DOWN ***
+Alocasia Nebula: shows [Th Js] (three of a kind, Tens)
+Paranoik_UK: shows [Kc Kd] (two pair, Kings and Tens)
+Alocasia Nebula collected 34092 from pot
+*** SUMMARY ***
+Total pot 34092 | Rake 0 
+Board [Td 2c 3c Qs Ts]
+Seat 1: BL4CK11 folded before Flop (didn't bet)
+Seat 2: jrmac91 (button) folded before Flop (didn't bet)
+Seat 3: Alocasia Nebula (small blind) showed [Th Js] and won (34092) with three of a kind, Tens
+Seat 5: plsc0meagain (big blind) folded before Flop
+Seat 6: KAnt90909 folded before Flop (didn't bet)
+Seat 7: Paranoik_UK showed [Kc Kd] and lost with two pair, Kings and Tens
+
+PokerStars Hand #251213791230: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/27 7:27:06 UTC [2024/06/27 3:27:06 ET]
+Table '3771163222 6' 7-max Seat #3 is the button
+Seat 1: BL4CK11 (48042 in chips, $112.50 bounty) 
+Seat 2: jrmac91 (33452 in chips, $81.25 bounty) 
+Seat 3: Alocasia Nebula (34092 in chips, $50 bounty) 
+Seat 5: plsc0meagain (78607 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (47103 in chips, $75 bounty) 
+Seat 7: Paranoik_UK (13704 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 400
+jrmac91: posts the ante 400
+Alocasia Nebula: posts the ante 400
+plsc0meagain: posts the ante 400
+KAnt90909: posts the ante 400
+Paranoik_UK: posts the ante 400
+plsc0meagain: posts small blind 800
+KAnt90909: posts big blind 1600
+*** HOLE CARDS ***
+Paranoik_UK: folds 
+BL4CK11: folds 
+jrmac91: folds 
+Alocasia Nebula: folds 
+plsc0meagain: folds 
+Uncalled bet (800) returned to KAnt90909
+KAnt90909 collected 4000 from pot
+KAnt90909: doesn't show hand 
+*** SUMMARY ***
+Total pot 4000 | Rake 0 
+Seat 1: BL4CK11 folded before Flop (didn't bet)
+Seat 2: jrmac91 folded before Flop (didn't bet)
+Seat 3: Alocasia Nebula (button) folded before Flop (didn't bet)
+Seat 5: plsc0meagain (small blind) folded before Flop
+Seat 6: KAnt90909 (big blind) collected (4000)
+Seat 7: Paranoik_UK folded before Flop (didn't bet)
+
+PokerStars Hand #251213792468: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/27 7:27:21 UTC [2024/06/27 3:27:21 ET]
+Table '3771163222 6' 7-max Seat #5 is the button
+Seat 1: BL4CK11 (47642 in chips, $112.50 bounty) 
+Seat 2: jrmac91 (33052 in chips, $81.25 bounty) 
+Seat 3: Alocasia Nebula (33692 in chips, $50 bounty) 
+Seat 5: plsc0meagain (77407 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (49903 in chips, $75 bounty) 
+Seat 7: Paranoik_UK (13304 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 400
+jrmac91: posts the ante 400
+Alocasia Nebula: posts the ante 400
+plsc0meagain: posts the ante 400
+KAnt90909: posts the ante 400
+Paranoik_UK: posts the ante 400
+KAnt90909: posts small blind 800
+Paranoik_UK: posts big blind 1600
+*** HOLE CARDS ***
+BL4CK11: folds 
+jrmac91: raises 3200 to 4800
+Alocasia Nebula: folds 
+plsc0meagain: calls 4800
+KAnt90909: folds 
+Paranoik_UK: folds 
+*** FLOP *** [Qs 7s Jh]
+jrmac91: checks 
+plsc0meagain: checks 
+*** TURN *** [Qs 7s Jh] [5c]
+jrmac91: bets 4800
+plsc0meagain: calls 4800
+*** RIVER *** [Qs 7s Jh 5c] [2s]
+jrmac91: checks 
+plsc0meagain: checks 
+*** SHOW DOWN ***
+jrmac91: shows [Ad 9s] (high card Ace)
+plsc0meagain: shows [Ac Js] (a pair of Jacks)
+plsc0meagain collected 24000 from pot
+*** SUMMARY ***
+Total pot 24000 | Rake 0 
+Board [Qs 7s Jh 5c 2s]
+Seat 1: BL4CK11 folded before Flop (didn't bet)
+Seat 2: jrmac91 showed [Ad 9s] and lost with high card Ace
+Seat 3: Alocasia Nebula folded before Flop (didn't bet)
+Seat 5: plsc0meagain (button) showed [Ac Js] and won (24000) with a pair of Jacks
+Seat 6: KAnt90909 (small blind) folded before Flop
+Seat 7: Paranoik_UK (big blind) folded before Flop
+
+PokerStars Hand #251213796462: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVI (800/1600) - 2024/06/27 7:28:12 UTC [2024/06/27 3:28:12 ET]
+Table '3771163222 6' 7-max Seat #6 is the button
+Seat 1: BL4CK11 (47242 in chips, $112.50 bounty) 
+Seat 2: jrmac91 (23052 in chips, $81.25 bounty) 
+Seat 3: Alocasia Nebula (33292 in chips, $50 bounty) 
+Seat 5: plsc0meagain (91407 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (48703 in chips, $75 bounty) 
+Seat 7: Paranoik_UK (11304 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 400
+jrmac91: posts the ante 400
+Alocasia Nebula: posts the ante 400
+plsc0meagain: posts the ante 400
+KAnt90909: posts the ante 400
+Paranoik_UK: posts the ante 400
+Paranoik_UK: posts small blind 800
+BL4CK11: posts big blind 1600
+*** HOLE CARDS ***
+jrmac91: calls 1600
+Alocasia Nebula: folds 
+plsc0meagain: folds 
+KAnt90909: folds 
+Paranoik_UK: raises 9304 to 10904 and is all-in
+BL4CK11: folds 
+jrmac91: calls 9304
+*** FLOP *** [Ad 7d 5d]
+*** TURN *** [Ad 7d 5d] [Th]
+*** RIVER *** [Ad 7d 5d Th] [Tc]
+*** SHOW DOWN ***
+Paranoik_UK: shows [Ac Ts] (a full house, Tens full of Aces)
+jrmac91: shows [Qs Jc] (a pair of Tens)
+Paranoik_UK collected 25808 from pot
+*** SUMMARY ***
+Total pot 25808 | Rake 0 
+Board [Ad 7d 5d Th Tc]
+Seat 1: BL4CK11 (big blind) folded before Flop
+Seat 2: jrmac91 showed [Qs Jc] and lost with a pair of Tens
+Seat 3: Alocasia Nebula folded before Flop (didn't bet)
+Seat 5: plsc0meagain folded before Flop (didn't bet)
+Seat 6: KAnt90909 (button) folded before Flop (didn't bet)
+Seat 7: Paranoik_UK (small blind) showed [Ac Ts] and won (25808) with a full house, Tens full of Aces
+
+PokerStars Hand #251213799255: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/27 7:28:46 UTC [2024/06/27 3:28:46 ET]
+Table '3771163222 6' 7-max Seat #7 is the button
+Seat 1: BL4CK11 (45242 in chips, $112.50 bounty) 
+Seat 2: jrmac91 (11748 in chips, $81.25 bounty) 
+Seat 3: Alocasia Nebula (32892 in chips, $50 bounty) 
+Seat 5: plsc0meagain (91007 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (48303 in chips, $75 bounty) 
+Seat 7: Paranoik_UK (25808 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 500
+jrmac91: posts the ante 500
+Alocasia Nebula: posts the ante 500
+plsc0meagain: posts the ante 500
+KAnt90909: posts the ante 500
+Paranoik_UK: posts the ante 500
+BL4CK11: posts small blind 1000
+jrmac91: posts big blind 2000
+*** HOLE CARDS ***
+Alocasia Nebula: raises 30392 to 32392 and is all-in
+plsc0meagain: folds 
+KAnt90909: folds 
+Paranoik_UK: folds 
+BL4CK11: folds 
+jrmac91: folds 
+Uncalled bet (30392) returned to Alocasia Nebula
+Alocasia Nebula collected 8000 from pot
+Alocasia Nebula: doesn't show hand 
+*** SUMMARY ***
+Total pot 8000 | Rake 0 
+Seat 1: BL4CK11 (small blind) folded before Flop
+Seat 2: jrmac91 (big blind) folded before Flop
+Seat 3: Alocasia Nebula collected (8000)
+Seat 5: plsc0meagain folded before Flop (didn't bet)
+Seat 6: KAnt90909 folded before Flop (didn't bet)
+Seat 7: Paranoik_UK (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251213800340: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/27 7:29:00 UTC [2024/06/27 3:29:00 ET]
+Table '3771163222 6' 7-max Seat #1 is the button
+Seat 1: BL4CK11 (43742 in chips, $112.50 bounty) 
+Seat 2: jrmac91 (9248 in chips, $81.25 bounty) 
+Seat 3: Alocasia Nebula (38392 in chips, $50 bounty) 
+Seat 5: plsc0meagain (90507 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (47803 in chips, $75 bounty) 
+Seat 7: Paranoik_UK (25308 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 500
+jrmac91: posts the ante 500
+Alocasia Nebula: posts the ante 500
+plsc0meagain: posts the ante 500
+KAnt90909: posts the ante 500
+Paranoik_UK: posts the ante 500
+jrmac91: posts small blind 1000
+Alocasia Nebula: posts big blind 2000
+*** HOLE CARDS ***
+plsc0meagain: folds 
+KAnt90909: raises 2000 to 4000
+Paranoik_UK: folds 
+BL4CK11: folds 
+jrmac91: raises 4748 to 8748 and is all-in
+Alocasia Nebula: folds 
+KAnt90909: calls 4748
+*** FLOP *** [8h 9d 6c]
+*** TURN *** [8h 9d 6c] [Qd]
+*** RIVER *** [8h 9d 6c Qd] [2c]
+*** SHOW DOWN ***
+jrmac91: shows [Jd As] (high card Ace)
+KAnt90909: shows [Js Jc] (a pair of Jacks)
+KAnt90909 collected 22496 from pot
+KAnt90909 wins $40.63 for eliminating jrmac91 and their own bounty increases by $40.62 to $115.62
+jrmac91 finished the tournament in 6th place and received $62.80.
+*** SUMMARY ***
+Total pot 22496 | Rake 0 
+Board [8h 9d 6c Qd 2c]
+Seat 1: BL4CK11 (button) folded before Flop (didn't bet)
+Seat 2: jrmac91 (small blind) showed [Jd As] and lost with high card Ace
+Seat 3: Alocasia Nebula (big blind) folded before Flop
+Seat 5: plsc0meagain folded before Flop (didn't bet)
+Seat 6: KAnt90909 showed [Js Jc] and won (22496) with a pair of Jacks
+Seat 7: Paranoik_UK folded before Flop (didn't bet)
+
+PokerStars Hand #251213802500: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/27 7:29:27 UTC [2024/06/27 3:29:27 ET]
+Table '3771163222 6' 7-max Seat #3 is the button
+Seat 1: BL4CK11 (43242 in chips, $112.50 bounty) 
+Seat 3: Alocasia Nebula (35892 in chips, $50 bounty) 
+Seat 5: plsc0meagain (90007 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (61051 in chips, $115.62 bounty) 
+Seat 7: Paranoik_UK (24808 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 500
+Alocasia Nebula: posts the ante 500
+plsc0meagain: posts the ante 500
+KAnt90909: posts the ante 500
+Paranoik_UK: posts the ante 500
+plsc0meagain: posts small blind 1000
+KAnt90909: posts big blind 2000
+*** HOLE CARDS ***
+Paranoik_UK: folds 
+BL4CK11: folds 
+Alocasia Nebula: folds 
+plsc0meagain: calls 1000
+KAnt90909: checks 
+*** FLOP *** [9s 2s 4s]
+plsc0meagain: checks 
+KAnt90909: checks 
+*** TURN *** [9s 2s 4s] [Qd]
+plsc0meagain: bets 2000
+KAnt90909: calls 2000
+*** RIVER *** [9s 2s 4s Qd] [3d]
+plsc0meagain: checks 
+KAnt90909: checks 
+*** SHOW DOWN ***
+plsc0meagain: shows [8h Jc] (high card Queen)
+KAnt90909: shows [As 2c] (a pair of Deuces)
+KAnt90909 collected 10500 from pot
+*** SUMMARY ***
+Total pot 10500 | Rake 0 
+Board [9s 2s 4s Qd 3d]
+Seat 1: BL4CK11 folded before Flop (didn't bet)
+Seat 3: Alocasia Nebula (button) folded before Flop (didn't bet)
+Seat 5: plsc0meagain (small blind) showed [8h Jc] and lost with high card Queen
+Seat 6: KAnt90909 (big blind) showed [As 2c] and won (10500) with a pair of Deuces
+Seat 7: Paranoik_UK folded before Flop (didn't bet)
+
+PokerStars Hand #251213805787: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/27 7:30:09 UTC [2024/06/27 3:30:09 ET]
+Table '3771163222 6' 7-max Seat #5 is the button
+Seat 1: BL4CK11 (42742 in chips, $112.50 bounty) 
+Seat 3: Alocasia Nebula (35392 in chips, $50 bounty) 
+Seat 5: plsc0meagain (85507 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (67051 in chips, $115.62 bounty) 
+Seat 7: Paranoik_UK (24308 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 500
+Alocasia Nebula: posts the ante 500
+plsc0meagain: posts the ante 500
+KAnt90909: posts the ante 500
+Paranoik_UK: posts the ante 500
+KAnt90909: posts small blind 1000
+Paranoik_UK: posts big blind 2000
+*** HOLE CARDS ***
+BL4CK11: folds 
+Alocasia Nebula: raises 32892 to 34892 and is all-in
+plsc0meagain: folds 
+KAnt90909: calls 33892
+Paranoik_UK: folds 
+*** FLOP *** [9d 4h 4c]
+*** TURN *** [9d 4h 4c] [8c]
+*** RIVER *** [9d 4h 4c 8c] [6d]
+*** SHOW DOWN ***
+KAnt90909: shows [Qs Qd] (two pair, Queens and Fours)
+Alocasia Nebula: shows [Qc Ad] (a pair of Fours)
+KAnt90909 collected 74284 from pot
+KAnt90909 wins $25 for eliminating Alocasia Nebula and their own bounty increases by $25 to $140.62
+Alocasia Nebula finished the tournament in 5th place and received $72.02.
+*** SUMMARY ***
+Total pot 74284 | Rake 0 
+Board [9d 4h 4c 8c 6d]
+Seat 1: BL4CK11 folded before Flop (didn't bet)
+Seat 3: Alocasia Nebula showed [Qc Ad] and lost with a pair of Fours
+Seat 5: plsc0meagain (button) folded before Flop (didn't bet)
+Seat 6: KAnt90909 (small blind) showed [Qs Qd] and won (74284) with two pair, Queens and Fours
+Seat 7: Paranoik_UK (big blind) folded before Flop
+
+PokerStars Hand #251213807538: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/27 7:30:32 UTC [2024/06/27 3:30:32 ET]
+Table '3771163222 6' 7-max Seat #6 is the button
+Seat 1: BL4CK11 (42242 in chips, $112.50 bounty) 
+Seat 5: plsc0meagain (85007 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (105943 in chips, $140.62 bounty) 
+Seat 7: Paranoik_UK (21808 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 500
+plsc0meagain: posts the ante 500
+KAnt90909: posts the ante 500
+Paranoik_UK: posts the ante 500
+Paranoik_UK: posts small blind 1000
+BL4CK11: posts big blind 2000
+*** HOLE CARDS ***
+plsc0meagain: folds 
+KAnt90909: folds 
+Paranoik_UK: folds 
+Uncalled bet (1000) returned to BL4CK11
+BL4CK11 collected 4000 from pot
+BL4CK11: doesn't show hand 
+*** SUMMARY ***
+Total pot 4000 | Rake 0 
+Seat 1: BL4CK11 (big blind) collected (4000)
+Seat 5: plsc0meagain folded before Flop (didn't bet)
+Seat 6: KAnt90909 (button) folded before Flop (didn't bet)
+Seat 7: Paranoik_UK (small blind) folded before Flop
+
+PokerStars Hand #251213809630: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/27 7:30:58 UTC [2024/06/27 3:30:58 ET]
+Table '3771163222 6' 7-max Seat #7 is the button
+Seat 1: BL4CK11 (44742 in chips, $112.50 bounty) 
+Seat 5: plsc0meagain (84507 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (105443 in chips, $140.62 bounty) 
+Seat 7: Paranoik_UK (20308 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 500
+plsc0meagain: posts the ante 500
+KAnt90909: posts the ante 500
+Paranoik_UK: posts the ante 500
+BL4CK11: posts small blind 1000
+plsc0meagain: posts big blind 2000
+*** HOLE CARDS ***
+KAnt90909: folds 
+Paranoik_UK: folds 
+BL4CK11: calls 1000
+plsc0meagain: checks 
+*** FLOP *** [7s Jc 2d]
+BL4CK11: checks 
+plsc0meagain: checks 
+*** TURN *** [7s Jc 2d] [Kd]
+BL4CK11: bets 4600
+plsc0meagain: folds 
+Uncalled bet (4600) returned to BL4CK11
+BL4CK11 collected 6000 from pot
+BL4CK11: doesn't show hand 
+*** SUMMARY ***
+Total pot 6000 | Rake 0 
+Board [7s Jc 2d Kd]
+Seat 1: BL4CK11 (small blind) collected (6000)
+Seat 5: plsc0meagain (big blind) folded on the Turn
+Seat 6: KAnt90909 folded before Flop (didn't bet)
+Seat 7: Paranoik_UK (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251213812923: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVII (1000/2000) - 2024/06/27 7:31:39 UTC [2024/06/27 3:31:39 ET]
+Table '3771163222 6' 7-max Seat #1 is the button
+Seat 1: BL4CK11 (48242 in chips, $112.50 bounty) 
+Seat 5: plsc0meagain (82007 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (104943 in chips, $140.62 bounty) 
+Seat 7: Paranoik_UK (19808 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 500
+plsc0meagain: posts the ante 500
+KAnt90909: posts the ante 500
+Paranoik_UK: posts the ante 500
+plsc0meagain: posts small blind 1000
+KAnt90909: posts big blind 2000
+*** HOLE CARDS ***
+Paranoik_UK: folds 
+BL4CK11: raises 2400 to 4400
+plsc0meagain: folds 
+KAnt90909: folds 
+Uncalled bet (2400) returned to BL4CK11
+BL4CK11 collected 7000 from pot
+BL4CK11: doesn't show hand 
+*** SUMMARY ***
+Total pot 7000 | Rake 0 
+Seat 1: BL4CK11 (button) collected (7000)
+Seat 5: plsc0meagain (small blind) folded before Flop
+Seat 6: KAnt90909 (big blind) folded before Flop
+Seat 7: Paranoik_UK folded before Flop (didn't bet)
+
+PokerStars Hand #251213815135: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/27 7:32:06 UTC [2024/06/27 3:32:06 ET]
+Table '3771163222 6' 7-max Seat #5 is the button
+Seat 1: BL4CK11 (52742 in chips, $112.50 bounty) 
+Seat 5: plsc0meagain (80507 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (102443 in chips, $140.62 bounty) 
+Seat 7: Paranoik_UK (19308 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 600
+plsc0meagain: posts the ante 600
+KAnt90909: posts the ante 600
+Paranoik_UK: posts the ante 600
+KAnt90909: posts small blind 1200
+Paranoik_UK: posts big blind 2400
+*** HOLE CARDS ***
+BL4CK11: folds 
+plsc0meagain: folds 
+KAnt90909: raises 16800 to 19200
+Paranoik_UK: folds 
+Uncalled bet (16800) returned to KAnt90909
+KAnt90909 collected 7200 from pot
+KAnt90909: doesn't show hand 
+*** SUMMARY ***
+Total pot 7200 | Rake 0 
+Seat 1: BL4CK11 folded before Flop (didn't bet)
+Seat 5: plsc0meagain (button) folded before Flop (didn't bet)
+Seat 6: KAnt90909 (small blind) collected (7200)
+Seat 7: Paranoik_UK (big blind) folded before Flop
+
+PokerStars Hand #251213816121: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/27 7:32:19 UTC [2024/06/27 3:32:19 ET]
+Table '3771163222 6' 7-max Seat #6 is the button
+Seat 1: BL4CK11 (52142 in chips, $112.50 bounty) 
+Seat 5: plsc0meagain (79907 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (106643 in chips, $140.62 bounty) 
+Seat 7: Paranoik_UK (16308 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 600
+plsc0meagain: posts the ante 600
+KAnt90909: posts the ante 600
+Paranoik_UK: posts the ante 600
+Paranoik_UK: posts small blind 1200
+BL4CK11: posts big blind 2400
+*** HOLE CARDS ***
+plsc0meagain: folds 
+KAnt90909: raises 2400 to 4800
+Paranoik_UK: raises 10908 to 15708 and is all-in
+BL4CK11: folds 
+KAnt90909: calls 10908
+*** FLOP *** [9s Jd Qs]
+*** TURN *** [9s Jd Qs] [Td]
+*** RIVER *** [9s Jd Qs Td] [Kc]
+*** SHOW DOWN ***
+Paranoik_UK: shows [Kh 7h] (a straight, Nine to King)
+KAnt90909: shows [9h 9d] (a straight, Nine to King)
+Paranoik_UK collected 18108 from pot
+KAnt90909 collected 18108 from pot
+*** SUMMARY ***
+Total pot 36216 | Rake 0 
+Board [9s Jd Qs Td Kc]
+Seat 1: BL4CK11 (big blind) folded before Flop
+Seat 5: plsc0meagain folded before Flop (didn't bet)
+Seat 6: KAnt90909 (button) showed [9h 9d] and won (18108) with a straight, Nine to King
+Seat 7: Paranoik_UK (small blind) showed [Kh 7h] and won (18108) with a straight, Nine to King
+
+PokerStars Hand #251213818519: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/27 7:32:49 UTC [2024/06/27 3:32:49 ET]
+Table '3771163222 6' 7-max Seat #7 is the button
+Seat 1: BL4CK11 (49142 in chips, $112.50 bounty) 
+Seat 5: plsc0meagain (79307 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (108443 in chips, $140.62 bounty) 
+Seat 7: Paranoik_UK (18108 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 600
+plsc0meagain: posts the ante 600
+KAnt90909: posts the ante 600
+Paranoik_UK: posts the ante 600
+BL4CK11: posts small blind 1200
+plsc0meagain: posts big blind 2400
+*** HOLE CARDS ***
+KAnt90909: folds 
+Paranoik_UK: folds 
+BL4CK11: folds 
+Uncalled bet (1200) returned to plsc0meagain
+plsc0meagain collected 4800 from pot
+plsc0meagain: doesn't show hand 
+*** SUMMARY ***
+Total pot 4800 | Rake 0 
+Seat 1: BL4CK11 (small blind) folded before Flop
+Seat 5: plsc0meagain (big blind) collected (4800)
+Seat 6: KAnt90909 folded before Flop (didn't bet)
+Seat 7: Paranoik_UK (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251213819143: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/27 7:32:56 UTC [2024/06/27 3:32:56 ET]
+Table '3771163222 6' 7-max Seat #1 is the button
+Seat 1: BL4CK11 (47342 in chips, $112.50 bounty) 
+Seat 5: plsc0meagain (82307 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (107843 in chips, $140.62 bounty) 
+Seat 7: Paranoik_UK (17508 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 600
+plsc0meagain: posts the ante 600
+KAnt90909: posts the ante 600
+Paranoik_UK: posts the ante 600
+plsc0meagain: posts small blind 1200
+KAnt90909: posts big blind 2400
+*** HOLE CARDS ***
+Paranoik_UK: folds 
+BL4CK11: folds 
+plsc0meagain: folds 
+Uncalled bet (1200) returned to KAnt90909
+KAnt90909 collected 4800 from pot
+KAnt90909: doesn't show hand 
+*** SUMMARY ***
+Total pot 4800 | Rake 0 
+Seat 1: BL4CK11 (button) folded before Flop (didn't bet)
+Seat 5: plsc0meagain (small blind) folded before Flop
+Seat 6: KAnt90909 (big blind) collected (4800)
+Seat 7: Paranoik_UK folded before Flop (didn't bet)
+
+PokerStars Hand #251213819958: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/27 7:33:07 UTC [2024/06/27 3:33:07 ET]
+Table '3771163222 6' 7-max Seat #5 is the button
+Seat 1: BL4CK11 (46742 in chips, $112.50 bounty) 
+Seat 5: plsc0meagain (80507 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (110843 in chips, $140.62 bounty) 
+Seat 7: Paranoik_UK (16908 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 600
+plsc0meagain: posts the ante 600
+KAnt90909: posts the ante 600
+Paranoik_UK: posts the ante 600
+KAnt90909: posts small blind 1200
+Paranoik_UK: posts big blind 2400
+*** HOLE CARDS ***
+BL4CK11: raises 2880 to 5280
+plsc0meagain: folds 
+KAnt90909: folds 
+Paranoik_UK: calls 2880
+*** FLOP *** [Jc 9h Qc]
+Paranoik_UK: checks 
+BL4CK11: bets 2400
+Paranoik_UK: folds 
+Uncalled bet (2400) returned to BL4CK11
+BL4CK11 collected 14160 from pot
+BL4CK11: doesn't show hand 
+*** SUMMARY ***
+Total pot 14160 | Rake 0 
+Board [Jc 9h Qc]
+Seat 1: BL4CK11 collected (14160)
+Seat 5: plsc0meagain (button) folded before Flop (didn't bet)
+Seat 6: KAnt90909 (small blind) folded before Flop
+Seat 7: Paranoik_UK (big blind) folded on the Flop
+
+PokerStars Hand #251213823940: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/27 7:33:56 UTC [2024/06/27 3:33:56 ET]
+Table '3771163222 6' 7-max Seat #6 is the button
+Seat 1: BL4CK11 (55022 in chips, $112.50 bounty) 
+Seat 5: plsc0meagain (79907 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (109043 in chips, $140.62 bounty) 
+Seat 7: Paranoik_UK (11028 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 600
+plsc0meagain: posts the ante 600
+KAnt90909: posts the ante 600
+Paranoik_UK: posts the ante 600
+Paranoik_UK: posts small blind 1200
+BL4CK11: posts big blind 2400
+*** HOLE CARDS ***
+plsc0meagain: folds 
+KAnt90909: folds 
+Paranoik_UK: raises 8028 to 10428 and is all-in
+BL4CK11: calls 8028
+*** FLOP *** [Ad 2h Qc]
+*** TURN *** [Ad 2h Qc] [5c]
+*** RIVER *** [Ad 2h Qc 5c] [Kd]
+*** SHOW DOWN ***
+Paranoik_UK: shows [As 3d] (a pair of Aces)
+BL4CK11: shows [4s 2c] (a pair of Deuces)
+Paranoik_UK collected 23256 from pot
+*** SUMMARY ***
+Total pot 23256 | Rake 0 
+Board [Ad 2h Qc 5c Kd]
+Seat 1: BL4CK11 (big blind) showed [4s 2c] and lost with a pair of Deuces
+Seat 5: plsc0meagain folded before Flop (didn't bet)
+Seat 6: KAnt90909 (button) folded before Flop (didn't bet)
+Seat 7: Paranoik_UK (small blind) showed [As 3d] and won (23256) with a pair of Aces
+
+PokerStars Hand #251213825823: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/27 7:34:20 UTC [2024/06/27 3:34:20 ET]
+Table '3771163222 6' 7-max Seat #7 is the button
+Seat 1: BL4CK11 (43994 in chips, $112.50 bounty) 
+Seat 5: plsc0meagain (79307 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (108443 in chips, $140.62 bounty) 
+Seat 7: Paranoik_UK (23256 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 600
+plsc0meagain: posts the ante 600
+KAnt90909: posts the ante 600
+Paranoik_UK: posts the ante 600
+BL4CK11: posts small blind 1200
+plsc0meagain: posts big blind 2400
+*** HOLE CARDS ***
+KAnt90909: folds 
+Paranoik_UK: raises 20256 to 22656 and is all-in
+BL4CK11: folds 
+plsc0meagain: folds 
+Uncalled bet (20256) returned to Paranoik_UK
+Paranoik_UK collected 8400 from pot
+*** SUMMARY ***
+Total pot 8400 | Rake 0 
+Seat 1: BL4CK11 (small blind) folded before Flop
+Seat 5: plsc0meagain (big blind) folded before Flop
+Seat 6: KAnt90909 folded before Flop (didn't bet)
+Seat 7: Paranoik_UK (button) collected (8400)
+
+PokerStars Hand #251213826662: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XVIII (1200/2400) - 2024/06/27 7:34:30 UTC [2024/06/27 3:34:30 ET]
+Table '3771163222 6' 7-max Seat #1 is the button
+Seat 1: BL4CK11 (42194 in chips, $112.50 bounty) 
+Seat 5: plsc0meagain (76307 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (107843 in chips, $140.62 bounty) 
+Seat 7: Paranoik_UK (28656 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 600
+plsc0meagain: posts the ante 600
+KAnt90909: posts the ante 600
+Paranoik_UK: posts the ante 600
+plsc0meagain: posts small blind 1200
+KAnt90909: posts big blind 2400
+*** HOLE CARDS ***
+Paranoik_UK: folds 
+BL4CK11: raises 39194 to 41594 and is all-in
+plsc0meagain: folds 
+KAnt90909: folds 
+Uncalled bet (39194) returned to BL4CK11
+BL4CK11 collected 8400 from pot
+BL4CK11: doesn't show hand 
+*** SUMMARY ***
+Total pot 8400 | Rake 0 
+Seat 1: BL4CK11 (button) collected (8400)
+Seat 5: plsc0meagain (small blind) folded before Flop
+Seat 6: KAnt90909 (big blind) folded before Flop
+Seat 7: Paranoik_UK folded before Flop (didn't bet)
+
+PokerStars Hand #251213828674: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XIX (1400/2800) - 2024/06/27 7:34:54 UTC [2024/06/27 3:34:54 ET]
+Table '3771163222 6' 7-max Seat #5 is the button
+Seat 1: BL4CK11 (47594 in chips, $112.50 bounty) 
+Seat 5: plsc0meagain (74507 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (104843 in chips, $140.62 bounty) 
+Seat 7: Paranoik_UK (28056 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 700
+plsc0meagain: posts the ante 700
+KAnt90909: posts the ante 700
+Paranoik_UK: posts the ante 700
+KAnt90909: posts small blind 1400
+Paranoik_UK: posts big blind 2800
+*** HOLE CARDS ***
+BL4CK11: folds 
+plsc0meagain: folds 
+KAnt90909: raises 4200 to 7000
+Paranoik_UK: calls 4200
+*** FLOP *** [Jc Ts 3d]
+KAnt90909: bets 97143 and is all-in
+Paranoik_UK: folds 
+Uncalled bet (97143) returned to KAnt90909
+KAnt90909 collected 16800 from pot
+KAnt90909: doesn't show hand 
+*** SUMMARY ***
+Total pot 16800 | Rake 0 
+Board [Jc Ts 3d]
+Seat 1: BL4CK11 folded before Flop (didn't bet)
+Seat 5: plsc0meagain (button) folded before Flop (didn't bet)
+Seat 6: KAnt90909 (small blind) collected (16800)
+Seat 7: Paranoik_UK (big blind) folded on the Flop
+
+PokerStars Hand #251213829988: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XIX (1400/2800) - 2024/06/27 7:35:12 UTC [2024/06/27 3:35:12 ET]
+Table '3771163222 6' 7-max Seat #6 is the button
+Seat 1: BL4CK11 (46894 in chips, $112.50 bounty) 
+Seat 5: plsc0meagain (73807 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (113943 in chips, $140.62 bounty) 
+Seat 7: Paranoik_UK (20356 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 700
+plsc0meagain: posts the ante 700
+KAnt90909: posts the ante 700
+Paranoik_UK: posts the ante 700
+Paranoik_UK: posts small blind 1400
+BL4CK11: posts big blind 2800
+*** HOLE CARDS ***
+plsc0meagain: folds 
+KAnt90909: folds 
+Paranoik_UK: folds 
+Uncalled bet (1400) returned to BL4CK11
+BL4CK11 collected 5600 from pot
+BL4CK11: doesn't show hand 
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Seat 1: BL4CK11 (big blind) collected (5600)
+Seat 5: plsc0meagain folded before Flop (didn't bet)
+Seat 6: KAnt90909 (button) folded before Flop (didn't bet)
+Seat 7: Paranoik_UK (small blind) folded before Flop
+
+PokerStars Hand #251213830878: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XIX (1400/2800) - 2024/06/27 7:35:22 UTC [2024/06/27 3:35:22 ET]
+Table '3771163222 6' 7-max Seat #7 is the button
+Seat 1: BL4CK11 (50394 in chips, $112.50 bounty) 
+Seat 5: plsc0meagain (73107 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (113243 in chips, $140.62 bounty) 
+Seat 7: Paranoik_UK (18256 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 700
+plsc0meagain: posts the ante 700
+KAnt90909: posts the ante 700
+Paranoik_UK: posts the ante 700
+BL4CK11: posts small blind 1400
+plsc0meagain: posts big blind 2800
+*** HOLE CARDS ***
+KAnt90909: raises 2800 to 5600
+Paranoik_UK: folds 
+BL4CK11: folds 
+plsc0meagain: calls 2800
+*** FLOP *** [Qh 8h 9c]
+plsc0meagain: checks 
+KAnt90909: bets 8162
+plsc0meagain: calls 8162
+*** TURN *** [Qh 8h 9c] [Js]
+plsc0meagain: checks 
+KAnt90909: checks 
+*** RIVER *** [Qh 8h 9c Js] [4c]
+plsc0meagain: checks 
+KAnt90909: bets 11200
+plsc0meagain: calls 11200
+*** SHOW DOWN ***
+KAnt90909: shows [Jc Kh] (a pair of Jacks)
+plsc0meagain: mucks hand 
+KAnt90909 collected 54124 from pot
+*** SUMMARY ***
+Total pot 54124 | Rake 0 
+Board [Qh 8h 9c Js 4c]
+Seat 1: BL4CK11 (small blind) folded before Flop
+Seat 5: plsc0meagain (big blind) mucked
+Seat 6: KAnt90909 showed [Jc Kh] and won (54124) with a pair of Jacks
+Seat 7: Paranoik_UK (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251213835142: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XIX (1400/2800) - 2024/06/27 7:36:15 UTC [2024/06/27 3:36:15 ET]
+Table '3771163222 6' 7-max Seat #1 is the button
+Seat 1: BL4CK11 (48294 in chips, $112.50 bounty) 
+Seat 5: plsc0meagain (47445 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (141705 in chips, $140.62 bounty) 
+Seat 7: Paranoik_UK (17556 in chips, $93.75 bounty) 
+BL4CK11: posts the ante 700
+plsc0meagain: posts the ante 700
+KAnt90909: posts the ante 700
+Paranoik_UK: posts the ante 700
+plsc0meagain: posts small blind 1400
+KAnt90909: posts big blind 2800
+*** HOLE CARDS ***
+Paranoik_UK: raises 14056 to 16856 and is all-in
+BL4CK11: raises 30738 to 47594 and is all-in
+plsc0meagain: folds 
+KAnt90909: folds 
+Uncalled bet (30738) returned to BL4CK11
+*** FLOP *** [7d Kd 6h]
+*** TURN *** [7d Kd 6h] [7s]
+*** RIVER *** [7d Kd 6h 7s] [Td]
+*** SHOW DOWN ***
+Paranoik_UK: shows [5h Ah] (a pair of Sevens)
+BL4CK11: shows [Tc Ad] (two pair, Tens and Sevens)
+BL4CK11 collected 40712 from pot
+BL4CK11 wins $46.88 for eliminating Paranoik_UK and their own bounty increases by $46.87 to $159.37
+Paranoik_UK finished the tournament in 4th place and received $116.79.
+*** SUMMARY ***
+Total pot 40712 | Rake 0 
+Board [7d Kd 6h 7s Td]
+Seat 1: BL4CK11 (button) showed [Tc Ad] and won (40712) with two pair, Tens and Sevens
+Seat 5: plsc0meagain (small blind) folded before Flop
+Seat 6: KAnt90909 (big blind) folded before Flop
+Seat 7: Paranoik_UK showed [5h Ah] and lost with a pair of Sevens
+
+PokerStars Hand #251213837113: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XIX (1400/2800) - 2024/06/27 7:36:39 UTC [2024/06/27 3:36:39 ET]
+Table '3771163222 6' 7-max Seat #5 is the button
+Seat 1: BL4CK11 (71450 in chips, $159.37 bounty) 
+Seat 5: plsc0meagain (45345 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (138205 in chips, $140.62 bounty) 
+BL4CK11: posts the ante 700
+plsc0meagain: posts the ante 700
+KAnt90909: posts the ante 700
+KAnt90909: posts small blind 1400
+BL4CK11: posts big blind 2800
+*** HOLE CARDS ***
+plsc0meagain: raises 41845 to 44645 and is all-in
+KAnt90909: folds 
+BL4CK11: folds 
+Uncalled bet (41845) returned to plsc0meagain
+plsc0meagain collected 9100 from pot
+plsc0meagain: doesn't show hand 
+*** SUMMARY ***
+Total pot 9100 | Rake 0 
+Seat 1: BL4CK11 (big blind) folded before Flop
+Seat 5: plsc0meagain (button) collected (9100)
+Seat 6: KAnt90909 (small blind) folded before Flop
+
+PokerStars Hand #251213839242: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XIX (1400/2800) - 2024/06/27 7:37:05 UTC [2024/06/27 3:37:05 ET]
+Table '3771163222 6' 7-max Seat #6 is the button
+Seat 1: BL4CK11 (67950 in chips, $159.37 bounty) 
+Seat 5: plsc0meagain (50945 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (136105 in chips, $140.62 bounty) 
+BL4CK11: posts the ante 700
+plsc0meagain: posts the ante 700
+KAnt90909: posts the ante 700
+BL4CK11: posts small blind 1400
+plsc0meagain: posts big blind 2800
+*** HOLE CARDS ***
+KAnt90909: raises 2800 to 5600
+BL4CK11: folds 
+plsc0meagain: folds 
+Uncalled bet (2800) returned to KAnt90909
+KAnt90909 collected 9100 from pot
+KAnt90909: doesn't show hand 
+*** SUMMARY ***
+Total pot 9100 | Rake 0 
+Seat 1: BL4CK11 (small blind) folded before Flop
+Seat 5: plsc0meagain (big blind) folded before Flop
+Seat 6: KAnt90909 (button) collected (9100)
+
+PokerStars Hand #251213840072: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XIX (1400/2800) - 2024/06/27 7:37:15 UTC [2024/06/27 3:37:15 ET]
+Table '3771163222 6' 7-max Seat #1 is the button
+Seat 1: BL4CK11 (65850 in chips, $159.37 bounty) 
+Seat 5: plsc0meagain (47445 in chips, $178.12 bounty) 
+Seat 6: KAnt90909 (141705 in chips, $140.62 bounty) 
+BL4CK11: posts the ante 700
+plsc0meagain: posts the ante 700
+KAnt90909: posts the ante 700
+plsc0meagain: posts small blind 1400
+KAnt90909: posts big blind 2800
+*** HOLE CARDS ***
+BL4CK11: folds 
+plsc0meagain: calls 1400
+KAnt90909: raises 138205 to 141005 and is all-in
+plsc0meagain: calls 43945 and is all-in
+Uncalled bet (94260) returned to KAnt90909
+*** FLOP *** [2c 9s 6c]
+*** TURN *** [2c 9s 6c] [Td]
+*** RIVER *** [2c 9s 6c Td] [9d]
+*** SHOW DOWN ***
+plsc0meagain: shows [Ah As] (two pair, Aces and Nines)
+KAnt90909: shows [6h 6s] (a full house, Sixes full of Nines)
+KAnt90909 collected 95590 from pot
+KAnt90909 wins $89.06 for eliminating plsc0meagain and their own bounty increases by $89.06 to $229.68
+plsc0meagain finished the tournament in 3rd place and received $189.38.
+*** SUMMARY ***
+Total pot 95590 | Rake 0 
+Board [2c 9s 6c Td 9d]
+Seat 1: BL4CK11 (button) folded before Flop (didn't bet)
+Seat 5: plsc0meagain (small blind) showed [Ah As] and lost with two pair, Aces and Nines
+Seat 6: KAnt90909 (big blind) showed [6h 6s] and won (95590) with a full house, Sixes full of Nines
+
+PokerStars Hand #251213842086: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XIX (1400/2800) - 2024/06/27 7:37:39 UTC [2024/06/27 3:37:39 ET]
+Table '3771163222 6' 7-max Seat #6 is the button
+Seat 1: BL4CK11 (65150 in chips, $159.37 bounty) 
+Seat 6: KAnt90909 (189850 in chips, $229.68 bounty) 
+BL4CK11: posts the ante 700
+KAnt90909: posts the ante 700
+KAnt90909: posts small blind 1400
+BL4CK11: posts big blind 2800
+*** HOLE CARDS ***
+KAnt90909: calls 1400
+BL4CK11: raises 5600 to 8400
+KAnt90909: calls 5600
+*** FLOP *** [Qs 9h 5c]
+BL4CK11: bets 6006
+KAnt90909: calls 6006
+*** TURN *** [Qs 9h 5c] [4c]
+BL4CK11: checks 
+KAnt90909: bets 16800
+BL4CK11: calls 16800
+*** RIVER *** [Qs 9h 5c 4c] [Ac]
+BL4CK11: checks 
+KAnt90909: checks 
+*** SHOW DOWN ***
+BL4CK11: shows [9c Qc] (a flush, Ace high)
+KAnt90909: mucks hand 
+BL4CK11 collected 63812 from pot
+*** SUMMARY ***
+Total pot 63812 | Rake 0 
+Board [Qs 9h 5c 4c Ac]
+Seat 1: BL4CK11 (big blind) showed [9c Qc] and won (63812) with a flush, Ace high
+Seat 6: KAnt90909 (button) (small blind) mucked
+
+PokerStars Hand #251213847238: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XX (1600/3200) - 2024/06/27 7:38:43 UTC [2024/06/27 3:38:43 ET]
+Table '3771163222 6' 7-max Seat #1 is the button
+Seat 1: BL4CK11 (97056 in chips, $159.37 bounty) 
+Seat 6: KAnt90909 (157944 in chips, $229.68 bounty) 
+BL4CK11: posts the ante 800
+KAnt90909: posts the ante 800
+BL4CK11: posts small blind 1600
+KAnt90909: posts big blind 3200
+*** HOLE CARDS ***
+BL4CK11: raises 3200 to 6400
+KAnt90909: calls 3200
+*** FLOP *** [Tc 8h 8s]
+KAnt90909: checks 
+BL4CK11: bets 3200
+KAnt90909: calls 3200
+*** TURN *** [Tc 8h 8s] [5d]
+KAnt90909: checks 
+BL4CK11: checks 
+*** RIVER *** [Tc 8h 8s 5d] [Ad]
+KAnt90909: checks 
+BL4CK11: checks 
+*** SHOW DOWN ***
+KAnt90909: shows [5s Kd] (two pair, Eights and Fives)
+BL4CK11: mucks hand 
+KAnt90909 collected 20800 from pot
+*** SUMMARY ***
+Total pot 20800 | Rake 0 
+Board [Tc 8h 8s 5d Ad]
+Seat 1: BL4CK11 (button) (small blind) mucked
+Seat 6: KAnt90909 (big blind) showed [5s Kd] and won (20800) with two pair, Eights and Fives
+
+PokerStars Hand #251213850040: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XX (1600/3200) - 2024/06/27 7:39:18 UTC [2024/06/27 3:39:18 ET]
+Table '3771163222 6' 7-max Seat #6 is the button
+Seat 1: BL4CK11 (86656 in chips, $159.37 bounty) 
+Seat 6: KAnt90909 (168344 in chips, $229.68 bounty) 
+BL4CK11: posts the ante 800
+KAnt90909: posts the ante 800
+KAnt90909: posts small blind 1600
+BL4CK11: posts big blind 3200
+*** HOLE CARDS ***
+KAnt90909: raises 3200 to 6400
+BL4CK11: calls 3200
+*** FLOP *** [Ts Th 7c]
+BL4CK11: checks 
+KAnt90909: checks 
+*** TURN *** [Ts Th 7c] [2d]
+BL4CK11: checks 
+KAnt90909: checks 
+*** RIVER *** [Ts Th 7c 2d] [Jh]
+BL4CK11: checks 
+KAnt90909: checks 
+*** SHOW DOWN ***
+BL4CK11: shows [Qh 9h] (a pair of Tens)
+KAnt90909: shows [5d Kc] (a pair of Tens - King kicker)
+KAnt90909 collected 14400 from pot
+*** SUMMARY ***
+Total pot 14400 | Rake 0 
+Board [Ts Th 7c 2d Jh]
+Seat 1: BL4CK11 (big blind) showed [Qh 9h] and lost with a pair of Tens
+Seat 6: KAnt90909 (button) (small blind) showed [5d Kc] and won (14400) with a pair of Tens
+
+PokerStars Hand #251213853403: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XX (1600/3200) - 2024/06/27 7:39:59 UTC [2024/06/27 3:39:59 ET]
+Table '3771163222 6' 7-max Seat #1 is the button
+Seat 1: BL4CK11 (79456 in chips, $159.37 bounty) 
+Seat 6: KAnt90909 (175544 in chips, $229.68 bounty) 
+BL4CK11: posts the ante 800
+KAnt90909: posts the ante 800
+BL4CK11: posts small blind 1600
+KAnt90909: posts big blind 3200
+*** HOLE CARDS ***
+BL4CK11: calls 1600
+KAnt90909: raises 9600 to 12800
+BL4CK11: folds 
+Uncalled bet (9600) returned to KAnt90909
+KAnt90909 collected 8000 from pot
+KAnt90909: doesn't show hand 
+*** SUMMARY ***
+Total pot 8000 | Rake 0 
+Seat 1: BL4CK11 (button) (small blind) folded before Flop
+Seat 6: KAnt90909 (big blind) collected (8000)
+
+PokerStars Hand #251213854662: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XX (1600/3200) - 2024/06/27 7:40:15 UTC [2024/06/27 3:40:15 ET]
+Table '3771163222 6' 7-max Seat #6 is the button
+Seat 1: BL4CK11 (75456 in chips, $159.37 bounty) 
+Seat 6: KAnt90909 (179544 in chips, $229.68 bounty) 
+BL4CK11: posts the ante 800
+KAnt90909: posts the ante 800
+KAnt90909: posts small blind 1600
+BL4CK11: posts big blind 3200
+*** HOLE CARDS ***
+KAnt90909: calls 1600
+BL4CK11: checks 
+*** FLOP *** [3h 2s 8d]
+BL4CK11: checks 
+KAnt90909: bets 3200
+BL4CK11: calls 3200
+*** TURN *** [3h 2s 8d] [Kc]
+BL4CK11: checks 
+KAnt90909: bets 8000
+BL4CK11: calls 8000
+*** RIVER *** [3h 2s 8d Kc] [Ts]
+BL4CK11: checks 
+KAnt90909: checks 
+*** SHOW DOWN ***
+BL4CK11: shows [6h 2d] (a pair of Deuces)
+KAnt90909: mucks hand 
+BL4CK11 collected 30400 from pot
+*** SUMMARY ***
+Total pot 30400 | Rake 0 
+Board [3h 2s 8d Kc Ts]
+Seat 1: BL4CK11 (big blind) showed [6h 2d] and won (30400) with a pair of Deuces
+Seat 6: KAnt90909 (button) (small blind) mucked
+
+PokerStars Hand #251213860289: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XXI (1800/3600) - 2024/06/27 7:41:25 UTC [2024/06/27 3:41:25 ET]
+Table '3771163222 6' 7-max Seat #1 is the button
+Seat 1: BL4CK11 (90656 in chips, $159.37 bounty) 
+Seat 6: KAnt90909 (164344 in chips, $229.68 bounty) 
+BL4CK11: posts the ante 900
+KAnt90909: posts the ante 900
+BL4CK11: posts small blind 1800
+KAnt90909: posts big blind 3600
+*** HOLE CARDS ***
+BL4CK11: calls 1800
+KAnt90909: raises 7200 to 10800
+BL4CK11: folds 
+Uncalled bet (7200) returned to KAnt90909
+KAnt90909 collected 9000 from pot
+KAnt90909: doesn't show hand 
+*** SUMMARY ***
+Total pot 9000 | Rake 0 
+Seat 1: BL4CK11 (button) (small blind) folded before Flop
+Seat 6: KAnt90909 (big blind) collected (9000)
+
+PokerStars Hand #251213861504: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XXI (1800/3600) - 2024/06/27 7:41:41 UTC [2024/06/27 3:41:41 ET]
+Table '3771163222 6' 7-max Seat #6 is the button
+Seat 1: BL4CK11 (86156 in chips, $159.37 bounty) 
+Seat 6: KAnt90909 (168844 in chips, $229.68 bounty) 
+BL4CK11: posts the ante 900
+KAnt90909: posts the ante 900
+KAnt90909: posts small blind 1800
+BL4CK11: posts big blind 3600
+*** HOLE CARDS ***
+KAnt90909: raises 3600 to 7200
+BL4CK11: raises 78056 to 85256 and is all-in
+KAnt90909: folds 
+Uncalled bet (78056) returned to BL4CK11
+BL4CK11 collected 16200 from pot
+BL4CK11: doesn't show hand 
+*** SUMMARY ***
+Total pot 16200 | Rake 0 
+Seat 1: BL4CK11 (big blind) collected (16200)
+Seat 6: KAnt90909 (button) (small blind) folded before Flop
+
+PokerStars Hand #251213862545: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XXI (1800/3600) - 2024/06/27 7:41:54 UTC [2024/06/27 3:41:54 ET]
+Table '3771163222 6' 7-max Seat #1 is the button
+Seat 1: BL4CK11 (94256 in chips, $159.37 bounty) 
+Seat 6: KAnt90909 (160744 in chips, $229.68 bounty) 
+BL4CK11: posts the ante 900
+KAnt90909: posts the ante 900
+BL4CK11: posts small blind 1800
+KAnt90909: posts big blind 3600
+*** HOLE CARDS ***
+BL4CK11: calls 1800
+KAnt90909: checks 
+*** FLOP *** [2s Tc 4h]
+KAnt90909: checks 
+BL4CK11: bets 3600
+KAnt90909: calls 3600
+*** TURN *** [2s Tc 4h] [5c]
+KAnt90909: checks 
+BL4CK11: bets 16200
+KAnt90909: calls 16200
+*** RIVER *** [2s Tc 4h 5c] [Qc]
+KAnt90909: checks 
+BL4CK11: checks 
+*** SHOW DOWN ***
+KAnt90909: shows [3c 2h] (a pair of Deuces)
+BL4CK11: shows [8d Td] (a pair of Tens)
+BL4CK11 collected 48600 from pot
+*** SUMMARY ***
+Total pot 48600 | Rake 0 
+Board [2s Tc 4h 5c Qc]
+Seat 1: BL4CK11 (button) (small blind) showed [8d Td] and won (48600) with a pair of Tens
+Seat 6: KAnt90909 (big blind) showed [3c 2h] and lost with a pair of Deuces
+
+PokerStars Hand #251213865088: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XXI (1800/3600) - 2024/06/27 7:42:24 UTC [2024/06/27 3:42:24 ET]
+Table '3771163222 6' 7-max Seat #6 is the button
+Seat 1: BL4CK11 (118556 in chips, $159.37 bounty) 
+Seat 6: KAnt90909 (136444 in chips, $229.68 bounty) 
+BL4CK11: posts the ante 900
+KAnt90909: posts the ante 900
+KAnt90909: posts small blind 1800
+BL4CK11: posts big blind 3600
+*** HOLE CARDS ***
+KAnt90909: raises 3600 to 7200
+BL4CK11: folds 
+Uncalled bet (3600) returned to KAnt90909
+KAnt90909 collected 9000 from pot
+KAnt90909: doesn't show hand 
+*** SUMMARY ***
+Total pot 9000 | Rake 0 
+Seat 1: BL4CK11 (big blind) folded before Flop
+Seat 6: KAnt90909 (button) (small blind) collected (9000)
+
+PokerStars Hand #251213866458: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XXI (1800/3600) - 2024/06/27 7:42:42 UTC [2024/06/27 3:42:42 ET]
+Table '3771163222 6' 7-max Seat #1 is the button
+Seat 1: BL4CK11 (114056 in chips, $159.37 bounty) 
+Seat 6: KAnt90909 (140944 in chips, $229.68 bounty) 
+BL4CK11: posts the ante 900
+KAnt90909: posts the ante 900
+BL4CK11: posts small blind 1800
+KAnt90909: posts big blind 3600
+*** HOLE CARDS ***
+BL4CK11: calls 1800
+KAnt90909: raises 10800 to 14400
+BL4CK11: calls 10800
+*** FLOP *** [5h 5c Ac]
+KAnt90909: bets 8640
+BL4CK11: folds 
+Uncalled bet (8640) returned to KAnt90909
+KAnt90909 collected 30600 from pot
+KAnt90909: doesn't show hand 
+*** SUMMARY ***
+Total pot 30600 | Rake 0 
+Board [5h 5c Ac]
+Seat 1: BL4CK11 (button) (small blind) folded on the Flop
+Seat 6: KAnt90909 (big blind) collected (30600)
+
+PokerStars Hand #251213869152: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XXI (1800/3600) - 2024/06/27 7:43:14 UTC [2024/06/27 3:43:14 ET]
+Table '3771163222 6' 7-max Seat #6 is the button
+Seat 1: BL4CK11 (98756 in chips, $159.37 bounty) 
+Seat 6: KAnt90909 (156244 in chips, $229.68 bounty) 
+BL4CK11: posts the ante 900
+KAnt90909: posts the ante 900
+KAnt90909: posts small blind 1800
+BL4CK11: posts big blind 3600
+*** HOLE CARDS ***
+KAnt90909: calls 1800
+BL4CK11: checks 
+*** FLOP *** [4h Js 8s]
+BL4CK11: checks 
+KAnt90909: bets 3600
+BL4CK11: calls 3600
+*** TURN *** [4h Js 8s] [As]
+BL4CK11: checks 
+KAnt90909: checks 
+*** RIVER *** [4h Js 8s As] [Jc]
+BL4CK11: checks 
+KAnt90909: checks 
+*** SHOW DOWN ***
+BL4CK11: shows [6s Kd] (a pair of Jacks)
+KAnt90909: shows [4d Qs] (two pair, Jacks and Fours)
+KAnt90909 collected 16200 from pot
+*** SUMMARY ***
+Total pot 16200 | Rake 0 
+Board [4h Js 8s As Jc]
+Seat 1: BL4CK11 (big blind) showed [6s Kd] and lost with a pair of Jacks
+Seat 6: KAnt90909 (button) (small blind) showed [4d Qs] and won (16200) with two pair, Jacks and Fours
+
+PokerStars Hand #251213872222: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XXII (2000/4000) - 2024/06/27 7:43:53 UTC [2024/06/27 3:43:53 ET]
+Table '3771163222 6' 7-max Seat #1 is the button
+Seat 1: BL4CK11 (90656 in chips, $159.37 bounty) 
+Seat 6: KAnt90909 (164344 in chips, $229.68 bounty) 
+BL4CK11: posts the ante 1000
+KAnt90909: posts the ante 1000
+BL4CK11: posts small blind 2000
+KAnt90909: posts big blind 4000
+*** HOLE CARDS ***
+BL4CK11: calls 2000
+KAnt90909: checks 
+*** FLOP *** [8h 9h 5h]
+KAnt90909: checks 
+BL4CK11: checks 
+*** TURN *** [8h 9h 5h] [Qd]
+KAnt90909: checks 
+BL4CK11: checks 
+*** RIVER *** [8h 9h 5h Qd] [3s]
+KAnt90909: bets 4000
+BL4CK11: calls 4000
+*** SHOW DOWN ***
+KAnt90909: shows [8s Kc] (a pair of Eights)
+BL4CK11: mucks hand 
+KAnt90909 collected 18000 from pot
+*** SUMMARY ***
+Total pot 18000 | Rake 0 
+Board [8h 9h 5h Qd 3s]
+Seat 1: BL4CK11 (button) (small blind) mucked
+Seat 6: KAnt90909 (big blind) showed [8s Kc] and won (18000) with a pair of Eights
+
+PokerStars Hand #251213875754: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XXII (2000/4000) - 2024/06/27 7:44:35 UTC [2024/06/27 3:44:35 ET]
+Table '3771163222 6' 7-max Seat #6 is the button
+Seat 1: BL4CK11 (81656 in chips, $159.37 bounty) 
+Seat 6: KAnt90909 (173344 in chips, $229.68 bounty) 
+BL4CK11: posts the ante 1000
+KAnt90909: posts the ante 1000
+KAnt90909: posts small blind 2000
+BL4CK11: posts big blind 4000
+*** HOLE CARDS ***
+KAnt90909: raises 8000 to 12000
+BL4CK11: calls 8000
+*** FLOP *** [2h 2s 9c]
+BL4CK11: checks 
+KAnt90909: bets 5980
+BL4CK11: calls 5980
+*** TURN *** [2h 2s 9c] [As]
+BL4CK11: checks 
+KAnt90909: checks 
+*** RIVER *** [2h 2s 9c As] [5c]
+BL4CK11: checks 
+KAnt90909: checks 
+*** SHOW DOWN ***
+BL4CK11: shows [Js Qc] (a pair of Deuces)
+KAnt90909: shows [4h 4d] (two pair, Fours and Deuces)
+KAnt90909 collected 37960 from pot
+*** SUMMARY ***
+Total pot 37960 | Rake 0 
+Board [2h 2s 9c As 5c]
+Seat 1: BL4CK11 (big blind) showed [Js Qc] and lost with a pair of Deuces
+Seat 6: KAnt90909 (button) (small blind) showed [4h 4d] and won (37960) with two pair, Fours and Deuces
+
+PokerStars Hand #251213879745: Tournament #3771163222, $27.38+$25.00+$2.62 USD Hold'em No Limit - Level XXII (2000/4000) - 2024/06/27 7:45:25 UTC [2024/06/27 3:45:25 ET]
+Table '3771163222 6' 7-max Seat #1 is the button
+Seat 1: BL4CK11 (62676 in chips, $159.37 bounty) 
+Seat 6: KAnt90909 (192324 in chips, $229.68 bounty) 
+BL4CK11: posts the ante 1000
+KAnt90909: posts the ante 1000
+BL4CK11: posts small blind 2000
+KAnt90909: posts big blind 4000
+*** HOLE CARDS ***
+BL4CK11: raises 57676 to 61676 and is all-in
+KAnt90909: calls 57676
+*** FLOP *** [3s 2h 7c]
+*** TURN *** [3s 2h 7c] [3h]
+*** RIVER *** [3s 2h 7c 3h] [Qd]
+*** SHOW DOWN ***
+KAnt90909: shows [Kc Kh] (two pair, Kings and Threes)
+BL4CK11: shows [2s Ah] (two pair, Threes and Deuces)
+KAnt90909 collected 125352 from pot
+KAnt90909 wins $79.69 for eliminating BL4CK11 and their own bounty increases by $79.68 to $309.36
+BL4CK11 finished the tournament in 2nd place and received $402.55.
+KAnt90909 wins the tournament and receives $402.58 - congratulations!
+*** SUMMARY ***
+Total pot 125352 | Rake 0 
+Board [3s 2h 7c 3h Qd]
+Seat 1: BL4CK11 (button) (small blind) showed [2s Ah] and lost with two pair, Threes and Deuces
+Seat 6: KAnt90909 (big blind) showed [Kc Kh] and won (125352) with two pair, Kings and Threes

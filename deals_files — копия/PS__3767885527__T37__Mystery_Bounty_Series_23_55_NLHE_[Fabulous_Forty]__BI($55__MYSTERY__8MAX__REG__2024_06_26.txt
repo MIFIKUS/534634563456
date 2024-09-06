@@ -1,0 +1,2458 @@
+PokerStars Hand #251205060848: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level VIII (350/700) - 2024/06/26 18:30:34 UTC [2024/06/26 14:30:34 ET]
+Table '3767885527 37' 8-max Seat #7 is the button
+Seat 1: Katwoman0106 (25000 in chips) 
+Seat 2: fAArid88 (15471 in chips) 
+Seat 3: Sully1993_11 (20248 in chips) 
+Seat 4: nahumdj (36537 in chips) 
+Seat 5: johnyguedes1 (71457 in chips) 
+Seat 6: yuzoyai (10651 in chips) 
+Seat 7: junior_re612 (44625 in chips) 
+Seat 8: epo9 (33020 in chips) 
+Katwoman0106: posts the ante 90
+fAArid88: posts the ante 90
+Sully1993_11: posts the ante 90
+nahumdj: posts the ante 90
+johnyguedes1: posts the ante 90
+yuzoyai: posts the ante 90
+junior_re612: posts the ante 90
+epo9: posts the ante 90
+epo9: posts small blind 350
+Katwoman0106: posts big blind 700
+*** HOLE CARDS ***
+fAArid88: folds 
+Sully1993_11: calls 700
+nahumdj: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: raises 1750 to 2450
+epo9: folds 
+Katwoman0106: calls 1750
+Sully1993_11: calls 1750
+*** FLOP *** [3c 5c Ks]
+Katwoman0106: checks 
+Sully1993_11: checks 
+junior_re612: bets 2772
+Katwoman0106: folds 
+Sully1993_11: folds 
+Uncalled bet (2772) returned to junior_re612
+junior_re612 collected 8420 from pot
+junior_re612: doesn't show hand 
+*** SUMMARY ***
+Total pot 8420 | Rake 0 
+Board [3c 5c Ks]
+Seat 1: Katwoman0106 (big blind) folded on the Flop
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: Sully1993_11 folded on the Flop
+Seat 4: nahumdj folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 (button) collected (8420)
+Seat 8: epo9 (small blind) folded before Flop
+
+PokerStars Hand #251205079554: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level VIII (350/700) - 2024/06/26 18:31:47 UTC [2024/06/26 14:31:47 ET]
+Table '3767885527 37' 8-max Seat #8 is the button
+Seat 1: Katwoman0106 (22460 in chips) 
+Seat 2: fAArid88 (15381 in chips) 
+Seat 3: Sully1993_11 (17708 in chips) 
+Seat 4: nahumdj (36447 in chips) 
+Seat 5: johnyguedes1 (71367 in chips) 
+Seat 6: yuzoyai (10561 in chips) 
+Seat 7: junior_re612 (50505 in chips) 
+Seat 8: epo9 (32580 in chips) 
+Katwoman0106: posts the ante 90
+fAArid88: posts the ante 90
+Sully1993_11: posts the ante 90
+nahumdj: posts the ante 90
+johnyguedes1: posts the ante 90
+yuzoyai: posts the ante 90
+junior_re612: posts the ante 90
+epo9: posts the ante 90
+Katwoman0106: posts small blind 350
+fAArid88: posts big blind 700
+*** HOLE CARDS ***
+Sully1993_11: folds 
+nahumdj: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: raises 700 to 1400
+epo9: folds 
+Katwoman0106: folds 
+fAArid88: folds 
+Uncalled bet (700) returned to junior_re612
+junior_re612 collected 2470 from pot
+junior_re612: doesn't show hand 
+*** SUMMARY ***
+Total pot 2470 | Rake 0 
+Seat 1: Katwoman0106 (small blind) folded before Flop
+Seat 2: fAArid88 (big blind) folded before Flop
+Seat 3: Sully1993_11 folded before Flop (didn't bet)
+Seat 4: nahumdj folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 collected (2470)
+Seat 8: epo9 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205088586: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:32:23 UTC [2024/06/26 14:32:23 ET]
+Table '3767885527 37' 8-max Seat #1 is the button
+Seat 1: Katwoman0106 (22020 in chips) 
+Seat 2: fAArid88 (14591 in chips) 
+Seat 3: Sully1993_11 (17618 in chips) 
+Seat 4: nahumdj (36357 in chips) 
+Seat 5: johnyguedes1 (71277 in chips) 
+Seat 6: yuzoyai (10471 in chips) 
+Seat 7: junior_re612 (52185 in chips) 
+Seat 8: epo9 (32490 in chips) 
+Katwoman0106: posts the ante 100
+fAArid88: posts the ante 100
+Sully1993_11: posts the ante 100
+nahumdj: posts the ante 100
+johnyguedes1: posts the ante 100
+yuzoyai: posts the ante 100
+junior_re612: posts the ante 100
+epo9: posts the ante 100
+fAArid88: posts small blind 400
+Sully1993_11: posts big blind 800
+*** HOLE CARDS ***
+nahumdj: folds 
+johnyguedes1: raises 880 to 1680
+yuzoyai: folds 
+junior_re612: folds 
+epo9: folds 
+Katwoman0106: calls 1680
+fAArid88: folds 
+Sully1993_11: folds 
+*** FLOP *** [Ad Ah 9s]
+johnyguedes1: checks 
+Katwoman0106: checks 
+*** TURN *** [Ad Ah 9s] [6h]
+johnyguedes1: bets 4449
+Katwoman0106: folds 
+Uncalled bet (4449) returned to johnyguedes1
+johnyguedes1 collected 5360 from pot
+johnyguedes1: doesn't show hand 
+*** SUMMARY ***
+Total pot 5360 | Rake 0 
+Board [Ad Ah 9s 6h]
+Seat 1: Katwoman0106 (button) folded on the Turn
+Seat 2: fAArid88 (small blind) folded before Flop
+Seat 3: Sully1993_11 (big blind) folded before Flop
+Seat 4: nahumdj folded before Flop (didn't bet)
+Seat 5: johnyguedes1 collected (5360)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: epo9 folded before Flop (didn't bet)
+
+PokerStars Hand #251205104056: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:33:23 UTC [2024/06/26 14:33:23 ET]
+Table '3767885527 37' 8-max Seat #2 is the button
+Seat 1: Katwoman0106 (20240 in chips) 
+Seat 2: fAArid88 (14091 in chips) 
+Seat 3: Sully1993_11 (16718 in chips) 
+Seat 4: nahumdj (36257 in chips) 
+Seat 5: johnyguedes1 (74857 in chips) 
+Seat 6: yuzoyai (10371 in chips) 
+Seat 7: junior_re612 (52085 in chips) 
+Seat 8: epo9 (32390 in chips) 
+Katwoman0106: posts the ante 100
+fAArid88: posts the ante 100
+Sully1993_11: posts the ante 100
+nahumdj: posts the ante 100
+johnyguedes1: posts the ante 100
+yuzoyai: posts the ante 100
+junior_re612: posts the ante 100
+epo9: posts the ante 100
+Sully1993_11: posts small blind 400
+nahumdj: posts big blind 800
+*** HOLE CARDS ***
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+epo9: raises 800 to 1600
+Katwoman0106: folds 
+fAArid88: folds 
+Sully1993_11: calls 1200
+nahumdj: calls 800
+*** FLOP *** [Kc Ad 8d]
+Sully1993_11: bets 2800
+nahumdj: calls 2800
+epo9: calls 2800
+*** TURN *** [Kc Ad 8d] [Ks]
+Sully1993_11: checks 
+nahumdj: checks 
+epo9: bets 4000
+Sully1993_11: calls 4000
+nahumdj: folds 
+*** RIVER *** [Kc Ad 8d Ks] [4h]
+Sully1993_11: checks 
+epo9: checks 
+*** SHOW DOWN ***
+Sully1993_11: shows [Qh Ah] (two pair, Aces and Kings)
+epo9: mucks hand 
+Sully1993_11 collected 22000 from pot
+*** SUMMARY ***
+Total pot 22000 | Rake 0 
+Board [Kc Ad 8d Ks 4h]
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 (button) folded before Flop (didn't bet)
+Seat 3: Sully1993_11 (small blind) showed [Qh Ah] and won (22000) with two pair, Aces and Kings
+Seat 4: nahumdj (big blind) folded on the Turn
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: epo9 mucked
+
+PokerStars Hand #251205120323: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:34:27 UTC [2024/06/26 14:34:27 ET]
+Table '3767885527 37' 8-max Seat #3 is the button
+Seat 1: Katwoman0106 (20140 in chips) 
+Seat 2: fAArid88 (13991 in chips) 
+Seat 3: Sully1993_11 (30218 in chips) 
+Seat 4: nahumdj (31757 in chips) 
+Seat 5: johnyguedes1 (74757 in chips) 
+Seat 6: yuzoyai (10271 in chips) 
+Seat 7: junior_re612 (51985 in chips) 
+Seat 8: epo9 (23890 in chips) 
+Katwoman0106: posts the ante 100
+fAArid88: posts the ante 100
+Sully1993_11: posts the ante 100
+nahumdj: posts the ante 100
+johnyguedes1: posts the ante 100
+yuzoyai: posts the ante 100
+junior_re612: posts the ante 100
+epo9: posts the ante 100
+nahumdj: posts small blind 400
+johnyguedes1: posts big blind 800
+*** HOLE CARDS ***
+yuzoyai: folds 
+junior_re612: folds 
+epo9: folds 
+Katwoman0106: folds 
+fAArid88: folds 
+Sully1993_11: folds 
+nahumdj: folds 
+Uncalled bet (400) returned to johnyguedes1
+johnyguedes1 collected 1600 from pot
+johnyguedes1: doesn't show hand 
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: Sully1993_11 (button) folded before Flop (didn't bet)
+Seat 4: nahumdj (small blind) folded before Flop
+Seat 5: johnyguedes1 (big blind) collected (1600)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: epo9 folded before Flop (didn't bet)
+
+PokerStars Hand #251205130850: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:35:08 UTC [2024/06/26 14:35:08 ET]
+Table '3767885527 37' 8-max Seat #4 is the button
+Seat 1: Katwoman0106 (20040 in chips) 
+Seat 2: fAArid88 (13891 in chips) 
+Seat 3: Sully1993_11 (30118 in chips) 
+Seat 4: nahumdj (31257 in chips) 
+Seat 5: johnyguedes1 (75857 in chips) 
+Seat 6: yuzoyai (10171 in chips) 
+Seat 7: junior_re612 (51885 in chips) 
+Seat 8: epo9 (23790 in chips) 
+Katwoman0106: posts the ante 100
+fAArid88: posts the ante 100
+Sully1993_11: posts the ante 100
+nahumdj: posts the ante 100
+johnyguedes1: posts the ante 100
+yuzoyai: posts the ante 100
+junior_re612: posts the ante 100
+epo9: posts the ante 100
+johnyguedes1: posts small blind 400
+yuzoyai: posts big blind 800
+*** HOLE CARDS ***
+junior_re612: folds 
+epo9: folds 
+Katwoman0106: folds 
+fAArid88: folds 
+Sully1993_11: calls 800
+nahumdj: folds 
+johnyguedes1: raises 2400 to 3200
+yuzoyai: raises 6871 to 10071 and is all-in
+Sully1993_11: folds 
+johnyguedes1: calls 6871
+*** FLOP *** [7h 2c Qs]
+*** TURN *** [7h 2c Qs] [5h]
+*** RIVER *** [7h 2c Qs 5h] [5c]
+*** SHOW DOWN ***
+johnyguedes1: shows [Tc Jc] (a pair of Fives)
+yuzoyai: shows [Ah Qh] (two pair, Queens and Fives)
+yuzoyai collected 21742 from pot
+*** SUMMARY ***
+Total pot 21742 | Rake 0 
+Board [7h 2c Qs 5h 5c]
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: Sully1993_11 folded before Flop
+Seat 4: nahumdj (button) folded before Flop (didn't bet)
+Seat 5: johnyguedes1 (small blind) showed [Tc Jc] and lost with a pair of Fives
+Seat 6: yuzoyai (big blind) showed [Ah Qh] and won (21742) with two pair, Queens and Fives
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: epo9 folded before Flop (didn't bet)
+
+PokerStars Hand #251205149407: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:36:21 UTC [2024/06/26 14:36:21 ET]
+Table '3767885527 37' 8-max Seat #5 is the button
+Seat 1: Katwoman0106 (19940 in chips) 
+Seat 2: fAArid88 (13791 in chips) 
+Seat 3: Sully1993_11 (29218 in chips) 
+Seat 4: nahumdj (31157 in chips) 
+Seat 5: johnyguedes1 (65686 in chips) 
+Seat 6: yuzoyai (21742 in chips) 
+Seat 7: junior_re612 (51785 in chips) 
+Seat 8: epo9 (23690 in chips) 
+Katwoman0106: posts the ante 100
+fAArid88: posts the ante 100
+Sully1993_11: posts the ante 100
+nahumdj: posts the ante 100
+johnyguedes1: posts the ante 100
+yuzoyai: posts the ante 100
+junior_re612: posts the ante 100
+epo9: posts the ante 100
+yuzoyai: posts small blind 400
+junior_re612: posts big blind 800
+*** HOLE CARDS ***
+epo9: folds 
+Katwoman0106: folds 
+fAArid88: folds 
+Sully1993_11: raises 1600 to 2400
+nahumdj: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+Uncalled bet (1600) returned to Sully1993_11
+Sully1993_11 collected 2800 from pot
+Sully1993_11: doesn't show hand 
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: Sully1993_11 collected (2800)
+Seat 4: nahumdj folded before Flop (didn't bet)
+Seat 5: johnyguedes1 (button) folded before Flop (didn't bet)
+Seat 6: yuzoyai (small blind) folded before Flop
+Seat 7: junior_re612 (big blind) folded before Flop
+Seat 8: epo9 folded before Flop (didn't bet)
+
+PokerStars Hand #251205158420: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:36:56 UTC [2024/06/26 14:36:56 ET]
+Table '3767885527 37' 8-max Seat #6 is the button
+Seat 1: Katwoman0106 (19840 in chips) 
+Seat 2: fAArid88 (13691 in chips) 
+Seat 3: Sully1993_11 (31118 in chips) 
+Seat 4: nahumdj (31057 in chips) 
+Seat 5: johnyguedes1 (65586 in chips) 
+Seat 6: yuzoyai (21242 in chips) 
+Seat 7: junior_re612 (50885 in chips) 
+Seat 8: epo9 (23590 in chips) 
+Katwoman0106: posts the ante 100
+fAArid88: posts the ante 100
+Sully1993_11: posts the ante 100
+nahumdj: posts the ante 100
+johnyguedes1: posts the ante 100
+yuzoyai: posts the ante 100
+junior_re612: posts the ante 100
+epo9: posts the ante 100
+junior_re612: posts small blind 400
+epo9: posts big blind 800
+*** HOLE CARDS ***
+Katwoman0106: raises 800 to 1600
+fAArid88: folds 
+Sully1993_11: folds 
+nahumdj: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: calls 1200
+epo9: calls 800
+*** FLOP *** [8s 3h Th]
+junior_re612: checks 
+epo9: bets 2400
+Katwoman0106: calls 2400
+junior_re612: folds 
+*** TURN *** [8s 3h Th] [4c]
+epo9: bets 7200
+Katwoman0106: raises 8540 to 15740 and is all-in
+epo9: calls 8540
+*** RIVER *** [8s 3h Th 4c] [Ad]
+*** SHOW DOWN ***
+epo9: shows [9h Kh] (high card Ace)
+Katwoman0106: shows [Td Kd] (a pair of Tens)
+Katwoman0106 collected 41880 from pot
+*** SUMMARY ***
+Total pot 41880 | Rake 0 
+Board [8s 3h Th 4c Ad]
+Seat 1: Katwoman0106 showed [Td Kd] and won (41880) with a pair of Tens
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: Sully1993_11 folded before Flop (didn't bet)
+Seat 4: nahumdj folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai (button) folded before Flop (didn't bet)
+Seat 7: junior_re612 (small blind) folded on the Flop
+Seat 8: epo9 (big blind) showed [9h Kh] and lost with high card Ace
+
+PokerStars Hand #251205177548: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:38:09 UTC [2024/06/26 14:38:09 ET]
+Table '3767885527 37' 8-max Seat #7 is the button
+Seat 1: Katwoman0106 (41880 in chips) 
+Seat 2: fAArid88 (13591 in chips) 
+Seat 3: Sully1993_11 (31018 in chips) 
+Seat 4: nahumdj (30957 in chips) 
+Seat 5: johnyguedes1 (65486 in chips) 
+Seat 6: yuzoyai (21142 in chips) 
+Seat 7: junior_re612 (49185 in chips) 
+Seat 8: epo9 (3750 in chips) 
+Katwoman0106: posts the ante 100
+fAArid88: posts the ante 100
+Sully1993_11: posts the ante 100
+nahumdj: posts the ante 100
+johnyguedes1: posts the ante 100
+yuzoyai: posts the ante 100
+junior_re612: posts the ante 100
+epo9: posts the ante 100
+epo9: posts small blind 400
+Katwoman0106: posts big blind 800
+*** HOLE CARDS ***
+fAArid88: folds 
+Sully1993_11: calls 800
+nahumdj: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+epo9: calls 400
+Katwoman0106: checks 
+*** FLOP *** [3s 6d Jd]
+epo9: checks 
+Katwoman0106: checks 
+Sully1993_11: checks 
+*** TURN *** [3s 6d Jd] [Qc]
+epo9: bets 2850 and is all-in
+Katwoman0106: folds 
+Sully1993_11: folds 
+Uncalled bet (2850) returned to epo9
+epo9 collected 3200 from pot
+*** SUMMARY ***
+Total pot 3200 | Rake 0 
+Board [3s 6d Jd Qc]
+Seat 1: Katwoman0106 (big blind) folded on the Turn
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: Sully1993_11 folded on the Turn
+Seat 4: nahumdj folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 (button) folded before Flop (didn't bet)
+Seat 8: epo9 (small blind) collected (3200)
+
+PokerStars Hand #251205191801: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:39:05 UTC [2024/06/26 14:39:05 ET]
+Table '3767885527 37' 8-max Seat #8 is the button
+Seat 1: Katwoman0106 (40980 in chips) 
+Seat 2: fAArid88 (13491 in chips) 
+Seat 3: Sully1993_11 (30118 in chips) 
+Seat 4: nahumdj (30857 in chips) 
+Seat 5: johnyguedes1 (65386 in chips) 
+Seat 6: yuzoyai (21042 in chips) 
+Seat 7: junior_re612 (49085 in chips) 
+Seat 8: epo9 (6050 in chips) 
+Katwoman0106: posts the ante 100
+fAArid88: posts the ante 100
+Sully1993_11: posts the ante 100
+nahumdj: posts the ante 100
+johnyguedes1: posts the ante 100
+yuzoyai: posts the ante 100
+junior_re612: posts the ante 100
+epo9: posts the ante 100
+Katwoman0106: posts small blind 400
+fAArid88: posts big blind 800
+*** HOLE CARDS ***
+Sully1993_11: folds 
+nahumdj: raises 800 to 1600
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+epo9: folds 
+Katwoman0106: folds 
+fAArid88: raises 11791 to 13391 and is all-in
+nahumdj: calls 11791
+*** FLOP *** [4h Kc 2c]
+*** TURN *** [4h Kc 2c] [4c]
+*** RIVER *** [4h Kc 2c 4c] [8c]
+*** SHOW DOWN ***
+fAArid88: shows [Tc Ts] (a flush, King high)
+nahumdj: shows [9s 9d] (two pair, Nines and Fours)
+fAArid88 collected 27982 from pot
+*** SUMMARY ***
+Total pot 27982 | Rake 0 
+Board [4h Kc 2c 4c 8c]
+Seat 1: Katwoman0106 (small blind) folded before Flop
+Seat 2: fAArid88 (big blind) showed [Tc Ts] and won (27982) with a flush, King high
+Seat 3: Sully1993_11 folded before Flop (didn't bet)
+Seat 4: nahumdj showed [9s 9d] and lost with two pair, Nines and Fours
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: epo9 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205202869: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:39:48 UTC [2024/06/26 14:39:48 ET]
+Table '3767885527 37' 8-max Seat #1 is the button
+Seat 1: Katwoman0106 (40480 in chips) 
+Seat 2: fAArid88 (27982 in chips) 
+Seat 3: Sully1993_11 (30018 in chips) 
+Seat 4: nahumdj (17366 in chips) 
+Seat 5: johnyguedes1 (65286 in chips) 
+Seat 6: yuzoyai (20942 in chips) 
+Seat 7: junior_re612 (48985 in chips) 
+Seat 8: epo9 (5950 in chips) 
+Katwoman0106: posts the ante 100
+fAArid88: posts the ante 100
+Sully1993_11: posts the ante 100
+nahumdj: posts the ante 100
+johnyguedes1: posts the ante 100
+yuzoyai: posts the ante 100
+junior_re612: posts the ante 100
+epo9: posts the ante 100
+fAArid88: posts small blind 400
+Sully1993_11: posts big blind 800
+*** HOLE CARDS ***
+nahumdj: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: raises 800 to 1600
+epo9: folds 
+Katwoman0106: folds 
+fAArid88: folds 
+Sully1993_11: folds 
+Uncalled bet (800) returned to junior_re612
+junior_re612 collected 2800 from pot
+junior_re612: doesn't show hand 
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Seat 1: Katwoman0106 (button) folded before Flop (didn't bet)
+Seat 2: fAArid88 (small blind) folded before Flop
+Seat 3: Sully1993_11 (big blind) folded before Flop
+Seat 4: nahumdj folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 collected (2800)
+Seat 8: epo9 folded before Flop (didn't bet)
+
+PokerStars Hand #251205212451: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:40:24 UTC [2024/06/26 14:40:24 ET]
+Table '3767885527 37' 8-max Seat #2 is the button
+Seat 1: Katwoman0106 (40380 in chips) 
+Seat 2: fAArid88 (27482 in chips) 
+Seat 3: Sully1993_11 (29118 in chips) 
+Seat 4: nahumdj (17266 in chips) 
+Seat 5: johnyguedes1 (65186 in chips) 
+Seat 6: yuzoyai (20842 in chips) 
+Seat 7: junior_re612 (50885 in chips) 
+Seat 8: epo9 (5850 in chips) 
+Katwoman0106: posts the ante 100
+fAArid88: posts the ante 100
+Sully1993_11: posts the ante 100
+nahumdj: posts the ante 100
+johnyguedes1: posts the ante 100
+yuzoyai: posts the ante 100
+junior_re612: posts the ante 100
+epo9: posts the ante 100
+Sully1993_11: posts small blind 400
+nahumdj: posts big blind 800
+*** HOLE CARDS ***
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: raises 800 to 1600
+epo9: calls 1600
+Katwoman0106: calls 1600
+fAArid88: folds 
+Sully1993_11: folds 
+nahumdj: folds 
+*** FLOP *** [Jd 7c 7h]
+junior_re612: checks 
+epo9: bets 4150 and is all-in
+Katwoman0106: calls 4150
+junior_re612: folds 
+*** TURN *** [Jd 7c 7h] [Ah]
+*** RIVER *** [Jd 7c 7h Ah] [Qd]
+*** SHOW DOWN ***
+epo9: shows [Ks Qs] (two pair, Queens and Sevens)
+Katwoman0106: shows [7d 7s] (four of a kind, Sevens)
+Katwoman0106 collected 15100 from pot
+epo9 finished the tournament
+*** SUMMARY ***
+Total pot 15100 | Rake 0 
+Board [Jd 7c 7h Ah Qd]
+Seat 1: Katwoman0106 showed [7d 7s] and won (15100) with four of a kind, Sevens
+Seat 2: fAArid88 (button) folded before Flop (didn't bet)
+Seat 3: Sully1993_11 (small blind) folded before Flop
+Seat 4: nahumdj (big blind) folded before Flop
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded on the Flop
+Seat 8: epo9 showed [Ks Qs] and lost with two pair, Queens and Sevens
+
+PokerStars Hand #251205229299: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:41:29 UTC [2024/06/26 14:41:29 ET]
+Table '3767885527 37' 8-max Seat #3 is the button
+Seat 1: Katwoman0106 (49630 in chips) 
+Seat 2: fAArid88 (27382 in chips) 
+Seat 3: Sully1993_11 (28618 in chips) 
+Seat 4: nahumdj (16366 in chips) 
+Seat 5: johnyguedes1 (65086 in chips) 
+Seat 6: yuzoyai (20742 in chips) 
+Seat 7: junior_re612 (49185 in chips) 
+Katwoman0106: posts the ante 100
+fAArid88: posts the ante 100
+Sully1993_11: posts the ante 100
+nahumdj: posts the ante 100
+johnyguedes1: posts the ante 100
+yuzoyai: posts the ante 100
+junior_re612: posts the ante 100
+nahumdj: posts small blind 400
+johnyguedes1: posts big blind 800
+*** HOLE CARDS ***
+yuzoyai: folds 
+junior_re612: folds 
+Katwoman0106: folds 
+fAArid88: folds 
+Sully1993_11: folds 
+nahumdj: folds 
+Uncalled bet (400) returned to johnyguedes1
+johnyguedes1 collected 1500 from pot
+johnyguedes1: doesn't show hand 
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: Sully1993_11 (button) folded before Flop (didn't bet)
+Seat 4: nahumdj (small blind) folded before Flop
+Seat 5: johnyguedes1 (big blind) collected (1500)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+
+PokerStars Hand #251205233398: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:41:45 UTC [2024/06/26 14:41:45 ET]
+Table '3767885527 37' 8-max Seat #4 is the button
+Seat 1: Katwoman0106 (49530 in chips) 
+Seat 2: fAArid88 (27282 in chips) 
+Seat 3: Sully1993_11 (28518 in chips) 
+Seat 4: nahumdj (15866 in chips) 
+Seat 5: johnyguedes1 (66086 in chips) 
+Seat 6: yuzoyai (20642 in chips) 
+Seat 7: junior_re612 (49085 in chips) 
+Katwoman0106: posts the ante 100
+fAArid88: posts the ante 100
+Sully1993_11: posts the ante 100
+nahumdj: posts the ante 100
+johnyguedes1: posts the ante 100
+yuzoyai: posts the ante 100
+junior_re612: posts the ante 100
+johnyguedes1: posts small blind 400
+yuzoyai: posts big blind 800
+*** HOLE CARDS ***
+junior_re612: raises 800 to 1600
+Katwoman0106: folds 
+fAArid88: folds 
+Sully1993_11: calls 1600
+nahumdj: raises 14166 to 15766 and is all-in
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+Sully1993_11: folds 
+Uncalled bet (14166) returned to nahumdj
+nahumdj collected 6700 from pot
+*** SUMMARY ***
+Total pot 6700 | Rake 0 
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: Sully1993_11 folded before Flop
+Seat 4: nahumdj (button) collected (6700)
+Seat 5: johnyguedes1 (small blind) folded before Flop
+Seat 6: yuzoyai (big blind) folded before Flop
+Seat 7: junior_re612 folded before Flop
+
+PokerStars Hand #251205245960: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:42:33 UTC [2024/06/26 14:42:33 ET]
+Table '3767885527 37' 8-max Seat #5 is the button
+Seat 1: Katwoman0106 (49430 in chips) 
+Seat 2: fAArid88 (27182 in chips) 
+Seat 3: Sully1993_11 (26818 in chips) 
+Seat 4: nahumdj (20866 in chips) 
+Seat 5: johnyguedes1 (65586 in chips) 
+Seat 6: yuzoyai (19742 in chips) 
+Seat 7: junior_re612 (47385 in chips) 
+Seat 8: Amandaraujo (34196 in chips) 
+Katwoman0106: posts the ante 125
+fAArid88: posts the ante 125
+Sully1993_11: posts the ante 125
+nahumdj: posts the ante 125
+johnyguedes1: posts the ante 125
+yuzoyai: posts the ante 125
+junior_re612: posts the ante 125
+Amandaraujo: posts the ante 125
+yuzoyai: posts small blind 500
+junior_re612: posts big blind 1000
+*** HOLE CARDS ***
+Amandaraujo: raises 1000 to 2000
+Katwoman0106: folds 
+fAArid88: folds 
+Sully1993_11: folds 
+nahumdj: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: calls 1000
+*** FLOP *** [2h Qs Kc]
+junior_re612: checks 
+Amandaraujo: bets 3750
+junior_re612: folds 
+Uncalled bet (3750) returned to Amandaraujo
+Amandaraujo collected 5500 from pot
+Amandaraujo: doesn't show hand 
+*** SUMMARY ***
+Total pot 5500 | Rake 0 
+Board [2h Qs Kc]
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: Sully1993_11 folded before Flop (didn't bet)
+Seat 4: nahumdj folded before Flop (didn't bet)
+Seat 5: johnyguedes1 (button) folded before Flop (didn't bet)
+Seat 6: yuzoyai (small blind) folded before Flop
+Seat 7: junior_re612 (big blind) folded on the Flop
+Seat 8: Amandaraujo collected (5500)
+
+PokerStars Hand #251205263306: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:43:39 UTC [2024/06/26 14:43:39 ET]
+Table '3767885527 37' 8-max Seat #6 is the button
+Seat 1: Katwoman0106 (49305 in chips) 
+Seat 2: fAArid88 (27057 in chips) 
+Seat 3: Sully1993_11 (26693 in chips) 
+Seat 4: nahumdj (20741 in chips) 
+Seat 5: johnyguedes1 (65461 in chips) 
+Seat 6: yuzoyai (19117 in chips) 
+Seat 7: junior_re612 (45260 in chips) 
+Seat 8: Amandaraujo (37571 in chips) 
+Katwoman0106: posts the ante 125
+fAArid88: posts the ante 125
+Sully1993_11: posts the ante 125
+nahumdj: posts the ante 125
+johnyguedes1: posts the ante 125
+yuzoyai: posts the ante 125
+junior_re612: posts the ante 125
+Amandaraujo: posts the ante 125
+junior_re612: posts small blind 500
+Amandaraujo: posts big blind 1000
+*** HOLE CARDS ***
+Katwoman0106: folds 
+fAArid88: raises 1000 to 2000
+Sully1993_11: folds 
+nahumdj: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+Amandaraujo: calls 1000
+*** FLOP *** [Ts Qh Qd]
+Amandaraujo: checks 
+fAArid88: checks 
+*** TURN *** [Ts Qh Qd] [4s]
+Amandaraujo: checks 
+fAArid88: bets 1375
+Amandaraujo: calls 1375
+*** RIVER *** [Ts Qh Qd 4s] [4d]
+Amandaraujo: checks 
+fAArid88: checks 
+*** SHOW DOWN ***
+Amandaraujo: shows [3d 3h] (two pair, Queens and Fours)
+fAArid88: shows [Ah 9h] (two pair, Queens and Fours - Ace kicker)
+fAArid88 collected 8250 from pot
+*** SUMMARY ***
+Total pot 8250 | Rake 0 
+Board [Ts Qh Qd 4s 4d]
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 showed [Ah 9h] and won (8250) with two pair, Queens and Fours
+Seat 3: Sully1993_11 folded before Flop (didn't bet)
+Seat 4: nahumdj folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai (button) folded before Flop (didn't bet)
+Seat 7: junior_re612 (small blind) folded before Flop
+Seat 8: Amandaraujo (big blind) showed [3d 3h] and lost with two pair, Queens and Fours
+
+PokerStars Hand #251205277832: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:44:34 UTC [2024/06/26 14:44:34 ET]
+Table '3767885527 37' 8-max Seat #7 is the button
+Seat 1: Katwoman0106 (49180 in chips) 
+Seat 2: fAArid88 (31807 in chips) 
+Seat 3: Sully1993_11 (26568 in chips) 
+Seat 4: nahumdj (20616 in chips) 
+Seat 5: johnyguedes1 (65336 in chips) 
+Seat 6: yuzoyai (18992 in chips) 
+Seat 7: junior_re612 (44635 in chips) 
+Seat 8: Amandaraujo (34071 in chips) 
+Katwoman0106: posts the ante 125
+fAArid88: posts the ante 125
+Sully1993_11: posts the ante 125
+nahumdj: posts the ante 125
+johnyguedes1: posts the ante 125
+yuzoyai: posts the ante 125
+junior_re612: posts the ante 125
+Amandaraujo: posts the ante 125
+Amandaraujo: posts small blind 500
+Katwoman0106: posts big blind 1000
+*** HOLE CARDS ***
+fAArid88: folds 
+Sully1993_11: folds 
+nahumdj: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: raises 1500 to 2500
+Amandaraujo: calls 2000
+Katwoman0106: calls 1500
+*** FLOP *** [5s Qh Js]
+Amandaraujo: bets 4250
+Katwoman0106: folds 
+junior_re612: calls 4250
+*** TURN *** [5s Qh Js] [6c]
+Amandaraujo: checks 
+junior_re612: checks 
+*** RIVER *** [5s Qh Js 6c] [5h]
+Amandaraujo: checks 
+junior_re612: bets 12750
+Amandaraujo: folds 
+Uncalled bet (12750) returned to junior_re612
+junior_re612 collected 17000 from pot
+junior_re612: doesn't show hand 
+*** SUMMARY ***
+Total pot 17000 | Rake 0 
+Board [5s Qh Js 6c 5h]
+Seat 1: Katwoman0106 (big blind) folded on the Flop
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: Sully1993_11 folded before Flop (didn't bet)
+Seat 4: nahumdj folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 (button) collected (17000)
+Seat 8: Amandaraujo (small blind) folded on the River
+
+PokerStars Hand #251205293414: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:45:33 UTC [2024/06/26 14:45:33 ET]
+Table '3767885527 37' 8-max Seat #8 is the button
+Seat 1: Katwoman0106 (46555 in chips) 
+Seat 2: fAArid88 (31682 in chips) 
+Seat 3: Sully1993_11 (26443 in chips) 
+Seat 4: nahumdj (20491 in chips) 
+Seat 5: johnyguedes1 (65211 in chips) 
+Seat 6: yuzoyai (18867 in chips) 
+Seat 7: junior_re612 (54760 in chips) 
+Seat 8: Amandaraujo (27196 in chips) 
+Katwoman0106: posts the ante 125
+fAArid88: posts the ante 125
+Sully1993_11: posts the ante 125
+nahumdj: posts the ante 125
+johnyguedes1: posts the ante 125
+yuzoyai: posts the ante 125
+junior_re612: posts the ante 125
+Amandaraujo: posts the ante 125
+Katwoman0106: posts small blind 500
+fAArid88: posts big blind 1000
+*** HOLE CARDS ***
+Sully1993_11: folds 
+nahumdj: raises 1000 to 2000
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: calls 2000
+Amandaraujo: raises 2000 to 4000
+Katwoman0106: folds 
+fAArid88: folds 
+nahumdj: raises 16366 to 20366 and is all-in
+junior_re612: folds 
+Amandaraujo: calls 16366
+*** FLOP *** [9d 4s 7d]
+*** TURN *** [9d 4s 7d] [Ts]
+*** RIVER *** [9d 4s 7d Ts] [Td]
+*** SHOW DOWN ***
+nahumdj: shows [As Kc] (a pair of Tens)
+Amandaraujo: shows [Jh 8s] (a straight, Seven to Jack)
+Amandaraujo collected 45232 from pot
+nahumdj finished the tournament
+Naaarrrr is disconnected 
+*** SUMMARY ***
+Total pot 45232 | Rake 0 
+Board [9d 4s 7d Ts Td]
+Seat 1: Katwoman0106 (small blind) folded before Flop
+Seat 2: fAArid88 (big blind) folded before Flop
+Seat 3: Sully1993_11 folded before Flop (didn't bet)
+Seat 4: nahumdj showed [As Kc] and lost with a pair of Tens
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop
+Seat 8: Amandaraujo (button) showed [Jh 8s] and won (45232) with a straight, Seven to Jack
+
+PokerStars Hand #251205306343: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:46:21 UTC [2024/06/26 14:46:21 ET]
+Table '3767885527 37' 8-max Seat #1 is the button
+Seat 1: Katwoman0106 (45930 in chips) 
+Seat 2: fAArid88 (30557 in chips) 
+Seat 3: Sully1993_11 (26318 in chips) 
+Seat 4: Naaarrrr (25000 in chips) 
+Seat 5: johnyguedes1 (65086 in chips) 
+Seat 6: yuzoyai (18742 in chips) 
+Seat 7: junior_re612 (52635 in chips) 
+Seat 8: Amandaraujo (51937 in chips) 
+Katwoman0106: posts the ante 125
+fAArid88: posts the ante 125
+Sully1993_11: posts the ante 125
+Naaarrrr: posts the ante 125
+johnyguedes1: posts the ante 125
+yuzoyai: posts the ante 125
+junior_re612: posts the ante 125
+Amandaraujo: posts the ante 125
+fAArid88: posts small blind 500
+Sully1993_11: posts big blind 1000
+*** HOLE CARDS ***
+Naaarrrr: raises 1000 to 2000
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+Amandaraujo: calls 2000
+Katwoman0106: calls 2000
+fAArid88: folds 
+Sully1993_11: calls 1000
+*** FLOP *** [5s 7s 8c]
+Sully1993_11: checks 
+Naaarrrr: checks 
+Amandaraujo: checks 
+Katwoman0106: bets 8333
+Sully1993_11: raises 15860 to 24193 and is all-in
+Naaarrrr: folds 
+Amandaraujo: folds 
+Katwoman0106: calls 15860
+*** TURN *** [5s 7s 8c] [Th]
+*** RIVER *** [5s 7s 8c Th] [Jh]
+*** SHOW DOWN ***
+Sully1993_11: shows [7h 5h] (two pair, Sevens and Fives)
+Katwoman0106: shows [4d 6d] (a straight, Four to Eight)
+Katwoman0106 collected 57886 from pot
+Sully1993_11 finished the tournament
+*** SUMMARY ***
+Total pot 57886 | Rake 0 
+Board [5s 7s 8c Th Jh]
+Seat 1: Katwoman0106 (button) showed [4d 6d] and won (57886) with a straight, Four to Eight
+Seat 2: fAArid88 (small blind) folded before Flop
+Seat 3: Sully1993_11 (big blind) showed [7h 5h] and lost with two pair, Sevens and Fives
+Seat 4: Naaarrrr folded on the Flop
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: Amandaraujo folded on the Flop
+
+PokerStars Hand #251205323229: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:47:26 UTC [2024/06/26 14:47:26 ET]
+Table '3767885527 37' 8-max Seat #2 is the button
+Seat 1: Katwoman0106 (77498 in chips) 
+Seat 2: fAArid88 (29932 in chips) 
+Seat 4: Naaarrrr (22875 in chips) 
+Seat 5: johnyguedes1 (64961 in chips) 
+Seat 6: yuzoyai (18617 in chips) 
+Seat 7: junior_re612 (52510 in chips) 
+Seat 8: Amandaraujo (49812 in chips) 
+Katwoman0106: posts the ante 125
+fAArid88: posts the ante 125
+Naaarrrr: posts the ante 125
+johnyguedes1: posts the ante 125
+yuzoyai: posts the ante 125
+junior_re612: posts the ante 125
+Amandaraujo: posts the ante 125
+Naaarrrr: posts small blind 500
+johnyguedes1: posts big blind 1000
+*** HOLE CARDS ***
+yuzoyai: folds 
+junior_re612: folds 
+Amandaraujo: raises 1000 to 2000
+Katwoman0106: folds 
+fAArid88: folds 
+Naaarrrr: folds 
+paulscot1 is disconnected 
+johnyguedes1: calls 1000
+*** FLOP *** [Kh Jh 2d]
+johnyguedes1: checks 
+Amandaraujo: checks 
+*** TURN *** [Kh Jh 2d] [6c]
+johnyguedes1: checks 
+Amandaraujo: checks 
+*** RIVER *** [Kh Jh 2d 6c] [8c]
+johnyguedes1: checks 
+Amandaraujo: checks 
+*** SHOW DOWN ***
+johnyguedes1: shows [7d 7c] (a pair of Sevens)
+Amandaraujo: mucks hand 
+johnyguedes1 collected 5375 from pot
+*** SUMMARY ***
+Total pot 5375 | Rake 0 
+Board [Kh Jh 2d 6c 8c]
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 (button) folded before Flop (didn't bet)
+Seat 4: Naaarrrr (small blind) folded before Flop
+Seat 5: johnyguedes1 (big blind) showed [7d 7c] and won (5375) with a pair of Sevens
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: Amandaraujo mucked
+
+PokerStars Hand #251205333204: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:48:04 UTC [2024/06/26 14:48:04 ET]
+Table '3767885527 37' 8-max Seat #4 is the button
+Seat 1: Katwoman0106 (77373 in chips) 
+Seat 2: fAArid88 (29807 in chips) 
+Seat 3: paulscot1 (25000 in chips) 
+Seat 4: Naaarrrr (22250 in chips) 
+Seat 5: johnyguedes1 (68211 in chips) 
+Seat 6: yuzoyai (18492 in chips) 
+Seat 7: junior_re612 (52385 in chips) 
+Seat 8: Amandaraujo (47687 in chips) 
+Katwoman0106: posts the ante 125
+fAArid88: posts the ante 125
+paulscot1: posts the ante 125
+Naaarrrr: posts the ante 125
+johnyguedes1: posts the ante 125
+yuzoyai: posts the ante 125
+junior_re612: posts the ante 125
+Amandaraujo: posts the ante 125
+johnyguedes1: posts small blind 500
+yuzoyai: posts big blind 1000
+*** HOLE CARDS ***
+junior_re612: folds 
+Amandaraujo: folds 
+Katwoman0106: folds 
+fAArid88: folds 
+paulscot1: raises 1650 to 2650
+Naaarrrr: calls 2650
+johnyguedes1: folds 
+yuzoyai: folds 
+*** FLOP *** [Qs Ts Tc]
+paulscot1: bets 2574
+Naaarrrr: folds 
+Uncalled bet (2574) returned to paulscot1
+paulscot1 collected 7800 from pot
+paulscot1: doesn't show hand 
+*** SUMMARY ***
+Total pot 7800 | Rake 0 
+Board [Qs Ts Tc]
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: paulscot1 collected (7800)
+Seat 4: Naaarrrr (button) folded on the Flop
+Seat 5: johnyguedes1 (small blind) folded before Flop
+Seat 6: yuzoyai (big blind) folded before Flop
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: Amandaraujo folded before Flop (didn't bet)
+
+PokerStars Hand #251205342935: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:48:41 UTC [2024/06/26 14:48:41 ET]
+Table '3767885527 37' 8-max Seat #5 is the button
+Seat 1: Katwoman0106 (77248 in chips) 
+Seat 2: fAArid88 (29682 in chips) 
+Seat 3: paulscot1 (30025 in chips) 
+Seat 4: Naaarrrr (19475 in chips) 
+Seat 5: johnyguedes1 (67586 in chips) 
+Seat 6: yuzoyai (17367 in chips) 
+Seat 7: junior_re612 (52260 in chips) 
+Seat 8: Amandaraujo (47562 in chips) 
+Katwoman0106: posts the ante 125
+fAArid88: posts the ante 125
+paulscot1: posts the ante 125
+Naaarrrr: posts the ante 125
+johnyguedes1: posts the ante 125
+yuzoyai: posts the ante 125
+junior_re612: posts the ante 125
+Amandaraujo: posts the ante 125
+yuzoyai: posts small blind 500
+junior_re612: posts big blind 1000
+*** HOLE CARDS ***
+Amandaraujo: folds 
+Katwoman0106: folds 
+fAArid88: folds 
+paulscot1: folds 
+Naaarrrr: raises 1000 to 2000
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+Uncalled bet (1000) returned to Naaarrrr
+Naaarrrr collected 3500 from pot
+Naaarrrr: doesn't show hand 
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: paulscot1 folded before Flop (didn't bet)
+Seat 4: Naaarrrr collected (3500)
+Seat 5: johnyguedes1 (button) folded before Flop (didn't bet)
+Seat 6: yuzoyai (small blind) folded before Flop
+Seat 7: junior_re612 (big blind) folded before Flop
+Seat 8: Amandaraujo folded before Flop (didn't bet)
+
+PokerStars Hand #251205352104: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:49:16 UTC [2024/06/26 14:49:16 ET]
+Table '3767885527 37' 8-max Seat #6 is the button
+Seat 1: Katwoman0106 (77123 in chips) 
+Seat 2: fAArid88 (29557 in chips) 
+Seat 3: paulscot1 (29900 in chips) 
+Seat 4: Naaarrrr (21850 in chips) 
+Seat 5: johnyguedes1 (67461 in chips) 
+Seat 6: yuzoyai (16742 in chips) 
+Seat 7: junior_re612 (51135 in chips) 
+Seat 8: Amandaraujo (47437 in chips) 
+Katwoman0106: posts the ante 125
+fAArid88: posts the ante 125
+paulscot1: posts the ante 125
+Naaarrrr: posts the ante 125
+johnyguedes1: posts the ante 125
+yuzoyai: posts the ante 125
+junior_re612: posts the ante 125
+Amandaraujo: posts the ante 125
+junior_re612: posts small blind 500
+Amandaraujo: posts big blind 1000
+*** HOLE CARDS ***
+Katwoman0106: folds 
+fAArid88: raises 1000 to 2000
+paulscot1: folds 
+Naaarrrr: folds 
+johnyguedes1: folds 
+yuzoyai: calls 2000
+junior_re612: folds 
+Amandaraujo: calls 1000
+*** FLOP *** [8h Qh 2s]
+Amandaraujo: checks 
+fAArid88: checks 
+yuzoyai: bets 1950
+Amandaraujo: folds 
+fAArid88: raises 12050 to 14000
+yuzoyai: raises 617 to 14617 and is all-in
+fAArid88: calls 617
+*** TURN *** [8h Qh 2s] [2d]
+*** RIVER *** [8h Qh 2s 2d] [5c]
+*** SHOW DOWN ***
+fAArid88: shows [9s 8s] (two pair, Eights and Deuces)
+yuzoyai: shows [Td Qd] (two pair, Queens and Deuces)
+yuzoyai collected 36734 from pot
+*** SUMMARY ***
+Total pot 36734 | Rake 0 
+Board [8h Qh 2s 2d 5c]
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 showed [9s 8s] and lost with two pair, Eights and Deuces
+Seat 3: paulscot1 folded before Flop (didn't bet)
+Seat 4: Naaarrrr folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai (button) showed [Td Qd] and won (36734) with two pair, Queens and Deuces
+Seat 7: junior_re612 (small blind) folded before Flop
+Seat 8: Amandaraujo (big blind) folded on the Flop
+
+PokerStars Hand #251205372845: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:50:35 UTC [2024/06/26 14:50:35 ET]
+Table '3767885527 37' 8-max Seat #7 is the button
+Seat 1: Katwoman0106 (76998 in chips) 
+Seat 2: fAArid88 (12815 in chips) 
+Seat 3: paulscot1 (29775 in chips) 
+Seat 4: Naaarrrr (21725 in chips) 
+Seat 5: johnyguedes1 (67336 in chips) 
+Seat 6: yuzoyai (36734 in chips) 
+Seat 7: junior_re612 (50510 in chips) 
+Seat 8: Amandaraujo (45312 in chips) 
+Katwoman0106: posts the ante 125
+fAArid88: posts the ante 125
+paulscot1: posts the ante 125
+Naaarrrr: posts the ante 125
+johnyguedes1: posts the ante 125
+yuzoyai: posts the ante 125
+junior_re612: posts the ante 125
+Amandaraujo: posts the ante 125
+Amandaraujo: posts small blind 500
+Katwoman0106: posts big blind 1000
+*** HOLE CARDS ***
+fAArid88: raises 11690 to 12690 and is all-in
+paulscot1: folds 
+Naaarrrr: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+Amandaraujo: folds 
+Katwoman0106: folds 
+Uncalled bet (11690) returned to fAArid88
+fAArid88 collected 3500 from pot
+fAArid88: doesn't show hand 
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Seat 1: Katwoman0106 (big blind) folded before Flop
+Seat 2: fAArid88 collected (3500)
+Seat 3: paulscot1 folded before Flop (didn't bet)
+Seat 4: Naaarrrr folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 (button) folded before Flop (didn't bet)
+Seat 8: Amandaraujo (small blind) folded before Flop
+
+PokerStars Hand #251205380018: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:51:03 UTC [2024/06/26 14:51:03 ET]
+Table '3767885527 37' 8-max Seat #8 is the button
+Seat 1: Katwoman0106 (75873 in chips) 
+Seat 2: fAArid88 (15190 in chips) 
+Seat 3: paulscot1 (29650 in chips) 
+Seat 4: Naaarrrr (21600 in chips) 
+Seat 5: johnyguedes1 (67211 in chips) 
+Seat 6: yuzoyai (36609 in chips) 
+Seat 7: junior_re612 (50385 in chips) 
+Seat 8: Amandaraujo (44687 in chips) 
+Katwoman0106: posts the ante 125
+fAArid88: posts the ante 125
+paulscot1: posts the ante 125
+Naaarrrr: posts the ante 125
+johnyguedes1: posts the ante 125
+yuzoyai: posts the ante 125
+junior_re612: posts the ante 125
+Amandaraujo: posts the ante 125
+Katwoman0106: posts small blind 500
+fAArid88: posts big blind 1000
+*** HOLE CARDS ***
+paulscot1: folds 
+Naaarrrr: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+Amandaraujo: raises 1000 to 2000
+Katwoman0106: folds 
+fAArid88: folds 
+Uncalled bet (1000) returned to Amandaraujo
+Amandaraujo collected 3500 from pot
+Amandaraujo: doesn't show hand 
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Seat 1: Katwoman0106 (small blind) folded before Flop
+Seat 2: fAArid88 (big blind) folded before Flop
+Seat 3: paulscot1 folded before Flop (didn't bet)
+Seat 4: Naaarrrr folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: Amandaraujo (button) collected (3500)
+
+PokerStars Hand #251205388503: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:51:35 UTC [2024/06/26 14:51:35 ET]
+Table '3767885527 37' 8-max Seat #1 is the button
+Seat 1: Katwoman0106 (75248 in chips) 
+Seat 2: fAArid88 (14065 in chips) 
+Seat 3: paulscot1 (29525 in chips) 
+Seat 4: Naaarrrr (21475 in chips) 
+Seat 5: johnyguedes1 (67086 in chips) 
+Seat 6: yuzoyai (36484 in chips) 
+Seat 7: junior_re612 (50260 in chips) 
+Seat 8: Amandaraujo (47062 in chips) 
+Katwoman0106: posts the ante 125
+fAArid88: posts the ante 125
+paulscot1: posts the ante 125
+Naaarrrr: posts the ante 125
+johnyguedes1: posts the ante 125
+yuzoyai: posts the ante 125
+junior_re612: posts the ante 125
+Amandaraujo: posts the ante 125
+fAArid88: posts small blind 500
+paulscot1: posts big blind 1000
+*** HOLE CARDS ***
+Naaarrrr: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: raises 1000 to 2000
+Amandaraujo: calls 2000
+Katwoman0106: folds 
+fAArid88: folds 
+paulscot1: folds 
+*** FLOP *** [Kc 6d 4d]
+junior_re612: bets 2150
+Amandaraujo: calls 2150
+*** TURN *** [Kc 6d 4d] [8c]
+junior_re612: checks 
+Amandaraujo: bets 6400
+junior_re612: folds 
+Uncalled bet (6400) returned to Amandaraujo
+Amandaraujo collected 10800 from pot
+*** SUMMARY ***
+Total pot 10800 | Rake 0 
+Board [Kc 6d 4d 8c]
+Seat 1: Katwoman0106 (button) folded before Flop (didn't bet)
+Seat 2: fAArid88 (small blind) folded before Flop
+Seat 3: paulscot1 (big blind) folded before Flop
+Seat 4: Naaarrrr folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded on the Turn
+Seat 8: Amandaraujo collected (10800)
+
+PokerStars Hand #251205408535: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:52:51 UTC [2024/06/26 14:52:51 ET]
+Table '3767885527 37' 8-max Seat #2 is the button
+Seat 1: Katwoman0106 (75123 in chips) 
+Seat 2: fAArid88 (13440 in chips) 
+Seat 3: paulscot1 (28400 in chips) 
+Seat 4: Naaarrrr (21350 in chips) 
+Seat 5: johnyguedes1 (66961 in chips) 
+Seat 6: yuzoyai (36359 in chips) 
+Seat 7: junior_re612 (45985 in chips) 
+Seat 8: Amandaraujo (53587 in chips) 
+Katwoman0106: posts the ante 150
+fAArid88: posts the ante 150
+paulscot1: posts the ante 150
+Naaarrrr: posts the ante 150
+johnyguedes1: posts the ante 150
+yuzoyai: posts the ante 150
+junior_re612: posts the ante 150
+Amandaraujo: posts the ante 150
+paulscot1: posts small blind 600
+Naaarrrr: posts big blind 1200
+*** HOLE CARDS ***
+johnyguedes1: raises 1320 to 2520
+yuzoyai: folds 
+junior_re612: folds 
+Amandaraujo: calls 2520
+Katwoman0106: folds 
+fAArid88: calls 2520
+paulscot1: folds 
+Naaarrrr: calls 1320
+*** FLOP *** [Ah 2h Kh]
+Naaarrrr: checks 
+johnyguedes1: checks 
+Amandaraujo: checks 
+fAArid88: checks 
+*** TURN *** [Ah 2h Kh] [5c]
+Naaarrrr: checks 
+johnyguedes1: checks 
+Amandaraujo: checks 
+fAArid88: checks 
+*** RIVER *** [Ah 2h Kh 5c] [8d]
+Naaarrrr: checks 
+johnyguedes1: bets 9860
+Amandaraujo: folds 
+fAArid88: folds 
+Naaarrrr: folds 
+Uncalled bet (9860) returned to johnyguedes1
+johnyguedes1 collected 11880 from pot
+johnyguedes1: doesn't show hand 
+*** SUMMARY ***
+Total pot 11880 | Rake 0 
+Board [Ah 2h Kh 5c 8d]
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 (button) folded on the River
+Seat 3: paulscot1 (small blind) folded before Flop
+Seat 4: Naaarrrr (big blind) folded on the River
+Seat 5: johnyguedes1 collected (11880)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: Amandaraujo folded on the River
+
+PokerStars Hand #251205436915: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:54:39 UTC [2024/06/26 14:54:39 ET]
+Table '3767885527 37' 8-max Seat #3 is the button
+Seat 1: Katwoman0106 (74973 in chips) 
+Seat 2: fAArid88 (10770 in chips) 
+Seat 3: paulscot1 (27650 in chips) 
+Seat 4: Naaarrrr (18680 in chips) 
+Seat 5: johnyguedes1 (76171 in chips) 
+Seat 6: yuzoyai (36209 in chips) 
+Seat 7: junior_re612 (45835 in chips) 
+Seat 8: Amandaraujo (50917 in chips) 
+Katwoman0106: posts the ante 150
+fAArid88: posts the ante 150
+paulscot1: posts the ante 150
+Naaarrrr: posts the ante 150
+johnyguedes1: posts the ante 150
+yuzoyai: posts the ante 150
+junior_re612: posts the ante 150
+Amandaraujo: posts the ante 150
+Naaarrrr: posts small blind 600
+johnyguedes1: posts big blind 1200
+*** HOLE CARDS ***
+yuzoyai: folds 
+junior_re612: folds 
+Amandaraujo: folds 
+Katwoman0106: folds 
+fAArid88: folds 
+paulscot1: raises 1440 to 2640
+Naaarrrr: folds 
+johnyguedes1: calls 1440
+*** FLOP *** [6c 4d Kh]
+johnyguedes1: checks 
+paulscot1: bets 2400
+johnyguedes1: raises 4440 to 6840
+paulscot1: raises 18020 to 24860 and is all-in
+johnyguedes1: folds 
+Uncalled bet (18020) returned to paulscot1
+paulscot1 collected 20760 from pot
+paulscot1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20760 | Rake 0 
+Board [6c 4d Kh]
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: paulscot1 (button) collected (20760)
+Seat 4: Naaarrrr (small blind) folded before Flop
+Seat 5: johnyguedes1 (big blind) folded on the Flop
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: Amandaraujo folded before Flop (didn't bet)
+
+PokerStars Hand #251205528176: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:02:04 UTC [2024/06/26 15:02:04 ET]
+Table '3767885527 37' 8-max Seat #4 is the button
+Seat 1: Katwoman0106 (74823 in chips) 
+Seat 2: fAArid88 (10620 in chips) 
+Seat 3: paulscot1 (38780 in chips) 
+Seat 4: Naaarrrr (17930 in chips) 
+Seat 5: johnyguedes1 (66541 in chips) 
+Seat 6: yuzoyai (36059 in chips) 
+Seat 7: junior_re612 (45685 in chips) 
+Seat 8: Amandaraujo (50767 in chips) 
+Katwoman0106: posts the ante 150
+fAArid88: posts the ante 150
+paulscot1: posts the ante 150
+Naaarrrr: posts the ante 150
+johnyguedes1: posts the ante 150
+yuzoyai: posts the ante 150
+junior_re612: posts the ante 150
+Amandaraujo: posts the ante 150
+johnyguedes1: posts small blind 600
+yuzoyai: posts big blind 1200
+*** HOLE CARDS ***
+junior_re612: folds 
+Amandaraujo: raises 1200 to 2400
+Katwoman0106: folds 
+fAArid88: folds 
+paulscot1: folds 
+Naaarrrr: folds 
+johnyguedes1: folds 
+yuzoyai: raises 33509 to 35909 and is all-in
+Amandaraujo: folds 
+Uncalled bet (33509) returned to yuzoyai
+yuzoyai collected 6600 from pot
+yuzoyai: doesn't show hand 
+*** SUMMARY ***
+Total pot 6600 | Rake 0 
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: paulscot1 folded before Flop (didn't bet)
+Seat 4: Naaarrrr (button) folded before Flop (didn't bet)
+Seat 5: johnyguedes1 (small blind) folded before Flop
+Seat 6: yuzoyai (big blind) collected (6600)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: Amandaraujo folded before Flop
+
+PokerStars Hand #251205539837: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:02:52 UTC [2024/06/26 15:02:52 ET]
+Table '3767885527 37' 8-max Seat #5 is the button
+Seat 1: Katwoman0106 (74673 in chips) 
+Seat 2: fAArid88 (10470 in chips) 
+Seat 3: paulscot1 (38630 in chips) 
+Seat 4: Naaarrrr (17780 in chips) 
+Seat 5: johnyguedes1 (65791 in chips) 
+Seat 6: yuzoyai (40109 in chips) 
+Seat 7: junior_re612 (45535 in chips) 
+Seat 8: Amandaraujo (48217 in chips) 
+Katwoman0106: posts the ante 150
+fAArid88: posts the ante 150
+paulscot1: posts the ante 150
+Naaarrrr: posts the ante 150
+johnyguedes1: posts the ante 150
+yuzoyai: posts the ante 150
+junior_re612: posts the ante 150
+Amandaraujo: posts the ante 150
+yuzoyai: posts small blind 600
+junior_re612: posts big blind 1200
+*** HOLE CARDS ***
+Amandaraujo: calls 1200
+Katwoman0106: calls 1200
+fAArid88: folds 
+paulscot1: folds 
+Naaarrrr: folds 
+johnyguedes1: calls 1200
+yuzoyai: calls 600
+junior_re612: checks 
+*** FLOP *** [6c 3h Qd]
+yuzoyai: bets 2376
+junior_re612: calls 2376
+Amandaraujo: folds 
+Katwoman0106: raises 7164 to 9540
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: raises 34645 to 44185 and is all-in
+Katwoman0106: folds [Qh]
+Uncalled bet (34645) returned to junior_re612
+junior_re612 collected 28656 from pot
+junior_re612: doesn't show hand 
+*** SUMMARY ***
+Total pot 28656 | Rake 0 
+Board [6c 3h Qd]
+Seat 1: Katwoman0106 folded on the Flop
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: paulscot1 folded before Flop (didn't bet)
+Seat 4: Naaarrrr folded before Flop (didn't bet)
+Seat 5: johnyguedes1 (button) folded on the Flop
+Seat 6: yuzoyai (small blind) folded on the Flop
+Seat 7: junior_re612 (big blind) collected (28656)
+Seat 8: Amandaraujo folded on the Flop
+
+PokerStars Hand #251205565547: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:04:33 UTC [2024/06/26 15:04:33 ET]
+Table '3767885527 37' 8-max Seat #6 is the button
+Seat 1: Katwoman0106 (63783 in chips) 
+Seat 2: fAArid88 (10320 in chips) 
+Seat 3: paulscot1 (38480 in chips) 
+Seat 4: Naaarrrr (17630 in chips) 
+Seat 5: johnyguedes1 (64441 in chips) 
+Seat 6: yuzoyai (36383 in chips) 
+Seat 7: junior_re612 (63301 in chips) 
+Seat 8: Amandaraujo (46867 in chips) 
+Katwoman0106: posts the ante 150
+fAArid88: posts the ante 150
+paulscot1: posts the ante 150
+Naaarrrr: posts the ante 150
+johnyguedes1: posts the ante 150
+yuzoyai: posts the ante 150
+junior_re612: posts the ante 150
+Amandaraujo: posts the ante 150
+junior_re612: posts small blind 600
+Amandaraujo: posts big blind 1200
+*** HOLE CARDS ***
+Katwoman0106: folds 
+fAArid88: folds 
+paulscot1: raises 1980 to 3180
+Naaarrrr: raises 14300 to 17480 and is all-in
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: raises 45671 to 63151 and is all-in
+Amandaraujo: folds 
+paulscot1: folds 
+Uncalled bet (45671) returned to junior_re612
+*** FLOP *** [3d Qc Th]
+*** TURN *** [3d Qc Th] [7h]
+*** RIVER *** [3d Qc Th 7h] [3c]
+*** SHOW DOWN ***
+junior_re612: shows [Kh Ah] (a pair of Threes)
+Naaarrrr: shows [Ks Ad] (a pair of Threes)
+junior_re612 collected 20270 from pot
+Naaarrrr collected 20270 from pot
+*** SUMMARY ***
+Total pot 40540 | Rake 0 
+Board [3d Qc Th 7h 3c]
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: paulscot1 folded before Flop
+Seat 4: Naaarrrr showed [Ks Ad] and won (20270) with a pair of Threes
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai (button) folded before Flop (didn't bet)
+Seat 7: junior_re612 (small blind) showed [Kh Ah] and won (20270) with a pair of Threes
+Seat 8: Amandaraujo (big blind) folded before Flop
+
+PokerStars Hand #251205578140: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:05:21 UTC [2024/06/26 15:05:21 ET]
+Table '3767885527 37' 8-max Seat #7 is the button
+Seat 1: Katwoman0106 (63633 in chips) 
+Seat 2: fAArid88 (10170 in chips) 
+Seat 3: paulscot1 (35150 in chips) 
+Seat 4: Naaarrrr (20270 in chips) 
+Seat 5: johnyguedes1 (64291 in chips) 
+Seat 6: yuzoyai (36233 in chips) 
+Seat 7: junior_re612 (65941 in chips) 
+Seat 8: Amandaraujo (45517 in chips) 
+Katwoman0106: posts the ante 150
+fAArid88: posts the ante 150
+paulscot1: posts the ante 150
+Naaarrrr: posts the ante 150
+johnyguedes1: posts the ante 150
+yuzoyai: posts the ante 150
+junior_re612: posts the ante 150
+Amandaraujo: posts the ante 150
+Amandaraujo: posts small blind 600
+Katwoman0106: posts big blind 1200
+*** HOLE CARDS ***
+fAArid88: folds 
+paulscot1: folds 
+Naaarrrr: folds 
+johnyguedes1: folds 
+yuzoyai: raises 1200 to 2400
+junior_re612: folds 
+Amandaraujo: calls 1800
+Katwoman0106: folds 
+*** FLOP *** [9c 2s 6d]
+Amandaraujo: checks 
+yuzoyai: checks 
+*** TURN *** [9c 2s 6d] [Js]
+Amandaraujo: checks 
+yuzoyai: bets 3840
+Amandaraujo: calls 3840
+*** RIVER *** [9c 2s 6d Js] [6s]
+Amandaraujo: checks 
+yuzoyai: bets 11918
+Amandaraujo: folds 
+Uncalled bet (11918) returned to yuzoyai
+yuzoyai collected 14880 from pot
+yuzoyai: doesn't show hand 
+*** SUMMARY ***
+Total pot 14880 | Rake 0 
+Board [9c 2s 6d Js 6s]
+Seat 1: Katwoman0106 (big blind) folded before Flop
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: paulscot1 folded before Flop (didn't bet)
+Seat 4: Naaarrrr folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai collected (14880)
+Seat 7: junior_re612 (button) folded before Flop (didn't bet)
+Seat 8: Amandaraujo (small blind) folded on the River
+
+PokerStars Hand #251205601413: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:06:49 UTC [2024/06/26 15:06:49 ET]
+Table '3767885527 37' 8-max Seat #8 is the button
+Seat 1: Katwoman0106 (62283 in chips) 
+Seat 2: fAArid88 (10020 in chips) 
+Seat 3: paulscot1 (35000 in chips) 
+Seat 4: Naaarrrr (20120 in chips) 
+Seat 5: johnyguedes1 (64141 in chips) 
+Seat 6: yuzoyai (44723 in chips) 
+Seat 7: junior_re612 (65791 in chips) 
+Seat 8: Amandaraujo (39127 in chips) 
+Katwoman0106: posts the ante 150
+fAArid88: posts the ante 150
+paulscot1: posts the ante 150
+Naaarrrr: posts the ante 150
+johnyguedes1: posts the ante 150
+yuzoyai: posts the ante 150
+junior_re612: posts the ante 150
+Amandaraujo: posts the ante 150
+Katwoman0106: posts small blind 600
+fAArid88: posts big blind 1200
+*** HOLE CARDS ***
+paulscot1: raises 1440 to 2640
+Naaarrrr: folds 
+johnyguedes1: folds 
+yuzoyai: raises 3960 to 6600
+junior_re612: folds 
+Amandaraujo: calls 6600
+Katwoman0106: folds 
+fAArid88: folds 
+paulscot1: calls 3960
+*** FLOP *** [8c Ts 2s]
+paulscot1: checks 
+yuzoyai: checks 
+Amandaraujo: checks 
+*** TURN *** [8c Ts 2s] [Kc]
+paulscot1: checks 
+yuzoyai: bets 11280
+Amandaraujo: folds 
+paulscot1: calls 11280
+*** RIVER *** [8c Ts 2s Kc] [Jc]
+paulscot1: checks 
+yuzoyai: checks 
+*** SHOW DOWN ***
+paulscot1: shows [8s 9s] (a pair of Eights)
+yuzoyai: shows [Kh Qs] (a pair of Kings)
+yuzoyai collected 45360 from pot
+*** SUMMARY ***
+Total pot 45360 | Rake 0 
+Board [8c Ts 2s Kc Jc]
+Seat 1: Katwoman0106 (small blind) folded before Flop
+Seat 2: fAArid88 (big blind) folded before Flop
+Seat 3: paulscot1 showed [8s 9s] and lost with a pair of Eights
+Seat 4: Naaarrrr folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai showed [Kh Qs] and won (45360) with a pair of Kings
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: Amandaraujo (button) folded on the Turn
+
+PokerStars Hand #251205627441: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:08:27 UTC [2024/06/26 15:08:27 ET]
+Table '3767885527 37' 8-max Seat #1 is the button
+Seat 1: Katwoman0106 (61533 in chips) 
+Seat 2: fAArid88 (8670 in chips) 
+Seat 3: paulscot1 (16970 in chips) 
+Seat 4: Naaarrrr (19970 in chips) 
+Seat 5: johnyguedes1 (63991 in chips) 
+Seat 6: yuzoyai (72053 in chips) 
+Seat 7: junior_re612 (65641 in chips) 
+Seat 8: Amandaraujo (32377 in chips) 
+Katwoman0106: posts the ante 150
+fAArid88: posts the ante 150
+paulscot1: posts the ante 150
+Naaarrrr: posts the ante 150
+johnyguedes1: posts the ante 150
+yuzoyai: posts the ante 150
+junior_re612: posts the ante 150
+Amandaraujo: posts the ante 150
+fAArid88: posts small blind 600
+paulscot1: posts big blind 1200
+*** HOLE CARDS ***
+Naaarrrr: raises 1200 to 2400
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+Amandaraujo: raises 2400 to 4800
+Katwoman0106: folds 
+fAArid88: folds 
+paulscot1: folds 
+Naaarrrr: raises 15020 to 19820 and is all-in
+Amandaraujo: calls 15020
+*** FLOP *** [3h Ks Kd]
+*** TURN *** [3h Ks Kd] [5h]
+*** RIVER *** [3h Ks Kd 5h] [6c]
+*** SHOW DOWN ***
+Naaarrrr: shows [8d 8s] (two pair, Kings and Eights)
+Amandaraujo: shows [Kc Js] (three of a kind, Kings)
+Amandaraujo collected 42640 from pot
+Naaarrrr finished the tournament
+*** SUMMARY ***
+Total pot 42640 | Rake 0 
+Board [3h Ks Kd 5h 6c]
+Seat 1: Katwoman0106 (button) folded before Flop (didn't bet)
+Seat 2: fAArid88 (small blind) folded before Flop
+Seat 3: paulscot1 (big blind) folded before Flop
+Seat 4: Naaarrrr showed [8d 8s] and lost with two pair, Kings and Eights
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: Amandaraujo showed [Kc Js] and won (42640) with three of a kind, Kings
+
+PokerStars Hand #251205641324: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:09:19 UTC [2024/06/26 15:09:19 ET]
+Table '3767885527 37' 8-max Seat #2 is the button
+Seat 1: Katwoman0106 (61383 in chips) 
+Seat 2: fAArid88 (7920 in chips) 
+Seat 3: paulscot1 (15620 in chips) 
+Seat 5: johnyguedes1 (63841 in chips) 
+Seat 6: yuzoyai (71903 in chips) 
+Seat 7: junior_re612 (65491 in chips) 
+Seat 8: Amandaraujo (55047 in chips) 
+Katwoman0106: posts the ante 175
+fAArid88: posts the ante 175
+paulscot1: posts the ante 175
+johnyguedes1: posts the ante 175
+yuzoyai: posts the ante 175
+junior_re612: posts the ante 175
+Amandaraujo: posts the ante 175
+paulscot1: posts small blind 700
+johnyguedes1: posts big blind 1400
+*** HOLE CARDS ***
+yuzoyai: folds 
+SWE_CS is disconnected 
+junior_re612: folds 
+Amandaraujo: folds 
+Katwoman0106: raises 1400 to 2800
+fAArid88: raises 4945 to 7745 and is all-in
+paulscot1: folds 
+johnyguedes1: raises 9145 to 16890
+Katwoman0106: folds 
+Uncalled bet (9145) returned to johnyguedes1
+*** FLOP *** [3d Tc Th]
+*** TURN *** [3d Tc Th] [4s]
+*** RIVER *** [3d Tc Th 4s] [2h]
+*** SHOW DOWN ***
+johnyguedes1: shows [Ad 9s] (a pair of Tens)
+fAArid88: shows [4d Ah] (two pair, Tens and Fours)
+fAArid88 collected 20215 from pot
+*** SUMMARY ***
+Total pot 20215 | Rake 0 
+Board [3d Tc Th 4s 2h]
+Seat 1: Katwoman0106 folded before Flop
+Seat 2: fAArid88 (button) showed [4d Ah] and won (20215) with two pair, Tens and Fours
+Seat 3: paulscot1 (small blind) folded before Flop
+Seat 5: johnyguedes1 (big blind) showed [Ad 9s] and lost with a pair of Tens
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: Amandaraujo folded before Flop (didn't bet)
+
+PokerStars Hand #251205651552: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:09:57 UTC [2024/06/26 15:09:57 ET]
+Table '3767885527 37' 8-max Seat #3 is the button
+Seat 1: Katwoman0106 (58408 in chips) 
+Seat 2: fAArid88 (20215 in chips) 
+Seat 3: paulscot1 (14745 in chips) 
+Seat 4: SWE_CS (25000 in chips) out of hand (moved from another table into small blind)
+Seat 5: johnyguedes1 (55921 in chips) 
+Seat 6: yuzoyai (71728 in chips) 
+Seat 7: junior_re612 (65316 in chips) 
+Seat 8: Amandaraujo (54872 in chips) 
+SWE_CS will be allowed to play after the button
+Katwoman0106: posts the ante 175
+fAArid88: posts the ante 175
+paulscot1: posts the ante 175
+johnyguedes1: posts the ante 175
+yuzoyai: posts the ante 175
+junior_re612: posts the ante 175
+Amandaraujo: posts the ante 175
+johnyguedes1: posts small blind 700
+yuzoyai: posts big blind 1400
+*** HOLE CARDS ***
+junior_re612: folds 
+Amandaraujo: folds 
+Katwoman0106: folds 
+fAArid88: folds 
+paulscot1: folds 
+johnyguedes1: calls 700
+yuzoyai: checks 
+*** FLOP *** [3c Ac Js]
+johnyguedes1: bets 1400
+yuzoyai: raises 2952 to 4352
+johnyguedes1: calls 2952
+*** TURN *** [3c Ac Js] [6h]
+johnyguedes1: checks 
+yuzoyai: checks 
+*** RIVER *** [3c Ac Js 6h] [4s]
+johnyguedes1: bets 10565
+yuzoyai: folds 
+Uncalled bet (10565) returned to johnyguedes1
+johnyguedes1 collected 12729 from pot
+johnyguedes1: doesn't show hand 
+*** SUMMARY ***
+Total pot 12729 | Rake 0 
+Board [3c Ac Js 6h 4s]
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: paulscot1 (button) folded before Flop (didn't bet)
+Seat 5: johnyguedes1 (small blind) collected (12729)
+Seat 6: yuzoyai (big blind) folded on the River
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: Amandaraujo folded before Flop (didn't bet)
+
+PokerStars Hand #251205673323: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:11:18 UTC [2024/06/26 15:11:18 ET]
+Table '3767885527 37' 8-max Seat #5 is the button
+Seat 1: Katwoman0106 (58233 in chips) 
+Seat 2: fAArid88 (20040 in chips) 
+Seat 3: paulscot1 (14570 in chips) 
+Seat 4: SWE_CS (25000 in chips) 
+Seat 5: johnyguedes1 (62723 in chips) 
+Seat 6: yuzoyai (65801 in chips) 
+Seat 7: junior_re612 (65141 in chips) 
+Seat 8: Amandaraujo (54697 in chips) 
+Katwoman0106: posts the ante 175
+fAArid88: posts the ante 175
+paulscot1: posts the ante 175
+SWE_CS: posts the ante 175
+johnyguedes1: posts the ante 175
+yuzoyai: posts the ante 175
+junior_re612: posts the ante 175
+Amandaraujo: posts the ante 175
+yuzoyai: posts small blind 700
+junior_re612: posts big blind 1400
+*** HOLE CARDS ***
+Amandaraujo: folds 
+Katwoman0106: folds 
+fAArid88: folds 
+paulscot1: folds 
+SWE_CS: folds 
+johnyguedes1: raises 1540 to 2940
+yuzoyai: folds 
+junior_re612: calls 1540
+*** FLOP *** [Js 7d 4h]
+junior_re612: checks 
+johnyguedes1: bets 2633
+junior_re612: folds 
+Uncalled bet (2633) returned to johnyguedes1
+johnyguedes1 collected 7980 from pot
+johnyguedes1: doesn't show hand 
+*** SUMMARY ***
+Total pot 7980 | Rake 0 
+Board [Js 7d 4h]
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: paulscot1 folded before Flop (didn't bet)
+Seat 4: SWE_CS folded before Flop (didn't bet)
+Seat 5: johnyguedes1 (button) collected (7980)
+Seat 6: yuzoyai (small blind) folded before Flop
+Seat 7: junior_re612 (big blind) folded on the Flop
+Seat 8: Amandaraujo folded before Flop (didn't bet)
+
+PokerStars Hand #251205684942: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:12:01 UTC [2024/06/26 15:12:01 ET]
+Table '3767885527 37' 8-max Seat #6 is the button
+Seat 1: Katwoman0106 (58058 in chips) 
+Seat 2: fAArid88 (19865 in chips) 
+Seat 3: paulscot1 (14395 in chips) 
+Seat 4: SWE_CS (24825 in chips) 
+Seat 5: johnyguedes1 (67588 in chips) 
+Seat 6: yuzoyai (64926 in chips) 
+Seat 7: junior_re612 (62026 in chips) 
+Seat 8: Amandaraujo (54522 in chips) 
+Katwoman0106: posts the ante 175
+fAArid88: posts the ante 175
+paulscot1: posts the ante 175
+SWE_CS: posts the ante 175
+johnyguedes1: posts the ante 175
+yuzoyai: posts the ante 175
+junior_re612: posts the ante 175
+Amandaraujo: posts the ante 175
+junior_re612: posts small blind 700
+Amandaraujo: posts big blind 1400
+*** HOLE CARDS ***
+Katwoman0106: folds 
+fAArid88: folds 
+paulscot1: raises 12820 to 14220 and is all-in
+SWE_CS: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+Amandaraujo: folds 
+Uncalled bet (12820) returned to paulscot1
+paulscot1 collected 4900 from pot
+paulscot1: doesn't show hand 
+*** SUMMARY ***
+Total pot 4900 | Rake 0 
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: paulscot1 collected (4900)
+Seat 4: SWE_CS folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai (button) folded before Flop (didn't bet)
+Seat 7: junior_re612 (small blind) folded before Flop
+Seat 8: Amandaraujo (big blind) folded before Flop
+
+PokerStars Hand #251205694572: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:12:36 UTC [2024/06/26 15:12:36 ET]
+Table '3767885527 37' 8-max Seat #7 is the button
+Seat 1: Katwoman0106 (57883 in chips) 
+Seat 2: fAArid88 (19690 in chips) 
+Seat 3: paulscot1 (17720 in chips) 
+Seat 4: SWE_CS (24650 in chips) 
+Seat 5: johnyguedes1 (67413 in chips) 
+Seat 6: yuzoyai (64751 in chips) 
+Seat 7: junior_re612 (61151 in chips) 
+Seat 8: Amandaraujo (52947 in chips) 
+Katwoman0106: posts the ante 175
+fAArid88: posts the ante 175
+paulscot1: posts the ante 175
+SWE_CS: posts the ante 175
+johnyguedes1: posts the ante 175
+yuzoyai: posts the ante 175
+junior_re612: posts the ante 175
+Amandaraujo: posts the ante 175
+Amandaraujo: posts small blind 700
+Katwoman0106: posts big blind 1400
+*** HOLE CARDS ***
+fAArid88: folds 
+paulscot1: folds 
+SWE_CS: folds 
+johnyguedes1: raises 1540 to 2940
+yuzoyai: folds 
+junior_re612: calls 2940
+Amandaraujo: calls 2240
+Katwoman0106: calls 1540
+*** FLOP *** [2h Jc 6s]
+Amandaraujo: checks 
+Katwoman0106: checks 
+johnyguedes1: checks 
+junior_re612: checks 
+*** TURN *** [2h Jc 6s] [Jh]
+Amandaraujo: checks 
+Katwoman0106: bets 7373
+johnyguedes1: folds 
+junior_re612: folds 
+Amandaraujo: folds 
+Uncalled bet (7373) returned to Katwoman0106
+Katwoman0106 collected 13160 from pot
+Katwoman0106: doesn't show hand 
+*** SUMMARY ***
+Total pot 13160 | Rake 0 
+Board [2h Jc 6s Jh]
+Seat 1: Katwoman0106 (big blind) collected (13160)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: paulscot1 folded before Flop (didn't bet)
+Seat 4: SWE_CS folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded on the Turn
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 (button) folded on the Turn
+Seat 8: Amandaraujo (small blind) folded on the Turn
+
+PokerStars Hand #251205711410: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:13:39 UTC [2024/06/26 15:13:39 ET]
+Table '3767885527 37' 8-max Seat #8 is the button
+Seat 1: Katwoman0106 (67928 in chips) 
+Seat 2: fAArid88 (19515 in chips) 
+Seat 3: paulscot1 (17545 in chips) 
+Seat 4: SWE_CS (24475 in chips) 
+Seat 5: johnyguedes1 (64298 in chips) 
+Seat 6: yuzoyai (64576 in chips) 
+Seat 7: junior_re612 (58036 in chips) 
+Seat 8: Amandaraujo (49832 in chips) 
+Katwoman0106: posts the ante 175
+fAArid88: posts the ante 175
+paulscot1: posts the ante 175
+SWE_CS: posts the ante 175
+johnyguedes1: posts the ante 175
+yuzoyai: posts the ante 175
+junior_re612: posts the ante 175
+Amandaraujo: posts the ante 175
+Katwoman0106: posts small blind 700
+fAArid88: posts big blind 1400
+*** HOLE CARDS ***
+paulscot1: folds 
+SWE_CS: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+Amandaraujo: folds 
+Katwoman0106: folds 
+Uncalled bet (700) returned to fAArid88
+fAArid88 collected 2800 from pot
+fAArid88: doesn't show hand 
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Seat 1: Katwoman0106 (small blind) folded before Flop
+Seat 2: fAArid88 (big blind) collected (2800)
+Seat 3: paulscot1 folded before Flop (didn't bet)
+Seat 4: SWE_CS folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: Amandaraujo (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205721838: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:14:17 UTC [2024/06/26 15:14:17 ET]
+Table '3767885527 37' 8-max Seat #1 is the button
+Seat 1: Katwoman0106 (67053 in chips) 
+Seat 2: fAArid88 (21440 in chips) 
+Seat 3: paulscot1 (17370 in chips) 
+Seat 4: SWE_CS (24300 in chips) 
+Seat 5: johnyguedes1 (64123 in chips) 
+Seat 6: yuzoyai (64401 in chips) 
+Seat 7: junior_re612 (57861 in chips) 
+Seat 8: Amandaraujo (49657 in chips) 
+Katwoman0106: posts the ante 175
+fAArid88: posts the ante 175
+paulscot1: posts the ante 175
+SWE_CS: posts the ante 175
+johnyguedes1: posts the ante 175
+yuzoyai: posts the ante 175
+junior_re612: posts the ante 175
+Amandaraujo: posts the ante 175
+fAArid88: posts small blind 700
+paulscot1: posts big blind 1400
+*** HOLE CARDS ***
+SWE_CS: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+Amandaraujo: raises 1400 to 2800
+Katwoman0106: calls 2800
+fAArid88: raises 18465 to 21265 and is all-in
+paulscot1: folds 
+Amandaraujo: folds 
+Katwoman0106: calls 18465
+*** FLOP *** [6d 3h 2h]
+*** TURN *** [6d 3h 2h] [Qs]
+*** RIVER *** [6d 3h 2h Qs] [5c]
+*** SHOW DOWN ***
+fAArid88: shows [Qd Ks] (a pair of Queens)
+Katwoman0106: shows [Ac 9c] (high card Ace)
+fAArid88 collected 48130 from pot
+*** SUMMARY ***
+Total pot 48130 | Rake 0 
+Board [6d 3h 2h Qs 5c]
+Seat 1: Katwoman0106 (button) showed [Ac 9c] and lost with high card Ace
+Seat 2: fAArid88 (small blind) showed [Qd Ks] and won (48130) with a pair of Queens
+Seat 3: paulscot1 (big blind) folded before Flop
+Seat 4: SWE_CS folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: Amandaraujo folded before Flop
+
+PokerStars Hand #251205733111: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:14:59 UTC [2024/06/26 15:14:59 ET]
+Table '3767885527 37' 8-max Seat #2 is the button
+Seat 1: Katwoman0106 (45613 in chips) 
+Seat 2: fAArid88 (48130 in chips) 
+Seat 3: paulscot1 (15795 in chips) 
+Seat 4: SWE_CS (24125 in chips) 
+Seat 5: johnyguedes1 (63948 in chips) 
+Seat 6: yuzoyai (64226 in chips) 
+Seat 7: junior_re612 (57686 in chips) 
+Seat 8: Amandaraujo (46682 in chips) 
+Katwoman0106: posts the ante 175
+fAArid88: posts the ante 175
+paulscot1: posts the ante 175
+SWE_CS: posts the ante 175
+johnyguedes1: posts the ante 175
+yuzoyai: posts the ante 175
+junior_re612: posts the ante 175
+Amandaraujo: posts the ante 175
+paulscot1: posts small blind 700
+SWE_CS: posts big blind 1400
+*** HOLE CARDS ***
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+Amandaraujo: raises 1400 to 2800
+Katwoman0106: calls 2800
+fAArid88: folds 
+paulscot1: folds 
+SWE_CS: folds 
+*** FLOP *** [8s 3d 8h]
+Amandaraujo: checks 
+Katwoman0106: checks 
+*** TURN *** [8s 3d 8h] [7s]
+Amandaraujo: checks 
+Katwoman0106: checks 
+*** RIVER *** [8s 3d 8h 7s] [6s]
+Amandaraujo: checks 
+Katwoman0106: checks 
+*** SHOW DOWN ***
+Amandaraujo: shows [Qd Jd] (a pair of Eights)
+Katwoman0106: shows [2c 2h] (two pair, Eights and Deuces)
+Katwoman0106 collected 9100 from pot
+*** SUMMARY ***
+Total pot 9100 | Rake 0 
+Board [8s 3d 8h 7s 6s]
+Seat 1: Katwoman0106 showed [2c 2h] and won (9100) with two pair, Eights and Deuces
+Seat 2: fAArid88 (button) folded before Flop (didn't bet)
+Seat 3: paulscot1 (small blind) folded before Flop
+Seat 4: SWE_CS (big blind) folded before Flop
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: Amandaraujo showed [Qd Jd] and lost with a pair of Eights
+
+PokerStars Hand #251205743653: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:15:38 UTC [2024/06/26 15:15:38 ET]
+Table '3767885527 37' 8-max Seat #3 is the button
+Seat 1: Katwoman0106 (51738 in chips) 
+Seat 2: fAArid88 (47955 in chips) 
+Seat 3: paulscot1 (14920 in chips) 
+Seat 4: SWE_CS (22550 in chips) 
+Seat 5: johnyguedes1 (63773 in chips) 
+Seat 6: yuzoyai (64051 in chips) 
+Seat 7: junior_re612 (57511 in chips) 
+Seat 8: Amandaraujo (43707 in chips) 
+Katwoman0106: posts the ante 175
+fAArid88: posts the ante 175
+paulscot1: posts the ante 175
+SWE_CS: posts the ante 175
+johnyguedes1: posts the ante 175
+yuzoyai: posts the ante 175
+junior_re612: posts the ante 175
+Amandaraujo: posts the ante 175
+SWE_CS: posts small blind 700
+johnyguedes1: posts big blind 1400
+*** HOLE CARDS ***
+yuzoyai: raises 1400 to 2800
+junior_re612: folds 
+Amandaraujo: calls 2800
+Katwoman0106: folds 
+fAArid88: raises 8400 to 11200
+paulscot1: folds 
+SWE_CS: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+Amandaraujo: calls 8400
+*** FLOP *** [Kc 5d 5s]
+Amandaraujo: checks 
+fAArid88: checks 
+*** TURN *** [Kc 5d 5s] [2h]
+Amandaraujo: checks 
+fAArid88: checks 
+*** RIVER *** [Kc 5d 5s 2h] [6d]
+Amandaraujo: checks 
+fAArid88: bets 8400
+Amandaraujo: raises 8400 to 16800
+fAArid88: raises 8400 to 25200
+Amandaraujo: raises 7132 to 32332 and is all-in
+fAArid88: calls 7132
+*** SHOW DOWN ***
+Amandaraujo: shows [2s 5c] (a full house, Fives full of Deuces)
+fAArid88: shows [Kh Kd] (a full house, Kings full of Fives)
+fAArid88 collected 93364 from pot
+Amandaraujo finished the tournament
+*** SUMMARY ***
+Total pot 93364 | Rake 0 
+Board [Kc 5d 5s 2h 6d]
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 showed [Kh Kd] and won (93364) with a full house, Kings full of Fives
+Seat 3: paulscot1 (button) folded before Flop (didn't bet)
+Seat 4: SWE_CS (small blind) folded before Flop
+Seat 5: johnyguedes1 (big blind) folded before Flop
+Seat 6: yuzoyai folded before Flop
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: Amandaraujo showed [2s 5c] and lost with a full house, Fives full of Deuces
+
+PokerStars Hand #251205761850: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:16:45 UTC [2024/06/26 15:16:45 ET]
+Table '3767885527 37' 8-max Seat #4 is the button
+Seat 1: Katwoman0106 (51563 in chips) 
+Seat 2: fAArid88 (97612 in chips) 
+Seat 3: paulscot1 (14745 in chips) 
+Seat 4: SWE_CS (21675 in chips) 
+Seat 5: johnyguedes1 (62198 in chips) 
+Seat 6: yuzoyai (61076 in chips) 
+Seat 7: junior_re612 (57336 in chips) 
+Katwoman0106: posts the ante 175
+fAArid88: posts the ante 175
+paulscot1: posts the ante 175
+SWE_CS: posts the ante 175
+johnyguedes1: posts the ante 175
+yuzoyai: posts the ante 175
+junior_re612: posts the ante 175
+johnyguedes1: posts small blind 700
+yuzoyai: posts big blind 1400
+*** HOLE CARDS ***
+junior_re612: folds 
+Katwoman0106: folds 
+fAArid88: folds 
+paulscot1: raises 13170 to 14570 and is all-in
+SWE_CS: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+Uncalled bet (13170) returned to paulscot1
+paulscot1 collected 4725 from pot
+paulscot1: doesn't show hand 
+*** SUMMARY ***
+Total pot 4725 | Rake 0 
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: paulscot1 collected (4725)
+Seat 4: SWE_CS (button) folded before Flop (didn't bet)
+Seat 5: johnyguedes1 (small blind) folded before Flop
+Seat 6: yuzoyai (big blind) folded before Flop
+Seat 7: junior_re612 folded before Flop (didn't bet)
+
+PokerStars Hand #251205771643: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:17:20 UTC [2024/06/26 15:17:20 ET]
+Table '3767885527 37' 8-max Seat #5 is the button
+Seat 1: Katwoman0106 (51388 in chips) 
+Seat 2: fAArid88 (97437 in chips) 
+Seat 3: paulscot1 (17895 in chips) 
+Seat 4: SWE_CS (21500 in chips) 
+Seat 5: johnyguedes1 (61323 in chips) 
+Seat 6: yuzoyai (59501 in chips) 
+Seat 7: junior_re612 (57161 in chips) 
+Katwoman0106: posts the ante 175
+fAArid88: posts the ante 175
+paulscot1: posts the ante 175
+SWE_CS: posts the ante 175
+johnyguedes1: posts the ante 175
+yuzoyai: posts the ante 175
+junior_re612: posts the ante 175
+yuzoyai: posts small blind 700
+junior_re612: posts big blind 1400
+*** HOLE CARDS ***
+Katwoman0106: raises 1400 to 2800
+fAArid88: folds 
+paulscot1: folds 
+SWE_CS: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+Uncalled bet (1400) returned to Katwoman0106
+Katwoman0106 collected 4725 from pot
+*** SUMMARY ***
+Total pot 4725 | Rake 0 
+Seat 1: Katwoman0106 collected (4725)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: paulscot1 folded before Flop (didn't bet)
+Seat 4: SWE_CS folded before Flop (didn't bet)
+Seat 5: johnyguedes1 (button) folded before Flop (didn't bet)
+Seat 6: yuzoyai (small blind) folded before Flop
+Seat 7: junior_re612 (big blind) folded before Flop
+
+PokerStars Hand #251205782195: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:17:59 UTC [2024/06/26 15:17:59 ET]
+Table '3767885527 37' 8-max Seat #6 is the button
+Seat 1: Katwoman0106 (54538 in chips) 
+Seat 2: fAArid88 (97262 in chips) 
+Seat 3: paulscot1 (17720 in chips) 
+Seat 4: SWE_CS (21325 in chips) 
+Seat 5: johnyguedes1 (61148 in chips) 
+Seat 6: yuzoyai (58626 in chips) 
+Seat 7: junior_re612 (55586 in chips) 
+Katwoman0106: posts the ante 175
+fAArid88: posts the ante 175
+paulscot1: posts the ante 175
+SWE_CS: posts the ante 175
+johnyguedes1: posts the ante 175
+yuzoyai: posts the ante 175
+junior_re612: posts the ante 175
+junior_re612: posts small blind 700
+Katwoman0106: posts big blind 1400
+*** HOLE CARDS ***
+fAArid88: folds 
+bashfoc2 is disconnected 
+paulscot1: folds 
+SWE_CS: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+Uncalled bet (700) returned to Katwoman0106
+Katwoman0106 collected 2625 from pot
+*** SUMMARY ***
+Total pot 2625 | Rake 0 
+Seat 1: Katwoman0106 (big blind) collected (2625)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: paulscot1 folded before Flop (didn't bet)
+Seat 4: SWE_CS folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai (button) folded before Flop (didn't bet)
+Seat 7: junior_re612 (small blind) folded before Flop
+
+PokerStars Hand #251205788415: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:18:22 UTC [2024/06/26 15:18:22 ET]
+Table '3767885527 37' 8-max Seat #7 is the button
+Seat 1: Katwoman0106 (56288 in chips) 
+Seat 2: fAArid88 (97087 in chips) 
+Seat 3: paulscot1 (17545 in chips) 
+Seat 4: SWE_CS (21150 in chips) 
+Seat 5: johnyguedes1 (60973 in chips) 
+Seat 6: yuzoyai (58451 in chips) 
+Seat 7: junior_re612 (54711 in chips) 
+Seat 8: bashfoc2 (25000 in chips) out of hand (moved from another table into small blind)
+bashfoc2 will be allowed to play after the button
+Katwoman0106: posts the ante 175
+fAArid88: posts the ante 175
+paulscot1: posts the ante 175
+SWE_CS: posts the ante 175
+johnyguedes1: posts the ante 175
+yuzoyai: posts the ante 175
+junior_re612: posts the ante 175
+Katwoman0106: posts small blind 700
+fAArid88: posts big blind 1400
+*** HOLE CARDS ***
+paulscot1: folds 
+SWE_CS: folds 
+johnyguedes1: raises 1540 to 2940
+yuzoyai: folds 
+junior_re612: folds 
+Katwoman0106: folds 
+fAArid88: calls 1540
+*** FLOP *** [6s 2s 3s]
+fAArid88: checks 
+johnyguedes1: bets 1951
+fAArid88: raises 7839 to 9790
+johnyguedes1: calls 7839
+*** TURN *** [6s 2s 3s] [8s]
+fAArid88: bets 9800
+johnyguedes1: calls 9800
+*** RIVER *** [6s 2s 3s 8s] [9c]
+fAArid88: bets 26600
+johnyguedes1: calls 26600
+*** SHOW DOWN ***
+fAArid88: shows [4h As] (a flush, Ace high)
+johnyguedes1: mucks hand 
+fAArid88 collected 100185 from pot
+*** SUMMARY ***
+Total pot 100185 | Rake 0 
+Board [6s 2s 3s 8s 9c]
+Seat 1: Katwoman0106 (small blind) folded before Flop
+Seat 2: fAArid88 (big blind) showed [4h As] and won (100185) with a flush, Ace high
+Seat 3: paulscot1 folded before Flop (didn't bet)
+Seat 4: SWE_CS folded before Flop (didn't bet)
+Seat 5: johnyguedes1 mucked
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205813184: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:19:52 UTC [2024/06/26 15:19:52 ET]
+Table '3767885527 37' 8-max Seat #1 is the button
+Seat 1: Katwoman0106 (55413 in chips) 
+Seat 2: fAArid88 (147967 in chips) 
+Seat 3: paulscot1 (17370 in chips) 
+Seat 4: SWE_CS (20975 in chips) 
+Seat 5: johnyguedes1 (11668 in chips) 
+Seat 6: yuzoyai (58276 in chips) 
+Seat 7: junior_re612 (54536 in chips) 
+Seat 8: bashfoc2 (25000 in chips) 
+Katwoman0106: posts the ante 200
+fAArid88: posts the ante 200
+paulscot1: posts the ante 200
+SWE_CS: posts the ante 200
+johnyguedes1: posts the ante 200
+yuzoyai: posts the ante 200
+junior_re612: posts the ante 200
+bashfoc2: posts the ante 200
+fAArid88: posts small blind 800
+paulscot1: posts big blind 1600
+*** HOLE CARDS ***
+SWE_CS: folds 
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+bashfoc2: raises 4800 to 6400
+Katwoman0106: folds 
+fAArid88: folds 
+paulscot1: folds 
+Uncalled bet (4800) returned to bashfoc2
+bashfoc2 collected 5600 from pot
+bashfoc2: doesn't show hand 
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Seat 1: Katwoman0106 (button) folded before Flop (didn't bet)
+Seat 2: fAArid88 (small blind) folded before Flop
+Seat 3: paulscot1 (big blind) folded before Flop
+Seat 4: SWE_CS folded before Flop (didn't bet)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: bashfoc2 collected (5600)
+
+PokerStars Hand #251205819663: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:20:16 UTC [2024/06/26 15:20:16 ET]
+Table '3767885527 37' 8-max Seat #2 is the button
+Seat 1: Katwoman0106 (55213 in chips) 
+Seat 2: fAArid88 (146967 in chips) 
+Seat 3: paulscot1 (15570 in chips) 
+Seat 4: SWE_CS (20775 in chips) 
+Seat 5: johnyguedes1 (11468 in chips) 
+Seat 6: yuzoyai (58076 in chips) 
+Seat 7: junior_re612 (54336 in chips) 
+Seat 8: bashfoc2 (28800 in chips) 
+Katwoman0106: posts the ante 200
+fAArid88: posts the ante 200
+paulscot1: posts the ante 200
+SWE_CS: posts the ante 200
+johnyguedes1: posts the ante 200
+yuzoyai: posts the ante 200
+junior_re612: posts the ante 200
+bashfoc2: posts the ante 200
+paulscot1: posts small blind 800
+SWE_CS: posts big blind 1600
+*** HOLE CARDS ***
+johnyguedes1: folds 
+yuzoyai: folds 
+junior_re612: folds 
+bashfoc2: folds 
+Katwoman0106: raises 1600 to 3200
+fAArid88: folds 
+paulscot1: folds 
+SWE_CS: calls 1600
+*** FLOP *** [Jd Ad 3s]
+SWE_CS: checks 
+Katwoman0106: checks 
+*** TURN *** [Jd Ad 3s] [Kd]
+SWE_CS: checks 
+Katwoman0106: checks 
+*** RIVER *** [Jd Ad 3s Kd] [Qd]
+SWE_CS: bets 4400
+Katwoman0106: folds [Qs Ks]
+Uncalled bet (4400) returned to SWE_CS
+SWE_CS collected 8800 from pot
+SWE_CS: doesn't show hand 
+*** SUMMARY ***
+Total pot 8800 | Rake 0 
+Board [Jd Ad 3s Kd Qd]
+Seat 1: Katwoman0106 folded on the River
+Seat 2: fAArid88 (button) folded before Flop (didn't bet)
+Seat 3: paulscot1 (small blind) folded before Flop
+Seat 4: SWE_CS (big blind) collected (8800)
+Seat 5: johnyguedes1 folded before Flop (didn't bet)
+Seat 6: yuzoyai folded before Flop (didn't bet)
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: bashfoc2 folded before Flop (didn't bet)
+
+PokerStars Hand #251205832214: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:21:02 UTC [2024/06/26 15:21:02 ET]
+Table '3767885527 37' 8-max Seat #3 is the button
+Seat 1: Katwoman0106 (51813 in chips) 
+Seat 2: fAArid88 (146767 in chips) 
+Seat 3: paulscot1 (14570 in chips) 
+Seat 4: SWE_CS (26175 in chips) 
+Seat 5: johnyguedes1 (11268 in chips) 
+Seat 6: yuzoyai (57876 in chips) 
+Seat 7: junior_re612 (54136 in chips) 
+Seat 8: bashfoc2 (28600 in chips) 
+Katwoman0106: posts the ante 200
+fAArid88: posts the ante 200
+paulscot1: posts the ante 200
+SWE_CS: posts the ante 200
+johnyguedes1: posts the ante 200
+yuzoyai: posts the ante 200
+junior_re612: posts the ante 200
+bashfoc2: posts the ante 200
+SWE_CS: posts small blind 800
+johnyguedes1: posts big blind 1600
+*** HOLE CARDS ***
+yuzoyai: raises 1600 to 3200
+junior_re612: folds 
+bashfoc2: raises 4800 to 8000
+Katwoman0106: folds 
+fAArid88: folds 
+paulscot1: folds 
+SWE_CS: raises 17975 to 25975 and is all-in
+johnyguedes1: folds 
+yuzoyai: raises 31701 to 57676 and is all-in
+bashfoc2: calls 20400 and is all-in
+Uncalled bet (29276) returned to yuzoyai
+*** FLOP *** [4s 7s Ac]
+*** TURN *** [4s 7s Ac] [3h]
+*** RIVER *** [4s 7s Ac 3h] [Ad]
+*** SHOW DOWN ***
+yuzoyai: shows [Kh Kc] (two pair, Aces and Kings)
+bashfoc2: shows [As Qd] (three of a kind, Aces)
+bashfoc2 collected 4850 from side pot
+SWE_CS: shows [Qs Qc] (two pair, Aces and Queens)
+bashfoc2 collected 81125 from main pot
+SWE_CS finished the tournament
+*** SUMMARY ***
+Total pot 85975 Main pot 81125. Side pot 4850. | Rake 0 
+Board [4s 7s Ac 3h Ad]
+Seat 1: Katwoman0106 folded before Flop (didn't bet)
+Seat 2: fAArid88 folded before Flop (didn't bet)
+Seat 3: paulscot1 (button) folded before Flop (didn't bet)
+Seat 4: SWE_CS (small blind) showed [Qs Qc] and lost with two pair, Aces and Queens
+Seat 5: johnyguedes1 (big blind) folded before Flop
+Seat 6: yuzoyai showed [Kh Kc] and lost with two pair, Aces and Kings
+Seat 7: junior_re612 folded before Flop (didn't bet)
+Seat 8: bashfoc2 showed [As Qd] and won (85975) with three of a kind, Aces

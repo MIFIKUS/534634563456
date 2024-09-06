@@ -1,0 +1,1705 @@
+PokerStars Hand #251201362982: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XIII (250/500) - 2024/06/26 13:19:45 UTC [2024/06/26 9:19:45 ET]
+Table '3769360237 16' 8-max Seat #2 is the button
+Seat 1: Sick´nSocial (4935 in chips) 
+Seat 2: eddie4e4 (4685 in chips) 
+Seat 3: sharkh0 (5380 in chips) 
+Seat 4: billionaaire (5000 in chips) 
+Seat 5: DeathBrain09 (4935 in chips) 
+Seat 6: vitinhorrn15 (4935 in chips) 
+Sick´nSocial: posts the ante 65
+eddie4e4: posts the ante 65
+sharkh0: posts the ante 65
+billionaaire: posts the ante 65
+DeathBrain09: posts the ante 65
+vitinhorrn15: posts the ante 65
+sharkh0: posts small blind 250
+billionaaire: posts big blind 500
+*** HOLE CARDS ***
+DeathBrain09: folds 
+vitinhorrn15: raises 4370 to 4870 and is all-in
+Sick´nSocial: folds 
+eddie4e4: folds 
+sharkh0: folds 
+billionaaire: folds 
+Uncalled bet (4370) returned to vitinhorrn15
+vitinhorrn15 collected 1640 from pot
+vitinhorrn15: doesn't show hand 
+*** SUMMARY ***
+Total pot 1640 | Rake 0 
+Seat 1: Sick´nSocial folded before Flop (didn't bet)
+Seat 2: eddie4e4 (button) folded before Flop (didn't bet)
+Seat 3: sharkh0 (small blind) folded before Flop
+Seat 4: billionaaire (big blind) folded before Flop
+Seat 5: DeathBrain09 folded before Flop (didn't bet)
+Seat 6: vitinhorrn15 collected (1640)
+
+PokerStars Hand #251201369907: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XIII (250/500) - 2024/06/26 13:20:26 UTC [2024/06/26 9:20:26 ET]
+Table '3769360237 16' 8-max Seat #3 is the button
+Seat 1: Sick´nSocial (4870 in chips) 
+Seat 2: eddie4e4 (4620 in chips) 
+Seat 3: sharkh0 (5065 in chips) 
+Seat 4: billionaaire (4435 in chips) 
+Seat 5: DeathBrain09 (4870 in chips) 
+Seat 6: vitinhorrn15 (6010 in chips) 
+Sick´nSocial: posts the ante 65
+eddie4e4: posts the ante 65
+sharkh0: posts the ante 65
+billionaaire: posts the ante 65
+DeathBrain09: posts the ante 65
+vitinhorrn15: posts the ante 65
+billionaaire: posts small blind 250
+DeathBrain09: posts big blind 500
+*** HOLE CARDS ***
+vitinhorrn15: folds 
+Sick´nSocial: folds 
+eddie4e4: folds 
+sharkh0: raises 4500 to 5000 and is all-in
+billionaaire: calls 4120 and is all-in
+DeathBrain09: folds 
+Uncalled bet (630) returned to sharkh0
+*** FLOP *** [2h Jh Ah]
+*** TURN *** [2h Jh Ah] [7d]
+*** RIVER *** [2h Jh Ah 7d] [Th]
+*** SHOW DOWN ***
+billionaaire: shows [Ac Qh] (a flush, Ace high)
+sharkh0: shows [8h 9h] (a flush, Ace high - lower cards)
+billionaaire collected 9630 from pot
+*** SUMMARY ***
+Total pot 9630 | Rake 0 
+Board [2h Jh Ah 7d Th]
+Seat 1: Sick´nSocial folded before Flop (didn't bet)
+Seat 2: eddie4e4 folded before Flop (didn't bet)
+Seat 3: sharkh0 (button) showed [8h 9h] and lost with a flush, Ace high
+Seat 4: billionaaire (small blind) showed [Ac Qh] and won (9630) with a flush, Ace high
+Seat 5: DeathBrain09 (big blind) folded before Flop
+Seat 6: vitinhorrn15 folded before Flop (didn't bet)
+
+PokerStars Hand #251201376911: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XIII (250/500) - 2024/06/26 13:21:08 UTC [2024/06/26 9:21:08 ET]
+Table '3769360237 16' 8-max Seat #4 is the button
+Seat 1: Sick´nSocial (4805 in chips) 
+Seat 2: eddie4e4 (4555 in chips) 
+Seat 3: sharkh0 (630 in chips) 
+Seat 4: billionaaire (9630 in chips) 
+Seat 5: DeathBrain09 (4305 in chips) 
+Seat 6: vitinhorrn15 (5945 in chips) 
+Sick´nSocial: posts the ante 65
+eddie4e4: posts the ante 65
+sharkh0: posts the ante 65
+billionaaire: posts the ante 65
+DeathBrain09: posts the ante 65
+vitinhorrn15: posts the ante 65
+DeathBrain09: posts small blind 250
+vitinhorrn15: posts big blind 500
+*** HOLE CARDS ***
+Sick´nSocial: raises 4000 to 4500
+eddie4e4: folds 
+sharkh0: calls 565 and is all-in
+billionaaire: folds 
+DeathBrain09: folds 
+vitinhorrn15: folds 
+Uncalled bet (3935) returned to Sick´nSocial
+*** FLOP *** [5c 3s 2d]
+*** TURN *** [5c 3s 2d] [Js]
+*** RIVER *** [5c 3s 2d Js] [Jc]
+*** SHOW DOWN ***
+Sick´nSocial: shows [7s As] (a pair of Jacks)
+sharkh0: shows [Ks Qs] (a pair of Jacks - lower kicker)
+Sick´nSocial collected 2270 from pot
+sharkh0 finished the tournament in 26th place
+*** SUMMARY ***
+Total pot 2270 | Rake 0 
+Board [5c 3s 2d Js Jc]
+Seat 1: Sick´nSocial showed [7s As] and won (2270) with a pair of Jacks
+Seat 2: eddie4e4 folded before Flop (didn't bet)
+Seat 3: sharkh0 showed [Ks Qs] and lost with a pair of Jacks
+Seat 4: billionaaire (button) folded before Flop (didn't bet)
+Seat 5: DeathBrain09 (small blind) folded before Flop
+Seat 6: vitinhorrn15 (big blind) folded before Flop
+
+PokerStars Hand #251201383532: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XIV (300/600) - 2024/06/26 13:21:47 UTC [2024/06/26 9:21:47 ET]
+Table '3769360237 16' 8-max Seat #5 is the button
+Seat 1: Sick´nSocial (6445 in chips) 
+Seat 2: eddie4e4 (4490 in chips) 
+Seat 4: billionaaire (9565 in chips) 
+Seat 5: DeathBrain09 (3990 in chips) 
+Seat 6: vitinhorrn15 (5380 in chips) 
+Sick´nSocial: posts the ante 75
+eddie4e4: posts the ante 75
+billionaaire: posts the ante 75
+DeathBrain09: posts the ante 75
+vitinhorrn15: posts the ante 75
+vitinhorrn15: posts small blind 300
+Sick´nSocial: posts big blind 600
+*** HOLE CARDS ***
+eddie4e4: folds 
+Tom_Poker_NL is disconnected 
+paulinijo is disconnected 
+losscreeners is disconnected 
+billionaaire: folds 
+DeathBrain09: folds 
+vitinhorrn15: raises 4705 to 5305 and is all-in
+Sick´nSocial: calls 4705
+*** FLOP *** [7c 8h 6h]
+*** TURN *** [7c 8h 6h] [Jc]
+*** RIVER *** [7c 8h 6h Jc] [4d]
+*** SHOW DOWN ***
+vitinhorrn15: shows [3s Kh] (high card King)
+Sick´nSocial: shows [Qs As] (high card Ace)
+Sick´nSocial collected 10985 from pot
+vitinhorrn15 finished the tournament in 24th place
+*** SUMMARY ***
+Total pot 10985 | Rake 0 
+Board [7c 8h 6h Jc 4d]
+Seat 1: Sick´nSocial (big blind) showed [Qs As] and won (10985) with high card Ace
+Seat 2: eddie4e4 folded before Flop (didn't bet)
+Seat 4: billionaaire folded before Flop (didn't bet)
+Seat 5: DeathBrain09 (button) folded before Flop (didn't bet)
+Seat 6: vitinhorrn15 (small blind) showed [3s Kh] and lost with high card King
+
+PokerStars Hand #251201391767: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XIV (300/600) - 2024/06/26 13:22:36 UTC [2024/06/26 9:22:36 ET]
+Table '3769360237 16' 8-max Seat #1 is the button
+Seat 1: Sick´nSocial (12050 in chips) 
+Seat 2: eddie4e4 (4415 in chips) 
+Seat 3: Tom_Poker_NL (32324 in chips) 
+Seat 4: billionaaire (9490 in chips) 
+Seat 5: DeathBrain09 (3915 in chips) 
+Seat 7: paulinijo (18115 in chips) 
+Seat 8: losscreeners (22653 in chips) 
+Sick´nSocial: posts the ante 75
+eddie4e4: posts the ante 75
+Tom_Poker_NL: posts the ante 75
+billionaaire: posts the ante 75
+DeathBrain09: posts the ante 75
+paulinijo: posts the ante 75
+losscreeners: posts the ante 75
+eddie4e4: posts small blind 300
+Tom_Poker_NL: posts big blind 600
+*** HOLE CARDS ***
+billionaaire: raises 600 to 1200
+DeathBrain09: folds 
+paulinijo: folds 
+losscreeners: folds 
+Sick´nSocial: folds 
+eddie4e4: folds 
+Tom_Poker_NL: calls 600
+*** FLOP *** [7s 9h 2d]
+Tom_Poker_NL: checks 
+billionaaire: bets 1064
+Tom_Poker_NL: calls 1064
+*** TURN *** [7s 9h 2d] [Kh]
+Tom_Poker_NL: checks 
+billionaaire: bets 5353
+Tom_Poker_NL: calls 5353
+*** RIVER *** [7s 9h 2d Kh] [Ah]
+Tom_Poker_NL: checks 
+billionaaire: bets 1797
+Tom_Poker_NL: raises 1797 to 3594
+billionaaire: calls 1 and is all-in
+Uncalled bet (1796) returned to Tom_Poker_NL
+*** SHOW DOWN ***
+Tom_Poker_NL: shows [Jh 7h] (a flush, Ace high)
+billionaaire: shows [Th Qh] (a flush, Ace high - Queen higher)
+billionaaire collected 19655 from pot
+*** SUMMARY ***
+Total pot 19655 | Rake 0 
+Board [7s 9h 2d Kh Ah]
+Seat 1: Sick´nSocial (button) folded before Flop (didn't bet)
+Seat 2: eddie4e4 (small blind) folded before Flop
+Seat 3: Tom_Poker_NL (big blind) showed [Jh 7h] and lost with a flush, Ace high
+Seat 4: billionaaire showed [Th Qh] and won (19655) with a flush, Ace high
+Seat 5: DeathBrain09 folded before Flop (didn't bet)
+Seat 7: paulinijo folded before Flop (didn't bet)
+Seat 8: losscreeners folded before Flop (didn't bet)
+
+PokerStars Hand #251201412571: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XIV (300/600) - 2024/06/26 13:24:44 UTC [2024/06/26 9:24:44 ET]
+Table '3769360237 16' 8-max Seat #2 is the button
+Seat 1: Sick´nSocial (11975 in chips) 
+Seat 2: eddie4e4 (4040 in chips) 
+Seat 3: Tom_Poker_NL (22834 in chips) 
+Seat 4: billionaaire (19655 in chips) 
+Seat 5: DeathBrain09 (3840 in chips) 
+Seat 7: paulinijo (18040 in chips) 
+Seat 8: losscreeners (22578 in chips) 
+Sick´nSocial: posts the ante 75
+eddie4e4: posts the ante 75
+Tom_Poker_NL: posts the ante 75
+billionaaire: posts the ante 75
+DeathBrain09: posts the ante 75
+paulinijo: posts the ante 75
+losscreeners: posts the ante 75
+Tom_Poker_NL: posts small blind 300
+billionaaire: posts big blind 600
+*** HOLE CARDS ***
+DeathBrain09: folds 
+paulinijo: folds 
+losscreeners: folds 
+Sick´nSocial: folds 
+eddie4e4: folds 
+Tom_Poker_NL: calls 300
+billionaaire: checks 
+*** FLOP *** [5d Js 8d]
+Tom_Poker_NL: checks 
+billionaaire: bets 857
+Tom_Poker_NL: folds 
+Uncalled bet (857) returned to billionaaire
+billionaaire collected 1725 from pot
+billionaaire: doesn't show hand 
+*** SUMMARY ***
+Total pot 1725 | Rake 0 
+Board [5d Js 8d]
+Seat 1: Sick´nSocial folded before Flop (didn't bet)
+Seat 2: eddie4e4 (button) folded before Flop (didn't bet)
+Seat 3: Tom_Poker_NL (small blind) folded on the Flop
+Seat 4: billionaaire (big blind) collected (1725)
+Seat 5: DeathBrain09 folded before Flop (didn't bet)
+Seat 7: paulinijo folded before Flop (didn't bet)
+Seat 8: losscreeners folded before Flop (didn't bet)
+
+PokerStars Hand #251201424193: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XIV (300/600) - 2024/06/26 13:25:55 UTC [2024/06/26 9:25:55 ET]
+Table '3769360237 16' 8-max Seat #3 is the button
+Seat 1: Sick´nSocial (11900 in chips) 
+Seat 2: eddie4e4 (3965 in chips) 
+Seat 3: Tom_Poker_NL (22159 in chips) 
+Seat 4: billionaaire (20705 in chips) 
+Seat 5: DeathBrain09 (3765 in chips) 
+Seat 7: paulinijo (17965 in chips) 
+Seat 8: losscreeners (22503 in chips) 
+Sick´nSocial: posts the ante 75
+eddie4e4: posts the ante 75
+Tom_Poker_NL: posts the ante 75
+billionaaire: posts the ante 75
+DeathBrain09: posts the ante 75
+paulinijo: posts the ante 75
+losscreeners: posts the ante 75
+billionaaire: posts small blind 300
+DeathBrain09: posts big blind 600
+*** HOLE CARDS ***
+paulinijo: folds 
+losscreeners: folds 
+Sick´nSocial: raises 600 to 1200
+eddie4e4: folds 
+Tom_Poker_NL: folds 
+billionaaire: raises 19430 to 20630 and is all-in
+DeathBrain09: calls 3090 and is all-in
+Sick´nSocial: folds 
+Uncalled bet (16940) returned to billionaaire
+*** FLOP *** [Kd Qd 3c]
+*** TURN *** [Kd Qd 3c] [3d]
+*** RIVER *** [Kd Qd 3c 3d] [4s]
+*** SHOW DOWN ***
+billionaaire: shows [Js Jd] (two pair, Jacks and Threes)
+DeathBrain09: shows [Kc As] (two pair, Kings and Threes)
+DeathBrain09 collected 9105 from pot
+*** SUMMARY ***
+Total pot 9105 | Rake 0 
+Board [Kd Qd 3c 3d 4s]
+Seat 1: Sick´nSocial folded before Flop
+Seat 2: eddie4e4 folded before Flop (didn't bet)
+Seat 3: Tom_Poker_NL (button) folded before Flop (didn't bet)
+Seat 4: billionaaire (small blind) showed [Js Jd] and lost with two pair, Jacks and Threes
+Seat 5: DeathBrain09 (big blind) showed [Kc As] and won (9105) with two pair, Kings and Threes
+Seat 7: paulinijo folded before Flop (didn't bet)
+Seat 8: losscreeners folded before Flop (didn't bet)
+
+PokerStars Hand #251201434474: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XIV (300/600) - 2024/06/26 13:26:57 UTC [2024/06/26 9:26:57 ET]
+Table '3769360237 16' 8-max Seat #4 is the button
+Seat 1: Sick´nSocial (10625 in chips) 
+Seat 2: eddie4e4 (3890 in chips) 
+Seat 3: Tom_Poker_NL (22084 in chips) 
+Seat 4: billionaaire (16940 in chips) 
+Seat 5: DeathBrain09 (9105 in chips) 
+Seat 7: paulinijo (17890 in chips) 
+Seat 8: losscreeners (22428 in chips) 
+Sick´nSocial: posts the ante 75
+eddie4e4: posts the ante 75
+Tom_Poker_NL: posts the ante 75
+billionaaire: posts the ante 75
+DeathBrain09: posts the ante 75
+paulinijo: posts the ante 75
+losscreeners: posts the ante 75
+DeathBrain09: posts small blind 300
+paulinijo: posts big blind 600
+*** HOLE CARDS ***
+losscreeners: raises 600 to 1200
+Sick´nSocial: raises 1200 to 2400
+eddie4e4: folds 
+Tom_Poker_NL: folds 
+billionaaire: folds 
+DeathBrain09: folds 
+paulinijo: folds 
+losscreeners: folds 
+Uncalled bet (1200) returned to Sick´nSocial
+Sick´nSocial collected 3825 from pot
+Sick´nSocial: doesn't show hand 
+*** SUMMARY ***
+Total pot 3825 | Rake 0 
+Seat 1: Sick´nSocial collected (3825)
+Seat 2: eddie4e4 folded before Flop (didn't bet)
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire (button) folded before Flop (didn't bet)
+Seat 5: DeathBrain09 (small blind) folded before Flop
+Seat 7: paulinijo (big blind) folded before Flop
+Seat 8: losscreeners folded before Flop
+
+PokerStars Hand #251201438569: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XIV (300/600) - 2024/06/26 13:27:21 UTC [2024/06/26 9:27:21 ET]
+Table '3769360237 16' 8-max Seat #5 is the button
+Seat 1: Sick´nSocial (13175 in chips) 
+Seat 2: eddie4e4 (3815 in chips) 
+Seat 3: Tom_Poker_NL (22009 in chips) 
+Seat 4: billionaaire (16865 in chips) 
+Seat 5: DeathBrain09 (8730 in chips) 
+Seat 7: paulinijo (17215 in chips) 
+Seat 8: losscreeners (21153 in chips) 
+Sick´nSocial: posts the ante 75
+eddie4e4: posts the ante 75
+Tom_Poker_NL: posts the ante 75
+billionaaire: posts the ante 75
+DeathBrain09: posts the ante 75
+paulinijo: posts the ante 75
+losscreeners: posts the ante 75
+paulinijo: posts small blind 300
+losscreeners: posts big blind 600
+*** HOLE CARDS ***
+Sick´nSocial: folds 
+eddie4e4: raises 3140 to 3740 and is all-in
+Tom_Poker_NL: folds 
+billionaaire: folds 
+DeathBrain09: folds 
+paulinijo: folds 
+losscreeners: folds 
+Uncalled bet (3140) returned to eddie4e4
+eddie4e4 collected 2025 from pot
+*** SUMMARY ***
+Total pot 2025 | Rake 0 
+Seat 1: Sick´nSocial folded before Flop (didn't bet)
+Seat 2: eddie4e4 collected (2025)
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire folded before Flop (didn't bet)
+Seat 5: DeathBrain09 (button) folded before Flop (didn't bet)
+Seat 7: paulinijo (small blind) folded before Flop
+Seat 8: losscreeners (big blind) folded before Flop
+
+PokerStars Hand #251201443090: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XIV (300/600) - 2024/06/26 13:27:49 UTC [2024/06/26 9:27:49 ET]
+Table '3769360237 16' 8-max Seat #7 is the button
+Seat 1: Sick´nSocial (13100 in chips) 
+Seat 2: eddie4e4 (5165 in chips) 
+Seat 3: Tom_Poker_NL (21934 in chips) 
+Seat 4: billionaaire (16790 in chips) 
+Seat 5: DeathBrain09 (8655 in chips) 
+Seat 7: paulinijo (16840 in chips) 
+Seat 8: losscreeners (20478 in chips) 
+Sick´nSocial: posts the ante 75
+eddie4e4: posts the ante 75
+Tom_Poker_NL: posts the ante 75
+billionaaire: posts the ante 75
+DeathBrain09: posts the ante 75
+paulinijo: posts the ante 75
+losscreeners: posts the ante 75
+losscreeners: posts small blind 300
+Sick´nSocial: posts big blind 600
+*** HOLE CARDS ***
+eddie4e4: folds 
+Tom_Poker_NL: folds 
+billionaaire: folds 
+DeathBrain09: folds 
+paulinijo: folds 
+losscreeners: folds 
+Uncalled bet (300) returned to Sick´nSocial
+Sick´nSocial collected 1125 from pot
+Sick´nSocial: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 1: Sick´nSocial (big blind) collected (1125)
+Seat 2: eddie4e4 folded before Flop (didn't bet)
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire folded before Flop (didn't bet)
+Seat 5: DeathBrain09 folded before Flop (didn't bet)
+Seat 7: paulinijo (button) folded before Flop (didn't bet)
+Seat 8: losscreeners (small blind) folded before Flop
+
+PokerStars Hand #251201446807: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XIV (300/600) - 2024/06/26 13:28:11 UTC [2024/06/26 9:28:11 ET]
+Table '3769360237 16' 8-max Seat #8 is the button
+Seat 1: Sick´nSocial (13850 in chips) 
+Seat 2: eddie4e4 (5090 in chips) 
+Seat 3: Tom_Poker_NL (21859 in chips) 
+Seat 4: billionaaire (16715 in chips) 
+Seat 5: DeathBrain09 (8580 in chips) 
+Seat 7: paulinijo (16765 in chips) 
+Seat 8: losscreeners (20103 in chips) 
+Sick´nSocial: posts the ante 75
+eddie4e4: posts the ante 75
+Tom_Poker_NL: posts the ante 75
+billionaaire: posts the ante 75
+DeathBrain09: posts the ante 75
+paulinijo: posts the ante 75
+losscreeners: posts the ante 75
+Sick´nSocial: posts small blind 300
+eddie4e4: posts big blind 600
+*** HOLE CARDS ***
+Tom_Poker_NL: folds 
+billionaaire: folds 
+DeathBrain09: folds 
+paulinijo: raises 600 to 1200
+losscreeners: folds 
+Sick´nSocial: folds 
+eddie4e4: calls 600
+*** FLOP *** [7d 4d 6s]
+eddie4e4: checks 
+paulinijo: checks 
+*** TURN *** [7d 4d 6s] [2h]
+eddie4e4: bets 900
+paulinijo: calls 900
+*** RIVER *** [7d 4d 6s 2h] [9s]
+eddie4e4: bets 2563
+paulinijo: folds 
+Uncalled bet (2563) returned to eddie4e4
+eddie4e4 collected 5025 from pot
+*** SUMMARY ***
+Total pot 5025 | Rake 0 
+Board [7d 4d 6s 2h 9s]
+Seat 1: Sick´nSocial (small blind) folded before Flop
+Seat 2: eddie4e4 (big blind) collected (5025)
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire folded before Flop (didn't bet)
+Seat 5: DeathBrain09 folded before Flop (didn't bet)
+Seat 7: paulinijo folded on the River
+Seat 8: losscreeners (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251201454972: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XIV (300/600) - 2024/06/26 13:29:00 UTC [2024/06/26 9:29:00 ET]
+Table '3769360237 16' 8-max Seat #1 is the button
+Seat 1: Sick´nSocial (13475 in chips) 
+Seat 2: eddie4e4 (7940 in chips) 
+Seat 3: Tom_Poker_NL (21784 in chips) 
+Seat 4: billionaaire (16640 in chips) 
+Seat 7: paulinijo (14590 in chips) 
+Seat 8: losscreeners (20028 in chips) 
+Sick´nSocial: posts the ante 75
+eddie4e4: posts the ante 75
+Tom_Poker_NL: posts the ante 75
+billionaaire: posts the ante 75
+paulinijo: posts the ante 75
+losscreeners: posts the ante 75
+eddie4e4: posts small blind 300
+Tom_Poker_NL: posts big blind 600
+*** HOLE CARDS ***
+billionaaire: folds 
+paulinijo: folds 
+losscreeners: folds 
+Sick´nSocial: raises 600 to 1200
+eddie4e4: folds 
+Tom_Poker_NL: folds 
+Uncalled bet (600) returned to Sick´nSocial
+Sick´nSocial collected 1950 from pot
+Sick´nSocial: doesn't show hand 
+*** SUMMARY ***
+Total pot 1950 | Rake 0 
+Seat 1: Sick´nSocial (button) collected (1950)
+Seat 2: eddie4e4 (small blind) folded before Flop
+Seat 3: Tom_Poker_NL (big blind) folded before Flop
+Seat 4: billionaaire folded before Flop (didn't bet)
+Seat 7: paulinijo folded before Flop (didn't bet)
+Seat 8: losscreeners folded before Flop (didn't bet)
+
+PokerStars Hand #251201463611: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XIV (300/600) - 2024/06/26 13:29:51 UTC [2024/06/26 9:29:51 ET]
+Table '3769360237 16' 8-max Seat #2 is the button
+Seat 1: Sick´nSocial (14750 in chips) 
+Seat 2: eddie4e4 (7565 in chips) 
+Seat 3: Tom_Poker_NL (21109 in chips) 
+Seat 4: billionaaire (16565 in chips) 
+Seat 7: paulinijo (14515 in chips) 
+Seat 8: losscreeners (19953 in chips) 
+Sick´nSocial: posts the ante 75
+eddie4e4: posts the ante 75
+Tom_Poker_NL: posts the ante 75
+billionaaire: posts the ante 75
+paulinijo: posts the ante 75
+losscreeners: posts the ante 75
+Tom_Poker_NL: posts small blind 300
+billionaaire: posts big blind 600
+*** HOLE CARDS ***
+paulinijo: folds 
+losscreeners: raises 600 to 1200
+Sick´nSocial: folds 
+eddie4e4: raises 6290 to 7490 and is all-in
+Tom_Poker_NL: folds 
+billionaaire: folds 
+losscreeners: calls 6290
+*** FLOP *** [Td Js Tc]
+*** TURN *** [Td Js Tc] [8h]
+*** RIVER *** [Td Js Tc 8h] [2c]
+*** SHOW DOWN ***
+losscreeners: shows [Ks Kd] (two pair, Kings and Tens)
+eddie4e4: shows [Jh Ac] (two pair, Jacks and Tens)
+losscreeners collected 16330 from pot
+eddie4e4 finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 16330 | Rake 0 
+Board [Td Js Tc 8h 2c]
+Seat 1: Sick´nSocial folded before Flop (didn't bet)
+Seat 2: eddie4e4 (button) showed [Jh Ac] and lost with two pair, Jacks and Tens
+Seat 3: Tom_Poker_NL (small blind) folded before Flop
+Seat 4: billionaaire (big blind) folded before Flop
+Seat 7: paulinijo folded before Flop (didn't bet)
+Seat 8: losscreeners showed [Ks Kd] and won (16330) with two pair, Kings and Tens
+
+PokerStars Hand #251201470363: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XIV (300/600) - 2024/06/26 13:30:31 UTC [2024/06/26 9:30:31 ET]
+Table '3769360237 16' 8-max Seat #3 is the button
+Seat 1: Sick´nSocial (14675 in chips) 
+Seat 3: Tom_Poker_NL (20734 in chips) 
+Seat 4: billionaaire (15890 in chips) 
+Seat 7: paulinijo (14440 in chips) 
+Seat 8: losscreeners (28718 in chips) 
+Sick´nSocial: posts the ante 75
+Tom_Poker_NL: posts the ante 75
+billionaaire: posts the ante 75
+paulinijo: posts the ante 75
+losscreeners: posts the ante 75
+billionaaire: posts small blind 300
+paulinijo: posts big blind 600
+*** HOLE CARDS ***
+losscreeners: folds 
+Sick´nSocial: raises 600 to 1200
+peace&loove is disconnected 
+Tom_Poker_NL: folds 
+billionaaire: folds 
+paulinijo: calls 600
+*** FLOP *** [2s 4h Qd]
+paulinijo: checks 
+Sick´nSocial: bets 615
+paulinijo: calls 615
+*** TURN *** [2s 4h Qd] [Ks]
+paulinijo: checks 
+Sick´nSocial: bets 2841
+paulinijo: folds 
+Uncalled bet (2841) returned to Sick´nSocial
+Sick´nSocial collected 4305 from pot
+Sick´nSocial: doesn't show hand 
+*** SUMMARY ***
+Total pot 4305 | Rake 0 
+Board [2s 4h Qd Ks]
+Seat 1: Sick´nSocial collected (4305)
+Seat 3: Tom_Poker_NL (button) folded before Flop (didn't bet)
+Seat 4: billionaaire (small blind) folded before Flop
+Seat 7: paulinijo (big blind) folded on the Turn
+Seat 8: losscreeners folded before Flop (didn't bet)
+
+PokerStars Hand #251201481416: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XV (350/700) - 2024/06/26 13:31:38 UTC [2024/06/26 9:31:38 ET]
+Table '3769360237 16' 8-max Seat #4 is the button
+Seat 1: Sick´nSocial (17090 in chips) 
+Seat 2: JK-GuRRuNEAA (5821 in chips) 
+Seat 3: Tom_Poker_NL (20659 in chips) 
+Seat 4: billionaaire (15515 in chips) 
+Seat 5: DeathBrain09 (13741 in chips) out of hand (moved from another table into small blind)
+Seat 6: peace&loove (12291 in chips) out of hand (moved from another table into small blind)
+Seat 7: paulinijo (12550 in chips) 
+Seat 8: losscreeners (28643 in chips) 
+DeathBrain09 will be allowed to play after the button
+peace&loove will be allowed to play after the button
+Sick´nSocial: posts the ante 90
+JK-GuRRuNEAA: posts the ante 90
+Tom_Poker_NL: posts the ante 90
+billionaaire: posts the ante 90
+paulinijo: posts the ante 90
+losscreeners: posts the ante 90
+paulinijo: posts small blind 350
+losscreeners: posts big blind 700
+*** HOLE CARDS ***
+Sick´nSocial: raises 700 to 1400
+JK-GuRRuNEAA: folds 
+Tom_Poker_NL: folds 
+billionaaire: folds 
+paulinijo: folds 
+losscreeners: calls 700
+*** FLOP *** [5c 7s 9c]
+losscreeners: checks 
+Sick´nSocial: bets 2435
+losscreeners: folds 
+Uncalled bet (2435) returned to Sick´nSocial
+Sick´nSocial collected 3690 from pot
+Sick´nSocial: doesn't show hand 
+*** SUMMARY ***
+Total pot 3690 | Rake 0 
+Board [5c 7s 9c]
+Seat 1: Sick´nSocial collected (3690)
+Seat 2: JK-GuRRuNEAA folded before Flop (didn't bet)
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire (button) folded before Flop (didn't bet)
+Seat 7: paulinijo (small blind) folded before Flop
+Seat 8: losscreeners (big blind) folded on the Flop
+
+PokerStars Hand #251201491352: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XV (350/700) - 2024/06/26 13:32:38 UTC [2024/06/26 9:32:38 ET]
+Table '3769360237 16' 8-max Seat #7 is the button
+Seat 1: Sick´nSocial (19290 in chips) 
+Seat 2: JK-GuRRuNEAA (5731 in chips) 
+Seat 3: Tom_Poker_NL (20569 in chips) 
+Seat 4: billionaaire (15425 in chips) 
+Seat 5: DeathBrain09 (13741 in chips) 
+Seat 6: peace&loove (12291 in chips) 
+Seat 7: paulinijo (12110 in chips) 
+Seat 8: losscreeners (27153 in chips) 
+Sick´nSocial: posts the ante 90
+JK-GuRRuNEAA: posts the ante 90
+Tom_Poker_NL: posts the ante 90
+billionaaire: posts the ante 90
+DeathBrain09: posts the ante 90
+peace&loove: posts the ante 90
+paulinijo: posts the ante 90
+losscreeners: posts the ante 90
+losscreeners: posts small blind 350
+Sick´nSocial: posts big blind 700
+*** HOLE CARDS ***
+JK-GuRRuNEAA: raises 4941 to 5641 and is all-in
+Tom_Poker_NL: folds 
+billionaaire: folds 
+DeathBrain09: folds 
+peace&loove: folds 
+paulinijo: folds 
+losscreeners: folds 
+Sick´nSocial: folds 
+Uncalled bet (4941) returned to JK-GuRRuNEAA
+JK-GuRRuNEAA collected 2470 from pot
+JK-GuRRuNEAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 2470 | Rake 0 
+Seat 1: Sick´nSocial (big blind) folded before Flop
+Seat 2: JK-GuRRuNEAA collected (2470)
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire folded before Flop (didn't bet)
+Seat 5: DeathBrain09 folded before Flop (didn't bet)
+Seat 6: peace&loove folded before Flop (didn't bet)
+Seat 7: paulinijo (button) folded before Flop (didn't bet)
+Seat 8: losscreeners (small blind) folded before Flop
+
+PokerStars Hand #251201497953: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XV (350/700) - 2024/06/26 13:33:17 UTC [2024/06/26 9:33:17 ET]
+Table '3769360237 16' 8-max Seat #8 is the button
+Seat 1: Sick´nSocial (18500 in chips) 
+Seat 2: JK-GuRRuNEAA (7411 in chips) 
+Seat 3: Tom_Poker_NL (20479 in chips) 
+Seat 4: billionaaire (15335 in chips) 
+Seat 5: DeathBrain09 (13651 in chips) 
+Seat 6: peace&loove (12201 in chips) 
+Seat 7: paulinijo (12020 in chips) 
+Seat 8: losscreeners (26713 in chips) 
+Sick´nSocial: posts the ante 90
+JK-GuRRuNEAA: posts the ante 90
+Tom_Poker_NL: posts the ante 90
+billionaaire: posts the ante 90
+DeathBrain09: posts the ante 90
+peace&loove: posts the ante 90
+paulinijo: posts the ante 90
+losscreeners: posts the ante 90
+Sick´nSocial: posts small blind 350
+JK-GuRRuNEAA: posts big blind 700
+*** HOLE CARDS ***
+Tom_Poker_NL: folds 
+billionaaire: folds 
+DeathBrain09: folds 
+peace&loove: folds 
+paulinijo: folds 
+losscreeners: folds 
+Sick´nSocial: raises 6300 to 7000
+JK-GuRRuNEAA: raises 321 to 7321 and is all-in
+Sick´nSocial: calls 321
+*** FLOP *** [Jc Qc Jh]
+*** TURN *** [Jc Qc Jh] [Ac]
+*** RIVER *** [Jc Qc Jh Ac] [Jd]
+*** SHOW DOWN ***
+Sick´nSocial: shows [Tc 7d] (three of a kind, Jacks)
+JK-GuRRuNEAA: shows [Kc 8h] (three of a kind, Jacks - Ace+King kicker)
+JK-GuRRuNEAA collected 15362 from pot
+*** SUMMARY ***
+Total pot 15362 | Rake 0 
+Board [Jc Qc Jh Ac Jd]
+Seat 1: Sick´nSocial (small blind) showed [Tc 7d] and lost with three of a kind, Jacks
+Seat 2: JK-GuRRuNEAA (big blind) showed [Kc 8h] and won (15362) with three of a kind, Jacks
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire folded before Flop (didn't bet)
+Seat 5: DeathBrain09 folded before Flop (didn't bet)
+Seat 6: peace&loove folded before Flop (didn't bet)
+Seat 7: paulinijo folded before Flop (didn't bet)
+Seat 8: losscreeners (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251201509900: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XV (350/700) - 2024/06/26 13:34:28 UTC [2024/06/26 9:34:28 ET]
+Table '3769360237 16' 8-max Seat #1 is the button
+Seat 1: Sick´nSocial (11089 in chips) 
+Seat 2: JK-GuRRuNEAA (15362 in chips) 
+Seat 3: Tom_Poker_NL (20389 in chips) 
+Seat 4: billionaaire (15245 in chips) 
+Seat 5: DeathBrain09 (13561 in chips) 
+Seat 6: peace&loove (12111 in chips) 
+Seat 7: paulinijo (11930 in chips) 
+Seat 8: losscreeners (26623 in chips) 
+Sick´nSocial: posts the ante 90
+JK-GuRRuNEAA: posts the ante 90
+Tom_Poker_NL: posts the ante 90
+billionaaire: posts the ante 90
+DeathBrain09: posts the ante 90
+peace&loove: posts the ante 90
+paulinijo: posts the ante 90
+losscreeners: posts the ante 90
+JK-GuRRuNEAA: posts small blind 350
+Tom_Poker_NL: posts big blind 700
+*** HOLE CARDS ***
+billionaaire: raises 1120 to 1820
+DeathBrain09: folds 
+peace&loove: folds 
+paulinijo: folds 
+losscreeners: folds 
+Sick´nSocial: folds 
+JK-GuRRuNEAA: folds 
+Tom_Poker_NL: calls 1120
+*** FLOP *** [3c 6s Kd]
+Tom_Poker_NL: checks 
+billionaaire: bets 1318
+Tom_Poker_NL: calls 1318
+*** TURN *** [3c 6s Kd] [Tc]
+Tom_Poker_NL: checks 
+billionaaire: bets 2934
+Tom_Poker_NL: calls 2934
+*** RIVER *** [3c 6s Kd Tc] [5d]
+Tom_Poker_NL: checks 
+billionaaire: checks 
+*** SHOW DOWN ***
+Tom_Poker_NL: shows [Qc Ac] (high card Ace)
+billionaaire: shows [Jc Js] (a pair of Jacks)
+billionaaire collected 13214 from pot
+*** SUMMARY ***
+Total pot 13214 | Rake 0 
+Board [3c 6s Kd Tc 5d]
+Seat 1: Sick´nSocial (button) folded before Flop (didn't bet)
+Seat 2: JK-GuRRuNEAA (small blind) folded before Flop
+Seat 3: Tom_Poker_NL (big blind) showed [Qc Ac] and lost with high card Ace
+Seat 4: billionaaire showed [Jc Js] and won (13214) with a pair of Jacks
+Seat 5: DeathBrain09 folded before Flop (didn't bet)
+Seat 6: peace&loove folded before Flop (didn't bet)
+Seat 7: paulinijo folded before Flop (didn't bet)
+Seat 8: losscreeners folded before Flop (didn't bet)
+
+PokerStars Hand #251201527918: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XV (350/700) - 2024/06/26 13:36:14 UTC [2024/06/26 9:36:14 ET]
+Table '3769360237 16' 8-max Seat #2 is the button
+Seat 1: Sick´nSocial (10999 in chips) 
+Seat 2: JK-GuRRuNEAA (14922 in chips) 
+Seat 3: Tom_Poker_NL (14227 in chips) 
+Seat 4: billionaaire (22297 in chips) 
+Seat 5: DeathBrain09 (13471 in chips) 
+Seat 6: peace&loove (12021 in chips) 
+Seat 7: paulinijo (11840 in chips) 
+Seat 8: losscreeners (26533 in chips) 
+Sick´nSocial: posts the ante 90
+JK-GuRRuNEAA: posts the ante 90
+Tom_Poker_NL: posts the ante 90
+billionaaire: posts the ante 90
+DeathBrain09: posts the ante 90
+peace&loove: posts the ante 90
+paulinijo: posts the ante 90
+losscreeners: posts the ante 90
+Tom_Poker_NL: posts small blind 350
+billionaaire: posts big blind 700
+*** HOLE CARDS ***
+DeathBrain09: folds 
+peace&loove: folds 
+paulinijo: folds 
+losscreeners: folds 
+Sick´nSocial: folds 
+JK-GuRRuNEAA: raises 700 to 1400
+Tom_Poker_NL: calls 1050
+billionaaire: folds 
+*** FLOP *** [3s 9h 7s]
+Tom_Poker_NL: checks 
+JK-GuRRuNEAA: bets 1055
+Tom_Poker_NL: calls 1055
+*** TURN *** [3s 9h 7s] [Td]
+Tom_Poker_NL: checks 
+JK-GuRRuNEAA: checks 
+*** RIVER *** [3s 9h 7s Td] [2d]
+Tom_Poker_NL: bets 700
+JK-GuRRuNEAA: calls 700
+*** SHOW DOWN ***
+Tom_Poker_NL: shows [8h 7h] (a pair of Sevens)
+JK-GuRRuNEAA: mucks hand 
+Tom_Poker_NL collected 7730 from pot
+*** SUMMARY ***
+Total pot 7730 | Rake 0 
+Board [3s 9h 7s Td 2d]
+Seat 1: Sick´nSocial folded before Flop (didn't bet)
+Seat 2: JK-GuRRuNEAA (button) mucked
+Seat 3: Tom_Poker_NL (small blind) showed [8h 7h] and won (7730) with a pair of Sevens
+Seat 4: billionaaire (big blind) folded before Flop
+Seat 5: DeathBrain09 folded before Flop (didn't bet)
+Seat 6: peace&loove folded before Flop (didn't bet)
+Seat 7: paulinijo folded before Flop (didn't bet)
+Seat 8: losscreeners folded before Flop (didn't bet)
+
+PokerStars Hand #251201544772: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XV (350/700) - 2024/06/26 13:37:55 UTC [2024/06/26 9:37:55 ET]
+Table '3769360237 16' 8-max Seat #3 is the button
+Seat 1: Sick´nSocial (10909 in chips) 
+Seat 2: JK-GuRRuNEAA (11677 in chips) 
+Seat 3: Tom_Poker_NL (18712 in chips) 
+Seat 4: billionaaire (21507 in chips) 
+Seat 5: DeathBrain09 (13381 in chips) 
+Seat 6: peace&loove (11931 in chips) 
+Seat 7: paulinijo (11750 in chips) 
+Seat 8: losscreeners (26443 in chips) 
+Sick´nSocial: posts the ante 90
+JK-GuRRuNEAA: posts the ante 90
+Tom_Poker_NL: posts the ante 90
+billionaaire: posts the ante 90
+DeathBrain09: posts the ante 90
+peace&loove: posts the ante 90
+paulinijo: posts the ante 90
+losscreeners: posts the ante 90
+billionaaire: posts small blind 350
+DeathBrain09: posts big blind 700
+*** HOLE CARDS ***
+peace&loove: raises 700 to 1400
+paulinijo: folds 
+losscreeners: folds 
+Sick´nSocial: folds 
+JK-GuRRuNEAA: folds 
+Tom_Poker_NL: folds 
+billionaaire: folds 
+DeathBrain09: calls 700
+*** FLOP *** [8h 3d 2h]
+DeathBrain09: checks 
+peace&loove: bets 700
+DeathBrain09: folds 
+Uncalled bet (700) returned to peace&loove
+peace&loove collected 3870 from pot
+*** SUMMARY ***
+Total pot 3870 | Rake 0 
+Board [8h 3d 2h]
+Seat 1: Sick´nSocial folded before Flop (didn't bet)
+Seat 2: JK-GuRRuNEAA folded before Flop (didn't bet)
+Seat 3: Tom_Poker_NL (button) folded before Flop (didn't bet)
+Seat 4: billionaaire (small blind) folded before Flop
+Seat 5: DeathBrain09 (big blind) folded on the Flop
+Seat 6: peace&loove collected (3870)
+Seat 7: paulinijo folded before Flop (didn't bet)
+Seat 8: losscreeners folded before Flop (didn't bet)
+
+PokerStars Hand #251201551049: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XV (350/700) - 2024/06/26 13:38:33 UTC [2024/06/26 9:38:33 ET]
+Table '3769360237 16' 8-max Seat #4 is the button
+Seat 1: Sick´nSocial (10819 in chips) 
+Seat 2: JK-GuRRuNEAA (11587 in chips) 
+Seat 3: Tom_Poker_NL (18622 in chips) 
+Seat 4: billionaaire (21067 in chips) 
+Seat 5: DeathBrain09 (11891 in chips) 
+Seat 6: peace&loove (14311 in chips) 
+Seat 7: paulinijo (11660 in chips) 
+Seat 8: losscreeners (26353 in chips) 
+Sick´nSocial: posts the ante 90
+JK-GuRRuNEAA: posts the ante 90
+Tom_Poker_NL: posts the ante 90
+billionaaire: posts the ante 90
+DeathBrain09: posts the ante 90
+peace&loove: posts the ante 90
+paulinijo: posts the ante 90
+losscreeners: posts the ante 90
+DeathBrain09: posts small blind 350
+peace&loove: posts big blind 700
+*** HOLE CARDS ***
+paulinijo: folds 
+losscreeners: folds 
+Sick´nSocial: folds 
+JK-GuRRuNEAA: raises 700 to 1400
+Tom_Poker_NL: calls 1400
+billionaaire: folds 
+DeathBrain09: folds 
+peace&loove: raises 11200 to 12600
+JK-GuRRuNEAA: folds 
+Tom_Poker_NL: folds 
+Uncalled bet (11200) returned to peace&loove
+peace&loove collected 5270 from pot
+*** SUMMARY ***
+Total pot 5270 | Rake 0 
+Seat 1: Sick´nSocial folded before Flop (didn't bet)
+Seat 2: JK-GuRRuNEAA folded before Flop
+Seat 3: Tom_Poker_NL folded before Flop
+Seat 4: billionaaire (button) folded before Flop (didn't bet)
+Seat 5: DeathBrain09 (small blind) folded before Flop
+Seat 6: peace&loove (big blind) collected (5270)
+Seat 7: paulinijo folded before Flop (didn't bet)
+Seat 8: losscreeners folded before Flop (didn't bet)
+
+PokerStars Hand #251201563356: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XV (350/700) - 2024/06/26 13:39:45 UTC [2024/06/26 9:39:45 ET]
+Table '3769360237 16' 8-max Seat #5 is the button
+Seat 1: Sick´nSocial (10729 in chips) 
+Seat 3: Tom_Poker_NL (17132 in chips) 
+Seat 4: billionaaire (20977 in chips) 
+Seat 5: DeathBrain09 (11451 in chips) 
+Seat 6: peace&loove (18091 in chips) 
+Seat 7: paulinijo (11570 in chips) 
+Seat 8: losscreeners (26263 in chips) 
+Sick´nSocial: posts the ante 90
+Tom_Poker_NL: posts the ante 90
+billionaaire: posts the ante 90
+DeathBrain09: posts the ante 90
+peace&loove: posts the ante 90
+paulinijo: posts the ante 90
+losscreeners: posts the ante 90
+peace&loove: posts small blind 350
+paulinijo: posts big blind 700
+*** HOLE CARDS ***
+losscreeners: folds 
+Sick´nSocial: raises 700 to 1400
+Tom_Poker_NL: folds 
+billionaaire: folds 
+DeathBrain09: folds 
+peace&loove: folds 
+paulinijo: folds 
+Uncalled bet (700) returned to Sick´nSocial
+Sick´nSocial collected 2380 from pot
+Sick´nSocial: doesn't show hand 
+*** SUMMARY ***
+Total pot 2380 | Rake 0 
+Seat 1: Sick´nSocial collected (2380)
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire folded before Flop (didn't bet)
+Seat 5: DeathBrain09 (button) folded before Flop (didn't bet)
+Seat 6: peace&loove (small blind) folded before Flop
+Seat 7: paulinijo (big blind) folded before Flop
+Seat 8: losscreeners folded before Flop (didn't bet)
+
+PokerStars Hand #251201575143: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XV (350/700) - 2024/06/26 13:40:55 UTC [2024/06/26 9:40:55 ET]
+Table '3769360237 16' 8-max Seat #6 is the button
+Seat 1: Sick´nSocial (12319 in chips) 
+Seat 3: Tom_Poker_NL (17042 in chips) 
+Seat 4: billionaaire (20887 in chips) 
+Seat 5: DeathBrain09 (11361 in chips) 
+Seat 6: peace&loove (17651 in chips) 
+Seat 7: paulinijo (10780 in chips) 
+Seat 8: losscreeners (26173 in chips) 
+Sick´nSocial: posts the ante 90
+Tom_Poker_NL: posts the ante 90
+billionaaire: posts the ante 90
+DeathBrain09: posts the ante 90
+peace&loove: posts the ante 90
+paulinijo: posts the ante 90
+losscreeners: posts the ante 90
+paulinijo: posts small blind 350
+losscreeners: posts big blind 700
+*** HOLE CARDS ***
+Sick´nSocial: folds 
+Tom_Poker_NL: folds 
+billionaaire: raises 1120 to 1820
+DeathBrain09: folds 
+peace&loove: folds 
+paulinijo: folds 
+losscreeners: calls 1120
+*** FLOP *** [Ad 5h Kd]
+losscreeners: checks 
+billionaaire: bets 2218
+losscreeners: calls 2218
+*** TURN *** [Ad 5h Kd] [9s]
+losscreeners: checks 
+billionaaire: bets 5885
+losscreeners: raises 16160 to 22045 and is all-in
+billionaaire: folds 
+Uncalled bet (16160) returned to losscreeners
+losscreeners collected 20826 from pot
+*** SUMMARY ***
+Total pot 20826 | Rake 0 
+Board [Ad 5h Kd 9s]
+Seat 1: Sick´nSocial folded before Flop (didn't bet)
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire folded on the Turn
+Seat 5: DeathBrain09 folded before Flop (didn't bet)
+Seat 6: peace&loove (button) folded before Flop (didn't bet)
+Seat 7: paulinijo (small blind) folded before Flop
+Seat 8: losscreeners (big blind) collected (20826)
+
+PokerStars Hand #251201596662: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XVI (400/800) - 2024/06/26 13:43:03 UTC [2024/06/26 9:43:03 ET]
+Table '3769360237 16' 8-max Seat #7 is the button
+Seat 1: Sick´nSocial (12229 in chips) 
+Seat 3: Tom_Poker_NL (16952 in chips) 
+Seat 4: billionaaire (10874 in chips) 
+Seat 5: DeathBrain09 (11271 in chips) 
+Seat 6: peace&loove (17561 in chips) 
+Seat 7: paulinijo (10340 in chips) 
+Seat 8: losscreeners (36986 in chips) 
+Sick´nSocial: posts the ante 100
+Tom_Poker_NL: posts the ante 100
+billionaaire: posts the ante 100
+DeathBrain09: posts the ante 100
+peace&loove: posts the ante 100
+paulinijo: posts the ante 100
+losscreeners: posts the ante 100
+losscreeners: posts small blind 400
+Sick´nSocial: posts big blind 800
+*** HOLE CARDS ***
+Tom_Poker_NL: folds 
+billionaaire: folds 
+DeathBrain09: folds 
+peace&loove: folds 
+paulinijo: raises 9440 to 10240 and is all-in
+losscreeners: folds 
+Sick´nSocial: folds 
+Uncalled bet (9440) returned to paulinijo
+paulinijo collected 2700 from pot
+paulinijo: doesn't show hand 
+*** SUMMARY ***
+Total pot 2700 | Rake 0 
+Seat 1: Sick´nSocial (big blind) folded before Flop
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire folded before Flop (didn't bet)
+Seat 5: DeathBrain09 folded before Flop (didn't bet)
+Seat 6: peace&loove folded before Flop (didn't bet)
+Seat 7: paulinijo (button) collected (2700)
+Seat 8: losscreeners (small blind) folded before Flop
+
+PokerStars Hand #251201604083: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XVI (400/800) - 2024/06/26 13:43:48 UTC [2024/06/26 9:43:48 ET]
+Table '3769360237 16' 8-max Seat #8 is the button
+Seat 1: Sick´nSocial (11329 in chips) 
+Seat 3: Tom_Poker_NL (16852 in chips) 
+Seat 4: billionaaire (10774 in chips) 
+Seat 5: DeathBrain09 (11171 in chips) 
+Seat 6: peace&loove (17461 in chips) 
+Seat 7: paulinijo (12140 in chips) 
+Seat 8: losscreeners (36486 in chips) 
+Sick´nSocial: posts the ante 100
+Tom_Poker_NL: posts the ante 100
+billionaaire: posts the ante 100
+DeathBrain09: posts the ante 100
+peace&loove: posts the ante 100
+paulinijo: posts the ante 100
+losscreeners: posts the ante 100
+Sick´nSocial: posts small blind 400
+Tom_Poker_NL: posts big blind 800
+*** HOLE CARDS ***
+billionaaire: folds 
+DeathBrain09: folds 
+peace&loove: folds 
+paulinijo: folds 
+losscreeners: folds 
+Sick´nSocial: raises 10400 to 11200
+Tom_Poker_NL: folds 
+Uncalled bet (10400) returned to Sick´nSocial
+Sick´nSocial collected 2300 from pot
+Sick´nSocial: doesn't show hand 
+*** SUMMARY ***
+Total pot 2300 | Rake 0 
+Seat 1: Sick´nSocial (small blind) collected (2300)
+Seat 3: Tom_Poker_NL (big blind) folded before Flop
+Seat 4: billionaaire folded before Flop (didn't bet)
+Seat 5: DeathBrain09 folded before Flop (didn't bet)
+Seat 6: peace&loove folded before Flop (didn't bet)
+Seat 7: paulinijo folded before Flop (didn't bet)
+Seat 8: losscreeners (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251201611262: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XVI (400/800) - 2024/06/26 13:44:30 UTC [2024/06/26 9:44:30 ET]
+Table '3769360237 16' 8-max Seat #1 is the button
+Seat 1: Sick´nSocial (12729 in chips) 
+Seat 3: Tom_Poker_NL (15952 in chips) 
+Seat 4: billionaaire (10674 in chips) 
+Seat 5: DeathBrain09 (11071 in chips) 
+Seat 6: peace&loove (17361 in chips) 
+Seat 7: paulinijo (12040 in chips) 
+Seat 8: losscreeners (36386 in chips) 
+Sick´nSocial: posts the ante 100
+Tom_Poker_NL: posts the ante 100
+billionaaire: posts the ante 100
+DeathBrain09: posts the ante 100
+peace&loove: posts the ante 100
+paulinijo: posts the ante 100
+losscreeners: posts the ante 100
+Tom_Poker_NL: posts small blind 400
+billionaaire: posts big blind 800
+*** HOLE CARDS ***
+DeathBrain09: folds 
+peace&loove: folds 
+paulinijo: folds 
+losscreeners: folds 
+Sick´nSocial: raises 11600 to 12400
+Tom_Poker_NL: folds 
+billionaaire: folds 
+Uncalled bet (11600) returned to Sick´nSocial
+Sick´nSocial collected 2700 from pot
+Sick´nSocial: doesn't show hand 
+*** SUMMARY ***
+Total pot 2700 | Rake 0 
+Seat 1: Sick´nSocial (button) collected (2700)
+Seat 3: Tom_Poker_NL (small blind) folded before Flop
+Seat 4: billionaaire (big blind) folded before Flop
+Seat 5: DeathBrain09 folded before Flop (didn't bet)
+Seat 6: peace&loove folded before Flop (didn't bet)
+Seat 7: paulinijo folded before Flop (didn't bet)
+Seat 8: losscreeners folded before Flop (didn't bet)
+
+PokerStars Hand #251201619073: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XVI (400/800) - 2024/06/26 13:45:17 UTC [2024/06/26 9:45:17 ET]
+Table '3769360237 16' 8-max Seat #3 is the button
+Seat 1: Sick´nSocial (14529 in chips) 
+Seat 3: Tom_Poker_NL (15452 in chips) 
+Seat 4: billionaaire (9774 in chips) 
+Seat 5: DeathBrain09 (10971 in chips) 
+Seat 6: peace&loove (17261 in chips) 
+Seat 7: paulinijo (11940 in chips) 
+Seat 8: losscreeners (36286 in chips) 
+Sick´nSocial: posts the ante 100
+Tom_Poker_NL: posts the ante 100
+billionaaire: posts the ante 100
+DeathBrain09: posts the ante 100
+peace&loove: posts the ante 100
+paulinijo: posts the ante 100
+losscreeners: posts the ante 100
+billionaaire: posts small blind 400
+DeathBrain09: posts big blind 800
+*** HOLE CARDS ***
+peace&loove: folds 
+paulinijo: raises 800 to 1600
+losscreeners: folds 
+Sick´nSocial: raises 1600 to 3200
+Tom_Poker_NL: folds 
+billionaaire: folds 
+DeathBrain09: folds 
+paulinijo: raises 8640 to 11840 and is all-in
+Sick´nSocial: calls 8640
+*** FLOP *** [8s 4c 6s]
+*** TURN *** [8s 4c 6s] [8d]
+*** RIVER *** [8s 4c 6s 8d] [2s]
+*** SHOW DOWN ***
+paulinijo: shows [9s 9h] (two pair, Nines and Eights)
+Sick´nSocial: shows [As Kh] (a pair of Eights)
+paulinijo collected 25580 from pot
+*** SUMMARY ***
+Total pot 25580 | Rake 0 
+Board [8s 4c 6s 8d 2s]
+Seat 1: Sick´nSocial showed [As Kh] and lost with a pair of Eights
+Seat 3: Tom_Poker_NL (button) folded before Flop (didn't bet)
+Seat 4: billionaaire (small blind) folded before Flop
+Seat 5: DeathBrain09 (big blind) folded before Flop
+Seat 6: peace&loove folded before Flop (didn't bet)
+Seat 7: paulinijo showed [9s 9h] and won (25580) with two pair, Nines and Eights
+Seat 8: losscreeners folded before Flop (didn't bet)
+
+PokerStars Hand #251201634075: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XVI (400/800) - 2024/06/26 13:46:45 UTC [2024/06/26 9:46:45 ET]
+Table '3769360237 16' 8-max Seat #4 is the button
+Seat 1: Sick´nSocial (2589 in chips) 
+Seat 3: Tom_Poker_NL (15352 in chips) 
+Seat 4: billionaaire (9274 in chips) 
+Seat 5: DeathBrain09 (10071 in chips) 
+Seat 6: peace&loove (17161 in chips) 
+Seat 7: paulinijo (25580 in chips) 
+Seat 8: losscreeners (36186 in chips) 
+Sick´nSocial: posts the ante 100
+Tom_Poker_NL: posts the ante 100
+billionaaire: posts the ante 100
+DeathBrain09: posts the ante 100
+peace&loove: posts the ante 100
+paulinijo: posts the ante 100
+losscreeners: posts the ante 100
+DeathBrain09: posts small blind 400
+peace&loove: posts big blind 800
+*** HOLE CARDS ***
+paulinijo: folds 
+losscreeners: folds 
+Sick´nSocial: folds 
+Tom_Poker_NL: folds 
+billionaaire: raises 8374 to 9174 and is all-in
+DeathBrain09: raises 797 to 9971 and is all-in
+peace&loove: folds 
+Uncalled bet (797) returned to DeathBrain09
+*** FLOP *** [5h 8d Qs]
+*** TURN *** [5h 8d Qs] [6h]
+*** RIVER *** [5h 8d Qs 6h] [Js]
+*** SHOW DOWN ***
+DeathBrain09: shows [Kh Ad] (high card Ace)
+billionaaire: shows [Kc 8c] (a pair of Eights)
+billionaaire collected 19848 from pot
+*** SUMMARY ***
+Total pot 19848 | Rake 0 
+Board [5h 8d Qs 6h Js]
+Seat 1: Sick´nSocial folded before Flop (didn't bet)
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire (button) showed [Kc 8c] and won (19848) with a pair of Eights
+Seat 5: DeathBrain09 (small blind) showed [Kh Ad] and lost with high card Ace
+Seat 6: peace&loove (big blind) folded before Flop
+Seat 7: paulinijo folded before Flop (didn't bet)
+Seat 8: losscreeners folded before Flop (didn't bet)
+
+PokerStars Hand #251201643111: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XVI (400/800) - 2024/06/26 13:47:38 UTC [2024/06/26 9:47:38 ET]
+Table '3769360237 16' 8-max Seat #5 is the button
+Seat 1: Sick´nSocial (2489 in chips) 
+Seat 3: Tom_Poker_NL (15252 in chips) 
+Seat 4: billionaaire (19848 in chips) 
+Seat 5: DeathBrain09 (797 in chips) 
+Seat 6: peace&loove (16261 in chips) 
+Seat 7: paulinijo (25480 in chips) 
+Seat 8: losscreeners (36086 in chips) 
+Sick´nSocial: posts the ante 100
+Tom_Poker_NL: posts the ante 100
+billionaaire: posts the ante 100
+DeathBrain09: posts the ante 100
+peace&loove: posts the ante 100
+paulinijo: posts the ante 100
+losscreeners: posts the ante 100
+peace&loove: posts small blind 400
+paulinijo: posts big blind 800
+*** HOLE CARDS ***
+losscreeners: raises 800 to 1600
+Sick´nSocial: folds 
+Tom_Poker_NL: folds 
+billionaaire: folds 
+DeathBrain09: folds 
+peace&loove: folds 
+paulinijo: calls 800
+*** FLOP *** [8h 5d 4d]
+paulinijo: checks 
+losscreeners: bets 1935
+paulinijo: raises 2696 to 4631
+losscreeners: calls 2696
+*** TURN *** [8h 5d 4d] [7d]
+paulinijo: bets 4475
+losscreeners: folds 
+Uncalled bet (4475) returned to paulinijo
+paulinijo collected 13562 from pot
+paulinijo: doesn't show hand 
+*** SUMMARY ***
+Total pot 13562 | Rake 0 
+Board [8h 5d 4d 7d]
+Seat 1: Sick´nSocial folded before Flop (didn't bet)
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire folded before Flop (didn't bet)
+Seat 5: DeathBrain09 (button) folded before Flop (didn't bet)
+Seat 6: peace&loove (small blind) folded before Flop
+Seat 7: paulinijo (big blind) collected (13562)
+Seat 8: losscreeners folded on the Turn
+
+PokerStars Hand #251201655398: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XVI (400/800) - 2024/06/26 13:48:50 UTC [2024/06/26 9:48:50 ET]
+Table '3769360237 16' 8-max Seat #6 is the button
+Seat 1: Sick´nSocial (2389 in chips) 
+Seat 3: Tom_Poker_NL (15152 in chips) 
+Seat 4: billionaaire (19748 in chips) 
+Seat 5: DeathBrain09 (697 in chips) 
+Seat 6: peace&loove (15761 in chips) 
+Seat 7: paulinijo (32711 in chips) 
+Seat 8: losscreeners (29755 in chips) 
+Sick´nSocial: posts the ante 100
+Tom_Poker_NL: posts the ante 100
+billionaaire: posts the ante 100
+DeathBrain09: posts the ante 100
+peace&loove: posts the ante 100
+paulinijo: posts the ante 100
+losscreeners: posts the ante 100
+paulinijo: posts small blind 400
+losscreeners: posts big blind 800
+*** HOLE CARDS ***
+Sick´nSocial: folds 
+Tom_Poker_NL: folds 
+billionaaire: folds 
+DeathBrain09: folds 
+peace&loove: folds 
+paulinijo: calls 400
+losscreeners: checks 
+*** FLOP *** [2d 3h Ac]
+paulinijo: bets 800
+losscreeners: folds 
+Uncalled bet (800) returned to paulinijo
+paulinijo collected 2300 from pot
+paulinijo: doesn't show hand 
+*** SUMMARY ***
+Total pot 2300 | Rake 0 
+Board [2d 3h Ac]
+Seat 1: Sick´nSocial folded before Flop (didn't bet)
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire folded before Flop (didn't bet)
+Seat 5: DeathBrain09 folded before Flop (didn't bet)
+Seat 6: peace&loove (button) folded before Flop (didn't bet)
+Seat 7: paulinijo (small blind) collected (2300)
+Seat 8: losscreeners (big blind) folded on the Flop
+
+PokerStars Hand #251201664774: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XVI (400/800) - 2024/06/26 13:49:45 UTC [2024/06/26 9:49:45 ET]
+Table '3769360237 16' 8-max Seat #7 is the button
+Seat 1: Sick´nSocial (2289 in chips) 
+Seat 3: Tom_Poker_NL (15052 in chips) 
+Seat 4: billionaaire (19648 in chips) 
+Seat 5: DeathBrain09 (597 in chips) 
+Seat 6: peace&loove (15661 in chips) 
+Seat 7: paulinijo (34111 in chips) 
+Seat 8: losscreeners (28855 in chips) 
+Sick´nSocial: posts the ante 100
+Tom_Poker_NL: posts the ante 100
+billionaaire: posts the ante 100
+DeathBrain09: posts the ante 100
+peace&loove: posts the ante 100
+paulinijo: posts the ante 100
+losscreeners: posts the ante 100
+losscreeners: posts small blind 400
+Sick´nSocial: posts big blind 800
+*** HOLE CARDS ***
+Tom_Poker_NL: folds 
+billionaaire: folds 
+DeathBrain09: calls 497 and is all-in
+peace&loove: folds 
+paulinijo: folds 
+losscreeners: raises 800 to 1600
+Sick´nSocial: folds 
+Uncalled bet (800) returned to losscreeners
+*** FLOP *** [3d 4c Ac]
+*** TURN *** [3d 4c Ac] [3h]
+*** RIVER *** [3d 4c Ac 3h] [7h]
+*** SHOW DOWN ***
+losscreeners: shows [Kd Ks] (two pair, Kings and Threes)
+losscreeners collected 606 from side pot
+DeathBrain09: shows [9h Js] (a pair of Threes)
+losscreeners collected 2191 from main pot
+DeathBrain09 finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 2797 Main pot 2191. Side pot 606. | Rake 0 
+Board [3d 4c Ac 3h 7h]
+Seat 1: Sick´nSocial (big blind) folded before Flop
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire folded before Flop (didn't bet)
+Seat 5: DeathBrain09 showed [9h Js] and lost with a pair of Threes
+Seat 6: peace&loove folded before Flop (didn't bet)
+Seat 7: paulinijo (button) folded before Flop (didn't bet)
+Seat 8: losscreeners (small blind) showed [Kd Ks] and won (2797) with two pair, Kings and Threes
+
+PokerStars Hand #251201675075: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XVI (400/800) - 2024/06/26 13:50:45 UTC [2024/06/26 9:50:45 ET]
+Table '3769360237 16' 8-max Seat #8 is the button
+Seat 1: Sick´nSocial (1389 in chips) 
+Seat 3: Tom_Poker_NL (14952 in chips) 
+Seat 4: billionaaire (19548 in chips) 
+Seat 6: peace&loove (15561 in chips) 
+Seat 7: paulinijo (34011 in chips) 
+Seat 8: losscreeners (30752 in chips) 
+Sick´nSocial: posts the ante 100
+Tom_Poker_NL: posts the ante 100
+billionaaire: posts the ante 100
+peace&loove: posts the ante 100
+paulinijo: posts the ante 100
+losscreeners: posts the ante 100
+Sick´nSocial: posts small blind 400
+Tom_Poker_NL: posts big blind 800
+*** HOLE CARDS ***
+billionaaire: folds 
+peace&loove: folds 
+paulinijo: folds 
+losscreeners: raises 800 to 1600
+Sick´nSocial: calls 889 and is all-in
+Tom_Poker_NL: folds 
+Uncalled bet (311) returned to losscreeners
+*** FLOP *** [8d Ac 5s]
+*** TURN *** [8d Ac 5s] [Kd]
+*** RIVER *** [8d Ac 5s Kd] [Qh]
+*** SHOW DOWN ***
+Sick´nSocial: shows [7c 7d] (a pair of Sevens)
+losscreeners: shows [As 8s] (two pair, Aces and Eights)
+losscreeners collected 3978 from pot
+Sick´nSocial finished the tournament in 12th place
+*** SUMMARY ***
+Total pot 3978 | Rake 0 
+Board [8d Ac 5s Kd Qh]
+Seat 1: Sick´nSocial (small blind) showed [7c 7d] and lost with a pair of Sevens
+Seat 3: Tom_Poker_NL (big blind) folded before Flop
+Seat 4: billionaaire folded before Flop (didn't bet)
+Seat 6: peace&loove folded before Flop (didn't bet)
+Seat 7: paulinijo folded before Flop (didn't bet)
+Seat 8: losscreeners (button) showed [As 8s] and won (3978) with two pair, Aces and Eights
+
+PokerStars Hand #251201680259: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XVII (500/1000) - 2024/06/26 13:51:15 UTC [2024/06/26 9:51:15 ET]
+Table '3769360237 16' 8-max Seat #3 is the button
+Seat 3: Tom_Poker_NL (14052 in chips) 
+Seat 4: billionaaire (19448 in chips) 
+Seat 6: peace&loove (15461 in chips) 
+Seat 7: paulinijo (33911 in chips) 
+Seat 8: losscreeners (33341 in chips) 
+Tom_Poker_NL: posts the ante 125
+billionaaire: posts the ante 125
+peace&loove: posts the ante 125
+paulinijo: posts the ante 125
+losscreeners: posts the ante 125
+billionaaire: posts small blind 500
+peace&loove: posts big blind 1000
+*** HOLE CARDS ***
+paulinijo: folds 
+losscreeners: raises 1000 to 2000
+Tom_Poker_NL: folds 
+billionaaire: folds 
+peace&loove: calls 1000
+*** FLOP *** [Ah Kd 6h]
+peace&loove: checks 
+losscreeners: bets 1640
+peace&loove: calls 1640
+*** TURN *** [Ah Kd 6h] [6s]
+peace&loove: checks 
+losscreeners: checks 
+*** RIVER *** [Ah Kd 6h 6s] [As]
+peace&loove: bets 2774
+losscreeners: raises 2774 to 5548
+peace&loove: calls 2774
+*** SHOW DOWN ***
+losscreeners: shows [Ac Jh] (a full house, Aces full of Sixes)
+peace&loove: shows [5s Ad] (a full house, Aces full of Sixes)
+peace&loove collected 9751 from pot
+losscreeners collected 9750 from pot
+*** SUMMARY ***
+Total pot 19501 | Rake 0 
+Board [Ah Kd 6h 6s As]
+Seat 3: Tom_Poker_NL (button) folded before Flop (didn't bet)
+Seat 4: billionaaire (small blind) folded before Flop
+Seat 6: peace&loove (big blind) showed [5s Ad] and won (9751) with a full house, Aces full of Sixes
+Seat 7: paulinijo folded before Flop (didn't bet)
+Seat 8: losscreeners showed [Ac Jh] and won (9750) with a full house, Aces full of Sixes
+
+PokerStars Hand #251201694067: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XVII (500/1000) - 2024/06/26 13:52:35 UTC [2024/06/26 9:52:35 ET]
+Table '3769360237 16' 8-max Seat #4 is the button
+Seat 3: Tom_Poker_NL (13927 in chips) 
+Seat 4: billionaaire (18823 in chips) 
+Seat 6: peace&loove (15899 in chips) 
+Seat 7: paulinijo (33786 in chips) 
+Seat 8: losscreeners (33778 in chips) 
+Tom_Poker_NL: posts the ante 125
+billionaaire: posts the ante 125
+peace&loove: posts the ante 125
+paulinijo: posts the ante 125
+losscreeners: posts the ante 125
+peace&loove: posts small blind 500
+paulinijo: posts big blind 1000
+*** HOLE CARDS ***
+losscreeners: folds 
+Tom_Poker_NL: folds 
+billionaaire: raises 1000 to 2000
+peace&loove: folds 
+paulinijo: raises 31661 to 33661 and is all-in
+billionaaire: folds 
+Uncalled bet (31661) returned to paulinijo
+paulinijo collected 5125 from pot
+paulinijo: doesn't show hand 
+*** SUMMARY ***
+Total pot 5125 | Rake 0 
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire (button) folded before Flop
+Seat 6: peace&loove (small blind) folded before Flop
+Seat 7: paulinijo (big blind) collected (5125)
+Seat 8: losscreeners folded before Flop (didn't bet)
+
+PokerStars Hand #251201700814: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XVII (500/1000) - 2024/06/26 13:53:14 UTC [2024/06/26 9:53:14 ET]
+Table '3769360237 16' 8-max Seat #6 is the button
+Seat 3: Tom_Poker_NL (13802 in chips) 
+Seat 4: billionaaire (16698 in chips) 
+Seat 6: peace&loove (15274 in chips) 
+Seat 7: paulinijo (36786 in chips) 
+Seat 8: losscreeners (33653 in chips) 
+Tom_Poker_NL: posts the ante 125
+billionaaire: posts the ante 125
+peace&loove: posts the ante 125
+paulinijo: posts the ante 125
+losscreeners: posts the ante 125
+paulinijo: posts small blind 500
+losscreeners: posts big blind 1000
+*** HOLE CARDS ***
+Tom_Poker_NL: folds 
+billionaaire: raises 1000 to 2000
+peace&loove: folds 
+paulinijo: folds 
+losscreeners: calls 1000
+*** FLOP *** [3c Qd 5d]
+losscreeners: checks 
+billionaaire: bets 1691
+losscreeners: calls 1691
+*** TURN *** [3c Qd 5d] [Jc]
+losscreeners: checks 
+billionaaire: bets 5955
+losscreeners: folds 
+Uncalled bet (5955) returned to billionaaire
+billionaaire collected 8507 from pot
+billionaaire: doesn't show hand 
+*** SUMMARY ***
+Total pot 8507 | Rake 0 
+Board [3c Qd 5d Jc]
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire collected (8507)
+Seat 6: peace&loove (button) folded before Flop (didn't bet)
+Seat 7: paulinijo (small blind) folded before Flop
+Seat 8: losscreeners (big blind) folded on the Turn
+
+PokerStars Hand #251201709942: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XVII (500/1000) - 2024/06/26 13:54:07 UTC [2024/06/26 9:54:07 ET]
+Table '3769360237 16' 8-max Seat #7 is the button
+Seat 3: Tom_Poker_NL (13677 in chips) 
+Seat 4: billionaaire (21389 in chips) 
+Seat 6: peace&loove (15149 in chips) 
+Seat 7: paulinijo (36161 in chips) 
+Seat 8: losscreeners (29837 in chips) 
+Tom_Poker_NL: posts the ante 125
+billionaaire: posts the ante 125
+peace&loove: posts the ante 125
+paulinijo: posts the ante 125
+losscreeners: posts the ante 125
+losscreeners: posts small blind 500
+Tom_Poker_NL: posts big blind 1000
+*** HOLE CARDS ***
+billionaaire: folds 
+peace&loove: raises 1000 to 2000
+paulinijo: folds 
+losscreeners: folds 
+Tom_Poker_NL: calls 1000
+*** FLOP *** [4c 7c 5s]
+Tom_Poker_NL: bets 1000
+peace&loove: calls 1000
+*** TURN *** [4c 7c 5s] [As]
+Tom_Poker_NL: bets 1500
+peace&loove: calls 1500
+*** RIVER *** [4c 7c 5s As] [5c]
+Tom_Poker_NL: checks 
+peace&loove: checks 
+*** SHOW DOWN ***
+Tom_Poker_NL: shows [6h 9h] (a pair of Fives)
+peace&loove: shows [Ad Ks] (two pair, Aces and Fives)
+peace&loove collected 10125 from pot
+*** SUMMARY ***
+Total pot 10125 | Rake 0 
+Board [4c 7c 5s As 5c]
+Seat 3: Tom_Poker_NL (big blind) showed [6h 9h] and lost with a pair of Fives
+Seat 4: billionaaire folded before Flop (didn't bet)
+Seat 6: peace&loove showed [Ad Ks] and won (10125) with two pair, Aces and Fives
+Seat 7: paulinijo (button) folded before Flop (didn't bet)
+Seat 8: losscreeners (small blind) folded before Flop
+
+PokerStars Hand #251201762625: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XVII (500/1000) - 2024/06/26 14:00:07 UTC [2024/06/26 10:00:07 ET]
+Table '3769360237 16' 8-max Seat #8 is the button
+Seat 3: Tom_Poker_NL (9052 in chips) 
+Seat 4: billionaaire (21264 in chips) 
+Seat 6: peace&loove (20649 in chips) 
+Seat 7: paulinijo (36036 in chips) 
+Seat 8: losscreeners (29212 in chips) 
+Tom_Poker_NL: posts the ante 125
+billionaaire: posts the ante 125
+peace&loove: posts the ante 125
+paulinijo: posts the ante 125
+losscreeners: posts the ante 125
+Tom_Poker_NL: posts small blind 500
+billionaaire: posts big blind 1000
+*** HOLE CARDS ***
+peace&loove: folds 
+paulinijo: folds 
+losscreeners: folds 
+Tom_Poker_NL has timed out
+Tom_Poker_NL: folds 
+Tom_Poker_NL is sitting out
+Uncalled bet (500) returned to billionaaire
+billionaaire collected 1625 from pot
+billionaaire: doesn't show hand 
+*** SUMMARY ***
+Total pot 1625 | Rake 0 
+Seat 3: Tom_Poker_NL (small blind) folded before Flop
+Seat 4: billionaaire (big blind) collected (1625)
+Seat 6: peace&loove folded before Flop (didn't bet)
+Seat 7: paulinijo folded before Flop (didn't bet)
+Seat 8: losscreeners (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251201769539: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XVII (500/1000) - 2024/06/26 14:00:53 UTC [2024/06/26 10:00:53 ET]
+Table '3769360237 16' 8-max Seat #3 is the button
+Seat 3: Tom_Poker_NL (8427 in chips) is sitting out
+Seat 4: billionaaire (22264 in chips) 
+Seat 6: peace&loove (20524 in chips) 
+Seat 7: paulinijo (35911 in chips) 
+Seat 8: losscreeners (29087 in chips) 
+Tom_Poker_NL: posts the ante 125
+billionaaire: posts the ante 125
+peace&loove: posts the ante 125
+paulinijo: posts the ante 125
+losscreeners: posts the ante 125
+billionaaire: posts small blind 500
+peace&loove: posts big blind 1000
+*** HOLE CARDS ***
+Tom_Poker_NL has returned
+paulinijo: folds 
+losscreeners: raises 1000 to 2000
+Tom_Poker_NL: folds 
+billionaaire: folds 
+peace&loove: calls 1000
+*** FLOP *** [Ac 6d Kh]
+peace&loove: checks 
+losscreeners: bets 1640
+peace&loove: calls 1640
+*** TURN *** [Ac 6d Kh] [3h]
+peace&loove: checks 
+losscreeners: bets 3782
+peace&loove: calls 3782
+*** RIVER *** [Ac 6d Kh 3h] [4c]
+peace&loove: checks 
+losscreeners: bets 19961
+peace&loove: calls 12977 and is all-in
+Uncalled bet (6984) returned to losscreeners
+*** SHOW DOWN ***
+losscreeners: shows [As Kd] (two pair, Aces and Kings)
+peace&loove: shows [3d Ad] (two pair, Aces and Threes)
+losscreeners collected 41923 from pot
+peace&loove finished the tournament in 11th place and received $88.79.
+*** SUMMARY ***
+Total pot 41923 | Rake 0 
+Board [Ac 6d Kh 3h 4c]
+Seat 3: Tom_Poker_NL (button) folded before Flop (didn't bet)
+Seat 4: billionaaire (small blind) folded before Flop
+Seat 6: peace&loove (big blind) showed [3d Ad] and lost with two pair, Aces and Threes
+Seat 7: paulinijo folded before Flop (didn't bet)
+Seat 8: losscreeners showed [As Kd] and won (41923) with two pair, Aces and Kings
+
+PokerStars Hand #251201787189: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XVII (500/1000) - 2024/06/26 14:02:40 UTC [2024/06/26 10:02:40 ET]
+Table '3769360237 16' 8-max Seat #4 is the button
+Seat 3: Tom_Poker_NL (8302 in chips) 
+Seat 4: billionaaire (21639 in chips) 
+Seat 7: paulinijo (35786 in chips) 
+Seat 8: losscreeners (50486 in chips) 
+Tom_Poker_NL: posts the ante 125
+billionaaire: posts the ante 125
+paulinijo: posts the ante 125
+losscreeners: posts the ante 125
+paulinijo: posts small blind 500
+losscreeners: posts big blind 1000
+*** HOLE CARDS ***
+Tom_Poker_NL has timed out
+Tom_Poker_NL: folds 
+Tom_Poker_NL is sitting out
+Tom_Poker_NL has returned
+billionaaire: folds 
+paulinijo: calls 500
+losscreeners: checks 
+*** FLOP *** [9h 6h 2d]
+paulinijo: bets 1000
+losscreeners: calls 1000
+*** TURN *** [9h 6h 2d] [8d]
+paulinijo: bets 2475
+losscreeners: folds 
+Uncalled bet (2475) returned to paulinijo
+paulinijo collected 4500 from pot
+paulinijo: doesn't show hand 
+dMoray€€l is disconnected 
+*** SUMMARY ***
+Total pot 4500 | Rake 0 
+Board [9h 6h 2d 8d]
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire (button) folded before Flop (didn't bet)
+Seat 7: paulinijo (small blind) collected (4500)
+Seat 8: losscreeners (big blind) folded on the Turn
+
+PokerStars Hand #251201797105: Tournament #3769360237, $50+$5 USD Hold'em No Limit - Level XVII (500/1000) - 2024/06/26 14:03:38 UTC [2024/06/26 10:03:38 ET]
+Table '3769360237 16' 8-max Seat #7 is the button
+Seat 1: dMoray€€l (31267 in chips) 
+Seat 3: Tom_Poker_NL (8177 in chips) 
+Seat 4: billionaaire (21514 in chips) 
+Seat 7: paulinijo (38161 in chips) 
+Seat 8: losscreeners (48361 in chips) 
+dMoray€€l: posts the ante 125
+Tom_Poker_NL: posts the ante 125
+billionaaire: posts the ante 125
+paulinijo: posts the ante 125
+losscreeners: posts the ante 125
+losscreeners: posts small blind 500
+dMoray€€l: posts big blind 1000
+*** HOLE CARDS ***
+Tom_Poker_NL: folds 
+billionaaire: folds 
+paulinijo: raises 1200 to 2200
+losscreeners: folds 
+dMoray€€l: folds 
+Uncalled bet (1200) returned to paulinijo
+paulinijo collected 3125 from pot
+paulinijo: doesn't show hand 
+*** SUMMARY ***
+Total pot 3125 | Rake 0 
+Seat 1: dMoray€€l (big blind) folded before Flop
+Seat 3: Tom_Poker_NL folded before Flop (didn't bet)
+Seat 4: billionaaire folded before Flop (didn't bet)
+Seat 7: paulinijo (button) collected (3125)
+Seat 8: losscreeners (small blind) folded before Flop

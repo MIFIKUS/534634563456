@@ -1,0 +1,754 @@
+PokerStars Hand #251205110414: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:33:48 UTC [2024/06/26 14:33:48 ET]
+Table '3767885527 59' 8-max Seat #7 is the button
+Seat 1: vitor762 (22998 in chips) 
+Seat 2: mikilool (24820 in chips) 
+Seat 3: DaDumon (44609 in chips) 
+Seat 4: Pkrscott1992 (70539 in chips) 
+Seat 5: SkemGeeMan (25405 in chips) 
+Seat 6: JACKPOT786 (30981 in chips) 
+Seat 7: sandarobert1 (105968 in chips) 
+Seat 8: thrasher71 (44724 in chips) 
+vitor762: posts the ante 100
+mikilool: posts the ante 100
+DaDumon: posts the ante 100
+Pkrscott1992: posts the ante 100
+SkemGeeMan: posts the ante 100
+JACKPOT786: posts the ante 100
+sandarobert1: posts the ante 100
+thrasher71: posts the ante 100
+thrasher71: posts small blind 400
+vitor762: posts big blind 800
+*** HOLE CARDS ***
+mikilool: folds 
+DaDumon: folds 
+Pkrscott1992: raises 800 to 1600
+SkemGeeMan: folds 
+JACKPOT786: folds 
+sandarobert1: calls 1600
+thrasher71: calls 1200
+vitor762: calls 800
+*** FLOP *** [8c Qh 5h]
+thrasher71: checks 
+vitor762: checks 
+Pkrscott1992: checks 
+sandarobert1: checks 
+*** TURN *** [8c Qh 5h] [9c]
+thrasher71: checks 
+vitor762: checks 
+Pkrscott1992: checks 
+sandarobert1: bets 2520
+thrasher71: raises 6280 to 8800
+vitor762: folds 
+Pkrscott1992: folds 
+sandarobert1: folds 
+Uncalled bet (6280) returned to thrasher71
+thrasher71 collected 12240 from pot
+thrasher71: doesn't show hand 
+*** SUMMARY ***
+Total pot 12240 | Rake 0 
+Board [8c Qh 5h 9c]
+Seat 1: vitor762 (big blind) folded on the Turn
+Seat 2: mikilool folded before Flop (didn't bet)
+Seat 3: DaDumon folded before Flop (didn't bet)
+Seat 4: Pkrscott1992 folded on the Turn
+Seat 5: SkemGeeMan folded before Flop (didn't bet)
+Seat 6: JACKPOT786 folded before Flop (didn't bet)
+Seat 7: sandarobert1 (button) folded on the Turn
+Seat 8: thrasher71 (small blind) collected (12240)
+
+PokerStars Hand #251205156405: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:36:48 UTC [2024/06/26 14:36:48 ET]
+Table '3767885527 59' 8-max Seat #8 is the button
+Seat 1: vitor762 (21298 in chips) 
+Seat 2: mikilool (24720 in chips) 
+Seat 3: DaDumon (44509 in chips) 
+Seat 4: Pkrscott1992 (68839 in chips) 
+Seat 5: SkemGeeMan (25305 in chips) 
+Seat 6: JACKPOT786 (30881 in chips) 
+Seat 7: sandarobert1 (101748 in chips) 
+Seat 8: thrasher71 (52744 in chips) 
+vitor762: posts the ante 100
+mikilool: posts the ante 100
+DaDumon: posts the ante 100
+Pkrscott1992: posts the ante 100
+SkemGeeMan: posts the ante 100
+JACKPOT786: posts the ante 100
+sandarobert1: posts the ante 100
+thrasher71: posts the ante 100
+vitor762: posts small blind 400
+mikilool: posts big blind 800
+*** HOLE CARDS ***
+DaDumon: folds 
+Pkrscott1992: folds 
+SkemGeeMan: folds 
+JACKPOT786 has timed out
+JACKPOT786: folds 
+JACKPOT786 is sitting out
+sandarobert1: folds 
+JACKPOT786 has returned
+thrasher71 has timed out
+thrasher71: folds 
+thrasher71 is sitting out
+thrasher71 has returned
+vitor762: calls 400
+mikilool: raises 2000 to 2800
+vitor762: folds 
+Uncalled bet (2000) returned to mikilool
+mikilool collected 2400 from pot
+mikilool: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: vitor762 (small blind) folded before Flop
+Seat 2: mikilool (big blind) collected (2400)
+Seat 3: DaDumon folded before Flop (didn't bet)
+Seat 4: Pkrscott1992 folded before Flop (didn't bet)
+Seat 5: SkemGeeMan folded before Flop (didn't bet)
+Seat 6: JACKPOT786 folded before Flop (didn't bet)
+Seat 7: sandarobert1 folded before Flop (didn't bet)
+Seat 8: thrasher71 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205181794: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:38:26 UTC [2024/06/26 14:38:26 ET]
+Table '3767885527 59' 8-max Seat #1 is the button
+Seat 1: vitor762 (20398 in chips) 
+Seat 2: mikilool (26220 in chips) 
+Seat 3: DaDumon (44409 in chips) 
+Seat 4: Pkrscott1992 (68739 in chips) 
+Seat 5: SkemGeeMan (25205 in chips) 
+Seat 6: JACKPOT786 (30781 in chips) 
+Seat 7: sandarobert1 (101648 in chips) 
+Seat 8: thrasher71 (52644 in chips) 
+vitor762: posts the ante 100
+mikilool: posts the ante 100
+DaDumon: posts the ante 100
+Pkrscott1992: posts the ante 100
+SkemGeeMan: posts the ante 100
+JACKPOT786: posts the ante 100
+sandarobert1: posts the ante 100
+thrasher71: posts the ante 100
+mikilool: posts small blind 400
+DaDumon: posts big blind 800
+*** HOLE CARDS ***
+Pkrscott1992: folds 
+SkemGeeMan: folds 
+JACKPOT786: folds 
+sandarobert1: folds 
+thrasher71: raises 800 to 1600
+vitor762: folds 
+mikilool: folds 
+DaDumon: calls 800
+*** FLOP *** [6c Kh 7h]
+DaDumon: checks 
+thrasher71: checks 
+*** TURN *** [6c Kh 7h] [8c]
+DaDumon: checks 
+thrasher71: bets 1320
+DaDumon: calls 1320
+*** RIVER *** [6c Kh 7h 8c] [6s]
+DaDumon: checks 
+thrasher71: bets 5280
+DaDumon: folds 
+Uncalled bet (5280) returned to thrasher71
+thrasher71 collected 7040 from pot
+thrasher71: doesn't show hand 
+*** SUMMARY ***
+Total pot 7040 | Rake 0 
+Board [6c Kh 7h 8c 6s]
+Seat 1: vitor762 (button) folded before Flop (didn't bet)
+Seat 2: mikilool (small blind) folded before Flop
+Seat 3: DaDumon (big blind) folded on the River
+Seat 4: Pkrscott1992 folded before Flop (didn't bet)
+Seat 5: SkemGeeMan folded before Flop (didn't bet)
+Seat 6: JACKPOT786 folded before Flop (didn't bet)
+Seat 7: sandarobert1 folded before Flop (didn't bet)
+Seat 8: thrasher71 collected (7040)
+
+PokerStars Hand #251205208539: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level IX (400/800) - 2024/06/26 18:40:09 UTC [2024/06/26 14:40:09 ET]
+Table '3767885527 59' 8-max Seat #2 is the button
+Seat 1: vitor762 (20298 in chips) 
+Seat 2: mikilool (25720 in chips) 
+Seat 3: DaDumon (41389 in chips) 
+Seat 4: Pkrscott1992 (68639 in chips) 
+Seat 5: SkemGeeMan (25105 in chips) 
+Seat 6: JACKPOT786 (30681 in chips) 
+Seat 7: sandarobert1 (101548 in chips) 
+Seat 8: thrasher71 (56664 in chips) 
+vitor762: posts the ante 100
+mikilool: posts the ante 100
+DaDumon: posts the ante 100
+Pkrscott1992: posts the ante 100
+SkemGeeMan: posts the ante 100
+JACKPOT786: posts the ante 100
+sandarobert1: posts the ante 100
+thrasher71: posts the ante 100
+DaDumon: posts small blind 400
+Pkrscott1992: posts big blind 800
+*** HOLE CARDS ***
+SkemGeeMan: folds 
+JACKPOT786: folds 
+sandarobert1: raises 960 to 1760
+thrasher71 has timed out
+thrasher71: folds 
+thrasher71 is sitting out
+thrasher71 has returned
+vitor762: raises 2640 to 4400
+mikilool: folds 
+DaDumon: folds 
+Pkrscott1992: folds 
+sandarobert1: calls 2640
+*** FLOP *** [Qs Ks Kc]
+sandarobert1: checks 
+vitor762: bets 3200
+sandarobert1: calls 3200
+*** TURN *** [Qs Ks Kc] [9h]
+sandarobert1: checks 
+vitor762: checks 
+*** RIVER *** [Qs Ks Kc 9h] [Td]
+sandarobert1: bets 13416
+vitor762: folds 
+Uncalled bet (13416) returned to sandarobert1
+sandarobert1 collected 17200 from pot
+*** SUMMARY ***
+Total pot 17200 | Rake 0 
+Board [Qs Ks Kc 9h Td]
+Seat 1: vitor762 folded on the River
+Seat 2: mikilool (button) folded before Flop (didn't bet)
+Seat 3: DaDumon (small blind) folded before Flop
+Seat 4: Pkrscott1992 (big blind) folded before Flop
+Seat 5: SkemGeeMan folded before Flop (didn't bet)
+Seat 6: JACKPOT786 folded before Flop (didn't bet)
+Seat 7: sandarobert1 collected (17200)
+Seat 8: thrasher71 folded before Flop (didn't bet)
+
+PokerStars Hand #251205246561: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:42:35 UTC [2024/06/26 14:42:35 ET]
+Table '3767885527 59' 8-max Seat #3 is the button
+Seat 1: vitor762 (12598 in chips) 
+Seat 2: mikilool (25620 in chips) 
+Seat 3: DaDumon (40889 in chips) 
+Seat 4: Pkrscott1992 (67739 in chips) 
+Seat 5: SkemGeeMan (25005 in chips) 
+Seat 6: JACKPOT786 (30581 in chips) 
+Seat 7: sandarobert1 (111048 in chips) 
+Seat 8: thrasher71 (56564 in chips) 
+vitor762: posts the ante 125
+mikilool: posts the ante 125
+DaDumon: posts the ante 125
+Pkrscott1992: posts the ante 125
+SkemGeeMan: posts the ante 125
+JACKPOT786: posts the ante 125
+sandarobert1: posts the ante 125
+thrasher71: posts the ante 125
+Pkrscott1992: posts small blind 500
+SkemGeeMan: posts big blind 1000
+*** HOLE CARDS ***
+JACKPOT786: folds 
+sandarobert1: folds 
+thrasher71: folds 
+vitor762: folds 
+mikilool: folds 
+DaDumon: raises 1000 to 2000
+Pkrscott1992: folds 
+SkemGeeMan: calls 1000
+*** FLOP *** [6h 8d Qd]
+SkemGeeMan: checks 
+DaDumon: bets 3020
+SkemGeeMan: folds 
+Uncalled bet (3020) returned to DaDumon
+DaDumon collected 5500 from pot
+DaDumon: doesn't show hand 
+*** SUMMARY ***
+Total pot 5500 | Rake 0 
+Board [6h 8d Qd]
+Seat 1: vitor762 folded before Flop (didn't bet)
+Seat 2: mikilool folded before Flop (didn't bet)
+Seat 3: DaDumon (button) collected (5500)
+Seat 4: Pkrscott1992 (small blind) folded before Flop
+Seat 5: SkemGeeMan (big blind) folded on the Flop
+Seat 6: JACKPOT786 folded before Flop (didn't bet)
+Seat 7: sandarobert1 folded before Flop (didn't bet)
+Seat 8: thrasher71 folded before Flop (didn't bet)
+
+PokerStars Hand #251205272142: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:44:13 UTC [2024/06/26 14:44:13 ET]
+Table '3767885527 59' 8-max Seat #4 is the button
+Seat 1: vitor762 (12473 in chips) 
+Seat 2: mikilool (25495 in chips) 
+Seat 3: DaDumon (44264 in chips) 
+Seat 4: Pkrscott1992 (67114 in chips) 
+Seat 5: SkemGeeMan (22880 in chips) 
+Seat 6: JACKPOT786 (30456 in chips) 
+Seat 7: sandarobert1 (110923 in chips) 
+Seat 8: thrasher71 (56439 in chips) 
+vitor762: posts the ante 125
+mikilool: posts the ante 125
+DaDumon: posts the ante 125
+Pkrscott1992: posts the ante 125
+SkemGeeMan: posts the ante 125
+JACKPOT786: posts the ante 125
+sandarobert1: posts the ante 125
+thrasher71: posts the ante 125
+SkemGeeMan: posts small blind 500
+JACKPOT786: posts big blind 1000
+*** HOLE CARDS ***
+sandarobert1: raises 1200 to 2200
+thrasher71: folds 
+vitor762: folds 
+mikilool: folds 
+DaDumon: folds 
+Pkrscott1992: calls 2200
+SkemGeeMan: folds 
+JACKPOT786: calls 1200
+*** FLOP *** [5s Qh 8c]
+JACKPOT786: checks 
+sandarobert1: bets 2835
+Pkrscott1992: calls 2835
+JACKPOT786: calls 2835
+*** TURN *** [5s Qh 8c] [2s]
+JACKPOT786: checks 
+sandarobert1: checks 
+Pkrscott1992: bets 9000
+JACKPOT786: folds 
+sandarobert1: folds 
+Uncalled bet (9000) returned to Pkrscott1992
+Pkrscott1992 collected 16605 from pot
+Pkrscott1992: doesn't show hand 
+*** SUMMARY ***
+Total pot 16605 | Rake 0 
+Board [5s Qh 8c 2s]
+Seat 1: vitor762 folded before Flop (didn't bet)
+Seat 2: mikilool folded before Flop (didn't bet)
+Seat 3: DaDumon folded before Flop (didn't bet)
+Seat 4: Pkrscott1992 (button) collected (16605)
+Seat 5: SkemGeeMan (small blind) folded before Flop
+Seat 6: JACKPOT786 (big blind) folded on the Turn
+Seat 7: sandarobert1 folded on the Turn
+Seat 8: thrasher71 folded before Flop (didn't bet)
+
+PokerStars Hand #251205290523: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:45:22 UTC [2024/06/26 14:45:22 ET]
+Table '3767885527 59' 8-max Seat #5 is the button
+Seat 1: vitor762 (12348 in chips) 
+Seat 2: mikilool (25370 in chips) 
+Seat 3: DaDumon (44139 in chips) 
+Seat 4: Pkrscott1992 (78559 in chips) 
+Seat 5: SkemGeeMan (22255 in chips) 
+Seat 6: JACKPOT786 (25296 in chips) 
+Seat 7: sandarobert1 (105763 in chips) 
+Seat 8: thrasher71 (56314 in chips) 
+vitor762: posts the ante 125
+mikilool: posts the ante 125
+DaDumon: posts the ante 125
+Pkrscott1992: posts the ante 125
+SkemGeeMan: posts the ante 125
+JACKPOT786: posts the ante 125
+sandarobert1: posts the ante 125
+thrasher71: posts the ante 125
+JACKPOT786: posts small blind 500
+sandarobert1: posts big blind 1000
+*** HOLE CARDS ***
+thrasher71: folds 
+vitor762: folds 
+mikilool: folds 
+DaDumon: folds 
+Pkrscott1992: raises 1000 to 2000
+SkemGeeMan: folds 
+JACKPOT786: folds 
+sandarobert1: calls 1000
+*** FLOP *** [2h 9c Qs]
+sandarobert1: checks 
+Pkrscott1992: bets 2000
+sandarobert1: calls 2000
+*** TURN *** [2h 9c Qs] [Ah]
+sandarobert1: checks 
+Pkrscott1992: bets 5000
+sandarobert1: folds 
+Uncalled bet (5000) returned to Pkrscott1992
+Pkrscott1992 collected 9500 from pot
+Pkrscott1992: doesn't show hand 
+*** SUMMARY ***
+Total pot 9500 | Rake 0 
+Board [2h 9c Qs Ah]
+Seat 1: vitor762 folded before Flop (didn't bet)
+Seat 2: mikilool folded before Flop (didn't bet)
+Seat 3: DaDumon folded before Flop (didn't bet)
+Seat 4: Pkrscott1992 collected (9500)
+Seat 5: SkemGeeMan (button) folded before Flop (didn't bet)
+Seat 6: JACKPOT786 (small blind) folded before Flop
+Seat 7: sandarobert1 (big blind) folded on the Turn
+Seat 8: thrasher71 folded before Flop (didn't bet)
+
+PokerStars Hand #251205306333: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:46:21 UTC [2024/06/26 14:46:21 ET]
+Table '3767885527 59' 8-max Seat #6 is the button
+Seat 1: vitor762 (12223 in chips) 
+Seat 2: mikilool (25245 in chips) 
+Seat 3: DaDumon (44014 in chips) 
+Seat 5: SkemGeeMan (22130 in chips) 
+Seat 6: JACKPOT786 (24671 in chips) 
+Seat 7: sandarobert1 (101638 in chips) 
+Seat 8: thrasher71 (56189 in chips) 
+vitor762: posts the ante 125
+mikilool: posts the ante 125
+DaDumon: posts the ante 125
+SkemGeeMan: posts the ante 125
+JACKPOT786: posts the ante 125
+sandarobert1: posts the ante 125
+thrasher71: posts the ante 125
+sandarobert1: posts small blind 500
+thrasher71: posts big blind 1000
+*** HOLE CARDS ***
+vitor762: raises 1000 to 2000
+mikilool: folds 
+DaDumon: folds 
+SkemGeeMan: raises 20005 to 22005 and is all-in
+JACKPOT786: folds 
+sandarobert1: folds 
+Brauliocsp is disconnected 
+thrasher71 has timed out
+thrasher71: folds 
+thrasher71 is sitting out
+thrasher71 has returned
+vitor762: folds 
+Uncalled bet (20005) returned to SkemGeeMan
+SkemGeeMan collected 6375 from pot
+SkemGeeMan: doesn't show hand 
+*** SUMMARY ***
+Total pot 6375 | Rake 0 
+Seat 1: vitor762 folded before Flop
+Seat 2: mikilool folded before Flop (didn't bet)
+Seat 3: DaDumon folded before Flop (didn't bet)
+Seat 5: SkemGeeMan collected (6375)
+Seat 6: JACKPOT786 (button) folded before Flop (didn't bet)
+Seat 7: sandarobert1 (small blind) folded before Flop
+Seat 8: thrasher71 (big blind) folded before Flop
+
+PokerStars Hand #251205319416: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:47:11 UTC [2024/06/26 14:47:11 ET]
+Table '3767885527 59' 8-max Seat #7 is the button
+Seat 1: vitor762 (10098 in chips) 
+Seat 2: mikilool (25120 in chips) 
+Seat 3: DaDumon (43889 in chips) 
+Seat 4: Brauliocsp (25000 in chips) 
+Seat 5: SkemGeeMan (26380 in chips) 
+Seat 6: JACKPOT786 (24546 in chips) 
+Seat 7: sandarobert1 (101013 in chips) 
+Seat 8: thrasher71 (55064 in chips) 
+vitor762: posts the ante 125
+mikilool: posts the ante 125
+DaDumon: posts the ante 125
+Brauliocsp: posts the ante 125
+SkemGeeMan: posts the ante 125
+JACKPOT786: posts the ante 125
+sandarobert1: posts the ante 125
+thrasher71: posts the ante 125
+thrasher71: posts small blind 500
+vitor762: posts big blind 1000
+*** HOLE CARDS ***
+mikilool: raises 1000 to 2000
+DaDumon: folds 
+Brauliocsp: folds 
+SkemGeeMan: folds 
+JACKPOT786: folds 
+sandarobert1: folds 
+thrasher71 has timed out
+thrasher71: folds 
+thrasher71 is sitting out
+thrasher71 has returned
+vitor762: raises 7973 to 9973 and is all-in
+mikilool: calls 7973
+*** FLOP *** [9h 3c Js]
+*** TURN *** [9h 3c Js] [6s]
+*** RIVER *** [9h 3c Js 6s] [Td]
+*** SHOW DOWN ***
+vitor762: shows [9c 9d] (three of a kind, Nines)
+mikilool: shows [As Qs] (high card Ace)
+vitor762 collected 21446 from pot
+*** SUMMARY ***
+Total pot 21446 | Rake 0 
+Board [9h 3c Js 6s Td]
+Seat 1: vitor762 (big blind) showed [9c 9d] and won (21446) with three of a kind, Nines
+Seat 2: mikilool showed [As Qs] and lost with high card Ace
+Seat 3: DaDumon folded before Flop (didn't bet)
+Seat 4: Brauliocsp folded before Flop (didn't bet)
+Seat 5: SkemGeeMan folded before Flop (didn't bet)
+Seat 6: JACKPOT786 folded before Flop (didn't bet)
+Seat 7: sandarobert1 (button) folded before Flop (didn't bet)
+Seat 8: thrasher71 (small blind) folded before Flop
+
+PokerStars Hand #251205332711: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:48:02 UTC [2024/06/26 14:48:02 ET]
+Table '3767885527 59' 8-max Seat #8 is the button
+Seat 1: vitor762 (21446 in chips) 
+Seat 2: mikilool (15022 in chips) 
+Seat 3: DaDumon (43764 in chips) 
+Seat 4: Brauliocsp (24875 in chips) 
+Seat 5: SkemGeeMan (26255 in chips) 
+Seat 6: JACKPOT786 (24421 in chips) 
+Seat 7: sandarobert1 (100888 in chips) 
+Seat 8: thrasher71 (54439 in chips) 
+vitor762: posts the ante 125
+mikilool: posts the ante 125
+DaDumon: posts the ante 125
+Brauliocsp: posts the ante 125
+SkemGeeMan: posts the ante 125
+JACKPOT786: posts the ante 125
+sandarobert1: posts the ante 125
+thrasher71: posts the ante 125
+vitor762: posts small blind 500
+mikilool: posts big blind 1000
+*** HOLE CARDS ***
+DaDumon: raises 1000 to 2000
+Brauliocsp: folds 
+SkemGeeMan: folds 
+JACKPOT786: folds 
+sandarobert1: folds 
+thrasher71: folds 
+vitor762: folds 
+mikilool: folds 
+Uncalled bet (1000) returned to DaDumon
+DaDumon collected 3500 from pot
+DaDumon: doesn't show hand 
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Seat 1: vitor762 (small blind) folded before Flop
+Seat 2: mikilool (big blind) folded before Flop
+Seat 3: DaDumon collected (3500)
+Seat 4: Brauliocsp folded before Flop (didn't bet)
+Seat 5: SkemGeeMan folded before Flop (didn't bet)
+Seat 6: JACKPOT786 folded before Flop (didn't bet)
+Seat 7: sandarobert1 folded before Flop (didn't bet)
+Seat 8: thrasher71 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205344455: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:48:46 UTC [2024/06/26 14:48:46 ET]
+Table '3767885527 59' 8-max Seat #1 is the button
+Seat 1: vitor762 (20821 in chips) 
+Seat 2: mikilool (13897 in chips) 
+Seat 3: DaDumon (46139 in chips) 
+Seat 4: Brauliocsp (24750 in chips) 
+Seat 5: SkemGeeMan (26130 in chips) 
+Seat 6: JACKPOT786 (24296 in chips) 
+Seat 7: sandarobert1 (100763 in chips) 
+Seat 8: thrasher71 (54314 in chips) 
+vitor762: posts the ante 125
+mikilool: posts the ante 125
+DaDumon: posts the ante 125
+Brauliocsp: posts the ante 125
+SkemGeeMan: posts the ante 125
+JACKPOT786: posts the ante 125
+sandarobert1: posts the ante 125
+thrasher71: posts the ante 125
+mikilool: posts small blind 500
+DaDumon: posts big blind 1000
+*** HOLE CARDS ***
+Brauliocsp: folds 
+SkemGeeMan has timed out
+SkemGeeMan: folds 
+SkemGeeMan is sitting out
+JACKPOT786: folds 
+sandarobert1: folds 
+SkemGeeMan has returned
+thrasher71 has timed out
+thrasher71: folds 
+thrasher71 is sitting out
+thrasher71 has returned
+vitor762: folds 
+mikilool: folds 
+Uncalled bet (500) returned to DaDumon
+DaDumon collected 2000 from pot
+DaDumon: doesn't show hand 
+*** SUMMARY ***
+Total pot 2000 | Rake 0 
+Seat 1: vitor762 (button) folded before Flop (didn't bet)
+Seat 2: mikilool (small blind) folded before Flop
+Seat 3: DaDumon (big blind) collected (2000)
+Seat 4: Brauliocsp folded before Flop (didn't bet)
+Seat 5: SkemGeeMan folded before Flop (didn't bet)
+Seat 6: JACKPOT786 folded before Flop (didn't bet)
+Seat 7: sandarobert1 folded before Flop (didn't bet)
+Seat 8: thrasher71 folded before Flop (didn't bet)
+
+PokerStars Hand #251205363134: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:49:58 UTC [2024/06/26 14:49:58 ET]
+Table '3767885527 59' 8-max Seat #2 is the button
+Seat 1: vitor762 (20696 in chips) 
+Seat 2: mikilool (13272 in chips) 
+Seat 3: DaDumon (47514 in chips) 
+Seat 4: Brauliocsp (24625 in chips) 
+Seat 5: SkemGeeMan (26005 in chips) 
+Seat 6: JACKPOT786 (24171 in chips) 
+Seat 7: sandarobert1 (100638 in chips) 
+Seat 8: thrasher71 (54189 in chips) 
+vitor762: posts the ante 125
+mikilool: posts the ante 125
+DaDumon: posts the ante 125
+Brauliocsp: posts the ante 125
+SkemGeeMan: posts the ante 125
+JACKPOT786: posts the ante 125
+sandarobert1: posts the ante 125
+thrasher71: posts the ante 125
+DaDumon: posts small blind 500
+Brauliocsp: posts big blind 1000
+*** HOLE CARDS ***
+SkemGeeMan: folds 
+JACKPOT786: folds 
+sandarobert1: raises 1000 to 2000
+thrasher71: folds 
+vitor762: folds 
+mikilool: folds 
+DaDumon: folds 
+Brauliocsp: calls 1000
+*** FLOP *** [3s Qc 9h]
+Brauliocsp: checks 
+sandarobert1: bets 1925
+Brauliocsp: folds 
+Uncalled bet (1925) returned to sandarobert1
+sandarobert1 collected 5500 from pot
+*** SUMMARY ***
+Total pot 5500 | Rake 0 
+Board [3s Qc 9h]
+Seat 1: vitor762 folded before Flop (didn't bet)
+Seat 2: mikilool (button) folded before Flop (didn't bet)
+Seat 3: DaDumon (small blind) folded before Flop
+Seat 4: Brauliocsp (big blind) folded on the Flop
+Seat 5: SkemGeeMan folded before Flop (didn't bet)
+Seat 6: JACKPOT786 folded before Flop (didn't bet)
+Seat 7: sandarobert1 collected (5500)
+Seat 8: thrasher71 folded before Flop (didn't bet)
+
+PokerStars Hand #251205378621: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:50:57 UTC [2024/06/26 14:50:57 ET]
+Table '3767885527 59' 8-max Seat #3 is the button
+Seat 1: vitor762 (20571 in chips) 
+Seat 2: mikilool (13147 in chips) 
+Seat 3: DaDumon (46889 in chips) 
+Seat 4: Brauliocsp (22500 in chips) 
+Seat 5: SkemGeeMan (25880 in chips) 
+Seat 6: JACKPOT786 (24046 in chips) 
+Seat 7: sandarobert1 (104013 in chips) 
+Seat 8: thrasher71 (54064 in chips) 
+vitor762: posts the ante 125
+mikilool: posts the ante 125
+DaDumon: posts the ante 125
+Brauliocsp: posts the ante 125
+SkemGeeMan: posts the ante 125
+JACKPOT786: posts the ante 125
+sandarobert1: posts the ante 125
+thrasher71: posts the ante 125
+Brauliocsp: posts small blind 500
+SkemGeeMan: posts big blind 1000
+*** HOLE CARDS ***
+JACKPOT786: folds 
+sandarobert1: folds 
+thrasher71: raises 1000 to 2000
+vitor762: folds 
+mikilool: folds 
+DaDumon: folds 
+Brauliocsp: folds 
+SkemGeeMan: folds 
+Uncalled bet (1000) returned to thrasher71
+thrasher71 collected 3500 from pot
+thrasher71: doesn't show hand 
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Seat 1: vitor762 folded before Flop (didn't bet)
+Seat 2: mikilool folded before Flop (didn't bet)
+Seat 3: DaDumon (button) folded before Flop (didn't bet)
+Seat 4: Brauliocsp (small blind) folded before Flop
+Seat 5: SkemGeeMan (big blind) folded before Flop
+Seat 6: JACKPOT786 folded before Flop (didn't bet)
+Seat 7: sandarobert1 folded before Flop (didn't bet)
+Seat 8: thrasher71 collected (3500)
+
+PokerStars Hand #251205387982: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level X (500/1000) - 2024/06/26 18:51:33 UTC [2024/06/26 14:51:33 ET]
+Table '3767885527 59' 8-max Seat #4 is the button
+Seat 1: vitor762 (20446 in chips) 
+Seat 2: mikilool (13022 in chips) 
+Seat 3: DaDumon (46764 in chips) 
+Seat 4: Brauliocsp (21875 in chips) 
+Seat 5: SkemGeeMan (24755 in chips) 
+Seat 6: JACKPOT786 (23921 in chips) 
+Seat 7: sandarobert1 (103888 in chips) 
+Seat 8: thrasher71 (56439 in chips) 
+vitor762: posts the ante 125
+mikilool: posts the ante 125
+DaDumon: posts the ante 125
+Brauliocsp: posts the ante 125
+SkemGeeMan: posts the ante 125
+JACKPOT786: posts the ante 125
+sandarobert1: posts the ante 125
+thrasher71: posts the ante 125
+SkemGeeMan: posts small blind 500
+JACKPOT786: posts big blind 1000
+*** HOLE CARDS ***
+sandarobert1: raises 1000 to 2000
+thrasher71: folds 
+vitor762: folds 
+mikilool: folds 
+DaDumon: calls 2000
+Brauliocsp: raises 19750 to 21750 and is all-in
+SkemGeeMan: folds 
+JACKPOT786: folds 
+sandarobert1: folds 
+DaDumon: calls 19750
+*** FLOP *** [Qh 2s 2h]
+*** TURN *** [Qh 2s 2h] [As]
+*** RIVER *** [Qh 2s 2h As] [Ts]
+*** SHOW DOWN ***
+DaDumon: shows [3s 3d] (two pair, Threes and Deuces)
+Brauliocsp: shows [Jd Js] (two pair, Jacks and Deuces)
+Brauliocsp collected 48000 from pot
+*** SUMMARY ***
+Total pot 48000 | Rake 0 
+Board [Qh 2s 2h As Ts]
+Seat 1: vitor762 folded before Flop (didn't bet)
+Seat 2: mikilool folded before Flop (didn't bet)
+Seat 3: DaDumon showed [3s 3d] and lost with two pair, Threes and Deuces
+Seat 4: Brauliocsp (button) showed [Jd Js] and won (48000) with two pair, Jacks and Deuces
+Seat 5: SkemGeeMan (small blind) folded before Flop
+Seat 6: JACKPOT786 (big blind) folded before Flop
+Seat 7: sandarobert1 folded before Flop
+Seat 8: thrasher71 folded before Flop (didn't bet)
+
+PokerStars Hand #251205408563: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:52:51 UTC [2024/06/26 14:52:51 ET]
+Table '3767885527 59' 8-max Seat #5 is the button
+Seat 1: vitor762 (20321 in chips) 
+Seat 2: mikilool (12897 in chips) 
+Seat 3: DaDumon (24889 in chips) 
+Seat 4: Brauliocsp (48000 in chips) 
+Seat 5: SkemGeeMan (24130 in chips) 
+Seat 6: JACKPOT786 (22796 in chips) 
+Seat 7: sandarobert1 (101763 in chips) 
+Seat 8: thrasher71 (56314 in chips) 
+vitor762: posts the ante 150
+mikilool: posts the ante 150
+DaDumon: posts the ante 150
+Brauliocsp: posts the ante 150
+SkemGeeMan: posts the ante 150
+JACKPOT786: posts the ante 150
+sandarobert1: posts the ante 150
+thrasher71: posts the ante 150
+JACKPOT786: posts small blind 600
+sandarobert1: posts big blind 1200
+*** HOLE CARDS ***
+thrasher71 has timed out
+thrasher71: folds 
+thrasher71 is sitting out
+thrasher71 has returned
+vitor762: folds 
+mikilool: raises 11547 to 12747 and is all-in
+DaDumon: folds 
+Brauliocsp: folds 
+SkemGeeMan: folds 
+JACKPOT786: raises 9899 to 22646 and is all-in
+sandarobert1: folds 
+Uncalled bet (9899) returned to JACKPOT786
+*** FLOP *** [2s 5h 4h]
+*** TURN *** [2s 5h 4h] [6s]
+*** RIVER *** [2s 5h 4h 6s] [Qd]
+*** SHOW DOWN ***
+JACKPOT786: shows [Ks Ad] (high card Ace)
+mikilool: shows [Td As] (high card Ace - lower kicker)
+JACKPOT786 collected 27894 from pot
+mikilool finished the tournament
+*** SUMMARY ***
+Total pot 27894 | Rake 0 
+Board [2s 5h 4h 6s Qd]
+Seat 1: vitor762 folded before Flop (didn't bet)
+Seat 2: mikilool showed [Td As] and lost with high card Ace
+Seat 3: DaDumon folded before Flop (didn't bet)
+Seat 4: Brauliocsp folded before Flop (didn't bet)
+Seat 5: SkemGeeMan (button) folded before Flop (didn't bet)
+Seat 6: JACKPOT786 (small blind) showed [Ks Ad] and won (27894) with high card Ace
+Seat 7: sandarobert1 (big blind) folded before Flop
+Seat 8: thrasher71 folded before Flop (didn't bet)

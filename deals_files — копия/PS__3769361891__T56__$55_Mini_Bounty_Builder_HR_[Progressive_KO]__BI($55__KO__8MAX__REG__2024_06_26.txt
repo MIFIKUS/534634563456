@@ -1,0 +1,1977 @@
+PokerStars Hand #251204988664: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:25:46 UTC [2024/06/26 14:25:46 ET]
+Table '3769361891 56' 8-max Seat #3 is the button
+Seat 1: drope$tyle (54451 in chips, $25 bounty) 
+Seat 2: dadowiec (20186 in chips, $37.50 bounty) 
+Seat 3: ccyrenne (58973 in chips, $50 bounty) 
+Seat 4: sheldon_fla (36571 in chips, $25 bounty) 
+Seat 5: MrJovelli (51472 in chips, $25 bounty) 
+Seat 6: JennyAniston (43250 in chips, $25 bounty) 
+Seat 7: podiiii (108395 in chips, $43.75 bounty) 
+Seat 8: truechain (39082 in chips, $81.25 bounty) 
+drope$tyle: posts the ante 175
+dadowiec: posts the ante 175
+ccyrenne: posts the ante 175
+sheldon_fla: posts the ante 175
+MrJovelli: posts the ante 175
+JennyAniston: posts the ante 175
+podiiii: posts the ante 175
+truechain: posts the ante 175
+sheldon_fla: posts small blind 600
+MrJovelli: posts big blind 1200
+*** HOLE CARDS ***
+JennyAniston: folds 
+podiiii: folds 
+truechain: raises 1440 to 2640
+drope$tyle: folds 
+dadowiec: folds 
+ccyrenne: folds 
+sheldon_fla: folds 
+MrJovelli: folds 
+Uncalled bet (1440) returned to truechain
+truechain collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Seat 1: drope$tyle folded before Flop (didn't bet)
+Seat 2: dadowiec folded before Flop (didn't bet)
+Seat 3: ccyrenne (button) folded before Flop (didn't bet)
+Seat 4: sheldon_fla (small blind) folded before Flop
+Seat 5: MrJovelli (big blind) folded before Flop
+Seat 6: JennyAniston folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain collected (4400)
+
+PokerStars Hand #251204996390: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:26:18 UTC [2024/06/26 14:26:18 ET]
+Table '3769361891 56' 8-max Seat #4 is the button
+Seat 1: drope$tyle (54276 in chips, $25 bounty) 
+Seat 2: dadowiec (20011 in chips, $37.50 bounty) 
+Seat 3: ccyrenne (58798 in chips, $50 bounty) 
+Seat 4: sheldon_fla (35796 in chips, $25 bounty) 
+Seat 5: MrJovelli (50097 in chips, $25 bounty) 
+Seat 6: JennyAniston (43075 in chips, $25 bounty) 
+Seat 7: podiiii (108220 in chips, $43.75 bounty) 
+Seat 8: truechain (42107 in chips, $81.25 bounty) 
+drope$tyle: posts the ante 175
+dadowiec: posts the ante 175
+ccyrenne: posts the ante 175
+sheldon_fla: posts the ante 175
+MrJovelli: posts the ante 175
+JennyAniston: posts the ante 175
+podiiii: posts the ante 175
+truechain: posts the ante 175
+MrJovelli: posts small blind 600
+JennyAniston: posts big blind 1200
+*** HOLE CARDS ***
+podiiii: folds 
+truechain: folds 
+drope$tyle: folds 
+dadowiec: raises 1320 to 2520
+ccyrenne: raises 3480 to 6000
+sheldon_fla: folds 
+MrJovelli: folds 
+JennyAniston: folds 
+dadowiec: raises 13836 to 19836 and is all-in
+ccyrenne: calls 13836
+*** FLOP *** [Qh Jh 6h]
+*** TURN *** [Qh Jh 6h] [4s]
+*** RIVER *** [Qh Jh 6h 4s] [9h]
+*** SHOW DOWN ***
+dadowiec: shows [Ac Kd] (high card Ace)
+ccyrenne: shows [Kh Ad] (a flush, King high)
+ccyrenne collected 42872 from pot
+ccyrenne wins $18.75 for eliminating dadowiec and their own bounty increases by $18.75 to $68.75
+dadowiec finished the tournament
+*** SUMMARY ***
+Total pot 42872 | Rake 0 
+Board [Qh Jh 6h 4s 9h]
+Seat 1: drope$tyle folded before Flop (didn't bet)
+Seat 2: dadowiec showed [Ac Kd] and lost with high card Ace
+Seat 3: ccyrenne showed [Kh Ad] and won (42872) with a flush, King high
+Seat 4: sheldon_fla (button) folded before Flop (didn't bet)
+Seat 5: MrJovelli (small blind) folded before Flop
+Seat 6: JennyAniston (big blind) folded before Flop
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205007246: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:27:01 UTC [2024/06/26 14:27:01 ET]
+Table '3769361891 56' 8-max Seat #5 is the button
+Seat 1: drope$tyle (54101 in chips, $25 bounty) 
+Seat 3: ccyrenne (81659 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (35621 in chips, $25 bounty) 
+Seat 5: MrJovelli (49322 in chips, $25 bounty) 
+Seat 6: JennyAniston (41700 in chips, $25 bounty) 
+Seat 7: podiiii (108045 in chips, $43.75 bounty) 
+Seat 8: truechain (41932 in chips, $81.25 bounty) 
+drope$tyle: posts the ante 175
+ccyrenne: posts the ante 175
+sheldon_fla: posts the ante 175
+MrJovelli: posts the ante 175
+JennyAniston: posts the ante 175
+podiiii: posts the ante 175
+truechain: posts the ante 175
+JennyAniston: posts small blind 600
+podiiii: posts big blind 1200
+*** HOLE CARDS ***
+truechain: folds 
+drope$tyle: folds 
+ccyrenne: raises 1200 to 2400
+sheldon_fla: folds 
+MrJovelli: folds 
+JennyAniston: folds 
+podiiii: folds 
+Uncalled bet (1200) returned to ccyrenne
+ccyrenne collected 4225 from pot
+ccyrenne: doesn't show hand 
+*** SUMMARY ***
+Total pot 4225 | Rake 0 
+Seat 1: drope$tyle folded before Flop (didn't bet)
+Seat 3: ccyrenne collected (4225)
+Seat 4: sheldon_fla folded before Flop (didn't bet)
+Seat 5: MrJovelli (button) folded before Flop (didn't bet)
+Seat 6: JennyAniston (small blind) folded before Flop
+Seat 7: podiiii (big blind) folded before Flop
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205019111: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:27:49 UTC [2024/06/26 14:27:49 ET]
+Table '3769361891 56' 8-max Seat #6 is the button
+Seat 1: drope$tyle (53926 in chips, $25 bounty) 
+Seat 3: ccyrenne (84509 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (35446 in chips, $25 bounty) 
+Seat 5: MrJovelli (49147 in chips, $25 bounty) 
+Seat 6: JennyAniston (40925 in chips, $25 bounty) 
+Seat 7: podiiii (106670 in chips, $43.75 bounty) 
+Seat 8: truechain (41757 in chips, $81.25 bounty) 
+drope$tyle: posts the ante 175
+ccyrenne: posts the ante 175
+sheldon_fla: posts the ante 175
+MrJovelli: posts the ante 175
+JennyAniston: posts the ante 175
+podiiii: posts the ante 175
+truechain: posts the ante 175
+podiiii: posts small blind 600
+truechain: posts big blind 1200
+*** HOLE CARDS ***
+drope$tyle: raises 1200 to 2400
+ccyrenne: folds 
+sheldon_fla: folds 
+MrJovelli: folds 
+JennyAniston: folds 
+podiiii: folds 
+truechain: folds 
+Uncalled bet (1200) returned to drope$tyle
+drope$tyle collected 4225 from pot
+drope$tyle: doesn't show hand 
+*** SUMMARY ***
+Total pot 4225 | Rake 0 
+Seat 1: drope$tyle collected (4225)
+Seat 3: ccyrenne folded before Flop (didn't bet)
+Seat 4: sheldon_fla folded before Flop (didn't bet)
+Seat 5: MrJovelli folded before Flop (didn't bet)
+Seat 6: JennyAniston (button) folded before Flop (didn't bet)
+Seat 7: podiiii (small blind) folded before Flop
+Seat 8: truechain (big blind) folded before Flop
+
+PokerStars Hand #251205028296: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:28:25 UTC [2024/06/26 14:28:25 ET]
+Table '3769361891 56' 8-max Seat #7 is the button
+Seat 1: drope$tyle (56776 in chips, $25 bounty) 
+Seat 2: XnGo (103087 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (84334 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (35271 in chips, $25 bounty) 
+Seat 5: MrJovelli (48972 in chips, $25 bounty) 
+Seat 7: podiiii (105895 in chips, $43.75 bounty) 
+Seat 8: truechain (40382 in chips, $81.25 bounty) 
+drope$tyle: posts the ante 175
+XnGo: posts the ante 175
+ccyrenne: posts the ante 175
+sheldon_fla: posts the ante 175
+MrJovelli: posts the ante 175
+podiiii: posts the ante 175
+truechain: posts the ante 175
+truechain: posts small blind 600
+drope$tyle: posts big blind 1200
+*** HOLE CARDS ***
+MBjorn42 is disconnected 
+XnGo: folds 
+ccyrenne: folds 
+sheldon_fla: folds 
+MrJovelli: raises 1200 to 2400
+podiiii: folds 
+truechain: folds 
+drope$tyle: folds 
+Uncalled bet (1200) returned to MrJovelli
+MrJovelli collected 4225 from pot
+MrJovelli: doesn't show hand 
+*** SUMMARY ***
+Total pot 4225 | Rake 0 
+Seat 1: drope$tyle (big blind) folded before Flop
+Seat 2: XnGo folded before Flop (didn't bet)
+Seat 3: ccyrenne folded before Flop (didn't bet)
+Seat 4: sheldon_fla folded before Flop (didn't bet)
+Seat 5: MrJovelli collected (4225)
+Seat 7: podiiii (button) folded before Flop (didn't bet)
+Seat 8: truechain (small blind) folded before Flop
+
+PokerStars Hand #251205035963: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:28:56 UTC [2024/06/26 14:28:56 ET]
+Table '3769361891 56' 8-max Seat #8 is the button
+Seat 1: drope$tyle (55401 in chips, $25 bounty) 
+Seat 2: XnGo (102912 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (84159 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (35096 in chips, $25 bounty) 
+Seat 5: MrJovelli (51822 in chips, $25 bounty) 
+Seat 6: MBjorn42 (25000 in chips, $25 bounty) 
+Seat 7: podiiii (105720 in chips, $43.75 bounty) 
+Seat 8: truechain (39607 in chips, $81.25 bounty) 
+drope$tyle: posts the ante 175
+XnGo: posts the ante 175
+ccyrenne: posts the ante 175
+sheldon_fla: posts the ante 175
+MrJovelli: posts the ante 175
+MBjorn42: posts the ante 175
+podiiii: posts the ante 175
+truechain: posts the ante 175
+drope$tyle: posts small blind 600
+XnGo: posts big blind 1200
+*** HOLE CARDS ***
+ccyrenne: folds 
+sheldon_fla: raises 1200 to 2400
+MrJovelli: folds 
+MBjorn42: folds 
+podiiii: folds 
+truechain: folds 
+drope$tyle: calls 1800
+XnGo: folds 
+*** FLOP *** [5c 7c 5s]
+drope$tyle: checks 
+sheldon_fla: bets 3600
+drope$tyle: calls 3600
+*** TURN *** [5c 7c 5s] [Ac]
+drope$tyle: checks 
+sheldon_fla: bets 8760
+drope$tyle: folds 
+Uncalled bet (8760) returned to sheldon_fla
+sheldon_fla collected 14600 from pot
+sheldon_fla: doesn't show hand 
+*** SUMMARY ***
+Total pot 14600 | Rake 0 
+Board [5c 7c 5s Ac]
+Seat 1: drope$tyle (small blind) folded on the Turn
+Seat 2: XnGo (big blind) folded before Flop
+Seat 3: ccyrenne folded before Flop (didn't bet)
+Seat 4: sheldon_fla collected (14600)
+Seat 5: MrJovelli folded before Flop (didn't bet)
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205052793: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:30:03 UTC [2024/06/26 14:30:03 ET]
+Table '3769361891 56' 8-max Seat #1 is the button
+Seat 1: drope$tyle (49226 in chips, $25 bounty) 
+Seat 2: XnGo (101537 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (83984 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (43521 in chips, $25 bounty) 
+Seat 5: MrJovelli (51647 in chips, $25 bounty) 
+Seat 6: MBjorn42 (24825 in chips, $25 bounty) 
+Seat 7: podiiii (105545 in chips, $43.75 bounty) 
+Seat 8: truechain (39432 in chips, $81.25 bounty) 
+drope$tyle: posts the ante 175
+XnGo: posts the ante 175
+ccyrenne: posts the ante 175
+sheldon_fla: posts the ante 175
+MrJovelli: posts the ante 175
+MBjorn42: posts the ante 175
+podiiii: posts the ante 175
+truechain: posts the ante 175
+XnGo: posts small blind 600
+ccyrenne: posts big blind 1200
+*** HOLE CARDS ***
+sheldon_fla: folds 
+MrJovelli: folds 
+MBjorn42: folds 
+podiiii: folds 
+truechain: raises 1200 to 2400
+drope$tyle: folds 
+XnGo: folds 
+ccyrenne: calls 1200
+*** FLOP *** [Kd Ac Th]
+ccyrenne: checks 
+truechain: bets 2244
+ccyrenne: calls 2244
+*** TURN *** [Kd Ac Th] [4d]
+ccyrenne: checks 
+truechain: bets 8466
+ccyrenne: folds 
+Uncalled bet (8466) returned to truechain
+truechain collected 11288 from pot
+*** SUMMARY ***
+Total pot 11288 | Rake 0 
+Board [Kd Ac Th 4d]
+Seat 1: drope$tyle (button) folded before Flop (didn't bet)
+Seat 2: XnGo (small blind) folded before Flop
+Seat 3: ccyrenne (big blind) folded on the Turn
+Seat 4: sheldon_fla folded before Flop (didn't bet)
+Seat 5: MrJovelli folded before Flop (didn't bet)
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain collected (11288)
+
+PokerStars Hand #251205068371: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:31:04 UTC [2024/06/26 14:31:04 ET]
+Table '3769361891 56' 8-max Seat #2 is the button
+Seat 1: drope$tyle (49051 in chips, $25 bounty) 
+Seat 2: XnGo (100762 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (79165 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (43346 in chips, $25 bounty) 
+Seat 5: MrJovelli (51472 in chips, $25 bounty) 
+Seat 6: MBjorn42 (24650 in chips, $25 bounty) 
+Seat 7: podiiii (105370 in chips, $43.75 bounty) 
+Seat 8: truechain (45901 in chips, $81.25 bounty) 
+drope$tyle: posts the ante 175
+XnGo: posts the ante 175
+ccyrenne: posts the ante 175
+sheldon_fla: posts the ante 175
+MrJovelli: posts the ante 175
+MBjorn42: posts the ante 175
+podiiii: posts the ante 175
+truechain: posts the ante 175
+ccyrenne: posts small blind 600
+sheldon_fla: posts big blind 1200
+*** HOLE CARDS ***
+MrJovelli: raises 1200 to 2400
+MBjorn42: folds 
+podiiii: folds 
+truechain: folds 
+drope$tyle: raises 4200 to 6600
+XnGo: folds 
+ccyrenne: folds 
+sheldon_fla: folds 
+MrJovelli: calls 4200
+*** FLOP *** [5s Jc Kh]
+MrJovelli: checks 
+drope$tyle: bets 4100
+MrJovelli: calls 4100
+*** TURN *** [5s Jc Kh] [Qd]
+MrJovelli: checks 
+drope$tyle: bets 14682
+MrJovelli: raises 25915 to 40597 and is all-in
+drope$tyle: calls 23494 and is all-in
+Uncalled bet (2421) returned to MrJovelli
+*** RIVER *** [5s Jc Kh Qd] [5d]
+*** SHOW DOWN ***
+MrJovelli: shows [Kc Qc] (two pair, Kings and Queens)
+drope$tyle: shows [Ks Ah] (two pair, Kings and Fives)
+MrJovelli collected 100952 from pot
+MrJovelli wins $12.50 for eliminating drope$tyle and their own bounty increases by $12.50 to $37.50
+drope$tyle finished the tournament
+*** SUMMARY ***
+Total pot 100952 | Rake 0 
+Board [5s Jc Kh Qd 5d]
+Seat 1: drope$tyle showed [Ks Ah] and lost with two pair, Kings and Fives
+Seat 2: XnGo (button) folded before Flop (didn't bet)
+Seat 3: ccyrenne (small blind) folded before Flop
+Seat 4: sheldon_fla (big blind) folded before Flop
+Seat 5: MrJovelli showed [Kc Qc] and won (100952) with two pair, Kings and Queens
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205090603: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:32:31 UTC [2024/06/26 14:32:31 ET]
+Table '3769361891 56' 8-max Seat #3 is the button
+Seat 2: XnGo (100587 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (78390 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (41971 in chips, $25 bounty) 
+Seat 5: MrJovelli (103373 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (24475 in chips, $25 bounty) 
+Seat 7: podiiii (105195 in chips, $43.75 bounty) 
+Seat 8: truechain (45726 in chips, $81.25 bounty) 
+XnGo: posts the ante 175
+ccyrenne: posts the ante 175
+sheldon_fla: posts the ante 175
+MrJovelli: posts the ante 175
+MBjorn42: posts the ante 175
+podiiii: posts the ante 175
+truechain: posts the ante 175
+sheldon_fla: posts small blind 600
+MrJovelli: posts big blind 1200
+*** HOLE CARDS ***
+MBjorn42: folds 
+podiiii: folds 
+truechain: raises 1200 to 2400
+XnGo: folds 
+ccyrenne: folds 
+bianchettibh is disconnected 
+sheldon_fla: folds 
+MrJovelli: folds 
+Uncalled bet (1200) returned to truechain
+truechain collected 4225 from pot
+*** SUMMARY ***
+Total pot 4225 | Rake 0 
+Seat 2: XnGo folded before Flop (didn't bet)
+Seat 3: ccyrenne (button) folded before Flop (didn't bet)
+Seat 4: sheldon_fla (small blind) folded before Flop
+Seat 5: MrJovelli (big blind) folded before Flop
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain collected (4225)
+
+PokerStars Hand #251205099710: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:33:06 UTC [2024/06/26 14:33:06 ET]
+Table '3769361891 56' 8-max Seat #4 is the button
+Seat 1: bianchettibh (25000 in chips, $25 bounty) 
+Seat 2: XnGo (100412 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (78215 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (41196 in chips, $25 bounty) 
+Seat 5: MrJovelli (101998 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (24300 in chips, $25 bounty) 
+Seat 7: podiiii (105020 in chips, $43.75 bounty) 
+Seat 8: truechain (48576 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 175
+XnGo: posts the ante 175
+ccyrenne: posts the ante 175
+sheldon_fla: posts the ante 175
+MrJovelli: posts the ante 175
+MBjorn42: posts the ante 175
+podiiii: posts the ante 175
+truechain: posts the ante 175
+MrJovelli: posts small blind 600
+MBjorn42: posts big blind 1200
+*** HOLE CARDS ***
+podiiii: raises 1200 to 2400
+truechain: folds 
+bianchettibh: folds 
+XnGo: folds 
+ccyrenne: calls 2400
+sheldon_fla: folds 
+MrJovelli: folds 
+MBjorn42: folds 
+*** FLOP *** [7c 7d 9c]
+podiiii: checks 
+ccyrenne: bets 2640
+podiiii: raises 5160 to 7800
+ccyrenne: calls 5160
+*** TURN *** [7c 7d 9c] [5c]
+podiiii: bets 11400
+ccyrenne: calls 11400
+*** RIVER *** [7c 7d 9c 5c] [Qs]
+podiiii: checks 
+ccyrenne: checks 
+*** SHOW DOWN ***
+podiiii: shows [Kd 8d] (a pair of Sevens)
+ccyrenne: shows [Th Ts] (two pair, Tens and Sevens)
+ccyrenne collected 46400 from pot
+*** SUMMARY ***
+Total pot 46400 | Rake 0 
+Board [7c 7d 9c 5c Qs]
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo folded before Flop (didn't bet)
+Seat 3: ccyrenne showed [Th Ts] and won (46400) with two pair, Tens and Sevens
+Seat 4: sheldon_fla (button) folded before Flop (didn't bet)
+Seat 5: MrJovelli (small blind) folded before Flop
+Seat 6: MBjorn42 (big blind) folded before Flop
+Seat 7: podiiii showed [Kd 8d] and lost with a pair of Sevens
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205127197: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:34:54 UTC [2024/06/26 14:34:54 ET]
+Table '3769361891 56' 8-max Seat #5 is the button
+Seat 1: bianchettibh (24825 in chips, $25 bounty) 
+Seat 2: XnGo (100237 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (102840 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (41021 in chips, $25 bounty) 
+Seat 5: MrJovelli (101223 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (22925 in chips, $25 bounty) 
+Seat 7: podiiii (83245 in chips, $43.75 bounty) 
+Seat 8: truechain (48401 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 200
+XnGo: posts the ante 200
+ccyrenne: posts the ante 200
+sheldon_fla: posts the ante 200
+MrJovelli: posts the ante 200
+MBjorn42: posts the ante 200
+podiiii: posts the ante 200
+truechain: posts the ante 200
+MBjorn42: posts small blind 700
+podiiii: posts big blind 1400
+*** HOLE CARDS ***
+truechain: folds 
+bianchettibh: folds 
+XnGo: folds 
+ccyrenne: folds 
+sheldon_fla: folds 
+MrJovelli: folds 
+MBjorn42: calls 700
+podiiii: checks 
+*** FLOP *** [4h Ks 3c]
+MBjorn42: bets 1400
+podiiii: calls 1400
+*** TURN *** [4h Ks 3c] [Qc]
+MBjorn42: bets 4200
+podiiii: calls 4200
+*** RIVER *** [4h Ks 3c Qc] [6d]
+MBjorn42: bets 15725 and is all-in
+podiiii: calls 15725
+*** SHOW DOWN ***
+MBjorn42: shows [Kd 9s] (a pair of Kings)
+podiiii: shows [4d 2d] (a pair of Fours)
+MBjorn42 collected 47050 from pot
+*** SUMMARY ***
+Total pot 47050 | Rake 0 
+Board [4h Ks 3c Qc 6d]
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo folded before Flop (didn't bet)
+Seat 3: ccyrenne folded before Flop (didn't bet)
+Seat 4: sheldon_fla folded before Flop (didn't bet)
+Seat 5: MrJovelli (button) folded before Flop (didn't bet)
+Seat 6: MBjorn42 (small blind) showed [Kd 9s] and won (47050) with a pair of Kings
+Seat 7: podiiii (big blind) showed [4d 2d] and lost with a pair of Fours
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205149315: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:36:20 UTC [2024/06/26 14:36:20 ET]
+Table '3769361891 56' 8-max Seat #6 is the button
+Seat 1: bianchettibh (24625 in chips, $25 bounty) 
+Seat 2: XnGo (100037 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (102640 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (40821 in chips, $25 bounty) 
+Seat 5: MrJovelli (101023 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (47050 in chips, $25 bounty) 
+Seat 7: podiiii (60320 in chips, $43.75 bounty) 
+Seat 8: truechain (48201 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 200
+XnGo: posts the ante 200
+ccyrenne: posts the ante 200
+sheldon_fla: posts the ante 200
+MrJovelli: posts the ante 200
+MBjorn42: posts the ante 200
+podiiii: posts the ante 200
+truechain: posts the ante 200
+podiiii: posts small blind 700
+truechain: posts big blind 1400
+*** HOLE CARDS ***
+bianchettibh: folds 
+XnGo: folds 
+ccyrenne: folds 
+sheldon_fla: folds 
+MrJovelli: raises 1400 to 2800
+MBjorn42: folds 
+podiiii: folds 
+truechain: calls 1400
+*** FLOP *** [3c Qs 6c]
+truechain: checks 
+MrJovelli: bets 1975
+truechain: folds 
+Uncalled bet (1975) returned to MrJovelli
+MrJovelli collected 7900 from pot
+MrJovelli: doesn't show hand 
+*** SUMMARY ***
+Total pot 7900 | Rake 0 
+Board [3c Qs 6c]
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo folded before Flop (didn't bet)
+Seat 3: ccyrenne folded before Flop (didn't bet)
+Seat 4: sheldon_fla folded before Flop (didn't bet)
+Seat 5: MrJovelli collected (7900)
+Seat 6: MBjorn42 (button) folded before Flop (didn't bet)
+Seat 7: podiiii (small blind) folded before Flop
+Seat 8: truechain (big blind) folded on the Flop
+
+PokerStars Hand #251205163435: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:37:15 UTC [2024/06/26 14:37:15 ET]
+Table '3769361891 56' 8-max Seat #7 is the button
+Seat 1: bianchettibh (24425 in chips, $25 bounty) 
+Seat 2: XnGo (99837 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (102440 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (40621 in chips, $25 bounty) 
+Seat 5: MrJovelli (105923 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (46850 in chips, $25 bounty) 
+Seat 7: podiiii (59420 in chips, $43.75 bounty) 
+Seat 8: truechain (45201 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 200
+XnGo: posts the ante 200
+ccyrenne: posts the ante 200
+sheldon_fla: posts the ante 200
+MrJovelli: posts the ante 200
+MBjorn42: posts the ante 200
+podiiii: posts the ante 200
+truechain: posts the ante 200
+truechain: posts small blind 700
+bianchettibh: posts big blind 1400
+*** HOLE CARDS ***
+XnGo: raises 1400 to 2800
+ccyrenne: calls 2800
+sheldon_fla: folds 
+MrJovelli: folds 
+MBjorn42: folds 
+podiiii: folds 
+truechain: folds 
+bianchettibh: calls 1400
+*** FLOP *** [5h 6s 4c]
+bianchettibh: checks 
+XnGo: checks 
+ccyrenne: checks 
+*** TURN *** [5h 6s 4c] [2c]
+bianchettibh: bets 3531
+XnGo: folds 
+ccyrenne: folds 
+Uncalled bet (3531) returned to bianchettibh
+bianchettibh collected 10700 from pot
+bianchettibh: doesn't show hand 
+*** SUMMARY ***
+Total pot 10700 | Rake 0 
+Board [5h 6s 4c 2c]
+Seat 1: bianchettibh (big blind) collected (10700)
+Seat 2: XnGo folded on the Turn
+Seat 3: ccyrenne folded on the Turn
+Seat 4: sheldon_fla folded before Flop (didn't bet)
+Seat 5: MrJovelli folded before Flop (didn't bet)
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii (button) folded before Flop (didn't bet)
+Seat 8: truechain (small blind) folded before Flop
+
+PokerStars Hand #251205183266: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:38:32 UTC [2024/06/26 14:38:32 ET]
+Table '3769361891 56' 8-max Seat #8 is the button
+Seat 1: bianchettibh (32125 in chips, $25 bounty) 
+Seat 2: XnGo (96837 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (99440 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (40421 in chips, $25 bounty) 
+Seat 5: MrJovelli (105723 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (46650 in chips, $25 bounty) 
+Seat 7: podiiii (59220 in chips, $43.75 bounty) 
+Seat 8: truechain (44301 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 200
+XnGo: posts the ante 200
+ccyrenne: posts the ante 200
+sheldon_fla: posts the ante 200
+MrJovelli: posts the ante 200
+MBjorn42: posts the ante 200
+podiiii: posts the ante 200
+truechain: posts the ante 200
+bianchettibh: posts small blind 700
+XnGo: posts big blind 1400
+*** HOLE CARDS ***
+ccyrenne: folds 
+sheldon_fla: raises 1400 to 2800
+MrJovelli: raises 4900 to 7700
+MBjorn42: folds 
+podiiii: folds 
+truechain: folds 
+bianchettibh: folds 
+XnGo: folds 
+sheldon_fla: raises 32521 to 40221 and is all-in
+MrJovelli: calls 32521
+*** FLOP *** [Kh 9h 8h]
+*** TURN *** [Kh 9h 8h] [5h]
+*** RIVER *** [Kh 9h 8h 5h] [Td]
+*** SHOW DOWN ***
+sheldon_fla: shows [Tc Th] (a flush, King high)
+MrJovelli: shows [Kd Kc] (three of a kind, Kings)
+sheldon_fla collected 84142 from pot
+*** SUMMARY ***
+Total pot 84142 | Rake 0 
+Board [Kh 9h 8h 5h Td]
+Seat 1: bianchettibh (small blind) folded before Flop
+Seat 2: XnGo (big blind) folded before Flop
+Seat 3: ccyrenne folded before Flop (didn't bet)
+Seat 4: sheldon_fla showed [Tc Th] and won (84142) with a flush, King high
+Seat 5: MrJovelli showed [Kd Kc] and lost with three of a kind, Kings
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205202043: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:39:44 UTC [2024/06/26 14:39:44 ET]
+Table '3769361891 56' 8-max Seat #1 is the button
+Seat 1: bianchettibh (31225 in chips, $25 bounty) 
+Seat 2: XnGo (95237 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (99240 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (84142 in chips, $25 bounty) 
+Seat 5: MrJovelli (65302 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (46450 in chips, $25 bounty) 
+Seat 7: podiiii (59020 in chips, $43.75 bounty) 
+Seat 8: truechain (44101 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 200
+XnGo: posts the ante 200
+ccyrenne: posts the ante 200
+sheldon_fla: posts the ante 200
+MrJovelli: posts the ante 200
+MBjorn42: posts the ante 200
+podiiii: posts the ante 200
+truechain: posts the ante 200
+XnGo: posts small blind 700
+ccyrenne: posts big blind 1400
+*** HOLE CARDS ***
+sheldon_fla: raises 1400 to 2800
+MrJovelli: folds 
+MBjorn42: calls 2800
+podiiii: folds 
+truechain: folds 
+bianchettibh: folds 
+XnGo: folds 
+ccyrenne: folds 
+*** FLOP *** [3h Ts Kc]
+sheldon_fla: checks 
+MBjorn42: checks 
+*** TURN *** [3h Ts Kc] [6c]
+sheldon_fla: bets 2800
+MBjorn42: folds 
+Uncalled bet (2800) returned to sheldon_fla
+sheldon_fla collected 9300 from pot
+sheldon_fla: doesn't show hand 
+*** SUMMARY ***
+Total pot 9300 | Rake 0 
+Board [3h Ts Kc 6c]
+Seat 1: bianchettibh (button) folded before Flop (didn't bet)
+Seat 2: XnGo (small blind) folded before Flop
+Seat 3: ccyrenne (big blind) folded before Flop
+Seat 4: sheldon_fla collected (9300)
+Seat 5: MrJovelli folded before Flop (didn't bet)
+Seat 6: MBjorn42 folded on the Turn
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205220644: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:40:56 UTC [2024/06/26 14:40:56 ET]
+Table '3769361891 56' 8-max Seat #2 is the button
+Seat 1: bianchettibh (31025 in chips, $25 bounty) 
+Seat 2: XnGo (94337 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (97640 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (90442 in chips, $25 bounty) 
+Seat 5: MrJovelli (65102 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (43450 in chips, $25 bounty) 
+Seat 7: podiiii (58820 in chips, $43.75 bounty) 
+Seat 8: truechain (43901 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 200
+XnGo: posts the ante 200
+ccyrenne: posts the ante 200
+sheldon_fla: posts the ante 200
+MrJovelli: posts the ante 200
+MBjorn42: posts the ante 200
+podiiii: posts the ante 200
+truechain: posts the ante 200
+ccyrenne: posts small blind 700
+sheldon_fla: posts big blind 1400
+*** HOLE CARDS ***
+MrJovelli: folds 
+MBjorn42: folds 
+podiiii: folds 
+truechain: folds 
+bianchettibh: folds 
+XnGo: folds 
+ccyrenne: calls 700
+sheldon_fla: checks 
+*** FLOP *** [As 9s Tc]
+ccyrenne: bets 1400
+sheldon_fla: calls 1400
+*** TURN *** [As 9s Tc] [7d]
+ccyrenne: bets 10360
+sheldon_fla: calls 10360
+*** RIVER *** [As 9s Tc 7d] [5d]
+ccyrenne: checks 
+sheldon_fla: bets 7538
+ccyrenne: folds 
+Uncalled bet (7538) returned to sheldon_fla
+sheldon_fla collected 27920 from pot
+sheldon_fla: doesn't show hand 
+*** SUMMARY ***
+Total pot 27920 | Rake 0 
+Board [As 9s Tc 7d 5d]
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo (button) folded before Flop (didn't bet)
+Seat 3: ccyrenne (small blind) folded on the River
+Seat 4: sheldon_fla (big blind) collected (27920)
+Seat 5: MrJovelli folded before Flop (didn't bet)
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205251133: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:42:53 UTC [2024/06/26 14:42:53 ET]
+Table '3769361891 56' 8-max Seat #3 is the button
+Seat 1: bianchettibh (30825 in chips, $25 bounty) 
+Seat 2: XnGo (94137 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (84280 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (105002 in chips, $25 bounty) 
+Seat 5: MrJovelli (64902 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (43250 in chips, $25 bounty) 
+Seat 7: podiiii (58620 in chips, $43.75 bounty) 
+Seat 8: truechain (43701 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 200
+XnGo: posts the ante 200
+ccyrenne: posts the ante 200
+sheldon_fla: posts the ante 200
+MrJovelli: posts the ante 200
+MBjorn42: posts the ante 200
+podiiii: posts the ante 200
+truechain: posts the ante 200
+sheldon_fla: posts small blind 700
+MrJovelli: posts big blind 1400
+*** HOLE CARDS ***
+MBjorn42: folds 
+podiiii: folds 
+truechain: folds 
+bianchettibh: folds 
+XnGo: raises 1400 to 2800
+ccyrenne: calls 2800
+sheldon_fla: folds 
+MrJovelli: calls 1400
+*** FLOP *** [6h As Qs]
+MrJovelli: checks 
+XnGo: checks 
+ccyrenne: checks 
+*** TURN *** [6h As Qs] [2c]
+MrJovelli: checks 
+XnGo: bets 7285
+ccyrenne: folds 
+MrJovelli: folds 
+Uncalled bet (7285) returned to XnGo
+XnGo collected 10700 from pot
+XnGo: doesn't show hand 
+*** SUMMARY ***
+Total pot 10700 | Rake 0 
+Board [6h As Qs 2c]
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo collected (10700)
+Seat 3: ccyrenne (button) folded on the Turn
+Seat 4: sheldon_fla (small blind) folded before Flop
+Seat 5: MrJovelli (big blind) folded on the Turn
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205273401: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 18:44:17 UTC [2024/06/26 14:44:17 ET]
+Table '3769361891 56' 8-max Seat #4 is the button
+Seat 1: bianchettibh (30625 in chips, $25 bounty) 
+Seat 2: XnGo (101837 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (81280 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (104102 in chips, $25 bounty) 
+Seat 5: MrJovelli (61902 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (43050 in chips, $25 bounty) 
+Seat 7: podiiii (58420 in chips, $43.75 bounty) 
+Seat 8: truechain (43501 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 200
+XnGo: posts the ante 200
+ccyrenne: posts the ante 200
+sheldon_fla: posts the ante 200
+MrJovelli: posts the ante 200
+MBjorn42: posts the ante 200
+podiiii: posts the ante 200
+truechain: posts the ante 200
+MrJovelli: posts small blind 700
+MBjorn42: posts big blind 1400
+*** HOLE CARDS ***
+podiiii: folds 
+truechain: folds 
+bianchettibh: folds 
+XnGo: folds 
+ccyrenne: folds 
+sheldon_fla: folds 
+MrJovelli: raises 3318 to 4718
+MBjorn42: folds 
+Uncalled bet (3318) returned to MrJovelli
+MrJovelli collected 4400 from pot
+MrJovelli: doesn't show hand 
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo folded before Flop (didn't bet)
+Seat 3: ccyrenne folded before Flop (didn't bet)
+Seat 4: sheldon_fla (button) folded before Flop (didn't bet)
+Seat 5: MrJovelli (small blind) collected (4400)
+Seat 6: MBjorn42 (big blind) folded before Flop
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205285184: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 18:45:02 UTC [2024/06/26 14:45:02 ET]
+Table '3769361891 56' 8-max Seat #5 is the button
+Seat 1: bianchettibh (30425 in chips, $25 bounty) 
+Seat 2: XnGo (101637 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (81080 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (103902 in chips, $25 bounty) 
+Seat 5: MrJovelli (64702 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (41450 in chips, $25 bounty) 
+Seat 7: podiiii (58220 in chips, $43.75 bounty) 
+Seat 8: truechain (43301 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 225
+XnGo: posts the ante 225
+ccyrenne: posts the ante 225
+sheldon_fla: posts the ante 225
+MrJovelli: posts the ante 225
+MBjorn42: posts the ante 225
+podiiii: posts the ante 225
+truechain: posts the ante 225
+MBjorn42: posts small blind 800
+podiiii: posts big blind 1600
+*** HOLE CARDS ***
+truechain: folds 
+bianchettibh: folds 
+XnGo: folds 
+ccyrenne: folds 
+sheldon_fla: folds 
+MrJovelli: folds 
+MBjorn42: calls 800
+podiiii: checks 
+*** FLOP *** [Jc 8h 4s]
+MBjorn42: checks 
+podiiii: checks 
+*** TURN *** [Jc 8h 4s] [9s]
+MBjorn42: checks 
+podiiii: checks 
+*** RIVER *** [Jc 8h 4s 9s] [6c]
+MBjorn42: checks 
+podiiii: bets 2080
+MBjorn42: calls 2080
+*** SHOW DOWN ***
+podiiii: shows [Qh 2c] (high card Queen)
+MBjorn42: shows [6d 2d] (a pair of Sixes)
+MBjorn42 collected 9160 from pot
+*** SUMMARY ***
+Total pot 9160 | Rake 0 
+Board [Jc 8h 4s 9s 6c]
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo folded before Flop (didn't bet)
+Seat 3: ccyrenne folded before Flop (didn't bet)
+Seat 4: sheldon_fla folded before Flop (didn't bet)
+Seat 5: MrJovelli (button) folded before Flop (didn't bet)
+Seat 6: MBjorn42 (small blind) showed [6d 2d] and won (9160) with a pair of Sixes
+Seat 7: podiiii (big blind) showed [Qh 2c] and lost with high card Queen
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205309355: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 18:46:33 UTC [2024/06/26 14:46:33 ET]
+Table '3769361891 56' 8-max Seat #6 is the button
+Seat 1: bianchettibh (30200 in chips, $25 bounty) 
+Seat 2: XnGo (101412 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (80855 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (103677 in chips, $25 bounty) 
+Seat 5: MrJovelli (64477 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (46705 in chips, $25 bounty) 
+Seat 7: podiiii (54315 in chips, $43.75 bounty) 
+Seat 8: truechain (43076 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 225
+XnGo: posts the ante 225
+ccyrenne: posts the ante 225
+sheldon_fla: posts the ante 225
+MrJovelli: posts the ante 225
+MBjorn42: posts the ante 225
+podiiii: posts the ante 225
+truechain: posts the ante 225
+podiiii: posts small blind 800
+truechain: posts big blind 1600
+*** HOLE CARDS ***
+bianchettibh: folds 
+XnGo: folds 
+ccyrenne: folds 
+sheldon_fla: folds 
+MrJovelli: raises 1808 to 3408
+MBjorn42: folds 
+podiiii: folds 
+truechain: calls 1808
+*** FLOP *** [4c 5h Ac]
+truechain: checks 
+MrJovelli: bets 2354
+truechain: folds 
+Uncalled bet (2354) returned to MrJovelli
+MrJovelli collected 9416 from pot
+MrJovelli: doesn't show hand 
+*** SUMMARY ***
+Total pot 9416 | Rake 0 
+Board [4c 5h Ac]
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo folded before Flop (didn't bet)
+Seat 3: ccyrenne folded before Flop (didn't bet)
+Seat 4: sheldon_fla folded before Flop (didn't bet)
+Seat 5: MrJovelli collected (9416)
+Seat 6: MBjorn42 (button) folded before Flop (didn't bet)
+Seat 7: podiiii (small blind) folded before Flop
+Seat 8: truechain (big blind) folded on the Flop
+
+PokerStars Hand #251205322866: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 18:47:25 UTC [2024/06/26 14:47:25 ET]
+Table '3769361891 56' 8-max Seat #7 is the button
+Seat 1: bianchettibh (29975 in chips, $25 bounty) 
+Seat 2: XnGo (101187 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (80630 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (103452 in chips, $25 bounty) 
+Seat 5: MrJovelli (70260 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (46480 in chips, $25 bounty) 
+Seat 7: podiiii (53290 in chips, $43.75 bounty) 
+Seat 8: truechain (39443 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 225
+XnGo: posts the ante 225
+ccyrenne: posts the ante 225
+sheldon_fla: posts the ante 225
+MrJovelli: posts the ante 225
+MBjorn42: posts the ante 225
+podiiii: posts the ante 225
+truechain: posts the ante 225
+truechain: posts small blind 800
+bianchettibh: posts big blind 1600
+*** HOLE CARDS ***
+XnGo: folds 
+ccyrenne: folds 
+sheldon_fla: folds 
+MrJovelli: raises 1600 to 3200
+MBjorn42: folds 
+podiiii: raises 6400 to 9600
+truechain: folds 
+bianchettibh: folds 
+MrJovelli: folds 
+Uncalled bet (6400) returned to podiiii
+podiiii collected 10600 from pot
+*** SUMMARY ***
+Total pot 10600 | Rake 0 
+Seat 1: bianchettibh (big blind) folded before Flop
+Seat 2: XnGo folded before Flop (didn't bet)
+Seat 3: ccyrenne folded before Flop (didn't bet)
+Seat 4: sheldon_fla folded before Flop (didn't bet)
+Seat 5: MrJovelli folded before Flop
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii (button) collected (10600)
+Seat 8: truechain (small blind) folded before Flop
+
+PokerStars Hand #251205334757: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 18:48:10 UTC [2024/06/26 14:48:10 ET]
+Table '3769361891 56' 8-max Seat #8 is the button
+Seat 1: bianchettibh (28150 in chips, $25 bounty) 
+Seat 2: XnGo (100962 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (80405 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (103227 in chips, $25 bounty) 
+Seat 5: MrJovelli (66835 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (46255 in chips, $25 bounty) 
+Seat 7: podiiii (60465 in chips, $43.75 bounty) 
+Seat 8: truechain (38418 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 225
+XnGo: posts the ante 225
+ccyrenne: posts the ante 225
+sheldon_fla: posts the ante 225
+MrJovelli: posts the ante 225
+MBjorn42: posts the ante 225
+podiiii: posts the ante 225
+truechain: posts the ante 225
+bianchettibh: posts small blind 800
+XnGo: posts big blind 1600
+*** HOLE CARDS ***
+ccyrenne: folds 
+sheldon_fla: folds 
+MrJovelli: folds 
+MBjorn42: folds 
+podiiii: folds 
+truechain: folds 
+bianchettibh: folds 
+Uncalled bet (800) returned to XnGo
+XnGo collected 3400 from pot
+XnGo: doesn't show hand 
+*** SUMMARY ***
+Total pot 3400 | Rake 0 
+Seat 1: bianchettibh (small blind) folded before Flop
+Seat 2: XnGo (big blind) collected (3400)
+Seat 3: ccyrenne folded before Flop (didn't bet)
+Seat 4: sheldon_fla folded before Flop (didn't bet)
+Seat 5: MrJovelli folded before Flop (didn't bet)
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205341986: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 18:48:37 UTC [2024/06/26 14:48:37 ET]
+Table '3769361891 56' 8-max Seat #1 is the button
+Seat 1: bianchettibh (27125 in chips, $25 bounty) 
+Seat 2: XnGo (103337 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (80180 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (103002 in chips, $25 bounty) 
+Seat 5: MrJovelli (66610 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (46030 in chips, $25 bounty) 
+Seat 7: podiiii (60240 in chips, $43.75 bounty) 
+Seat 8: truechain (38193 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 225
+XnGo: posts the ante 225
+ccyrenne: posts the ante 225
+sheldon_fla: posts the ante 225
+MrJovelli: posts the ante 225
+MBjorn42: posts the ante 225
+podiiii: posts the ante 225
+truechain: posts the ante 225
+XnGo: posts small blind 800
+ccyrenne: posts big blind 1600
+*** HOLE CARDS ***
+sheldon_fla: folds 
+MrJovelli: folds 
+MBjorn42: raises 1600 to 3200
+podiiii: folds 
+truechain: folds 
+bianchettibh: folds 
+XnGo: folds 
+ccyrenne: calls 1600
+*** FLOP *** [Kd 8c 3h]
+ccyrenne: checks 
+MBjorn42: bets 2250
+ccyrenne: calls 2250
+*** TURN *** [Kd 8c 3h] [9h]
+ccyrenne: checks 
+MBjorn42: bets 12800
+ccyrenne: folds 
+Uncalled bet (12800) returned to MBjorn42
+MBjorn42 collected 13500 from pot
+*** SUMMARY ***
+Total pot 13500 | Rake 0 
+Board [Kd 8c 3h 9h]
+Seat 1: bianchettibh (button) folded before Flop (didn't bet)
+Seat 2: XnGo (small blind) folded before Flop
+Seat 3: ccyrenne (big blind) folded on the Turn
+Seat 4: sheldon_fla folded before Flop (didn't bet)
+Seat 5: MrJovelli folded before Flop (didn't bet)
+Seat 6: MBjorn42 collected (13500)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205367492: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 18:50:14 UTC [2024/06/26 14:50:14 ET]
+Table '3769361891 56' 8-max Seat #2 is the button
+Seat 1: bianchettibh (26900 in chips, $25 bounty) 
+Seat 2: XnGo (102312 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (74505 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (102777 in chips, $25 bounty) 
+Seat 5: MrJovelli (66385 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (53855 in chips, $25 bounty) 
+Seat 7: podiiii (60015 in chips, $43.75 bounty) 
+Seat 8: truechain (37968 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 225
+XnGo: posts the ante 225
+ccyrenne: posts the ante 225
+sheldon_fla: posts the ante 225
+MrJovelli: posts the ante 225
+MBjorn42: posts the ante 225
+podiiii: posts the ante 225
+truechain: posts the ante 225
+ccyrenne: posts small blind 800
+sheldon_fla: posts big blind 1600
+*** HOLE CARDS ***
+MrJovelli: folds 
+MBjorn42: folds 
+podiiii: folds 
+truechain: folds 
+bianchettibh: folds 
+XnGo: raises 1600 to 3200
+ccyrenne: raises 9600 to 12800
+sheldon_fla: folds 
+XnGo: folds 
+Uncalled bet (9600) returned to ccyrenne
+ccyrenne collected 9800 from pot
+ccyrenne: doesn't show hand 
+*** SUMMARY ***
+Total pot 9800 | Rake 0 
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo (button) folded before Flop
+Seat 3: ccyrenne (small blind) collected (9800)
+Seat 4: sheldon_fla (big blind) folded before Flop
+Seat 5: MrJovelli folded before Flop (didn't bet)
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205378507: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 18:50:57 UTC [2024/06/26 14:50:57 ET]
+Table '3769361891 56' 8-max Seat #3 is the button
+Seat 1: bianchettibh (26675 in chips, $25 bounty) 
+Seat 2: XnGo (98887 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (80880 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (100952 in chips, $25 bounty) 
+Seat 5: MrJovelli (66160 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (53630 in chips, $25 bounty) 
+Seat 7: podiiii (59790 in chips, $43.75 bounty) 
+Seat 8: truechain (37743 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 225
+XnGo: posts the ante 225
+ccyrenne: posts the ante 225
+sheldon_fla: posts the ante 225
+MrJovelli: posts the ante 225
+MBjorn42: posts the ante 225
+podiiii: posts the ante 225
+truechain: posts the ante 225
+sheldon_fla: posts small blind 800
+MrJovelli: posts big blind 1600
+*** HOLE CARDS ***
+MBjorn42: folds 
+podiiii: folds 
+truechain: folds 
+bianchettibh: folds 
+XnGo: raises 1600 to 3200
+ccyrenne: folds 
+sheldon_fla: folds 
+MrJovelli: calls 1600
+*** FLOP *** [Ad Ks 9h]
+MrJovelli: checks 
+XnGo: bets 2970
+MrJovelli: calls 2970
+*** TURN *** [Ad Ks 9h] [9s]
+MrJovelli: checks 
+XnGo: checks 
+*** RIVER *** [Ad Ks 9h 9s] [3h]
+MrJovelli: checks 
+XnGo: checks 
+*** SHOW DOWN ***
+MrJovelli: shows [Js Kd] (two pair, Kings and Nines)
+XnGo: mucks hand 
+MrJovelli collected 14940 from pot
+*** SUMMARY ***
+Total pot 14940 | Rake 0 
+Board [Ad Ks 9h 9s 3h]
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo mucked
+Seat 3: ccyrenne (button) folded before Flop (didn't bet)
+Seat 4: sheldon_fla (small blind) folded before Flop
+Seat 5: MrJovelli (big blind) showed [Js Kd] and won (14940) with two pair, Kings and Nines
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205406053: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 18:52:41 UTC [2024/06/26 14:52:41 ET]
+Table '3769361891 56' 8-max Seat #4 is the button
+Seat 1: bianchettibh (26450 in chips, $25 bounty) 
+Seat 2: XnGo (92492 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (80655 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (99927 in chips, $25 bounty) 
+Seat 5: MrJovelli (74705 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (53405 in chips, $25 bounty) 
+Seat 7: podiiii (59565 in chips, $43.75 bounty) 
+Seat 8: truechain (37518 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 225
+XnGo: posts the ante 225
+ccyrenne: posts the ante 225
+sheldon_fla: posts the ante 225
+MrJovelli: posts the ante 225
+MBjorn42: posts the ante 225
+podiiii: posts the ante 225
+truechain: posts the ante 225
+MrJovelli: posts small blind 800
+MBjorn42: posts big blind 1600
+*** HOLE CARDS ***
+podiiii: folds 
+truechain: folds 
+bianchettibh: folds 
+XnGo: folds 
+ccyrenne: raises 1600 to 3200
+sheldon_fla: calls 3200
+MrJovelli: folds 
+MBjorn42: calls 1600
+*** FLOP *** [Ks 2s 8h]
+MBjorn42: checks 
+ccyrenne: checks 
+sheldon_fla: bets 4026
+MBjorn42: calls 4026
+ccyrenne: calls 4026
+*** TURN *** [Ks 2s 8h] [Jc]
+MBjorn42: checks 
+ccyrenne: checks 
+sheldon_fla: bets 14567
+MBjorn42: folds 
+ccyrenne: calls 14567
+*** RIVER *** [Ks 2s 8h Jc] [4s]
+ccyrenne: checks 
+sheldon_fla: bets 77909 and is all-in
+ccyrenne: calls 58637 and is all-in
+Uncalled bet (19272) returned to sheldon_fla
+*** SHOW DOWN ***
+sheldon_fla: shows [Ah Th] (high card Ace)
+ccyrenne: shows [8s Ts] (a flush, King high)
+ccyrenne collected 170686 from pot
+*** SUMMARY ***
+Total pot 170686 | Rake 0 
+Board [Ks 2s 8h Jc 4s]
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo folded before Flop (didn't bet)
+Seat 3: ccyrenne showed [8s Ts] and won (170686) with a flush, King high
+Seat 4: sheldon_fla (button) showed [Ah Th] and lost with high card Ace
+Seat 5: MrJovelli (small blind) folded before Flop
+Seat 6: MBjorn42 (big blind) folded on the Turn
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205435006: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIV (900/1800) - 2024/06/26 18:54:32 UTC [2024/06/26 14:54:32 ET]
+Table '3769361891 56' 8-max Seat #5 is the button
+Seat 1: bianchettibh (26225 in chips, $25 bounty) 
+Seat 2: XnGo (92267 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (170686 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (19272 in chips, $25 bounty) 
+Seat 5: MrJovelli (73680 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (45954 in chips, $25 bounty) 
+Seat 7: podiiii (59340 in chips, $43.75 bounty) 
+Seat 8: truechain (37293 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 250
+XnGo: posts the ante 250
+ccyrenne: posts the ante 250
+sheldon_fla: posts the ante 250
+MrJovelli: posts the ante 250
+MBjorn42: posts the ante 250
+podiiii: posts the ante 250
+truechain: posts the ante 250
+MBjorn42: posts small blind 900
+podiiii: posts big blind 1800
+*** HOLE CARDS ***
+truechain: folds 
+bianchettibh: folds 
+XnGo: raises 1800 to 3600
+ccyrenne: calls 3600
+sheldon_fla: folds 
+MrJovelli: folds 
+MBjorn42: folds 
+podiiii: folds 
+*** FLOP *** [Qs 8c Jh]
+XnGo: checks 
+ccyrenne: checks 
+*** TURN *** [Qs 8c Jh] [4c]
+XnGo: bets 8345
+ccyrenne: folds 
+Uncalled bet (8345) returned to XnGo
+XnGo collected 11900 from pot
+XnGo: doesn't show hand 
+*** SUMMARY ***
+Total pot 11900 | Rake 0 
+Board [Qs 8c Jh 4c]
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo collected (11900)
+Seat 3: ccyrenne folded on the Turn
+Seat 4: sheldon_fla folded before Flop (didn't bet)
+Seat 5: MrJovelli (button) folded before Flop (didn't bet)
+Seat 6: MBjorn42 (small blind) folded before Flop
+Seat 7: podiiii (big blind) folded before Flop
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205525205: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIV (900/1800) - 2024/06/26 19:01:52 UTC [2024/06/26 15:01:52 ET]
+Table '3769361891 56' 8-max Seat #6 is the button
+Seat 1: bianchettibh (25975 in chips, $25 bounty) 
+Seat 2: XnGo (100317 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (166836 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (19022 in chips, $25 bounty) 
+Seat 5: MrJovelli (73430 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (44804 in chips, $25 bounty) 
+Seat 7: podiiii (57290 in chips, $43.75 bounty) 
+Seat 8: truechain (37043 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 250
+XnGo: posts the ante 250
+ccyrenne: posts the ante 250
+sheldon_fla: posts the ante 250
+MrJovelli: posts the ante 250
+MBjorn42: posts the ante 250
+podiiii: posts the ante 250
+truechain: posts the ante 250
+podiiii: posts small blind 900
+truechain: posts big blind 1800
+*** HOLE CARDS ***
+bianchettibh: folds 
+XnGo: folds 
+ccyrenne: raises 1980 to 3780
+sheldon_fla: folds 
+MrJovelli: folds 
+MBjorn42: folds 
+podiiii: folds 
+truechain: calls 1980
+*** FLOP *** [Jh Ah 8s]
+truechain: checks 
+ccyrenne: bets 3452
+truechain: folds 
+Uncalled bet (3452) returned to ccyrenne
+ccyrenne collected 10460 from pot
+ccyrenne: doesn't show hand 
+*** SUMMARY ***
+Total pot 10460 | Rake 0 
+Board [Jh Ah 8s]
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo folded before Flop (didn't bet)
+Seat 3: ccyrenne collected (10460)
+Seat 4: sheldon_fla folded before Flop (didn't bet)
+Seat 5: MrJovelli folded before Flop (didn't bet)
+Seat 6: MBjorn42 (button) folded before Flop (didn't bet)
+Seat 7: podiiii (small blind) folded before Flop
+Seat 8: truechain (big blind) folded on the Flop
+
+PokerStars Hand #251205542838: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIV (900/1800) - 2024/06/26 19:03:04 UTC [2024/06/26 15:03:04 ET]
+Table '3769361891 56' 8-max Seat #7 is the button
+Seat 1: bianchettibh (25725 in chips, $25 bounty) 
+Seat 2: XnGo (100067 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (173266 in chips, $68.75 bounty) 
+Seat 4: sheldon_fla (18772 in chips, $25 bounty) 
+Seat 5: MrJovelli (73180 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (44554 in chips, $25 bounty) 
+Seat 7: podiiii (56140 in chips, $43.75 bounty) 
+Seat 8: truechain (33013 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 250
+XnGo: posts the ante 250
+ccyrenne: posts the ante 250
+sheldon_fla: posts the ante 250
+MrJovelli: posts the ante 250
+MBjorn42: posts the ante 250
+podiiii: posts the ante 250
+truechain: posts the ante 250
+truechain: posts small blind 900
+bianchettibh: posts big blind 1800
+*** HOLE CARDS ***
+XnGo: folds 
+ccyrenne: raises 1800 to 3600
+sheldon_fla: raises 14922 to 18522 and is all-in
+MrJovelli: folds 
+MBjorn42: folds 
+podiiii: folds 
+truechain: folds 
+bianchettibh: folds 
+ccyrenne: calls 14922
+*** FLOP *** [8d Jh 2h]
+*** TURN *** [8d Jh 2h] [4c]
+*** RIVER *** [8d Jh 2h 4c] [4h]
+*** SHOW DOWN ***
+ccyrenne: shows [7h 7s] (two pair, Sevens and Fours)
+sheldon_fla: shows [Kc Qd] (a pair of Fours)
+ccyrenne collected 41744 from pot
+ccyrenne wins $12.50 for eliminating sheldon_fla and their own bounty increases by $12.50 to $81.25
+sheldon_fla finished the tournament in 512th place
+*** SUMMARY ***
+Total pot 41744 | Rake 0 
+Board [8d Jh 2h 4c 4h]
+Seat 1: bianchettibh (big blind) folded before Flop
+Seat 2: XnGo folded before Flop (didn't bet)
+Seat 3: ccyrenne showed [7h 7s] and won (41744) with two pair, Sevens and Fours
+Seat 4: sheldon_fla showed [Kc Qd] and lost with a pair of Fours
+Seat 5: MrJovelli folded before Flop (didn't bet)
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii (button) folded before Flop (didn't bet)
+Seat 8: truechain (small blind) folded before Flop
+
+PokerStars Hand #251205555761: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIV (900/1800) - 2024/06/26 19:03:55 UTC [2024/06/26 15:03:55 ET]
+Table '3769361891 56' 8-max Seat #8 is the button
+Seat 1: bianchettibh (23675 in chips, $25 bounty) 
+Seat 2: XnGo (99817 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (196238 in chips, $81.25 bounty) 
+Seat 5: MrJovelli (72930 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (44304 in chips, $25 bounty) 
+Seat 7: podiiii (55890 in chips, $43.75 bounty) 
+Seat 8: truechain (31863 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 250
+XnGo: posts the ante 250
+ccyrenne: posts the ante 250
+MrJovelli: posts the ante 250
+MBjorn42: posts the ante 250
+podiiii: posts the ante 250
+truechain: posts the ante 250
+bianchettibh: posts small blind 900
+XnGo: posts big blind 1800
+*** HOLE CARDS ***
+ccyrenne: folds 
+MrJovelli: folds 
+MBjorn42: folds 
+podiiii: folds 
+truechain: raises 1800 to 3600
+bianchettibh: raises 19825 to 23425 and is all-in
+XnGo: folds 
+truechain: folds 
+Uncalled bet (19825) returned to bianchettibh
+bianchettibh collected 10750 from pot
+bianchettibh: doesn't show hand 
+*** SUMMARY ***
+Total pot 10750 | Rake 0 
+Seat 1: bianchettibh (small blind) collected (10750)
+Seat 2: XnGo (big blind) folded before Flop
+Seat 3: ccyrenne folded before Flop (didn't bet)
+Seat 5: MrJovelli folded before Flop (didn't bet)
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain (button) folded before Flop
+
+PokerStars Hand #251205565162: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIV (900/1800) - 2024/06/26 19:04:32 UTC [2024/06/26 15:04:32 ET]
+Table '3769361891 56' 8-max Seat #1 is the button
+Seat 1: bianchettibh (30575 in chips, $25 bounty) 
+Seat 2: XnGo (97767 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (195988 in chips, $81.25 bounty) 
+Seat 5: MrJovelli (72680 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (44054 in chips, $25 bounty) 
+Seat 7: podiiii (55640 in chips, $43.75 bounty) 
+Seat 8: truechain (28013 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 250
+XnGo: posts the ante 250
+ccyrenne: posts the ante 250
+MrJovelli: posts the ante 250
+MBjorn42: posts the ante 250
+podiiii: posts the ante 250
+truechain: posts the ante 250
+XnGo: posts small blind 900
+ccyrenne: posts big blind 1800
+*** HOLE CARDS ***
+MrJovelli: folds 
+MBjorn42: folds 
+podiiii: folds 
+truechain: folds 
+bianchettibh: raises 28525 to 30325 and is all-in
+XnGo: folds 
+ccyrenne: folds 
+Uncalled bet (28525) returned to bianchettibh
+bianchettibh collected 6250 from pot
+bianchettibh: doesn't show hand 
+*** SUMMARY ***
+Total pot 6250 | Rake 0 
+Seat 1: bianchettibh (button) collected (6250)
+Seat 2: XnGo (small blind) folded before Flop
+Seat 3: ccyrenne (big blind) folded before Flop
+Seat 5: MrJovelli folded before Flop (didn't bet)
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205570339: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIV (900/1800) - 2024/06/26 19:04:52 UTC [2024/06/26 15:04:52 ET]
+Table '3769361891 56' 8-max Seat #2 is the button
+Seat 1: bianchettibh (34775 in chips, $25 bounty) 
+Seat 2: XnGo (96617 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (193938 in chips, $81.25 bounty) 
+Seat 5: MrJovelli (72430 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (43804 in chips, $25 bounty) 
+Seat 7: podiiii (55390 in chips, $43.75 bounty) 
+Seat 8: truechain (27763 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 250
+XnGo: posts the ante 250
+ccyrenne: posts the ante 250
+MrJovelli: posts the ante 250
+MBjorn42: posts the ante 250
+podiiii: posts the ante 250
+truechain: posts the ante 250
+ccyrenne: posts small blind 900
+MrJovelli: posts big blind 1800
+*** HOLE CARDS ***
+MBjorn42: folds 
+podiiii: folds 
+savethepuck is disconnected 
+truechain: folds 
+bianchettibh: folds 
+XnGo: folds 
+ccyrenne: folds 
+Uncalled bet (900) returned to MrJovelli
+MrJovelli collected 3550 from pot
+MrJovelli: doesn't show hand 
+*** SUMMARY ***
+Total pot 3550 | Rake 0 
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo (button) folded before Flop (didn't bet)
+Seat 3: ccyrenne (small blind) folded before Flop
+Seat 5: MrJovelli (big blind) collected (3550)
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205577030: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIV (900/1800) - 2024/06/26 19:05:17 UTC [2024/06/26 15:05:17 ET]
+Table '3769361891 56' 8-max Seat #3 is the button
+Seat 1: bianchettibh (34525 in chips, $25 bounty) 
+Seat 2: XnGo (96367 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (192788 in chips, $81.25 bounty) 
+Seat 4: savethepuck (38241 in chips) out of hand (moved from another table into small blind)
+Seat 5: MrJovelli (74830 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (43554 in chips, $25 bounty) 
+Seat 7: podiiii (55140 in chips, $43.75 bounty) 
+Seat 8: truechain (27513 in chips, $81.25 bounty) 
+savethepuck will be allowed to play after the button
+bianchettibh: posts the ante 250
+XnGo: posts the ante 250
+ccyrenne: posts the ante 250
+MrJovelli: posts the ante 250
+MBjorn42: posts the ante 250
+podiiii: posts the ante 250
+truechain: posts the ante 250
+MrJovelli: posts small blind 900
+MBjorn42: posts big blind 1800
+*** HOLE CARDS ***
+podiiii: folds 
+truechain: folds 
+bianchettibh: folds 
+XnGo: folds 
+ccyrenne: folds 
+MrJovelli: raises 4266 to 6066
+MBjorn42: calls 4266
+*** FLOP *** [5h 8d Kc]
+MrJovelli: bets 6030
+MBjorn42: calls 6030
+*** TURN *** [5h 8d Kc] [2c]
+MrJovelli: checks 
+MBjorn42: checks 
+*** RIVER *** [5h 8d Kc 2c] [5c]
+MrJovelli: bets 62484 and is all-in
+MBjorn42: calls 31208 and is all-in
+Uncalled bet (31276) returned to MrJovelli
+*** SHOW DOWN ***
+MrJovelli: shows [8h 5s] (a full house, Fives full of Eights)
+MBjorn42: shows [Kh Kd] (a full house, Kings full of Fives)
+MBjorn42 collected 88358 from pot
+*** SUMMARY ***
+Total pot 88358 | Rake 0 
+Board [5h 8d Kc 2c 5c]
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo folded before Flop (didn't bet)
+Seat 3: ccyrenne (button) folded before Flop (didn't bet)
+Seat 5: MrJovelli (small blind) showed [8h 5s] and lost with a full house, Fives full of Eights
+Seat 6: MBjorn42 (big blind) showed [Kh Kd] and won (88358) with a full house, Kings full of Fives
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205606840: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIV (900/1800) - 2024/06/26 19:07:09 UTC [2024/06/26 15:07:09 ET]
+Table '3769361891 56' 8-max Seat #5 is the button
+Seat 1: bianchettibh (34275 in chips, $25 bounty) 
+Seat 2: XnGo (96117 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (192538 in chips, $81.25 bounty) 
+Seat 4: savethepuck (38241 in chips, $25 bounty) 
+Seat 5: MrJovelli (31276 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (88358 in chips, $25 bounty) 
+Seat 7: podiiii (54890 in chips, $43.75 bounty) 
+Seat 8: truechain (27263 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 250
+XnGo: posts the ante 250
+ccyrenne: posts the ante 250
+savethepuck: posts the ante 250
+MrJovelli: posts the ante 250
+MBjorn42: posts the ante 250
+podiiii: posts the ante 250
+truechain: posts the ante 250
+MBjorn42: posts small blind 900
+podiiii: posts big blind 1800
+*** HOLE CARDS ***
+truechain: folds 
+bianchettibh: folds 
+XnGo: raises 1800 to 3600
+ccyrenne: raises 7200 to 10800
+savethepuck: folds 
+MrJovelli: folds 
+MBjorn42: folds 
+podiiii: folds 
+XnGo: folds 
+Uncalled bet (7200) returned to ccyrenne
+ccyrenne collected 11900 from pot
+ccyrenne: doesn't show hand 
+*** SUMMARY ***
+Total pot 11900 | Rake 0 
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo folded before Flop
+Seat 3: ccyrenne collected (11900)
+Seat 4: savethepuck folded before Flop (didn't bet)
+Seat 5: MrJovelli (button) folded before Flop (didn't bet)
+Seat 6: MBjorn42 (small blind) folded before Flop
+Seat 7: podiiii (big blind) folded before Flop
+Seat 8: truechain folded before Flop (didn't bet)
+
+PokerStars Hand #251205618407: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIV (900/1800) - 2024/06/26 19:07:53 UTC [2024/06/26 15:07:53 ET]
+Table '3769361891 56' 8-max Seat #6 is the button
+Seat 1: bianchettibh (34025 in chips, $25 bounty) 
+Seat 2: XnGo (92267 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (200588 in chips, $81.25 bounty) 
+Seat 4: savethepuck (37991 in chips, $25 bounty) 
+Seat 5: MrJovelli (31026 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (87208 in chips, $25 bounty) 
+Seat 7: podiiii (52840 in chips, $43.75 bounty) 
+Seat 8: truechain (27013 in chips, $81.25 bounty) 
+bianchettibh: posts the ante 250
+XnGo: posts the ante 250
+ccyrenne: posts the ante 250
+savethepuck: posts the ante 250
+MrJovelli: posts the ante 250
+MBjorn42: posts the ante 250
+podiiii: posts the ante 250
+truechain: posts the ante 250
+podiiii: posts small blind 900
+truechain: posts big blind 1800
+*** HOLE CARDS ***
+bianchettibh: folds 
+XnGo: folds 
+ccyrenne: folds 
+savethepuck: folds 
+MrJovelli: folds 
+MBjorn42: folds 
+podiiii: raises 50790 to 52590 and is all-in
+truechain: calls 24963 and is all-in
+Uncalled bet (25827) returned to podiiii
+*** FLOP *** [4d 8d 9c]
+*** TURN *** [4d 8d 9c] [7d]
+*** RIVER *** [4d 8d 9c 7d] [5d]
+*** SHOW DOWN ***
+podiiii: shows [Tc 9d] (a flush, Nine high)
+truechain: shows [Ac 6h] (a straight, Five to Nine)
+podiiii collected 55526 from pot
+podiiii wins $40.63 for eliminating truechain and their own bounty increases by $40.62 to $84.37
+truechain finished the tournament in 479th place
+*** SUMMARY ***
+Total pot 55526 | Rake 0 
+Board [4d 8d 9c 7d 5d]
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo folded before Flop (didn't bet)
+Seat 3: ccyrenne folded before Flop (didn't bet)
+Seat 4: savethepuck folded before Flop (didn't bet)
+Seat 5: MrJovelli folded before Flop (didn't bet)
+Seat 6: MBjorn42 (button) folded before Flop (didn't bet)
+Seat 7: podiiii (small blind) showed [Tc 9d] and won (55526) with a flush, Nine high
+Seat 8: truechain (big blind) showed [Ac 6h] and lost with a straight, Five to Nine
+
+PokerStars Hand #251205626739: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIV (900/1800) - 2024/06/26 19:08:24 UTC [2024/06/26 15:08:24 ET]
+Table '3769361891 56' 8-max Seat #7 is the button
+Seat 1: bianchettibh (33775 in chips, $25 bounty) 
+Seat 2: XnGo (92017 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (200338 in chips, $81.25 bounty) 
+Seat 4: savethepuck (37741 in chips, $25 bounty) 
+Seat 5: MrJovelli (30776 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (86958 in chips, $25 bounty) 
+Seat 7: podiiii (81353 in chips, $84.37 bounty) 
+bianchettibh: posts the ante 250
+XnGo: posts the ante 250
+ccyrenne: posts the ante 250
+savethepuck: posts the ante 250
+MrJovelli: posts the ante 250
+MBjorn42: posts the ante 250
+podiiii: posts the ante 250
+bianchettibh: posts small blind 900
+XnGo: posts big blind 1800
+*** HOLE CARDS ***
+ccyrenne: folds 
+savethepuck: raises 1800 to 3600
+MrJovelli: folds 
+MBjorn42: folds 
+podiiii: calls 3600
+bianchettibh: folds 
+XnGo: calls 1800
+*** FLOP *** [8s 5d 8c]
+XnGo: bets 3270
+savethepuck: calls 3270
+77.danielw is disconnected 
+podiiii: folds 
+*** TURN *** [8s 5d 8c] [Qh]
+XnGo: checks 
+savethepuck: checks 
+*** RIVER *** [8s 5d 8c Qh] [Qc]
+XnGo: checks 
+savethepuck: checks 
+*** SHOW DOWN ***
+XnGo: shows [5h As] (two pair, Queens and Eights)
+savethepuck: mucks hand 
+XnGo collected 19990 from pot
+*** SUMMARY ***
+Total pot 19990 | Rake 0 
+Board [8s 5d 8c Qh Qc]
+Seat 1: bianchettibh (small blind) folded before Flop
+Seat 2: XnGo (big blind) showed [5h As] and won (19990) with two pair, Queens and Eights
+Seat 3: ccyrenne folded before Flop (didn't bet)
+Seat 4: savethepuck mucked
+Seat 5: MrJovelli folded before Flop (didn't bet)
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii (button) folded on the Flop
+
+PokerStars Hand #251205655278: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIV (900/1800) - 2024/06/26 19:10:11 UTC [2024/06/26 15:10:11 ET]
+Table '3769361891 56' 8-max Seat #1 is the button
+Seat 1: bianchettibh (32625 in chips, $25 bounty) 
+Seat 2: XnGo (104887 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (200088 in chips, $81.25 bounty) 
+Seat 4: savethepuck (30621 in chips, $25 bounty) 
+Seat 5: MrJovelli (30526 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (86708 in chips, $25 bounty) 
+Seat 7: podiiii (77503 in chips, $84.37 bounty) 
+Seat 8: 77.danielw (128061 in chips, $37.50 bounty) 
+bianchettibh: posts the ante 250
+XnGo: posts the ante 250
+ccyrenne: posts the ante 250
+savethepuck: posts the ante 250
+MrJovelli: posts the ante 250
+MBjorn42: posts the ante 250
+podiiii: posts the ante 250
+77.danielw: posts the ante 250
+XnGo: posts small blind 900
+ccyrenne: posts big blind 1800
+*** HOLE CARDS ***
+savethepuck: folds 
+MrJovelli: folds 
+MBjorn42: raises 2340 to 4140
+podiiii: folds 
+77.danielw: folds 
+bianchettibh: folds 
+XnGo: raises 11250 to 15390
+ccyrenne: folds 
+MBjorn42: raises 71068 to 86458 and is all-in
+XnGo: folds 
+Uncalled bet (71068) returned to MBjorn42
+MBjorn42 collected 34580 from pot
+*** SUMMARY ***
+Total pot 34580 | Rake 0 
+Seat 1: bianchettibh (button) folded before Flop (didn't bet)
+Seat 2: XnGo (small blind) folded before Flop
+Seat 3: ccyrenne (big blind) folded before Flop
+Seat 4: savethepuck folded before Flop (didn't bet)
+Seat 5: MrJovelli folded before Flop (didn't bet)
+Seat 6: MBjorn42 collected (34580)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: 77.danielw folded before Flop (didn't bet)
+
+PokerStars Hand #251205667965: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XIV (900/1800) - 2024/06/26 19:10:58 UTC [2024/06/26 15:10:58 ET]
+Table '3769361891 56' 8-max Seat #2 is the button
+Seat 1: bianchettibh (32375 in chips, $25 bounty) 
+Seat 2: XnGo (89247 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (198038 in chips, $81.25 bounty) 
+Seat 4: savethepuck (30371 in chips, $25 bounty) 
+Seat 5: MrJovelli (30276 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (105648 in chips, $25 bounty) 
+Seat 7: podiiii (77253 in chips, $84.37 bounty) 
+Seat 8: 77.danielw (127811 in chips, $37.50 bounty) 
+bianchettibh: posts the ante 250
+XnGo: posts the ante 250
+ccyrenne: posts the ante 250
+savethepuck: posts the ante 250
+MrJovelli: posts the ante 250
+MBjorn42: posts the ante 250
+podiiii: posts the ante 250
+77.danielw: posts the ante 250
+ccyrenne: posts small blind 900
+savethepuck: posts big blind 1800
+*** HOLE CARDS ***
+MrJovelli: folds 
+MBjorn42: folds 
+podiiii: raises 1800 to 3600
+77.danielw: raises 7920 to 11520
+bianchettibh: folds 
+XnGo: raises 12420 to 23940
+ccyrenne: folds 
+savethepuck: folds 
+podiiii: folds 
+77.danielw: folds 
+Uncalled bet (12420) returned to XnGo
+XnGo collected 31340 from pot
+XnGo: doesn't show hand 
+*** SUMMARY ***
+Total pot 31340 | Rake 0 
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo (button) collected (31340)
+Seat 3: ccyrenne (small blind) folded before Flop
+Seat 4: savethepuck (big blind) folded before Flop
+Seat 5: MrJovelli folded before Flop (didn't bet)
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop
+Seat 8: 77.danielw folded before Flop
+
+PokerStars Hand #251205679963: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XV (1000/2000) - 2024/06/26 19:11:43 UTC [2024/06/26 15:11:43 ET]
+Table '3769361891 56' 8-max Seat #3 is the button
+Seat 1: bianchettibh (32125 in chips, $25 bounty) 
+Seat 2: XnGo (108817 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (196888 in chips, $81.25 bounty) 
+Seat 4: savethepuck (28321 in chips, $25 bounty) 
+Seat 5: MrJovelli (30026 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (105398 in chips, $25 bounty) 
+Seat 7: podiiii (73403 in chips, $84.37 bounty) 
+Seat 8: 77.danielw (116041 in chips, $37.50 bounty) 
+bianchettibh: posts the ante 300
+XnGo: posts the ante 300
+ccyrenne: posts the ante 300
+savethepuck: posts the ante 300
+MrJovelli: posts the ante 300
+MBjorn42: posts the ante 300
+podiiii: posts the ante 300
+77.danielw: posts the ante 300
+savethepuck: posts small blind 1000
+MrJovelli: posts big blind 2000
+*** HOLE CARDS ***
+MBjorn42: folds 
+podiiii: raises 2000 to 4000
+77.danielw: folds 
+bianchettibh: folds 
+XnGo: folds 
+ccyrenne: folds 
+savethepuck: folds 
+MrJovelli: calls 2000
+*** FLOP *** [7c 3h 5d]
+MrJovelli: checks 
+podiiii: bets 3762
+MrJovelli: folds 
+Uncalled bet (3762) returned to podiiii
+podiiii collected 11400 from pot
+*** SUMMARY ***
+Total pot 11400 | Rake 0 
+Board [7c 3h 5d]
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo folded before Flop (didn't bet)
+Seat 3: ccyrenne (button) folded before Flop (didn't bet)
+Seat 4: savethepuck (small blind) folded before Flop
+Seat 5: MrJovelli (big blind) folded on the Flop
+Seat 6: MBjorn42 folded before Flop (didn't bet)
+Seat 7: podiiii collected (11400)
+Seat 8: 77.danielw folded before Flop (didn't bet)
+
+PokerStars Hand #251205698838: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XV (1000/2000) - 2024/06/26 19:12:52 UTC [2024/06/26 15:12:52 ET]
+Table '3769361891 56' 8-max Seat #4 is the button
+Seat 1: bianchettibh (31825 in chips, $25 bounty) 
+Seat 2: XnGo (108517 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (196588 in chips, $81.25 bounty) 
+Seat 4: savethepuck (27021 in chips, $25 bounty) 
+Seat 5: MrJovelli (25726 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (105098 in chips, $25 bounty) 
+Seat 7: podiiii (80503 in chips, $84.37 bounty) 
+Seat 8: 77.danielw (115741 in chips, $37.50 bounty) 
+bianchettibh: posts the ante 300
+XnGo: posts the ante 300
+ccyrenne: posts the ante 300
+savethepuck: posts the ante 300
+MrJovelli: posts the ante 300
+MBjorn42: posts the ante 300
+podiiii: posts the ante 300
+77.danielw: posts the ante 300
+MrJovelli: posts small blind 1000
+MBjorn42: posts big blind 2000
+*** HOLE CARDS ***
+podiiii: raises 2000 to 4000
+77.danielw: raises 8000 to 12000
+bianchettibh: folds 
+XnGo: folds 
+ccyrenne: folds 
+savethepuck: folds 
+MrJovelli: folds 
+MBjorn42: folds 
+podiiii: folds 
+Uncalled bet (8000) returned to 77.danielw
+77.danielw collected 13400 from pot
+77.danielw: doesn't show hand 
+*** SUMMARY ***
+Total pot 13400 | Rake 0 
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo folded before Flop (didn't bet)
+Seat 3: ccyrenne folded before Flop (didn't bet)
+Seat 4: savethepuck (button) folded before Flop (didn't bet)
+Seat 5: MrJovelli (small blind) folded before Flop
+Seat 6: MBjorn42 (big blind) folded before Flop
+Seat 7: podiiii folded before Flop
+Seat 8: 77.danielw collected (13400)
+
+PokerStars Hand #251205707472: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level XV (1000/2000) - 2024/06/26 19:13:24 UTC [2024/06/26 15:13:24 ET]
+Table '3769361891 56' 8-max Seat #5 is the button
+Seat 1: bianchettibh (31525 in chips, $25 bounty) 
+Seat 2: XnGo (108217 in chips, $68.75 bounty) 
+Seat 3: ccyrenne (196288 in chips, $81.25 bounty) 
+Seat 4: savethepuck (26721 in chips, $25 bounty) 
+Seat 5: MrJovelli (24426 in chips, $37.50 bounty) 
+Seat 6: MBjorn42 (102798 in chips, $25 bounty) 
+Seat 7: podiiii (76203 in chips, $84.37 bounty) 
+Seat 8: 77.danielw (124841 in chips, $37.50 bounty) 
+bianchettibh: posts the ante 300
+XnGo: posts the ante 300
+ccyrenne: posts the ante 300
+savethepuck: posts the ante 300
+MrJovelli: posts the ante 300
+MBjorn42: posts the ante 300
+podiiii: posts the ante 300
+77.danielw: posts the ante 300
+MBjorn42: posts small blind 1000
+podiiii: posts big blind 2000
+*** HOLE CARDS ***
+77.danielw: raises 2000 to 4000
+bianchettibh: folds 
+XnGo: folds 
+ccyrenne: calls 4000
+savethepuck: raises 22421 to 26421 and is all-in
+MrJovelli: folds 
+MBjorn42: folds 
+podiiii: folds 
+77.danielw: calls 22421
+ccyrenne: calls 22421
+*** FLOP *** [Js 6s 8s]
+77.danielw: checks 
+ccyrenne: checks 
+*** TURN *** [Js 6s 8s] [3d]
+77.danielw: checks 
+ccyrenne: bets 24000
+77.danielw: folds 
+Uncalled bet (24000) returned to ccyrenne
+*** RIVER *** [Js 6s 8s 3d] [9c]
+*** SHOW DOWN ***
+ccyrenne: shows [9h 9s] (three of a kind, Nines)
+savethepuck: shows [Qc As] (high card Ace)
+ccyrenne collected 84663 from pot
+ccyrenne wins $12.50 for eliminating savethepuck and their own bounty increases by $12.50 to $93.75
+savethepuck finished the tournament in 425th place
+*** SUMMARY ***
+Total pot 84663 | Rake 0 
+Board [Js 6s 8s 3d 9c]
+Seat 1: bianchettibh folded before Flop (didn't bet)
+Seat 2: XnGo folded before Flop (didn't bet)
+Seat 3: ccyrenne showed [9h 9s] and won (84663) with three of a kind, Nines
+Seat 4: savethepuck showed [Qc As] and lost with high card Ace
+Seat 5: MrJovelli (button) folded before Flop (didn't bet)
+Seat 6: MBjorn42 (small blind) folded before Flop
+Seat 7: podiiii (big blind) folded before Flop
+Seat 8: 77.danielw folded on the Turn

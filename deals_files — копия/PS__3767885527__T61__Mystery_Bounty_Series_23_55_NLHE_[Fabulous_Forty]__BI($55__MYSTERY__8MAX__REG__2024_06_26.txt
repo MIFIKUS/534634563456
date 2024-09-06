@@ -1,0 +1,1840 @@
+PokerStars Hand #251205405838: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:52:41 UTC [2024/06/26 14:52:41 ET]
+Table '3767885527 61' 8-max Seat #7 is the button
+Seat 1: ipayou (27075 in chips) 
+Seat 2: MezuuÜuuT (13245 in chips) 
+Seat 3: Hjerterdame1 (87216 in chips) 
+Seat 4: ederpalasson (54943 in chips) 
+Seat 6: ThalleSx (20480 in chips) 
+Seat 7: fournn (59435 in chips) 
+Seat 8: vagoyras (49499 in chips) 
+ipayou: posts the ante 150
+MezuuÜuuT: posts the ante 150
+Hjerterdame1: posts the ante 150
+ederpalasson: posts the ante 150
+ThalleSx: posts the ante 150
+fournn: posts the ante 150
+vagoyras: posts the ante 150
+vagoyras: posts small blind 600
+ipayou: posts big blind 1200
+*** HOLE CARDS ***
+nacho2390 is disconnected 
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: raises 1200 to 2400
+ThalleSx: folds 
+fournn: folds 
+vagoyras: folds 
+ipayou: folds 
+Uncalled bet (1200) returned to ederpalasson
+ederpalasson collected 4050 from pot
+ederpalasson: doesn't show hand 
+*** SUMMARY ***
+Total pot 4050 | Rake 0 
+Seat 1: ipayou (big blind) folded before Flop
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 folded before Flop (didn't bet)
+Seat 4: ederpalasson collected (4050)
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn (button) folded before Flop (didn't bet)
+Seat 8: vagoyras (small blind) folded before Flop
+
+PokerStars Hand #251205418986: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:53:31 UTC [2024/06/26 14:53:31 ET]
+Table '3767885527 61' 8-max Seat #8 is the button
+Seat 1: ipayou (25725 in chips) 
+Seat 2: MezuuÜuuT (13095 in chips) 
+Seat 3: Hjerterdame1 (87066 in chips) 
+Seat 4: ederpalasson (57643 in chips) 
+Seat 5: nacho2390 (25000 in chips) 
+Seat 6: ThalleSx (20330 in chips) 
+Seat 7: fournn (59285 in chips) 
+Seat 8: vagoyras (48749 in chips) 
+ipayou: posts the ante 150
+MezuuÜuuT: posts the ante 150
+Hjerterdame1: posts the ante 150
+ederpalasson: posts the ante 150
+nacho2390: posts the ante 150
+ThalleSx: posts the ante 150
+fournn: posts the ante 150
+vagoyras: posts the ante 150
+ipayou: posts small blind 600
+MezuuÜuuT: posts big blind 1200
+*** HOLE CARDS ***
+Hjerterdame1: raises 2000 to 3200
+ederpalasson: folds 
+nacho2390: raises 21650 to 24850 and is all-in
+ThalleSx: folds 
+fournn: folds 
+vagoyras: folds 
+ipayou: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: folds [As]
+Uncalled bet (21650) returned to nacho2390
+nacho2390 collected 9400 from pot
+nacho2390: doesn't show hand 
+*** SUMMARY ***
+Total pot 9400 | Rake 0 
+Seat 1: ipayou (small blind) folded before Flop
+Seat 2: MezuuÜuuT (big blind) folded before Flop
+Seat 3: Hjerterdame1 folded before Flop
+Seat 4: ederpalasson folded before Flop (didn't bet)
+Seat 5: nacho2390 collected (9400)
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205436927: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 18:54:39 UTC [2024/06/26 14:54:39 ET]
+Table '3767885527 61' 8-max Seat #1 is the button
+Seat 1: ipayou (24975 in chips) 
+Seat 2: MezuuÜuuT (11745 in chips) 
+Seat 3: Hjerterdame1 (83716 in chips) 
+Seat 4: ederpalasson (57493 in chips) 
+Seat 5: nacho2390 (31050 in chips) 
+Seat 6: ThalleSx (20180 in chips) 
+Seat 7: fournn (59135 in chips) 
+Seat 8: vagoyras (48599 in chips) 
+ipayou: posts the ante 150
+MezuuÜuuT: posts the ante 150
+Hjerterdame1: posts the ante 150
+ederpalasson: posts the ante 150
+nacho2390: posts the ante 150
+ThalleSx: posts the ante 150
+fournn: posts the ante 150
+vagoyras: posts the ante 150
+MezuuÜuuT: posts small blind 600
+Hjerterdame1: posts big blind 1200
+*** HOLE CARDS ***
+ederpalasson: raises 1200 to 2400
+nacho2390: folds 
+ThalleSx: folds 
+fournn: folds 
+vagoyras: folds 
+ipayou: folds 
+MezuuÜuuT: raises 9195 to 11595 and is all-in
+Hjerterdame1: folds 
+ederpalasson: calls 9195
+*** FLOP *** [5s Qs 4h]
+*** TURN *** [5s Qs 4h] [8s]
+*** RIVER *** [5s Qs 4h 8s] [Ks]
+*** SHOW DOWN ***
+MezuuÜuuT: shows [Jh Ah] (high card Ace)
+ederpalasson: shows [Tc 9c] (high card King)
+MezuuÜuuT collected 25590 from pot
+*** SUMMARY ***
+Total pot 25590 | Rake 0 
+Board [5s Qs 4h 8s Ks]
+Seat 1: ipayou (button) folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT (small blind) showed [Jh Ah] and won (25590) with high card Ace
+Seat 3: Hjerterdame1 (big blind) folded before Flop
+Seat 4: ederpalasson showed [Tc 9c] and lost with high card King
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205528139: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:02:04 UTC [2024/06/26 15:02:04 ET]
+Table '3767885527 61' 8-max Seat #2 is the button
+Seat 1: ipayou (24825 in chips) 
+Seat 2: MezuuÜuuT (25590 in chips) 
+Seat 3: Hjerterdame1 (82366 in chips) 
+Seat 4: ederpalasson (45748 in chips) 
+Seat 5: nacho2390 (30900 in chips) 
+Seat 6: ThalleSx (20030 in chips) 
+Seat 7: fournn (58985 in chips) 
+Seat 8: vagoyras (48449 in chips) 
+ipayou: posts the ante 150
+MezuuÜuuT: posts the ante 150
+Hjerterdame1: posts the ante 150
+ederpalasson: posts the ante 150
+nacho2390: posts the ante 150
+ThalleSx: posts the ante 150
+fournn: posts the ante 150
+vagoyras: posts the ante 150
+Hjerterdame1: posts small blind 600
+ederpalasson: posts big blind 1200
+*** HOLE CARDS ***
+nacho2390: folds 
+ThalleSx: folds 
+fournn: folds 
+vagoyras: folds 
+ipayou: folds 
+MezuuÜuuT: raises 1440 to 2640
+Hjerterdame1: calls 2040
+ederpalasson: folds 
+*** FLOP *** [3h Ad 8c]
+Hjerterdame1: checks 
+MezuuÜuuT: checks 
+*** TURN *** [3h Ad 8c] [5d]
+Hjerterdame1: checks 
+MezuuÜuuT: checks 
+*** RIVER *** [3h Ad 8c 5d] [As]
+Hjerterdame1: bets 3840
+MezuuÜuuT: raises 5160 to 9000
+Hjerterdame1: calls 5160
+*** SHOW DOWN ***
+MezuuÜuuT: shows [6c Ah] (three of a kind, Aces)
+Hjerterdame1: shows [Ac 9h] (three of a kind, Aces - Nine kicker)
+Hjerterdame1 collected 25680 from pot
+*** SUMMARY ***
+Total pot 25680 | Rake 0 
+Board [3h Ad 8c 5d As]
+Seat 1: ipayou folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT (button) showed [6c Ah] and lost with three of a kind, Aces
+Seat 3: Hjerterdame1 (small blind) showed [Ac 9h] and won (25680) with three of a kind, Aces
+Seat 4: ederpalasson (big blind) folded before Flop
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205548705: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:03:27 UTC [2024/06/26 15:03:27 ET]
+Table '3767885527 61' 8-max Seat #3 is the button
+Seat 1: ipayou (24675 in chips) 
+Seat 2: MezuuÜuuT (13800 in chips) 
+Seat 3: Hjerterdame1 (96256 in chips) 
+Seat 4: ederpalasson (44398 in chips) 
+Seat 5: nacho2390 (30750 in chips) 
+Seat 6: ThalleSx (19880 in chips) 
+Seat 7: fournn (58835 in chips) 
+Seat 8: vagoyras (48299 in chips) 
+ipayou: posts the ante 150
+MezuuÜuuT: posts the ante 150
+Hjerterdame1: posts the ante 150
+ederpalasson: posts the ante 150
+nacho2390: posts the ante 150
+ThalleSx: posts the ante 150
+fournn: posts the ante 150
+vagoyras: posts the ante 150
+ederpalasson: posts small blind 600
+nacho2390: posts big blind 1200
+*** HOLE CARDS ***
+ThalleSx: folds 
+fournn: folds 
+vagoyras: folds 
+ipayou: raises 1200 to 2400
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: folds 
+nacho2390: raises 28200 to 30600 and is all-in
+ipayou: folds 
+Uncalled bet (28200) returned to nacho2390
+nacho2390 collected 6600 from pot
+nacho2390: doesn't show hand 
+*** SUMMARY ***
+Total pot 6600 | Rake 0 
+Seat 1: ipayou folded before Flop
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 (button) folded before Flop (didn't bet)
+Seat 4: ederpalasson (small blind) folded before Flop
+Seat 5: nacho2390 (big blind) collected (6600)
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205556518: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:03:58 UTC [2024/06/26 15:03:58 ET]
+Table '3767885527 61' 8-max Seat #4 is the button
+Seat 1: ipayou (22125 in chips) 
+Seat 2: MezuuÜuuT (13650 in chips) 
+Seat 3: Hjerterdame1 (96106 in chips) 
+Seat 4: ederpalasson (43648 in chips) 
+Seat 5: nacho2390 (34800 in chips) 
+Seat 6: ThalleSx (19730 in chips) 
+Seat 7: fournn (58685 in chips) 
+Seat 8: vagoyras (48149 in chips) 
+ipayou: posts the ante 150
+MezuuÜuuT: posts the ante 150
+Hjerterdame1: posts the ante 150
+ederpalasson: posts the ante 150
+nacho2390: posts the ante 150
+ThalleSx: posts the ante 150
+fournn: posts the ante 150
+vagoyras: posts the ante 150
+nacho2390: posts small blind 600
+ThalleSx: posts big blind 1200
+*** HOLE CARDS ***
+fournn: folds 
+vagoyras: folds 
+ipayou: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: folds 
+nacho2390: folds 
+Uncalled bet (600) returned to ThalleSx
+ThalleSx collected 2400 from pot
+ThalleSx: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: ipayou folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 folded before Flop (didn't bet)
+Seat 4: ederpalasson (button) folded before Flop (didn't bet)
+Seat 5: nacho2390 (small blind) folded before Flop
+Seat 6: ThalleSx (big blind) collected (2400)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205563690: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:04:26 UTC [2024/06/26 15:04:26 ET]
+Table '3767885527 61' 8-max Seat #5 is the button
+Seat 1: ipayou (21975 in chips) 
+Seat 2: MezuuÜuuT (13500 in chips) 
+Seat 3: Hjerterdame1 (95956 in chips) 
+Seat 4: ederpalasson (43498 in chips) 
+Seat 5: nacho2390 (34050 in chips) 
+Seat 6: ThalleSx (21380 in chips) 
+Seat 7: fournn (58535 in chips) 
+Seat 8: vagoyras (47999 in chips) 
+ipayou: posts the ante 150
+MezuuÜuuT: posts the ante 150
+Hjerterdame1: posts the ante 150
+ederpalasson: posts the ante 150
+nacho2390: posts the ante 150
+ThalleSx: posts the ante 150
+fournn: posts the ante 150
+vagoyras: posts the ante 150
+ThalleSx: posts small blind 600
+fournn: posts big blind 1200
+*** HOLE CARDS ***
+vagoyras: folds 
+ipayou: raises 1200 to 2400
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: raises 3000 to 5400
+nacho2390: folds 
+ThalleSx: folds 
+fournn: folds 
+ipayou: raises 16425 to 21825 and is all-in
+ederpalasson: folds 
+Uncalled bet (16425) returned to ipayou
+ipayou collected 13800 from pot
+*** SUMMARY ***
+Total pot 13800 | Rake 0 
+Seat 1: ipayou collected (13800)
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 folded before Flop (didn't bet)
+Seat 4: ederpalasson folded before Flop
+Seat 5: nacho2390 (button) folded before Flop (didn't bet)
+Seat 6: ThalleSx (small blind) folded before Flop
+Seat 7: fournn (big blind) folded before Flop
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205582065: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:05:36 UTC [2024/06/26 15:05:36 ET]
+Table '3767885527 61' 8-max Seat #6 is the button
+Seat 1: ipayou (30225 in chips) 
+Seat 2: MezuuÜuuT (13350 in chips) 
+Seat 3: Hjerterdame1 (95806 in chips) 
+Seat 4: ederpalasson (37948 in chips) 
+Seat 5: nacho2390 (33900 in chips) 
+Seat 6: ThalleSx (20630 in chips) 
+Seat 7: fournn (57185 in chips) 
+Seat 8: vagoyras (47849 in chips) 
+ipayou: posts the ante 150
+MezuuÜuuT: posts the ante 150
+Hjerterdame1: posts the ante 150
+ederpalasson: posts the ante 150
+nacho2390: posts the ante 150
+ThalleSx: posts the ante 150
+fournn: posts the ante 150
+vagoyras: posts the ante 150
+fournn: posts small blind 600
+vagoyras: posts big blind 1200
+*** HOLE CARDS ***
+ipayou: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: folds 
+nacho2390: folds 
+ThalleSx: raises 19280 to 20480 and is all-in
+fournn: folds 
+vagoyras: folds 
+Uncalled bet (19280) returned to ThalleSx
+ThalleSx collected 4200 from pot
+ThalleSx: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 1: ipayou folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 folded before Flop (didn't bet)
+Seat 4: ederpalasson folded before Flop (didn't bet)
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: ThalleSx (button) collected (4200)
+Seat 7: fournn (small blind) folded before Flop
+Seat 8: vagoyras (big blind) folded before Flop
+
+PokerStars Hand #251205596018: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:06:29 UTC [2024/06/26 15:06:29 ET]
+Table '3767885527 61' 8-max Seat #7 is the button
+Seat 1: ipayou (30075 in chips) 
+Seat 2: MezuuÜuuT (13200 in chips) 
+Seat 3: Hjerterdame1 (95656 in chips) 
+Seat 4: ederpalasson (37798 in chips) 
+Seat 5: nacho2390 (33750 in chips) 
+Seat 6: ThalleSx (23480 in chips) 
+Seat 7: fournn (56435 in chips) 
+Seat 8: vagoyras (46499 in chips) 
+ipayou: posts the ante 150
+MezuuÜuuT: posts the ante 150
+Hjerterdame1: posts the ante 150
+ederpalasson: posts the ante 150
+nacho2390: posts the ante 150
+ThalleSx: posts the ante 150
+fournn: posts the ante 150
+vagoyras: posts the ante 150
+vagoyras: posts small blind 600
+ipayou: posts big blind 1200
+*** HOLE CARDS ***
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: folds 
+nacho2390: raises 1320 to 2520
+ThalleSx: folds 
+fournn: folds 
+vagoyras: folds 
+ipayou: calls 1320
+*** FLOP *** [3s 7h Ah]
+ipayou: checks 
+nacho2390: bets 1800
+ipayou: raises 3480 to 5280
+nacho2390: calls 3480
+*** TURN *** [3s 7h Ah] [7c]
+ipayou: bets 7800
+nacho2390: calls 7800
+*** RIVER *** [3s 7h Ah 7c] [9d]
+ipayou: bets 14325 and is all-in
+nacho2390: calls 14325
+*** SHOW DOWN ***
+ipayou: shows [Ad Ts] (two pair, Aces and Sevens)
+nacho2390: shows [Qs Qc] (two pair, Queens and Sevens)
+ipayou collected 61650 from pot
+*** SUMMARY ***
+Total pot 61650 | Rake 0 
+Board [3s 7h Ah 7c 9d]
+Seat 1: ipayou (big blind) showed [Ad Ts] and won (61650) with two pair, Aces and Sevens
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 folded before Flop (didn't bet)
+Seat 4: ederpalasson folded before Flop (didn't bet)
+Seat 5: nacho2390 showed [Qs Qc] and lost with two pair, Queens and Sevens
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn (button) folded before Flop (didn't bet)
+Seat 8: vagoyras (small blind) folded before Flop
+
+PokerStars Hand #251205629947: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:08:36 UTC [2024/06/26 15:08:36 ET]
+Table '3767885527 61' 8-max Seat #8 is the button
+Seat 1: ipayou (61650 in chips) 
+Seat 2: MezuuÜuuT (13050 in chips) 
+Seat 3: Hjerterdame1 (95506 in chips) 
+Seat 4: ederpalasson (37648 in chips) 
+Seat 5: nacho2390 (3675 in chips) 
+Seat 6: ThalleSx (23330 in chips) 
+Seat 7: fournn (56285 in chips) 
+Seat 8: vagoyras (45749 in chips) 
+ipayou: posts the ante 150
+MezuuÜuuT: posts the ante 150
+Hjerterdame1: posts the ante 150
+ederpalasson: posts the ante 150
+nacho2390: posts the ante 150
+ThalleSx: posts the ante 150
+fournn: posts the ante 150
+vagoyras: posts the ante 150
+ipayou: posts small blind 600
+MezuuÜuuT: posts big blind 1200
+*** HOLE CARDS ***
+Hjerterdame1: folds 
+ederpalasson: folds 
+nacho2390: folds 
+ThalleSx: folds 
+fournn: folds 
+vagoyras: folds 
+ipayou: raises 1320 to 2520
+MezuuÜuuT: calls 1320
+*** FLOP *** [Qh Kd 7c]
+ipayou: checks 
+MezuuÜuuT: checks 
+*** TURN *** [Qh Kd 7c] [9h]
+ipayou: bets 1800
+MezuuÜuuT: folds 
+Uncalled bet (1800) returned to ipayou
+ipayou collected 6240 from pot
+*** SUMMARY ***
+Total pot 6240 | Rake 0 
+Board [Qh Kd 7c 9h]
+Seat 1: ipayou (small blind) collected (6240)
+Seat 2: MezuuÜuuT (big blind) folded on the Turn
+Seat 3: Hjerterdame1 folded before Flop (didn't bet)
+Seat 4: ederpalasson folded before Flop (didn't bet)
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205645549: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:09:35 UTC [2024/06/26 15:09:35 ET]
+Table '3767885527 61' 8-max Seat #1 is the button
+Seat 1: ipayou (65220 in chips) 
+Seat 2: MezuuÜuuT (10380 in chips) 
+Seat 3: Hjerterdame1 (95356 in chips) 
+Seat 4: ederpalasson (37498 in chips) 
+Seat 5: nacho2390 (3525 in chips) 
+Seat 6: ThalleSx (23180 in chips) 
+Seat 7: fournn (56135 in chips) 
+Seat 8: vagoyras (45599 in chips) 
+ipayou: posts the ante 175
+MezuuÜuuT: posts the ante 175
+Hjerterdame1: posts the ante 175
+ederpalasson: posts the ante 175
+nacho2390: posts the ante 175
+ThalleSx: posts the ante 175
+fournn: posts the ante 175
+vagoyras: posts the ante 175
+MezuuÜuuT: posts small blind 700
+Hjerterdame1: posts big blind 1400
+*** HOLE CARDS ***
+ederpalasson: folds 
+nacho2390: folds 
+ThalleSx: folds 
+fournn: raises 1680 to 3080
+vagoyras: folds 
+ipayou: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+Uncalled bet (1680) returned to fournn
+fournn collected 4900 from pot
+fournn: doesn't show hand 
+*** SUMMARY ***
+Total pot 4900 | Rake 0 
+Seat 1: ipayou (button) folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT (small blind) folded before Flop
+Seat 3: Hjerterdame1 (big blind) folded before Flop
+Seat 4: ederpalasson folded before Flop (didn't bet)
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn collected (4900)
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205652198: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:09:59 UTC [2024/06/26 15:09:59 ET]
+Table '3767885527 61' 8-max Seat #2 is the button
+Seat 1: ipayou (65045 in chips) 
+Seat 2: MezuuÜuuT (9505 in chips) 
+Seat 3: Hjerterdame1 (93781 in chips) 
+Seat 4: ederpalasson (37323 in chips) 
+Seat 5: nacho2390 (3350 in chips) 
+Seat 6: ThalleSx (23005 in chips) 
+Seat 7: fournn (59460 in chips) 
+Seat 8: vagoyras (45424 in chips) 
+ipayou: posts the ante 175
+MezuuÜuuT: posts the ante 175
+Hjerterdame1: posts the ante 175
+ederpalasson: posts the ante 175
+nacho2390: posts the ante 175
+ThalleSx: posts the ante 175
+fournn: posts the ante 175
+vagoyras: posts the ante 175
+Hjerterdame1: posts small blind 700
+ederpalasson: posts big blind 1400
+*** HOLE CARDS ***
+nacho2390: folds 
+ThalleSx: folds 
+fournn: folds 
+vagoyras: folds 
+ipayou: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: raises 2800 to 4200
+ederpalasson: raises 6300 to 10500
+Hjerterdame1: calls 6300
+*** FLOP *** [Jc 2h 9d]
+Hjerterdame1: bets 11200
+ederpalasson: folds 
+Uncalled bet (11200) returned to Hjerterdame1
+Hjerterdame1 collected 22400 from pot
+Hjerterdame1: doesn't show hand 
+*** SUMMARY ***
+Total pot 22400 | Rake 0 
+Board [Jc 2h 9d]
+Seat 1: ipayou folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT (button) folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 (small blind) collected (22400)
+Seat 4: ederpalasson (big blind) folded on the Flop
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205669543: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:11:04 UTC [2024/06/26 15:11:04 ET]
+Table '3767885527 61' 8-max Seat #3 is the button
+Seat 1: ipayou (64870 in chips) 
+Seat 2: MezuuÜuuT (9330 in chips) 
+Seat 3: Hjerterdame1 (105506 in chips) 
+Seat 4: ederpalasson (26648 in chips) 
+Seat 5: nacho2390 (3175 in chips) 
+Seat 6: ThalleSx (22830 in chips) 
+Seat 7: fournn (59285 in chips) 
+Seat 8: vagoyras (45249 in chips) 
+ipayou: posts the ante 175
+MezuuÜuuT: posts the ante 175
+Hjerterdame1: posts the ante 175
+ederpalasson: posts the ante 175
+nacho2390: posts the ante 175
+ThalleSx: posts the ante 175
+fournn: posts the ante 175
+vagoyras: posts the ante 175
+ederpalasson: posts small blind 700
+nacho2390: posts big blind 1400
+*** HOLE CARDS ***
+ThalleSx: folds 
+fournn: folds 
+vagoyras: folds 
+ipayou: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: raises 2800 to 4200
+nacho2390: calls 1600 and is all-in
+Uncalled bet (1200) returned to ederpalasson
+*** FLOP *** [Ks 7h Jh]
+*** TURN *** [Ks 7h Jh] [Kh]
+*** RIVER *** [Ks 7h Jh Kh] [Ah]
+*** SHOW DOWN ***
+ederpalasson: shows [As Jc] (two pair, Aces and Kings)
+nacho2390: shows [3h 2s] (a flush, Ace high)
+nacho2390 collected 7400 from pot
+*** SUMMARY ***
+Total pot 7400 | Rake 0 
+Board [Ks 7h Jh Kh Ah]
+Seat 1: ipayou folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 (button) folded before Flop (didn't bet)
+Seat 4: ederpalasson (small blind) showed [As Jc] and lost with two pair, Aces and Kings
+Seat 5: nacho2390 (big blind) showed [3h 2s] and won (7400) with a flush, Ace high
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205680094: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:11:43 UTC [2024/06/26 15:11:43 ET]
+Table '3767885527 61' 8-max Seat #4 is the button
+Seat 1: ipayou (64695 in chips) 
+Seat 2: MezuuÜuuT (9155 in chips) 
+Seat 3: Hjerterdame1 (105331 in chips) 
+Seat 4: ederpalasson (23473 in chips) 
+Seat 5: nacho2390 (7400 in chips) 
+Seat 6: ThalleSx (22655 in chips) 
+Seat 7: fournn (59110 in chips) 
+Seat 8: vagoyras (45074 in chips) 
+ipayou: posts the ante 175
+MezuuÜuuT: posts the ante 175
+Hjerterdame1: posts the ante 175
+ederpalasson: posts the ante 175
+nacho2390: posts the ante 175
+ThalleSx: posts the ante 175
+fournn: posts the ante 175
+vagoyras: posts the ante 175
+nacho2390: posts small blind 700
+ThalleSx: posts big blind 1400
+*** HOLE CARDS ***
+fournn: folds 
+vagoyras: folds 
+ipayou: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: folds 
+nacho2390: raises 5825 to 7225 and is all-in
+ThalleSx: calls 5825
+*** FLOP *** [Qc 6c Ad]
+*** TURN *** [Qc 6c Ad] [6h]
+*** RIVER *** [Qc 6c Ad 6h] [9c]
+*** SHOW DOWN ***
+nacho2390: shows [Kh Qh] (two pair, Queens and Sixes)
+ThalleSx: shows [5c Td] (a pair of Sixes)
+nacho2390 collected 15850 from pot
+*** SUMMARY ***
+Total pot 15850 | Rake 0 
+Board [Qc 6c Ad 6h 9c]
+Seat 1: ipayou folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 folded before Flop (didn't bet)
+Seat 4: ederpalasson (button) folded before Flop (didn't bet)
+Seat 5: nacho2390 (small blind) showed [Kh Qh] and won (15850) with two pair, Queens and Sixes
+Seat 6: ThalleSx (big blind) showed [5c Td] and lost with a pair of Sixes
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205691552: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:12:25 UTC [2024/06/26 15:12:25 ET]
+Table '3767885527 61' 8-max Seat #5 is the button
+Seat 1: ipayou (64520 in chips) 
+Seat 2: MezuuÜuuT (8980 in chips) 
+Seat 3: Hjerterdame1 (105156 in chips) 
+Seat 4: ederpalasson (23298 in chips) 
+Seat 5: nacho2390 (15850 in chips) 
+Seat 6: ThalleSx (15255 in chips) 
+Seat 7: fournn (58935 in chips) 
+Seat 8: vagoyras (44899 in chips) 
+ipayou: posts the ante 175
+MezuuÜuuT: posts the ante 175
+Hjerterdame1: posts the ante 175
+ederpalasson: posts the ante 175
+nacho2390: posts the ante 175
+ThalleSx: posts the ante 175
+fournn: posts the ante 175
+vagoyras: posts the ante 175
+ThalleSx: posts small blind 700
+fournn: posts big blind 1400
+*** HOLE CARDS ***
+vagoyras: raises 1400 to 2800
+ipayou: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: folds 
+nacho2390: folds 
+ThalleSx: raises 12280 to 15080 and is all-in
+fournn: raises 43680 to 58760 and is all-in
+vagoyras: folds 
+Uncalled bet (43680) returned to fournn
+*** FLOP *** [5s 3c 9d]
+*** TURN *** [5s 3c 9d] [Ah]
+*** RIVER *** [5s 3c 9d Ah] [Jd]
+*** SHOW DOWN ***
+ThalleSx: shows [Kh Ac] (a pair of Aces)
+fournn: shows [Qd As] (a pair of Aces - lower kicker)
+ThalleSx collected 34360 from pot
+*** SUMMARY ***
+Total pot 34360 | Rake 0 
+Board [5s 3c 9d Ah Jd]
+Seat 1: ipayou folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 folded before Flop (didn't bet)
+Seat 4: ederpalasson folded before Flop (didn't bet)
+Seat 5: nacho2390 (button) folded before Flop (didn't bet)
+Seat 6: ThalleSx (small blind) showed [Kh Ac] and won (34360) with a pair of Aces
+Seat 7: fournn (big blind) showed [Qd As] and lost with a pair of Aces
+Seat 8: vagoyras folded before Flop
+
+PokerStars Hand #251205706826: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:13:21 UTC [2024/06/26 15:13:21 ET]
+Table '3767885527 61' 8-max Seat #6 is the button
+Seat 1: ipayou (64345 in chips) 
+Seat 2: MezuuÜuuT (8805 in chips) 
+Seat 3: Hjerterdame1 (104981 in chips) 
+Seat 4: ederpalasson (23123 in chips) 
+Seat 5: nacho2390 (15675 in chips) 
+Seat 6: ThalleSx (34360 in chips) 
+Seat 7: fournn (43680 in chips) 
+Seat 8: vagoyras (41924 in chips) 
+ipayou: posts the ante 175
+MezuuÜuuT: posts the ante 175
+Hjerterdame1: posts the ante 175
+ederpalasson: posts the ante 175
+nacho2390: posts the ante 175
+ThalleSx: posts the ante 175
+fournn: posts the ante 175
+vagoyras: posts the ante 175
+fournn: posts small blind 700
+vagoyras: posts big blind 1400
+*** HOLE CARDS ***
+ipayou: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: raises 1400 to 2800
+nacho2390: folds 
+ThalleSx: folds 
+fournn: folds 
+vagoyras: folds 
+Uncalled bet (1400) returned to ederpalasson
+ederpalasson collected 4900 from pot
+ederpalasson: doesn't show hand 
+*** SUMMARY ***
+Total pot 4900 | Rake 0 
+Seat 1: ipayou folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 folded before Flop (didn't bet)
+Seat 4: ederpalasson collected (4900)
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: ThalleSx (button) folded before Flop (didn't bet)
+Seat 7: fournn (small blind) folded before Flop
+Seat 8: vagoyras (big blind) folded before Flop
+
+PokerStars Hand #251205714150: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:13:49 UTC [2024/06/26 15:13:49 ET]
+Table '3767885527 61' 8-max Seat #7 is the button
+Seat 2: MezuuÜuuT (8630 in chips) 
+Seat 3: Hjerterdame1 (104806 in chips) 
+Seat 4: ederpalasson (26448 in chips) 
+Seat 5: nacho2390 (15500 in chips) 
+Seat 6: ThalleSx (34185 in chips) 
+Seat 7: fournn (42805 in chips) 
+Seat 8: vagoyras (40349 in chips) 
+MezuuÜuuT: posts the ante 175
+Hjerterdame1: posts the ante 175
+ederpalasson: posts the ante 175
+nacho2390: posts the ante 175
+ThalleSx: posts the ante 175
+fournn: posts the ante 175
+vagoyras: posts the ante 175
+vagoyras: posts small blind 700
+MezuuÜuuT: posts big blind 1400
+*** HOLE CARDS ***
+Hjerterdame1: folds 
+ederpalasson: raises 1400 to 2800
+nacho2390: folds 
+ThalleSx: folds 
+fournn: folds 
+vagoyras: folds 
+MezuuÜuuT: calls 1400
+*** FLOP *** [Qs 2d 5c]
+MezuuÜuuT: checks 
+ederpalasson: bets 7000
+MezuuÜuuT: calls 5655 and is all-in
+Uncalled bet (1345) returned to ederpalasson
+*** TURN *** [Qs 2d 5c] [9h]
+*** RIVER *** [Qs 2d 5c 9h] [2c]
+*** SHOW DOWN ***
+MezuuÜuuT: shows [5h Ah] (two pair, Fives and Deuces)
+ederpalasson: shows [Kc Jc] (a pair of Deuces)
+MezuuÜuuT collected 18835 from pot
+*** SUMMARY ***
+Total pot 18835 | Rake 0 
+Board [Qs 2d 5c 9h 2c]
+Seat 2: MezuuÜuuT (big blind) showed [5h Ah] and won (18835) with two pair, Fives and Deuces
+Seat 3: Hjerterdame1 folded before Flop (didn't bet)
+Seat 4: ederpalasson showed [Kc Jc] and lost with a pair of Deuces
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn (button) folded before Flop (didn't bet)
+Seat 8: vagoyras (small blind) folded before Flop
+
+PokerStars Hand #251205733267: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:14:59 UTC [2024/06/26 15:14:59 ET]
+Table '3767885527 61' 8-max Seat #8 is the button
+Seat 2: MezuuÜuuT (18835 in chips) 
+Seat 3: Hjerterdame1 (104631 in chips) 
+Seat 4: ederpalasson (17818 in chips) 
+Seat 5: nacho2390 (15325 in chips) 
+Seat 6: ThalleSx (34010 in chips) 
+Seat 7: fournn (42630 in chips) 
+Seat 8: vagoyras (39474 in chips) 
+MezuuÜuuT: posts the ante 175
+Hjerterdame1: posts the ante 175
+ederpalasson: posts the ante 175
+nacho2390: posts the ante 175
+ThalleSx: posts the ante 175
+fournn: posts the ante 175
+vagoyras: posts the ante 175
+MezuuÜuuT: posts small blind 700
+Hjerterdame1: posts big blind 1400
+*** HOLE CARDS ***
+ederpalasson: folds 
+nacho2390: folds 
+ThalleSx: raises 1400 to 2800
+MyOnlyMemory is disconnected 
+fournn: folds 
+vagoyras: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+Uncalled bet (1400) returned to ThalleSx
+ThalleSx collected 4725 from pot
+ThalleSx: doesn't show hand 
+*** SUMMARY ***
+Total pot 4725 | Rake 0 
+Seat 2: MezuuÜuuT (small blind) folded before Flop
+Seat 3: Hjerterdame1 (big blind) folded before Flop
+Seat 4: ederpalasson folded before Flop (didn't bet)
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: ThalleSx collected (4725)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205741477: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:15:29 UTC [2024/06/26 15:15:29 ET]
+Table '3767885527 61' 8-max Seat #2 is the button
+Seat 1: MyOnlyMemory (25000 in chips) 
+Seat 2: MezuuÜuuT (17960 in chips) 
+Seat 3: Hjerterdame1 (103056 in chips) 
+Seat 4: ederpalasson (17643 in chips) 
+Seat 5: nacho2390 (15150 in chips) 
+Seat 6: ThalleSx (37160 in chips) 
+Seat 7: fournn (42455 in chips) 
+Seat 8: vagoyras (39299 in chips) 
+MyOnlyMemory: posts the ante 175
+MezuuÜuuT: posts the ante 175
+Hjerterdame1: posts the ante 175
+ederpalasson: posts the ante 175
+nacho2390: posts the ante 175
+ThalleSx: posts the ante 175
+fournn: posts the ante 175
+vagoyras: posts the ante 175
+Hjerterdame1: posts small blind 700
+ederpalasson: posts big blind 1400
+*** HOLE CARDS ***
+nacho2390: folds 
+ThalleSx: folds 
+fournn: folds 
+vagoyras: folds 
+MyOnlyMemory: raises 23425 to 24825 and is all-in
+MezuuÜuuT: folds 
+Hjerterdame1 has timed out
+Hjerterdame1: folds 
+Hjerterdame1 is sitting out
+ederpalasson: folds 
+Uncalled bet (23425) returned to MyOnlyMemory
+MyOnlyMemory collected 4900 from pot
+*** SUMMARY ***
+Total pot 4900 | Rake 0 
+Seat 1: MyOnlyMemory collected (4900)
+Seat 2: MezuuÜuuT (button) folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 (small blind) folded before Flop
+Seat 4: ederpalasson (big blind) folded before Flop
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205775063: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:17:33 UTC [2024/06/26 15:17:33 ET]
+Table '3767885527 61' 8-max Seat #3 is the button
+Seat 1: MyOnlyMemory (28325 in chips) 
+Seat 2: MezuuÜuuT (17785 in chips) 
+Seat 3: Hjerterdame1 (102181 in chips) is sitting out
+Seat 4: ederpalasson (16068 in chips) 
+Seat 5: nacho2390 (14975 in chips) 
+Seat 6: ThalleSx (36985 in chips) 
+Seat 7: fournn (42280 in chips) 
+Seat 8: vagoyras (39124 in chips) 
+MyOnlyMemory: posts the ante 175
+MezuuÜuuT: posts the ante 175
+Hjerterdame1: posts the ante 175
+ederpalasson: posts the ante 175
+nacho2390: posts the ante 175
+ThalleSx: posts the ante 175
+fournn: posts the ante 175
+vagoyras: posts the ante 175
+ederpalasson: posts small blind 700
+nacho2390: posts big blind 1400
+*** HOLE CARDS ***
+ThalleSx: folds 
+fournn: folds 
+vagoyras: folds 
+MyOnlyMemory: folds 
+MezuuÜuuT: raises 16210 to 17610 and is all-in
+Hjerterdame1: folds 
+ederpalasson: folds 
+nacho2390: folds 
+Uncalled bet (16210) returned to MezuuÜuuT
+MezuuÜuuT collected 4900 from pot
+MezuuÜuuT: doesn't show hand 
+*** SUMMARY ***
+Total pot 4900 | Rake 0 
+Seat 1: MyOnlyMemory folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT collected (4900)
+Seat 3: Hjerterdame1 (button) folded before Flop (didn't bet)
+Seat 4: ederpalasson (small blind) folded before Flop
+Seat 5: nacho2390 (big blind) folded before Flop
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205782758: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:18:01 UTC [2024/06/26 15:18:01 ET]
+Table '3767885527 61' 8-max Seat #4 is the button
+Seat 1: MyOnlyMemory (28150 in chips) 
+Seat 2: MezuuÜuuT (21110 in chips) 
+Seat 3: Hjerterdame1 (102006 in chips) is sitting out
+Seat 4: ederpalasson (15193 in chips) 
+Seat 5: nacho2390 (13400 in chips) 
+Seat 6: ThalleSx (36810 in chips) 
+Seat 7: fournn (42105 in chips) 
+Seat 8: vagoyras (38949 in chips) 
+MyOnlyMemory: posts the ante 175
+MezuuÜuuT: posts the ante 175
+Hjerterdame1: posts the ante 175
+ederpalasson: posts the ante 175
+nacho2390: posts the ante 175
+ThalleSx: posts the ante 175
+fournn: posts the ante 175
+vagoyras: posts the ante 175
+nacho2390: posts small blind 700
+ThalleSx: posts big blind 1400
+*** HOLE CARDS ***
+fournn: folds 
+vagoyras: folds 
+MyOnlyMemory: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: raises 13618 to 15018 and is all-in
+nacho2390: folds 
+ThalleSx: folds 
+Uncalled bet (13618) returned to ederpalasson
+ederpalasson collected 4900 from pot
+ederpalasson: doesn't show hand 
+*** SUMMARY ***
+Total pot 4900 | Rake 0 
+Seat 1: MyOnlyMemory folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 folded before Flop (didn't bet)
+Seat 4: ederpalasson (button) collected (4900)
+Seat 5: nacho2390 (small blind) folded before Flop
+Seat 6: ThalleSx (big blind) folded before Flop
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205791259: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:18:32 UTC [2024/06/26 15:18:32 ET]
+Table '3767885527 61' 8-max Seat #5 is the button
+Seat 1: MyOnlyMemory (27975 in chips) 
+Seat 2: MezuuÜuuT (20935 in chips) 
+Seat 3: Hjerterdame1 (101831 in chips) is sitting out
+Seat 4: ederpalasson (18518 in chips) 
+Seat 5: nacho2390 (12525 in chips) 
+Seat 6: ThalleSx (35235 in chips) 
+Seat 7: fournn (41930 in chips) 
+Seat 8: vagoyras (38774 in chips) 
+MyOnlyMemory: posts the ante 175
+MezuuÜuuT: posts the ante 175
+Hjerterdame1: posts the ante 175
+ederpalasson: posts the ante 175
+nacho2390: posts the ante 175
+ThalleSx: posts the ante 175
+fournn: posts the ante 175
+vagoyras: posts the ante 175
+ThalleSx: posts small blind 700
+fournn: posts big blind 1400
+*** HOLE CARDS ***
+vagoyras: folds 
+Hjerterdame1 has returned
+MyOnlyMemory: raises 1400 to 2800
+MezuuÜuuT: folds 
+Hjerterdame1: calls 2800
+ederpalasson: folds 
+nacho2390: folds 
+ThalleSx: folds 
+fournn: calls 1400
+*** FLOP *** [Th 2s Ad]
+fournn: checks 
+MyOnlyMemory: checks 
+Hjerterdame1: bets 4200
+fournn: folds 
+MyOnlyMemory: folds 
+Uncalled bet (4200) returned to Hjerterdame1
+Hjerterdame1 collected 10500 from pot
+Hjerterdame1: doesn't show hand 
+*** SUMMARY ***
+Total pot 10500 | Rake 0 
+Board [Th 2s Ad]
+Seat 1: MyOnlyMemory folded on the Flop
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 collected (10500)
+Seat 4: ederpalasson folded before Flop (didn't bet)
+Seat 5: nacho2390 (button) folded before Flop (didn't bet)
+Seat 6: ThalleSx (small blind) folded before Flop
+Seat 7: fournn (big blind) folded on the Flop
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205815348: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:20:00 UTC [2024/06/26 15:20:00 ET]
+Table '3767885527 61' 8-max Seat #6 is the button
+Seat 1: MyOnlyMemory (25000 in chips) 
+Seat 2: MezuuÜuuT (20760 in chips) 
+Seat 3: Hjerterdame1 (109356 in chips) 
+Seat 4: ederpalasson (18343 in chips) 
+Seat 5: nacho2390 (12350 in chips) 
+Seat 6: ThalleSx (34360 in chips) 
+Seat 7: fournn (38955 in chips) 
+Seat 8: vagoyras (38599 in chips) 
+MyOnlyMemory: posts the ante 200
+MezuuÜuuT: posts the ante 200
+Hjerterdame1: posts the ante 200
+ederpalasson: posts the ante 200
+nacho2390: posts the ante 200
+ThalleSx: posts the ante 200
+fournn: posts the ante 200
+vagoyras: posts the ante 200
+fournn: posts small blind 800
+vagoyras: posts big blind 1600
+*** HOLE CARDS ***
+MyOnlyMemory: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: folds 
+nacho2390: raises 10550 to 12150 and is all-in
+ThalleSx: folds 
+fournn: raises 26605 to 38755 and is all-in
+vagoyras: folds 
+Uncalled bet (26605) returned to fournn
+*** FLOP *** [Qs 4c 9d]
+*** TURN *** [Qs 4c 9d] [Jd]
+*** RIVER *** [Qs 4c 9d Jd] [7c]
+*** SHOW DOWN ***
+fournn: shows [9s Ad] (a pair of Nines)
+nacho2390: shows [Ah Jc] (a pair of Jacks)
+nacho2390 collected 27500 from pot
+*** SUMMARY ***
+Total pot 27500 | Rake 0 
+Board [Qs 4c 9d Jd 7c]
+Seat 1: MyOnlyMemory folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 folded before Flop (didn't bet)
+Seat 4: ederpalasson folded before Flop (didn't bet)
+Seat 5: nacho2390 showed [Ah Jc] and won (27500) with a pair of Jacks
+Seat 6: ThalleSx (button) folded before Flop (didn't bet)
+Seat 7: fournn (small blind) showed [9s Ad] and lost with a pair of Nines
+Seat 8: vagoyras (big blind) folded before Flop
+
+PokerStars Hand #251205827390: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:20:45 UTC [2024/06/26 15:20:45 ET]
+Table '3767885527 61' 8-max Seat #7 is the button
+Seat 1: MyOnlyMemory (24800 in chips) 
+Seat 2: MezuuÜuuT (20560 in chips) 
+Seat 3: Hjerterdame1 (109156 in chips) 
+Seat 4: ederpalasson (18143 in chips) 
+Seat 5: nacho2390 (27500 in chips) 
+Seat 6: ThalleSx (34160 in chips) 
+Seat 7: fournn (26605 in chips) 
+Seat 8: vagoyras (36799 in chips) 
+MyOnlyMemory: posts the ante 200
+MezuuÜuuT: posts the ante 200
+Hjerterdame1: posts the ante 200
+ederpalasson: posts the ante 200
+nacho2390: posts the ante 200
+ThalleSx: posts the ante 200
+fournn: posts the ante 200
+vagoyras: posts the ante 200
+vagoyras: posts small blind 800
+MyOnlyMemory: posts big blind 1600
+*** HOLE CARDS ***
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: folds 
+nacho2390: calls 1600
+ThalleSx: folds 
+fournn: folds 
+vagoyras: raises 4000 to 5600
+MyOnlyMemory: folds 
+nacho2390: folds 
+Uncalled bet (4000) returned to vagoyras
+vagoyras collected 6400 from pot
+vagoyras: doesn't show hand 
+*** SUMMARY ***
+Total pot 6400 | Rake 0 
+Seat 1: MyOnlyMemory (big blind) folded before Flop
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 folded before Flop (didn't bet)
+Seat 4: ederpalasson folded before Flop (didn't bet)
+Seat 5: nacho2390 folded before Flop
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn (button) folded before Flop (didn't bet)
+Seat 8: vagoyras (small blind) collected (6400)
+
+PokerStars Hand #251205846835: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:21:56 UTC [2024/06/26 15:21:56 ET]
+Table '3767885527 61' 8-max Seat #8 is the button
+Seat 1: MyOnlyMemory (23000 in chips) 
+Seat 2: MezuuÜuuT (20360 in chips) 
+Seat 3: Hjerterdame1 (108956 in chips) 
+Seat 4: ederpalasson (17943 in chips) 
+Seat 5: nacho2390 (25700 in chips) 
+Seat 6: ThalleSx (33960 in chips) 
+Seat 7: fournn (26405 in chips) 
+Seat 8: vagoyras (41399 in chips) 
+MyOnlyMemory: posts the ante 200
+MezuuÜuuT: posts the ante 200
+Hjerterdame1: posts the ante 200
+ederpalasson: posts the ante 200
+nacho2390: posts the ante 200
+ThalleSx: posts the ante 200
+fournn: posts the ante 200
+vagoyras: posts the ante 200
+MyOnlyMemory: posts small blind 800
+MezuuÜuuT: posts big blind 1600
+*** HOLE CARDS ***
+Hjerterdame1: raises 1600 to 3200
+ederpalasson: folds 
+nacho2390: folds 
+ThalleSx: folds 
+fournn: folds 
+vagoyras: folds 
+MyOnlyMemory: raises 19600 to 22800 and is all-in
+MezuuÜuuT: folds 
+Hjerterdame1: folds [Ah]
+Uncalled bet (19600) returned to MyOnlyMemory
+MyOnlyMemory collected 9600 from pot
+*** SUMMARY ***
+Total pot 9600 | Rake 0 
+Seat 1: MyOnlyMemory (small blind) collected (9600)
+Seat 2: MezuuÜuuT (big blind) folded before Flop
+Seat 3: Hjerterdame1 folded before Flop
+Seat 4: ederpalasson folded before Flop (didn't bet)
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205858889: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:22:40 UTC [2024/06/26 15:22:40 ET]
+Table '3767885527 61' 8-max Seat #1 is the button
+Seat 1: MyOnlyMemory (29200 in chips) 
+Seat 2: MezuuÜuuT (18560 in chips) 
+Seat 3: Hjerterdame1 (105556 in chips) 
+Seat 4: ederpalasson (17743 in chips) 
+Seat 5: nacho2390 (25500 in chips) 
+Seat 6: ThalleSx (33760 in chips) 
+Seat 7: fournn (26205 in chips) 
+Seat 8: vagoyras (41199 in chips) 
+MyOnlyMemory: posts the ante 200
+MezuuÜuuT: posts the ante 200
+Hjerterdame1: posts the ante 200
+ederpalasson: posts the ante 200
+nacho2390: posts the ante 200
+ThalleSx: posts the ante 200
+fournn: posts the ante 200
+vagoyras: posts the ante 200
+MezuuÜuuT: posts small blind 800
+Hjerterdame1: posts big blind 1600
+*** HOLE CARDS ***
+ederpalasson: raises 1600 to 3200
+nacho2390: folds 
+ThalleSx: folds 
+fournn: folds 
+vagoyras: folds 
+MyOnlyMemory: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+Uncalled bet (1600) returned to ederpalasson
+ederpalasson collected 5600 from pot
+ederpalasson: doesn't show hand 
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Seat 1: MyOnlyMemory (button) folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT (small blind) folded before Flop
+Seat 3: Hjerterdame1 (big blind) folded before Flop
+Seat 4: ederpalasson collected (5600)
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205863876: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:22:58 UTC [2024/06/26 15:22:58 ET]
+Table '3767885527 61' 8-max Seat #2 is the button
+Seat 1: MyOnlyMemory (29000 in chips) 
+Seat 2: MezuuÜuuT (17560 in chips) 
+Seat 3: Hjerterdame1 (103756 in chips) 
+Seat 4: ederpalasson (21543 in chips) 
+Seat 5: nacho2390 (25300 in chips) 
+Seat 6: ThalleSx (33560 in chips) 
+Seat 7: fournn (26005 in chips) 
+Seat 8: vagoyras (40999 in chips) 
+MyOnlyMemory: posts the ante 200
+MezuuÜuuT: posts the ante 200
+Hjerterdame1: posts the ante 200
+ederpalasson: posts the ante 200
+nacho2390: posts the ante 200
+ThalleSx: posts the ante 200
+fournn: posts the ante 200
+vagoyras: posts the ante 200
+Hjerterdame1: posts small blind 800
+ederpalasson: posts big blind 1600
+*** HOLE CARDS ***
+nacho2390: folds 
+ThalleSx: folds 
+fournn: folds 
+vagoyras: raises 1600 to 3200
+MyOnlyMemory: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: calls 1600
+*** FLOP *** [Jc 7c 4d]
+ederpalasson: checks 
+vagoyras: bets 2904
+ederpalasson: folds 
+Uncalled bet (2904) returned to vagoyras
+vagoyras collected 8800 from pot
+vagoyras: doesn't show hand 
+*** SUMMARY ***
+Total pot 8800 | Rake 0 
+Board [Jc 7c 4d]
+Seat 1: MyOnlyMemory folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT (button) folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 (small blind) folded before Flop
+Seat 4: ederpalasson (big blind) folded on the Flop
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras collected (8800)
+
+PokerStars Hand #251205889213: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:24:31 UTC [2024/06/26 15:24:31 ET]
+Table '3767885527 61' 8-max Seat #3 is the button
+Seat 1: MyOnlyMemory (28800 in chips) 
+Seat 2: MezuuÜuuT (17360 in chips) 
+Seat 3: Hjerterdame1 (102756 in chips) 
+Seat 4: ederpalasson (18143 in chips) 
+Seat 5: nacho2390 (25100 in chips) 
+Seat 6: ThalleSx (33360 in chips) 
+Seat 7: fournn (25805 in chips) 
+Seat 8: vagoyras (46399 in chips) 
+MyOnlyMemory: posts the ante 200
+MezuuÜuuT: posts the ante 200
+Hjerterdame1: posts the ante 200
+ederpalasson: posts the ante 200
+nacho2390: posts the ante 200
+ThalleSx: posts the ante 200
+fournn: posts the ante 200
+vagoyras: posts the ante 200
+ederpalasson: posts small blind 800
+nacho2390: posts big blind 1600
+*** HOLE CARDS ***
+ThalleSx: folds 
+fournn: folds 
+vagoyras: folds 
+MyOnlyMemory: folds 
+MezuuÜuuT: raises 15560 to 17160 and is all-in
+Hjerterdame1: folds 
+ederpalasson: folds 
+nacho2390: folds 
+Uncalled bet (15560) returned to MezuuÜuuT
+MezuuÜuuT collected 5600 from pot
+MezuuÜuuT: doesn't show hand 
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Seat 1: MyOnlyMemory folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT collected (5600)
+Seat 3: Hjerterdame1 (button) folded before Flop (didn't bet)
+Seat 4: ederpalasson (small blind) folded before Flop
+Seat 5: nacho2390 (big blind) folded before Flop
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205901575: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:25:15 UTC [2024/06/26 15:25:15 ET]
+Table '3767885527 61' 8-max Seat #4 is the button
+Seat 1: MyOnlyMemory (28600 in chips) 
+Seat 2: MezuuÜuuT (21160 in chips) 
+Seat 3: Hjerterdame1 (102556 in chips) 
+Seat 4: ederpalasson (17143 in chips) 
+Seat 5: nacho2390 (23300 in chips) 
+Seat 6: ThalleSx (33160 in chips) 
+Seat 7: fournn (25605 in chips) 
+Seat 8: vagoyras (46199 in chips) 
+MyOnlyMemory: posts the ante 200
+MezuuÜuuT: posts the ante 200
+Hjerterdame1: posts the ante 200
+ederpalasson: posts the ante 200
+nacho2390: posts the ante 200
+ThalleSx: posts the ante 200
+fournn: posts the ante 200
+vagoyras: posts the ante 200
+nacho2390: posts small blind 800
+ThalleSx: posts big blind 1600
+*** HOLE CARDS ***
+fournn: folds 
+vagoyras: folds 
+MyOnlyMemory: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: folds 
+nacho2390: raises 21500 to 23100 and is all-in
+ThalleSx: folds 
+Uncalled bet (21500) returned to nacho2390
+nacho2390 collected 4800 from pot
+nacho2390: doesn't show hand 
+*** SUMMARY ***
+Total pot 4800 | Rake 0 
+Seat 1: MyOnlyMemory folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 folded before Flop (didn't bet)
+Seat 4: ederpalasson (button) folded before Flop (didn't bet)
+Seat 5: nacho2390 (small blind) collected (4800)
+Seat 6: ThalleSx (big blind) folded before Flop
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205909946: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:25:46 UTC [2024/06/26 15:25:46 ET]
+Table '3767885527 61' 8-max Seat #5 is the button
+Seat 1: MyOnlyMemory (28400 in chips) 
+Seat 2: MezuuÜuuT (20960 in chips) 
+Seat 3: Hjerterdame1 (102356 in chips) 
+Seat 4: ederpalasson (16943 in chips) 
+Seat 5: nacho2390 (26300 in chips) 
+Seat 6: ThalleSx (31360 in chips) 
+Seat 7: fournn (25405 in chips) 
+Seat 8: vagoyras (45999 in chips) 
+MyOnlyMemory: posts the ante 200
+MezuuÜuuT: posts the ante 200
+Hjerterdame1: posts the ante 200
+ederpalasson: posts the ante 200
+nacho2390: posts the ante 200
+ThalleSx: posts the ante 200
+fournn: posts the ante 200
+vagoyras: posts the ante 200
+ThalleSx: posts small blind 800
+fournn: posts big blind 1600
+*** HOLE CARDS ***
+vagoyras: folds 
+MyOnlyMemory: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: folds 
+nacho2390: raises 24500 to 26100 and is all-in
+ThalleSx: folds 
+fournn: folds 
+Uncalled bet (24500) returned to nacho2390
+nacho2390 collected 5600 from pot
+nacho2390: doesn't show hand 
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Seat 1: MyOnlyMemory folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 folded before Flop (didn't bet)
+Seat 4: ederpalasson folded before Flop (didn't bet)
+Seat 5: nacho2390 (button) collected (5600)
+Seat 6: ThalleSx (small blind) folded before Flop
+Seat 7: fournn (big blind) folded before Flop
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205922095: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:26:30 UTC [2024/06/26 15:26:30 ET]
+Table '3767885527 61' 8-max Seat #6 is the button
+Seat 1: MyOnlyMemory (28200 in chips) 
+Seat 2: MezuuÜuuT (20760 in chips) 
+Seat 3: Hjerterdame1 (102156 in chips) 
+Seat 4: ederpalasson (16743 in chips) 
+Seat 5: nacho2390 (30100 in chips) 
+Seat 6: ThalleSx (30360 in chips) 
+Seat 7: fournn (23605 in chips) 
+Seat 8: vagoyras (45799 in chips) 
+MyOnlyMemory: posts the ante 200
+MezuuÜuuT: posts the ante 200
+Hjerterdame1: posts the ante 200
+ederpalasson: posts the ante 200
+nacho2390: posts the ante 200
+ThalleSx: posts the ante 200
+fournn: posts the ante 200
+vagoyras: posts the ante 200
+fournn: posts small blind 800
+vagoyras: posts big blind 1600
+*** HOLE CARDS ***
+MyOnlyMemory: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: raises 1600 to 3200
+ederpalasson: folds 
+nacho2390: folds 
+ThalleSx: folds 
+fournn: calls 2400
+vagoyras: raises 8800 to 12000
+Hjerterdame1: folds 
+fournn: folds 
+Uncalled bet (8800) returned to vagoyras
+vagoyras collected 11200 from pot
+vagoyras: doesn't show hand 
+*** SUMMARY ***
+Total pot 11200 | Rake 0 
+Seat 1: MyOnlyMemory folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 folded before Flop
+Seat 4: ederpalasson folded before Flop (didn't bet)
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: ThalleSx (button) folded before Flop (didn't bet)
+Seat 7: fournn (small blind) folded before Flop
+Seat 8: vagoyras (big blind) collected (11200)
+
+PokerStars Hand #251205934739: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:27:17 UTC [2024/06/26 15:27:17 ET]
+Table '3767885527 61' 8-max Seat #7 is the button
+Seat 1: MyOnlyMemory (28000 in chips) 
+Seat 2: MezuuÜuuT (20560 in chips) 
+Seat 3: Hjerterdame1 (98756 in chips) 
+Seat 4: ederpalasson (16543 in chips) 
+Seat 5: nacho2390 (29900 in chips) 
+Seat 6: ThalleSx (30160 in chips) 
+Seat 7: fournn (20205 in chips) 
+Seat 8: vagoyras (53599 in chips) 
+MyOnlyMemory: posts the ante 200
+MezuuÜuuT: posts the ante 200
+Hjerterdame1: posts the ante 200
+ederpalasson: posts the ante 200
+nacho2390: posts the ante 200
+ThalleSx: posts the ante 200
+fournn: posts the ante 200
+vagoyras: posts the ante 200
+vagoyras: posts small blind 800
+MyOnlyMemory: posts big blind 1600
+*** HOLE CARDS ***
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: raises 14400 to 16000
+nacho2390: folds 
+ThalleSx: folds 
+fournn: raises 4005 to 20005 and is all-in
+vagoyras: folds 
+MyOnlyMemory: folds 
+ederpalasson: calls 343 and is all-in
+Uncalled bet (3662) returned to fournn
+*** FLOP *** [8s Td 5d]
+*** TURN *** [8s Td 5d] [As]
+*** RIVER *** [8s Td 5d As] [4d]
+*** SHOW DOWN ***
+ederpalasson: shows [5s 5c] (three of a kind, Fives)
+fournn: shows [Ac Qc] (a pair of Aces)
+ederpalasson collected 36686 from pot
+*** SUMMARY ***
+Total pot 36686 | Rake 0 
+Board [8s Td 5d As 4d]
+Seat 1: MyOnlyMemory (big blind) folded before Flop
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 folded before Flop (didn't bet)
+Seat 4: ederpalasson showed [5s 5c] and won (36686) with three of a kind, Fives
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: ThalleSx folded before Flop (didn't bet)
+Seat 7: fournn (button) showed [Ac Qc] and lost with a pair of Aces
+Seat 8: vagoyras (small blind) folded before Flop
+
+PokerStars Hand #251205945216: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:27:56 UTC [2024/06/26 15:27:56 ET]
+Table '3767885527 61' 8-max Seat #8 is the button
+Seat 1: MyOnlyMemory (26200 in chips) 
+Seat 2: MezuuÜuuT (20360 in chips) 
+Seat 3: Hjerterdame1 (98556 in chips) 
+Seat 4: ederpalasson (36686 in chips) 
+Seat 5: nacho2390 (29700 in chips) 
+Seat 6: ThalleSx (29960 in chips) 
+Seat 7: fournn (3662 in chips) 
+Seat 8: vagoyras (52599 in chips) 
+MyOnlyMemory: posts the ante 200
+MezuuÜuuT: posts the ante 200
+Hjerterdame1: posts the ante 200
+ederpalasson: posts the ante 200
+nacho2390: posts the ante 200
+ThalleSx: posts the ante 200
+fournn: posts the ante 200
+vagoyras: posts the ante 200
+MyOnlyMemory: posts small blind 800
+MezuuÜuuT: posts big blind 1600
+*** HOLE CARDS ***
+Hjerterdame1: calls 1600
+ederpalasson: folds 
+nacho2390: folds 
+ThalleSx: raises 3200 to 4800
+fournn: folds 
+vagoyras: folds 
+MyOnlyMemory: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: calls 3200
+*** FLOP *** [6h 9c 2s]
+Hjerterdame1: checks 
+ThalleSx: bets 4160
+Hjerterdame1: raises 10960 to 15120
+ThalleSx: raises 9840 to 24960 and is all-in
+Hjerterdame1: calls 9840
+*** TURN *** [6h 9c 2s] [8s]
+*** RIVER *** [6h 9c 2s 8s] [7h]
+*** SHOW DOWN ***
+Hjerterdame1: shows [9d Td] (a straight, Six to Ten)
+ThalleSx: shows [Jd Js] (a pair of Jacks)
+Hjerterdame1 collected 63520 from pot
+ThalleSx finished the tournament
+*** SUMMARY ***
+Total pot 63520 | Rake 0 
+Board [6h 9c 2s 8s 7h]
+Seat 1: MyOnlyMemory (small blind) folded before Flop
+Seat 2: MezuuÜuuT (big blind) folded before Flop
+Seat 3: Hjerterdame1 showed [9d Td] and won (63520) with a straight, Six to Ten
+Seat 4: ederpalasson folded before Flop (didn't bet)
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: ThalleSx showed [Jd Js] and lost with a pair of Jacks
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205964100: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:29:07 UTC [2024/06/26 15:29:07 ET]
+Table '3767885527 61' 8-max Seat #1 is the button
+Seat 1: MyOnlyMemory (25200 in chips) 
+Seat 2: MezuuÜuuT (18560 in chips) 
+Seat 3: Hjerterdame1 (132116 in chips) 
+Seat 4: ederpalasson (36486 in chips) 
+Seat 5: nacho2390 (29500 in chips) 
+Seat 7: fournn (3462 in chips) 
+Seat 8: vagoyras (52399 in chips) 
+MyOnlyMemory: posts the ante 200
+MezuuÜuuT: posts the ante 200
+Hjerterdame1: posts the ante 200
+ederpalasson: posts the ante 200
+nacho2390: posts the ante 200
+fournn: posts the ante 200
+vagoyras: posts the ante 200
+MezuuÜuuT: posts small blind 800
+Hjerterdame1: posts big blind 1600
+*** HOLE CARDS ***
+ederpalasson: folds 
+nacho2390: raises 1600 to 3200
+fournn: folds 
+vagoyras: folds 
+MyOnlyMemory: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+Uncalled bet (1600) returned to nacho2390
+nacho2390 collected 5400 from pot
+nacho2390: doesn't show hand 
+*** SUMMARY ***
+Total pot 5400 | Rake 0 
+Seat 1: MyOnlyMemory (button) folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT (small blind) folded before Flop
+Seat 3: Hjerterdame1 (big blind) folded before Flop
+Seat 4: ederpalasson folded before Flop (didn't bet)
+Seat 5: nacho2390 collected (5400)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205972453: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:29:37 UTC [2024/06/26 15:29:37 ET]
+Table '3767885527 61' 8-max Seat #2 is the button
+Seat 1: MyOnlyMemory (25000 in chips) 
+Seat 2: MezuuÜuuT (17560 in chips) 
+Seat 3: Hjerterdame1 (130316 in chips) 
+Seat 4: ederpalasson (36286 in chips) 
+Seat 5: nacho2390 (33100 in chips) 
+Seat 7: fournn (3262 in chips) 
+Seat 8: vagoyras (52199 in chips) 
+MyOnlyMemory: posts the ante 250
+MezuuÜuuT: posts the ante 250
+Hjerterdame1: posts the ante 250
+ederpalasson: posts the ante 250
+nacho2390: posts the ante 250
+fournn: posts the ante 250
+vagoyras: posts the ante 250
+Hjerterdame1: posts small blind 1000
+ederpalasson: posts big blind 2000
+*** HOLE CARDS ***
+nacho2390: folds 
+XARANDROS is disconnected 
+fournn: folds 
+vagoyras: raises 2000 to 4000
+MyOnlyMemory: raises 20750 to 24750 and is all-in
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: folds 
+vagoyras: folds 
+Uncalled bet (20750) returned to MyOnlyMemory
+MyOnlyMemory collected 12750 from pot
+*** SUMMARY ***
+Total pot 12750 | Rake 0 
+Seat 1: MyOnlyMemory collected (12750)
+Seat 2: MezuuÜuuT (button) folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 (small blind) folded before Flop
+Seat 4: ederpalasson (big blind) folded before Flop
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras folded before Flop
+
+PokerStars Hand #251205985005: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:30:23 UTC [2024/06/26 15:30:23 ET]
+Table '3767885527 61' 8-max Seat #3 is the button
+Seat 1: MyOnlyMemory (33500 in chips) 
+Seat 2: MezuuÜuuT (17310 in chips) 
+Seat 3: Hjerterdame1 (129066 in chips) 
+Seat 4: ederpalasson (34036 in chips) 
+Seat 5: nacho2390 (32850 in chips) 
+Seat 6: XARANDROS (25000 in chips) 
+Seat 7: fournn (3012 in chips) 
+Seat 8: vagoyras (47949 in chips) 
+MyOnlyMemory: posts the ante 250
+MezuuÜuuT: posts the ante 250
+Hjerterdame1: posts the ante 250
+ederpalasson: posts the ante 250
+nacho2390: posts the ante 250
+XARANDROS: posts the ante 250
+fournn: posts the ante 250
+vagoyras: posts the ante 250
+ederpalasson: posts small blind 1000
+nacho2390: posts big blind 2000
+*** HOLE CARDS ***
+XARANDROS: raises 7000 to 9000
+fournn: folds 
+vagoyras: folds 
+MyOnlyMemory: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: folds 
+nacho2390: folds 
+Uncalled bet (7000) returned to XARANDROS
+XARANDROS collected 7000 from pot
+*** SUMMARY ***
+Total pot 7000 | Rake 0 
+Seat 1: MyOnlyMemory folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 (button) folded before Flop (didn't bet)
+Seat 4: ederpalasson (small blind) folded before Flop
+Seat 5: nacho2390 (big blind) folded before Flop
+Seat 6: XARANDROS collected (7000)
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251205996344: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:31:04 UTC [2024/06/26 15:31:04 ET]
+Table '3767885527 61' 8-max Seat #4 is the button
+Seat 1: MyOnlyMemory (33250 in chips) 
+Seat 2: MezuuÜuuT (17060 in chips) 
+Seat 3: Hjerterdame1 (128816 in chips) 
+Seat 4: ederpalasson (32786 in chips) 
+Seat 5: nacho2390 (30600 in chips) 
+Seat 6: XARANDROS (29750 in chips) 
+Seat 7: fournn (2762 in chips) 
+Seat 8: vagoyras (47699 in chips) 
+MyOnlyMemory: posts the ante 250
+MezuuÜuuT: posts the ante 250
+Hjerterdame1: posts the ante 250
+ederpalasson: posts the ante 250
+nacho2390: posts the ante 250
+XARANDROS: posts the ante 250
+fournn: posts the ante 250
+vagoyras: posts the ante 250
+nacho2390: posts small blind 1000
+XARANDROS: posts big blind 2000
+*** HOLE CARDS ***
+fournn: folds 
+vagoyras: folds 
+MyOnlyMemory: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: raises 4000 to 6000
+ederpalasson: folds 
+nacho2390: folds 
+XARANDROS: calls 4000
+*** FLOP *** [9h As 3h]
+XARANDROS: checks 
+Hjerterdame1: bets 6000
+XARANDROS: folds 
+Uncalled bet (6000) returned to Hjerterdame1
+Hjerterdame1 collected 15000 from pot
+Hjerterdame1: doesn't show hand 
+*** SUMMARY ***
+Total pot 15000 | Rake 0 
+Board [9h As 3h]
+Seat 1: MyOnlyMemory folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 collected (15000)
+Seat 4: ederpalasson (button) folded before Flop (didn't bet)
+Seat 5: nacho2390 (small blind) folded before Flop
+Seat 6: XARANDROS (big blind) folded on the Flop
+Seat 7: fournn folded before Flop (didn't bet)
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251206018648: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:32:25 UTC [2024/06/26 15:32:25 ET]
+Table '3767885527 61' 8-max Seat #5 is the button
+Seat 1: MyOnlyMemory (33000 in chips) 
+Seat 2: MezuuÜuuT (16810 in chips) 
+Seat 3: Hjerterdame1 (137566 in chips) 
+Seat 4: ederpalasson (32536 in chips) 
+Seat 5: nacho2390 (29350 in chips) 
+Seat 6: XARANDROS (23500 in chips) 
+Seat 7: fournn (2512 in chips) 
+Seat 8: vagoyras (47449 in chips) 
+MyOnlyMemory: posts the ante 250
+MezuuÜuuT: posts the ante 250
+Hjerterdame1: posts the ante 250
+ederpalasson: posts the ante 250
+nacho2390: posts the ante 250
+XARANDROS: posts the ante 250
+fournn: posts the ante 250
+vagoyras: posts the ante 250
+XARANDROS: posts small blind 1000
+fournn: posts big blind 2000
+*** HOLE CARDS ***
+vagoyras: folds 
+MyOnlyMemory: raises 2000 to 4000
+MezuuÜuuT: folds 
+Hjerterdame1: calls 4000
+ederpalasson: calls 4000
+nacho2390: raises 25100 to 29100 and is all-in
+XARANDROS: folds 
+fournn: calls 262 and is all-in
+MyOnlyMemory: raises 3650 to 32750 and is all-in
+Hjerterdame1: folds 
+ederpalasson: folds 
+Uncalled bet (3650) returned to MyOnlyMemory
+*** FLOP *** [Ad 6d 8h]
+*** TURN *** [Ad 6d 8h] [3d]
+*** RIVER *** [Ad 6d 8h 3d] [3h]
+*** SHOW DOWN ***
+MyOnlyMemory: shows [5c 5h] (two pair, Fives and Threes)
+nacho2390: shows [Ac Jh] (two pair, Aces and Threes)
+nacho2390 collected 57152 from side pot
+fournn: shows [Qd 4d] (a flush, Ace high)
+fournn collected 14310 from main pot
+*** SUMMARY ***
+Total pot 71462 Main pot 14310. Side pot 57152. | Rake 0 
+Board [Ad 6d 8h 3d 3h]
+Seat 1: MyOnlyMemory showed [5c 5h] and lost with two pair, Fives and Threes
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 folded before Flop
+Seat 4: ederpalasson folded before Flop
+Seat 5: nacho2390 (button) showed [Ac Jh] and won (57152) with two pair, Aces and Threes
+Seat 6: XARANDROS (small blind) folded before Flop
+Seat 7: fournn (big blind) showed [Qd 4d] and won (14310) with a flush, Ace high
+Seat 8: vagoyras folded before Flop (didn't bet)
+
+PokerStars Hand #251206037259: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:33:33 UTC [2024/06/26 15:33:33 ET]
+Table '3767885527 61' 8-max Seat #6 is the button
+Seat 1: MyOnlyMemory (3650 in chips) 
+Seat 2: MezuuÜuuT (16560 in chips) 
+Seat 3: Hjerterdame1 (133316 in chips) 
+Seat 4: ederpalasson (28286 in chips) 
+Seat 5: nacho2390 (57152 in chips) 
+Seat 6: XARANDROS (22250 in chips) 
+Seat 7: fournn (14310 in chips) 
+Seat 8: vagoyras (47199 in chips) 
+MyOnlyMemory: posts the ante 250
+MezuuÜuuT: posts the ante 250
+Hjerterdame1: posts the ante 250
+ederpalasson: posts the ante 250
+nacho2390: posts the ante 250
+XARANDROS: posts the ante 250
+fournn: posts the ante 250
+vagoyras: posts the ante 250
+fournn: posts small blind 1000
+vagoyras: posts big blind 2000
+*** HOLE CARDS ***
+MyOnlyMemory: folds 
+MezuuÜuuT: folds 
+Hjerterdame1: raises 4000 to 6000
+ederpalasson: folds 
+nacho2390: folds 
+XARANDROS: folds 
+fournn: folds 
+vagoyras: folds 
+Uncalled bet (4000) returned to Hjerterdame1
+Hjerterdame1 collected 7000 from pot
+Hjerterdame1: doesn't show hand 
+*** SUMMARY ***
+Total pot 7000 | Rake 0 
+Seat 1: MyOnlyMemory folded before Flop (didn't bet)
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 collected (7000)
+Seat 4: ederpalasson folded before Flop (didn't bet)
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: XARANDROS (button) folded before Flop (didn't bet)
+Seat 7: fournn (small blind) folded before Flop
+Seat 8: vagoyras (big blind) folded before Flop
+
+PokerStars Hand #251206052041: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:34:27 UTC [2024/06/26 15:34:27 ET]
+Table '3767885527 61' 8-max Seat #7 is the button
+Seat 1: MyOnlyMemory (3400 in chips) 
+Seat 2: MezuuÜuuT (16310 in chips) 
+Seat 3: Hjerterdame1 (138066 in chips) 
+Seat 4: ederpalasson (28036 in chips) 
+Seat 5: nacho2390 (56902 in chips) 
+Seat 6: XARANDROS (22000 in chips) 
+Seat 7: fournn (13060 in chips) 
+Seat 8: vagoyras (44949 in chips) 
+MyOnlyMemory: posts the ante 250
+MezuuÜuuT: posts the ante 250
+Hjerterdame1: posts the ante 250
+ederpalasson: posts the ante 250
+nacho2390: posts the ante 250
+XARANDROS: posts the ante 250
+fournn: posts the ante 250
+vagoyras: posts the ante 250
+vagoyras: posts small blind 1000
+MyOnlyMemory: posts big blind 2000
+*** HOLE CARDS ***
+MezuuÜuuT: folds 
+Hjerterdame1: folds 
+ederpalasson: raises 2000 to 4000
+nacho2390: folds 
+XARANDROS: folds 
+fournn: raises 8810 to 12810 and is all-in
+vagoyras: folds 
+MyOnlyMemory: calls 1150 and is all-in
+ederpalasson: calls 8810
+*** FLOP *** [Tc 9s 6c]
+*** TURN *** [Tc 9s 6c] [Js]
+*** RIVER *** [Tc 9s 6c Js] [9d]
+*** SHOW DOWN ***
+ederpalasson: shows [Qh As] (a pair of Nines)
+fournn: shows [Ac Ts] (two pair, Tens and Nines)
+fournn collected 19320 from side pot
+MyOnlyMemory: shows [5d 6h] (two pair, Nines and Sixes)
+fournn collected 12450 from main pot
+MyOnlyMemory is sitting out
+MyOnlyMemory finished the tournament
+*** SUMMARY ***
+Total pot 31770 Main pot 12450. Side pot 19320. | Rake 0 
+Board [Tc 9s 6c Js 9d]
+Seat 1: MyOnlyMemory (big blind) showed [5d 6h] and lost with two pair, Nines and Sixes
+Seat 2: MezuuÜuuT folded before Flop (didn't bet)
+Seat 3: Hjerterdame1 folded before Flop (didn't bet)
+Seat 4: ederpalasson showed [Qh As] and lost with a pair of Nines
+Seat 5: nacho2390 folded before Flop (didn't bet)
+Seat 6: XARANDROS folded before Flop (didn't bet)
+Seat 7: fournn (button) showed [Ac Ts] and won (31770) with two pair, Tens and Nines
+Seat 8: vagoyras (small blind) folded before Flop

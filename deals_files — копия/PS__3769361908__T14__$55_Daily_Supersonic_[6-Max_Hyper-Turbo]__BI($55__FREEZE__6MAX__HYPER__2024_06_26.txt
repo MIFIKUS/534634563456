@@ -1,0 +1,1916 @@
+PokerStars Hand #251209148851: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level III (40/80) - 2024/06/26 22:08:45 UTC [2024/06/26 18:08:45 ET]
+Table '3769361908 14' 6-max Seat #5 is the button
+Seat 1: dulek_jason (11287 in chips) 
+Seat 2: jessecesar (8520 in chips) 
+Seat 3: whaleptt (9605 in chips) 
+Seat 4: Go4ElvIS (8330 in chips) 
+Seat 5: mennck (6434 in chips) 
+dulek_jason: posts the ante 20
+jessecesar: posts the ante 20
+whaleptt: posts the ante 20
+Go4ElvIS: posts the ante 20
+mennck: posts the ante 20
+dulek_jason: posts small blind 40
+jessecesar: posts big blind 80
+*** HOLE CARDS ***
+whaleptt: folds 
+Go4ElvIS: folds 
+mennck: folds 
+dulek_jason: calls 40
+$aymon9 is disconnected 
+jessecesar: raises 240 to 320
+dulek_jason: calls 240
+*** FLOP *** [Qc Ac 8s]
+dulek_jason: checks 
+jessecesar: checks 
+*** TURN *** [Qc Ac 8s] [3c]
+dulek_jason: checks 
+jessecesar: checks 
+*** RIVER *** [Qc Ac 8s 3c] [5h]
+dulek_jason: bets 548
+jessecesar: folds 
+Uncalled bet (548) returned to dulek_jason
+dulek_jason collected 740 from pot
+dulek_jason: doesn't show hand 
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [Qc Ac 8s 3c 5h]
+Seat 1: dulek_jason (small blind) collected (740)
+Seat 2: jessecesar (big blind) folded on the River
+Seat 3: whaleptt folded before Flop (didn't bet)
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209174666: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level III (40/80) - 2024/06/26 22:10:13 UTC [2024/06/26 18:10:13 ET]
+Table '3769361908 14' 6-max Seat #1 is the button
+Seat 1: dulek_jason (11687 in chips) 
+Seat 2: jessecesar (8180 in chips) 
+Seat 3: whaleptt (9585 in chips) 
+Seat 4: Go4ElvIS (8310 in chips) 
+Seat 5: mennck (6414 in chips) 
+Seat 6: $aymon9 (10000 in chips) 
+dulek_jason: posts the ante 20
+jessecesar: posts the ante 20
+whaleptt: posts the ante 20
+Go4ElvIS: posts the ante 20
+mennck: posts the ante 20
+$aymon9: posts the ante 20
+jessecesar: posts small blind 40
+whaleptt: posts big blind 80
+*** HOLE CARDS ***
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: folds 
+dulek_jason: raises 91 to 171
+jessecesar: calls 131
+whaleptt: folds 
+*** FLOP *** [5h Kc 7c]
+jessecesar: checks 
+dulek_jason: bets 179
+jessecesar: raises 621 to 800
+dulek_jason: folds 
+Uncalled bet (621) returned to jessecesar
+jessecesar collected 900 from pot
+jessecesar: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [5h Kc 7c]
+Seat 1: dulek_jason (button) folded on the Flop
+Seat 2: jessecesar (small blind) collected (900)
+Seat 3: whaleptt (big blind) folded before Flop
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 folded before Flop (didn't bet)
+
+PokerStars Hand #251209192049: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IV (50/100) - 2024/06/26 22:11:13 UTC [2024/06/26 18:11:13 ET]
+Table '3769361908 14' 6-max Seat #2 is the button
+Seat 1: dulek_jason (11317 in chips) 
+Seat 2: jessecesar (8710 in chips) 
+Seat 3: whaleptt (9485 in chips) 
+Seat 4: Go4ElvIS (8290 in chips) 
+Seat 5: mennck (6394 in chips) 
+Seat 6: $aymon9 (9980 in chips) 
+dulek_jason: posts the ante 25
+jessecesar: posts the ante 25
+whaleptt: posts the ante 25
+Go4ElvIS: posts the ante 25
+mennck: posts the ante 25
+$aymon9: posts the ante 25
+whaleptt: posts small blind 50
+Go4ElvIS: posts big blind 100
+*** HOLE CARDS ***
+mennck: folds 
+$aymon9: raises 100 to 200
+dulek_jason: folds 
+jessecesar: calls 200
+whaleptt: calls 150
+Go4ElvIS: calls 100
+*** FLOP *** [9c 6s 2d]
+whaleptt: checks 
+Go4ElvIS: checks 
+$aymon9: bets 314
+jessecesar: folds 
+whaleptt: calls 314
+Go4ElvIS: folds 
+*** TURN *** [9c 6s 2d] [6d]
+whaleptt: bets 395
+$aymon9: calls 395
+*** RIVER *** [9c 6s 2d 6d] [Qd]
+whaleptt: bets 1965
+$aymon9: calls 1965
+*** SHOW DOWN ***
+whaleptt: shows [7s As] (a pair of Sixes)
+$aymon9: shows [Tc Td] (two pair, Tens and Sixes)
+$aymon9 collected 6298 from pot
+*** SUMMARY ***
+Total pot 6298 | Rake 0 
+Board [9c 6s 2d 6d Qd]
+Seat 1: dulek_jason folded before Flop (didn't bet)
+Seat 2: jessecesar (button) folded on the Flop
+Seat 3: whaleptt (small blind) showed [7s As] and lost with a pair of Sixes
+Seat 4: Go4ElvIS (big blind) folded on the Flop
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 showed [Tc Td] and won (6298) with two pair, Tens and Sixes
+
+PokerStars Hand #251209221124: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IV (50/100) - 2024/06/26 22:12:54 UTC [2024/06/26 18:12:54 ET]
+Table '3769361908 14' 6-max Seat #3 is the button
+Seat 1: dulek_jason (11292 in chips) 
+Seat 2: jessecesar (8485 in chips) 
+Seat 3: whaleptt (6586 in chips) 
+Seat 4: Go4ElvIS (8065 in chips) 
+Seat 5: mennck (6369 in chips) 
+Seat 6: $aymon9 (13379 in chips) 
+dulek_jason: posts the ante 25
+jessecesar: posts the ante 25
+whaleptt: posts the ante 25
+Go4ElvIS: posts the ante 25
+mennck: posts the ante 25
+$aymon9: posts the ante 25
+Go4ElvIS: posts small blind 50
+mennck: posts big blind 100
+*** HOLE CARDS ***
+$aymon9: raises 100 to 200
+dulek_jason: folds 
+jessecesar: folds 
+whaleptt: folds 
+Go4ElvIS: raises 400 to 600
+mennck: folds 
+$aymon9: calls 400
+*** FLOP *** [8c Qs 4c]
+Go4ElvIS: bets 479
+$aymon9: calls 479
+*** TURN *** [8c Qs 4c] [5c]
+Go4ElvIS: checks 
+$aymon9: checks 
+*** RIVER *** [8c Qs 4c 5c] [2d]
+Go4ElvIS: checks 
+$aymon9: bets 1350
+Go4ElvIS: calls 1350
+*** SHOW DOWN ***
+$aymon9: shows [Qc Ad] (a pair of Queens)
+Go4ElvIS: mucks hand 
+$aymon9 collected 5108 from pot
+*** SUMMARY ***
+Total pot 5108 | Rake 0 
+Board [8c Qs 4c 5c 2d]
+Seat 1: dulek_jason folded before Flop (didn't bet)
+Seat 2: jessecesar folded before Flop (didn't bet)
+Seat 3: whaleptt (button) folded before Flop (didn't bet)
+Seat 4: Go4ElvIS (small blind) mucked
+Seat 5: mennck (big blind) folded before Flop
+Seat 6: $aymon9 showed [Qc Ad] and won (5108) with a pair of Queens
+
+PokerStars Hand #251209239944: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IV (50/100) - 2024/06/26 22:14:00 UTC [2024/06/26 18:14:00 ET]
+Table '3769361908 14' 6-max Seat #4 is the button
+Seat 1: dulek_jason (11267 in chips) 
+Seat 2: jessecesar (8460 in chips) 
+Seat 3: whaleptt (6561 in chips) 
+Seat 4: Go4ElvIS (5611 in chips) 
+Seat 5: mennck (6244 in chips) 
+Seat 6: $aymon9 (16033 in chips) 
+dulek_jason: posts the ante 25
+jessecesar: posts the ante 25
+whaleptt: posts the ante 25
+Go4ElvIS: posts the ante 25
+mennck: posts the ante 25
+$aymon9: posts the ante 25
+mennck: posts small blind 50
+$aymon9: posts big blind 100
+*** HOLE CARDS ***
+dulek_jason: folds 
+jessecesar: folds 
+whaleptt: raises 120 to 220
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: calls 120
+*** FLOP *** [Ad 8c 5s]
+$aymon9: checks 
+whaleptt: bets 160
+$aymon9: calls 160
+*** TURN *** [Ad 8c 5s] [Qc]
+$aymon9: checks 
+whaleptt: checks 
+*** RIVER *** [Ad 8c 5s Qc] [9c]
+$aymon9: bets 600
+whaleptt: folds 
+Uncalled bet (600) returned to $aymon9
+$aymon9 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Ad 8c 5s Qc 9c]
+Seat 1: dulek_jason folded before Flop (didn't bet)
+Seat 2: jessecesar folded before Flop (didn't bet)
+Seat 3: whaleptt folded on the River
+Seat 4: Go4ElvIS (button) folded before Flop (didn't bet)
+Seat 5: mennck (small blind) folded before Flop
+Seat 6: $aymon9 (big blind) collected (960)
+
+PokerStars Hand #251209261585: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level V (60/120) - 2024/06/26 22:15:16 UTC [2024/06/26 18:15:16 ET]
+Table '3769361908 14' 6-max Seat #5 is the button
+Seat 1: dulek_jason (11242 in chips) 
+Seat 2: jessecesar (8435 in chips) 
+Seat 3: whaleptt (6156 in chips) 
+Seat 4: Go4ElvIS (5586 in chips) 
+Seat 5: mennck (6169 in chips) 
+Seat 6: $aymon9 (16588 in chips) 
+dulek_jason: posts the ante 30
+jessecesar: posts the ante 30
+whaleptt: posts the ante 30
+Go4ElvIS: posts the ante 30
+mennck: posts the ante 30
+$aymon9: posts the ante 30
+$aymon9: posts small blind 60
+dulek_jason: posts big blind 120
+*** HOLE CARDS ***
+jessecesar: raises 120 to 240
+whaleptt: folds 
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: raises 720 to 960
+dulek_jason: folds 
+jessecesar: folds 
+Uncalled bet (720) returned to $aymon9
+$aymon9 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Seat 1: dulek_jason (big blind) folded before Flop
+Seat 2: jessecesar folded before Flop
+Seat 3: whaleptt folded before Flop (didn't bet)
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck (button) folded before Flop (didn't bet)
+Seat 6: $aymon9 (small blind) collected (780)
+
+PokerStars Hand #251209269202: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level V (60/120) - 2024/06/26 22:15:43 UTC [2024/06/26 18:15:43 ET]
+Table '3769361908 14' 6-max Seat #6 is the button
+Seat 1: dulek_jason (11092 in chips) 
+Seat 2: jessecesar (8165 in chips) 
+Seat 3: whaleptt (6126 in chips) 
+Seat 4: Go4ElvIS (5556 in chips) 
+Seat 5: mennck (6139 in chips) 
+Seat 6: $aymon9 (17098 in chips) 
+dulek_jason: posts the ante 30
+jessecesar: posts the ante 30
+whaleptt: posts the ante 30
+Go4ElvIS: posts the ante 30
+mennck: posts the ante 30
+$aymon9: posts the ante 30
+dulek_jason: posts small blind 60
+jessecesar: posts big blind 120
+*** HOLE CARDS ***
+whaleptt: folds 
+Go4ElvIS: raises 132 to 252
+mennck: folds 
+$aymon9: raises 468 to 720
+dulek_jason: folds 
+jessecesar: folds 
+Go4ElvIS: raises 4806 to 5526 and is all-in
+$aymon9: folds 
+Uncalled bet (4806) returned to Go4ElvIS
+Go4ElvIS collected 1800 from pot
+Go4ElvIS: doesn't show hand 
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Seat 1: dulek_jason (small blind) folded before Flop
+Seat 2: jessecesar (big blind) folded before Flop
+Seat 3: whaleptt folded before Flop (didn't bet)
+Seat 4: Go4ElvIS collected (1800)
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 (button) folded before Flop
+
+PokerStars Hand #251209281404: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level V (60/120) - 2024/06/26 22:16:26 UTC [2024/06/26 18:16:26 ET]
+Table '3769361908 14' 6-max Seat #1 is the button
+Seat 1: dulek_jason (11002 in chips) 
+Seat 2: jessecesar (8015 in chips) 
+Seat 3: whaleptt (6096 in chips) 
+Seat 4: Go4ElvIS (6606 in chips) 
+Seat 5: mennck (6109 in chips) 
+Seat 6: $aymon9 (16348 in chips) 
+dulek_jason: posts the ante 30
+jessecesar: posts the ante 30
+whaleptt: posts the ante 30
+Go4ElvIS: posts the ante 30
+mennck: posts the ante 30
+$aymon9: posts the ante 30
+jessecesar: posts small blind 60
+whaleptt: posts big blind 120
+*** HOLE CARDS ***
+Go4ElvIS: folds 
+mennck: raises 156 to 276
+$aymon9: folds 
+dulek_jason: folds 
+jessecesar: folds 
+whaleptt: calls 156
+*** FLOP *** [Td 8h 9c]
+whaleptt: checks 
+mennck: checks 
+*** TURN *** [Td 8h 9c] [2c]
+whaleptt: checks 
+mennck: checks 
+*** RIVER *** [Td 8h 9c 2c] [2d]
+whaleptt: checks 
+mennck: bets 436
+whaleptt: folds 
+Uncalled bet (436) returned to mennck
+mennck collected 792 from pot
+mennck: doesn't show hand 
+*** SUMMARY ***
+Total pot 792 | Rake 0 
+Board [Td 8h 9c 2c 2d]
+Seat 1: dulek_jason (button) folded before Flop (didn't bet)
+Seat 2: jessecesar (small blind) folded before Flop
+Seat 3: whaleptt (big blind) folded on the River
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck collected (792)
+Seat 6: $aymon9 folded before Flop (didn't bet)
+
+PokerStars Hand #251209296699: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VI (80/160) - 2024/06/26 22:17:21 UTC [2024/06/26 18:17:21 ET]
+Table '3769361908 14' 6-max Seat #2 is the button
+Seat 1: dulek_jason (10972 in chips) 
+Seat 2: jessecesar (7925 in chips) 
+Seat 3: whaleptt (5790 in chips) 
+Seat 4: Go4ElvIS (6576 in chips) 
+Seat 5: mennck (6595 in chips) 
+Seat 6: $aymon9 (16318 in chips) 
+dulek_jason: posts the ante 40
+jessecesar: posts the ante 40
+whaleptt: posts the ante 40
+Go4ElvIS: posts the ante 40
+mennck: posts the ante 40
+$aymon9: posts the ante 40
+whaleptt: posts small blind 80
+Go4ElvIS: posts big blind 160
+*** HOLE CARDS ***
+mennck: folds 
+$aymon9: folds 
+dulek_jason: folds 
+jessecesar: raises 160 to 320
+whaleptt: folds 
+Go4ElvIS: folds 
+Uncalled bet (160) returned to jessecesar
+jessecesar collected 640 from pot
+jessecesar: doesn't show hand 
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Seat 1: dulek_jason folded before Flop (didn't bet)
+Seat 2: jessecesar (button) collected (640)
+Seat 3: whaleptt (small blind) folded before Flop
+Seat 4: Go4ElvIS (big blind) folded before Flop
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 folded before Flop (didn't bet)
+
+PokerStars Hand #251209302238: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VI (80/160) - 2024/06/26 22:17:40 UTC [2024/06/26 18:17:40 ET]
+Table '3769361908 14' 6-max Seat #3 is the button
+Seat 1: dulek_jason (10932 in chips) 
+Seat 2: jessecesar (8365 in chips) 
+Seat 3: whaleptt (5670 in chips) 
+Seat 4: Go4ElvIS (6376 in chips) 
+Seat 5: mennck (6555 in chips) 
+Seat 6: $aymon9 (16278 in chips) 
+dulek_jason: posts the ante 40
+jessecesar: posts the ante 40
+whaleptt: posts the ante 40
+Go4ElvIS: posts the ante 40
+mennck: posts the ante 40
+$aymon9: posts the ante 40
+Go4ElvIS: posts small blind 80
+mennck: posts big blind 160
+*** HOLE CARDS ***
+$aymon9: folds 
+dulek_jason: raises 182 to 342
+jessecesar: raises 698 to 1040
+whaleptt: folds 
+Go4ElvIS: folds 
+mennck: folds 
+dulek_jason: calls 698
+*** FLOP *** [4c 7s 2c]
+dulek_jason: checks 
+jessecesar: bets 844
+dulek_jason: raises 1402 to 2246
+jessecesar: raises 5039 to 7285 and is all-in
+dulek_jason: calls 5039
+*** TURN *** [4c 7s 2c] [Ts]
+*** RIVER *** [4c 7s 2c Ts] [6h]
+*** SHOW DOWN ***
+dulek_jason: shows [9c 9d] (a pair of Nines)
+jessecesar: shows [Th Td] (three of a kind, Tens)
+jessecesar collected 17130 from pot
+*** SUMMARY ***
+Total pot 17130 | Rake 0 
+Board [4c 7s 2c Ts 6h]
+Seat 1: dulek_jason showed [9c 9d] and lost with a pair of Nines
+Seat 2: jessecesar showed [Th Td] and won (17130) with three of a kind, Tens
+Seat 3: whaleptt (button) folded before Flop (didn't bet)
+Seat 4: Go4ElvIS (small blind) folded before Flop
+Seat 5: mennck (big blind) folded before Flop
+Seat 6: $aymon9 folded before Flop (didn't bet)
+
+PokerStars Hand #251209321426: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VI (80/160) - 2024/06/26 22:18:48 UTC [2024/06/26 18:18:48 ET]
+Table '3769361908 14' 6-max Seat #4 is the button
+Seat 1: dulek_jason (2567 in chips) 
+Seat 2: jessecesar (17130 in chips) 
+Seat 3: whaleptt (5630 in chips) 
+Seat 4: Go4ElvIS (6256 in chips) 
+Seat 5: mennck (6355 in chips) 
+Seat 6: $aymon9 (16238 in chips) 
+dulek_jason: posts the ante 40
+jessecesar: posts the ante 40
+whaleptt: posts the ante 40
+Go4ElvIS: posts the ante 40
+mennck: posts the ante 40
+$aymon9: posts the ante 40
+mennck: posts small blind 80
+$aymon9: posts big blind 160
+*** HOLE CARDS ***
+dulek_jason: raises 160 to 320
+jessecesar: raises 480 to 800
+whaleptt: folds 
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: folds 
+dulek_jason: folds 
+Uncalled bet (480) returned to jessecesar
+jessecesar collected 1120 from pot
+jessecesar: doesn't show hand 
+*** SUMMARY ***
+Total pot 1120 | Rake 0 
+Seat 1: dulek_jason folded before Flop
+Seat 2: jessecesar collected (1120)
+Seat 3: whaleptt folded before Flop (didn't bet)
+Seat 4: Go4ElvIS (button) folded before Flop (didn't bet)
+Seat 5: mennck (small blind) folded before Flop
+Seat 6: $aymon9 (big blind) folded before Flop
+
+PokerStars Hand #251209330082: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VI (80/160) - 2024/06/26 22:19:20 UTC [2024/06/26 18:19:20 ET]
+Table '3769361908 14' 6-max Seat #5 is the button
+Seat 1: dulek_jason (2207 in chips) 
+Seat 2: jessecesar (17890 in chips) 
+Seat 3: whaleptt (5590 in chips) 
+Seat 4: Go4ElvIS (6216 in chips) 
+Seat 5: mennck (6235 in chips) 
+Seat 6: $aymon9 (16038 in chips) 
+dulek_jason: posts the ante 40
+jessecesar: posts the ante 40
+whaleptt: posts the ante 40
+Go4ElvIS: posts the ante 40
+mennck: posts the ante 40
+$aymon9: posts the ante 40
+$aymon9: posts small blind 80
+dulek_jason: posts big blind 160
+*** HOLE CARDS ***
+jessecesar: folds 
+whaleptt: folds 
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: raises 15838 to 15998 and is all-in
+dulek_jason: calls 2007 and is all-in
+Uncalled bet (13831) returned to $aymon9
+*** FLOP *** [7h 5d Qc]
+*** TURN *** [7h 5d Qc] [Kc]
+*** RIVER *** [7h 5d Qc Kc] [7s]
+*** SHOW DOWN ***
+$aymon9: shows [Th 9d] (a pair of Sevens)
+dulek_jason: shows [Ks 6s] (two pair, Kings and Sevens)
+dulek_jason collected 4574 from pot
+*** SUMMARY ***
+Total pot 4574 | Rake 0 
+Board [7h 5d Qc Kc 7s]
+Seat 1: dulek_jason (big blind) showed [Ks 6s] and won (4574) with two pair, Kings and Sevens
+Seat 2: jessecesar folded before Flop (didn't bet)
+Seat 3: whaleptt folded before Flop (didn't bet)
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck (button) folded before Flop (didn't bet)
+Seat 6: $aymon9 (small blind) showed [Th 9d] and lost with a pair of Sevens
+
+PokerStars Hand #251209337605: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VI (80/160) - 2024/06/26 22:19:46 UTC [2024/06/26 18:19:46 ET]
+Table '3769361908 14' 6-max Seat #6 is the button
+Seat 1: dulek_jason (4574 in chips) 
+Seat 2: jessecesar (17850 in chips) 
+Seat 3: whaleptt (5550 in chips) 
+Seat 4: Go4ElvIS (6176 in chips) 
+Seat 5: mennck (6195 in chips) 
+Seat 6: $aymon9 (13831 in chips) 
+dulek_jason: posts the ante 40
+jessecesar: posts the ante 40
+whaleptt: posts the ante 40
+Go4ElvIS: posts the ante 40
+mennck: posts the ante 40
+$aymon9: posts the ante 40
+dulek_jason: posts small blind 80
+jessecesar: posts big blind 160
+*** HOLE CARDS ***
+whaleptt: folds 
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: folds 
+dulek_jason: calls 80
+jessecesar: checks 
+*** FLOP *** [3s Ks Ad]
+dulek_jason: bets 160
+jessecesar: folds 
+Uncalled bet (160) returned to dulek_jason
+dulek_jason collected 560 from pot
+dulek_jason: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [3s Ks Ad]
+Seat 1: dulek_jason (small blind) collected (560)
+Seat 2: jessecesar (big blind) folded on the Flop
+Seat 3: whaleptt folded before Flop (didn't bet)
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209350481: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/26 22:20:33 UTC [2024/06/26 18:20:33 ET]
+Table '3769361908 14' 6-max Seat #1 is the button
+Seat 1: dulek_jason (4934 in chips) 
+Seat 2: jessecesar (17650 in chips) 
+Seat 3: whaleptt (5510 in chips) 
+Seat 4: Go4ElvIS (6136 in chips) 
+Seat 5: mennck (6155 in chips) 
+Seat 6: $aymon9 (13791 in chips) 
+dulek_jason: posts the ante 50
+jessecesar: posts the ante 50
+whaleptt: posts the ante 50
+Go4ElvIS: posts the ante 50
+mennck: posts the ante 50
+$aymon9: posts the ante 50
+jessecesar: posts small blind 100
+whaleptt: posts big blind 200
+*** HOLE CARDS ***
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: raises 200 to 400
+dulek_jason: folds 
+jessecesar: folds 
+whaleptt: calls 200
+*** FLOP *** [5s 9s 3c]
+whaleptt: checks 
+$aymon9: bets 396
+whaleptt: calls 396
+*** TURN *** [5s 9s 3c] [2h]
+whaleptt: checks 
+$aymon9: checks 
+*** RIVER *** [5s 9s 3c 2h] [2c]
+whaleptt: bets 657
+$aymon9: folds 
+Uncalled bet (657) returned to whaleptt
+whaleptt collected 1992 from pot
+whaleptt: doesn't show hand 
+*** SUMMARY ***
+Total pot 1992 | Rake 0 
+Board [5s 9s 3c 2h 2c]
+Seat 1: dulek_jason (button) folded before Flop (didn't bet)
+Seat 2: jessecesar (small blind) folded before Flop
+Seat 3: whaleptt (big blind) collected (1992)
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 folded on the River
+
+PokerStars Hand #251209371267: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/26 22:21:47 UTC [2024/06/26 18:21:47 ET]
+Table '3769361908 14' 6-max Seat #2 is the button
+Seat 1: dulek_jason (4884 in chips) 
+Seat 2: jessecesar (17500 in chips) 
+Seat 3: whaleptt (6656 in chips) 
+Seat 4: Go4ElvIS (6086 in chips) 
+Seat 5: mennck (6105 in chips) 
+Seat 6: $aymon9 (12945 in chips) 
+dulek_jason: posts the ante 50
+jessecesar: posts the ante 50
+whaleptt: posts the ante 50
+Go4ElvIS: posts the ante 50
+mennck: posts the ante 50
+$aymon9: posts the ante 50
+whaleptt: posts small blind 100
+Go4ElvIS: posts big blind 200
+*** HOLE CARDS ***
+mennck: folds 
+$aymon9: folds 
+dulek_jason: raises 200 to 400
+jessecesar: folds 
+whaleptt: folds 
+Go4ElvIS: folds 
+Uncalled bet (200) returned to dulek_jason
+dulek_jason collected 800 from pot
+dulek_jason: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Seat 1: dulek_jason collected (800)
+Seat 2: jessecesar (button) folded before Flop (didn't bet)
+Seat 3: whaleptt (small blind) folded before Flop
+Seat 4: Go4ElvIS (big blind) folded before Flop
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 folded before Flop (didn't bet)
+
+PokerStars Hand #251209377245: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/26 22:22:08 UTC [2024/06/26 18:22:08 ET]
+Table '3769361908 14' 6-max Seat #3 is the button
+Seat 1: dulek_jason (5434 in chips) 
+Seat 2: jessecesar (17450 in chips) 
+Seat 3: whaleptt (6506 in chips) 
+Seat 4: Go4ElvIS (5836 in chips) 
+Seat 5: mennck (6055 in chips) 
+Seat 6: $aymon9 (12895 in chips) 
+dulek_jason: posts the ante 50
+jessecesar: posts the ante 50
+whaleptt: posts the ante 50
+Go4ElvIS: posts the ante 50
+mennck: posts the ante 50
+$aymon9: posts the ante 50
+Go4ElvIS: posts small blind 100
+mennck: posts big blind 200
+*** HOLE CARDS ***
+$aymon9: folds 
+dulek_jason: folds 
+jessecesar: folds 
+whaleptt: raises 200 to 400
+Go4ElvIS: calls 300
+mennck: calls 200
+*** FLOP *** [Ad 4d Ts]
+Go4ElvIS: checks 
+mennck: checks 
+whaleptt: checks 
+*** TURN *** [Ad 4d Ts] [8h]
+Go4ElvIS: bets 1000
+mennck: folds 
+whaleptt: folds 
+Uncalled bet (1000) returned to Go4ElvIS
+Go4ElvIS collected 1500 from pot
+Go4ElvIS: doesn't show hand 
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [Ad 4d Ts 8h]
+Seat 1: dulek_jason folded before Flop (didn't bet)
+Seat 2: jessecesar folded before Flop (didn't bet)
+Seat 3: whaleptt (button) folded on the Turn
+Seat 4: Go4ElvIS (small blind) collected (1500)
+Seat 5: mennck (big blind) folded on the Turn
+Seat 6: $aymon9 folded before Flop (didn't bet)
+
+PokerStars Hand #251209391219: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/26 22:22:58 UTC [2024/06/26 18:22:58 ET]
+Table '3769361908 14' 6-max Seat #4 is the button
+Seat 1: dulek_jason (5384 in chips) 
+Seat 2: jessecesar (17400 in chips) 
+Seat 3: whaleptt (6056 in chips) 
+Seat 4: Go4ElvIS (6886 in chips) 
+Seat 5: mennck (5605 in chips) 
+Seat 6: $aymon9 (12845 in chips) 
+dulek_jason: posts the ante 50
+jessecesar: posts the ante 50
+whaleptt: posts the ante 50
+Go4ElvIS: posts the ante 50
+mennck: posts the ante 50
+$aymon9: posts the ante 50
+mennck: posts small blind 100
+$aymon9: posts big blind 200
+*** HOLE CARDS ***
+dulek_jason: folds 
+jessecesar: folds 
+whaleptt: raises 200 to 400
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: calls 200
+*** FLOP *** [Kh 9s 9c]
+$aymon9: checks 
+whaleptt: bets 300
+$aymon9: calls 300
+*** TURN *** [Kh 9s 9c] [5s]
+$aymon9: checks 
+whaleptt: checks 
+*** RIVER *** [Kh 9s 9c 5s] [9h]
+$aymon9: bets 1200
+whaleptt: calls 1200
+*** SHOW DOWN ***
+$aymon9: shows [Td Jd] (three of a kind, Nines)
+whaleptt: shows [8c Ad] (three of a kind, Nines - Ace kicker)
+whaleptt collected 4200 from pot
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Board [Kh 9s 9c 5s 9h]
+Seat 1: dulek_jason folded before Flop (didn't bet)
+Seat 2: jessecesar folded before Flop (didn't bet)
+Seat 3: whaleptt showed [8c Ad] and won (4200) with three of a kind, Nines
+Seat 4: Go4ElvIS (button) folded before Flop (didn't bet)
+Seat 5: mennck (small blind) folded before Flop
+Seat 6: $aymon9 (big blind) showed [Td Jd] and lost with three of a kind, Nines
+
+PokerStars Hand #251209420638: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/26 22:24:45 UTC [2024/06/26 18:24:45 ET]
+Table '3769361908 14' 6-max Seat #5 is the button
+Seat 1: dulek_jason (5334 in chips) 
+Seat 2: jessecesar (17350 in chips) 
+Seat 3: whaleptt (8306 in chips) 
+Seat 4: Go4ElvIS (6836 in chips) 
+Seat 5: mennck (5455 in chips) 
+Seat 6: $aymon9 (10895 in chips) 
+dulek_jason: posts the ante 60
+jessecesar: posts the ante 60
+whaleptt: posts the ante 60
+Go4ElvIS: posts the ante 60
+mennck: posts the ante 60
+$aymon9: posts the ante 60
+$aymon9: posts small blind 125
+dulek_jason: posts big blind 250
+*** HOLE CARDS ***
+jessecesar: raises 250 to 500
+whaleptt: folds 
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: folds 
+dulek_jason: folds 
+Uncalled bet (250) returned to jessecesar
+jessecesar collected 985 from pot
+jessecesar: doesn't show hand 
+*** SUMMARY ***
+Total pot 985 | Rake 0 
+Seat 1: dulek_jason (big blind) folded before Flop
+Seat 2: jessecesar collected (985)
+Seat 3: whaleptt folded before Flop (didn't bet)
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck (button) folded before Flop (didn't bet)
+Seat 6: $aymon9 (small blind) folded before Flop
+
+PokerStars Hand #251209428525: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/26 22:25:13 UTC [2024/06/26 18:25:13 ET]
+Table '3769361908 14' 6-max Seat #6 is the button
+Seat 1: dulek_jason (5024 in chips) 
+Seat 2: jessecesar (18025 in chips) 
+Seat 3: whaleptt (8246 in chips) 
+Seat 4: Go4ElvIS (6776 in chips) 
+Seat 5: mennck (5395 in chips) 
+Seat 6: $aymon9 (10710 in chips) 
+dulek_jason: posts the ante 60
+jessecesar: posts the ante 60
+whaleptt: posts the ante 60
+Go4ElvIS: posts the ante 60
+mennck: posts the ante 60
+$aymon9: posts the ante 60
+dulek_jason: posts small blind 125
+jessecesar: posts big blind 250
+*** HOLE CARDS ***
+whaleptt: raises 250 to 500
+Go4ElvIS: raises 6216 to 6716 and is all-in
+mennck: folds 
+$aymon9: folds 
+dulek_jason: folds 
+jessecesar: folds 
+whaleptt: folds 
+Uncalled bet (6216) returned to Go4ElvIS
+Go4ElvIS collected 1735 from pot
+Go4ElvIS: doesn't show hand 
+*** SUMMARY ***
+Total pot 1735 | Rake 0 
+Seat 1: dulek_jason (small blind) folded before Flop
+Seat 2: jessecesar (big blind) folded before Flop
+Seat 3: whaleptt folded before Flop
+Seat 4: Go4ElvIS collected (1735)
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209437100: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/26 22:25:44 UTC [2024/06/26 18:25:44 ET]
+Table '3769361908 14' 6-max Seat #1 is the button
+Seat 1: dulek_jason (4839 in chips) 
+Seat 2: jessecesar (17715 in chips) 
+Seat 3: whaleptt (7686 in chips) 
+Seat 4: Go4ElvIS (7951 in chips) 
+Seat 5: mennck (5335 in chips) 
+Seat 6: $aymon9 (10650 in chips) 
+dulek_jason: posts the ante 60
+jessecesar: posts the ante 60
+whaleptt: posts the ante 60
+Go4ElvIS: posts the ante 60
+mennck: posts the ante 60
+$aymon9: posts the ante 60
+jessecesar: posts small blind 125
+whaleptt: posts big blind 250
+*** HOLE CARDS ***
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: raises 250 to 500
+dulek_jason: raises 750 to 1250
+jessecesar: folds 
+whaleptt: folds 
+$aymon9: raises 9340 to 10590 and is all-in
+dulek_jason: calls 3529 and is all-in
+Uncalled bet (5811) returned to $aymon9
+*** FLOP *** [Qd 6d 8c]
+*** TURN *** [Qd 6d 8c] [Td]
+*** RIVER *** [Qd 6d 8c Td] [3s]
+*** SHOW DOWN ***
+$aymon9: shows [2d 2h] (a pair of Deuces)
+dulek_jason: shows [Jh Jc] (a pair of Jacks)
+dulek_jason collected 10293 from pot
+*** SUMMARY ***
+Total pot 10293 | Rake 0 
+Board [Qd 6d 8c Td 3s]
+Seat 1: dulek_jason (button) showed [Jh Jc] and won (10293) with a pair of Jacks
+Seat 2: jessecesar (small blind) folded before Flop
+Seat 3: whaleptt (big blind) folded before Flop
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 showed [2d 2h] and lost with a pair of Deuces
+
+PokerStars Hand #251209449480: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:26:29 UTC [2024/06/26 18:26:29 ET]
+Table '3769361908 14' 6-max Seat #2 is the button
+Seat 1: dulek_jason (10293 in chips) 
+Seat 2: jessecesar (17530 in chips) 
+Seat 3: whaleptt (7376 in chips) 
+Seat 4: Go4ElvIS (7891 in chips) 
+Seat 5: mennck (5275 in chips) 
+Seat 6: $aymon9 (5811 in chips) 
+dulek_jason: posts the ante 75
+jessecesar: posts the ante 75
+whaleptt: posts the ante 75
+Go4ElvIS: posts the ante 75
+mennck: posts the ante 75
+$aymon9: posts the ante 75
+whaleptt: posts small blind 150
+Go4ElvIS: posts big blind 300
+*** HOLE CARDS ***
+mennck: folds 
+$aymon9: folds 
+dulek_jason: raises 300 to 600
+jessecesar: raises 1200 to 1800
+whaleptt: raises 5501 to 7301 and is all-in
+Go4ElvIS: folds 
+dulek_jason: folds 
+jessecesar: folds 
+Uncalled bet (5501) returned to whaleptt
+whaleptt collected 4950 from pot
+whaleptt: doesn't show hand 
+*** SUMMARY ***
+Total pot 4950 | Rake 0 
+Seat 1: dulek_jason folded before Flop
+Seat 2: jessecesar (button) folded before Flop
+Seat 3: whaleptt (small blind) collected (4950)
+Seat 4: Go4ElvIS (big blind) folded before Flop
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 folded before Flop (didn't bet)
+
+PokerStars Hand #251209461010: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:27:10 UTC [2024/06/26 18:27:10 ET]
+Table '3769361908 14' 6-max Seat #3 is the button
+Seat 1: dulek_jason (9618 in chips) 
+Seat 2: jessecesar (15655 in chips) 
+Seat 3: whaleptt (10451 in chips) 
+Seat 4: Go4ElvIS (7516 in chips) 
+Seat 5: mennck (5200 in chips) 
+Seat 6: $aymon9 (5736 in chips) 
+dulek_jason: posts the ante 75
+jessecesar: posts the ante 75
+whaleptt: posts the ante 75
+Go4ElvIS: posts the ante 75
+mennck: posts the ante 75
+$aymon9: posts the ante 75
+Go4ElvIS: posts small blind 150
+mennck: posts big blind 300
+*** HOLE CARDS ***
+$aymon9: folds 
+dulek_jason: folds 
+jessecesar: folds 
+whaleptt: raises 300 to 600
+Go4ElvIS: raises 6841 to 7441 and is all-in
+mennck: folds 
+whaleptt: folds 
+Uncalled bet (6841) returned to Go4ElvIS
+Go4ElvIS collected 1950 from pot
+Go4ElvIS: doesn't show hand 
+*** SUMMARY ***
+Total pot 1950 | Rake 0 
+Seat 1: dulek_jason folded before Flop (didn't bet)
+Seat 2: jessecesar folded before Flop (didn't bet)
+Seat 3: whaleptt (button) folded before Flop
+Seat 4: Go4ElvIS (small blind) collected (1950)
+Seat 5: mennck (big blind) folded before Flop
+Seat 6: $aymon9 folded before Flop (didn't bet)
+
+PokerStars Hand #251209469081: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:27:39 UTC [2024/06/26 18:27:39 ET]
+Table '3769361908 14' 6-max Seat #4 is the button
+Seat 1: dulek_jason (9543 in chips) 
+Seat 2: jessecesar (15580 in chips) 
+Seat 3: whaleptt (9776 in chips) 
+Seat 4: Go4ElvIS (8791 in chips) 
+Seat 5: mennck (4825 in chips) 
+Seat 6: $aymon9 (5661 in chips) 
+dulek_jason: posts the ante 75
+jessecesar: posts the ante 75
+whaleptt: posts the ante 75
+Go4ElvIS: posts the ante 75
+mennck: posts the ante 75
+$aymon9: posts the ante 75
+mennck: posts small blind 150
+$aymon9: posts big blind 300
+*** HOLE CARDS ***
+dulek_jason: raises 300 to 600
+jessecesar: folds 
+whaleptt: raises 900 to 1500
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: folds 
+dulek_jason: calls 900
+*** FLOP *** [Ts Qh 6d]
+dulek_jason: checks 
+whaleptt: bets 1287
+dulek_jason: calls 1287
+*** TURN *** [Ts Qh 6d] [2c]
+dulek_jason: checks 
+whaleptt: bets 6914 and is all-in
+dulek_jason: calls 6681 and is all-in
+Uncalled bet (233) returned to whaleptt
+*** RIVER *** [Ts Qh 6d 2c] [6c]
+*** SHOW DOWN ***
+dulek_jason: shows [Ad Ah] (two pair, Aces and Sixes)
+whaleptt: shows [Jh Ac] (a pair of Sixes)
+dulek_jason collected 19836 from pot
+*** SUMMARY ***
+Total pot 19836 | Rake 0 
+Board [Ts Qh 6d 2c 6c]
+Seat 1: dulek_jason showed [Ad Ah] and won (19836) with two pair, Aces and Sixes
+Seat 2: jessecesar folded before Flop (didn't bet)
+Seat 3: whaleptt showed [Jh Ac] and lost with a pair of Sixes
+Seat 4: Go4ElvIS (button) folded before Flop (didn't bet)
+Seat 5: mennck (small blind) folded before Flop
+Seat 6: $aymon9 (big blind) folded before Flop
+
+PokerStars Hand #251209484500: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:28:34 UTC [2024/06/26 18:28:34 ET]
+Table '3769361908 14' 6-max Seat #5 is the button
+Seat 1: dulek_jason (19836 in chips) 
+Seat 2: jessecesar (15505 in chips) 
+Seat 3: whaleptt (233 in chips) 
+Seat 4: Go4ElvIS (8716 in chips) 
+Seat 5: mennck (4600 in chips) 
+Seat 6: $aymon9 (5286 in chips) 
+dulek_jason: posts the ante 75
+jessecesar: posts the ante 75
+whaleptt: posts the ante 75
+Go4ElvIS: posts the ante 75
+mennck: posts the ante 75
+$aymon9: posts the ante 75
+$aymon9: posts small blind 150
+dulek_jason: posts big blind 300
+*** HOLE CARDS ***
+jessecesar: folds 
+whaleptt: calls 158 and is all-in
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: folds 
+Uncalled bet (142) returned to dulek_jason
+*** FLOP *** [8c Qd 5h]
+*** TURN *** [8c Qd 5h] [7s]
+*** RIVER *** [8c Qd 5h 7s] [Ah]
+*** SHOW DOWN ***
+dulek_jason: shows [4s 2h] (high card Ace)
+whaleptt: shows [Ad 5c] (two pair, Aces and Fives)
+whaleptt collected 916 from pot
+*** SUMMARY ***
+Total pot 916 | Rake 0 
+Board [8c Qd 5h 7s Ah]
+Seat 1: dulek_jason (big blind) showed [4s 2h] and lost with high card Ace
+Seat 2: jessecesar folded before Flop (didn't bet)
+Seat 3: whaleptt showed [Ad 5c] and won (916) with two pair, Aces and Fives
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck (button) folded before Flop (didn't bet)
+Seat 6: $aymon9 (small blind) folded before Flop
+
+PokerStars Hand #251209493269: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:29:06 UTC [2024/06/26 18:29:06 ET]
+Table '3769361908 14' 6-max Seat #6 is the button
+Seat 1: dulek_jason (19603 in chips) 
+Seat 2: jessecesar (15430 in chips) 
+Seat 3: whaleptt (916 in chips) 
+Seat 4: Go4ElvIS (8641 in chips) 
+Seat 5: mennck (4525 in chips) 
+Seat 6: $aymon9 (5061 in chips) 
+dulek_jason: posts the ante 75
+jessecesar: posts the ante 75
+whaleptt: posts the ante 75
+Go4ElvIS: posts the ante 75
+mennck: posts the ante 75
+$aymon9: posts the ante 75
+dulek_jason: posts small blind 150
+jessecesar: posts big blind 300
+*** HOLE CARDS ***
+whaleptt: folds 
+Go4ElvIS: raises 330 to 630
+mennck: folds 
+$aymon9: folds 
+dulek_jason: folds 
+jessecesar: calls 330
+*** FLOP *** [Th 2c 9d]
+jessecesar: checks 
+Go4ElvIS: checks 
+*** TURN *** [Th 2c 9d] [Qh]
+jessecesar: checks 
+Go4ElvIS: checks 
+*** RIVER *** [Th 2c 9d Qh] [4d]
+jessecesar: bets 615
+Go4ElvIS: folds 
+Uncalled bet (615) returned to jessecesar
+jessecesar collected 1860 from pot
+jessecesar: doesn't show hand 
+*** SUMMARY ***
+Total pot 1860 | Rake 0 
+Board [Th 2c 9d Qh 4d]
+Seat 1: dulek_jason (small blind) folded before Flop
+Seat 2: jessecesar (big blind) collected (1860)
+Seat 3: whaleptt folded before Flop (didn't bet)
+Seat 4: Go4ElvIS folded on the River
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209509711: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:30:05 UTC [2024/06/26 18:30:05 ET]
+Table '3769361908 14' 6-max Seat #1 is the button
+Seat 1: dulek_jason (19378 in chips) 
+Seat 2: jessecesar (16585 in chips) 
+Seat 3: whaleptt (841 in chips) 
+Seat 4: Go4ElvIS (7936 in chips) 
+Seat 5: mennck (4450 in chips) 
+Seat 6: $aymon9 (4986 in chips) 
+dulek_jason: posts the ante 100
+jessecesar: posts the ante 100
+whaleptt: posts the ante 100
+Go4ElvIS: posts the ante 100
+mennck: posts the ante 100
+$aymon9: posts the ante 100
+jessecesar: posts small blind 200
+whaleptt: posts big blind 400
+*** HOLE CARDS ***
+Go4ElvIS: folds 
+mennck: raises 3950 to 4350 and is all-in
+$aymon9: folds 
+dulek_jason: folds 
+jessecesar: folds 
+whaleptt: calls 341 and is all-in
+Uncalled bet (3609) returned to mennck
+*** FLOP *** [2h 2s Kc]
+*** TURN *** [2h 2s Kc] [Jd]
+*** RIVER *** [2h 2s Kc Jd] [Js]
+*** SHOW DOWN ***
+whaleptt: shows [Jc 6s] (a full house, Jacks full of Deuces)
+mennck: shows [Tc Td] (two pair, Jacks and Tens)
+whaleptt collected 2282 from pot
+*** SUMMARY ***
+Total pot 2282 | Rake 0 
+Board [2h 2s Kc Jd Js]
+Seat 1: dulek_jason (button) folded before Flop (didn't bet)
+Seat 2: jessecesar (small blind) folded before Flop
+Seat 3: whaleptt (big blind) showed [Jc 6s] and won (2282) with a full house, Jacks full of Deuces
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck showed [Tc Td] and lost with two pair, Jacks and Tens
+Seat 6: $aymon9 folded before Flop (didn't bet)
+
+PokerStars Hand #251209517112: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:30:31 UTC [2024/06/26 18:30:31 ET]
+Table '3769361908 14' 6-max Seat #2 is the button
+Seat 1: dulek_jason (19278 in chips) 
+Seat 2: jessecesar (16285 in chips) 
+Seat 3: whaleptt (2282 in chips) 
+Seat 4: Go4ElvIS (7836 in chips) 
+Seat 5: mennck (3609 in chips) 
+Seat 6: $aymon9 (4886 in chips) 
+dulek_jason: posts the ante 100
+jessecesar: posts the ante 100
+whaleptt: posts the ante 100
+Go4ElvIS: posts the ante 100
+mennck: posts the ante 100
+$aymon9: posts the ante 100
+whaleptt: posts small blind 200
+Go4ElvIS: posts big blind 400
+*** HOLE CARDS ***
+mennck: folds 
+$aymon9: raises 400 to 800
+dulek_jason: folds 
+jessecesar: folds 
+whaleptt: folds 
+Go4ElvIS: folds 
+Uncalled bet (400) returned to $aymon9
+$aymon9 collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Seat 1: dulek_jason folded before Flop (didn't bet)
+Seat 2: jessecesar (button) folded before Flop (didn't bet)
+Seat 3: whaleptt (small blind) folded before Flop
+Seat 4: Go4ElvIS (big blind) folded before Flop
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 collected (1600)
+
+PokerStars Hand #251209524166: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:30:57 UTC [2024/06/26 18:30:57 ET]
+Table '3769361908 14' 6-max Seat #3 is the button
+Seat 1: dulek_jason (19178 in chips) 
+Seat 2: jessecesar (16185 in chips) 
+Seat 3: whaleptt (1982 in chips) 
+Seat 4: Go4ElvIS (7336 in chips) 
+Seat 5: mennck (3509 in chips) 
+Seat 6: $aymon9 (5986 in chips) 
+dulek_jason: posts the ante 100
+jessecesar: posts the ante 100
+whaleptt: posts the ante 100
+Go4ElvIS: posts the ante 100
+mennck: posts the ante 100
+$aymon9: posts the ante 100
+Go4ElvIS: posts small blind 200
+mennck: posts big blind 400
+*** HOLE CARDS ***
+$aymon9: folds 
+dulek_jason: folds 
+jessecesar: folds 
+whaleptt: folds 
+Go4ElvIS: folds 
+Uncalled bet (200) returned to mennck
+mennck collected 1000 from pot
+mennck: doesn't show hand 
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Seat 1: dulek_jason folded before Flop (didn't bet)
+Seat 2: jessecesar folded before Flop (didn't bet)
+Seat 3: whaleptt (button) folded before Flop (didn't bet)
+Seat 4: Go4ElvIS (small blind) folded before Flop
+Seat 5: mennck (big blind) collected (1000)
+Seat 6: $aymon9 folded before Flop (didn't bet)
+
+PokerStars Hand #251209528970: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:31:15 UTC [2024/06/26 18:31:15 ET]
+Table '3769361908 14' 6-max Seat #4 is the button
+Seat 1: dulek_jason (19078 in chips) 
+Seat 2: jessecesar (16085 in chips) 
+Seat 3: whaleptt (1882 in chips) 
+Seat 4: Go4ElvIS (7036 in chips) 
+Seat 5: mennck (4209 in chips) 
+Seat 6: $aymon9 (5886 in chips) 
+dulek_jason: posts the ante 100
+jessecesar: posts the ante 100
+whaleptt: posts the ante 100
+Go4ElvIS: posts the ante 100
+mennck: posts the ante 100
+$aymon9: posts the ante 100
+mennck: posts small blind 200
+$aymon9: posts big blind 400
+*** HOLE CARDS ***
+dulek_jason: folds 
+jessecesar: raises 400 to 800
+whaleptt: folds 
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: raises 4986 to 5786 and is all-in
+jessecesar: folds 
+Uncalled bet (4986) returned to $aymon9
+$aymon9 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: dulek_jason folded before Flop (didn't bet)
+Seat 2: jessecesar folded before Flop
+Seat 3: whaleptt folded before Flop (didn't bet)
+Seat 4: Go4ElvIS (button) folded before Flop (didn't bet)
+Seat 5: mennck (small blind) folded before Flop
+Seat 6: $aymon9 (big blind) collected (2400)
+
+PokerStars Hand #251209537528: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:31:46 UTC [2024/06/26 18:31:46 ET]
+Table '3769361908 14' 6-max Seat #5 is the button
+Seat 1: dulek_jason (18978 in chips) 
+Seat 2: jessecesar (15185 in chips) 
+Seat 3: whaleptt (1782 in chips) 
+Seat 4: Go4ElvIS (6936 in chips) 
+Seat 5: mennck (3909 in chips) 
+Seat 6: $aymon9 (7386 in chips) 
+dulek_jason: posts the ante 100
+jessecesar: posts the ante 100
+whaleptt: posts the ante 100
+Go4ElvIS: posts the ante 100
+mennck: posts the ante 100
+$aymon9: posts the ante 100
+$aymon9: posts small blind 200
+dulek_jason: posts big blind 400
+*** HOLE CARDS ***
+jessecesar: folds 
+whaleptt: folds 
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: calls 200
+dulek_jason: checks 
+*** FLOP *** [4d 8s Ah]
+$aymon9: bets 400
+dulek_jason: calls 400
+*** TURN *** [4d 8s Ah] [5h]
+$aymon9: checks 
+dulek_jason: bets 1126
+$aymon9: calls 1126
+*** RIVER *** [4d 8s Ah 5h] [2h]
+$aymon9: checks 
+dulek_jason: bets 16952 and is all-in
+$aymon9: folds 
+Uncalled bet (16952) returned to dulek_jason
+dulek_jason collected 4452 from pot
+dulek_jason: doesn't show hand 
+*** SUMMARY ***
+Total pot 4452 | Rake 0 
+Board [4d 8s Ah 5h 2h]
+Seat 1: dulek_jason (big blind) collected (4452)
+Seat 2: jessecesar folded before Flop (didn't bet)
+Seat 3: whaleptt folded before Flop (didn't bet)
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck (button) folded before Flop (didn't bet)
+Seat 6: $aymon9 (small blind) folded on the River
+
+PokerStars Hand #251209559353: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:33:06 UTC [2024/06/26 18:33:06 ET]
+Table '3769361908 14' 6-max Seat #6 is the button
+Seat 1: dulek_jason (21404 in chips) 
+Seat 2: jessecesar (15085 in chips) 
+Seat 3: whaleptt (1682 in chips) 
+Seat 4: Go4ElvIS (6836 in chips) 
+Seat 5: mennck (3809 in chips) 
+Seat 6: $aymon9 (5360 in chips) 
+dulek_jason: posts the ante 125
+jessecesar: posts the ante 125
+whaleptt: posts the ante 125
+Go4ElvIS: posts the ante 125
+mennck: posts the ante 125
+$aymon9: posts the ante 125
+dulek_jason: posts small blind 250
+jessecesar: posts big blind 500
+*** HOLE CARDS ***
+whaleptt: folds 
+Go4ElvIS: folds 
+mennck: raises 3184 to 3684 and is all-in
+$aymon9: folds 
+dulek_jason: folds 
+jessecesar: folds 
+Uncalled bet (3184) returned to mennck
+mennck collected 2000 from pot
+mennck: doesn't show hand 
+*** SUMMARY ***
+Total pot 2000 | Rake 0 
+Seat 1: dulek_jason (small blind) folded before Flop
+Seat 2: jessecesar (big blind) folded before Flop
+Seat 3: whaleptt folded before Flop (didn't bet)
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck collected (2000)
+Seat 6: $aymon9 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209564146: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:33:24 UTC [2024/06/26 18:33:24 ET]
+Table '3769361908 14' 6-max Seat #1 is the button
+Seat 1: dulek_jason (21029 in chips) 
+Seat 2: jessecesar (14460 in chips) 
+Seat 3: whaleptt (1557 in chips) 
+Seat 4: Go4ElvIS (6711 in chips) 
+Seat 5: mennck (5184 in chips) 
+Seat 6: $aymon9 (5235 in chips) 
+dulek_jason: posts the ante 125
+jessecesar: posts the ante 125
+whaleptt: posts the ante 125
+Go4ElvIS: posts the ante 125
+mennck: posts the ante 125
+$aymon9: posts the ante 125
+jessecesar: posts small blind 250
+whaleptt: posts big blind 500
+*** HOLE CARDS ***
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: raises 4610 to 5110 and is all-in
+dulek_jason: folds 
+jessecesar: folds 
+whaleptt: calls 932 and is all-in
+Uncalled bet (3678) returned to $aymon9
+*** FLOP *** [7d 2c Jh]
+*** TURN *** [7d 2c Jh] [6h]
+*** RIVER *** [7d 2c Jh 6h] [Kd]
+*** SHOW DOWN ***
+whaleptt: shows [3s Js] (a pair of Jacks)
+$aymon9: shows [Jc Ad] (a pair of Jacks - Ace kicker)
+$aymon9 collected 3864 from pot
+whaleptt finished the tournament
+*** SUMMARY ***
+Total pot 3864 | Rake 0 
+Board [7d 2c Jh 6h Kd]
+Seat 1: dulek_jason (button) folded before Flop (didn't bet)
+Seat 2: jessecesar (small blind) folded before Flop
+Seat 3: whaleptt (big blind) showed [3s Js] and lost with a pair of Jacks
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 showed [Jc Ad] and won (3864) with a pair of Jacks
+
+PokerStars Hand #251209572575: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:33:55 UTC [2024/06/26 18:33:55 ET]
+Table '3769361908 14' 6-max Seat #2 is the button
+Seat 1: dulek_jason (20904 in chips) 
+Seat 2: jessecesar (14085 in chips) 
+Seat 4: Go4ElvIS (6586 in chips) 
+Seat 5: mennck (5059 in chips) 
+Seat 6: $aymon9 (7542 in chips) 
+dulek_jason: posts the ante 125
+jessecesar: posts the ante 125
+Go4ElvIS: posts the ante 125
+mennck: posts the ante 125
+$aymon9: posts the ante 125
+Go4ElvIS: posts small blind 250
+mennck: posts big blind 500
+*** HOLE CARDS ***
+$aymon9: raises 500 to 1000
+dulek_jason: folds 
+jessecesar: folds 
+Go4ElvIS: folds 
+mennck: calls 500
+*** FLOP *** [8h 3h 3s]
+mennck: checks 
+Gsmith13 is disconnected 
+$aymon9: bets 750
+mennck: raises 3184 to 3934 and is all-in
+$aymon9: calls 3184
+*** TURN *** [8h 3h 3s] [Kh]
+*** RIVER *** [8h 3h 3s Kh] [Qc]
+*** SHOW DOWN ***
+mennck: shows [8d Qh] (two pair, Queens and Eights)
+$aymon9: shows [Ad 9h] (a pair of Threes)
+mennck collected 10743 from pot
+*** SUMMARY ***
+Total pot 10743 | Rake 0 
+Board [8h 3h 3s Kh Qc]
+Seat 1: dulek_jason folded before Flop (didn't bet)
+Seat 2: jessecesar (button) folded before Flop (didn't bet)
+Seat 4: Go4ElvIS (small blind) folded before Flop
+Seat 5: mennck (big blind) showed [8d Qh] and won (10743) with two pair, Queens and Eights
+Seat 6: $aymon9 showed [Ad 9h] and lost with a pair of Threes
+
+PokerStars Hand #251209585945: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:34:45 UTC [2024/06/26 18:34:45 ET]
+Table '3769361908 14' 6-max Seat #4 is the button
+Seat 1: dulek_jason (20779 in chips) 
+Seat 2: jessecesar (13960 in chips) 
+Seat 3: Gsmith13 (10000 in chips) 
+Seat 4: Go4ElvIS (6211 in chips) 
+Seat 5: mennck (10743 in chips) 
+Seat 6: $aymon9 (2483 in chips) 
+dulek_jason: posts the ante 125
+jessecesar: posts the ante 125
+Gsmith13: posts the ante 125
+Go4ElvIS: posts the ante 125
+mennck: posts the ante 125
+$aymon9: posts the ante 125
+mennck: posts small blind 250
+$aymon9: posts big blind 500
+*** HOLE CARDS ***
+dulek_jason: folds 
+jessecesar: folds 
+Gsmith13: folds 
+Go4ElvIS: folds 
+mennck: folds 
+Uncalled bet (250) returned to $aymon9
+$aymon9 collected 1250 from pot
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Seat 1: dulek_jason folded before Flop (didn't bet)
+Seat 2: jessecesar folded before Flop (didn't bet)
+Seat 3: Gsmith13 folded before Flop (didn't bet)
+Seat 4: Go4ElvIS (button) folded before Flop (didn't bet)
+Seat 5: mennck (small blind) folded before Flop
+Seat 6: $aymon9 (big blind) collected (1250)
+
+PokerStars Hand #251209590578: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:35:02 UTC [2024/06/26 18:35:02 ET]
+Table '3769361908 14' 6-max Seat #5 is the button
+Seat 1: dulek_jason (20654 in chips) 
+Seat 2: jessecesar (13835 in chips) 
+Seat 3: Gsmith13 (9875 in chips) 
+Seat 4: Go4ElvIS (6086 in chips) 
+Seat 5: mennck (10368 in chips) 
+Seat 6: $aymon9 (3358 in chips) 
+dulek_jason: posts the ante 125
+jessecesar: posts the ante 125
+Gsmith13: posts the ante 125
+Go4ElvIS: posts the ante 125
+mennck: posts the ante 125
+$aymon9: posts the ante 125
+$aymon9: posts small blind 250
+dulek_jason: posts big blind 500
+*** HOLE CARDS ***
+jessecesar: folds 
+Gsmith13: folds 
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: raises 2733 to 3233 and is all-in
+dulek_jason: calls 2733
+*** FLOP *** [5d 5s Kd]
+*** TURN *** [5d 5s Kd] [8h]
+*** RIVER *** [5d 5s Kd 8h] [4s]
+*** SHOW DOWN ***
+$aymon9: shows [Th Td] (two pair, Tens and Fives)
+dulek_jason: shows [2s Ac] (a pair of Fives)
+$aymon9 collected 7216 from pot
+*** SUMMARY ***
+Total pot 7216 | Rake 0 
+Board [5d 5s Kd 8h 4s]
+Seat 1: dulek_jason (big blind) showed [2s Ac] and lost with a pair of Fives
+Seat 2: jessecesar folded before Flop (didn't bet)
+Seat 3: Gsmith13 folded before Flop (didn't bet)
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck (button) folded before Flop (didn't bet)
+Seat 6: $aymon9 (small blind) showed [Th Td] and won (7216) with two pair, Tens and Fives
+
+PokerStars Hand #251209599285: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:35:34 UTC [2024/06/26 18:35:34 ET]
+Table '3769361908 14' 6-max Seat #6 is the button
+Seat 1: dulek_jason (17296 in chips) 
+Seat 2: jessecesar (13710 in chips) 
+Seat 3: Gsmith13 (9750 in chips) 
+Seat 4: Go4ElvIS (5961 in chips) 
+Seat 5: mennck (10243 in chips) 
+Seat 6: $aymon9 (7216 in chips) 
+dulek_jason: posts the ante 150
+jessecesar: posts the ante 150
+Gsmith13: posts the ante 150
+Go4ElvIS: posts the ante 150
+mennck: posts the ante 150
+$aymon9: posts the ante 150
+dulek_jason: posts small blind 300
+jessecesar: posts big blind 600
+*** HOLE CARDS ***
+Gsmith13: folds 
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: folds 
+dulek_jason: calls 300
+jessecesar: checks 
+*** FLOP *** [5s Ts Qd]
+dulek_jason: checks 
+jessecesar: checks 
+*** TURN *** [5s Ts Qd] [Jc]
+dulek_jason: checks 
+jessecesar: checks 
+*** RIVER *** [5s Ts Qd Jc] [7c]
+dulek_jason: bets 1554
+jessecesar: folds 
+Uncalled bet (1554) returned to dulek_jason
+dulek_jason collected 2100 from pot
+dulek_jason: doesn't show hand 
+*** SUMMARY ***
+Total pot 2100 | Rake 0 
+Board [5s Ts Qd Jc 7c]
+Seat 1: dulek_jason (small blind) collected (2100)
+Seat 2: jessecesar (big blind) folded on the River
+Seat 3: Gsmith13 folded before Flop (didn't bet)
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209611919: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:36:21 UTC [2024/06/26 18:36:21 ET]
+Table '3769361908 14' 6-max Seat #1 is the button
+Seat 1: dulek_jason (18646 in chips) 
+Seat 2: jessecesar (12960 in chips) 
+Seat 3: Gsmith13 (9600 in chips) 
+Seat 4: Go4ElvIS (5811 in chips) 
+Seat 5: mennck (10093 in chips) 
+Seat 6: $aymon9 (7066 in chips) 
+dulek_jason: posts the ante 150
+jessecesar: posts the ante 150
+Gsmith13: posts the ante 150
+Go4ElvIS: posts the ante 150
+mennck: posts the ante 150
+$aymon9: posts the ante 150
+jessecesar: posts small blind 300
+Gsmith13: posts big blind 600
+*** HOLE CARDS ***
+Go4ElvIS: raises 660 to 1260
+mennck: folds 
+$aymon9: folds 
+dulek_jason: folds 
+jessecesar: folds 
+Gsmith13: folds 
+Uncalled bet (660) returned to Go4ElvIS
+Go4ElvIS collected 2400 from pot
+Go4ElvIS: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: dulek_jason (button) folded before Flop (didn't bet)
+Seat 2: jessecesar (small blind) folded before Flop
+Seat 3: Gsmith13 (big blind) folded before Flop
+Seat 4: Go4ElvIS collected (2400)
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 folded before Flop (didn't bet)
+
+PokerStars Hand #251209616977: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:36:40 UTC [2024/06/26 18:36:40 ET]
+Table '3769361908 14' 6-max Seat #2 is the button
+Seat 1: dulek_jason (18496 in chips) 
+Seat 2: jessecesar (12510 in chips) 
+Seat 3: Gsmith13 (8850 in chips) 
+Seat 4: Go4ElvIS (7461 in chips) 
+Seat 5: mennck (9943 in chips) 
+Seat 6: $aymon9 (6916 in chips) 
+dulek_jason: posts the ante 150
+jessecesar: posts the ante 150
+Gsmith13: posts the ante 150
+Go4ElvIS: posts the ante 150
+mennck: posts the ante 150
+$aymon9: posts the ante 150
+Gsmith13: posts small blind 300
+Go4ElvIS: posts big blind 600
+*** HOLE CARDS ***
+mennck: folds 
+$aymon9: folds 
+dulek_jason: raises 17746 to 18346 and is all-in
+jessecesar: folds 
+Gsmith13: folds 
+Go4ElvIS: folds 
+Uncalled bet (17746) returned to dulek_jason
+dulek_jason collected 2400 from pot
+dulek_jason: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: dulek_jason collected (2400)
+Seat 2: jessecesar (button) folded before Flop (didn't bet)
+Seat 3: Gsmith13 (small blind) folded before Flop
+Seat 4: Go4ElvIS (big blind) folded before Flop
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 folded before Flop (didn't bet)
+
+PokerStars Hand #251209623262: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:37:04 UTC [2024/06/26 18:37:04 ET]
+Table '3769361908 14' 6-max Seat #3 is the button
+Seat 1: dulek_jason (20146 in chips) 
+Seat 2: jessecesar (12360 in chips) 
+Seat 3: Gsmith13 (8400 in chips) 
+Seat 4: Go4ElvIS (6711 in chips) 
+Seat 5: mennck (9793 in chips) 
+Seat 6: $aymon9 (6766 in chips) 
+dulek_jason: posts the ante 150
+jessecesar: posts the ante 150
+Gsmith13: posts the ante 150
+Go4ElvIS: posts the ante 150
+mennck: posts the ante 150
+$aymon9: posts the ante 150
+Go4ElvIS: posts small blind 300
+mennck: posts big blind 600
+*** HOLE CARDS ***
+$aymon9: raises 600 to 1200
+dulek_jason: folds 
+jessecesar: raises 11010 to 12210 and is all-in
+Gsmith13: folds 
+Go4ElvIS: calls 6261 and is all-in
+mennck: folds 
+$aymon9: folds 
+Uncalled bet (5649) returned to jessecesar
+*** FLOP *** [6h Qh 8c]
+*** TURN *** [6h Qh 8c] [9h]
+*** RIVER *** [6h Qh 8c 9h] [As]
+*** SHOW DOWN ***
+Go4ElvIS: shows [9s 9d] (three of a kind, Nines)
+jessecesar: shows [Kd Td] (high card Ace)
+Go4ElvIS collected 15822 from pot
+*** SUMMARY ***
+Total pot 15822 | Rake 0 
+Board [6h Qh 8c 9h As]
+Seat 1: dulek_jason folded before Flop (didn't bet)
+Seat 2: jessecesar showed [Kd Td] and lost with high card Ace
+Seat 3: Gsmith13 (button) folded before Flop (didn't bet)
+Seat 4: Go4ElvIS (small blind) showed [9s 9d] and won (15822) with three of a kind, Nines
+Seat 5: mennck (big blind) folded before Flop
+Seat 6: $aymon9 folded before Flop
+
+PokerStars Hand #251209632578: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:37:39 UTC [2024/06/26 18:37:39 ET]
+Table '3769361908 14' 6-max Seat #4 is the button
+Seat 1: dulek_jason (19996 in chips) 
+Seat 2: jessecesar (5649 in chips) 
+Seat 3: Gsmith13 (8250 in chips) 
+Seat 4: Go4ElvIS (15822 in chips) 
+Seat 5: mennck (9043 in chips) 
+Seat 6: $aymon9 (5416 in chips) 
+dulek_jason: posts the ante 150
+jessecesar: posts the ante 150
+Gsmith13: posts the ante 150
+Go4ElvIS: posts the ante 150
+mennck: posts the ante 150
+$aymon9: posts the ante 150
+mennck: posts small blind 300
+$aymon9: posts big blind 600
+*** HOLE CARDS ***
+dulek_jason: folds 
+jessecesar: raises 4899 to 5499 and is all-in
+Gsmith13: folds 
+Go4ElvIS: raises 10173 to 15672 and is all-in
+mennck: folds 
+$aymon9: folds 
+Uncalled bet (10173) returned to Go4ElvIS
+*** FLOP *** [8c 8h 4h]
+*** TURN *** [8c 8h 4h] [3c]
+*** RIVER *** [8c 8h 4h 3c] [Kd]
+*** SHOW DOWN ***
+jessecesar: shows [Ah 3d] (two pair, Eights and Threes)
+Go4ElvIS: shows [5c Ad] (a pair of Eights)
+jessecesar collected 12798 from pot
+*** SUMMARY ***
+Total pot 12798 | Rake 0 
+Board [8c 8h 4h 3c Kd]
+Seat 1: dulek_jason folded before Flop (didn't bet)
+Seat 2: jessecesar showed [Ah 3d] and won (12798) with two pair, Eights and Threes
+Seat 3: Gsmith13 folded before Flop (didn't bet)
+Seat 4: Go4ElvIS (button) showed [5c Ad] and lost with a pair of Eights
+Seat 5: mennck (small blind) folded before Flop
+Seat 6: $aymon9 (big blind) folded before Flop
+
+PokerStars Hand #251209645086: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:38:26 UTC [2024/06/26 18:38:26 ET]
+Table '3769361908 14' 6-max Seat #5 is the button
+Seat 1: dulek_jason (19846 in chips) 
+Seat 2: jessecesar (12798 in chips) 
+Seat 3: Gsmith13 (8100 in chips) 
+Seat 4: Go4ElvIS (10173 in chips) 
+Seat 5: mennck (8593 in chips) 
+Seat 6: $aymon9 (4666 in chips) 
+dulek_jason: posts the ante 200
+jessecesar: posts the ante 200
+Gsmith13: posts the ante 200
+Go4ElvIS: posts the ante 200
+mennck: posts the ante 200
+$aymon9: posts the ante 200
+$aymon9: posts small blind 400
+dulek_jason: posts big blind 800
+*** HOLE CARDS ***
+jessecesar: folds 
+Gsmith13: folds 
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: raises 3666 to 4466 and is all-in
+dulek_jason: calls 3666
+*** FLOP *** [6h Js 7s]
+*** TURN *** [6h Js 7s] [6s]
+*** RIVER *** [6h Js 7s 6s] [7c]
+*** SHOW DOWN ***
+$aymon9: shows [Qh 2d] (two pair, Sevens and Sixes)
+dulek_jason: shows [5c Qc] (two pair, Sevens and Sixes)
+$aymon9 collected 5066 from pot
+dulek_jason collected 5066 from pot
+*** SUMMARY ***
+Total pot 10132 | Rake 0 
+Board [6h Js 7s 6s 7c]
+Seat 1: dulek_jason (big blind) showed [5c Qc] and won (5066) with two pair, Sevens and Sixes
+Seat 2: jessecesar folded before Flop (didn't bet)
+Seat 3: Gsmith13 folded before Flop (didn't bet)
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck (button) folded before Flop (didn't bet)
+Seat 6: $aymon9 (small blind) showed [Qh 2d] and won (5066) with two pair, Sevens and Sixes
+
+PokerStars Hand #251209652822: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:38:54 UTC [2024/06/26 18:38:54 ET]
+Table '3769361908 14' 6-max Seat #6 is the button
+Seat 1: dulek_jason (20246 in chips) 
+Seat 2: jessecesar (12598 in chips) 
+Seat 3: Gsmith13 (7900 in chips) 
+Seat 4: Go4ElvIS (9973 in chips) 
+Seat 5: mennck (8393 in chips) 
+Seat 6: $aymon9 (5066 in chips) 
+dulek_jason: posts the ante 200
+jessecesar: posts the ante 200
+Gsmith13: posts the ante 200
+Go4ElvIS: posts the ante 200
+mennck: posts the ante 200
+$aymon9: posts the ante 200
+dulek_jason: posts small blind 400
+jessecesar: posts big blind 800
+*** HOLE CARDS ***
+Gsmith13: folds 
+Go4ElvIS: raises 8973 to 9773 and is all-in
+mennck: folds 
+$aymon9: folds 
+dulek_jason: folds 
+jessecesar: calls 8973
+*** FLOP *** [Kh Th 2h]
+*** TURN *** [Kh Th 2h] [6h]
+*** RIVER *** [Kh Th 2h 6h] [Qh]
+*** SHOW DOWN ***
+jessecesar: shows [9s Ad] (a flush, King high)
+Go4ElvIS: shows [As 6d] (a flush, King high)
+jessecesar collected 10573 from pot
+Go4ElvIS collected 10573 from pot
+*** SUMMARY ***
+Total pot 21146 | Rake 0 
+Board [Kh Th 2h 6h Qh]
+Seat 1: dulek_jason (small blind) folded before Flop
+Seat 2: jessecesar (big blind) showed [9s Ad] and won (10573) with a flush, King high
+Seat 3: Gsmith13 folded before Flop (didn't bet)
+Seat 4: Go4ElvIS showed [As 6d] and won (10573) with a flush, King high
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209661865: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:39:28 UTC [2024/06/26 18:39:28 ET]
+Table '3769361908 14' 6-max Seat #1 is the button
+Seat 1: dulek_jason (19646 in chips) 
+Seat 2: jessecesar (13198 in chips) 
+Seat 3: Gsmith13 (7700 in chips) 
+Seat 4: Go4ElvIS (10573 in chips) 
+Seat 5: mennck (8193 in chips) 
+Seat 6: $aymon9 (4866 in chips) 
+dulek_jason: posts the ante 200
+jessecesar: posts the ante 200
+Gsmith13: posts the ante 200
+Go4ElvIS: posts the ante 200
+mennck: posts the ante 200
+$aymon9: posts the ante 200
+jessecesar: posts small blind 400
+Gsmith13: posts big blind 800
+*** HOLE CARDS ***
+Go4ElvIS: raises 9573 to 10373 and is all-in
+mennck: folds 
+$aymon9: folds 
+dulek_jason: folds 
+jessecesar: folds 
+Gsmith13: folds 
+Uncalled bet (9573) returned to Go4ElvIS
+Go4ElvIS collected 3200 from pot
+Go4ElvIS: doesn't show hand 
+*** SUMMARY ***
+Total pot 3200 | Rake 0 
+Seat 1: dulek_jason (button) folded before Flop (didn't bet)
+Seat 2: jessecesar (small blind) folded before Flop
+Seat 3: Gsmith13 (big blind) folded before Flop
+Seat 4: Go4ElvIS collected (3200)
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 folded before Flop (didn't bet)
+
+PokerStars Hand #251209668351: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:39:53 UTC [2024/06/26 18:39:53 ET]
+Table '3769361908 14' 6-max Seat #2 is the button
+Seat 1: dulek_jason (19446 in chips) 
+Seat 2: jessecesar (12598 in chips) 
+Seat 3: Gsmith13 (6700 in chips) 
+Seat 4: Go4ElvIS (12773 in chips) 
+Seat 5: mennck (7993 in chips) 
+Seat 6: $aymon9 (4666 in chips) 
+dulek_jason: posts the ante 200
+jessecesar: posts the ante 200
+Gsmith13: posts the ante 200
+Go4ElvIS: posts the ante 200
+mennck: posts the ante 200
+$aymon9: posts the ante 200
+Gsmith13: posts small blind 400
+Go4ElvIS: posts big blind 800
+*** HOLE CARDS ***
+mennck: folds 
+$aymon9: raises 3666 to 4466 and is all-in
+dulek_jason: folds 
+jessecesar: folds 
+Gsmith13: folds 
+Go4ElvIS: calls 3666
+*** FLOP *** [Qc 7h Qd]
+*** TURN *** [Qc 7h Qd] [9c]
+*** RIVER *** [Qc 7h Qd 9c] [3d]
+*** SHOW DOWN ***
+Go4ElvIS: shows [As Jc] (a pair of Queens)
+$aymon9: shows [Ks Qs] (three of a kind, Queens)
+$aymon9 collected 10532 from pot
+*** SUMMARY ***
+Total pot 10532 | Rake 0 
+Board [Qc 7h Qd 9c 3d]
+Seat 1: dulek_jason folded before Flop (didn't bet)
+Seat 2: jessecesar (button) folded before Flop (didn't bet)
+Seat 3: Gsmith13 (small blind) folded before Flop
+Seat 4: Go4ElvIS (big blind) showed [As Jc] and lost with a pair of Queens
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 showed [Ks Qs] and won (10532) with three of a kind, Queens
+
+PokerStars Hand #251209674359: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:40:16 UTC [2024/06/26 18:40:16 ET]
+Table '3769361908 14' 6-max Seat #3 is the button
+Seat 1: dulek_jason (19246 in chips) 
+Seat 2: jessecesar (12398 in chips) 
+Seat 3: Gsmith13 (6100 in chips) 
+Seat 4: Go4ElvIS (8107 in chips) 
+Seat 5: mennck (7793 in chips) 
+Seat 6: $aymon9 (10532 in chips) 
+dulek_jason: posts the ante 200
+jessecesar: posts the ante 200
+Gsmith13: posts the ante 200
+Go4ElvIS: posts the ante 200
+mennck: posts the ante 200
+$aymon9: posts the ante 200
+Go4ElvIS: posts small blind 400
+mennck: posts big blind 800
+*** HOLE CARDS ***
+$aymon9: folds 
+dulek_jason: folds 
+jessecesar: folds 
+Gsmith13: folds 
+Go4ElvIS: raises 7107 to 7907 and is all-in
+mennck: folds 
+Uncalled bet (7107) returned to Go4ElvIS
+Go4ElvIS collected 2800 from pot
+Go4ElvIS: doesn't show hand 
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Seat 1: dulek_jason folded before Flop (didn't bet)
+Seat 2: jessecesar folded before Flop (didn't bet)
+Seat 3: Gsmith13 (button) folded before Flop (didn't bet)
+Seat 4: Go4ElvIS (small blind) collected (2800)
+Seat 5: mennck (big blind) folded before Flop
+Seat 6: $aymon9 folded before Flop (didn't bet)
+
+PokerStars Hand #251209680632: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:40:39 UTC [2024/06/26 18:40:39 ET]
+Table '3769361908 14' 6-max Seat #4 is the button
+Seat 1: dulek_jason (19046 in chips) 
+Seat 2: jessecesar (12198 in chips) 
+Seat 3: Gsmith13 (5900 in chips) 
+Seat 4: Go4ElvIS (9907 in chips) 
+Seat 5: mennck (6793 in chips) 
+Seat 6: $aymon9 (10332 in chips) 
+dulek_jason: posts the ante 200
+jessecesar: posts the ante 200
+Gsmith13: posts the ante 200
+Go4ElvIS: posts the ante 200
+mennck: posts the ante 200
+$aymon9: posts the ante 200
+mennck: posts small blind 400
+$aymon9: posts big blind 800
+*** HOLE CARDS ***
+dulek_jason: folds 
+jessecesar: folds 
+Gsmith13: raises 4900 to 5700 and is all-in
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: folds 
+Uncalled bet (4900) returned to Gsmith13
+Gsmith13 collected 3200 from pot
+Gsmith13: doesn't show hand 
+*** SUMMARY ***
+Total pot 3200 | Rake 0 
+Seat 1: dulek_jason folded before Flop (didn't bet)
+Seat 2: jessecesar folded before Flop (didn't bet)
+Seat 3: Gsmith13 collected (3200)
+Seat 4: Go4ElvIS (button) folded before Flop (didn't bet)
+Seat 5: mennck (small blind) folded before Flop
+Seat 6: $aymon9 (big blind) folded before Flop
+
+PokerStars Hand #251209687465: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:41:06 UTC [2024/06/26 18:41:06 ET]
+Table '3769361908 14' 6-max Seat #5 is the button
+Seat 1: dulek_jason (18846 in chips) 
+Seat 2: jessecesar (11998 in chips) 
+Seat 3: Gsmith13 (8100 in chips) 
+Seat 4: Go4ElvIS (9707 in chips) 
+Seat 5: mennck (6193 in chips) 
+Seat 6: $aymon9 (9332 in chips) 
+dulek_jason: posts the ante 200
+jessecesar: posts the ante 200
+Gsmith13: posts the ante 200
+Go4ElvIS: posts the ante 200
+mennck: posts the ante 200
+$aymon9: posts the ante 200
+$aymon9: posts small blind 400
+dulek_jason: posts big blind 800
+*** HOLE CARDS ***
+jessecesar: raises 800 to 1600
+Gsmith13: folds 
+Go4ElvIS: folds 
+mennck: folds 
+$aymon9: folds 
+dulek_jason: folds 
+Uncalled bet (800) returned to jessecesar
+jessecesar collected 3200 from pot
+jessecesar: doesn't show hand 
+*** SUMMARY ***
+Total pot 3200 | Rake 0 
+Seat 1: dulek_jason (big blind) folded before Flop
+Seat 2: jessecesar collected (3200)
+Seat 3: Gsmith13 folded before Flop (didn't bet)
+Seat 4: Go4ElvIS folded before Flop (didn't bet)
+Seat 5: mennck (button) folded before Flop (didn't bet)
+Seat 6: $aymon9 (small blind) folded before Flop
+
+PokerStars Hand #251209695603: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 22:41:37 UTC [2024/06/26 18:41:37 ET]
+Table '3769361908 14' 6-max Seat #6 is the button
+Seat 1: dulek_jason (17846 in chips) 
+Seat 2: jessecesar (14198 in chips) 
+Seat 3: Gsmith13 (7900 in chips) 
+Seat 4: Go4ElvIS (9507 in chips) 
+Seat 5: mennck (5993 in chips) 
+Seat 6: $aymon9 (8732 in chips) 
+dulek_jason: posts the ante 250
+jessecesar: posts the ante 250
+Gsmith13: posts the ante 250
+Go4ElvIS: posts the ante 250
+mennck: posts the ante 250
+$aymon9: posts the ante 250
+dulek_jason: posts small blind 500
+jessecesar: posts big blind 1000
+*** HOLE CARDS ***
+Gsmith13: folds 
+Go4ElvIS: raises 8257 to 9257 and is all-in
+mennck: folds 
+$aymon9: folds 
+dulek_jason: folds 
+jessecesar: calls 8257
+*** FLOP *** [Qh Th Js]
+*** TURN *** [Qh Th Js] [As]
+*** RIVER *** [Qh Th Js As] [Td]
+*** SHOW DOWN ***
+jessecesar: shows [Qd Ah] (two pair, Aces and Queens)
+Go4ElvIS: shows [Ad Jc] (two pair, Aces and Jacks)
+jessecesar collected 20514 from pot
+Go4ElvIS finished the tournament
+*** SUMMARY ***
+Total pot 20514 | Rake 0 
+Board [Qh Th Js As Td]
+Seat 1: dulek_jason (small blind) folded before Flop
+Seat 2: jessecesar (big blind) showed [Qd Ah] and won (20514) with two pair, Aces and Queens
+Seat 3: Gsmith13 folded before Flop (didn't bet)
+Seat 4: Go4ElvIS showed [Ad Jc] and lost with two pair, Aces and Jacks
+Seat 5: mennck folded before Flop (didn't bet)
+Seat 6: $aymon9 (button) folded before Flop (didn't bet)

@@ -1,0 +1,2283 @@
+PokerStars Hand #251205591253: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:06:11 UTC [2024/06/26 15:06:11 ET]
+Table '3767885527 35' 8-max Seat #1 is the button
+Seat 1: hiran bass (33141 in chips) 
+Seat 2: Famazaja (33260 in chips) 
+Seat 3: atg590 (72411 in chips) 
+Seat 4: PhoenixGrind (96000 in chips) 
+Seat 5: Johevera (49368 in chips) 
+Seat 6: sQuezzeYoU!! (44387 in chips) 
+Seat 7: jaimico00793 (8393 in chips) 
+Seat 8: gwallgofddyn (102599 in chips) 
+hiran bass: posts the ante 150
+Famazaja: posts the ante 150
+atg590: posts the ante 150
+PhoenixGrind: posts the ante 150
+Johevera: posts the ante 150
+sQuezzeYoU!!: posts the ante 150
+jaimico00793: posts the ante 150
+gwallgofddyn: posts the ante 150
+Famazaja: posts small blind 600
+atg590: posts big blind 1200
+*** HOLE CARDS ***
+PhoenixGrind: folds 
+Johevera: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: raises 1560 to 2760
+hiran bass: calls 2760
+Famazaja: folds 
+atg590: calls 1560
+*** FLOP *** [2d 4d Js]
+atg590: checks 
+gwallgofddyn: bets 4032
+hiran bass: folds 
+atg590: calls 4032
+*** TURN *** [2d 4d Js] [9h]
+atg590: checks 
+gwallgofddyn: checks 
+*** RIVER *** [2d 4d Js 9h] [5s]
+atg590: bets 9072
+gwallgofddyn: folds 
+Uncalled bet (9072) returned to atg590
+atg590 collected 18144 from pot
+*** SUMMARY ***
+Total pot 18144 | Rake 0 
+Board [2d 4d Js 9h 5s]
+Seat 1: hiran bass (button) folded on the Flop
+Seat 2: Famazaja (small blind) folded before Flop
+Seat 3: atg590 (big blind) collected (18144)
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 5: Johevera folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn folded on the River
+
+PokerStars Hand #251205606358: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:07:07 UTC [2024/06/26 15:07:07 ET]
+Table '3767885527 35' 8-max Seat #2 is the button
+Seat 1: hiran bass (30231 in chips) 
+Seat 2: Famazaja (32510 in chips) 
+Seat 3: atg590 (83613 in chips) 
+Seat 4: PhoenixGrind (95850 in chips) 
+Seat 5: Johevera (49218 in chips) 
+Seat 6: sQuezzeYoU!! (44237 in chips) 
+Seat 7: jaimico00793 (8243 in chips) 
+Seat 8: gwallgofddyn (95657 in chips) 
+hiran bass: posts the ante 150
+Famazaja: posts the ante 150
+atg590: posts the ante 150
+PhoenixGrind: posts the ante 150
+Johevera: posts the ante 150
+sQuezzeYoU!!: posts the ante 150
+jaimico00793: posts the ante 150
+gwallgofddyn: posts the ante 150
+atg590: posts small blind 600
+PhoenixGrind: posts big blind 1200
+*** HOLE CARDS ***
+Johevera: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: raises 6893 to 8093 and is all-in
+gwallgofddyn: folds 
+hiran bass: folds 
+Famazaja: folds 
+atg590: folds 
+PhoenixGrind: calls 6893
+*** FLOP *** [Qs 9h 5d]
+*** TURN *** [Qs 9h 5d] [Ac]
+*** RIVER *** [Qs 9h 5d Ac] [8d]
+*** SHOW DOWN ***
+PhoenixGrind: shows [Kd 3d] (high card Ace)
+jaimico00793: shows [Qc Ad] (two pair, Aces and Queens)
+jaimico00793 collected 17986 from pot
+*** SUMMARY ***
+Total pot 17986 | Rake 0 
+Board [Qs 9h 5d Ac 8d]
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: Famazaja (button) folded before Flop (didn't bet)
+Seat 3: atg590 (small blind) folded before Flop
+Seat 4: PhoenixGrind (big blind) showed [Kd 3d] and lost with high card Ace
+Seat 5: Johevera folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 showed [Qc Ad] and won (17986) with two pair, Aces and Queens
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251205612998: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:07:32 UTC [2024/06/26 15:07:32 ET]
+Table '3767885527 35' 8-max Seat #3 is the button
+Seat 1: hiran bass (30081 in chips) 
+Seat 2: Famazaja (32360 in chips) 
+Seat 3: atg590 (82863 in chips) 
+Seat 4: PhoenixGrind (87607 in chips) 
+Seat 5: Johevera (49068 in chips) 
+Seat 6: sQuezzeYoU!! (44087 in chips) 
+Seat 7: jaimico00793 (17986 in chips) 
+Seat 8: gwallgofddyn (95507 in chips) 
+hiran bass: posts the ante 150
+Famazaja: posts the ante 150
+atg590: posts the ante 150
+PhoenixGrind: posts the ante 150
+Johevera: posts the ante 150
+sQuezzeYoU!!: posts the ante 150
+jaimico00793: posts the ante 150
+gwallgofddyn: posts the ante 150
+PhoenixGrind: posts small blind 600
+Johevera: posts big blind 1200
+*** HOLE CARDS ***
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: raises 1560 to 2760
+hiran bass: raises 3840 to 6600
+Famazaja: folds 
+atg590: folds 
+PhoenixGrind: folds 
+Johevera: folds 
+gwallgofddyn: calls 3840
+*** FLOP *** [7c Qc Kh]
+gwallgofddyn: checks 
+hiran bass: checks 
+*** TURN *** [7c Qc Kh] [9h]
+gwallgofddyn: checks 
+hiran bass: checks 
+*** RIVER *** [7c Qc Kh 9h] [5c]
+gwallgofddyn: bets 6480
+hiran bass: folds 
+Uncalled bet (6480) returned to gwallgofddyn
+gwallgofddyn collected 16200 from pot
+gwallgofddyn: doesn't show hand 
+*** SUMMARY ***
+Total pot 16200 | Rake 0 
+Board [7c Qc Kh 9h 5c]
+Seat 1: hiran bass folded on the River
+Seat 2: Famazaja folded before Flop (didn't bet)
+Seat 3: atg590 (button) folded before Flop (didn't bet)
+Seat 4: PhoenixGrind (small blind) folded before Flop
+Seat 5: Johevera (big blind) folded before Flop
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn collected (16200)
+
+PokerStars Hand #251205632476: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:08:46 UTC [2024/06/26 15:08:46 ET]
+Table '3767885527 35' 8-max Seat #4 is the button
+Seat 1: hiran bass (23331 in chips) 
+Seat 2: Famazaja (32210 in chips) 
+Seat 3: atg590 (82713 in chips) 
+Seat 4: PhoenixGrind (86857 in chips) 
+Seat 5: Johevera (47718 in chips) 
+Seat 6: sQuezzeYoU!! (43937 in chips) 
+Seat 7: jaimico00793 (17836 in chips) 
+Seat 8: gwallgofddyn (104957 in chips) 
+hiran bass: posts the ante 150
+Famazaja: posts the ante 150
+atg590: posts the ante 150
+PhoenixGrind: posts the ante 150
+Johevera: posts the ante 150
+sQuezzeYoU!!: posts the ante 150
+jaimico00793: posts the ante 150
+gwallgofddyn: posts the ante 150
+Johevera: posts small blind 600
+sQuezzeYoU!!: posts big blind 1200
+*** HOLE CARDS ***
+jaimico00793: folds 
+gwallgofddyn: folds 
+hiran bass: folds 
+Famazaja: folds 
+atg590: folds 
+PhoenixGrind: raises 1800 to 3000
+Johevera: folds 
+sQuezzeYoU!!: folds 
+Uncalled bet (1800) returned to PhoenixGrind
+PhoenixGrind collected 4200 from pot
+PhoenixGrind: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: Famazaja folded before Flop (didn't bet)
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind (button) collected (4200)
+Seat 5: Johevera (small blind) folded before Flop
+Seat 6: sQuezzeYoU!! (big blind) folded before Flop
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251205637604: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XI (600/1200) - 2024/06/26 19:09:05 UTC [2024/06/26 15:09:05 ET]
+Table '3767885527 35' 8-max Seat #5 is the button
+Seat 1: hiran bass (23181 in chips) 
+Seat 2: Famazaja (32060 in chips) 
+Seat 3: atg590 (82563 in chips) 
+Seat 4: PhoenixGrind (89707 in chips) 
+Seat 5: Johevera (46968 in chips) 
+Seat 6: sQuezzeYoU!! (42587 in chips) 
+Seat 7: jaimico00793 (17686 in chips) 
+Seat 8: gwallgofddyn (104807 in chips) 
+hiran bass: posts the ante 150
+Famazaja: posts the ante 150
+atg590: posts the ante 150
+PhoenixGrind: posts the ante 150
+Johevera: posts the ante 150
+sQuezzeYoU!!: posts the ante 150
+jaimico00793: posts the ante 150
+gwallgofddyn: posts the ante 150
+sQuezzeYoU!!: posts small blind 600
+jaimico00793: posts big blind 1200
+*** HOLE CARDS ***
+gwallgofddyn: folds 
+hiran bass: folds 
+Famazaja: raises 1200 to 2400
+atg590: folds 
+PhoenixGrind: folds 
+Johevera: folds 
+sQuezzeYoU!!: calls 1800
+jaimico00793: folds 
+*** FLOP *** [8c 7c Kh]
+sQuezzeYoU!!: checks 
+Famazaja: bets 3600
+sQuezzeYoU!!: calls 3600
+*** TURN *** [8c 7c Kh] [3d]
+sQuezzeYoU!!: checks 
+Famazaja: checks 
+*** RIVER *** [8c 7c Kh 3d] [8h]
+sQuezzeYoU!!: bets 8496
+Famazaja: folds 
+Uncalled bet (8496) returned to sQuezzeYoU!!
+sQuezzeYoU!! collected 14400 from pot
+sQuezzeYoU!!: doesn't show hand 
+*** SUMMARY ***
+Total pot 14400 | Rake 0 
+Board [8c 7c Kh 3d 8h]
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: Famazaja folded on the River
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 5: Johevera (button) folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! (small blind) collected (14400)
+Seat 7: jaimico00793 (big blind) folded before Flop
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251205652966: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:10:02 UTC [2024/06/26 15:10:02 ET]
+Table '3767885527 35' 8-max Seat #6 is the button
+Seat 1: hiran bass (23031 in chips) 
+Seat 2: Famazaja (25910 in chips) 
+Seat 3: atg590 (82413 in chips) 
+Seat 4: PhoenixGrind (89557 in chips) 
+Seat 5: Johevera (46818 in chips) 
+Seat 6: sQuezzeYoU!! (50837 in chips) 
+Seat 7: jaimico00793 (16336 in chips) 
+Seat 8: gwallgofddyn (104657 in chips) 
+hiran bass: posts the ante 175
+Famazaja: posts the ante 175
+atg590: posts the ante 175
+PhoenixGrind: posts the ante 175
+Johevera: posts the ante 175
+sQuezzeYoU!!: posts the ante 175
+jaimico00793: posts the ante 175
+gwallgofddyn: posts the ante 175
+jaimico00793: posts small blind 700
+gwallgofddyn: posts big blind 1400
+*** HOLE CARDS ***
+hiran bass: folds 
+Famazaja: folds 
+atg590: folds 
+PhoenixGrind has timed out
+PhoenixGrind: folds 
+PhoenixGrind is sitting out
+Johevera: raises 1540 to 2940
+sQuezzeYoU!!: folds 
+PhoenixGrind has returned
+jaimico00793: folds 
+gwallgofddyn: calls 1540
+*** FLOP *** [Qd Kc Ts]
+gwallgofddyn: checks 
+Johevera: bets 5985
+gwallgofddyn: calls 5985
+*** TURN *** [Qd Kc Ts] [Qh]
+gwallgofddyn: checks 
+Johevera: checks 
+*** RIVER *** [Qd Kc Ts Qh] [2s]
+gwallgofddyn: bets 16100
+Johevera: folds 
+Uncalled bet (16100) returned to gwallgofddyn
+gwallgofddyn collected 19950 from pot
+gwallgofddyn: doesn't show hand 
+*** SUMMARY ***
+Total pot 19950 | Rake 0 
+Board [Qd Kc Ts Qh 2s]
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: Famazaja folded before Flop (didn't bet)
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 5: Johevera folded on the River
+Seat 6: sQuezzeYoU!! (button) folded before Flop (didn't bet)
+Seat 7: jaimico00793 (small blind) folded before Flop
+Seat 8: gwallgofddyn (big blind) collected (19950)
+
+PokerStars Hand #251205674037: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:11:21 UTC [2024/06/26 15:11:21 ET]
+Table '3767885527 35' 8-max Seat #7 is the button
+Seat 1: hiran bass (22856 in chips) 
+Seat 2: Famazaja (25735 in chips) 
+Seat 3: atg590 (82238 in chips) 
+Seat 4: PhoenixGrind (89382 in chips) 
+Seat 5: Johevera (37718 in chips) 
+Seat 6: sQuezzeYoU!! (50662 in chips) 
+Seat 7: jaimico00793 (15461 in chips) 
+Seat 8: gwallgofddyn (115507 in chips) 
+hiran bass: posts the ante 175
+Famazaja: posts the ante 175
+atg590: posts the ante 175
+PhoenixGrind: posts the ante 175
+Johevera: posts the ante 175
+sQuezzeYoU!!: posts the ante 175
+jaimico00793: posts the ante 175
+gwallgofddyn: posts the ante 175
+gwallgofddyn: posts small blind 700
+hiran bass: posts big blind 1400
+*** HOLE CARDS ***
+Famazaja: raises 1400 to 2800
+atg590: folds 
+PhoenixGrind: folds 
+Johevera: folds 
+sQuezzeYoU!!: raises 5600 to 8400
+jaimico00793: folds 
+gwallgofddyn: folds 
+hiran bass: folds 
+Famazaja: folds 
+Uncalled bet (5600) returned to sQuezzeYoU!!
+sQuezzeYoU!! collected 9100 from pot
+sQuezzeYoU!!: doesn't show hand 
+*** SUMMARY ***
+Total pot 9100 | Rake 0 
+Seat 1: hiran bass (big blind) folded before Flop
+Seat 2: Famazaja folded before Flop
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 5: Johevera folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! collected (9100)
+Seat 7: jaimico00793 (button) folded before Flop (didn't bet)
+Seat 8: gwallgofddyn (small blind) folded before Flop
+
+PokerStars Hand #251205684914: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:12:01 UTC [2024/06/26 15:12:01 ET]
+Table '3767885527 35' 8-max Seat #8 is the button
+Seat 1: hiran bass (21281 in chips) 
+Seat 2: Famazaja (22760 in chips) 
+Seat 3: atg590 (82063 in chips) 
+Seat 4: PhoenixGrind (89207 in chips) 
+Seat 5: Johevera (37543 in chips) 
+Seat 6: sQuezzeYoU!! (56787 in chips) 
+Seat 7: jaimico00793 (15286 in chips) 
+Seat 8: gwallgofddyn (114632 in chips) 
+hiran bass: posts the ante 175
+Famazaja: posts the ante 175
+atg590: posts the ante 175
+PhoenixGrind: posts the ante 175
+Johevera: posts the ante 175
+sQuezzeYoU!!: posts the ante 175
+jaimico00793: posts the ante 175
+gwallgofddyn: posts the ante 175
+hiran bass: posts small blind 700
+Famazaja: posts big blind 1400
+*** HOLE CARDS ***
+atg590: folds 
+PhoenixGrind: folds 
+Johevera: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: folds 
+hiran bass: raises 19706 to 21106 and is all-in
+Famazaja: folds 
+Uncalled bet (19706) returned to hiran bass
+hiran bass collected 4200 from pot
+hiran bass: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 1: hiran bass (small blind) collected (4200)
+Seat 2: Famazaja (big blind) folded before Flop
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 5: Johevera folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205690421: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:12:21 UTC [2024/06/26 15:12:21 ET]
+Table '3767885527 35' 8-max Seat #1 is the button
+Seat 1: hiran bass (23906 in chips) 
+Seat 2: Famazaja (21185 in chips) 
+Seat 3: atg590 (81888 in chips) 
+Seat 4: PhoenixGrind (89032 in chips) 
+Seat 5: Johevera (37368 in chips) 
+Seat 6: sQuezzeYoU!! (56612 in chips) 
+Seat 7: jaimico00793 (15111 in chips) 
+Seat 8: gwallgofddyn (114457 in chips) 
+hiran bass: posts the ante 175
+Famazaja: posts the ante 175
+atg590: posts the ante 175
+PhoenixGrind: posts the ante 175
+Johevera: posts the ante 175
+sQuezzeYoU!!: posts the ante 175
+jaimico00793: posts the ante 175
+gwallgofddyn: posts the ante 175
+Famazaja: posts small blind 700
+atg590: posts big blind 1400
+*** HOLE CARDS ***
+PhoenixGrind: folds 
+Johevera: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: raises 1820 to 3220
+hiran bass: folds 
+Famazaja: folds 
+atg590: folds 
+Uncalled bet (1820) returned to gwallgofddyn
+gwallgofddyn collected 4900 from pot
+gwallgofddyn: doesn't show hand 
+*** SUMMARY ***
+Total pot 4900 | Rake 0 
+Seat 1: hiran bass (button) folded before Flop (didn't bet)
+Seat 2: Famazaja (small blind) folded before Flop
+Seat 3: atg590 (big blind) folded before Flop
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 5: Johevera folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn collected (4900)
+
+PokerStars Hand #251205696633: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:12:44 UTC [2024/06/26 15:12:44 ET]
+Table '3767885527 35' 8-max Seat #2 is the button
+Seat 1: hiran bass (23731 in chips) 
+Seat 2: Famazaja (20310 in chips) 
+Seat 3: atg590 (80313 in chips) 
+Seat 4: PhoenixGrind (88857 in chips) 
+Seat 5: Johevera (37193 in chips) 
+Seat 6: sQuezzeYoU!! (56437 in chips) 
+Seat 7: jaimico00793 (14936 in chips) 
+Seat 8: gwallgofddyn (117782 in chips) 
+hiran bass: posts the ante 175
+Famazaja: posts the ante 175
+atg590: posts the ante 175
+PhoenixGrind: posts the ante 175
+Johevera: posts the ante 175
+sQuezzeYoU!!: posts the ante 175
+jaimico00793: posts the ante 175
+gwallgofddyn: posts the ante 175
+atg590: posts small blind 700
+PhoenixGrind: posts big blind 1400
+*** HOLE CARDS ***
+Johevera: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: raises 1820 to 3220
+hiran bass: folds 
+Famazaja: calls 3220
+atg590: folds 
+PhoenixGrind: folds 
+*** FLOP *** [Kh 6d 3d]
+gwallgofddyn: bets 2800
+Famazaja: raises 14115 to 16915 and is all-in
+gwallgofddyn: calls 14115
+*** TURN *** [Kh 6d 3d] [6s]
+*** RIVER *** [Kh 6d 3d 6s] [Ac]
+*** SHOW DOWN ***
+gwallgofddyn: shows [Kc 8c] (two pair, Kings and Sixes)
+Famazaja: shows [8d 9d] (a pair of Sixes)
+gwallgofddyn collected 43770 from pot
+Famazaja finished the tournament
+*** SUMMARY ***
+Total pot 43770 | Rake 0 
+Board [Kh 6d 3d 6s Ac]
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: Famazaja (button) showed [8d 9d] and lost with a pair of Sixes
+Seat 3: atg590 (small blind) folded before Flop
+Seat 4: PhoenixGrind (big blind) folded before Flop
+Seat 5: Johevera folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn showed [Kc 8c] and won (43770) with two pair, Kings and Sixes
+
+PokerStars Hand #251205716395: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:13:57 UTC [2024/06/26 15:13:57 ET]
+Table '3767885527 35' 8-max Seat #3 is the button
+Seat 1: hiran bass (23556 in chips) 
+Seat 3: atg590 (79438 in chips) 
+Seat 4: PhoenixGrind (87282 in chips) 
+Seat 5: Johevera (37018 in chips) 
+Seat 6: sQuezzeYoU!! (56262 in chips) 
+Seat 7: jaimico00793 (14761 in chips) 
+Seat 8: gwallgofddyn (141242 in chips) 
+hiran bass: posts the ante 175
+atg590: posts the ante 175
+PhoenixGrind: posts the ante 175
+Johevera: posts the ante 175
+sQuezzeYoU!!: posts the ante 175
+jaimico00793: posts the ante 175
+gwallgofddyn: posts the ante 175
+PhoenixGrind: posts small blind 700
+Johevera: posts big blind 1400
+*** HOLE CARDS ***
+sQuezzeYoU!!: folds 
+jaimico00793: raises 13186 to 14586 and is all-in
+gwallgofddyn: folds 
+hiran bass: folds 
+atg590: folds 
+PhoenixGrind: folds 
+StoraEss is disconnected 
+Johevera: folds 
+Uncalled bet (13186) returned to jaimico00793
+jaimico00793 collected 4725 from pot
+jaimico00793: doesn't show hand 
+*** SUMMARY ***
+Total pot 4725 | Rake 0 
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 3: atg590 (button) folded before Flop (didn't bet)
+Seat 4: PhoenixGrind (small blind) folded before Flop
+Seat 5: Johevera (big blind) folded before Flop
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 collected (4725)
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251205723452: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:14:23 UTC [2024/06/26 15:14:23 ET]
+Table '3767885527 35' 8-max Seat #4 is the button
+Seat 1: hiran bass (23381 in chips) 
+Seat 2: StoraEss (25000 in chips) 
+Seat 3: atg590 (79263 in chips) 
+Seat 4: PhoenixGrind (86407 in chips) 
+Seat 5: Johevera (35443 in chips) 
+Seat 6: sQuezzeYoU!! (56087 in chips) 
+Seat 7: jaimico00793 (17911 in chips) 
+Seat 8: gwallgofddyn (141067 in chips) 
+hiran bass: posts the ante 175
+StoraEss: posts the ante 175
+atg590: posts the ante 175
+PhoenixGrind: posts the ante 175
+Johevera: posts the ante 175
+sQuezzeYoU!!: posts the ante 175
+jaimico00793: posts the ante 175
+gwallgofddyn: posts the ante 175
+Johevera: posts small blind 700
+sQuezzeYoU!!: posts big blind 1400
+*** HOLE CARDS ***
+jaimico00793: folds 
+gwallgofddyn: raises 1820 to 3220
+hiran bass: folds 
+StoraEss: folds 
+atg590: calls 3220
+PhoenixGrind: folds 
+Johevera: folds 
+sQuezzeYoU!!: folds 
+*** FLOP *** [3d Qh Qc]
+gwallgofddyn: checks 
+atg590: checks 
+*** TURN *** [3d Qh Qc] [Qd]
+gwallgofddyn: checks 
+atg590: bets 4200
+gwallgofddyn: calls 4200
+*** RIVER *** [3d Qh Qc Qd] [6d]
+gwallgofddyn: checks 
+atg590: bets 9170
+gwallgofddyn: folds 
+Uncalled bet (9170) returned to atg590
+atg590 collected 18340 from pot
+*** SUMMARY ***
+Total pot 18340 | Rake 0 
+Board [3d Qh Qc Qd 6d]
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: StoraEss folded before Flop (didn't bet)
+Seat 3: atg590 collected (18340)
+Seat 4: PhoenixGrind (button) folded before Flop (didn't bet)
+Seat 5: Johevera (small blind) folded before Flop
+Seat 6: sQuezzeYoU!! (big blind) folded before Flop
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn folded on the River
+
+PokerStars Hand #251205738663: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:15:19 UTC [2024/06/26 15:15:19 ET]
+Table '3767885527 35' 8-max Seat #5 is the button
+Seat 1: hiran bass (23206 in chips) 
+Seat 2: StoraEss (24825 in chips) 
+Seat 3: atg590 (90008 in chips) 
+Seat 4: PhoenixGrind (86232 in chips) 
+Seat 5: Johevera (34568 in chips) 
+Seat 6: sQuezzeYoU!! (54512 in chips) 
+Seat 7: jaimico00793 (17736 in chips) 
+Seat 8: gwallgofddyn (133472 in chips) 
+hiran bass: posts the ante 175
+StoraEss: posts the ante 175
+atg590: posts the ante 175
+PhoenixGrind: posts the ante 175
+Johevera: posts the ante 175
+sQuezzeYoU!!: posts the ante 175
+jaimico00793: posts the ante 175
+gwallgofddyn: posts the ante 175
+sQuezzeYoU!!: posts small blind 700
+jaimico00793: posts big blind 1400
+*** HOLE CARDS ***
+gwallgofddyn: folds 
+hiran bass: folds 
+StoraEss: folds 
+atg590: folds 
+PhoenixGrind: raises 2100 to 3500
+Johevera: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+Uncalled bet (2100) returned to PhoenixGrind
+PhoenixGrind collected 4900 from pot
+PhoenixGrind: doesn't show hand 
+*** SUMMARY ***
+Total pot 4900 | Rake 0 
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: StoraEss folded before Flop (didn't bet)
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind collected (4900)
+Seat 5: Johevera (button) folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! (small blind) folded before Flop
+Seat 7: jaimico00793 (big blind) folded before Flop
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251205745892: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:15:46 UTC [2024/06/26 15:15:46 ET]
+Table '3767885527 35' 8-max Seat #6 is the button
+Seat 1: hiran bass (23031 in chips) 
+Seat 2: StoraEss (24650 in chips) 
+Seat 3: atg590 (89833 in chips) 
+Seat 4: PhoenixGrind (89557 in chips) 
+Seat 5: Johevera (34393 in chips) 
+Seat 6: sQuezzeYoU!! (53637 in chips) 
+Seat 7: jaimico00793 (16161 in chips) 
+Seat 8: gwallgofddyn (133297 in chips) 
+hiran bass: posts the ante 175
+StoraEss: posts the ante 175
+atg590: posts the ante 175
+PhoenixGrind: posts the ante 175
+Johevera: posts the ante 175
+sQuezzeYoU!!: posts the ante 175
+jaimico00793: posts the ante 175
+gwallgofddyn: posts the ante 175
+jaimico00793: posts small blind 700
+gwallgofddyn: posts big blind 1400
+*** HOLE CARDS ***
+hiran bass: raises 1400 to 2800
+StoraEss: folds 
+atg590: folds 
+PhoenixGrind: folds 
+Johevera: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: calls 1400
+*** FLOP *** [6s 6h 3s]
+gwallgofddyn: checks 
+hiran bass: bets 2541
+gwallgofddyn: raises 5159 to 7700
+hiran bass: folds 
+Uncalled bet (5159) returned to gwallgofddyn
+gwallgofddyn collected 12782 from pot
+gwallgofddyn: doesn't show hand 
+*** SUMMARY ***
+Total pot 12782 | Rake 0 
+Board [6s 6h 3s]
+Seat 1: hiran bass folded on the Flop
+Seat 2: StoraEss folded before Flop (didn't bet)
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 5: Johevera folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! (button) folded before Flop (didn't bet)
+Seat 7: jaimico00793 (small blind) folded before Flop
+Seat 8: gwallgofddyn (big blind) collected (12782)
+
+PokerStars Hand #251205759420: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:16:35 UTC [2024/06/26 15:16:35 ET]
+Table '3767885527 35' 8-max Seat #7 is the button
+Seat 1: hiran bass (17515 in chips) 
+Seat 2: StoraEss (24475 in chips) 
+Seat 3: atg590 (89658 in chips) 
+Seat 4: PhoenixGrind (89382 in chips) 
+Seat 5: Johevera (34218 in chips) 
+Seat 6: sQuezzeYoU!! (53462 in chips) 
+Seat 7: jaimico00793 (15286 in chips) 
+Seat 8: gwallgofddyn (140563 in chips) 
+hiran bass: posts the ante 175
+StoraEss: posts the ante 175
+atg590: posts the ante 175
+PhoenixGrind: posts the ante 175
+Johevera: posts the ante 175
+sQuezzeYoU!!: posts the ante 175
+jaimico00793: posts the ante 175
+gwallgofddyn: posts the ante 175
+gwallgofddyn: posts small blind 700
+hiran bass: posts big blind 1400
+*** HOLE CARDS ***
+StoraEss: folds 
+atg590: folds 
+PhoenixGrind: folds 
+Johevera: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: raises 138988 to 140388 and is all-in
+hiran bass: folds 
+Uncalled bet (138988) returned to gwallgofddyn
+gwallgofddyn collected 4200 from pot
+gwallgofddyn: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 1: hiran bass (big blind) folded before Flop
+Seat 2: StoraEss folded before Flop (didn't bet)
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 5: Johevera folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 (button) folded before Flop (didn't bet)
+Seat 8: gwallgofddyn (small blind) collected (4200)
+
+PokerStars Hand #251205770206: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:17:15 UTC [2024/06/26 15:17:15 ET]
+Table '3767885527 35' 8-max Seat #8 is the button
+Seat 1: hiran bass (15940 in chips) 
+Seat 2: StoraEss (24300 in chips) 
+Seat 3: atg590 (89483 in chips) 
+Seat 4: PhoenixGrind (89207 in chips) 
+Seat 5: Johevera (34043 in chips) 
+Seat 6: sQuezzeYoU!! (53287 in chips) 
+Seat 7: jaimico00793 (15111 in chips) 
+Seat 8: gwallgofddyn (143188 in chips) 
+hiran bass: posts the ante 175
+StoraEss: posts the ante 175
+atg590: posts the ante 175
+PhoenixGrind: posts the ante 175
+Johevera: posts the ante 175
+sQuezzeYoU!!: posts the ante 175
+jaimico00793: posts the ante 175
+gwallgofddyn: posts the ante 175
+hiran bass: posts small blind 700
+StoraEss: posts big blind 1400
+*** HOLE CARDS ***
+atg590: folds 
+PhoenixGrind: folds 
+Johevera: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: raises 13536 to 14936 and is all-in
+gwallgofddyn: folds 
+hiran bass: folds 
+StoraEss: folds 
+Uncalled bet (13536) returned to jaimico00793
+jaimico00793 collected 4900 from pot
+jaimico00793: doesn't show hand 
+*** SUMMARY ***
+Total pot 4900 | Rake 0 
+Seat 1: hiran bass (small blind) folded before Flop
+Seat 2: StoraEss (big blind) folded before Flop
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 5: Johevera folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 collected (4900)
+Seat 8: gwallgofddyn (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205775902: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:17:36 UTC [2024/06/26 15:17:36 ET]
+Table '3767885527 35' 8-max Seat #1 is the button
+Seat 1: hiran bass (15065 in chips) 
+Seat 2: StoraEss (22725 in chips) 
+Seat 3: atg590 (89308 in chips) 
+Seat 4: PhoenixGrind (89032 in chips) 
+Seat 5: Johevera (33868 in chips) 
+Seat 6: sQuezzeYoU!! (53112 in chips) 
+Seat 7: jaimico00793 (18436 in chips) 
+Seat 8: gwallgofddyn (143013 in chips) 
+hiran bass: posts the ante 175
+StoraEss: posts the ante 175
+atg590: posts the ante 175
+PhoenixGrind: posts the ante 175
+Johevera: posts the ante 175
+sQuezzeYoU!!: posts the ante 175
+jaimico00793: posts the ante 175
+gwallgofddyn: posts the ante 175
+StoraEss: posts small blind 700
+atg590: posts big blind 1400
+*** HOLE CARDS ***
+PhoenixGrind: folds 
+Johevera: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: raises 1820 to 3220
+hiran bass: folds 
+StoraEss: raises 19330 to 22550 and is all-in
+atg590: folds 
+gwallgofddyn: folds 
+Uncalled bet (19330) returned to StoraEss
+StoraEss collected 9240 from pot
+StoraEss: doesn't show hand 
+*** SUMMARY ***
+Total pot 9240 | Rake 0 
+Seat 1: hiran bass (button) folded before Flop (didn't bet)
+Seat 2: StoraEss (small blind) collected (9240)
+Seat 3: atg590 (big blind) folded before Flop
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 5: Johevera folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn folded before Flop
+
+PokerStars Hand #251205782081: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XII (700/1400) - 2024/06/26 19:17:59 UTC [2024/06/26 15:17:59 ET]
+Table '3767885527 35' 8-max Seat #2 is the button
+Seat 1: hiran bass (14890 in chips) 
+Seat 2: StoraEss (28570 in chips) 
+Seat 3: atg590 (87733 in chips) 
+Seat 4: PhoenixGrind (88857 in chips) 
+Seat 5: Johevera (33693 in chips) 
+Seat 6: sQuezzeYoU!! (52937 in chips) 
+Seat 7: jaimico00793 (18261 in chips) 
+Seat 8: gwallgofddyn (139618 in chips) 
+hiran bass: posts the ante 175
+StoraEss: posts the ante 175
+atg590: posts the ante 175
+PhoenixGrind: posts the ante 175
+Johevera: posts the ante 175
+sQuezzeYoU!!: posts the ante 175
+jaimico00793: posts the ante 175
+gwallgofddyn: posts the ante 175
+atg590: posts small blind 700
+PhoenixGrind: posts big blind 1400
+*** HOLE CARDS ***
+Johevera: raises 1400 to 2800
+sQuezzeYoU!!: folds 
+jaimico00793: calls 2800
+gwallgofddyn: folds 
+hiran bass: folds 
+StoraEss: folds 
+atg590: folds 
+PhoenixGrind: calls 1400
+*** FLOP *** [6s Ac 5h]
+PhoenixGrind: checks 
+Johevera: checks 
+jaimico00793: checks 
+*** TURN *** [6s Ac 5h] [Kd]
+PhoenixGrind: checks 
+Johevera: bets 4900
+jaimico00793: calls 4900
+PhoenixGrind: folds 
+*** RIVER *** [6s Ac 5h Kd] [7d]
+Johevera: bets 25818 and is all-in
+jaimico00793: calls 10386 and is all-in
+Uncalled bet (15432) returned to Johevera
+*** SHOW DOWN ***
+Johevera: shows [As Kc] (two pair, Aces and Kings)
+jaimico00793: shows [Ad Ah] (three of a kind, Aces)
+jaimico00793 collected 41072 from pot
+*** SUMMARY ***
+Total pot 41072 | Rake 0 
+Board [6s Ac 5h Kd 7d]
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: StoraEss (button) folded before Flop (didn't bet)
+Seat 3: atg590 (small blind) folded before Flop
+Seat 4: PhoenixGrind (big blind) folded on the Turn
+Seat 5: Johevera showed [As Kc] and lost with two pair, Aces and Kings
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 showed [Ad Ah] and won (41072) with three of a kind, Aces
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251205812123: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:19:48 UTC [2024/06/26 15:19:48 ET]
+Table '3767885527 35' 8-max Seat #3 is the button
+Seat 1: hiran bass (14715 in chips) 
+Seat 2: StoraEss (28395 in chips) 
+Seat 3: atg590 (86858 in chips) 
+Seat 4: PhoenixGrind (85882 in chips) 
+Seat 5: Johevera (15432 in chips) 
+Seat 6: sQuezzeYoU!! (52762 in chips) 
+Seat 7: jaimico00793 (41072 in chips) 
+Seat 8: gwallgofddyn (139443 in chips) 
+hiran bass: posts the ante 200
+StoraEss: posts the ante 200
+atg590: posts the ante 200
+PhoenixGrind: posts the ante 200
+Johevera: posts the ante 200
+sQuezzeYoU!!: posts the ante 200
+jaimico00793: posts the ante 200
+gwallgofddyn: posts the ante 200
+PhoenixGrind: posts small blind 800
+Johevera: posts big blind 1600
+*** HOLE CARDS ***
+sQuezzeYoU!!: raises 1875 to 3475
+jaimico00793: folds 
+gwallgofddyn: folds 
+hiran bass: folds 
+StoraEss: folds 
+atg590: folds 
+PhoenixGrind: folds 
+Johevera: calls 1875
+*** FLOP *** [Kh Ts 9d]
+Johevera: checks 
+sQuezzeYoU!!: bets 2805
+Johevera: folds 
+Uncalled bet (2805) returned to sQuezzeYoU!!
+sQuezzeYoU!! collected 9350 from pot
+sQuezzeYoU!!: doesn't show hand 
+*** SUMMARY ***
+Total pot 9350 | Rake 0 
+Board [Kh Ts 9d]
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: StoraEss folded before Flop (didn't bet)
+Seat 3: atg590 (button) folded before Flop (didn't bet)
+Seat 4: PhoenixGrind (small blind) folded before Flop
+Seat 5: Johevera (big blind) folded on the Flop
+Seat 6: sQuezzeYoU!! collected (9350)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251205822373: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:20:26 UTC [2024/06/26 15:20:26 ET]
+Table '3767885527 35' 8-max Seat #4 is the button
+Seat 1: hiran bass (14515 in chips) 
+Seat 2: StoraEss (28195 in chips) 
+Seat 3: atg590 (86658 in chips) 
+Seat 4: PhoenixGrind (84882 in chips) 
+Seat 5: Johevera (11757 in chips) 
+Seat 6: sQuezzeYoU!! (58437 in chips) 
+Seat 7: jaimico00793 (40872 in chips) 
+Seat 8: gwallgofddyn (139243 in chips) 
+hiran bass: posts the ante 200
+StoraEss: posts the ante 200
+atg590: posts the ante 200
+PhoenixGrind: posts the ante 200
+Johevera: posts the ante 200
+sQuezzeYoU!!: posts the ante 200
+jaimico00793: posts the ante 200
+gwallgofddyn: posts the ante 200
+Johevera: posts small blind 800
+sQuezzeYoU!!: posts big blind 1600
+*** HOLE CARDS ***
+jaimico00793: folds 
+gwallgofddyn: raises 2080 to 3680
+hiran bass: raises 10635 to 14315 and is all-in
+StoraEss: folds 
+atg590: folds 
+PhoenixGrind: folds 
+Johevera: folds 
+sQuezzeYoU!!: folds 
+gwallgofddyn: calls 10635
+*** FLOP *** [Jc 9c 2c]
+*** TURN *** [Jc 9c 2c] [4c]
+*** RIVER *** [Jc 9c 2c 4c] [3c]
+*** SHOW DOWN ***
+gwallgofddyn: shows [Qh Js] (a flush, Jack high)
+hiran bass: shows [Ts Tc] (a flush, Jack high - Ten higher)
+hiran bass collected 32630 from pot
+*** SUMMARY ***
+Total pot 32630 | Rake 0 
+Board [Jc 9c 2c 4c 3c]
+Seat 1: hiran bass showed [Ts Tc] and won (32630) with a flush, Jack high
+Seat 2: StoraEss folded before Flop (didn't bet)
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind (button) folded before Flop (didn't bet)
+Seat 5: Johevera (small blind) folded before Flop
+Seat 6: sQuezzeYoU!! (big blind) folded before Flop
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn showed [Qh Js] and lost with a flush, Jack high
+
+PokerStars Hand #251205830432: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:20:56 UTC [2024/06/26 15:20:56 ET]
+Table '3767885527 35' 8-max Seat #5 is the button
+Seat 1: hiran bass (32630 in chips) 
+Seat 2: StoraEss (27995 in chips) 
+Seat 3: atg590 (86458 in chips) 
+Seat 4: PhoenixGrind (84682 in chips) 
+Seat 5: Johevera (10757 in chips) 
+Seat 6: sQuezzeYoU!! (56637 in chips) 
+Seat 7: jaimico00793 (40672 in chips) 
+Seat 8: gwallgofddyn (124728 in chips) 
+hiran bass: posts the ante 200
+StoraEss: posts the ante 200
+atg590: posts the ante 200
+PhoenixGrind: posts the ante 200
+Johevera: posts the ante 200
+sQuezzeYoU!!: posts the ante 200
+jaimico00793: posts the ante 200
+gwallgofddyn: posts the ante 200
+sQuezzeYoU!!: posts small blind 800
+jaimico00793: posts big blind 1600
+*** HOLE CARDS ***
+gwallgofddyn: folds 
+hiran bass: folds 
+StoraEss: folds 
+atg590: folds 
+PhoenixGrind: folds 
+Johevera: folds 
+sQuezzeYoU!!: raises 3712 to 5312
+jaimico00793: folds 
+Uncalled bet (3712) returned to sQuezzeYoU!!
+sQuezzeYoU!! collected 4800 from pot
+sQuezzeYoU!!: doesn't show hand 
+*** SUMMARY ***
+Total pot 4800 | Rake 0 
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: StoraEss folded before Flop (didn't bet)
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 5: Johevera (button) folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! (small blind) collected (4800)
+Seat 7: jaimico00793 (big blind) folded before Flop
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251205839279: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:21:29 UTC [2024/06/26 15:21:29 ET]
+Table '3767885527 35' 8-max Seat #6 is the button
+Seat 1: hiran bass (32430 in chips) 
+Seat 2: StoraEss (27795 in chips) 
+Seat 3: atg590 (86258 in chips) 
+Seat 4: PhoenixGrind (84482 in chips) 
+Seat 5: Johevera (10557 in chips) 
+Seat 6: sQuezzeYoU!! (59637 in chips) 
+Seat 7: jaimico00793 (38872 in chips) 
+Seat 8: gwallgofddyn (124528 in chips) 
+hiran bass: posts the ante 200
+StoraEss: posts the ante 200
+atg590: posts the ante 200
+PhoenixGrind: posts the ante 200
+Johevera: posts the ante 200
+sQuezzeYoU!!: posts the ante 200
+jaimico00793: posts the ante 200
+gwallgofddyn: posts the ante 200
+jaimico00793: posts small blind 800
+gwallgofddyn: posts big blind 1600
+*** HOLE CARDS ***
+hiran bass: folds 
+StoraEss: raises 1600 to 3200
+atg590: folds 
+PhoenixGrind: folds 
+Johevera: raises 7157 to 10357 and is all-in
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: folds 
+StoraEss: calls 7157
+*** FLOP *** [Ts Ad 5d]
+*** TURN *** [Ts Ad 5d] [2h]
+*** RIVER *** [Ts Ad 5d 2h] [Jd]
+*** SHOW DOWN ***
+StoraEss: shows [Js Qs] (a pair of Jacks)
+Johevera: shows [8d 9c] (high card Ace)
+StoraEss collected 24714 from pot
+Johevera finished the tournament
+*** SUMMARY ***
+Total pot 24714 | Rake 0 
+Board [Ts Ad 5d 2h Jd]
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: StoraEss showed [Js Qs] and won (24714) with a pair of Jacks
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 5: Johevera showed [8d 9c] and lost with high card Ace
+Seat 6: sQuezzeYoU!! (button) folded before Flop (didn't bet)
+Seat 7: jaimico00793 (small blind) folded before Flop
+Seat 8: gwallgofddyn (big blind) folded before Flop
+
+PokerStars Hand #251205851429: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:22:13 UTC [2024/06/26 15:22:13 ET]
+Table '3767885527 35' 8-max Seat #7 is the button
+Seat 1: hiran bass (32230 in chips) 
+Seat 2: StoraEss (41952 in chips) 
+Seat 3: atg590 (86058 in chips) 
+Seat 4: PhoenixGrind (84282 in chips) 
+Seat 6: sQuezzeYoU!! (59437 in chips) 
+Seat 7: jaimico00793 (37872 in chips) 
+Seat 8: gwallgofddyn (122728 in chips) 
+hiran bass: posts the ante 200
+StoraEss: posts the ante 200
+atg590: posts the ante 200
+PhoenixGrind: posts the ante 200
+sQuezzeYoU!!: posts the ante 200
+jaimico00793: posts the ante 200
+gwallgofddyn: posts the ante 200
+gwallgofddyn: posts small blind 800
+hiran bass: posts big blind 1600
+*** HOLE CARDS ***
+StoraEss: raises 1600 to 3200
+atg590: folds 
+PhoenixGrind: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: folds 
+hiran bass: calls 1600
+*** FLOP *** [7d 5h 9d]
+hiran bass: checks 
+StoraEss: bets 4800
+hiran bass: folds 
+Uncalled bet (4800) returned to StoraEss
+StoraEss collected 8600 from pot
+StoraEss: doesn't show hand 
+*** SUMMARY ***
+Total pot 8600 | Rake 0 
+Board [7d 5h 9d]
+Seat 1: hiran bass (big blind) folded on the Flop
+Seat 2: StoraEss collected (8600)
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 (button) folded before Flop (didn't bet)
+Seat 8: gwallgofddyn (small blind) folded before Flop
+
+PokerStars Hand #251205865562: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:23:04 UTC [2024/06/26 15:23:04 ET]
+Table '3767885527 35' 8-max Seat #8 is the button
+Seat 1: hiran bass (28830 in chips) 
+Seat 2: StoraEss (47152 in chips) 
+Seat 3: atg590 (85858 in chips) 
+Seat 4: PhoenixGrind (84082 in chips) 
+Seat 6: sQuezzeYoU!! (59237 in chips) 
+Seat 7: jaimico00793 (37672 in chips) 
+Seat 8: gwallgofddyn (121728 in chips) 
+hiran bass: posts the ante 200
+StoraEss: posts the ante 200
+atg590: posts the ante 200
+PhoenixGrind: posts the ante 200
+sQuezzeYoU!!: posts the ante 200
+jaimico00793: posts the ante 200
+gwallgofddyn: posts the ante 200
+hiran bass: posts small blind 800
+StoraEss: posts big blind 1600
+*** HOLE CARDS ***
+atg590: folds 
+PhoenixGrind: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: raises 1920 to 3520
+gwallgofddyn: folds 
+hiran bass: folds 
+StoraEss: calls 1920
+*** FLOP *** [Ac 7c 5s]
+StoraEss: checks 
+jaimico00793: bets 2310
+StoraEss: folds 
+Uncalled bet (2310) returned to jaimico00793
+jaimico00793 collected 9240 from pot
+jaimico00793: doesn't show hand 
+*** SUMMARY ***
+Total pot 9240 | Rake 0 
+Board [Ac 7c 5s]
+Seat 1: hiran bass (small blind) folded before Flop
+Seat 2: StoraEss (big blind) folded on the Flop
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 collected (9240)
+Seat 8: gwallgofddyn (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205874205: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:23:36 UTC [2024/06/26 15:23:36 ET]
+Table '3767885527 35' 8-max Seat #1 is the button
+Seat 1: hiran bass (27830 in chips) 
+Seat 2: StoraEss (43432 in chips) 
+Seat 3: atg590 (85658 in chips) 
+Seat 4: PhoenixGrind (83882 in chips) 
+Seat 5: Khanuman Men (40468 in chips) 
+Seat 6: sQuezzeYoU!! (59037 in chips) 
+Seat 7: jaimico00793 (43192 in chips) 
+Seat 8: gwallgofddyn (121528 in chips) 
+hiran bass: posts the ante 200
+StoraEss: posts the ante 200
+atg590: posts the ante 200
+PhoenixGrind: posts the ante 200
+Khanuman Men: posts the ante 200
+sQuezzeYoU!!: posts the ante 200
+jaimico00793: posts the ante 200
+gwallgofddyn: posts the ante 200
+StoraEss: posts small blind 800
+atg590: posts big blind 1600
+*** HOLE CARDS ***
+PhoenixGrind: folds 
+Khanuman Men: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: raises 1600 to 3200
+gwallgofddyn: folds 
+hiran bass: folds 
+StoraEss: folds 
+atg590: raises 4800 to 8000
+jaimico00793: folds 
+Uncalled bet (4800) returned to atg590
+atg590 collected 8800 from pot
+*** SUMMARY ***
+Total pot 8800 | Rake 0 
+Seat 1: hiran bass (button) folded before Flop (didn't bet)
+Seat 2: StoraEss (small blind) folded before Flop
+Seat 3: atg590 (big blind) collected (8800)
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 5: Khanuman Men folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 folded before Flop
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251205882429: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:24:06 UTC [2024/06/26 15:24:06 ET]
+Table '3767885527 35' 8-max Seat #2 is the button
+Seat 1: hiran bass (27630 in chips) 
+Seat 2: StoraEss (42432 in chips) 
+Seat 3: atg590 (91058 in chips) 
+Seat 4: PhoenixGrind (83682 in chips) 
+Seat 5: Khanuman Men (40268 in chips) 
+Seat 6: sQuezzeYoU!! (58837 in chips) 
+Seat 7: jaimico00793 (39792 in chips) 
+Seat 8: gwallgofddyn (121328 in chips) 
+hiran bass: posts the ante 200
+StoraEss: posts the ante 200
+atg590: posts the ante 200
+PhoenixGrind: posts the ante 200
+Khanuman Men: posts the ante 200
+sQuezzeYoU!!: posts the ante 200
+jaimico00793: posts the ante 200
+gwallgofddyn: posts the ante 200
+atg590: posts small blind 800
+PhoenixGrind: posts big blind 1600
+*** HOLE CARDS ***
+Khanuman Men: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: raises 2080 to 3680
+hiran bass: folds 
+StoraEss: folds 
+atg590: raises 5280 to 8960
+PhoenixGrind: folds 
+gwallgofddyn: folds 
+Uncalled bet (5280) returned to atg590
+atg590 collected 10560 from pot
+*** SUMMARY ***
+Total pot 10560 | Rake 0 
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: StoraEss (button) folded before Flop (didn't bet)
+Seat 3: atg590 (small blind) collected (10560)
+Seat 4: PhoenixGrind (big blind) folded before Flop
+Seat 5: Khanuman Men folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn folded before Flop
+
+PokerStars Hand #251205889792: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:24:33 UTC [2024/06/26 15:24:33 ET]
+Table '3767885527 35' 8-max Seat #3 is the button
+Seat 1: hiran bass (27430 in chips) 
+Seat 2: StoraEss (42232 in chips) 
+Seat 3: atg590 (97738 in chips) 
+Seat 4: PhoenixGrind (81882 in chips) 
+Seat 5: Khanuman Men (40068 in chips) 
+Seat 6: sQuezzeYoU!! (58637 in chips) 
+Seat 7: jaimico00793 (39592 in chips) 
+Seat 8: gwallgofddyn (117448 in chips) 
+hiran bass: posts the ante 200
+StoraEss: posts the ante 200
+atg590: posts the ante 200
+PhoenixGrind: posts the ante 200
+Khanuman Men: posts the ante 200
+sQuezzeYoU!!: posts the ante 200
+jaimico00793: posts the ante 200
+gwallgofddyn: posts the ante 200
+PhoenixGrind: posts small blind 800
+Khanuman Men: posts big blind 1600
+*** HOLE CARDS ***
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: folds 
+hiran bass: folds 
+StoraEss: folds 
+atg590: folds 
+PhoenixGrind: calls 800
+Khanuman Men: raises 4800 to 6400
+PhoenixGrind: calls 4800
+*** FLOP *** [3s Ad Ah]
+PhoenixGrind: checks 
+Khanuman Men: checks 
+*** TURN *** [3s Ad Ah] [8c]
+PhoenixGrind: checks 
+Khanuman Men: bets 4800
+PhoenixGrind: calls 4800
+*** RIVER *** [3s Ad Ah 8c] [5s]
+PhoenixGrind: checks 
+Khanuman Men: checks 
+*** SHOW DOWN ***
+PhoenixGrind: shows [3c Tc] (two pair, Aces and Threes)
+Khanuman Men: mucks hand 
+PhoenixGrind collected 24000 from pot
+*** SUMMARY ***
+Total pot 24000 | Rake 0 
+Board [3s Ad Ah 8c 5s]
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: StoraEss folded before Flop (didn't bet)
+Seat 3: atg590 (button) folded before Flop (didn't bet)
+Seat 4: PhoenixGrind (small blind) showed [3c Tc] and won (24000) with two pair, Aces and Threes
+Seat 5: Khanuman Men (big blind) mucked
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251205909564: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:25:44 UTC [2024/06/26 15:25:44 ET]
+Table '3767885527 35' 8-max Seat #4 is the button
+Seat 1: hiran bass (27230 in chips) 
+Seat 2: StoraEss (42032 in chips) 
+Seat 3: atg590 (97538 in chips) 
+Seat 4: PhoenixGrind (94482 in chips) 
+Seat 5: Khanuman Men (28668 in chips) 
+Seat 6: sQuezzeYoU!! (58437 in chips) 
+Seat 7: jaimico00793 (39392 in chips) 
+Seat 8: gwallgofddyn (117248 in chips) 
+hiran bass: posts the ante 200
+StoraEss: posts the ante 200
+atg590: posts the ante 200
+PhoenixGrind: posts the ante 200
+Khanuman Men: posts the ante 200
+sQuezzeYoU!!: posts the ante 200
+jaimico00793: posts the ante 200
+gwallgofddyn: posts the ante 200
+Khanuman Men: posts small blind 800
+sQuezzeYoU!!: posts big blind 1600
+*** HOLE CARDS ***
+jaimico00793: folds 
+gwallgofddyn: raises 2080 to 3680
+hiran bass: raises 23350 to 27030 and is all-in
+StoraEss: folds 
+atg590: folds 
+PhoenixGrind: folds 
+Khanuman Men: folds 
+sQuezzeYoU!!: folds 
+gwallgofddyn: folds 
+Uncalled bet (23350) returned to hiran bass
+hiran bass collected 11360 from pot
+hiran bass: doesn't show hand 
+*** SUMMARY ***
+Total pot 11360 | Rake 0 
+Seat 1: hiran bass collected (11360)
+Seat 2: StoraEss folded before Flop (didn't bet)
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind (button) folded before Flop (didn't bet)
+Seat 5: Khanuman Men (small blind) folded before Flop
+Seat 6: sQuezzeYoU!! (big blind) folded before Flop
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn folded before Flop
+
+PokerStars Hand #251205920011: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:26:22 UTC [2024/06/26 15:26:22 ET]
+Table '3767885527 35' 8-max Seat #5 is the button
+Seat 1: hiran bass (34710 in chips) 
+Seat 2: StoraEss (41832 in chips) 
+Seat 3: atg590 (97338 in chips) 
+Seat 4: PhoenixGrind (94282 in chips) 
+Seat 5: Khanuman Men (27668 in chips) 
+Seat 6: sQuezzeYoU!! (56637 in chips) 
+Seat 7: jaimico00793 (39192 in chips) 
+Seat 8: gwallgofddyn (113368 in chips) 
+hiran bass: posts the ante 200
+StoraEss: posts the ante 200
+atg590: posts the ante 200
+PhoenixGrind: posts the ante 200
+Khanuman Men: posts the ante 200
+sQuezzeYoU!!: posts the ante 200
+jaimico00793: posts the ante 200
+gwallgofddyn: posts the ante 200
+sQuezzeYoU!!: posts small blind 800
+jaimico00793: posts big blind 1600
+*** HOLE CARDS ***
+gwallgofddyn: folds 
+hiran bass: folds 
+StoraEss: folds 
+atg590: folds 
+PhoenixGrind: folds 
+Khanuman Men: raises 1600 to 3200
+sQuezzeYoU!!: folds 
+jaimico00793: calls 1600
+*** FLOP *** [Jc Js Ac]
+jaimico00793: checks 
+Khanuman Men: bets 3200
+jaimico00793: folds 
+Uncalled bet (3200) returned to Khanuman Men
+Khanuman Men collected 8800 from pot
+*** SUMMARY ***
+Total pot 8800 | Rake 0 
+Board [Jc Js Ac]
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: StoraEss folded before Flop (didn't bet)
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 5: Khanuman Men (button) collected (8800)
+Seat 6: sQuezzeYoU!! (small blind) folded before Flop
+Seat 7: jaimico00793 (big blind) folded on the Flop
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251205930914: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:27:02 UTC [2024/06/26 15:27:02 ET]
+Table '3767885527 35' 8-max Seat #6 is the button
+Seat 1: hiran bass (34510 in chips) 
+Seat 2: StoraEss (41632 in chips) 
+Seat 3: atg590 (97138 in chips) 
+Seat 4: PhoenixGrind (94082 in chips) 
+Seat 5: Khanuman Men (33068 in chips) 
+Seat 6: sQuezzeYoU!! (55637 in chips) 
+Seat 7: jaimico00793 (35792 in chips) 
+Seat 8: gwallgofddyn (113168 in chips) 
+hiran bass: posts the ante 200
+StoraEss: posts the ante 200
+atg590: posts the ante 200
+PhoenixGrind: posts the ante 200
+Khanuman Men: posts the ante 200
+sQuezzeYoU!!: posts the ante 200
+jaimico00793: posts the ante 200
+gwallgofddyn: posts the ante 200
+jaimico00793: posts small blind 800
+gwallgofddyn: posts big blind 1600
+*** HOLE CARDS ***
+hiran bass: folds 
+StoraEss: raises 1600 to 3200
+atg590: folds 
+PhoenixGrind: folds 
+Khanuman Men: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: folds 
+Uncalled bet (1600) returned to StoraEss
+StoraEss collected 5600 from pot
+StoraEss: doesn't show hand 
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: StoraEss collected (5600)
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 5: Khanuman Men folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! (button) folded before Flop (didn't bet)
+Seat 7: jaimico00793 (small blind) folded before Flop
+Seat 8: gwallgofddyn (big blind) folded before Flop
+
+PokerStars Hand #251205943397: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:27:49 UTC [2024/06/26 15:27:49 ET]
+Table '3767885527 35' 8-max Seat #7 is the button
+Seat 1: hiran bass (34310 in chips) 
+Seat 2: StoraEss (45432 in chips) 
+Seat 3: atg590 (96938 in chips) 
+Seat 4: PhoenixGrind (93882 in chips) 
+Seat 5: Khanuman Men (32868 in chips) 
+Seat 6: sQuezzeYoU!! (55437 in chips) 
+Seat 7: jaimico00793 (34792 in chips) 
+Seat 8: gwallgofddyn (111368 in chips) 
+hiran bass: posts the ante 200
+StoraEss: posts the ante 200
+atg590: posts the ante 200
+PhoenixGrind: posts the ante 200
+Khanuman Men: posts the ante 200
+sQuezzeYoU!!: posts the ante 200
+jaimico00793: posts the ante 200
+gwallgofddyn: posts the ante 200
+gwallgofddyn: posts small blind 800
+hiran bass: posts big blind 1600
+*** HOLE CARDS ***
+StoraEss: folds 
+atg590: folds 
+PhoenixGrind: folds 
+Khanuman Men: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: raises 1600 to 3200
+gwallgofddyn: folds 
+hiran bass: calls 1600
+*** FLOP *** [8s 7c Jd]
+hiran bass: checks 
+jaimico00793: bets 2200
+hiran bass: calls 2200
+*** TURN *** [8s 7c Jd] [5d]
+hiran bass: checks 
+jaimico00793: bets 6960
+hiran bass: calls 6960
+*** RIVER *** [8s 7c Jd 5d] [As]
+hiran bass: checks 
+jaimico00793: checks 
+*** SHOW DOWN ***
+hiran bass: shows [6d 8c] (a pair of Eights)
+jaimico00793: shows [7d Ad] (two pair, Aces and Sevens)
+jaimico00793 collected 27120 from pot
+*** SUMMARY ***
+Total pot 27120 | Rake 0 
+Board [8s 7c Jd 5d As]
+Seat 1: hiran bass (big blind) showed [6d 8c] and lost with a pair of Eights
+Seat 2: StoraEss folded before Flop (didn't bet)
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 5: Khanuman Men folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 (button) showed [7d Ad] and won (27120) with two pair, Aces and Sevens
+Seat 8: gwallgofddyn (small blind) folded before Flop
+
+PokerStars Hand #251205967644: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:29:20 UTC [2024/06/26 15:29:20 ET]
+Table '3767885527 35' 8-max Seat #8 is the button
+Seat 1: hiran bass (21750 in chips) 
+Seat 2: StoraEss (45232 in chips) 
+Seat 3: atg590 (96738 in chips) 
+Seat 4: PhoenixGrind (93682 in chips) 
+Seat 5: Khanuman Men (32668 in chips) 
+Seat 6: sQuezzeYoU!! (55237 in chips) 
+Seat 7: jaimico00793 (49352 in chips) 
+Seat 8: gwallgofddyn (110368 in chips) 
+hiran bass: posts the ante 250
+StoraEss: posts the ante 250
+atg590: posts the ante 250
+PhoenixGrind: posts the ante 250
+Khanuman Men: posts the ante 250
+sQuezzeYoU!!: posts the ante 250
+jaimico00793: posts the ante 250
+gwallgofddyn: posts the ante 250
+hiran bass: posts small blind 1000
+StoraEss: posts big blind 2000
+*** HOLE CARDS ***
+atg590: folds 
+PhoenixGrind: folds 
+Khanuman Men: raises 30418 to 32418 and is all-in
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: folds 
+hiran bass: folds 
+StoraEss: folds 
+Uncalled bet (30418) returned to Khanuman Men
+Khanuman Men collected 7000 from pot
+*** SUMMARY ***
+Total pot 7000 | Rake 0 
+Seat 1: hiran bass (small blind) folded before Flop
+Seat 2: StoraEss (big blind) folded before Flop
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: PhoenixGrind folded before Flop (didn't bet)
+Seat 5: Khanuman Men collected (7000)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251205972493: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:29:37 UTC [2024/06/26 15:29:37 ET]
+Table '3767885527 35' 8-max Seat #1 is the button
+Seat 1: hiran bass (20500 in chips) 
+Seat 2: StoraEss (42982 in chips) 
+Seat 3: atg590 (96488 in chips) 
+Seat 4: PhoenixGrind (93432 in chips) 
+Seat 5: Khanuman Men (37418 in chips) 
+Seat 6: sQuezzeYoU!! (54987 in chips) 
+Seat 7: jaimico00793 (49102 in chips) 
+Seat 8: gwallgofddyn (110118 in chips) 
+hiran bass: posts the ante 250
+StoraEss: posts the ante 250
+atg590: posts the ante 250
+PhoenixGrind: posts the ante 250
+Khanuman Men: posts the ante 250
+sQuezzeYoU!!: posts the ante 250
+jaimico00793: posts the ante 250
+gwallgofddyn: posts the ante 250
+StoraEss: posts small blind 1000
+atg590: posts big blind 2000
+*** HOLE CARDS ***
+PhoenixGrind: raises 3000 to 5000
+Khanuman Men: folds 
+sQuezzeYoU!!: raises 8000 to 13000
+jaimico00793: folds 
+gwallgofddyn: folds 
+hiran bass: folds 
+StoraEss: folds 
+atg590: folds 
+PhoenixGrind: raises 80182 to 93182 and is all-in
+sQuezzeYoU!!: calls 41737 and is all-in
+Uncalled bet (38445) returned to PhoenixGrind
+*** FLOP *** [2s 5h Js]
+*** TURN *** [2s 5h Js] [Qc]
+*** RIVER *** [2s 5h Js Qc] [8c]
+*** SHOW DOWN ***
+PhoenixGrind: shows [Kd Kh] (a pair of Kings)
+sQuezzeYoU!!: shows [Ac As] (a pair of Aces)
+sQuezzeYoU!! collected 114474 from pot
+*** SUMMARY ***
+Total pot 114474 | Rake 0 
+Board [2s 5h Js Qc 8c]
+Seat 1: hiran bass (button) folded before Flop (didn't bet)
+Seat 2: StoraEss (small blind) folded before Flop
+Seat 3: atg590 (big blind) folded before Flop
+Seat 4: PhoenixGrind showed [Kd Kh] and lost with a pair of Kings
+Seat 5: Khanuman Men folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! showed [Ac As] and won (114474) with a pair of Aces
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251205985418: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:30:24 UTC [2024/06/26 15:30:24 ET]
+Table '3767885527 35' 8-max Seat #2 is the button
+Seat 1: hiran bass (20250 in chips) 
+Seat 2: StoraEss (41732 in chips) 
+Seat 3: atg590 (94238 in chips) 
+Seat 4: PhoenixGrind (38445 in chips) 
+Seat 5: Khanuman Men (37168 in chips) 
+Seat 6: sQuezzeYoU!! (114474 in chips) 
+Seat 7: jaimico00793 (48852 in chips) 
+Seat 8: gwallgofddyn (109868 in chips) 
+hiran bass: posts the ante 250
+StoraEss: posts the ante 250
+atg590: posts the ante 250
+PhoenixGrind: posts the ante 250
+Khanuman Men: posts the ante 250
+sQuezzeYoU!!: posts the ante 250
+jaimico00793: posts the ante 250
+gwallgofddyn: posts the ante 250
+atg590: posts small blind 1000
+PhoenixGrind: posts big blind 2000
+*** HOLE CARDS ***
+Khanuman Men: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: raises 2200 to 4200
+hiran bass: folds 
+StoraEss: calls 4200
+atg590: calls 3200
+PhoenixGrind: folds 
+*** FLOP *** [6s 5h 2d]
+atg590: checks 
+gwallgofddyn: checks 
+StoraEss: checks 
+*** TURN *** [6s 5h 2d] [9s]
+atg590: checks 
+gwallgofddyn: bets 6640
+StoraEss: calls 6640
+atg590: folds 
+*** RIVER *** [6s 5h 2d 9s] [8d]
+gwallgofddyn: checks 
+StoraEss: checks 
+*** SHOW DOWN ***
+gwallgofddyn: shows [9c Kc] (a pair of Nines)
+StoraEss: mucks hand 
+gwallgofddyn collected 29880 from pot
+*** SUMMARY ***
+Total pot 29880 | Rake 0 
+Board [6s 5h 2d 9s 8d]
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: StoraEss (button) mucked
+Seat 3: atg590 (small blind) folded on the Turn
+Seat 4: PhoenixGrind (big blind) folded before Flop
+Seat 5: Khanuman Men folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn showed [9c Kc] and won (29880) with a pair of Nines
+
+PokerStars Hand #251206002315: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:31:26 UTC [2024/06/26 15:31:26 ET]
+Table '3767885527 35' 8-max Seat #3 is the button
+Seat 1: hiran bass (20000 in chips) 
+Seat 2: StoraEss (30642 in chips) 
+Seat 3: atg590 (89788 in chips) 
+Seat 4: PhoenixGrind (36195 in chips) 
+Seat 5: Khanuman Men (36918 in chips) 
+Seat 6: sQuezzeYoU!! (114224 in chips) 
+Seat 7: jaimico00793 (48602 in chips) 
+Seat 8: gwallgofddyn (128658 in chips) 
+hiran bass: posts the ante 250
+StoraEss: posts the ante 250
+atg590: posts the ante 250
+PhoenixGrind: posts the ante 250
+Khanuman Men: posts the ante 250
+sQuezzeYoU!!: posts the ante 250
+jaimico00793: posts the ante 250
+gwallgofddyn: posts the ante 250
+PhoenixGrind: posts small blind 1000
+Khanuman Men: posts big blind 2000
+*** HOLE CARDS ***
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: folds 
+hiran bass: folds 
+StoraEss: folds 
+atg590: folds 
+PhoenixGrind: raises 3000 to 5000
+Khanuman Men: raises 31668 to 36668 and is all-in
+PhoenixGrind: calls 30945 and is all-in
+Uncalled bet (723) returned to Khanuman Men
+*** FLOP *** [Ks Ac 3c]
+*** TURN *** [Ks Ac 3c] [3s]
+*** RIVER *** [Ks Ac 3c 3s] [8s]
+*** SHOW DOWN ***
+PhoenixGrind: shows [Tc Ts] (two pair, Tens and Threes)
+Khanuman Men: shows [Jh Js] (two pair, Jacks and Threes)
+Khanuman Men collected 73890 from pot
+PhoenixGrind finished the tournament
+*** SUMMARY ***
+Total pot 73890 | Rake 0 
+Board [Ks Ac 3c 3s 8s]
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: StoraEss folded before Flop (didn't bet)
+Seat 3: atg590 (button) folded before Flop (didn't bet)
+Seat 4: PhoenixGrind (small blind) showed [Tc Ts] and lost with two pair, Tens and Threes
+Seat 5: Khanuman Men (big blind) showed [Jh Js] and won (73890) with two pair, Jacks and Threes
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251206010011: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:31:54 UTC [2024/06/26 15:31:54 ET]
+Table '3767885527 35' 8-max Seat #5 is the button
+Seat 1: hiran bass (19750 in chips) 
+Seat 2: StoraEss (30392 in chips) 
+Seat 3: atg590 (89538 in chips) 
+Seat 5: Khanuman Men (74613 in chips) 
+Seat 6: sQuezzeYoU!! (113974 in chips) 
+Seat 7: jaimico00793 (48352 in chips) 
+Seat 8: gwallgofddyn (128408 in chips) 
+hiran bass: posts the ante 250
+StoraEss: posts the ante 250
+atg590: posts the ante 250
+Khanuman Men: posts the ante 250
+sQuezzeYoU!!: posts the ante 250
+jaimico00793: posts the ante 250
+gwallgofddyn: posts the ante 250
+sQuezzeYoU!!: posts small blind 1000
+jaimico00793: posts big blind 2000
+*** HOLE CARDS ***
+gwallgofddyn: folds 
+hiran bass: folds 
+StoraEss: folds 
+atg590: folds 
+Khanuman Men: folds 
+sQuezzeYoU!!: calls 1000
+jaimico00793: checks 
+*** FLOP *** [Kh 4s Js]
+sQuezzeYoU!!: bets 2121
+Dih21 is disconnected 
+jaimico00793: folds 
+Uncalled bet (2121) returned to sQuezzeYoU!!
+sQuezzeYoU!! collected 5750 from pot
+sQuezzeYoU!!: doesn't show hand 
+*** SUMMARY ***
+Total pot 5750 | Rake 0 
+Board [Kh 4s Js]
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: StoraEss folded before Flop (didn't bet)
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 5: Khanuman Men (button) folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! (small blind) collected (5750)
+Seat 7: jaimico00793 (big blind) folded on the Flop
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251206020088: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:32:30 UTC [2024/06/26 15:32:30 ET]
+Table '3767885527 35' 8-max Seat #6 is the button
+Seat 1: hiran bass (19500 in chips) 
+Seat 2: StoraEss (30142 in chips) 
+Seat 3: atg590 (89288 in chips) 
+Seat 4: Dih21 (25000 in chips) 
+Seat 5: Khanuman Men (74363 in chips) 
+Seat 6: sQuezzeYoU!! (117474 in chips) 
+Seat 7: jaimico00793 (46102 in chips) 
+Seat 8: gwallgofddyn (128158 in chips) 
+hiran bass: posts the ante 250
+StoraEss: posts the ante 250
+atg590: posts the ante 250
+Dih21: posts the ante 250
+Khanuman Men: posts the ante 250
+sQuezzeYoU!!: posts the ante 250
+jaimico00793: posts the ante 250
+gwallgofddyn: posts the ante 250
+jaimico00793: posts small blind 1000
+gwallgofddyn: posts big blind 2000
+*** HOLE CARDS ***
+hiran bass: raises 17250 to 19250 and is all-in
+StoraEss: folds 
+atg590: folds 
+Dih21: folds 
+Khanuman Men: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: folds 
+Uncalled bet (17250) returned to hiran bass
+hiran bass collected 7000 from pot
+hiran bass: doesn't show hand 
+*** SUMMARY ***
+Total pot 7000 | Rake 0 
+Seat 1: hiran bass collected (7000)
+Seat 2: StoraEss folded before Flop (didn't bet)
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: Dih21 folded before Flop (didn't bet)
+Seat 5: Khanuman Men folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! (button) folded before Flop (didn't bet)
+Seat 7: jaimico00793 (small blind) folded before Flop
+Seat 8: gwallgofddyn (big blind) folded before Flop
+
+PokerStars Hand #251206027954: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:32:59 UTC [2024/06/26 15:32:59 ET]
+Table '3767885527 35' 8-max Seat #7 is the button
+Seat 1: hiran bass (24250 in chips) 
+Seat 2: StoraEss (29892 in chips) 
+Seat 3: atg590 (89038 in chips) 
+Seat 4: Dih21 (24750 in chips) 
+Seat 5: Khanuman Men (74113 in chips) 
+Seat 6: sQuezzeYoU!! (117224 in chips) 
+Seat 7: jaimico00793 (44852 in chips) 
+Seat 8: gwallgofddyn (125908 in chips) 
+hiran bass: posts the ante 250
+StoraEss: posts the ante 250
+atg590: posts the ante 250
+Dih21: posts the ante 250
+Khanuman Men: posts the ante 250
+sQuezzeYoU!!: posts the ante 250
+jaimico00793: posts the ante 250
+gwallgofddyn: posts the ante 250
+gwallgofddyn: posts small blind 1000
+hiran bass: posts big blind 2000
+*** HOLE CARDS ***
+StoraEss: folds 
+atg590: folds 
+Dih21: raises 22500 to 24500 and is all-in
+Khanuman Men: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: folds 
+hiran bass: folds 
+Uncalled bet (22500) returned to Dih21
+Dih21 collected 7000 from pot
+Dih21: doesn't show hand 
+*** SUMMARY ***
+Total pot 7000 | Rake 0 
+Seat 1: hiran bass (big blind) folded before Flop
+Seat 2: StoraEss folded before Flop (didn't bet)
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: Dih21 collected (7000)
+Seat 5: Khanuman Men folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 (button) folded before Flop (didn't bet)
+Seat 8: gwallgofddyn (small blind) folded before Flop
+
+PokerStars Hand #251206034295: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:33:22 UTC [2024/06/26 15:33:22 ET]
+Table '3767885527 35' 8-max Seat #8 is the button
+Seat 1: hiran bass (22000 in chips) 
+Seat 2: StoraEss (29642 in chips) 
+Seat 3: atg590 (88788 in chips) 
+Seat 4: Dih21 (29500 in chips) 
+Seat 5: Khanuman Men (73863 in chips) 
+Seat 6: sQuezzeYoU!! (116974 in chips) 
+Seat 7: jaimico00793 (44602 in chips) 
+Seat 8: gwallgofddyn (124658 in chips) 
+hiran bass: posts the ante 250
+StoraEss: posts the ante 250
+atg590: posts the ante 250
+Dih21: posts the ante 250
+Khanuman Men: posts the ante 250
+sQuezzeYoU!!: posts the ante 250
+jaimico00793: posts the ante 250
+gwallgofddyn: posts the ante 250
+hiran bass: posts small blind 1000
+StoraEss: posts big blind 2000
+*** HOLE CARDS ***
+atg590: folds 
+Dih21: folds 
+Khanuman Men: raises 2000 to 4000
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: calls 4000
+hiran bass: folds 
+StoraEss: raises 25392 to 29392 and is all-in
+Khanuman Men: calls 25392
+gwallgofddyn: calls 25392
+*** FLOP *** [Ad 2h Kd]
+Khanuman Men: checks 
+gwallgofddyn: checks 
+*** TURN *** [Ad 2h Kd] [2c]
+Khanuman Men: bets 12000
+gwallgofddyn: folds 
+Uncalled bet (12000) returned to Khanuman Men
+*** RIVER *** [Ad 2h Kd 2c] [8c]
+*** SHOW DOWN ***
+StoraEss: shows [7h Td] (a pair of Deuces)
+Khanuman Men: shows [As Ac] (a full house, Aces full of Deuces)
+Khanuman Men collected 91176 from pot
+StoraEss finished the tournament
+*** SUMMARY ***
+Total pot 91176 | Rake 0 
+Board [Ad 2h Kd 2c 8c]
+Seat 1: hiran bass (small blind) folded before Flop
+Seat 2: StoraEss (big blind) showed [7h Td] and lost with a pair of Deuces
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: Dih21 folded before Flop (didn't bet)
+Seat 5: Khanuman Men showed [As Ac] and won (91176) with a full house, Aces full of Deuces
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn (button) folded on the Turn
+
+PokerStars Hand #251206053476: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:34:32 UTC [2024/06/26 15:34:32 ET]
+Table '3767885527 35' 8-max Seat #1 is the button
+Seat 1: hiran bass (20750 in chips) 
+Seat 3: atg590 (88538 in chips) 
+Seat 4: Dih21 (29250 in chips) 
+Seat 5: Khanuman Men (135397 in chips) 
+Seat 6: sQuezzeYoU!! (116724 in chips) 
+Seat 7: jaimico00793 (44352 in chips) 
+Seat 8: gwallgofddyn (95016 in chips) 
+hiran bass: posts the ante 250
+atg590: posts the ante 250
+Dih21: posts the ante 250
+Khanuman Men: posts the ante 250
+sQuezzeYoU!!: posts the ante 250
+jaimico00793: posts the ante 250
+gwallgofddyn: posts the ante 250
+atg590: posts small blind 1000
+Dih21: posts big blind 2000
+*** HOLE CARDS ***
+Khanuman Men: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: folds 
+hiran bass: raises 18500 to 20500 and is all-in
+atg590: folds 
+Dih21: folds 
+Uncalled bet (18500) returned to hiran bass
+hiran bass collected 6750 from pot
+hiran bass: doesn't show hand 
+*** SUMMARY ***
+Total pot 6750 | Rake 0 
+Seat 1: hiran bass (button) collected (6750)
+Seat 3: atg590 (small blind) folded before Flop
+Seat 4: Dih21 (big blind) folded before Flop
+Seat 5: Khanuman Men folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251206059007: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:34:52 UTC [2024/06/26 15:34:52 ET]
+Table '3767885527 35' 8-max Seat #3 is the button
+Seat 1: hiran bass (25250 in chips) 
+Seat 3: atg590 (87288 in chips) 
+Seat 4: Dih21 (27000 in chips) 
+Seat 5: Khanuman Men (135147 in chips) 
+Seat 6: sQuezzeYoU!! (116474 in chips) 
+Seat 7: jaimico00793 (44102 in chips) 
+Seat 8: gwallgofddyn (94766 in chips) 
+hiran bass: posts the ante 250
+atg590: posts the ante 250
+Dih21: posts the ante 250
+Khanuman Men: posts the ante 250
+sQuezzeYoU!!: posts the ante 250
+jaimico00793: posts the ante 250
+gwallgofddyn: posts the ante 250
+Dih21: posts small blind 1000
+Khanuman Men: posts big blind 2000
+*** HOLE CARDS ***
+sQuezzeYoU!!: folds 
+jaimico00793: raises 2000 to 4000
+gwallgofddyn: folds 
+hiran bass: folds 
+atg590: folds 
+Dih21: raises 22750 to 26750 and is all-in
+Khanuman Men: folds 
+jaimico00793: calls 22750
+*** FLOP *** [5c 8d 9s]
+*** TURN *** [5c 8d 9s] [Jd]
+*** RIVER *** [5c 8d 9s Jd] [6h]
+EugeneShev is disconnected 
+*** SHOW DOWN ***
+Dih21: shows [As Qh] (high card Ace)
+jaimico00793: shows [Qs Qc] (a pair of Queens)
+jaimico00793 collected 57250 from pot
+Dih21 finished the tournament
+*** SUMMARY ***
+Total pot 57250 | Rake 0 
+Board [5c 8d 9s Jd 6h]
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 3: atg590 (button) folded before Flop (didn't bet)
+Seat 4: Dih21 (small blind) showed [As Qh] and lost with high card Ace
+Seat 5: Khanuman Men (big blind) folded before Flop
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 showed [Qs Qc] and won (57250) with a pair of Queens
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251206066186: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:35:19 UTC [2024/06/26 15:35:19 ET]
+Table '3767885527 35' 8-max Seat #5 is the button
+Seat 1: hiran bass (25000 in chips) 
+Seat 2: EugeneShev (25000 in chips) 
+Seat 3: atg590 (87038 in chips) 
+Seat 5: Khanuman Men (132897 in chips) 
+Seat 6: sQuezzeYoU!! (116224 in chips) 
+Seat 7: jaimico00793 (74352 in chips) 
+Seat 8: gwallgofddyn (94516 in chips) 
+hiran bass: posts the ante 250
+EugeneShev: posts the ante 250
+atg590: posts the ante 250
+Khanuman Men: posts the ante 250
+sQuezzeYoU!!: posts the ante 250
+jaimico00793: posts the ante 250
+gwallgofddyn: posts the ante 250
+sQuezzeYoU!!: posts small blind 1000
+jaimico00793: posts big blind 2000
+*** HOLE CARDS ***
+gwallgofddyn: folds 
+hiran bass: folds 
+XARANDROS is disconnected 
+EugeneShev: raises 22750 to 24750 and is all-in
+atg590: folds 
+Khanuman Men: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: calls 22750
+*** FLOP *** [Td Js 6d]
+*** TURN *** [Td Js 6d] [2h]
+*** RIVER *** [Td Js 6d 2h] [8c]
+*** SHOW DOWN ***
+jaimico00793: shows [Ks Ac] (high card Ace)
+EugeneShev: shows [Kc Qc] (high card King)
+jaimico00793 collected 52250 from pot
+EugeneShev finished the tournament
+*** SUMMARY ***
+Total pot 52250 | Rake 0 
+Board [Td Js 6d 2h 8c]
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: EugeneShev showed [Kc Qc] and lost with high card King
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 5: Khanuman Men (button) folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! (small blind) folded before Flop
+Seat 7: jaimico00793 (big blind) showed [Ks Ac] and won (52250) with high card Ace
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251206087350: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:36:36 UTC [2024/06/26 15:36:36 ET]
+Table '3767885527 35' 8-max Seat #6 is the button
+Seat 1: hiran bass (24750 in chips) 
+Seat 3: atg590 (86788 in chips) 
+Seat 4: XARANDROS (21750 in chips) 
+Seat 5: Khanuman Men (132647 in chips) 
+Seat 6: sQuezzeYoU!! (114974 in chips) 
+Seat 7: jaimico00793 (101602 in chips) 
+Seat 8: gwallgofddyn (94266 in chips) 
+hiran bass: posts the ante 250
+atg590: posts the ante 250
+XARANDROS: posts the ante 250
+Khanuman Men: posts the ante 250
+sQuezzeYoU!!: posts the ante 250
+jaimico00793: posts the ante 250
+gwallgofddyn: posts the ante 250
+jaimico00793: posts small blind 1000
+gwallgofddyn: posts big blind 2000
+*** HOLE CARDS ***
+hiran bass: folds 
+atg590: raises 4000 to 6000
+XARANDROS: folds 
+sprase1999 is disconnected 
+Khanuman Men: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: folds 
+Uncalled bet (4000) returned to atg590
+atg590 collected 6750 from pot
+*** SUMMARY ***
+Total pot 6750 | Rake 0 
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 3: atg590 collected (6750)
+Seat 4: XARANDROS folded before Flop (didn't bet)
+Seat 5: Khanuman Men folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! (button) folded before Flop (didn't bet)
+Seat 7: jaimico00793 (small blind) folded before Flop
+Seat 8: gwallgofddyn (big blind) folded before Flop
+
+PokerStars Hand #251206096179: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:37:08 UTC [2024/06/26 15:37:08 ET]
+Table '3767885527 35' 8-max Seat #7 is the button
+Seat 1: hiran bass (24500 in chips) 
+Seat 2: sprase1999 (44428 in chips) 
+Seat 3: atg590 (91288 in chips) 
+Seat 4: XARANDROS (21500 in chips) 
+Seat 5: Khanuman Men (132397 in chips) 
+Seat 6: sQuezzeYoU!! (114724 in chips) 
+Seat 7: jaimico00793 (100352 in chips) 
+Seat 8: gwallgofddyn (92016 in chips) 
+hiran bass: posts the ante 250
+sprase1999: posts the ante 250
+atg590: posts the ante 250
+XARANDROS: posts the ante 250
+Khanuman Men: posts the ante 250
+sQuezzeYoU!!: posts the ante 250
+jaimico00793: posts the ante 250
+gwallgofddyn: posts the ante 250
+gwallgofddyn: posts small blind 1000
+hiran bass: posts big blind 2000
+*** HOLE CARDS ***
+sprase1999: folds 
+atg590: raises 4000 to 6000
+XARANDROS: folds 
+Khanuman Men: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: folds 
+hiran bass: folds 
+Uncalled bet (4000) returned to atg590
+atg590 collected 7000 from pot
+*** SUMMARY ***
+Total pot 7000 | Rake 0 
+Seat 1: hiran bass (big blind) folded before Flop
+Seat 2: sprase1999 folded before Flop (didn't bet)
+Seat 3: atg590 collected (7000)
+Seat 4: XARANDROS folded before Flop (didn't bet)
+Seat 5: Khanuman Men folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 (button) folded before Flop (didn't bet)
+Seat 8: gwallgofddyn (small blind) folded before Flop
+
+PokerStars Hand #251206102087: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:37:29 UTC [2024/06/26 15:37:29 ET]
+Table '3767885527 35' 8-max Seat #8 is the button
+Seat 1: hiran bass (22250 in chips) 
+Seat 2: sprase1999 (44178 in chips) 
+Seat 3: atg590 (96038 in chips) 
+Seat 4: XARANDROS (21250 in chips) 
+Seat 5: Khanuman Men (132147 in chips) 
+Seat 6: sQuezzeYoU!! (114474 in chips) 
+Seat 7: jaimico00793 (100102 in chips) 
+Seat 8: gwallgofddyn (90766 in chips) 
+hiran bass: posts the ante 250
+sprase1999: posts the ante 250
+atg590: posts the ante 250
+XARANDROS: posts the ante 250
+Khanuman Men: posts the ante 250
+sQuezzeYoU!!: posts the ante 250
+jaimico00793: posts the ante 250
+gwallgofddyn: posts the ante 250
+hiran bass: posts small blind 1000
+sprase1999: posts big blind 2000
+*** HOLE CARDS ***
+atg590: folds 
+XARANDROS: folds 
+Khanuman Men: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: folds 
+hiran bass: calls 1000
+sprase1999: checks 
+*** FLOP *** [Qs Qd Jh]
+hiran bass: checks 
+sprase1999: checks 
+*** TURN *** [Qs Qd Jh] [Ts]
+hiran bass: bets 2000
+sprase1999: calls 2000
+*** RIVER *** [Qs Qd Jh Ts] [3d]
+hiran bass: bets 8000
+sprase1999: folds 
+Uncalled bet (8000) returned to hiran bass
+hiran bass collected 10000 from pot
+hiran bass: doesn't show hand 
+*** SUMMARY ***
+Total pot 10000 | Rake 0 
+Board [Qs Qd Jh Ts 3d]
+Seat 1: hiran bass (small blind) collected (10000)
+Seat 2: sprase1999 (big blind) folded on the River
+Seat 3: atg590 folded before Flop (didn't bet)
+Seat 4: XARANDROS folded before Flop (didn't bet)
+Seat 5: Khanuman Men folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251206116655: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:38:24 UTC [2024/06/26 15:38:24 ET]
+Table '3767885527 35' 8-max Seat #1 is the button
+Seat 1: hiran bass (28000 in chips) 
+Seat 2: sprase1999 (39928 in chips) 
+Seat 3: atg590 (95788 in chips) 
+Seat 4: XARANDROS (21000 in chips) 
+Seat 5: Khanuman Men (131897 in chips) 
+Seat 6: sQuezzeYoU!! (114224 in chips) 
+Seat 7: jaimico00793 (99852 in chips) 
+Seat 8: gwallgofddyn (90516 in chips) 
+hiran bass: posts the ante 250
+sprase1999: posts the ante 250
+atg590: posts the ante 250
+XARANDROS: posts the ante 250
+Khanuman Men: posts the ante 250
+sQuezzeYoU!!: posts the ante 250
+jaimico00793: posts the ante 250
+gwallgofddyn: posts the ante 250
+sprase1999: posts small blind 1000
+atg590: posts big blind 2000
+*** HOLE CARDS ***
+XARANDROS: folds 
+Khanuman Men: folds 
+sQuezzeYoU!!: raises 2260 to 4260
+jaimico00793: folds 
+gwallgofddyn: folds 
+hiran bass: folds 
+sprase1999: folds 
+atg590: calls 2260
+*** FLOP *** [3c 5h Kh]
+atg590: checks 
+sQuezzeYoU!!: bets 3608
+atg590: calls 3608
+*** TURN *** [3c 5h Kh] [7h]
+atg590: checks 
+sQuezzeYoU!!: bets 15054
+atg590: folds 
+Uncalled bet (15054) returned to sQuezzeYoU!!
+sQuezzeYoU!! collected 18736 from pot
+sQuezzeYoU!!: doesn't show hand 
+*** SUMMARY ***
+Total pot 18736 | Rake 0 
+Board [3c 5h Kh 7h]
+Seat 1: hiran bass (button) folded before Flop (didn't bet)
+Seat 2: sprase1999 (small blind) folded before Flop
+Seat 3: atg590 (big blind) folded on the Turn
+Seat 4: XARANDROS folded before Flop (didn't bet)
+Seat 5: Khanuman Men folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! collected (18736)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251206137234: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XV (1250/2500) - 2024/06/26 19:39:39 UTC [2024/06/26 15:39:39 ET]
+Table '3767885527 35' 8-max Seat #2 is the button
+Seat 1: hiran bass (27750 in chips) 
+Seat 2: sprase1999 (38678 in chips) 
+Seat 3: atg590 (87670 in chips) 
+Seat 4: XARANDROS (20750 in chips) 
+Seat 5: Khanuman Men (131647 in chips) 
+Seat 6: sQuezzeYoU!! (124842 in chips) 
+Seat 7: jaimico00793 (99602 in chips) 
+Seat 8: gwallgofddyn (90266 in chips) 
+hiran bass: posts the ante 325
+sprase1999: posts the ante 325
+atg590: posts the ante 325
+XARANDROS: posts the ante 325
+Khanuman Men: posts the ante 325
+sQuezzeYoU!!: posts the ante 325
+jaimico00793: posts the ante 325
+gwallgofddyn: posts the ante 325
+atg590: posts small blind 1250
+XARANDROS: posts big blind 2500
+*** HOLE CARDS ***
+Khanuman Men: folds 
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: folds 
+hiran bass: folds 
+sprase1999: raises 2500 to 5000
+atg590: calls 3750
+XARANDROS: calls 2500
+*** FLOP *** [3s 2s As]
+atg590: checks 
+XARANDROS: checks 
+sprase1999: checks 
+*** TURN *** [3s 2s As] [2h]
+atg590: bets 11300
+XARANDROS: folds 
+sprase1999: folds 
+Uncalled bet (11300) returned to atg590
+atg590 collected 17600 from pot
+*** SUMMARY ***
+Total pot 17600 | Rake 0 
+Board [3s 2s As 2h]
+Seat 1: hiran bass folded before Flop (didn't bet)
+Seat 2: sprase1999 (button) folded on the Turn
+Seat 3: atg590 (small blind) collected (17600)
+Seat 4: XARANDROS (big blind) folded on the Turn
+Seat 5: Khanuman Men folded before Flop (didn't bet)
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn folded before Flop (didn't bet)
+
+PokerStars Hand #251206155113: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XV (1250/2500) - 2024/06/26 19:40:44 UTC [2024/06/26 15:40:44 ET]
+Table '3767885527 35' 8-max Seat #3 is the button
+Seat 1: hiran bass (27425 in chips) 
+Seat 2: sprase1999 (33353 in chips) 
+Seat 3: atg590 (99945 in chips) 
+Seat 4: XARANDROS (15425 in chips) 
+Seat 5: Khanuman Men (131322 in chips) 
+Seat 6: sQuezzeYoU!! (124517 in chips) 
+Seat 7: jaimico00793 (99277 in chips) 
+Seat 8: gwallgofddyn (89941 in chips) 
+hiran bass: posts the ante 325
+sprase1999: posts the ante 325
+atg590: posts the ante 325
+XARANDROS: posts the ante 325
+Khanuman Men: posts the ante 325
+sQuezzeYoU!!: posts the ante 325
+jaimico00793: posts the ante 325
+gwallgofddyn: posts the ante 325
+XARANDROS: posts small blind 1250
+Khanuman Men: posts big blind 2500
+*** HOLE CARDS ***
+sQuezzeYoU!!: folds 
+jaimico00793: folds 
+gwallgofddyn: folds 
+hiran bass: raises 24600 to 27100 and is all-in
+sprase1999: raises 5928 to 33028 and is all-in
+atg590: folds 
+XARANDROS: calls 13850 and is all-in
+Khanuman Men: folds 
+Uncalled bet (5928) returned to sprase1999
+*** FLOP *** [2d Ad 5s]
+*** TURN *** [2d Ad 5s] [7h]
+*** RIVER *** [2d Ad 5s 7h] [6h]
+*** SHOW DOWN ***
+hiran bass: shows [2s 2c] (three of a kind, Deuces)
+sprase1999: shows [Js Qs] (high card Ace)
+hiran bass collected 24000 from side pot
+XARANDROS: shows [Kc As] (a pair of Aces)
+hiran bass collected 50400 from main pot
+XARANDROS finished the tournament in 585th place
+*** SUMMARY ***
+Total pot 74400 Main pot 50400. Side pot 24000. | Rake 0 
+Board [2d Ad 5s 7h 6h]
+Seat 1: hiran bass showed [2s 2c] and won (74400) with three of a kind, Deuces
+Seat 2: sprase1999 showed [Js Qs] and lost with high card Ace
+Seat 3: atg590 (button) folded before Flop (didn't bet)
+Seat 4: XARANDROS (small blind) showed [Kc As] and lost with a pair of Aces
+Seat 5: Khanuman Men (big blind) folded before Flop
+Seat 6: sQuezzeYoU!! folded before Flop (didn't bet)
+Seat 7: jaimico00793 folded before Flop (didn't bet)
+Seat 8: gwallgofddyn folded before Flop (didn't bet)

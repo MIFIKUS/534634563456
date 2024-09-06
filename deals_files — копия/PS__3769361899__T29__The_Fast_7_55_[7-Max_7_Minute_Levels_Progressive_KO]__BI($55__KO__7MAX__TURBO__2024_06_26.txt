@@ -1,0 +1,2097 @@
+PokerStars Hand #251207034921: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/06/26 20:34:27 UTC [2024/06/26 16:34:27 ET]
+Table '3769361899 29' 7-max Seat #5 is the button
+Seat 1: FarenCarter (14054 in chips, $37.50 bounty) 
+Seat 2: AGV AA90 (18155 in chips, $37.50 bounty) 
+Seat 3: XxJoaoFeraxX (9948 in chips, $37.50 bounty) 
+Seat 4: aCrA88 (3665 in chips, $25 bounty) 
+Seat 5: RSak4 (5656 in chips, $25 bounty) 
+Seat 6: A777BX (11898 in chips, $25 bounty) 
+Seat 7: goshaleg (8011 in chips, $25 bounty) 
+FarenCarter: posts the ante 50
+AGV AA90: posts the ante 50
+XxJoaoFeraxX: posts the ante 50
+aCrA88: posts the ante 50
+RSak4: posts the ante 50
+A777BX: posts the ante 50
+goshaleg: posts the ante 50
+A777BX: posts small blind 200
+goshaleg: posts big blind 400
+*** HOLE CARDS ***
+FarenCarter: folds 
+AGV AA90: folds 
+XxJoaoFeraxX: folds 
+aCrA88: raises 3215 to 3615 and is all-in
+RSak4: folds 
+A777BX: raises 8233 to 11848 and is all-in
+goshaleg: folds 
+Uncalled bet (8233) returned to A777BX
+*** FLOP *** [Qs 3c 5d]
+*** TURN *** [Qs 3c 5d] [Ts]
+*** RIVER *** [Qs 3c 5d Ts] [Ah]
+*** SHOW DOWN ***
+A777BX: shows [7c 7s] (a pair of Sevens)
+aCrA88: shows [5h As] (two pair, Aces and Fives)
+aCrA88 collected 7980 from pot
+*** SUMMARY ***
+Total pot 7980 | Rake 0 
+Board [Qs 3c 5d Ts Ah]
+Seat 1: FarenCarter folded before Flop (didn't bet)
+Seat 2: AGV AA90 folded before Flop (didn't bet)
+Seat 3: XxJoaoFeraxX folded before Flop (didn't bet)
+Seat 4: aCrA88 showed [5h As] and won (7980) with two pair, Aces and Fives
+Seat 5: RSak4 (button) folded before Flop (didn't bet)
+Seat 6: A777BX (small blind) showed [7c 7s] and lost with a pair of Sevens
+Seat 7: goshaleg (big blind) folded before Flop
+
+PokerStars Hand #251207044316: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/06/26 20:35:00 UTC [2024/06/26 16:35:00 ET]
+Table '3769361899 29' 7-max Seat #6 is the button
+Seat 1: FarenCarter (14004 in chips, $37.50 bounty) 
+Seat 2: AGV AA90 (18105 in chips, $37.50 bounty) 
+Seat 3: XxJoaoFeraxX (9898 in chips, $37.50 bounty) 
+Seat 4: aCrA88 (7980 in chips, $25 bounty) 
+Seat 5: RSak4 (5606 in chips, $25 bounty) 
+Seat 6: A777BX (8233 in chips, $25 bounty) 
+Seat 7: goshaleg (7561 in chips, $25 bounty) 
+FarenCarter: posts the ante 50
+AGV AA90: posts the ante 50
+XxJoaoFeraxX: posts the ante 50
+aCrA88: posts the ante 50
+RSak4: posts the ante 50
+A777BX: posts the ante 50
+goshaleg: posts the ante 50
+goshaleg: posts small blind 200
+FarenCarter: posts big blind 400
+*** HOLE CARDS ***
+AGV AA90: folds 
+XxJoaoFeraxX: folds 
+aCrA88: folds 
+RSak4: folds 
+A777BX: raises 400 to 800
+goshaleg: folds 
+FarenCarter: calls 400
+*** FLOP *** [Kc Qc 7d]
+FarenCarter: checks 
+A777BX: bets 710
+FarenCarter: raises 890 to 1600
+A777BX: calls 890
+*** TURN *** [Kc Qc 7d] [Qs]
+FarenCarter: checks 
+A777BX: bets 2600
+FarenCarter: calls 2600
+*** RIVER *** [Kc Qc 7d Qs] [3d]
+FarenCarter: checks 
+A777BX: checks 
+*** SHOW DOWN ***
+FarenCarter: shows [9c Jc] (a pair of Queens)
+A777BX: shows [Ad Td] (a pair of Queens - Ace kicker)
+A777BX collected 10550 from pot
+*** SUMMARY ***
+Total pot 10550 | Rake 0 
+Board [Kc Qc 7d Qs 3d]
+Seat 1: FarenCarter (big blind) showed [9c Jc] and lost with a pair of Queens
+Seat 2: AGV AA90 folded before Flop (didn't bet)
+Seat 3: XxJoaoFeraxX folded before Flop (didn't bet)
+Seat 4: aCrA88 folded before Flop (didn't bet)
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: A777BX (button) showed [Ad Td] and won (10550) with a pair of Queens
+Seat 7: goshaleg (small blind) folded before Flop
+
+PokerStars Hand #251207072397: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/06/26 20:36:40 UTC [2024/06/26 16:36:40 ET]
+Table '3769361899 29' 7-max Seat #7 is the button
+Seat 1: FarenCarter (8954 in chips, $37.50 bounty) 
+Seat 2: AGV AA90 (18055 in chips, $37.50 bounty) 
+Seat 3: XxJoaoFeraxX (9848 in chips, $37.50 bounty) 
+Seat 4: aCrA88 (7930 in chips, $25 bounty) 
+Seat 5: RSak4 (5556 in chips, $25 bounty) 
+Seat 6: A777BX (13733 in chips, $25 bounty) 
+Seat 7: goshaleg (7311 in chips, $25 bounty) 
+FarenCarter: posts the ante 50
+AGV AA90: posts the ante 50
+XxJoaoFeraxX: posts the ante 50
+aCrA88: posts the ante 50
+RSak4: posts the ante 50
+A777BX: posts the ante 50
+goshaleg: posts the ante 50
+FarenCarter: posts small blind 200
+AGV AA90: posts big blind 400
+*** HOLE CARDS ***
+XxJoaoFeraxX: folds 
+aCrA88: folds 
+RSak4: folds 
+A777BX: folds 
+goshaleg: raises 400 to 800
+FarenCarter: folds 
+AGV AA90: calls 400
+*** FLOP *** [4s 7h Jc]
+AGV AA90: checks 
+goshaleg: bets 1413
+AGV AA90: folds 
+Uncalled bet (1413) returned to goshaleg
+goshaleg collected 2150 from pot
+goshaleg: doesn't show hand 
+*** SUMMARY ***
+Total pot 2150 | Rake 0 
+Board [4s 7h Jc]
+Seat 1: FarenCarter (small blind) folded before Flop
+Seat 2: AGV AA90 (big blind) folded on the Flop
+Seat 3: XxJoaoFeraxX folded before Flop (didn't bet)
+Seat 4: aCrA88 folded before Flop (didn't bet)
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: A777BX folded before Flop (didn't bet)
+Seat 7: goshaleg (button) collected (2150)
+
+PokerStars Hand #251207085761: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/06/26 20:37:27 UTC [2024/06/26 16:37:27 ET]
+Table '3769361899 29' 7-max Seat #1 is the button
+Seat 1: FarenCarter (8704 in chips, $37.50 bounty) 
+Seat 2: AGV AA90 (17205 in chips, $37.50 bounty) 
+Seat 3: XxJoaoFeraxX (9798 in chips, $37.50 bounty) 
+Seat 4: aCrA88 (7880 in chips, $25 bounty) 
+Seat 5: RSak4 (5506 in chips, $25 bounty) 
+Seat 6: A777BX (13683 in chips, $25 bounty) 
+Seat 7: goshaleg (8611 in chips, $25 bounty) 
+FarenCarter: posts the ante 50
+AGV AA90: posts the ante 50
+XxJoaoFeraxX: posts the ante 50
+aCrA88: posts the ante 50
+RSak4: posts the ante 50
+A777BX: posts the ante 50
+goshaleg: posts the ante 50
+AGV AA90: posts small blind 200
+XxJoaoFeraxX: posts big blind 400
+*** HOLE CARDS ***
+aCrA88: folds 
+RSak4: folds 
+A777BX: folds 
+goshaleg: calls 400
+FarenCarter: raises 8254 to 8654 and is all-in
+AGV AA90: folds 
+XxJoaoFeraxX: raises 1094 to 9748 and is all-in
+goshaleg: folds 
+Uncalled bet (1094) returned to XxJoaoFeraxX
+*** FLOP *** [Jc Th 4s]
+*** TURN *** [Jc Th 4s] [Kh]
+*** RIVER *** [Jc Th 4s Kh] [4c]
+*** SHOW DOWN ***
+XxJoaoFeraxX: shows [Js Ad] (two pair, Jacks and Fours)
+FarenCarter: shows [Ah 9d] (a pair of Fours)
+XxJoaoFeraxX collected 18258 from pot
+XxJoaoFeraxX wins $18.75 for eliminating FarenCarter and their own bounty increases by $18.75 to $56.25
+FarenCarter finished the tournament
+*** SUMMARY ***
+Total pot 18258 | Rake 0 
+Board [Jc Th 4s Kh 4c]
+Seat 1: FarenCarter (button) showed [Ah 9d] and lost with a pair of Fours
+Seat 2: AGV AA90 (small blind) folded before Flop
+Seat 3: XxJoaoFeraxX (big blind) showed [Js Ad] and won (18258) with two pair, Jacks and Fours
+Seat 4: aCrA88 folded before Flop (didn't bet)
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: A777BX folded before Flop (didn't bet)
+Seat 7: goshaleg folded before Flop
+
+PokerStars Hand #251207103050: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/06/26 20:38:28 UTC [2024/06/26 16:38:28 ET]
+Table '3769361899 29' 7-max Seat #2 is the button
+Seat 2: AGV AA90 (16955 in chips, $37.50 bounty) 
+Seat 3: XxJoaoFeraxX (19352 in chips, $56.25 bounty) 
+Seat 4: aCrA88 (7830 in chips, $25 bounty) 
+Seat 5: RSak4 (5456 in chips, $25 bounty) 
+Seat 6: A777BX (13633 in chips, $25 bounty) 
+Seat 7: goshaleg (8161 in chips, $25 bounty) 
+AGV AA90: posts the ante 50
+XxJoaoFeraxX: posts the ante 50
+aCrA88: posts the ante 50
+RSak4: posts the ante 50
+A777BX: posts the ante 50
+goshaleg: posts the ante 50
+XxJoaoFeraxX: posts small blind 200
+aCrA88: posts big blind 400
+*** HOLE CARDS ***
+RSak4: folds 
+A777BX: folds 
+goshaleg: raises 700 to 1100
+AGV AA90: folds 
+XxJoaoFeraxX: folds 
+aCrA88: folds 
+Uncalled bet (700) returned to goshaleg
+goshaleg collected 1300 from pot
+goshaleg: doesn't show hand 
+dj/\v.beta is disconnected 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 2: AGV AA90 (button) folded before Flop (didn't bet)
+Seat 3: XxJoaoFeraxX (small blind) folded before Flop
+Seat 4: aCrA88 (big blind) folded before Flop
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: A777BX folded before Flop (didn't bet)
+Seat 7: goshaleg collected (1300)
+
+PokerStars Hand #251207111533: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/06/26 20:38:58 UTC [2024/06/26 16:38:58 ET]
+Table '3769361899 29' 7-max Seat #3 is the button
+Seat 1: dj/\v.beta (7000 in chips, $25 bounty) 
+Seat 3: XxJoaoFeraxX (19102 in chips, $56.25 bounty) 
+Seat 4: aCrA88 (7380 in chips, $25 bounty) 
+Seat 5: RSak4 (5406 in chips, $25 bounty) 
+Seat 6: A777BX (13583 in chips, $25 bounty) 
+Seat 7: goshaleg (9011 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 50
+XxJoaoFeraxX: posts the ante 50
+aCrA88: posts the ante 50
+RSak4: posts the ante 50
+A777BX: posts the ante 50
+goshaleg: posts the ante 50
+aCrA88: posts small blind 200
+RSak4: posts big blind 400
+*** HOLE CARDS ***
+A777BX: folds 
+goshaleg: folds 
+dj/\v.beta: folds 
+XxJoaoFeraxX: folds 
+aCrA88: raises 6930 to 7330 and is all-in
+RSak4: folds 
+Uncalled bet (6930) returned to aCrA88
+aCrA88 collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Seat 1: dj/\v.beta folded before Flop (didn't bet)
+Seat 3: XxJoaoFeraxX (button) folded before Flop (didn't bet)
+Seat 4: aCrA88 (small blind) collected (1100)
+Seat 5: RSak4 (big blind) folded before Flop
+Seat 6: A777BX folded before Flop (didn't bet)
+Seat 7: goshaleg folded before Flop (didn't bet)
+
+PokerStars Hand #251207117470: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level IX (200/400) - 2024/06/26 20:39:19 UTC [2024/06/26 16:39:19 ET]
+Table '3769361899 29' 7-max Seat #4 is the button
+Seat 1: dj/\v.beta (6950 in chips, $25 bounty) 
+Seat 3: XxJoaoFeraxX (19052 in chips, $56.25 bounty) 
+Seat 4: aCrA88 (8030 in chips, $25 bounty) 
+Seat 5: RSak4 (4956 in chips, $25 bounty) 
+Seat 6: A777BX (13533 in chips, $25 bounty) 
+Seat 7: goshaleg (8961 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 50
+XxJoaoFeraxX: posts the ante 50
+aCrA88: posts the ante 50
+RSak4: posts the ante 50
+A777BX: posts the ante 50
+goshaleg: posts the ante 50
+RSak4: posts small blind 200
+A777BX: posts big blind 400
+*** HOLE CARDS ***
+goshaleg: folds 
+dj/\v.beta: folds 
+XxJoaoFeraxX: raises 400 to 800
+aCrA88: folds 
+RSak4: folds 
+A777BX: calls 400
+*** FLOP *** [Td Th 7d]
+A777BX: checks 
+XxJoaoFeraxX: bets 693
+A777BX: folds 
+Uncalled bet (693) returned to XxJoaoFeraxX
+XxJoaoFeraxX collected 2100 from pot
+XxJoaoFeraxX: doesn't show hand 
+*** SUMMARY ***
+Total pot 2100 | Rake 0 
+Board [Td Th 7d]
+Seat 1: dj/\v.beta folded before Flop (didn't bet)
+Seat 3: XxJoaoFeraxX collected (2100)
+Seat 4: aCrA88 (button) folded before Flop (didn't bet)
+Seat 5: RSak4 (small blind) folded before Flop
+Seat 6: A777BX (big blind) folded on the Flop
+Seat 7: goshaleg folded before Flop (didn't bet)
+
+PokerStars Hand #251207132552: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:40:12 UTC [2024/06/26 16:40:12 ET]
+Table '3769361899 29' 7-max Seat #5 is the button
+Seat 1: dj/\v.beta (6900 in chips, $25 bounty) 
+Seat 3: XxJoaoFeraxX (20302 in chips, $56.25 bounty) 
+Seat 4: aCrA88 (7980 in chips, $25 bounty) 
+Seat 5: RSak4 (4706 in chips, $25 bounty) 
+Seat 6: A777BX (12683 in chips, $25 bounty) 
+Seat 7: goshaleg (8911 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 60
+XxJoaoFeraxX: posts the ante 60
+aCrA88: posts the ante 60
+RSak4: posts the ante 60
+A777BX: posts the ante 60
+goshaleg: posts the ante 60
+A777BX: posts small blind 250
+goshaleg: posts big blind 500
+*** HOLE CARDS ***
+dj/\v.beta: folds 
+XxJoaoFeraxX: folds 
+aCrA88: folds 
+RSak4: folds 
+A777BX: raises 875 to 1375
+goshaleg: raises 7476 to 8851 and is all-in
+A777BX: calls 7476
+*** FLOP *** [7d 6c 5h]
+*** TURN *** [7d 6c 5h] [Ks]
+*** RIVER *** [7d 6c 5h Ks] [4d]
+*** SHOW DOWN ***
+A777BX: shows [Kc Ac] (a pair of Kings)
+goshaleg: shows [Ah 3h] (a straight, Three to Seven)
+goshaleg collected 18062 from pot
+*** SUMMARY ***
+Total pot 18062 | Rake 0 
+Board [7d 6c 5h Ks 4d]
+Seat 1: dj/\v.beta folded before Flop (didn't bet)
+Seat 3: XxJoaoFeraxX folded before Flop (didn't bet)
+Seat 4: aCrA88 folded before Flop (didn't bet)
+Seat 5: RSak4 (button) folded before Flop (didn't bet)
+Seat 6: A777BX (small blind) showed [Kc Ac] and lost with a pair of Kings
+Seat 7: goshaleg (big blind) showed [Ah 3h] and won (18062) with a straight, Three to Seven
+
+PokerStars Hand #251207144939: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:40:57 UTC [2024/06/26 16:40:57 ET]
+Table '3769361899 29' 7-max Seat #6 is the button
+Seat 1: dj/\v.beta (6840 in chips, $25 bounty) 
+Seat 3: XxJoaoFeraxX (20242 in chips, $56.25 bounty) 
+Seat 4: aCrA88 (7920 in chips, $25 bounty) 
+Seat 5: RSak4 (4646 in chips, $25 bounty) 
+Seat 6: A777BX (3772 in chips, $25 bounty) 
+Seat 7: goshaleg (18062 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 60
+XxJoaoFeraxX: posts the ante 60
+aCrA88: posts the ante 60
+RSak4: posts the ante 60
+A777BX: posts the ante 60
+goshaleg: posts the ante 60
+goshaleg: posts small blind 250
+dj/\v.beta: posts big blind 500
+*** HOLE CARDS ***
+XxJoaoFeraxX: folds 
+aCrA88: folds 
+RSak4: folds 
+A777BX: folds 
+goshaleg: raises 17502 to 18002 and is all-in
+dj/\v.beta: folds 
+Uncalled bet (17502) returned to goshaleg
+goshaleg collected 1360 from pot
+goshaleg: doesn't show hand 
+*** SUMMARY ***
+Total pot 1360 | Rake 0 
+Seat 1: dj/\v.beta (big blind) folded before Flop
+Seat 3: XxJoaoFeraxX folded before Flop (didn't bet)
+Seat 4: aCrA88 folded before Flop (didn't bet)
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: A777BX (button) folded before Flop (didn't bet)
+Seat 7: goshaleg (small blind) collected (1360)
+
+PokerStars Hand #251207151935: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:41:22 UTC [2024/06/26 16:41:22 ET]
+Table '3769361899 29' 7-max Seat #7 is the button
+Seat 1: dj/\v.beta (6280 in chips, $25 bounty) 
+Seat 3: XxJoaoFeraxX (20182 in chips, $56.25 bounty) 
+Seat 4: aCrA88 (7860 in chips, $25 bounty) 
+Seat 5: RSak4 (4586 in chips, $25 bounty) 
+Seat 6: A777BX (3712 in chips, $25 bounty) 
+Seat 7: goshaleg (18862 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 60
+XxJoaoFeraxX: posts the ante 60
+aCrA88: posts the ante 60
+RSak4: posts the ante 60
+A777BX: posts the ante 60
+goshaleg: posts the ante 60
+dj/\v.beta: posts small blind 250
+XxJoaoFeraxX: posts big blind 500
+*** HOLE CARDS ***
+aCrA88: folds 
+RSak4: folds 
+A777BX: raises 3152 to 3652 and is all-in
+goshaleg: folds 
+dj/\v.beta: folds 
+XxJoaoFeraxX: calls 3152
+*** FLOP *** [9c Ah 7c]
+*** TURN *** [9c Ah 7c] [Jd]
+*** RIVER *** [9c Ah 7c Jd] [4h]
+*** SHOW DOWN ***
+XxJoaoFeraxX: shows [Qh 8c] (high card Ace)
+A777BX: shows [Ac Kc] (a pair of Aces)
+A777BX collected 7914 from pot
+*** SUMMARY ***
+Total pot 7914 | Rake 0 
+Board [9c Ah 7c Jd 4h]
+Seat 1: dj/\v.beta (small blind) folded before Flop
+Seat 3: XxJoaoFeraxX (big blind) showed [Qh 8c] and lost with high card Ace
+Seat 4: aCrA88 folded before Flop (didn't bet)
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: A777BX showed [Ac Kc] and won (7914) with a pair of Aces
+Seat 7: goshaleg (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207162796: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:42:01 UTC [2024/06/26 16:42:01 ET]
+Table '3769361899 29' 7-max Seat #1 is the button
+Seat 1: dj/\v.beta (5970 in chips, $25 bounty) 
+Seat 3: XxJoaoFeraxX (16470 in chips, $56.25 bounty) 
+Seat 4: aCrA88 (7800 in chips, $25 bounty) 
+Seat 5: RSak4 (4526 in chips, $25 bounty) 
+Seat 6: A777BX (7914 in chips, $25 bounty) 
+Seat 7: goshaleg (18802 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 60
+XxJoaoFeraxX: posts the ante 60
+aCrA88: posts the ante 60
+RSak4: posts the ante 60
+A777BX: posts the ante 60
+goshaleg: posts the ante 60
+XxJoaoFeraxX: posts small blind 250
+aCrA88: posts big blind 500
+*** HOLE CARDS ***
+RSak4: folds 
+A777BX: folds 
+goshaleg: raises 500 to 1000
+dj/\v.beta: raises 3110 to 4110
+XxJoaoFeraxX: folds 
+aCrA88: folds 
+goshaleg: raises 3110 to 7220
+dj/\v.beta: calls 1800 and is all-in
+Uncalled bet (1310) returned to goshaleg
+*** FLOP *** [5d Qd 5c]
+*** TURN *** [5d Qd 5c] [Js]
+*** RIVER *** [5d Qd 5c Js] [7d]
+*** SHOW DOWN ***
+goshaleg: shows [Jd 9d] (a flush, Queen high)
+dj/\v.beta: shows [7s 7c] (a full house, Sevens full of Fives)
+dj/\v.beta collected 12930 from pot
+*** SUMMARY ***
+Total pot 12930 | Rake 0 
+Board [5d Qd 5c Js 7d]
+Seat 1: dj/\v.beta (button) showed [7s 7c] and won (12930) with a full house, Sevens full of Fives
+Seat 3: XxJoaoFeraxX (small blind) folded before Flop
+Seat 4: aCrA88 (big blind) folded before Flop
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: A777BX folded before Flop (didn't bet)
+Seat 7: goshaleg showed [Jd 9d] and lost with a flush, Queen high
+
+PokerStars Hand #251207173336: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:42:39 UTC [2024/06/26 16:42:39 ET]
+Table '3769361899 29' 7-max Seat #3 is the button
+Seat 1: dj/\v.beta (12930 in chips, $25 bounty) 
+Seat 3: XxJoaoFeraxX (16160 in chips, $56.25 bounty) 
+Seat 4: aCrA88 (7240 in chips, $25 bounty) 
+Seat 5: RSak4 (4466 in chips, $25 bounty) 
+Seat 6: A777BX (7854 in chips, $25 bounty) 
+Seat 7: goshaleg (12832 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 60
+XxJoaoFeraxX: posts the ante 60
+aCrA88: posts the ante 60
+RSak4: posts the ante 60
+A777BX: posts the ante 60
+goshaleg: posts the ante 60
+aCrA88: posts small blind 250
+RSak4: posts big blind 500
+*** HOLE CARDS ***
+A777BX: folds 
+goshaleg: folds 
+dj/\v.beta: raises 500 to 1000
+11darsh11 is disconnected 
+XxJoaoFeraxX: calls 1000
+aCrA88: folds 
+RSak4: calls 500
+*** FLOP *** [Jh 3s Ac]
+RSak4: checks 
+dj/\v.beta: bets 980
+XxJoaoFeraxX: folds 
+RSak4: raises 2426 to 3406 and is all-in
+dj/\v.beta: folds 
+Uncalled bet (2426) returned to RSak4
+RSak4 collected 5570 from pot
+RSak4: doesn't show hand 
+*** SUMMARY ***
+Total pot 5570 | Rake 0 
+Board [Jh 3s Ac]
+Seat 1: dj/\v.beta folded on the Flop
+Seat 3: XxJoaoFeraxX (button) folded on the Flop
+Seat 4: aCrA88 (small blind) folded before Flop
+Seat 5: RSak4 (big blind) collected (5570)
+Seat 6: A777BX folded before Flop (didn't bet)
+Seat 7: goshaleg folded before Flop (didn't bet)
+
+PokerStars Hand #251207193430: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:43:53 UTC [2024/06/26 16:43:53 ET]
+Table '3769361899 29' 7-max Seat #4 is the button
+Seat 1: dj/\v.beta (10890 in chips, $25 bounty) 
+Seat 2: 11darsh11 (7176 in chips, $25 bounty) 
+Seat 3: XxJoaoFeraxX (15100 in chips, $56.25 bounty) 
+Seat 4: aCrA88 (6930 in chips, $25 bounty) 
+Seat 5: RSak4 (7996 in chips, $25 bounty) 
+Seat 6: A777BX (7794 in chips, $25 bounty) 
+Seat 7: goshaleg (12772 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 60
+11darsh11: posts the ante 60
+XxJoaoFeraxX: posts the ante 60
+aCrA88: posts the ante 60
+RSak4: posts the ante 60
+A777BX: posts the ante 60
+goshaleg: posts the ante 60
+RSak4: posts small blind 250
+A777BX: posts big blind 500
+*** HOLE CARDS ***
+goshaleg: folds 
+dj/\v.beta: folds 
+11darsh11: folds 
+XxJoaoFeraxX: folds 
+aCrA88: folds 
+RSak4: raises 7436 to 7936 and is all-in
+A777BX: folds 
+Uncalled bet (7436) returned to RSak4
+RSak4 collected 1420 from pot
+RSak4: doesn't show hand 
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Seat 1: dj/\v.beta folded before Flop (didn't bet)
+Seat 2: 11darsh11 folded before Flop (didn't bet)
+Seat 3: XxJoaoFeraxX folded before Flop (didn't bet)
+Seat 4: aCrA88 (button) folded before Flop (didn't bet)
+Seat 5: RSak4 (small blind) collected (1420)
+Seat 6: A777BX (big blind) folded before Flop
+Seat 7: goshaleg folded before Flop (didn't bet)
+
+PokerStars Hand #251207204284: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:44:33 UTC [2024/06/26 16:44:33 ET]
+Table '3769361899 29' 7-max Seat #5 is the button
+Seat 1: dj/\v.beta (10830 in chips, $25 bounty) 
+Seat 2: 11darsh11 (7116 in chips, $25 bounty) 
+Seat 3: XxJoaoFeraxX (15040 in chips, $56.25 bounty) 
+Seat 4: aCrA88 (6870 in chips, $25 bounty) 
+Seat 5: RSak4 (8856 in chips, $25 bounty) 
+Seat 6: A777BX (7234 in chips, $25 bounty) 
+Seat 7: goshaleg (12712 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 60
+11darsh11: posts the ante 60
+XxJoaoFeraxX: posts the ante 60
+aCrA88: posts the ante 60
+RSak4: posts the ante 60
+A777BX: posts the ante 60
+goshaleg: posts the ante 60
+A777BX: posts small blind 250
+goshaleg: posts big blind 500
+*** HOLE CARDS ***
+dj/\v.beta: folds 
+11darsh11: folds 
+XxJoaoFeraxX: raises 500 to 1000
+aCrA88: raises 5810 to 6810 and is all-in
+RSak4: folds 
+A777BX: folds 
+goshaleg: folds 
+XxJoaoFeraxX: calls 5810
+*** FLOP *** [7s Jc 5d]
+*** TURN *** [7s Jc 5d] [7d]
+*** RIVER *** [7s Jc 5d 7d] [2s]
+*** SHOW DOWN ***
+XxJoaoFeraxX: shows [Kc Ks] (two pair, Kings and Sevens)
+aCrA88: shows [9h 9d] (two pair, Nines and Sevens)
+XxJoaoFeraxX collected 14790 from pot
+XxJoaoFeraxX wins $12.50 for eliminating aCrA88 and their own bounty increases by $12.50 to $68.75
+aCrA88 finished the tournament
+naandy is disconnected 
+*** SUMMARY ***
+Total pot 14790 | Rake 0 
+Board [7s Jc 5d 7d 2s]
+Seat 1: dj/\v.beta folded before Flop (didn't bet)
+Seat 2: 11darsh11 folded before Flop (didn't bet)
+Seat 3: XxJoaoFeraxX showed [Kc Ks] and won (14790) with two pair, Kings and Sevens
+Seat 4: aCrA88 showed [9h 9d] and lost with two pair, Nines and Sevens
+Seat 5: RSak4 (button) folded before Flop (didn't bet)
+Seat 6: A777BX (small blind) folded before Flop
+Seat 7: goshaleg (big blind) folded before Flop
+
+PokerStars Hand #251207215469: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level X (250/500) - 2024/06/26 20:45:13 UTC [2024/06/26 16:45:13 ET]
+Table '3769361899 29' 7-max Seat #6 is the button
+Seat 1: dj/\v.beta (10770 in chips, $25 bounty) 
+Seat 2: 11darsh11 (7056 in chips, $25 bounty) 
+Seat 3: XxJoaoFeraxX (22960 in chips, $68.75 bounty) 
+Seat 4: naandy (7016 in chips, $50 bounty) 
+Seat 5: RSak4 (8796 in chips, $25 bounty) 
+Seat 6: A777BX (6924 in chips, $25 bounty) 
+Seat 7: goshaleg (12152 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 60
+11darsh11: posts the ante 60
+XxJoaoFeraxX: posts the ante 60
+naandy: posts the ante 60
+RSak4: posts the ante 60
+A777BX: posts the ante 60
+goshaleg: posts the ante 60
+goshaleg: posts small blind 250
+dj/\v.beta: posts big blind 500
+*** HOLE CARDS ***
+11darsh11: folds 
+XxJoaoFeraxX: raises 500 to 1000
+naandy: folds 
+RSak4: folds 
+A777BX: folds 
+goshaleg: folds 
+dj/\v.beta: calls 500
+*** FLOP *** [5s 2d 9h]
+dj/\v.beta: checks 
+XxJoaoFeraxX: bets 881
+dj/\v.beta: raises 1119 to 2000
+XxJoaoFeraxX: folds 
+Uncalled bet (1119) returned to dj/\v.beta
+dj/\v.beta collected 4432 from pot
+dj/\v.beta: doesn't show hand 
+*** SUMMARY ***
+Total pot 4432 | Rake 0 
+Board [5s 2d 9h]
+Seat 1: dj/\v.beta (big blind) collected (4432)
+Seat 2: 11darsh11 folded before Flop (didn't bet)
+Seat 3: XxJoaoFeraxX folded on the Flop
+Seat 4: naandy folded before Flop (didn't bet)
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: A777BX (button) folded before Flop (didn't bet)
+Seat 7: goshaleg (small blind) folded before Flop
+
+PokerStars Hand #251207246464: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:47:06 UTC [2024/06/26 16:47:06 ET]
+Table '3769361899 29' 7-max Seat #7 is the button
+Seat 1: dj/\v.beta (13261 in chips, $25 bounty) 
+Seat 2: 11darsh11 (6996 in chips, $25 bounty) 
+Seat 4: naandy (6956 in chips, $50 bounty) 
+Seat 5: RSak4 (8736 in chips, $25 bounty) 
+Seat 6: A777BX (6864 in chips, $25 bounty) 
+Seat 7: goshaleg (11842 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 80
+11darsh11: posts the ante 80
+naandy: posts the ante 80
+RSak4: posts the ante 80
+A777BX: posts the ante 80
+goshaleg: posts the ante 80
+dj/\v.beta: posts small blind 300
+11darsh11: posts big blind 600
+*** HOLE CARDS ***
+naandy: folds 
+RSak4: raises 660 to 1260
+A777BX: folds 
+goshaleg: folds 
+dj/\v.beta: folds 
+11darsh11: folds 
+Uncalled bet (660) returned to RSak4
+RSak4 collected 1980 from pot
+RSak4: doesn't show hand 
+*** SUMMARY ***
+Total pot 1980 | Rake 0 
+Seat 1: dj/\v.beta (small blind) folded before Flop
+Seat 2: 11darsh11 (big blind) folded before Flop
+Seat 4: naandy folded before Flop (didn't bet)
+Seat 5: RSak4 collected (1980)
+Seat 6: A777BX folded before Flop (didn't bet)
+Seat 7: goshaleg (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207256782: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:47:43 UTC [2024/06/26 16:47:43 ET]
+Table '3769361899 29' 7-max Seat #1 is the button
+Seat 1: dj/\v.beta (12881 in chips, $25 bounty) 
+Seat 2: 11darsh11 (6316 in chips, $25 bounty) 
+Seat 4: naandy (6876 in chips, $50 bounty) 
+Seat 5: RSak4 (10036 in chips, $25 bounty) 
+Seat 6: A777BX (6784 in chips, $25 bounty) 
+Seat 7: goshaleg (11762 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 80
+11darsh11: posts the ante 80
+naandy: posts the ante 80
+RSak4: posts the ante 80
+A777BX: posts the ante 80
+goshaleg: posts the ante 80
+11darsh11: posts small blind 300
+naandy: posts big blind 600
+*** HOLE CARDS ***
+RSak4: folds 
+A777BX: folds 
+goshaleg: folds 
+dj/\v.beta: raises 650 to 1250
+11darsh11: raises 4986 to 6236 and is all-in
+naandy: folds 
+dj/\v.beta: folds 
+Uncalled bet (4986) returned to 11darsh11
+11darsh11 collected 3580 from pot
+11darsh11: doesn't show hand 
+*** SUMMARY ***
+Total pot 3580 | Rake 0 
+Seat 1: dj/\v.beta (button) folded before Flop
+Seat 2: 11darsh11 (small blind) collected (3580)
+Seat 4: naandy (big blind) folded before Flop
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: A777BX folded before Flop (didn't bet)
+Seat 7: goshaleg folded before Flop (didn't bet)
+
+PokerStars Hand #251207267914: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:48:23 UTC [2024/06/26 16:48:23 ET]
+Table '3769361899 29' 7-max Seat #2 is the button
+Seat 1: dj/\v.beta (11551 in chips, $25 bounty) 
+Seat 2: 11darsh11 (8566 in chips, $25 bounty) 
+Seat 4: naandy (6196 in chips, $50 bounty) 
+Seat 5: RSak4 (9956 in chips, $25 bounty) 
+Seat 6: A777BX (6704 in chips, $25 bounty) 
+Seat 7: goshaleg (11682 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 80
+11darsh11: posts the ante 80
+naandy: posts the ante 80
+RSak4: posts the ante 80
+A777BX: posts the ante 80
+goshaleg: posts the ante 80
+naandy: posts small blind 300
+RSak4: posts big blind 600
+*** HOLE CARDS ***
+A777BX: folds 
+goshaleg: folds 
+dj/\v.beta: folds 
+11darsh11: folds 
+naandy: raises 5400 to 6000
+RSak4: raises 3876 to 9876 and is all-in
+naandy: calls 116 and is all-in
+Uncalled bet (3760) returned to RSak4
+*** FLOP *** [Kc 4d 7s]
+*** TURN *** [Kc 4d 7s] [Js]
+*** RIVER *** [Kc 4d 7s Js] [3s]
+*** SHOW DOWN ***
+naandy: shows [Ah Jd] (a pair of Jacks)
+RSak4: shows [As Qd] (high card Ace)
+naandy collected 12712 from pot
+*** SUMMARY ***
+Total pot 12712 | Rake 0 
+Board [Kc 4d 7s Js 3s]
+Seat 1: dj/\v.beta folded before Flop (didn't bet)
+Seat 2: 11darsh11 (button) folded before Flop (didn't bet)
+Seat 4: naandy (small blind) showed [Ah Jd] and won (12712) with a pair of Jacks
+Seat 5: RSak4 (big blind) showed [As Qd] and lost with high card Ace
+Seat 6: A777BX folded before Flop (didn't bet)
+Seat 7: goshaleg folded before Flop (didn't bet)
+
+PokerStars Hand #251207278173: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:49:01 UTC [2024/06/26 16:49:01 ET]
+Table '3769361899 29' 7-max Seat #4 is the button
+Seat 1: dj/\v.beta (11471 in chips, $25 bounty) 
+Seat 2: 11darsh11 (8486 in chips, $25 bounty) 
+Seat 4: naandy (12712 in chips, $50 bounty) 
+Seat 5: RSak4 (3760 in chips, $25 bounty) 
+Seat 6: A777BX (6624 in chips, $25 bounty) 
+Seat 7: goshaleg (11602 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 80
+11darsh11: posts the ante 80
+naandy: posts the ante 80
+RSak4: posts the ante 80
+A777BX: posts the ante 80
+goshaleg: posts the ante 80
+RSak4: posts small blind 300
+A777BX: posts big blind 600
+*** HOLE CARDS ***
+goshaleg: folds 
+dj/\v.beta: folds 
+11darsh11: raises 600 to 1200
+naandy: raises 10200 to 11400
+RSak4: folds 
+A777BX: folds 
+11darsh11: folds 
+Uncalled bet (10200) returned to naandy
+naandy collected 3780 from pot
+naandy: doesn't show hand 
+*** SUMMARY ***
+Total pot 3780 | Rake 0 
+Seat 1: dj/\v.beta folded before Flop (didn't bet)
+Seat 2: 11darsh11 folded before Flop
+Seat 4: naandy (button) collected (3780)
+Seat 5: RSak4 (small blind) folded before Flop
+Seat 6: A777BX (big blind) folded before Flop
+Seat 7: goshaleg folded before Flop (didn't bet)
+
+PokerStars Hand #251207286920: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:49:33 UTC [2024/06/26 16:49:33 ET]
+Table '3769361899 29' 7-max Seat #5 is the button
+Seat 1: dj/\v.beta (11391 in chips, $25 bounty) 
+Seat 2: 11darsh11 (7206 in chips, $25 bounty) 
+Seat 4: naandy (15212 in chips, $50 bounty) 
+Seat 5: RSak4 (3380 in chips, $25 bounty) 
+Seat 6: A777BX (5944 in chips, $25 bounty) 
+Seat 7: goshaleg (11522 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 80
+11darsh11: posts the ante 80
+naandy: posts the ante 80
+RSak4: posts the ante 80
+A777BX: posts the ante 80
+goshaleg: posts the ante 80
+A777BX: posts small blind 300
+goshaleg: posts big blind 600
+*** HOLE CARDS ***
+dj/\v.beta: raises 645 to 1245
+11darsh11: folds 
+naandy: folds 
+RSak4: folds 
+A777BX: folds 
+goshaleg: folds 
+Uncalled bet (645) returned to dj/\v.beta
+dj/\v.beta collected 1980 from pot
+dj/\v.beta: doesn't show hand 
+*** SUMMARY ***
+Total pot 1980 | Rake 0 
+Seat 1: dj/\v.beta collected (1980)
+Seat 2: 11darsh11 folded before Flop (didn't bet)
+Seat 4: naandy folded before Flop (didn't bet)
+Seat 5: RSak4 (button) folded before Flop (didn't bet)
+Seat 6: A777BX (small blind) folded before Flop
+Seat 7: goshaleg (big blind) folded before Flop
+
+PokerStars Hand #251207293676: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:49:58 UTC [2024/06/26 16:49:58 ET]
+Table '3769361899 29' 7-max Seat #6 is the button
+Seat 1: dj/\v.beta (12691 in chips, $25 bounty) 
+Seat 2: 11darsh11 (7126 in chips, $25 bounty) 
+Seat 4: naandy (15132 in chips, $50 bounty) 
+Seat 5: RSak4 (3300 in chips, $25 bounty) 
+Seat 6: A777BX (5564 in chips, $25 bounty) 
+Seat 7: goshaleg (10842 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 80
+11darsh11: posts the ante 80
+naandy: posts the ante 80
+RSak4: posts the ante 80
+A777BX: posts the ante 80
+goshaleg: posts the ante 80
+goshaleg: posts small blind 300
+dj/\v.beta: posts big blind 600
+*** HOLE CARDS ***
+11darsh11: raises 6446 to 7046 and is all-in
+naandy: folds 
+RSak4: folds 
+A777BX: folds 
+XARANDROS is disconnected 
+goshaleg: folds 
+dj/\v.beta: folds 
+Uncalled bet (6446) returned to 11darsh11
+11darsh11 collected 1980 from pot
+11darsh11: doesn't show hand 
+*** SUMMARY ***
+Total pot 1980 | Rake 0 
+Seat 1: dj/\v.beta (big blind) folded before Flop
+Seat 2: 11darsh11 collected (1980)
+Seat 4: naandy folded before Flop (didn't bet)
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: A777BX (button) folded before Flop (didn't bet)
+Seat 7: goshaleg (small blind) folded before Flop
+
+PokerStars Hand #251207301604: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:50:28 UTC [2024/06/26 16:50:28 ET]
+Table '3769361899 29' 7-max Seat #7 is the button
+Seat 1: dj/\v.beta (12011 in chips, $25 bounty) 
+Seat 2: 11darsh11 (8426 in chips, $25 bounty) 
+Seat 3: XARANDROS (37042 in chips, $118.75 bounty) 
+Seat 4: naandy (15052 in chips, $50 bounty) 
+Seat 5: RSak4 (3220 in chips, $25 bounty) 
+Seat 6: A777BX (5484 in chips, $25 bounty) 
+Seat 7: goshaleg (10462 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 80
+11darsh11: posts the ante 80
+XARANDROS: posts the ante 80
+naandy: posts the ante 80
+RSak4: posts the ante 80
+A777BX: posts the ante 80
+goshaleg: posts the ante 80
+dj/\v.beta: posts small blind 300
+11darsh11: posts big blind 600
+*** HOLE CARDS ***
+XARANDROS: raises 1200 to 1800
+naandy: folds 
+RSak4: folds 
+A777BX: folds 
+goshaleg: folds 
+dj/\v.beta: folds 
+11darsh11: folds 
+Uncalled bet (1200) returned to XARANDROS
+XARANDROS collected 2060 from pot
+*** SUMMARY ***
+Total pot 2060 | Rake 0 
+Seat 1: dj/\v.beta (small blind) folded before Flop
+Seat 2: 11darsh11 (big blind) folded before Flop
+Seat 3: XARANDROS collected (2060)
+Seat 4: naandy folded before Flop (didn't bet)
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: A777BX folded before Flop (didn't bet)
+Seat 7: goshaleg (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207315296: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:51:18 UTC [2024/06/26 16:51:18 ET]
+Table '3769361899 29' 7-max Seat #1 is the button
+Seat 1: dj/\v.beta (11631 in chips, $25 bounty) 
+Seat 2: 11darsh11 (7746 in chips, $25 bounty) 
+Seat 3: XARANDROS (38422 in chips, $118.75 bounty) 
+Seat 4: naandy (14972 in chips, $50 bounty) 
+Seat 5: RSak4 (3140 in chips, $25 bounty) 
+Seat 6: A777BX (5404 in chips, $25 bounty) 
+Seat 7: goshaleg (10382 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 80
+11darsh11: posts the ante 80
+XARANDROS: posts the ante 80
+naandy: posts the ante 80
+RSak4: posts the ante 80
+A777BX: posts the ante 80
+goshaleg: posts the ante 80
+11darsh11: posts small blind 300
+XARANDROS: posts big blind 600
+*** HOLE CARDS ***
+naandy: folds 
+RSak4: folds 
+A777BX: folds 
+goshaleg: raises 9702 to 10302 and is all-in
+dj/\v.beta: folds 
+11darsh11: folds 
+XARANDROS: folds 
+Uncalled bet (9702) returned to goshaleg
+goshaleg collected 2060 from pot
+goshaleg: doesn't show hand 
+*** SUMMARY ***
+Total pot 2060 | Rake 0 
+Seat 1: dj/\v.beta (button) folded before Flop (didn't bet)
+Seat 2: 11darsh11 (small blind) folded before Flop
+Seat 3: XARANDROS (big blind) folded before Flop
+Seat 4: naandy folded before Flop (didn't bet)
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: A777BX folded before Flop (didn't bet)
+Seat 7: goshaleg collected (2060)
+
+PokerStars Hand #251207323512: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:51:48 UTC [2024/06/26 16:51:48 ET]
+Table '3769361899 29' 7-max Seat #2 is the button
+Seat 1: dj/\v.beta (11551 in chips, $25 bounty) 
+Seat 2: 11darsh11 (7366 in chips, $25 bounty) 
+Seat 3: XARANDROS (37742 in chips, $118.75 bounty) 
+Seat 4: naandy (14892 in chips, $50 bounty) 
+Seat 5: RSak4 (3060 in chips, $25 bounty) 
+Seat 6: A777BX (5324 in chips, $25 bounty) 
+Seat 7: goshaleg (11762 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 80
+11darsh11: posts the ante 80
+XARANDROS: posts the ante 80
+naandy: posts the ante 80
+RSak4: posts the ante 80
+A777BX: posts the ante 80
+goshaleg: posts the ante 80
+XARANDROS: posts small blind 300
+naandy: posts big blind 600
+*** HOLE CARDS ***
+RSak4: folds 
+A777BX: raises 4644 to 5244 and is all-in
+goshaleg: folds 
+dj/\v.beta: raises 6227 to 11471 and is all-in
+11darsh11: folds 
+XARANDROS: calls 11171
+naandy: folds 
+*** FLOP *** [2h 7h Td]
+*** TURN *** [2h 7h Td] [Qc]
+*** RIVER *** [2h 7h Td Qc] [5c]
+*** SHOW DOWN ***
+XARANDROS: shows [Kd Ad] (high card Ace)
+dj/\v.beta: shows [4s 4d] (a pair of Fours)
+dj/\v.beta collected 12454 from side pot
+A777BX: shows [Jc Ah] (high card Ace)
+dj/\v.beta collected 16892 from main pot
+dj/\v.beta wins $12.50 for eliminating A777BX and their own bounty increases by $12.50 to $37.50
+A777BX finished the tournament
+*** SUMMARY ***
+Total pot 29346 Main pot 16892. Side pot 12454. | Rake 0 
+Board [2h 7h Td Qc 5c]
+Seat 1: dj/\v.beta showed [4s 4d] and won (29346) with a pair of Fours
+Seat 2: 11darsh11 (button) folded before Flop (didn't bet)
+Seat 3: XARANDROS (small blind) showed [Kd Ad] and lost with high card Ace
+Seat 4: naandy (big blind) folded before Flop
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: A777BX showed [Jc Ah] and lost with high card Ace
+Seat 7: goshaleg folded before Flop (didn't bet)
+
+PokerStars Hand #251207340094: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:52:49 UTC [2024/06/26 16:52:49 ET]
+Table '3769361899 29' 7-max Seat #3 is the button
+Seat 1: dj/\v.beta (29346 in chips, $37.50 bounty) 
+Seat 2: 11darsh11 (7286 in chips, $25 bounty) 
+Seat 3: XARANDROS (26191 in chips, $118.75 bounty) 
+Seat 4: naandy (14212 in chips, $50 bounty) 
+Seat 5: RSak4 (2980 in chips, $25 bounty) 
+Seat 7: goshaleg (11682 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 80
+11darsh11: posts the ante 80
+XARANDROS: posts the ante 80
+naandy: posts the ante 80
+RSak4: posts the ante 80
+goshaleg: posts the ante 80
+naandy: posts small blind 300
+RSak4: posts big blind 600
+*** HOLE CARDS ***
+goshaleg: folds 
+dj/\v.beta: folds 
+11darsh11: folds 
+XARANDROS: folds 
+naandy: raises 3900 to 4500
+RSak4: calls 2300 and is all-in
+Uncalled bet (1600) returned to naandy
+*** FLOP *** [3c Jh 2h]
+*** TURN *** [3c Jh 2h] [7c]
+*** RIVER *** [3c Jh 2h 7c] [Ks]
+*** SHOW DOWN ***
+naandy: shows [4h Ac] (high card Ace)
+RSak4: shows [Kh 6s] (a pair of Kings)
+RSak4 collected 6280 from pot
+*** SUMMARY ***
+Total pot 6280 | Rake 0 
+Board [3c Jh 2h 7c Ks]
+Seat 1: dj/\v.beta folded before Flop (didn't bet)
+Seat 2: 11darsh11 folded before Flop (didn't bet)
+Seat 3: XARANDROS (button) folded before Flop (didn't bet)
+Seat 4: naandy (small blind) showed [4h Ac] and lost with high card Ace
+Seat 5: RSak4 (big blind) showed [Kh 6s] and won (6280) with a pair of Kings
+Seat 7: goshaleg folded before Flop (didn't bet)
+
+PokerStars Hand #251207353906: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XI (300/600) - 2024/06/26 20:53:41 UTC [2024/06/26 16:53:41 ET]
+Table '3769361899 29' 7-max Seat #4 is the button
+Seat 1: dj/\v.beta (29266 in chips, $37.50 bounty) 
+Seat 2: 11darsh11 (7206 in chips, $25 bounty) 
+Seat 3: XARANDROS (26111 in chips, $118.75 bounty) 
+Seat 4: naandy (11232 in chips, $50 bounty) 
+Seat 5: RSak4 (6280 in chips, $25 bounty) 
+Seat 7: goshaleg (11602 in chips, $25 bounty) 
+dj/\v.beta: posts the ante 80
+11darsh11: posts the ante 80
+XARANDROS: posts the ante 80
+naandy: posts the ante 80
+RSak4: posts the ante 80
+goshaleg: posts the ante 80
+RSak4: posts small blind 300
+goshaleg: posts big blind 600
+*** HOLE CARDS ***
+dj/\v.beta: folds 
+11darsh11: folds 
+XARANDROS: raises 600 to 1200
+naandy: folds 
+RSak4: folds 
+goshaleg: calls 600
+*** FLOP *** [Th 5s 9s]
+goshaleg: checks 
+XARANDROS: checks 
+*** TURN *** [Th 5s 9s] [Tc]
+goshaleg: bets 2385
+XARANDROS: raises 2385 to 4770
+goshaleg: raises 5552 to 10322 and is all-in
+XARANDROS: calls 5552
+*** RIVER *** [Th 5s 9s Tc] [9d]
+*** SHOW DOWN ***
+goshaleg: shows [Qs 8s] (two pair, Tens and Nines)
+XARANDROS: shows [Ah Ac] (two pair, Aces and Tens)
+XARANDROS collected 23824 from pot
+XARANDROS wins $12.50 for eliminating goshaleg and their own bounty increases by $12.50 to $131.25
+goshaleg finished the tournament
+*** SUMMARY ***
+Total pot 23824 | Rake 0 
+Board [Th 5s 9s Tc 9d]
+Seat 1: dj/\v.beta folded before Flop (didn't bet)
+Seat 2: 11darsh11 folded before Flop (didn't bet)
+Seat 3: XARANDROS showed [Ah Ac] and won (23824) with two pair, Aces and Tens
+Seat 4: naandy (button) folded before Flop (didn't bet)
+Seat 5: RSak4 (small blind) folded before Flop
+Seat 7: goshaleg (big blind) showed [Qs 8s] and lost with two pair, Tens and Nines
+
+PokerStars Hand #251207367216: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XII (350/700) - 2024/06/26 20:54:32 UTC [2024/06/26 16:54:32 ET]
+Table '3769361899 29' 7-max Seat #5 is the button
+Seat 1: dj/\v.beta (29186 in chips, $37.50 bounty) 
+Seat 2: 11darsh11 (7126 in chips, $25 bounty) 
+Seat 3: XARANDROS (38333 in chips, $131.25 bounty) 
+Seat 4: naandy (11152 in chips, $50 bounty) 
+Seat 5: RSak4 (5900 in chips, $25 bounty) 
+Seat 6: lucaromanoo1 (39024 in chips) out of hand (moved from another table into small blind)
+lucaromanoo1 will be allowed to play after the button
+dj/\v.beta: posts the ante 90
+11darsh11: posts the ante 90
+XARANDROS: posts the ante 90
+naandy: posts the ante 90
+RSak4: posts the ante 90
+dj/\v.beta: posts small blind 350
+11darsh11: posts big blind 700
+*** HOLE CARDS ***
+XARANDROS: raises 700 to 1400
+naandy: folds 
+RSak4: folds 
+dj/\v.beta: folds 
+11darsh11: raises 5636 to 7036 and is all-in
+XARANDROS: calls 5636
+*** FLOP *** [8s Qs 8h]
+*** TURN *** [8s Qs 8h] [Kh]
+*** RIVER *** [8s Qs 8h Kh] [5d]
+*** SHOW DOWN ***
+11darsh11: shows [As 2s] (a pair of Eights)
+XARANDROS: shows [Jc Qc] (two pair, Queens and Eights)
+XARANDROS collected 14872 from pot
+XARANDROS wins $12.50 for eliminating 11darsh11 and their own bounty increases by $12.50 to $143.75
+11darsh11 finished the tournament
+*** SUMMARY ***
+Total pot 14872 | Rake 0 
+Board [8s Qs 8h Kh 5d]
+Seat 1: dj/\v.beta (small blind) folded before Flop
+Seat 2: 11darsh11 (big blind) showed [As 2s] and lost with a pair of Eights
+Seat 3: XARANDROS showed [Jc Qc] and won (14872) with two pair, Queens and Eights
+Seat 4: naandy folded before Flop (didn't bet)
+Seat 5: RSak4 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207448186: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XII (350/700) - 2024/06/26 21:01:04 UTC [2024/06/26 17:01:04 ET]
+Table '3769361899 29' 7-max Seat #1 is the button
+Seat 1: dj/\v.beta (28746 in chips, $37.50 bounty) 
+Seat 3: XARANDROS (46079 in chips, $143.75 bounty) 
+Seat 4: naandy (11062 in chips, $50 bounty) 
+Seat 5: RSak4 (5810 in chips, $25 bounty) 
+Seat 6: lucaromanoo1 (39024 in chips, $62.50 bounty) 
+Seat 7: jonespkr (14230 in chips, $68.75 bounty) 
+dj/\v.beta: posts the ante 90
+XARANDROS: posts the ante 90
+naandy: posts the ante 90
+RSak4: posts the ante 90
+lucaromanoo1: posts the ante 90
+jonespkr: posts the ante 90
+XARANDROS: posts small blind 350
+naandy: posts big blind 700
+*** HOLE CARDS ***
+MaCheCazzoFai is disconnected 
+RSak4: raises 5020 to 5720 and is all-in
+lucaromanoo1: folds 
+jonespkr: folds 
+dj/\v.beta: folds 
+XARANDROS: raises 5020 to 10740
+naandy: folds 
+Uncalled bet (5020) returned to XARANDROS
+*** FLOP *** [4d 3h Js]
+*** TURN *** [4d 3h Js] [2c]
+*** RIVER *** [4d 3h Js 2c] [9h]
+*** SHOW DOWN ***
+XARANDROS: shows [5s 8c] (high card Jack)
+RSak4: shows [8h Ad] (high card Ace)
+RSak4 collected 12680 from pot
+*** SUMMARY ***
+Total pot 12680 | Rake 0 
+Board [4d 3h Js 2c 9h]
+Seat 1: dj/\v.beta (button) folded before Flop (didn't bet)
+Seat 3: XARANDROS (small blind) showed [5s 8c] and lost with high card Jack
+Seat 4: naandy (big blind) folded before Flop
+Seat 5: RSak4 showed [8h Ad] and won (12680) with high card Ace
+Seat 6: lucaromanoo1 folded before Flop (didn't bet)
+Seat 7: jonespkr folded before Flop (didn't bet)
+
+PokerStars Hand #251207462348: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XII (350/700) - 2024/06/26 21:02:00 UTC [2024/06/26 17:02:00 ET]
+Table '3769361899 29' 7-max Seat #3 is the button
+Seat 2: MaCheCazzoFai (51128 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (40269 in chips, $143.75 bounty) 
+Seat 4: naandy (10272 in chips, $50 bounty) 
+Seat 5: RSak4 (12680 in chips, $25 bounty) 
+Seat 6: lucaromanoo1 (38934 in chips, $62.50 bounty) 
+Seat 7: jonespkr (14140 in chips, $68.75 bounty) 
+MaCheCazzoFai: posts the ante 90
+XARANDROS: posts the ante 90
+naandy: posts the ante 90
+RSak4: posts the ante 90
+lucaromanoo1: posts the ante 90
+jonespkr: posts the ante 90
+naandy: posts small blind 350
+RSak4: posts big blind 700
+*** HOLE CARDS ***
+lucaromanoo1: raises 700 to 1400
+jonespkr: folds 
+MaCheCazzoFai: folds 
+XARANDROS: calls 1400
+smokyoner is disconnected 
+naandy: folds 
+RSak4: folds 
+*** FLOP *** [9c Ad Kd]
+lucaromanoo1: checks 
+XARANDROS: checks 
+*** TURN *** [9c Ad Kd] [Jc]
+lucaromanoo1: checks 
+XARANDROS: checks 
+*** RIVER *** [9c Ad Kd Jc] [4h]
+lucaromanoo1: bets 1405
+XARANDROS: folds 
+Uncalled bet (1405) returned to lucaromanoo1
+lucaromanoo1 collected 4390 from pot
+lucaromanoo1: doesn't show hand 
+*** SUMMARY ***
+Total pot 4390 | Rake 0 
+Board [9c Ad Kd Jc 4h]
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: XARANDROS (button) folded on the River
+Seat 4: naandy (small blind) folded before Flop
+Seat 5: RSak4 (big blind) folded before Flop
+Seat 6: lucaromanoo1 collected (4390)
+Seat 7: jonespkr folded before Flop (didn't bet)
+
+PokerStars Hand #251207480462: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XII (350/700) - 2024/06/26 21:03:08 UTC [2024/06/26 17:03:08 ET]
+Table '3769361899 29' 7-max Seat #4 is the button
+Seat 1: smokyoner (7530 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (51038 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (38779 in chips, $143.75 bounty) 
+Seat 4: naandy (9832 in chips, $50 bounty) 
+Seat 5: RSak4 (11890 in chips, $25 bounty) 
+Seat 6: lucaromanoo1 (41834 in chips, $62.50 bounty) 
+Seat 7: jonespkr (14050 in chips, $68.75 bounty) 
+smokyoner: posts the ante 90
+MaCheCazzoFai: posts the ante 90
+XARANDROS: posts the ante 90
+naandy: posts the ante 90
+RSak4: posts the ante 90
+lucaromanoo1: posts the ante 90
+jonespkr: posts the ante 90
+RSak4: posts small blind 350
+lucaromanoo1: posts big blind 700
+*** HOLE CARDS ***
+jonespkr: folds 
+smokyoner: folds 
+MaCheCazzoFai: folds 
+XARANDROS: folds 
+XARANDROS is sitting out
+naandy: folds 
+XARANDROS has returned
+RSak4: raises 11100 to 11800 and is all-in
+lucaromanoo1: folds 
+Uncalled bet (11100) returned to RSak4
+RSak4 collected 2030 from pot
+RSak4: doesn't show hand 
+*** SUMMARY ***
+Total pot 2030 | Rake 0 
+Seat 1: smokyoner folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: XARANDROS folded before Flop (didn't bet)
+Seat 4: naandy (button) folded before Flop (didn't bet)
+Seat 5: RSak4 (small blind) collected (2030)
+Seat 6: lucaromanoo1 (big blind) folded before Flop
+Seat 7: jonespkr folded before Flop (didn't bet)
+
+PokerStars Hand #251207488433: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XII (350/700) - 2024/06/26 21:03:38 UTC [2024/06/26 17:03:38 ET]
+Table '3769361899 29' 7-max Seat #5 is the button
+Seat 1: smokyoner (7440 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (50948 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (38689 in chips, $143.75 bounty) 
+Seat 4: naandy (9742 in chips, $50 bounty) 
+Seat 5: RSak4 (13130 in chips, $25 bounty) 
+Seat 6: lucaromanoo1 (41044 in chips, $62.50 bounty) 
+Seat 7: jonespkr (13960 in chips, $68.75 bounty) 
+smokyoner: posts the ante 90
+MaCheCazzoFai: posts the ante 90
+XARANDROS: posts the ante 90
+naandy: posts the ante 90
+RSak4: posts the ante 90
+lucaromanoo1: posts the ante 90
+jonespkr: posts the ante 90
+lucaromanoo1: posts small blind 350
+jonespkr: posts big blind 700
+*** HOLE CARDS ***
+smokyoner: folds 
+MaCheCazzoFai: folds 
+XARANDROS: raises 700 to 1400
+naandy: folds 
+RSak4: folds 
+lucaromanoo1: folds 
+jonespkr: folds 
+Uncalled bet (700) returned to XARANDROS
+XARANDROS collected 2380 from pot
+*** SUMMARY ***
+Total pot 2380 | Rake 0 
+Seat 1: smokyoner folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: XARANDROS collected (2380)
+Seat 4: naandy folded before Flop (didn't bet)
+Seat 5: RSak4 (button) folded before Flop (didn't bet)
+Seat 6: lucaromanoo1 (small blind) folded before Flop
+Seat 7: jonespkr (big blind) folded before Flop
+
+PokerStars Hand #251207496737: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XII (350/700) - 2024/06/26 21:04:09 UTC [2024/06/26 17:04:09 ET]
+Table '3769361899 29' 7-max Seat #6 is the button
+Seat 1: smokyoner (7350 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (50858 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (40279 in chips, $143.75 bounty) 
+Seat 4: naandy (9652 in chips, $50 bounty) 
+Seat 5: RSak4 (13040 in chips, $25 bounty) 
+Seat 6: lucaromanoo1 (40604 in chips, $62.50 bounty) 
+Seat 7: jonespkr (13170 in chips, $68.75 bounty) 
+smokyoner: posts the ante 90
+MaCheCazzoFai: posts the ante 90
+XARANDROS: posts the ante 90
+naandy: posts the ante 90
+RSak4: posts the ante 90
+lucaromanoo1: posts the ante 90
+jonespkr: posts the ante 90
+jonespkr: posts small blind 350
+smokyoner: posts big blind 700
+*** HOLE CARDS ***
+MaCheCazzoFai: folds 
+XARANDROS: raises 39489 to 40189 and is all-in
+naandy: folds 
+RSak4: folds 
+lucaromanoo1: folds 
+jonespkr: folds 
+smokyoner: folds 
+Uncalled bet (39489) returned to XARANDROS
+XARANDROS collected 2380 from pot
+*** SUMMARY ***
+Total pot 2380 | Rake 0 
+Seat 1: smokyoner (big blind) folded before Flop
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: XARANDROS collected (2380)
+Seat 4: naandy folded before Flop (didn't bet)
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: lucaromanoo1 (button) folded before Flop (didn't bet)
+Seat 7: jonespkr (small blind) folded before Flop
+
+PokerStars Hand #251207506893: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XII (350/700) - 2024/06/26 21:04:46 UTC [2024/06/26 17:04:46 ET]
+Table '3769361899 29' 7-max Seat #7 is the button
+Seat 1: smokyoner (6560 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (50768 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (41869 in chips, $143.75 bounty) 
+Seat 4: naandy (9562 in chips, $50 bounty) 
+Seat 5: RSak4 (12950 in chips, $25 bounty) 
+Seat 6: lucaromanoo1 (40514 in chips, $62.50 bounty) 
+Seat 7: jonespkr (12730 in chips, $68.75 bounty) 
+smokyoner: posts the ante 90
+MaCheCazzoFai: posts the ante 90
+XARANDROS: posts the ante 90
+naandy: posts the ante 90
+RSak4: posts the ante 90
+lucaromanoo1: posts the ante 90
+jonespkr: posts the ante 90
+smokyoner: posts small blind 350
+MaCheCazzoFai: posts big blind 700
+*** HOLE CARDS ***
+XARANDROS: folds 
+naandy: folds 
+RSak4: folds 
+lucaromanoo1: raises 700 to 1400
+jonespkr: calls 1400
+smokyoner: calls 1050
+MaCheCazzoFai: calls 700
+*** FLOP *** [9h Kh 5c]
+smokyoner: checks 
+MaCheCazzoFai: checks 
+lucaromanoo1: checks 
+jonespkr: checks 
+*** TURN *** [9h Kh 5c] [5d]
+smokyoner: bets 5070 and is all-in
+MaCheCazzoFai: folds 
+lucaromanoo1: calls 5070
+jonespkr: folds 
+*** RIVER *** [9h Kh 5c 5d] [3s]
+*** SHOW DOWN ***
+smokyoner: shows [Kc Jd] (two pair, Kings and Fives)
+lucaromanoo1: shows [9c Ac] (two pair, Nines and Fives)
+smokyoner collected 16370 from pot
+*** SUMMARY ***
+Total pot 16370 | Rake 0 
+Board [9h Kh 5c 5d 3s]
+Seat 1: smokyoner (small blind) showed [Kc Jd] and won (16370) with two pair, Kings and Fives
+Seat 2: MaCheCazzoFai (big blind) folded on the Turn
+Seat 3: XARANDROS folded before Flop (didn't bet)
+Seat 4: naandy folded before Flop (didn't bet)
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: lucaromanoo1 showed [9c Ac] and lost with two pair, Nines and Fives
+Seat 7: jonespkr (button) folded on the Turn
+
+PokerStars Hand #251207533184: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XII (350/700) - 2024/06/26 21:06:15 UTC [2024/06/26 17:06:15 ET]
+Table '3769361899 29' 7-max Seat #1 is the button
+Seat 1: smokyoner (16370 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (49278 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (41779 in chips, $143.75 bounty) 
+Seat 4: naandy (9472 in chips, $50 bounty) 
+Seat 5: RSak4 (12860 in chips, $25 bounty) 
+Seat 6: lucaromanoo1 (33954 in chips, $62.50 bounty) 
+Seat 7: jonespkr (11240 in chips, $68.75 bounty) 
+smokyoner: posts the ante 90
+MaCheCazzoFai: posts the ante 90
+XARANDROS: posts the ante 90
+naandy: posts the ante 90
+RSak4: posts the ante 90
+lucaromanoo1: posts the ante 90
+jonespkr: posts the ante 90
+MaCheCazzoFai: posts small blind 350
+XARANDROS: posts big blind 700
+*** HOLE CARDS ***
+naandy: folds 
+RSak4: raises 700 to 1400
+lucaromanoo1: raises 2100 to 3500
+jonespkr: folds 
+smokyoner: folds 
+MaCheCazzoFai: folds 
+XARANDROS: calls 2800
+RSak4: folds 
+*** FLOP *** [9h 5s 8s]
+XARANDROS: checks 
+lucaromanoo1: bets 3002
+XARANDROS: calls 3002
+*** TURN *** [9h 5s 8s] [4c]
+XARANDROS: checks 
+lucaromanoo1: bets 8461
+XARANDROS: calls 8461
+*** RIVER *** [9h 5s 8s 4c] [Kc]
+XARANDROS: checks 
+lucaromanoo1: bets 18901 and is all-in
+XARANDROS: folds 
+Uncalled bet (18901) returned to lucaromanoo1
+lucaromanoo1 collected 32306 from pot
+lucaromanoo1: doesn't show hand 
+*** SUMMARY ***
+Total pot 32306 | Rake 0 
+Board [9h 5s 8s 4c Kc]
+Seat 1: smokyoner (button) folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai (small blind) folded before Flop
+Seat 3: XARANDROS (big blind) folded on the River
+Seat 4: naandy folded before Flop (didn't bet)
+Seat 5: RSak4 folded before Flop
+Seat 6: lucaromanoo1 collected (32306)
+Seat 7: jonespkr folded before Flop (didn't bet)
+
+PokerStars Hand #251207564231: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 21:07:58 UTC [2024/06/26 17:07:58 ET]
+Table '3769361899 29' 7-max Seat #2 is the button
+Seat 1: smokyoner (16280 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (48838 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (26726 in chips, $143.75 bounty) 
+Seat 4: naandy (9382 in chips, $50 bounty) 
+Seat 5: RSak4 (11370 in chips, $25 bounty) 
+Seat 6: lucaromanoo1 (51207 in chips, $62.50 bounty) 
+Seat 7: jonespkr (11150 in chips, $68.75 bounty) 
+smokyoner: posts the ante 100
+MaCheCazzoFai: posts the ante 100
+XARANDROS: posts the ante 100
+naandy: posts the ante 100
+RSak4: posts the ante 100
+lucaromanoo1: posts the ante 100
+jonespkr: posts the ante 100
+XARANDROS: posts small blind 400
+naandy: posts big blind 800
+*** HOLE CARDS ***
+RSak4: raises 800 to 1600
+lucaromanoo1: folds 
+jonespkr: folds 
+smokyoner: folds 
+MaCheCazzoFai: folds 
+XARANDROS: folds 
+naandy: calls 800
+*** FLOP *** [8c 7d 4d]
+naandy: checks 
+RSak4: bets 1548
+naandy: raises 6134 to 7682 and is all-in
+RSak4: calls 6134
+*** TURN *** [8c 7d 4d] [2d]
+*** RIVER *** [8c 7d 4d 2d] [7h]
+*** SHOW DOWN ***
+naandy: shows [8d 6d] (a flush, Eight high)
+RSak4: shows [Qd Kd] (a flush, King high)
+RSak4 collected 19664 from pot
+RSak4 wins $25 for eliminating naandy and their own bounty increases by $25 to $50
+naandy finished the tournament in 79th place
+*** SUMMARY ***
+Total pot 19664 | Rake 0 
+Board [8c 7d 4d 2d 7h]
+Seat 1: smokyoner folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai (button) folded before Flop (didn't bet)
+Seat 3: XARANDROS (small blind) folded before Flop
+Seat 4: naandy (big blind) showed [8d 6d] and lost with a flush, Eight high
+Seat 5: RSak4 showed [Qd Kd] and won (19664) with a flush, King high
+Seat 6: lucaromanoo1 folded before Flop (didn't bet)
+Seat 7: jonespkr folded before Flop (didn't bet)
+
+PokerStars Hand #251207585763: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 21:09:09 UTC [2024/06/26 17:09:09 ET]
+Table '3769361899 29' 7-max Seat #3 is the button
+Seat 1: smokyoner (16180 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (48738 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (26226 in chips, $143.75 bounty) 
+Seat 5: RSak4 (21652 in chips, $50 bounty) 
+Seat 6: lucaromanoo1 (51107 in chips, $62.50 bounty) 
+Seat 7: jonespkr (11050 in chips, $68.75 bounty) 
+smokyoner: posts the ante 100
+MaCheCazzoFai: posts the ante 100
+XARANDROS: posts the ante 100
+RSak4: posts the ante 100
+lucaromanoo1: posts the ante 100
+jonespkr: posts the ante 100
+RSak4: posts small blind 400
+lucaromanoo1: posts big blind 800
+*** HOLE CARDS ***
+jonespkr: folds 
+smokyoner: folds 
+MaCheCazzoFai: folds 
+XARANDROS: folds 
+RSak4: calls 400
+lucaromanoo1: checks 
+*** FLOP *** [6s 2s Tc]
+RSak4: bets 800
+lucaromanoo1: calls 800
+*** TURN *** [6s 2s Tc] [7c]
+RSak4: checks 
+lucaromanoo1: checks 
+*** RIVER *** [6s 2s Tc 7c] [7h]
+RSak4: checks 
+lucaromanoo1: checks 
+*** SHOW DOWN ***
+RSak4: shows [6h 4d] (two pair, Sevens and Sixes)
+lucaromanoo1: mucks hand 
+RSak4 collected 3800 from pot
+*** SUMMARY ***
+Total pot 3800 | Rake 0 
+Board [6s 2s Tc 7c 7h]
+Seat 1: smokyoner folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: XARANDROS (button) folded before Flop (didn't bet)
+Seat 5: RSak4 (small blind) showed [6h 4d] and won (3800) with two pair, Sevens and Sixes
+Seat 6: lucaromanoo1 (big blind) mucked
+Seat 7: jonespkr folded before Flop (didn't bet)
+
+PokerStars Hand #251207601141: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 21:10:00 UTC [2024/06/26 17:10:00 ET]
+Table '3769361899 29' 7-max Seat #5 is the button
+Seat 1: smokyoner (16080 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (48638 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (26126 in chips, $143.75 bounty) 
+Seat 5: RSak4 (23752 in chips, $50 bounty) 
+Seat 6: lucaromanoo1 (49407 in chips, $62.50 bounty) 
+Seat 7: jonespkr (10950 in chips, $68.75 bounty) 
+smokyoner: posts the ante 100
+MaCheCazzoFai: posts the ante 100
+XARANDROS: posts the ante 100
+RSak4: posts the ante 100
+lucaromanoo1: posts the ante 100
+jonespkr: posts the ante 100
+lucaromanoo1: posts small blind 400
+jonespkr: posts big blind 800
+*** HOLE CARDS ***
+SMcDPKR is disconnected 
+smokyoner: folds 
+MaCheCazzoFai: folds 
+XARANDROS: raises 2400 to 3200
+RSak4: folds 
+lucaromanoo1: folds 
+jonespkr: folds 
+Uncalled bet (2400) returned to XARANDROS
+XARANDROS collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | Rake 0 
+Seat 1: smokyoner folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: XARANDROS collected (2600)
+Seat 5: RSak4 (button) folded before Flop (didn't bet)
+Seat 6: lucaromanoo1 (small blind) folded before Flop
+Seat 7: jonespkr (big blind) folded before Flop
+
+PokerStars Hand #251207612467: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 21:10:37 UTC [2024/06/26 17:10:37 ET]
+Table '3769361899 29' 7-max Seat #6 is the button
+Seat 1: smokyoner (15980 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (48538 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (27826 in chips, $143.75 bounty) 
+Seat 4: SMcDPKR (58058 in chips, $65.62 bounty) 
+Seat 5: RSak4 (23652 in chips, $50 bounty) 
+Seat 6: lucaromanoo1 (48907 in chips, $62.50 bounty) 
+Seat 7: jonespkr (10050 in chips, $68.75 bounty) 
+smokyoner: posts the ante 100
+MaCheCazzoFai: posts the ante 100
+XARANDROS: posts the ante 100
+SMcDPKR: posts the ante 100
+RSak4: posts the ante 100
+lucaromanoo1: posts the ante 100
+jonespkr: posts the ante 100
+jonespkr: posts small blind 400
+smokyoner: posts big blind 800
+*** HOLE CARDS ***
+MaCheCazzoFai: raises 1000 to 1800
+XARANDROS: folds 
+SMcDPKR: calls 1800
+RSak4: folds 
+lucaromanoo1: folds 
+jonespkr: raises 8150 to 9950 and is all-in
+smokyoner: folds 
+MaCheCazzoFai: raises 38488 to 48438 and is all-in
+SMcDPKR: folds 
+Uncalled bet (38488) returned to MaCheCazzoFai
+*** FLOP *** [3s 3h 6h]
+*** TURN *** [3s 3h 6h] [Jc]
+*** RIVER *** [3s 3h 6h Jc] [Jh]
+*** SHOW DOWN ***
+jonespkr: shows [6c 6d] (a full house, Sixes full of Jacks)
+MaCheCazzoFai: shows [7d 7c] (two pair, Jacks and Sevens)
+jonespkr collected 23200 from pot
+*** SUMMARY ***
+Total pot 23200 | Rake 0 
+Board [3s 3h 6h Jc Jh]
+Seat 1: smokyoner (big blind) folded before Flop
+Seat 2: MaCheCazzoFai showed [7d 7c] and lost with two pair, Jacks and Sevens
+Seat 3: XARANDROS folded before Flop (didn't bet)
+Seat 4: SMcDPKR folded before Flop
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: lucaromanoo1 (button) folded before Flop (didn't bet)
+Seat 7: jonespkr (small blind) showed [6c 6d] and won (23200) with a full house, Sixes full of Jacks
+
+PokerStars Hand #251207633305: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 21:11:45 UTC [2024/06/26 17:11:45 ET]
+Table '3769361899 29' 7-max Seat #7 is the button
+Seat 1: smokyoner (15080 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (38488 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (27726 in chips, $143.75 bounty) 
+Seat 4: SMcDPKR (56158 in chips, $65.62 bounty) 
+Seat 5: RSak4 (23552 in chips, $50 bounty) 
+Seat 6: lucaromanoo1 (48807 in chips, $62.50 bounty) 
+Seat 7: jonespkr (23200 in chips, $68.75 bounty) 
+smokyoner: posts the ante 100
+MaCheCazzoFai: posts the ante 100
+XARANDROS: posts the ante 100
+SMcDPKR: posts the ante 100
+RSak4: posts the ante 100
+lucaromanoo1: posts the ante 100
+jonespkr: posts the ante 100
+smokyoner: posts small blind 400
+MaCheCazzoFai: posts big blind 800
+*** HOLE CARDS ***
+XARANDROS: folds 
+SMcDPKR: folds 
+RSak4: folds 
+lucaromanoo1: folds 
+jonespkr has timed out
+jonespkr: folds 
+jonespkr is sitting out
+jonespkr has returned
+smokyoner: folds 
+Uncalled bet (400) returned to MaCheCazzoFai
+MaCheCazzoFai collected 1500 from pot
+MaCheCazzoFai: doesn't show hand 
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Seat 1: smokyoner (small blind) folded before Flop
+Seat 2: MaCheCazzoFai (big blind) collected (1500)
+Seat 3: XARANDROS folded before Flop (didn't bet)
+Seat 4: SMcDPKR folded before Flop (didn't bet)
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: lucaromanoo1 folded before Flop (didn't bet)
+Seat 7: jonespkr (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207647751: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 21:12:32 UTC [2024/06/26 17:12:32 ET]
+Table '3769361899 29' 7-max Seat #1 is the button
+Seat 1: smokyoner (14580 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (39488 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (27626 in chips, $143.75 bounty) 
+Seat 4: SMcDPKR (56058 in chips, $65.62 bounty) 
+Seat 5: RSak4 (23452 in chips, $50 bounty) 
+Seat 6: lucaromanoo1 (48707 in chips, $62.50 bounty) 
+Seat 7: jonespkr (23100 in chips, $68.75 bounty) 
+smokyoner: posts the ante 100
+MaCheCazzoFai: posts the ante 100
+XARANDROS: posts the ante 100
+SMcDPKR: posts the ante 100
+RSak4: posts the ante 100
+lucaromanoo1: posts the ante 100
+jonespkr: posts the ante 100
+MaCheCazzoFai: posts small blind 400
+XARANDROS: posts big blind 800
+*** HOLE CARDS ***
+SMcDPKR: folds 
+RSak4: raises 800 to 1600
+lucaromanoo1: folds 
+jonespkr: folds 
+smokyoner: folds 
+MaCheCazzoFai: calls 1200
+XARANDROS: calls 800
+*** FLOP *** [Ts 9d 2s]
+MaCheCazzoFai: bets 1375
+XARANDROS: folds 
+RSak4: calls 1375
+*** TURN *** [Ts 9d 2s] [8d]
+MaCheCazzoFai: checks 
+RSak4: checks 
+*** RIVER *** [Ts 9d 2s 8d] [6d]
+MaCheCazzoFai: checks 
+RSak4: checks 
+*** SHOW DOWN ***
+MaCheCazzoFai: shows [Qc Ks] (high card King)
+RSak4: shows [Ac Jc] (high card Ace)
+RSak4 collected 8250 from pot
+*** SUMMARY ***
+Total pot 8250 | Rake 0 
+Board [Ts 9d 2s 8d 6d]
+Seat 1: smokyoner (button) folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai (small blind) showed [Qc Ks] and lost with high card King
+Seat 3: XARANDROS (big blind) folded on the Flop
+Seat 4: SMcDPKR folded before Flop (didn't bet)
+Seat 5: RSak4 showed [Ac Jc] and won (8250) with high card Ace
+Seat 6: lucaromanoo1 folded before Flop (didn't bet)
+Seat 7: jonespkr folded before Flop (didn't bet)
+
+PokerStars Hand #251207669488: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 21:13:43 UTC [2024/06/26 17:13:43 ET]
+Table '3769361899 29' 7-max Seat #2 is the button
+Seat 1: smokyoner (14480 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (36413 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (25926 in chips, $143.75 bounty) 
+Seat 4: SMcDPKR (55958 in chips, $65.62 bounty) 
+Seat 5: RSak4 (28627 in chips, $50 bounty) 
+Seat 6: lucaromanoo1 (48607 in chips, $62.50 bounty) 
+Seat 7: jonespkr (23000 in chips, $68.75 bounty) 
+smokyoner: posts the ante 100
+MaCheCazzoFai: posts the ante 100
+XARANDROS: posts the ante 100
+SMcDPKR: posts the ante 100
+RSak4: posts the ante 100
+lucaromanoo1: posts the ante 100
+jonespkr: posts the ante 100
+XARANDROS: posts small blind 400
+SMcDPKR: posts big blind 800
+*** HOLE CARDS ***
+RSak4: folds 
+lucaromanoo1: raises 960 to 1760
+jonespkr: folds 
+smokyoner: folds 
+MaCheCazzoFai: calls 1760
+XARANDROS: calls 1360
+SMcDPKR: calls 960
+*** FLOP *** [6d 3s 9d]
+XARANDROS: checks 
+SMcDPKR: checks 
+lucaromanoo1: checks 
+MaCheCazzoFai: checks 
+*** TURN *** [6d 3s 9d] [9h]
+XARANDROS: checks 
+SMcDPKR: checks 
+lucaromanoo1: checks 
+MaCheCazzoFai: checks 
+*** RIVER *** [6d 3s 9d 9h] [4d]
+XARANDROS: bets 4644
+SMcDPKR: raises 9756 to 14400
+lucaromanoo1: folds 
+MaCheCazzoFai: folds 
+XARANDROS: calls 9756
+*** SHOW DOWN ***
+SMcDPKR: shows [5c Tc] (a pair of Nines)
+XARANDROS: shows [5d 2h] (a straight, Deuce to Six)
+XARANDROS collected 36540 from pot
+*** SUMMARY ***
+Total pot 36540 | Rake 0 
+Board [6d 3s 9d 9h 4d]
+Seat 1: smokyoner folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai (button) folded on the River
+Seat 3: XARANDROS (small blind) showed [5d 2h] and won (36540) with a straight, Deuce to Six
+Seat 4: SMcDPKR (big blind) showed [5c Tc] and lost with a pair of Nines
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: lucaromanoo1 folded on the River
+Seat 7: jonespkr folded before Flop (didn't bet)
+
+PokerStars Hand #251207706956: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 21:15:44 UTC [2024/06/26 17:15:44 ET]
+Table '3769361899 29' 7-max Seat #3 is the button
+Seat 1: smokyoner (14380 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (34553 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (46206 in chips, $143.75 bounty) 
+Seat 4: SMcDPKR (39698 in chips, $65.62 bounty) 
+Seat 5: RSak4 (28527 in chips, $50 bounty) 
+Seat 6: lucaromanoo1 (46747 in chips, $62.50 bounty) 
+Seat 7: jonespkr (22900 in chips, $68.75 bounty) 
+smokyoner: posts the ante 120
+MaCheCazzoFai: posts the ante 120
+XARANDROS: posts the ante 120
+SMcDPKR: posts the ante 120
+RSak4: posts the ante 120
+lucaromanoo1: posts the ante 120
+jonespkr: posts the ante 120
+SMcDPKR: posts small blind 500
+RSak4: posts big blind 1000
+*** HOLE CARDS ***
+lucaromanoo1: raises 1000 to 2000
+jonespkr: folds 
+smokyoner: folds 
+MaCheCazzoFai: folds 
+XARANDROS: calls 2000
+SMcDPKR: raises 37578 to 39578 and is all-in
+RSak4: folds 
+lucaromanoo1: folds 
+XARANDROS: folds 
+Uncalled bet (37578) returned to SMcDPKR
+SMcDPKR collected 7840 from pot
+*** SUMMARY ***
+Total pot 7840 | Rake 0 
+Seat 1: smokyoner folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: XARANDROS (button) folded before Flop
+Seat 4: SMcDPKR (small blind) collected (7840)
+Seat 5: RSak4 (big blind) folded before Flop
+Seat 6: lucaromanoo1 folded before Flop
+Seat 7: jonespkr folded before Flop (didn't bet)
+
+PokerStars Hand #251207724580: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 21:16:41 UTC [2024/06/26 17:16:41 ET]
+Table '3769361899 29' 7-max Seat #4 is the button
+Seat 1: smokyoner (14260 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (34433 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (44086 in chips, $143.75 bounty) 
+Seat 4: SMcDPKR (45418 in chips, $65.62 bounty) 
+Seat 5: RSak4 (27407 in chips, $50 bounty) 
+Seat 6: lucaromanoo1 (44627 in chips, $62.50 bounty) 
+Seat 7: jonespkr (22780 in chips, $68.75 bounty) 
+smokyoner: posts the ante 120
+MaCheCazzoFai: posts the ante 120
+XARANDROS: posts the ante 120
+SMcDPKR: posts the ante 120
+RSak4: posts the ante 120
+lucaromanoo1: posts the ante 120
+jonespkr: posts the ante 120
+RSak4: posts small blind 500
+lucaromanoo1: posts big blind 1000
+*** HOLE CARDS ***
+jonespkr: folds 
+smokyoner: folds 
+MaCheCazzoFai: folds 
+XARANDROS: folds 
+SMcDPKR: folds 
+RSak4: folds 
+Uncalled bet (500) returned to lucaromanoo1
+lucaromanoo1 collected 1840 from pot
+lucaromanoo1: doesn't show hand 
+*** SUMMARY ***
+Total pot 1840 | Rake 0 
+Seat 1: smokyoner folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: XARANDROS folded before Flop (didn't bet)
+Seat 4: SMcDPKR (button) folded before Flop (didn't bet)
+Seat 5: RSak4 (small blind) folded before Flop
+Seat 6: lucaromanoo1 (big blind) collected (1840)
+Seat 7: jonespkr folded before Flop (didn't bet)
+
+PokerStars Hand #251207735887: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 21:17:18 UTC [2024/06/26 17:17:18 ET]
+Table '3769361899 29' 7-max Seat #5 is the button
+Seat 1: smokyoner (14140 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (34313 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (43966 in chips, $143.75 bounty) 
+Seat 4: SMcDPKR (45298 in chips, $65.62 bounty) 
+Seat 5: RSak4 (26787 in chips, $50 bounty) 
+Seat 6: lucaromanoo1 (45847 in chips, $62.50 bounty) 
+Seat 7: jonespkr (22660 in chips, $68.75 bounty) 
+smokyoner: posts the ante 120
+MaCheCazzoFai: posts the ante 120
+XARANDROS: posts the ante 120
+SMcDPKR: posts the ante 120
+RSak4: posts the ante 120
+lucaromanoo1: posts the ante 120
+jonespkr: posts the ante 120
+lucaromanoo1: posts small blind 500
+jonespkr: posts big blind 1000
+*** HOLE CARDS ***
+smokyoner: folds 
+MaCheCazzoFai: raises 1250 to 2250
+XARANDROS: calls 2250
+SMcDPKR: folds 
+RSak4: folds 
+lucaromanoo1: raises 6250 to 8500
+jonespkr: folds 
+MaCheCazzoFai: folds 
+XARANDROS: calls 6250
+*** FLOP *** [8s Qd 2h]
+lucaromanoo1: bets 5273
+XARANDROS: folds 
+Uncalled bet (5273) returned to lucaromanoo1
+lucaromanoo1 collected 21090 from pot
+lucaromanoo1: doesn't show hand 
+*** SUMMARY ***
+Total pot 21090 | Rake 0 
+Board [8s Qd 2h]
+Seat 1: smokyoner folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai folded before Flop
+Seat 3: XARANDROS folded on the Flop
+Seat 4: SMcDPKR folded before Flop (didn't bet)
+Seat 5: RSak4 (button) folded before Flop (didn't bet)
+Seat 6: lucaromanoo1 (small blind) collected (21090)
+Seat 7: jonespkr (big blind) folded before Flop
+
+PokerStars Hand #251207756270: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 21:18:23 UTC [2024/06/26 17:18:23 ET]
+Table '3769361899 29' 7-max Seat #6 is the button
+Seat 1: smokyoner (14020 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (31943 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (35346 in chips, $143.75 bounty) 
+Seat 4: SMcDPKR (45178 in chips, $65.62 bounty) 
+Seat 5: RSak4 (26667 in chips, $50 bounty) 
+Seat 6: lucaromanoo1 (58317 in chips, $62.50 bounty) 
+Seat 7: jonespkr (21540 in chips, $68.75 bounty) 
+smokyoner: posts the ante 120
+MaCheCazzoFai: posts the ante 120
+XARANDROS: posts the ante 120
+SMcDPKR: posts the ante 120
+RSak4: posts the ante 120
+lucaromanoo1: posts the ante 120
+jonespkr: posts the ante 120
+jonespkr: posts small blind 500
+smokyoner: posts big blind 1000
+*** HOLE CARDS ***
+MaCheCazzoFai: folds 
+XARANDROS: folds 
+SMcDPKR: folds 
+RSak4: folds 
+lucaromanoo1: raises 57197 to 58197 and is all-in
+jonespkr has timed out
+jonespkr: folds 
+jonespkr is sitting out
+jonespkr has returned
+smokyoner: folds 
+Uncalled bet (57197) returned to lucaromanoo1
+lucaromanoo1 collected 3340 from pot
+lucaromanoo1: doesn't show hand 
+*** SUMMARY ***
+Total pot 3340 | Rake 0 
+Seat 1: smokyoner (big blind) folded before Flop
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: XARANDROS folded before Flop (didn't bet)
+Seat 4: SMcDPKR folded before Flop (didn't bet)
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: lucaromanoo1 (button) collected (3340)
+Seat 7: jonespkr (small blind) folded before Flop
+
+PokerStars Hand #251207783422: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 21:19:50 UTC [2024/06/26 17:19:50 ET]
+Table '3769361899 29' 7-max Seat #7 is the button
+Seat 1: smokyoner (12900 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (31823 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (35226 in chips, $143.75 bounty) 
+Seat 4: SMcDPKR (45058 in chips, $65.62 bounty) 
+Seat 5: RSak4 (26547 in chips, $50 bounty) 
+Seat 6: lucaromanoo1 (60537 in chips, $62.50 bounty) 
+Seat 7: jonespkr (20920 in chips, $68.75 bounty) 
+smokyoner: posts the ante 120
+MaCheCazzoFai: posts the ante 120
+XARANDROS: posts the ante 120
+SMcDPKR: posts the ante 120
+RSak4: posts the ante 120
+lucaromanoo1: posts the ante 120
+jonespkr: posts the ante 120
+smokyoner: posts small blind 500
+MaCheCazzoFai: posts big blind 1000
+*** HOLE CARDS ***
+XARANDROS: folds 
+SMcDPKR: folds 
+RSak4: folds 
+lucaromanoo1: raises 1000 to 2000
+jonespkr: folds 
+smokyoner: folds 
+MaCheCazzoFai: folds 
+Uncalled bet (1000) returned to lucaromanoo1
+lucaromanoo1 collected 3340 from pot
+lucaromanoo1: doesn't show hand 
+*** SUMMARY ***
+Total pot 3340 | Rake 0 
+Seat 1: smokyoner (small blind) folded before Flop
+Seat 2: MaCheCazzoFai (big blind) folded before Flop
+Seat 3: XARANDROS folded before Flop (didn't bet)
+Seat 4: SMcDPKR folded before Flop (didn't bet)
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: lucaromanoo1 collected (3340)
+Seat 7: jonespkr (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207797832: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XIV (500/1000) - 2024/06/26 21:20:37 UTC [2024/06/26 17:20:37 ET]
+Table '3769361899 29' 7-max Seat #1 is the button
+Seat 1: smokyoner (12280 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (30703 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (35106 in chips, $143.75 bounty) 
+Seat 4: SMcDPKR (44938 in chips, $65.62 bounty) 
+Seat 5: RSak4 (26427 in chips, $50 bounty) 
+Seat 6: lucaromanoo1 (62757 in chips, $62.50 bounty) 
+Seat 7: jonespkr (20800 in chips, $68.75 bounty) 
+smokyoner: posts the ante 120
+MaCheCazzoFai: posts the ante 120
+XARANDROS: posts the ante 120
+SMcDPKR: posts the ante 120
+RSak4: posts the ante 120
+lucaromanoo1: posts the ante 120
+jonespkr: posts the ante 120
+MaCheCazzoFai: posts small blind 500
+XARANDROS: posts big blind 1000
+*** HOLE CARDS ***
+SMcDPKR: folds 
+RSak4: folds 
+lucaromanoo1: folds 
+jonespkr: folds 
+smokyoner: folds 
+MaCheCazzoFai: calls 500
+XARANDROS: checks 
+*** FLOP *** [Td 7d 5h]
+MaCheCazzoFai: bets 1000
+XARANDROS: calls 1000
+*** TURN *** [Td 7d 5h] [Jc]
+MaCheCazzoFai: checks 
+XARANDROS: bets 2000
+MaCheCazzoFai: calls 2000
+*** RIVER *** [Td 7d 5h Jc] [5c]
+MaCheCazzoFai: checks 
+XARANDROS: bets 4000
+MaCheCazzoFai: calls 4000
+*** SHOW DOWN ***
+XARANDROS: shows [Jh 7s] (two pair, Jacks and Sevens)
+MaCheCazzoFai: mucks hand 
+XARANDROS collected 16840 from pot
+*** SUMMARY ***
+Total pot 16840 | Rake 0 
+Board [Td 7d 5h Jc 5c]
+Seat 1: smokyoner (button) folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai (small blind) mucked
+Seat 3: XARANDROS (big blind) showed [Jh 7s] and won (16840) with two pair, Jacks and Sevens
+Seat 4: SMcDPKR folded before Flop (didn't bet)
+Seat 5: RSak4 folded before Flop (didn't bet)
+Seat 6: lucaromanoo1 folded before Flop (didn't bet)
+Seat 7: jonespkr folded before Flop (didn't bet)
+
+PokerStars Hand #251207818491: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 21:21:44 UTC [2024/06/26 17:21:44 ET]
+Table '3769361899 29' 7-max Seat #2 is the button
+Seat 1: smokyoner (12160 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (22583 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (43826 in chips, $143.75 bounty) 
+Seat 4: SMcDPKR (44818 in chips, $65.62 bounty) 
+Seat 5: RSak4 (26307 in chips, $50 bounty) 
+Seat 6: lucaromanoo1 (62637 in chips, $62.50 bounty) 
+Seat 7: jonespkr (20680 in chips, $68.75 bounty) 
+smokyoner: posts the ante 160
+MaCheCazzoFai: posts the ante 160
+XARANDROS: posts the ante 160
+SMcDPKR: posts the ante 160
+RSak4: posts the ante 160
+lucaromanoo1: posts the ante 160
+jonespkr: posts the ante 160
+XARANDROS: posts small blind 600
+SMcDPKR: posts big blind 1200
+*** HOLE CARDS ***
+RSak4: raises 1200 to 2400
+lucaromanoo1: folds 
+jonespkr: folds 
+smokyoner: folds 
+MaCheCazzoFai: folds 
+XARANDROS: folds 
+SMcDPKR: calls 1200
+*** FLOP *** [Qh 3d Jd]
+SMcDPKR: checks 
+RSak4: bets 2152
+SMcDPKR: calls 2152
+*** TURN *** [Qh 3d Jd] [9d]
+SMcDPKR: checks 
+RSak4: checks 
+*** RIVER *** [Qh 3d Jd 9d] [Ac]
+SMcDPKR: bets 40106 and is all-in
+RSak4: folds 
+Uncalled bet (40106) returned to SMcDPKR
+SMcDPKR collected 10824 from pot
+*** SUMMARY ***
+Total pot 10824 | Rake 0 
+Board [Qh 3d Jd 9d Ac]
+Seat 1: smokyoner folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai (button) folded before Flop (didn't bet)
+Seat 3: XARANDROS (small blind) folded before Flop
+Seat 4: SMcDPKR (big blind) collected (10824)
+Seat 5: RSak4 folded on the River
+Seat 6: lucaromanoo1 folded before Flop (didn't bet)
+Seat 7: jonespkr folded before Flop (didn't bet)
+
+PokerStars Hand #251207850609: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XV (600/1200) - 2024/06/26 21:23:27 UTC [2024/06/26 17:23:27 ET]
+Table '3769361899 29' 7-max Seat #3 is the button
+Seat 1: smokyoner (12000 in chips, $37.50 bounty) 
+Seat 2: MaCheCazzoFai (22423 in chips, $62.50 bounty) 
+Seat 3: XARANDROS (43066 in chips, $143.75 bounty) 
+Seat 4: SMcDPKR (50930 in chips, $65.62 bounty) 
+Seat 5: RSak4 (21595 in chips, $50 bounty) 
+Seat 6: lucaromanoo1 (62477 in chips, $62.50 bounty) 
+Seat 7: jonespkr (20520 in chips, $68.75 bounty) 
+smokyoner: posts the ante 160
+MaCheCazzoFai: posts the ante 160
+XARANDROS: posts the ante 160
+SMcDPKR: posts the ante 160
+RSak4: posts the ante 160
+lucaromanoo1: posts the ante 160
+jonespkr: posts the ante 160
+SMcDPKR: posts small blind 600
+RSak4: posts big blind 1200
+*** HOLE CARDS ***
+lucaromanoo1: folds 
+jonespkr: folds 
+smokyoner: folds 
+MaCheCazzoFai: folds 
+XARANDROS: raises 1200 to 2400
+SMcDPKR: folds 
+RSak4: raises 19035 to 21435 and is all-in
+XARANDROS: calls 19035
+*** FLOP *** [9s 4s 9h]
+*** TURN *** [9s 4s 9h] [Ad]
+*** RIVER *** [9s 4s 9h Ad] [Kd]
+*** SHOW DOWN ***
+RSak4: shows [3h 3s] (two pair, Nines and Threes)
+XARANDROS: shows [9c Qc] (three of a kind, Nines)
+XARANDROS collected 44590 from pot
+XARANDROS wins $25 for eliminating RSak4 and their own bounty increases by $25 to $168.75
+RSak4 finished the tournament in 57th place
+*** SUMMARY ***
+Total pot 44590 | Rake 0 
+Board [9s 4s 9h Ad Kd]
+Seat 1: smokyoner folded before Flop (didn't bet)
+Seat 2: MaCheCazzoFai folded before Flop (didn't bet)
+Seat 3: XARANDROS (button) showed [9c Qc] and won (44590) with three of a kind, Nines
+Seat 4: SMcDPKR (small blind) folded before Flop
+Seat 5: RSak4 (big blind) showed [3h 3s] and lost with two pair, Nines and Threes
+Seat 6: lucaromanoo1 folded before Flop (didn't bet)
+Seat 7: jonespkr folded before Flop (didn't bet)

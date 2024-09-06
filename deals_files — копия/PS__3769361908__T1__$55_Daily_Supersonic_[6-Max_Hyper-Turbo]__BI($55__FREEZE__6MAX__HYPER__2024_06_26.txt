@@ -1,0 +1,1731 @@
+PokerStars Hand #251209099115: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level II (30/60) - 2024/06/26 22:05:55 UTC [2024/06/26 18:05:55 ET]
+Table '3769361908 1' 6-max Seat #5 is the button
+Seat 1: 67KOSTAS (10108 in chips) 
+Seat 2: jessecesar (8748 in chips) 
+Seat 3: sinister778 (9985 in chips) 
+Seat 4: mehditheboss (10144 in chips) 
+Seat 5: lidi77777 (11373 in chips) 
+Seat 6: Link_fNK (9913 in chips) 
+67KOSTAS: posts the ante 15
+jessecesar: posts the ante 15
+sinister778: posts the ante 15
+mehditheboss: posts the ante 15
+lidi77777: posts the ante 15
+Link_fNK: posts the ante 15
+Link_fNK: posts small blind 30
+67KOSTAS: posts big blind 60
+*** HOLE CARDS ***
+jessecesar: folds 
+sinister778: folds 
+mehditheboss: folds 
+lidi77777: raises 60 to 120
+Link_fNK: raises 420 to 540
+67KOSTAS: folds 
+lidi77777: folds 
+Uncalled bet (420) returned to Link_fNK
+Link_fNK collected 390 from pot
+Link_fNK: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: 67KOSTAS (big blind) folded before Flop
+Seat 2: jessecesar folded before Flop (didn't bet)
+Seat 3: sinister778 folded before Flop (didn't bet)
+Seat 4: mehditheboss folded before Flop (didn't bet)
+Seat 5: lidi77777 (button) folded before Flop
+Seat 6: Link_fNK (small blind) collected (390)
+
+PokerStars Hand #251209107040: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level II (30/60) - 2024/06/26 22:06:22 UTC [2024/06/26 18:06:22 ET]
+Table '3769361908 1' 6-max Seat #6 is the button
+Seat 1: 67KOSTAS (10033 in chips) 
+Seat 3: sinister778 (9970 in chips) 
+Seat 4: mehditheboss (10129 in chips) 
+Seat 5: lidi77777 (11238 in chips) 
+Seat 6: Link_fNK (10168 in chips) 
+67KOSTAS: posts the ante 15
+sinister778: posts the ante 15
+mehditheboss: posts the ante 15
+lidi77777: posts the ante 15
+Link_fNK: posts the ante 15
+67KOSTAS: posts small blind 30
+sinister778: posts big blind 60
+*** HOLE CARDS ***
+mehditheboss: raises 72 to 132
+lidi77777: calls 132
+Link_fNK: folds 
+67KOSTAS: folds 
+sinister778: calls 72
+*** FLOP *** [3c 4s Ac]
+sinister778: checks 
+mehditheboss: bets 160
+clareou0408 is disconnected 
+lidi77777: calls 160
+sinister778: folds 
+*** TURN *** [3c 4s Ac] [2s]
+mehditheboss: checks 
+lidi77777: bets 471
+mehditheboss: calls 471
+*** RIVER *** [3c 4s Ac 2s] [9d]
+mehditheboss: checks 
+lidi77777: checks 
+*** SHOW DOWN ***
+mehditheboss: shows [Td Ah] (a pair of Aces)
+lidi77777: shows [Ad Jd] (a pair of Aces - Jack kicker)
+lidi77777 collected 1763 from pot
+*** SUMMARY ***
+Total pot 1763 | Rake 0 
+Board [3c 4s Ac 2s 9d]
+Seat 1: 67KOSTAS (small blind) folded before Flop
+Seat 3: sinister778 (big blind) folded on the Flop
+Seat 4: mehditheboss showed [Td Ah] and lost with a pair of Aces
+Seat 5: lidi77777 showed [Ad Jd] and won (1763) with a pair of Aces
+Seat 6: Link_fNK (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209122496: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level II (30/60) - 2024/06/26 22:07:15 UTC [2024/06/26 18:07:15 ET]
+Table '3769361908 1' 6-max Seat #1 is the button
+Seat 1: 67KOSTAS (9988 in chips) 
+Seat 2: clareou0408 (10000 in chips) out of hand (moved from another table into small blind)
+Seat 3: sinister778 (9823 in chips) 
+Seat 4: mehditheboss (9351 in chips) 
+Seat 5: lidi77777 (12223 in chips) 
+Seat 6: Link_fNK (10153 in chips) 
+clareou0408 will be allowed to play after the button
+67KOSTAS: posts the ante 15
+sinister778: posts the ante 15
+mehditheboss: posts the ante 15
+lidi77777: posts the ante 15
+Link_fNK: posts the ante 15
+sinister778: posts small blind 30
+mehditheboss: posts big blind 60
+*** HOLE CARDS ***
+lidi77777: folds 
+Link_fNK: folds 
+67KOSTAS: raises 120 to 180
+sinister778: calls 150
+mehditheboss: folds 
+*** FLOP *** [3c 2d 9s]
+sinister778: checks 
+67KOSTAS: checks 
+*** TURN *** [3c 2d 9s] [6c]
+sinister778: bets 180
+67KOSTAS: calls 180
+*** RIVER *** [3c 2d 9s 6c] [Qc]
+sinister778: bets 488
+67KOSTAS: folds 
+Uncalled bet (488) returned to sinister778
+sinister778 collected 855 from pot
+*** SUMMARY ***
+Total pot 855 | Rake 0 
+Board [3c 2d 9s 6c Qc]
+Seat 1: 67KOSTAS (button) folded on the River
+Seat 3: sinister778 (small blind) collected (855)
+Seat 4: mehditheboss (big blind) folded before Flop
+Seat 5: lidi77777 folded before Flop (didn't bet)
+Seat 6: Link_fNK folded before Flop (didn't bet)
+
+PokerStars Hand #251209139991: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level III (40/80) - 2024/06/26 22:08:15 UTC [2024/06/26 18:08:15 ET]
+Table '3769361908 1' 6-max Seat #3 is the button
+Seat 1: 67KOSTAS (9613 in chips) 
+Seat 2: clareou0408 (10000 in chips) 
+Seat 3: sinister778 (10303 in chips) 
+Seat 4: mehditheboss (9276 in chips) 
+Seat 5: lidi77777 (12208 in chips) 
+Seat 6: Link_fNK (10138 in chips) 
+67KOSTAS: posts the ante 20
+clareou0408: posts the ante 20
+sinister778: posts the ante 20
+mehditheboss: posts the ante 20
+lidi77777: posts the ante 20
+Link_fNK: posts the ante 20
+mehditheboss: posts small blind 40
+lidi77777: posts big blind 80
+*** HOLE CARDS ***
+Link_fNK: folds 
+67KOSTAS: raises 160 to 240
+clareou0408: calls 240
+sinister778: folds 
+mehditheboss: folds 
+lidi77777: raises 880 to 1120
+67KOSTAS: calls 880
+clareou0408: folds 
+*** FLOP *** [9c 9s 5c]
+lidi77777: bets 1320
+67KOSTAS: calls 1320
+*** TURN *** [9c 9s 5c] [6c]
+lidi77777: bets 9748 and is all-in
+67KOSTAS: folds 
+Uncalled bet (9748) returned to lidi77777
+lidi77777 collected 5280 from pot
+*** SUMMARY ***
+Total pot 5280 | Rake 0 
+Board [9c 9s 5c 6c]
+Seat 1: 67KOSTAS folded on the Turn
+Seat 2: clareou0408 folded before Flop
+Seat 3: sinister778 (button) folded before Flop (didn't bet)
+Seat 4: mehditheboss (small blind) folded before Flop
+Seat 5: lidi77777 (big blind) collected (5280)
+Seat 6: Link_fNK folded before Flop (didn't bet)
+
+PokerStars Hand #251209152459: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level III (40/80) - 2024/06/26 22:08:57 UTC [2024/06/26 18:08:57 ET]
+Table '3769361908 1' 6-max Seat #4 is the button
+Seat 1: 67KOSTAS (7153 in chips) 
+Seat 2: clareou0408 (9740 in chips) 
+Seat 3: sinister778 (10283 in chips) 
+Seat 4: mehditheboss (9216 in chips) 
+Seat 5: lidi77777 (15028 in chips) 
+Seat 6: Link_fNK (10118 in chips) 
+67KOSTAS: posts the ante 20
+clareou0408: posts the ante 20
+sinister778: posts the ante 20
+mehditheboss: posts the ante 20
+lidi77777: posts the ante 20
+Link_fNK: posts the ante 20
+lidi77777: posts small blind 40
+Link_fNK: posts big blind 80
+*** HOLE CARDS ***
+67KOSTAS: folds 
+clareou0408: folds 
+sinister778: raises 80 to 160
+mehditheboss: folds 
+lidi77777: folds 
+Link_fNK: folds 
+Uncalled bet (80) returned to sinister778
+sinister778 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: 67KOSTAS folded before Flop (didn't bet)
+Seat 2: clareou0408 folded before Flop (didn't bet)
+Seat 3: sinister778 collected (320)
+Seat 4: mehditheboss (button) folded before Flop (didn't bet)
+Seat 5: lidi77777 (small blind) folded before Flop
+Seat 6: Link_fNK (big blind) folded before Flop
+
+PokerStars Hand #251209162121: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level III (40/80) - 2024/06/26 22:09:30 UTC [2024/06/26 18:09:30 ET]
+Table '3769361908 1' 6-max Seat #5 is the button
+Seat 1: 67KOSTAS (7133 in chips) 
+Seat 2: clareou0408 (9720 in chips) 
+Seat 3: sinister778 (10503 in chips) 
+Seat 4: mehditheboss (9196 in chips) 
+Seat 5: lidi77777 (14968 in chips) 
+Seat 6: Link_fNK (10018 in chips) 
+67KOSTAS: posts the ante 20
+clareou0408: posts the ante 20
+sinister778: posts the ante 20
+mehditheboss: posts the ante 20
+lidi77777: posts the ante 20
+Link_fNK: posts the ante 20
+Link_fNK: posts small blind 40
+67KOSTAS: posts big blind 80
+*** HOLE CARDS ***
+clareou0408: folds 
+sinister778: raises 80 to 160
+mehditheboss: calls 160
+lidi77777: calls 160
+Link_fNK: folds 
+67KOSTAS: raises 800 to 960
+sinister778: calls 800
+mehditheboss: calls 800
+lidi77777: calls 800
+*** FLOP *** [7c 2d 5d]
+67KOSTAS: bets 2000
+sinister778: folds 
+mehditheboss: calls 2000
+lidi77777: raises 5000 to 7000
+67KOSTAS: calls 4153 and is all-in
+mehditheboss: folds 
+Uncalled bet (847) returned to lidi77777
+*** TURN *** [7c 2d 5d] [6h]
+*** RIVER *** [7c 2d 5d 6h] [As]
+*** SHOW DOWN ***
+67KOSTAS: shows [9d 9s] (a pair of Nines)
+lidi77777: shows [9c 9h] (a pair of Nines)
+67KOSTAS collected 9153 from pot
+lidi77777 collected 9153 from pot
+*** SUMMARY ***
+Total pot 18306 | Rake 0 
+Board [7c 2d 5d 6h As]
+Seat 1: 67KOSTAS (big blind) showed [9d 9s] and won (9153) with a pair of Nines
+Seat 2: clareou0408 folded before Flop (didn't bet)
+Seat 3: sinister778 folded on the Flop
+Seat 4: mehditheboss folded on the Flop
+Seat 5: lidi77777 (button) showed [9c 9h] and won (9153) with a pair of Nines
+Seat 6: Link_fNK (small blind) folded before Flop
+
+PokerStars Hand #251209182619: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level III (40/80) - 2024/06/26 22:10:40 UTC [2024/06/26 18:10:40 ET]
+Table '3769361908 1' 6-max Seat #6 is the button
+Seat 1: 67KOSTAS (9153 in chips) 
+Seat 2: clareou0408 (9700 in chips) 
+Seat 3: sinister778 (9523 in chips) 
+Seat 4: mehditheboss (6216 in chips) 
+Seat 5: lidi77777 (16988 in chips) 
+Seat 6: Link_fNK (9958 in chips) 
+67KOSTAS: posts the ante 20
+clareou0408: posts the ante 20
+sinister778: posts the ante 20
+mehditheboss: posts the ante 20
+lidi77777: posts the ante 20
+Link_fNK: posts the ante 20
+67KOSTAS: posts small blind 40
+clareou0408: posts big blind 80
+*** HOLE CARDS ***
+sinister778: raises 80 to 160
+mehditheboss: raises 6036 to 6196 and is all-in
+lidi77777: folds 
+Link_fNK: folds 
+67KOSTAS: folds 
+clareou0408: folds 
+sinister778: calls 6036
+*** FLOP *** [5h 6c 3s]
+*** TURN *** [5h 6c 3s] [Kd]
+*** RIVER *** [5h 6c 3s Kd] [Js]
+*** SHOW DOWN ***
+sinister778: shows [4c 4s] (a pair of Fours)
+mehditheboss: shows [Kh Ad] (a pair of Kings)
+mehditheboss collected 12632 from pot
+*** SUMMARY ***
+Total pot 12632 | Rake 0 
+Board [5h 6c 3s Kd Js]
+Seat 1: 67KOSTAS (small blind) folded before Flop
+Seat 2: clareou0408 (big blind) folded before Flop
+Seat 3: sinister778 showed [4c 4s] and lost with a pair of Fours
+Seat 4: mehditheboss showed [Kh Ad] and won (12632) with a pair of Kings
+Seat 5: lidi77777 folded before Flop (didn't bet)
+Seat 6: Link_fNK (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209195289: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IV (50/100) - 2024/06/26 22:11:25 UTC [2024/06/26 18:11:25 ET]
+Table '3769361908 1' 6-max Seat #1 is the button
+Seat 1: 67KOSTAS (9093 in chips) 
+Seat 2: clareou0408 (9600 in chips) 
+Seat 3: sinister778 (3307 in chips) 
+Seat 4: mehditheboss (12632 in chips) 
+Seat 5: lidi77777 (16968 in chips) 
+Seat 6: Link_fNK (9938 in chips) 
+67KOSTAS: posts the ante 25
+clareou0408: posts the ante 25
+sinister778: posts the ante 25
+mehditheboss: posts the ante 25
+lidi77777: posts the ante 25
+Link_fNK: posts the ante 25
+clareou0408: posts small blind 50
+sinister778: posts big blind 100
+*** HOLE CARDS ***
+mehditheboss: raises 120 to 220
+lidi77777: folds 
+Link_fNK: folds 
+67KOSTAS: raises 740 to 960
+clareou0408: folds 
+sinister778: folds 
+mehditheboss: folds 
+Uncalled bet (740) returned to 67KOSTAS
+67KOSTAS collected 740 from pot
+67KOSTAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Seat 1: 67KOSTAS (button) collected (740)
+Seat 2: clareou0408 (small blind) folded before Flop
+Seat 3: sinister778 (big blind) folded before Flop
+Seat 4: mehditheboss folded before Flop
+Seat 5: lidi77777 folded before Flop (didn't bet)
+Seat 6: Link_fNK folded before Flop (didn't bet)
+
+PokerStars Hand #251209200398: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IV (50/100) - 2024/06/26 22:11:42 UTC [2024/06/26 18:11:42 ET]
+Table '3769361908 1' 6-max Seat #2 is the button
+Seat 2: clareou0408 (9525 in chips) 
+Seat 3: sinister778 (3182 in chips) 
+Seat 4: mehditheboss (12387 in chips) 
+Seat 5: lidi77777 (16943 in chips) 
+Seat 6: Link_fNK (9913 in chips) 
+clareou0408: posts the ante 25
+sinister778: posts the ante 25
+mehditheboss: posts the ante 25
+lidi77777: posts the ante 25
+Link_fNK: posts the ante 25
+sinister778: posts small blind 50
+mehditheboss: posts big blind 100
+*** HOLE CARDS ***
+lidi77777: folds 
+Link_fNK: folds 
+clareou0408: raises 100 to 200
+sinister778: calls 150
+mehditheboss: folds 
+*** FLOP *** [9d Kd 3c]
+sinister778: checks 
+clareou0408: bets 167
+sinister778: calls 167
+*** TURN *** [9d Kd 3c] [Td]
+sinister778: checks 
+clareou0408: checks 
+*** RIVER *** [9d Kd 3c Td] [7h]
+sinister778: checks 
+clareou0408: checks 
+*** SHOW DOWN ***
+sinister778: shows [9h 8s] (a pair of Nines)
+clareou0408: mucks hand 
+sinister778 collected 959 from pot
+*** SUMMARY ***
+Total pot 959 | Rake 0 
+Board [9d Kd 3c Td 7h]
+Seat 2: clareou0408 (button) mucked
+Seat 3: sinister778 (small blind) showed [9h 8s] and won (959) with a pair of Nines
+Seat 4: mehditheboss (big blind) folded before Flop
+Seat 5: lidi77777 folded before Flop (didn't bet)
+Seat 6: Link_fNK folded before Flop (didn't bet)
+
+PokerStars Hand #251209224634: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IV (50/100) - 2024/06/26 22:13:07 UTC [2024/06/26 18:13:07 ET]
+Table '3769361908 1' 6-max Seat #3 is the button
+Seat 2: clareou0408 (9133 in chips) 
+Seat 3: sinister778 (3749 in chips) 
+Seat 4: mehditheboss (12262 in chips) 
+Seat 5: lidi77777 (16918 in chips) 
+Seat 6: Link_fNK (9888 in chips) 
+clareou0408: posts the ante 25
+sinister778: posts the ante 25
+mehditheboss: posts the ante 25
+lidi77777: posts the ante 25
+Link_fNK: posts the ante 25
+mehditheboss: posts small blind 50
+lidi77777: posts big blind 100
+*** HOLE CARDS ***
+Link_fNK: folds 
+clareou0408: folds 
+sinister778: raises 300 to 400
+mehditheboss: folds 
+lidi77777: folds 
+Uncalled bet (300) returned to sinister778
+sinister778 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 2: clareou0408 folded before Flop (didn't bet)
+Seat 3: sinister778 (button) collected (375)
+Seat 4: mehditheboss (small blind) folded before Flop
+Seat 5: lidi77777 (big blind) folded before Flop
+Seat 6: Link_fNK folded before Flop (didn't bet)
+
+PokerStars Hand #251209231236: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IV (50/100) - 2024/06/26 22:13:30 UTC [2024/06/26 18:13:30 ET]
+Table '3769361908 1' 6-max Seat #4 is the button
+Seat 2: clareou0408 (9108 in chips) 
+Seat 3: sinister778 (3999 in chips) 
+Seat 4: mehditheboss (12187 in chips) 
+Seat 5: lidi77777 (16793 in chips) 
+Seat 6: Link_fNK (9863 in chips) 
+clareou0408: posts the ante 25
+sinister778: posts the ante 25
+mehditheboss: posts the ante 25
+lidi77777: posts the ante 25
+Link_fNK: posts the ante 25
+lidi77777: posts small blind 50
+Link_fNK: posts big blind 100
+*** HOLE CARDS ***
+lucaromanoo1 is disconnected 
+clareou0408: folds 
+sinister778: folds 
+mehditheboss: raises 100 to 200
+lidi77777: calls 150
+Link_fNK: folds 
+*** FLOP *** [4d 8d Th]
+lidi77777: checks 
+mehditheboss: checks 
+*** TURN *** [4d 8d Th] [4s]
+lidi77777: checks 
+mehditheboss: bets 313
+lidi77777: raises 626 to 939
+mehditheboss: calls 626
+*** RIVER *** [4d 8d Th 4s] [Qd]
+lidi77777: bets 2452
+mehditheboss: folds 
+Uncalled bet (2452) returned to lidi77777
+lidi77777 collected 2503 from pot
+*** SUMMARY ***
+Total pot 2503 | Rake 0 
+Board [4d 8d Th 4s Qd]
+Seat 2: clareou0408 folded before Flop (didn't bet)
+Seat 3: sinister778 folded before Flop (didn't bet)
+Seat 4: mehditheboss (button) folded on the River
+Seat 5: lidi77777 (small blind) collected (2503)
+Seat 6: Link_fNK (big blind) folded before Flop
+
+PokerStars Hand #251209252257: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level V (60/120) - 2024/06/26 22:14:43 UTC [2024/06/26 18:14:43 ET]
+Table '3769361908 1' 6-max Seat #5 is the button
+Seat 1: lucaromanoo1 (10000 in chips) 
+Seat 2: clareou0408 (9083 in chips) 
+Seat 3: sinister778 (3974 in chips) 
+Seat 4: mehditheboss (11023 in chips) 
+Seat 5: lidi77777 (18132 in chips) 
+Seat 6: Link_fNK (9738 in chips) 
+lucaromanoo1: posts the ante 30
+clareou0408: posts the ante 30
+sinister778: posts the ante 30
+mehditheboss: posts the ante 30
+lidi77777: posts the ante 30
+Link_fNK: posts the ante 30
+Link_fNK: posts small blind 60
+lucaromanoo1: posts big blind 120
+*** HOLE CARDS ***
+clareou0408: folds 
+sinister778: folds 
+mehditheboss: folds 
+lidi77777: folds 
+Link_fNK: raises 300 to 420
+lucaromanoo1: calls 300
+*** FLOP *** [Kc 2s 7s]
+Link_fNK: bets 229
+lucaromanoo1: calls 229
+*** TURN *** [Kc 2s 7s] [8c]
+Link_fNK: bets 1050
+lucaromanoo1: calls 1050
+*** RIVER *** [Kc 2s 7s 8c] [Js]
+Link_fNK: checks 
+lucaromanoo1: bets 8271 and is all-in
+Link_fNK: folds 
+Uncalled bet (8271) returned to lucaromanoo1
+lucaromanoo1 collected 3578 from pot
+lucaromanoo1: doesn't show hand 
+*** SUMMARY ***
+Total pot 3578 | Rake 0 
+Board [Kc 2s 7s 8c Js]
+Seat 1: lucaromanoo1 (big blind) collected (3578)
+Seat 2: clareou0408 folded before Flop (didn't bet)
+Seat 3: sinister778 folded before Flop (didn't bet)
+Seat 4: mehditheboss folded before Flop (didn't bet)
+Seat 5: lidi77777 (button) folded before Flop (didn't bet)
+Seat 6: Link_fNK (small blind) folded on the River
+
+PokerStars Hand #251209283203: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level V (60/120) - 2024/06/26 22:16:33 UTC [2024/06/26 18:16:33 ET]
+Table '3769361908 1' 6-max Seat #6 is the button
+Seat 1: lucaromanoo1 (11849 in chips) 
+Seat 2: clareou0408 (9053 in chips) 
+Seat 3: sinister778 (3944 in chips) 
+Seat 4: mehditheboss (10993 in chips) 
+Seat 5: lidi77777 (18102 in chips) 
+Seat 6: Link_fNK (8009 in chips) 
+lucaromanoo1: posts the ante 30
+clareou0408: posts the ante 30
+sinister778: posts the ante 30
+mehditheboss: posts the ante 30
+lidi77777: posts the ante 30
+Link_fNK: posts the ante 30
+lucaromanoo1: posts small blind 60
+clareou0408: posts big blind 120
+*** HOLE CARDS ***
+sinister778: raises 120 to 240
+mehditheboss: folds 
+lidi77777: folds 
+Link_fNK: raises 600 to 840
+lucaromanoo1: folds 
+clareou0408: folds 
+sinister778: folds 
+Uncalled bet (600) returned to Link_fNK
+Link_fNK collected 840 from pot
+Link_fNK: doesn't show hand 
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Seat 1: lucaromanoo1 (small blind) folded before Flop
+Seat 2: clareou0408 (big blind) folded before Flop
+Seat 3: sinister778 folded before Flop
+Seat 4: mehditheboss folded before Flop (didn't bet)
+Seat 5: lidi77777 folded before Flop (didn't bet)
+Seat 6: Link_fNK (button) collected (840)
+
+PokerStars Hand #251209293039: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level V (60/120) - 2024/06/26 22:17:08 UTC [2024/06/26 18:17:08 ET]
+Table '3769361908 1' 6-max Seat #1 is the button
+Seat 1: lucaromanoo1 (11759 in chips) 
+Seat 2: clareou0408 (8903 in chips) 
+Seat 3: sinister778 (3674 in chips) 
+Seat 4: mehditheboss (10963 in chips) 
+Seat 5: lidi77777 (18072 in chips) 
+Seat 6: Link_fNK (8579 in chips) 
+lucaromanoo1: posts the ante 30
+clareou0408: posts the ante 30
+sinister778: posts the ante 30
+mehditheboss: posts the ante 30
+lidi77777: posts the ante 30
+Link_fNK: posts the ante 30
+clareou0408: posts small blind 60
+sinister778: posts big blind 120
+*** HOLE CARDS ***
+mehditheboss: raises 120 to 240
+lidi77777: folds 
+Link_fNK: calls 240
+lucaromanoo1: folds 
+clareou0408: folds 
+sinister778: raises 720 to 960
+mehditheboss: folds 
+Link_fNK: folds 
+Uncalled bet (720) returned to sinister778
+sinister778 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Seat 1: lucaromanoo1 (button) folded before Flop (didn't bet)
+Seat 2: clareou0408 (small blind) folded before Flop
+Seat 3: sinister778 (big blind) collected (960)
+Seat 4: mehditheboss folded before Flop
+Seat 5: lidi77777 folded before Flop (didn't bet)
+Seat 6: Link_fNK folded before Flop
+
+PokerStars Hand #251209300839: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VI (80/160) - 2024/06/26 22:17:35 UTC [2024/06/26 18:17:35 ET]
+Table '3769361908 1' 6-max Seat #2 is the button
+Seat 1: lucaromanoo1 (11729 in chips) 
+Seat 2: clareou0408 (8813 in chips) 
+Seat 3: sinister778 (4364 in chips) 
+Seat 4: mehditheboss (10693 in chips) 
+Seat 5: lidi77777 (18042 in chips) 
+Seat 6: Link_fNK (8309 in chips) 
+lucaromanoo1: posts the ante 40
+clareou0408: posts the ante 40
+sinister778: posts the ante 40
+mehditheboss: posts the ante 40
+lidi77777: posts the ante 40
+Link_fNK: posts the ante 40
+sinister778: posts small blind 80
+mehditheboss: posts big blind 160
+*** HOLE CARDS ***
+lidi77777: folds 
+Link_fNK: folds 
+lucaromanoo1: raises 192 to 352
+clareou0408: calls 352
+sinister778: folds 
+mehditheboss: calls 192
+*** FLOP *** [4s 9c Ah]
+mehditheboss: checks 
+lucaromanoo1: bets 440
+clareou0408: calls 440
+mehditheboss: raises 863 to 1303
+lucaromanoo1: calls 863
+clareou0408: folds 
+*** TURN *** [4s 9c Ah] [6h]
+mehditheboss: bets 2560
+lucaromanoo1: calls 2560
+*** RIVER *** [4s 9c Ah 6h] [Kd]
+mehditheboss: bets 6438 and is all-in
+lucaromanoo1: folds 
+Uncalled bet (6438) returned to mehditheboss
+mehditheboss collected 9542 from pot
+mehditheboss: doesn't show hand 
+*** SUMMARY ***
+Total pot 9542 | Rake 0 
+Board [4s 9c Ah 6h Kd]
+Seat 1: lucaromanoo1 folded on the River
+Seat 2: clareou0408 (button) folded on the Flop
+Seat 3: sinister778 (small blind) folded before Flop
+Seat 4: mehditheboss (big blind) collected (9542)
+Seat 5: lidi77777 folded before Flop (didn't bet)
+Seat 6: Link_fNK folded before Flop (didn't bet)
+
+PokerStars Hand #251209330006: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VI (80/160) - 2024/06/26 22:19:19 UTC [2024/06/26 18:19:19 ET]
+Table '3769361908 1' 6-max Seat #3 is the button
+Seat 1: lucaromanoo1 (7474 in chips) 
+Seat 2: clareou0408 (7981 in chips) 
+Seat 3: sinister778 (4244 in chips) 
+Seat 4: mehditheboss (15980 in chips) 
+Seat 5: lidi77777 (18002 in chips) 
+Seat 6: Link_fNK (8269 in chips) 
+lucaromanoo1: posts the ante 40
+clareou0408: posts the ante 40
+sinister778: posts the ante 40
+mehditheboss: posts the ante 40
+lidi77777: posts the ante 40
+Link_fNK: posts the ante 40
+mehditheboss: posts small blind 80
+lidi77777: posts big blind 160
+*** HOLE CARDS ***
+Link_fNK: folds 
+lucaromanoo1: raises 160 to 320
+clareou0408: folds 
+sinister778: folds 
+mehditheboss: folds 
+lidi77777: calls 160
+*** FLOP *** [Ac Ts 2s]
+lidi77777: checks 
+lucaromanoo1: bets 560
+lidi77777: calls 560
+*** TURN *** [Ac Ts 2s] [2d]
+lidi77777: checks 
+lucaromanoo1: bets 1680
+lidi77777: calls 1680
+*** RIVER *** [Ac Ts 2s 2d] [Js]
+lidi77777: checks 
+lucaromanoo1: bets 4874 and is all-in
+lidi77777: calls 4874
+*** SHOW DOWN ***
+lucaromanoo1: shows [Ad Qd] (two pair, Aces and Deuces)
+lidi77777: shows [9h As] (two pair, Aces and Deuces - lower kicker)
+lucaromanoo1 collected 15188 from pot
+*** SUMMARY ***
+Total pot 15188 | Rake 0 
+Board [Ac Ts 2s 2d Js]
+Seat 1: lucaromanoo1 showed [Ad Qd] and won (15188) with two pair, Aces and Deuces
+Seat 2: clareou0408 folded before Flop (didn't bet)
+Seat 3: sinister778 (button) folded before Flop (didn't bet)
+Seat 4: mehditheboss (small blind) folded before Flop
+Seat 5: lidi77777 (big blind) showed [9h As] and lost with two pair, Aces and Deuces
+Seat 6: Link_fNK folded before Flop (didn't bet)
+
+PokerStars Hand #251209348754: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/26 22:20:27 UTC [2024/06/26 18:20:27 ET]
+Table '3769361908 1' 6-max Seat #4 is the button
+Seat 1: lucaromanoo1 (15188 in chips) 
+Seat 3: sinister778 (4204 in chips) 
+Seat 4: mehditheboss (15860 in chips) 
+Seat 5: lidi77777 (10528 in chips) 
+Seat 6: Link_fNK (8229 in chips) 
+lucaromanoo1: posts the ante 50
+sinister778: posts the ante 50
+mehditheboss: posts the ante 50
+lidi77777: posts the ante 50
+Link_fNK: posts the ante 50
+lidi77777: posts small blind 100
+Link_fNK: posts big blind 200
+*** HOLE CARDS ***
+lucaromanoo1: raises 200 to 400
+sinister778: folds 
+mehditheboss: folds 
+lidi77777: calls 300
+Link_fNK: folds 
+*** FLOP *** [3h 4h 5d]
+lidi77777: checks 
+lucaromanoo1: bets 400
+lidi77777: raises 1225 to 1625
+lucaromanoo1: folds 
+Uncalled bet (1225) returned to lidi77777
+lidi77777 collected 2050 from pot
+*** SUMMARY ***
+Total pot 2050 | Rake 0 
+Board [3h 4h 5d]
+Seat 1: lucaromanoo1 folded on the Flop
+Seat 3: sinister778 folded before Flop (didn't bet)
+Seat 4: mehditheboss (button) folded before Flop (didn't bet)
+Seat 5: lidi77777 (small blind) collected (2050)
+Seat 6: Link_fNK (big blind) folded before Flop
+
+PokerStars Hand #251209356462: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/26 22:20:54 UTC [2024/06/26 18:20:54 ET]
+Table '3769361908 1' 6-max Seat #5 is the button
+Seat 1: lucaromanoo1 (14338 in chips) 
+Seat 3: sinister778 (4154 in chips) 
+Seat 4: mehditheboss (15810 in chips) 
+Seat 5: lidi77777 (11728 in chips) 
+Seat 6: Link_fNK (7979 in chips) 
+lucaromanoo1: posts the ante 50
+sinister778: posts the ante 50
+mehditheboss: posts the ante 50
+lidi77777: posts the ante 50
+Link_fNK: posts the ante 50
+Link_fNK: posts small blind 100
+lucaromanoo1: posts big blind 200
+*** HOLE CARDS ***
+sinister778: folds 
+mehditheboss: raises 200 to 400
+lidi77777: raises 1350 to 1750
+Link_fNK: folds 
+lucaromanoo1: folds 
+mehditheboss: folds 
+Uncalled bet (1350) returned to lidi77777
+lidi77777 collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Seat 1: lucaromanoo1 (big blind) folded before Flop
+Seat 3: sinister778 folded before Flop (didn't bet)
+Seat 4: mehditheboss folded before Flop
+Seat 5: lidi77777 (button) collected (1350)
+Seat 6: Link_fNK (small blind) folded before Flop
+
+PokerStars Hand #251209362477: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/26 22:21:16 UTC [2024/06/26 18:21:16 ET]
+Table '3769361908 1' 6-max Seat #6 is the button
+Seat 1: lucaromanoo1 (14088 in chips) 
+Seat 3: sinister778 (4104 in chips) 
+Seat 4: mehditheboss (15360 in chips) 
+Seat 5: lidi77777 (12628 in chips) 
+Seat 6: Link_fNK (7829 in chips) 
+lucaromanoo1: posts the ante 50
+sinister778: posts the ante 50
+mehditheboss: posts the ante 50
+lidi77777: posts the ante 50
+Link_fNK: posts the ante 50
+lucaromanoo1: posts small blind 100
+sinister778: posts big blind 200
+*** HOLE CARDS ***
+mehditheboss: folds 
+lidi77777: folds 
+anth0nypappa is disconnected 
+Link_fNK: raises 200 to 400
+lucaromanoo1: folds 
+sinister778: calls 200
+*** FLOP *** [8s 4d 5h]
+sinister778: checks 
+Link_fNK: checks 
+*** TURN *** [8s 4d 5h] [3d]
+lucaromanoo1 is disconnected 
+sinister778: bets 800
+Link_fNK: folds 
+Uncalled bet (800) returned to sinister778
+sinister778 collected 1150 from pot
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Board [8s 4d 5h 3d]
+Seat 1: lucaromanoo1 (small blind) folded before Flop
+Seat 3: sinister778 (big blind) collected (1150)
+Seat 4: mehditheboss folded before Flop (didn't bet)
+Seat 5: lidi77777 folded before Flop (didn't bet)
+Seat 6: Link_fNK (button) folded on the Turn
+
+PokerStars Hand #251209375889: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/26 22:22:04 UTC [2024/06/26 18:22:04 ET]
+Table '3769361908 1' 6-max Seat #1 is the button
+Seat 1: lucaromanoo1 (13938 in chips) 
+Seat 2: anth0nypappa (10000 in chips) out of hand (moved from another table into small blind)
+Seat 3: sinister778 (4804 in chips) 
+Seat 4: mehditheboss (15310 in chips) 
+Seat 5: lidi77777 (12578 in chips) 
+Seat 6: Link_fNK (7379 in chips) 
+anth0nypappa will be allowed to play after the button
+lucaromanoo1: posts the ante 50
+sinister778: posts the ante 50
+mehditheboss: posts the ante 50
+lidi77777: posts the ante 50
+Link_fNK: posts the ante 50
+sinister778: posts small blind 100
+mehditheboss: posts big blind 200
+*** HOLE CARDS ***
+lidi77777: folds 
+Link_fNK: folds 
+lucaromanoo1: folds 
+sinister778: raises 400 to 600
+mehditheboss: folds 
+Uncalled bet (400) returned to sinister778
+sinister778 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 1: lucaromanoo1 (button) folded before Flop (didn't bet)
+Seat 3: sinister778 (small blind) collected (650)
+Seat 4: mehditheboss (big blind) folded before Flop
+Seat 5: lidi77777 folded before Flop (didn't bet)
+Seat 6: Link_fNK folded before Flop (didn't bet)
+
+PokerStars Hand #251209383596: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VII (100/200) - 2024/06/26 22:22:31 UTC [2024/06/26 18:22:31 ET]
+Table '3769361908 1' 6-max Seat #3 is the button
+Seat 1: lucaromanoo1 (13888 in chips) 
+Seat 2: anth0nypappa (10000 in chips) 
+Seat 3: sinister778 (5204 in chips) 
+Seat 4: mehditheboss (15060 in chips) 
+Seat 5: lidi77777 (12528 in chips) 
+Seat 6: Link_fNK (7329 in chips) 
+lucaromanoo1: posts the ante 50
+anth0nypappa: posts the ante 50
+sinister778: posts the ante 50
+mehditheboss: posts the ante 50
+lidi77777: posts the ante 50
+Link_fNK: posts the ante 50
+mehditheboss: posts small blind 100
+lidi77777: posts big blind 200
+*** HOLE CARDS ***
+Link_fNK: folds 
+lucaromanoo1: folds 
+anth0nypappa: folds 
+sinister778: raises 400 to 600
+mehditheboss: calls 500
+lidi77777: folds 
+*** FLOP *** [6d 7d Jd]
+mehditheboss: checks 
+sinister778: bets 4554 and is all-in
+mehditheboss: folds 
+Uncalled bet (4554) returned to sinister778
+sinister778 collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [6d 7d Jd]
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: anth0nypappa folded before Flop (didn't bet)
+Seat 3: sinister778 (button) collected (1700)
+Seat 4: mehditheboss (small blind) folded on the Flop
+Seat 5: lidi77777 (big blind) folded before Flop
+Seat 6: Link_fNK folded before Flop (didn't bet)
+
+PokerStars Hand #251209397685: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/26 22:23:22 UTC [2024/06/26 18:23:22 ET]
+Table '3769361908 1' 6-max Seat #4 is the button
+Seat 1: lucaromanoo1 (13838 in chips) 
+Seat 2: anth0nypappa (9950 in chips) 
+Seat 3: sinister778 (6254 in chips) 
+Seat 4: mehditheboss (14410 in chips) 
+Seat 5: lidi77777 (12278 in chips) 
+Seat 6: Link_fNK (7279 in chips) 
+lucaromanoo1: posts the ante 60
+anth0nypappa: posts the ante 60
+sinister778: posts the ante 60
+mehditheboss: posts the ante 60
+lidi77777: posts the ante 60
+Link_fNK: posts the ante 60
+lidi77777: posts small blind 125
+Link_fNK: posts big blind 250
+*** HOLE CARDS ***
+lucaromanoo1: folds 
+anth0nypappa: folds 
+sinister778: raises 250 to 500
+mehditheboss: folds 
+lidi77777: folds 
+Link_fNK: calls 250
+*** FLOP *** [9s Qh 2c]
+Link_fNK: checks 
+sinister778: checks 
+*** TURN *** [9s Qh 2c] [5s]
+Link_fNK: checks 
+sinister778: checks 
+*** RIVER *** [9s Qh 2c 5s] [7d]
+Link_fNK: checks 
+sinister778: checks 
+*** SHOW DOWN ***
+Link_fNK: shows [6h Kc] (high card King)
+sinister778: shows [7h 8h] (a pair of Sevens)
+sinister778 collected 1485 from pot
+*** SUMMARY ***
+Total pot 1485 | Rake 0 
+Board [9s Qh 2c 5s 7d]
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: anth0nypappa folded before Flop (didn't bet)
+Seat 3: sinister778 showed [7h 8h] and won (1485) with a pair of Sevens
+Seat 4: mehditheboss (button) folded before Flop (didn't bet)
+Seat 5: lidi77777 (small blind) folded before Flop
+Seat 6: Link_fNK (big blind) showed [6h Kc] and lost with high card King
+
+PokerStars Hand #251209411751: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/26 22:24:13 UTC [2024/06/26 18:24:13 ET]
+Table '3769361908 1' 6-max Seat #5 is the button
+Seat 1: lucaromanoo1 (13778 in chips) 
+Seat 2: anth0nypappa (9890 in chips) 
+Seat 3: sinister778 (7179 in chips) 
+Seat 4: mehditheboss (14350 in chips) 
+Seat 5: lidi77777 (12093 in chips) 
+Seat 6: Link_fNK (6719 in chips) 
+lucaromanoo1: posts the ante 60
+anth0nypappa: posts the ante 60
+sinister778: posts the ante 60
+mehditheboss: posts the ante 60
+lidi77777: posts the ante 60
+Link_fNK: posts the ante 60
+Link_fNK: posts small blind 125
+lucaromanoo1: posts big blind 250
+*** HOLE CARDS ***
+anth0nypappa: folds 
+sinister778: folds 
+mehditheboss: folds 
+lidi77777: folds 
+Link_fNK: raises 500 to 750
+lucaromanoo1: raises 12968 to 13718 and is all-in
+Link_fNK: calls 5909 and is all-in
+Uncalled bet (7059) returned to lucaromanoo1
+*** FLOP *** [5c 7c Qh]
+*** TURN *** [5c 7c Qh] [Ac]
+*** RIVER *** [5c 7c Qh Ac] [8h]
+*** SHOW DOWN ***
+Link_fNK: shows [9h Ah] (a pair of Aces)
+lucaromanoo1: shows [4c 4d] (a pair of Fours)
+Link_fNK collected 13678 from pot
+*** SUMMARY ***
+Total pot 13678 | Rake 0 
+Board [5c 7c Qh Ac 8h]
+Seat 1: lucaromanoo1 (big blind) showed [4c 4d] and lost with a pair of Fours
+Seat 2: anth0nypappa folded before Flop (didn't bet)
+Seat 3: sinister778 folded before Flop (didn't bet)
+Seat 4: mehditheboss folded before Flop (didn't bet)
+Seat 5: lidi77777 (button) folded before Flop (didn't bet)
+Seat 6: Link_fNK (small blind) showed [9h Ah] and won (13678) with a pair of Aces
+
+PokerStars Hand #251209421037: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/26 22:24:46 UTC [2024/06/26 18:24:46 ET]
+Table '3769361908 1' 6-max Seat #6 is the button
+Seat 1: lucaromanoo1 (7059 in chips) 
+Seat 2: anth0nypappa (9830 in chips) 
+Seat 3: sinister778 (7119 in chips) 
+Seat 4: mehditheboss (14290 in chips) 
+Seat 5: lidi77777 (12033 in chips) 
+Seat 6: Link_fNK (13678 in chips) 
+lucaromanoo1: posts the ante 60
+anth0nypappa: posts the ante 60
+sinister778: posts the ante 60
+mehditheboss: posts the ante 60
+lidi77777: posts the ante 60
+Link_fNK: posts the ante 60
+lucaromanoo1: posts small blind 125
+anth0nypappa: posts big blind 250
+*** HOLE CARDS ***
+sinister778: folds 
+mehditheboss: raises 300 to 550
+lidi77777: calls 550
+Link_fNK: raises 1635 to 2185
+lucaromanoo1: folds 
+anth0nypappa: folds 
+mehditheboss: calls 1635
+lidi77777: calls 1635
+*** FLOP *** [Js Kh 3d]
+mehditheboss: checks 
+lidi77777: checks 
+Link_fNK: checks 
+*** TURN *** [Js Kh 3d] [5c]
+mehditheboss: checks 
+lidi77777: bets 3395
+Link_fNK: folds 
+mehditheboss: folds 
+Uncalled bet (3395) returned to lidi77777
+lidi77777 collected 7290 from pot
+*** SUMMARY ***
+Total pot 7290 | Rake 0 
+Board [Js Kh 3d 5c]
+Seat 1: lucaromanoo1 (small blind) folded before Flop
+Seat 2: anth0nypappa (big blind) folded before Flop
+Seat 3: sinister778 folded before Flop (didn't bet)
+Seat 4: mehditheboss folded on the Turn
+Seat 5: lidi77777 collected (7290)
+Seat 6: Link_fNK (button) folded on the Turn
+
+PokerStars Hand #251209438245: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level VIII (125/250) - 2024/06/26 22:25:48 UTC [2024/06/26 18:25:48 ET]
+Table '3769361908 1' 6-max Seat #1 is the button
+Seat 1: lucaromanoo1 (6874 in chips) 
+Seat 2: anth0nypappa (9520 in chips) 
+Seat 3: sinister778 (7059 in chips) 
+Seat 4: mehditheboss (12045 in chips) 
+Seat 5: lidi77777 (17078 in chips) 
+Seat 6: Link_fNK (11433 in chips) 
+lucaromanoo1: posts the ante 60
+anth0nypappa: posts the ante 60
+sinister778: posts the ante 60
+mehditheboss: posts the ante 60
+lidi77777: posts the ante 60
+Link_fNK: posts the ante 60
+anth0nypappa: posts small blind 125
+sinister778: posts big blind 250
+*** HOLE CARDS ***
+mehditheboss: folds 
+lidi77777: folds 
+Link_fNK: folds 
+lucaromanoo1: folds 
+anth0nypappa: calls 125
+sinister778: checks 
+*** FLOP *** [Jd 8d 7c]
+anth0nypappa: checks 
+sinister778: checks 
+*** TURN *** [Jd 8d 7c] [3d]
+anth0nypappa: checks 
+sinister778: checks 
+*** RIVER *** [Jd 8d 7c 3d] [9c]
+anth0nypappa: checks 
+sinister778: checks 
+*** SHOW DOWN ***
+anth0nypappa: shows [4h Kh] (high card King)
+sinister778: mucks hand 
+anth0nypappa collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [Jd 8d 7c 3d 9c]
+Seat 1: lucaromanoo1 (button) folded before Flop (didn't bet)
+Seat 2: anth0nypappa (small blind) showed [4h Kh] and won (860) with high card King
+Seat 3: sinister778 (big blind) mucked
+Seat 4: mehditheboss folded before Flop (didn't bet)
+Seat 5: lidi77777 folded before Flop (didn't bet)
+Seat 6: Link_fNK folded before Flop (didn't bet)
+
+PokerStars Hand #251209451773: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:26:37 UTC [2024/06/26 18:26:37 ET]
+Table '3769361908 1' 6-max Seat #2 is the button
+Seat 1: lucaromanoo1 (6814 in chips) 
+Seat 2: anth0nypappa (10070 in chips) 
+Seat 3: sinister778 (6749 in chips) 
+Seat 4: mehditheboss (11985 in chips) 
+Seat 5: lidi77777 (17018 in chips) 
+Seat 6: Link_fNK (11373 in chips) 
+lucaromanoo1: posts the ante 75
+anth0nypappa: posts the ante 75
+sinister778: posts the ante 75
+mehditheboss: posts the ante 75
+lidi77777: posts the ante 75
+Link_fNK: posts the ante 75
+sinister778: posts small blind 150
+mehditheboss: posts big blind 300
+*** HOLE CARDS ***
+lidi77777: folds 
+Link_fNK: folds 
+lucaromanoo1: folds 
+anth0nypappa: raises 333 to 633
+sinister778: folds 
+mehditheboss: folds 
+Uncalled bet (333) returned to anth0nypappa
+anth0nypappa collected 1200 from pot
+anth0nypappa: doesn't show hand 
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: anth0nypappa (button) collected (1200)
+Seat 3: sinister778 (small blind) folded before Flop
+Seat 4: mehditheboss (big blind) folded before Flop
+Seat 5: lidi77777 folded before Flop (didn't bet)
+Seat 6: Link_fNK folded before Flop (didn't bet)
+
+PokerStars Hand #251209463242: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:27:18 UTC [2024/06/26 18:27:18 ET]
+Table '3769361908 1' 6-max Seat #3 is the button
+Seat 1: lucaromanoo1 (6739 in chips) 
+Seat 2: anth0nypappa (10895 in chips) 
+Seat 3: sinister778 (6524 in chips) 
+Seat 4: mehditheboss (11610 in chips) 
+Seat 5: lidi77777 (16943 in chips) 
+Seat 6: Link_fNK (11298 in chips) 
+lucaromanoo1: posts the ante 75
+anth0nypappa: posts the ante 75
+sinister778: posts the ante 75
+mehditheboss: posts the ante 75
+lidi77777: posts the ante 75
+Link_fNK: posts the ante 75
+mehditheboss: posts small blind 150
+lidi77777: posts big blind 300
+*** HOLE CARDS ***
+Link_fNK: raises 300 to 600
+lucaromanoo1: folds 
+anth0nypappa: folds 
+sinister778: folds 
+mehditheboss: folds 
+lidi77777: calls 300
+*** FLOP *** [6d As 2s]
+lidi77777: checks 
+Link_fNK: bets 495
+lidi77777: folds 
+Uncalled bet (495) returned to Link_fNK
+Link_fNK collected 1800 from pot
+Link_fNK: doesn't show hand 
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Board [6d As 2s]
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: anth0nypappa folded before Flop (didn't bet)
+Seat 3: sinister778 (button) folded before Flop (didn't bet)
+Seat 4: mehditheboss (small blind) folded before Flop
+Seat 5: lidi77777 (big blind) folded on the Flop
+Seat 6: Link_fNK collected (1800)
+
+PokerStars Hand #251209476942: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:28:07 UTC [2024/06/26 18:28:07 ET]
+Table '3769361908 1' 6-max Seat #4 is the button
+Seat 1: lucaromanoo1 (6664 in chips) 
+Seat 2: anth0nypappa (10820 in chips) 
+Seat 3: sinister778 (6449 in chips) 
+Seat 4: mehditheboss (11385 in chips) 
+Seat 5: lidi77777 (16268 in chips) 
+Seat 6: Link_fNK (12423 in chips) 
+lucaromanoo1: posts the ante 75
+anth0nypappa: posts the ante 75
+sinister778: posts the ante 75
+mehditheboss: posts the ante 75
+lidi77777: posts the ante 75
+Link_fNK: posts the ante 75
+lidi77777: posts small blind 150
+Link_fNK: posts big blind 300
+*** HOLE CARDS ***
+lucaromanoo1: folds 
+anth0nypappa: raises 300 to 600
+sinister778: raises 5774 to 6374 and is all-in
+mehditheboss: folds 
+lidi77777: folds 
+Link_fNK: folds 
+anth0nypappa: folds 
+Uncalled bet (5774) returned to sinister778
+sinister778 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | Rake 0 
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: anth0nypappa folded before Flop
+Seat 3: sinister778 collected (2100)
+Seat 4: mehditheboss (button) folded before Flop (didn't bet)
+Seat 5: lidi77777 (small blind) folded before Flop
+Seat 6: Link_fNK (big blind) folded before Flop
+
+PokerStars Hand #251209485257: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level IX (150/300) - 2024/06/26 22:28:37 UTC [2024/06/26 18:28:37 ET]
+Table '3769361908 1' 6-max Seat #5 is the button
+Seat 1: lucaromanoo1 (6589 in chips) 
+Seat 2: anth0nypappa (10145 in chips) 
+Seat 3: sinister778 (7874 in chips) 
+Seat 4: mehditheboss (11310 in chips) 
+Seat 5: lidi77777 (16043 in chips) 
+Seat 6: Link_fNK (12048 in chips) 
+lucaromanoo1: posts the ante 75
+anth0nypappa: posts the ante 75
+sinister778: posts the ante 75
+mehditheboss: posts the ante 75
+lidi77777: posts the ante 75
+Link_fNK: posts the ante 75
+Link_fNK: posts small blind 150
+lucaromanoo1: posts big blind 300
+*** HOLE CARDS ***
+anth0nypappa: folds 
+sinister778: folds 
+mehditheboss: folds 
+lidi77777: raises 300 to 600
+Link_fNK: raises 1650 to 2250
+lucaromanoo1: folds 
+lidi77777: calls 1650
+*** FLOP *** [Ac 2c Ad]
+Link_fNK: bets 1380
+lidi77777: calls 1380
+*** TURN *** [Ac 2c Ad] [7c]
+Link_fNK: bets 2669
+lidi77777: calls 2669
+*** RIVER *** [Ac 2c Ad 7c] [5c]
+Link_fNK: bets 5674 and is all-in
+lidi77777: calls 5674
+*** SHOW DOWN ***
+Link_fNK: shows [Kc As] (a flush, Ace high)
+lidi77777: shows [8c Qc] (a flush, Ace high - lower cards)
+Link_fNK collected 24696 from pot
+*** SUMMARY ***
+Total pot 24696 | Rake 0 
+Board [Ac 2c Ad 7c 5c]
+Seat 1: lucaromanoo1 (big blind) folded before Flop
+Seat 2: anth0nypappa folded before Flop (didn't bet)
+Seat 3: sinister778 folded before Flop (didn't bet)
+Seat 4: mehditheboss folded before Flop (didn't bet)
+Seat 5: lidi77777 (button) showed [8c Qc] and lost with a flush, Ace high
+Seat 6: Link_fNK (small blind) showed [Kc As] and won (24696) with a flush, Ace high
+
+PokerStars Hand #251209513937: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:30:20 UTC [2024/06/26 18:30:20 ET]
+Table '3769361908 1' 6-max Seat #6 is the button
+Seat 1: lucaromanoo1 (6214 in chips) 
+Seat 2: anth0nypappa (10070 in chips) 
+Seat 3: sinister778 (7799 in chips) 
+Seat 4: mehditheboss (11235 in chips) 
+Seat 5: lidi77777 (3995 in chips) 
+Seat 6: Link_fNK (24696 in chips) 
+lucaromanoo1: posts the ante 100
+anth0nypappa: posts the ante 100
+sinister778: posts the ante 100
+mehditheboss: posts the ante 100
+lidi77777: posts the ante 100
+Link_fNK: posts the ante 100
+lucaromanoo1: posts small blind 200
+anth0nypappa: posts big blind 400
+*** HOLE CARDS ***
+sinister778: folds 
+mehditheboss: raises 400 to 800
+lidi77777: raises 3095 to 3895 and is all-in
+Link_fNK: folds 
+lucaromanoo1: folds 
+anth0nypappa: folds 
+mehditheboss: calls 3095
+*** FLOP *** [7d Kh 6d]
+*** TURN *** [7d Kh 6d] [Js]
+*** RIVER *** [7d Kh 6d Js] [Td]
+*** SHOW DOWN ***
+mehditheboss: shows [9s 7s] (a pair of Sevens)
+lidi77777: shows [Kc Tc] (two pair, Kings and Tens)
+lidi77777 collected 8990 from pot
+*** SUMMARY ***
+Total pot 8990 | Rake 0 
+Board [7d Kh 6d Js Td]
+Seat 1: lucaromanoo1 (small blind) folded before Flop
+Seat 2: anth0nypappa (big blind) folded before Flop
+Seat 3: sinister778 folded before Flop (didn't bet)
+Seat 4: mehditheboss showed [9s 7s] and lost with a pair of Sevens
+Seat 5: lidi77777 showed [Kc Tc] and won (8990) with two pair, Kings and Tens
+Seat 6: Link_fNK (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209521767: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:30:48 UTC [2024/06/26 18:30:48 ET]
+Table '3769361908 1' 6-max Seat #1 is the button
+Seat 1: lucaromanoo1 (5914 in chips) 
+Seat 2: anth0nypappa (9570 in chips) 
+Seat 3: sinister778 (7699 in chips) 
+Seat 4: mehditheboss (7240 in chips) 
+Seat 5: lidi77777 (8990 in chips) 
+Seat 6: Link_fNK (24596 in chips) 
+lucaromanoo1: posts the ante 100
+anth0nypappa: posts the ante 100
+sinister778: posts the ante 100
+mehditheboss: posts the ante 100
+lidi77777: posts the ante 100
+Link_fNK: posts the ante 100
+anth0nypappa: posts small blind 200
+sinister778: posts big blind 400
+*** HOLE CARDS ***
+mehditheboss: folds 
+lidi77777: folds 
+Link_fNK: folds 
+lucaromanoo1: folds 
+anth0nypappa: raises 9070 to 9470 and is all-in
+sinister778: calls 7199 and is all-in
+Uncalled bet (1871) returned to anth0nypappa
+*** FLOP *** [Ad Kd 4h]
+*** TURN *** [Ad Kd 4h] [Ts]
+*** RIVER *** [Ad Kd 4h Ts] [Kh]
+*** SHOW DOWN ***
+anth0nypappa: shows [Jc 9h] (a pair of Kings)
+sinister778: shows [2s Kc] (three of a kind, Kings)
+sinister778 collected 15798 from pot
+*** SUMMARY ***
+Total pot 15798 | Rake 0 
+Board [Ad Kd 4h Ts Kh]
+Seat 1: lucaromanoo1 (button) folded before Flop (didn't bet)
+Seat 2: anth0nypappa (small blind) showed [Jc 9h] and lost with a pair of Kings
+Seat 3: sinister778 (big blind) showed [2s Kc] and won (15798) with three of a kind, Kings
+Seat 4: mehditheboss folded before Flop (didn't bet)
+Seat 5: lidi77777 folded before Flop (didn't bet)
+Seat 6: Link_fNK folded before Flop (didn't bet)
+
+PokerStars Hand #251209527139: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:31:08 UTC [2024/06/26 18:31:08 ET]
+Table '3769361908 1' 6-max Seat #2 is the button
+Seat 1: lucaromanoo1 (5814 in chips) 
+Seat 2: anth0nypappa (1871 in chips) 
+Seat 3: sinister778 (15798 in chips) 
+Seat 5: lidi77777 (8890 in chips) 
+Seat 6: Link_fNK (24496 in chips) 
+lucaromanoo1: posts the ante 100
+anth0nypappa: posts the ante 100
+sinister778: posts the ante 100
+lidi77777: posts the ante 100
+Link_fNK: posts the ante 100
+sinister778: posts small blind 200
+lidi77777: posts big blind 400
+*** HOLE CARDS ***
+Link_fNK: folds 
+lucaromanoo1: raises 5314 to 5714 and is all-in
+phcrf is disconnected 
+anth0nypappa: folds 
+sinister778: folds 
+lidi77777: folds 
+Uncalled bet (5314) returned to lucaromanoo1
+lucaromanoo1 collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Seat 1: lucaromanoo1 collected (1500)
+Seat 2: anth0nypappa (button) folded before Flop (didn't bet)
+Seat 3: sinister778 (small blind) folded before Flop
+Seat 5: lidi77777 (big blind) folded before Flop
+Seat 6: Link_fNK folded before Flop (didn't bet)
+
+PokerStars Hand #251209534160: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:31:33 UTC [2024/06/26 18:31:33 ET]
+Table '3769361908 1' 6-max Seat #3 is the button
+Seat 1: lucaromanoo1 (6814 in chips) 
+Seat 2: anth0nypappa (1771 in chips) 
+Seat 3: sinister778 (15498 in chips) 
+Seat 4: phcrf (10000 in chips) out of hand (moved from another table into small blind)
+Seat 5: lidi77777 (8390 in chips) 
+Seat 6: Link_fNK (24396 in chips) 
+phcrf will be allowed to play after the button
+lucaromanoo1: posts the ante 100
+anth0nypappa: posts the ante 100
+sinister778: posts the ante 100
+lidi77777: posts the ante 100
+Link_fNK: posts the ante 100
+lidi77777: posts small blind 200
+Link_fNK: posts big blind 400
+*** HOLE CARDS ***
+lucaromanoo1: folds 
+anth0nypappa: folds 
+sinister778: folds 
+lidi77777: raises 7890 to 8290 and is all-in
+Link_fNK: folds 
+Uncalled bet (7890) returned to lidi77777
+lidi77777 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: anth0nypappa folded before Flop (didn't bet)
+Seat 3: sinister778 (button) folded before Flop (didn't bet)
+Seat 5: lidi77777 (small blind) collected (1300)
+Seat 6: Link_fNK (big blind) folded before Flop
+
+PokerStars Hand #251209537700: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level X (200/400) - 2024/06/26 22:31:46 UTC [2024/06/26 18:31:46 ET]
+Table '3769361908 1' 6-max Seat #5 is the button
+Seat 1: lucaromanoo1 (6714 in chips) 
+Seat 2: anth0nypappa (1671 in chips) 
+Seat 3: sinister778 (15398 in chips) 
+Seat 4: phcrf (10000 in chips) 
+Seat 5: lidi77777 (9190 in chips) 
+Seat 6: Link_fNK (23896 in chips) 
+lucaromanoo1: posts the ante 100
+anth0nypappa: posts the ante 100
+sinister778: posts the ante 100
+phcrf: posts the ante 100
+lidi77777: posts the ante 100
+Link_fNK: posts the ante 100
+Link_fNK: posts small blind 200
+lucaromanoo1: posts big blind 400
+*** HOLE CARDS ***
+anth0nypappa: folds 
+sinister778: folds 
+phcrf: raises 400 to 800
+lidi77777: calls 800
+Link_fNK: folds 
+lucaromanoo1: folds 
+*** FLOP *** [Js 9h 9c]
+phcrf: checks 
+lidi77777: bets 800
+phcrf: calls 800
+*** TURN *** [Js 9h 9c] [Qh]
+phcrf: checks 
+lidi77777: bets 1800
+phcrf: calls 1800
+*** RIVER *** [Js 9h 9c Qh] [Ah]
+phcrf: checks 
+lidi77777: checks 
+*** SHOW DOWN ***
+phcrf: shows [Jh Jc] (a full house, Jacks full of Nines)
+lidi77777: mucks hand 
+phcrf collected 8000 from pot
+*** SUMMARY ***
+Total pot 8000 | Rake 0 
+Board [Js 9h 9c Qh Ah]
+Seat 1: lucaromanoo1 (big blind) folded before Flop
+Seat 2: anth0nypappa folded before Flop (didn't bet)
+Seat 3: sinister778 folded before Flop (didn't bet)
+Seat 4: phcrf showed [Jh Jc] and won (8000) with a full house, Jacks full of Nines
+Seat 5: lidi77777 (button) mucked
+Seat 6: Link_fNK (small blind) folded before Flop
+
+PokerStars Hand #251209555068: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:32:50 UTC [2024/06/26 18:32:50 ET]
+Table '3769361908 1' 6-max Seat #6 is the button
+Seat 1: lucaromanoo1 (6214 in chips) 
+Seat 2: anth0nypappa (1571 in chips) 
+Seat 3: sinister778 (15298 in chips) 
+Seat 4: phcrf (14500 in chips) 
+Seat 5: lidi77777 (5690 in chips) 
+Seat 6: Link_fNK (23596 in chips) 
+lucaromanoo1: posts the ante 125
+anth0nypappa: posts the ante 125
+sinister778: posts the ante 125
+phcrf: posts the ante 125
+lidi77777: posts the ante 125
+Link_fNK: posts the ante 125
+lucaromanoo1: posts small blind 250
+anth0nypappa: posts big blind 500
+*** HOLE CARDS ***
+sinister778: folds 
+phcrf: folds 
+lidi77777: raises 5065 to 5565 and is all-in
+Link_fNK: folds 
+lucaromanoo1: folds 
+anth0nypappa: calls 946 and is all-in
+Uncalled bet (4119) returned to lidi77777
+*** FLOP *** [2c 3s Jc]
+*** TURN *** [2c 3s Jc] [6h]
+*** RIVER *** [2c 3s Jc 6h] [4s]
+*** SHOW DOWN ***
+anth0nypappa: shows [2d 8d] (a pair of Deuces)
+lidi77777: shows [Kd 9s] (high card King)
+anth0nypappa collected 3892 from pot
+*** SUMMARY ***
+Total pot 3892 | Rake 0 
+Board [2c 3s Jc 6h 4s]
+Seat 1: lucaromanoo1 (small blind) folded before Flop
+Seat 2: anth0nypappa (big blind) showed [2d 8d] and won (3892) with a pair of Deuces
+Seat 3: sinister778 folded before Flop (didn't bet)
+Seat 4: phcrf folded before Flop (didn't bet)
+Seat 5: lidi77777 showed [Kd 9s] and lost with high card King
+Seat 6: Link_fNK (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209561660: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:33:15 UTC [2024/06/26 18:33:15 ET]
+Table '3769361908 1' 6-max Seat #1 is the button
+Seat 1: lucaromanoo1 (5839 in chips) 
+Seat 2: anth0nypappa (3892 in chips) 
+Seat 3: sinister778 (15173 in chips) 
+Seat 4: phcrf (14375 in chips) 
+Seat 5: lidi77777 (4119 in chips) 
+Seat 6: Link_fNK (23471 in chips) 
+lucaromanoo1: posts the ante 125
+anth0nypappa: posts the ante 125
+sinister778: posts the ante 125
+phcrf: posts the ante 125
+lidi77777: posts the ante 125
+Link_fNK: posts the ante 125
+anth0nypappa: posts small blind 250
+sinister778: posts big blind 500
+*** HOLE CARDS ***
+phcrf: folds 
+lidi77777: raises 3494 to 3994 and is all-in
+Link_fNK: folds 
+lucaromanoo1: folds 
+anth0nypappa: folds 
+sinister778: folds 
+Uncalled bet (3494) returned to lidi77777
+lidi77777 collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | Rake 0 
+Seat 1: lucaromanoo1 (button) folded before Flop (didn't bet)
+Seat 2: anth0nypappa (small blind) folded before Flop
+Seat 3: sinister778 (big blind) folded before Flop
+Seat 4: phcrf folded before Flop (didn't bet)
+Seat 5: lidi77777 collected (2000)
+Seat 6: Link_fNK folded before Flop (didn't bet)
+
+PokerStars Hand #251209567503: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:33:37 UTC [2024/06/26 18:33:37 ET]
+Table '3769361908 1' 6-max Seat #2 is the button
+Seat 1: lucaromanoo1 (5714 in chips) 
+Seat 2: anth0nypappa (3517 in chips) 
+Seat 3: sinister778 (14548 in chips) 
+Seat 4: phcrf (14250 in chips) 
+Seat 5: lidi77777 (5494 in chips) 
+Seat 6: Link_fNK (23346 in chips) 
+lucaromanoo1: posts the ante 125
+anth0nypappa: posts the ante 125
+sinister778: posts the ante 125
+phcrf: posts the ante 125
+lidi77777: posts the ante 125
+Link_fNK: posts the ante 125
+sinister778: posts small blind 250
+phcrf: posts big blind 500
+*** HOLE CARDS ***
+lidi77777: calls 500
+Link_fNK: folds 
+lucaromanoo1: raises 5089 to 5589 and is all-in
+anth0nypappa: folds 
+sinister778: folds 
+phcrf: folds 
+lidi77777: calls 4869 and is all-in
+Uncalled bet (220) returned to lucaromanoo1
+*** FLOP *** [2d Qc 6c]
+*** TURN *** [2d Qc 6c] [6s]
+*** RIVER *** [2d Qc 6c 6s] [6h]
+*** SHOW DOWN ***
+lidi77777: shows [Ad Ah] (a full house, Sixes full of Aces)
+lucaromanoo1: shows [8s 8d] (a full house, Sixes full of Eights)
+lidi77777 collected 12238 from pot
+*** SUMMARY ***
+Total pot 12238 | Rake 0 
+Board [2d Qc 6c 6s 6h]
+Seat 1: lucaromanoo1 showed [8s 8d] and lost with a full house, Sixes full of Eights
+Seat 2: anth0nypappa (button) folded before Flop (didn't bet)
+Seat 3: sinister778 (small blind) folded before Flop
+Seat 4: phcrf (big blind) folded before Flop
+Seat 5: lidi77777 showed [Ad Ah] and won (12238) with a full house, Sixes full of Aces
+Seat 6: Link_fNK folded before Flop (didn't bet)
+
+PokerStars Hand #251209576426: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:34:10 UTC [2024/06/26 18:34:10 ET]
+Table '3769361908 1' 6-max Seat #3 is the button
+Seat 1: lucaromanoo1 (220 in chips) 
+Seat 2: anth0nypappa (3392 in chips) 
+Seat 3: sinister778 (14173 in chips) 
+Seat 4: phcrf (13625 in chips) 
+Seat 5: lidi77777 (12238 in chips) 
+Seat 6: Link_fNK (23221 in chips) 
+lucaromanoo1: posts the ante 125
+anth0nypappa: posts the ante 125
+sinister778: posts the ante 125
+phcrf: posts the ante 125
+lidi77777: posts the ante 125
+Link_fNK: posts the ante 125
+phcrf: posts small blind 250
+lidi77777: posts big blind 500
+*** HOLE CARDS ***
+Link_fNK: raises 500 to 1000
+lucaromanoo1: folds 
+anth0nypappa: folds 
+sinister778: calls 1000
+phcrf: folds 
+lidi77777: folds 
+*** FLOP *** [6s Kd Qh]
+Link_fNK: checks 
+sinister778: bets 1500
+Link_fNK: folds 
+Uncalled bet (1500) returned to sinister778
+sinister778 collected 3500 from pot
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Board [6s Kd Qh]
+Seat 1: lucaromanoo1 folded before Flop (didn't bet)
+Seat 2: anth0nypappa folded before Flop (didn't bet)
+Seat 3: sinister778 (button) collected (3500)
+Seat 4: phcrf (small blind) folded before Flop
+Seat 5: lidi77777 (big blind) folded before Flop
+Seat 6: Link_fNK folded on the Flop
+
+PokerStars Hand #251209588785: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XI (250/500) - 2024/06/26 22:34:55 UTC [2024/06/26 18:34:55 ET]
+Table '3769361908 1' 6-max Seat #4 is the button
+Seat 1: lucaromanoo1 (95 in chips) 
+Seat 2: anth0nypappa (3267 in chips) 
+Seat 3: sinister778 (16548 in chips) 
+Seat 4: phcrf (13250 in chips) 
+Seat 5: lidi77777 (11613 in chips) 
+Seat 6: Link_fNK (22096 in chips) 
+lucaromanoo1: posts the ante 95 and is all-in
+anth0nypappa: posts the ante 125
+sinister778: posts the ante 125
+phcrf: posts the ante 125
+lidi77777: posts the ante 125
+Link_fNK: posts the ante 125
+lidi77777: posts small blind 250
+Link_fNK: posts big blind 500
+*** HOLE CARDS ***
+anth0nypappa is disconnected 
+anth0nypappa has timed out while disconnected
+anth0nypappa: folds 
+anth0nypappa is sitting out
+sinister778: folds 
+phcrf: folds 
+lucaromanoo1 is disconnected 
+lidi77777: raises 10988 to 11488 and is all-in
+Link_fNK: calls 10988
+*** FLOP *** [7d 5c 5s]
+*** TURN *** [7d 5c 5s] [6d]
+*** RIVER *** [7d 5c 5s 6d] [2c]
+*** SHOW DOWN ***
+lidi77777: shows [2h 7h] (two pair, Sevens and Fives)
+Link_fNK: shows [Qs Qh] (two pair, Queens and Fives)
+Link_fNK collected 23126 from side pot
+lucaromanoo1: shows [4s Qd] (a pair of Fives)
+lucaromanoo1 is disconnected 
+Link_fNK collected 570 from main pot
+lidi77777 finished the tournament
+lucaromanoo1 finished the tournament
+*** SUMMARY ***
+Total pot 23696 Main pot 570. Side pot 23126. | Rake 0 
+Board [7d 5c 5s 6d 2c]
+Seat 1: lucaromanoo1 showed [4s Qd] and lost with a pair of Fives
+Seat 2: anth0nypappa folded before Flop (didn't bet)
+Seat 3: sinister778 folded before Flop (didn't bet)
+Seat 4: phcrf (button) folded before Flop (didn't bet)
+Seat 5: lidi77777 (small blind) showed [2h 7h] and lost with two pair, Sevens and Fives
+Seat 6: Link_fNK (big blind) showed [Qs Qh] and won (23696) with two pair, Queens and Fives
+
+PokerStars Hand #251209607786: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:36:06 UTC [2024/06/26 18:36:06 ET]
+Table '3769361908 1' 6-max Seat #6 is the button
+Seat 1: Accio Aces1 (37044 in chips) out of hand (moved from another table into small blind)
+Seat 2: anth0nypappa (3142 in chips) is sitting out
+Seat 3: sinister778 (16423 in chips) 
+Seat 4: phcrf (13125 in chips) 
+Seat 6: Link_fNK (34179 in chips) 
+Accio Aces1 will be allowed to play after the button
+anth0nypappa: posts the ante 150
+sinister778: posts the ante 150
+phcrf: posts the ante 150
+Link_fNK: posts the ante 150
+anth0nypappa: posts small blind 300
+sinister778: posts big blind 600
+*** HOLE CARDS ***
+joaoMathias is disconnected 
+phcrf: folds 
+Link_fNK: raises 600 to 1200
+anth0nypappa: folds 
+sinister778: calls 600
+*** FLOP *** [2s Js 9s]
+sinister778: checks 
+Link_fNK: bets 825
+sinister778: calls 825
+*** TURN *** [2s Js 9s] [Td]
+sinister778: checks 
+Link_fNK: bets 3720
+sinister778: calls 3720
+*** RIVER *** [2s Js 9s Td] [5d]
+sinister778: checks 
+Link_fNK: bets 12390
+sinister778: calls 10528 and is all-in
+Uncalled bet (1862) returned to Link_fNK
+*** SHOW DOWN ***
+Link_fNK: shows [Ad 3s] (high card Ace)
+sinister778: shows [Th Jd] (two pair, Jacks and Tens)
+sinister778 collected 33446 from pot
+*** SUMMARY ***
+Total pot 33446 | Rake 0 
+Board [2s Js 9s Td 5d]
+Seat 2: anth0nypappa (small blind) folded before Flop
+Seat 3: sinister778 (big blind) showed [Th Jd] and won (33446) with two pair, Jacks and Tens
+Seat 4: phcrf folded before Flop (didn't bet)
+Seat 6: Link_fNK (button) showed [Ad 3s] and lost with high card Ace
+
+PokerStars Hand #251209634091: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XII (300/600) - 2024/06/26 22:37:45 UTC [2024/06/26 18:37:45 ET]
+Table '3769361908 1' 6-max Seat #2 is the button
+Seat 1: Accio Aces1 (37044 in chips) 
+Seat 2: anth0nypappa (2692 in chips) is sitting out
+Seat 3: sinister778 (33446 in chips) 
+Seat 4: phcrf (12975 in chips) 
+Seat 5: joaoMathias (9850 in chips) 
+Seat 6: Link_fNK (17756 in chips) 
+Accio Aces1: posts the ante 150
+anth0nypappa: posts the ante 150
+sinister778: posts the ante 150
+phcrf: posts the ante 150
+joaoMathias: posts the ante 150
+Link_fNK: posts the ante 150
+sinister778: posts small blind 300
+phcrf: posts big blind 600
+*** HOLE CARDS ***
+joaoMathias: folds 
+Link_fNK: folds 
+Accio Aces1: folds 
+anth0nypappa: folds 
+sinister778: raises 1200 to 1800
+phcrf: folds [2c]
+Uncalled bet (1200) returned to sinister778
+sinister778 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | Rake 0 
+Seat 1: Accio Aces1 folded before Flop (didn't bet)
+Seat 2: anth0nypappa (button) folded before Flop (didn't bet)
+Seat 3: sinister778 (small blind) collected (2100)
+Seat 4: phcrf (big blind) folded before Flop
+Seat 5: joaoMathias folded before Flop (didn't bet)
+Seat 6: Link_fNK folded before Flop (didn't bet)
+
+PokerStars Hand #251209645530: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:38:27 UTC [2024/06/26 18:38:27 ET]
+Table '3769361908 1' 6-max Seat #3 is the button
+Seat 1: Accio Aces1 (36894 in chips) 
+Seat 2: anth0nypappa (2542 in chips) is sitting out
+Seat 3: sinister778 (34796 in chips) 
+Seat 4: phcrf (12225 in chips) 
+Seat 5: joaoMathias (9700 in chips) 
+Seat 6: Link_fNK (17606 in chips) 
+Accio Aces1: posts the ante 200
+anth0nypappa: posts the ante 200
+sinister778: posts the ante 200
+phcrf: posts the ante 200
+joaoMathias: posts the ante 200
+Link_fNK: posts the ante 200
+phcrf: posts small blind 400
+joaoMathias: posts big blind 800
+*** HOLE CARDS ***
+Link_fNK: folds 
+Accio Aces1: folds 
+anth0nypappa: folds 
+sinister778: folds 
+phcrf: raises 11225 to 12025 and is all-in
+joaoMathias: calls 8700 and is all-in
+Uncalled bet (2525) returned to phcrf
+*** FLOP *** [5h Kc Th]
+*** TURN *** [5h Kc Th] [Ks]
+*** RIVER *** [5h Kc Th Ks] [Jd]
+*** SHOW DOWN ***
+phcrf: shows [Js 6s] (two pair, Kings and Jacks)
+joaoMathias: shows [9h 9s] (two pair, Kings and Nines)
+phcrf collected 20200 from pot
+joaoMathias finished the tournament
+*** SUMMARY ***
+Total pot 20200 | Rake 0 
+Board [5h Kc Th Ks Jd]
+Seat 1: Accio Aces1 folded before Flop (didn't bet)
+Seat 2: anth0nypappa folded before Flop (didn't bet)
+Seat 3: sinister778 (button) folded before Flop (didn't bet)
+Seat 4: phcrf (small blind) showed [Js 6s] and won (20200) with two pair, Kings and Jacks
+Seat 5: joaoMathias (big blind) showed [9h 9s] and lost with two pair, Kings and Nines
+Seat 6: Link_fNK folded before Flop (didn't bet)
+
+PokerStars Hand #251209652982: Tournament #3769361908, $52.38+$2.62 USD Hold'em No Limit - Level XIII (400/800) - 2024/06/26 22:38:55 UTC [2024/06/26 18:38:55 ET]
+Table '3769361908 1' 6-max Seat #4 is the button
+Seat 1: Accio Aces1 (36694 in chips) 
+Seat 2: anth0nypappa (2342 in chips) is sitting out
+Seat 3: sinister778 (34596 in chips) 
+Seat 4: phcrf (22725 in chips) 
+Seat 6: Link_fNK (17406 in chips) 
+Accio Aces1: posts the ante 200
+anth0nypappa: posts the ante 200
+sinister778: posts the ante 200
+phcrf: posts the ante 200
+Link_fNK: posts the ante 200
+Link_fNK: posts small blind 400
+Accio Aces1: posts big blind 800
+*** HOLE CARDS ***
+anth0nypappa: folds 
+sinister778: folds 
+phcrf: raises 800 to 1600
+Link_fNK: folds 
+Accio Aces1: raises 34894 to 36494 and is all-in
+phcrf: calls 20925 and is all-in
+Uncalled bet (13969) returned to Accio Aces1
+*** FLOP *** [Qh 9c 8s]
+*** TURN *** [Qh 9c 8s] [4h]
+*** RIVER *** [Qh 9c 8s 4h] [5d]
+*** SHOW DOWN ***
+Accio Aces1: shows [5s 4s] (two pair, Fives and Fours)
+phcrf: shows [As Kh] (high card Ace)
+Accio Aces1 collected 46450 from pot
+phcrf finished the tournament
+*** SUMMARY ***
+Total pot 46450 | Rake 0 
+Board [Qh 9c 8s 4h 5d]
+Seat 1: Accio Aces1 (big blind) showed [5s 4s] and won (46450) with two pair, Fives and Fours
+Seat 2: anth0nypappa folded before Flop (didn't bet)
+Seat 3: sinister778 folded before Flop (didn't bet)
+Seat 4: phcrf (button) showed [As Kh] and lost with high card Ace
+Seat 6: Link_fNK (small blind) folded before Flop

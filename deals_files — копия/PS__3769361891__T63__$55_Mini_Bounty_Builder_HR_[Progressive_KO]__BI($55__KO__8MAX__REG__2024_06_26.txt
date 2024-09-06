@@ -1,0 +1,1317 @@
+PokerStars Hand #251203963696: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IV (200/400) - 2024/06/26 17:09:40 UTC [2024/06/26 13:09:40 ET]
+Table '3769361891 63' 8-max Seat #3 is the button
+Seat 1: offQbert45 (24879 in chips, $25 bounty) 
+Seat 2: LittmannIgor (31963 in chips, $25 bounty) 
+Seat 3: theMortyT (9844 in chips, $25 bounty) 
+Seat 4: Paulo And07 (24330 in chips, $25 bounty) 
+Seat 5: greekdavas (23654 in chips, $25 bounty) 
+Seat 6: Zeeusica (26896 in chips, $25 bounty) 
+Seat 7: blindglory23 (51455 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (24880 in chips, $25 bounty) 
+offQbert45: posts the ante 60
+LittmannIgor: posts the ante 60
+theMortyT: posts the ante 60
+Paulo And07: posts the ante 60
+greekdavas: posts the ante 60
+Zeeusica: posts the ante 60
+blindglory23: posts the ante 60
+LivingLegen7: posts the ante 60
+Paulo And07: posts small blind 200
+greekdavas: posts big blind 400
+*** HOLE CARDS ***
+Zeeusica: folds 
+blindglory23: raises 512 to 912
+LivingLegen7: folds 
+offQbert45: folds 
+LittmannIgor: folds 
+theMortyT: calls 912
+Paulo And07: folds 
+greekdavas: calls 512
+*** FLOP *** [8h 9d Jd]
+greekdavas: checks 
+blindglory23: bets 2181
+theMortyT: folds 
+greekdavas: folds 
+Uncalled bet (2181) returned to blindglory23
+blindglory23 collected 3416 from pot
+*** SUMMARY ***
+Total pot 3416 | Rake 0 
+Board [8h 9d Jd]
+Seat 1: offQbert45 folded before Flop (didn't bet)
+Seat 2: LittmannIgor folded before Flop (didn't bet)
+Seat 3: theMortyT (button) folded on the Flop
+Seat 4: Paulo And07 (small blind) folded before Flop
+Seat 5: greekdavas (big blind) folded on the Flop
+Seat 6: Zeeusica folded before Flop (didn't bet)
+Seat 7: blindglory23 collected (3416)
+Seat 8: LivingLegen7 folded before Flop (didn't bet)
+
+PokerStars Hand #251203977281: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IV (200/400) - 2024/06/26 17:10:41 UTC [2024/06/26 13:10:41 ET]
+Table '3769361891 63' 8-max Seat #4 is the button
+Seat 1: offQbert45 (24819 in chips, $25 bounty) 
+Seat 2: LittmannIgor (31903 in chips, $25 bounty) 
+Seat 3: theMortyT (8872 in chips, $25 bounty) 
+Seat 4: Paulo And07 (24070 in chips, $25 bounty) 
+Seat 5: greekdavas (22682 in chips, $25 bounty) 
+Seat 6: Zeeusica (26836 in chips, $25 bounty) 
+Seat 7: blindglory23 (53899 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (24820 in chips, $25 bounty) 
+offQbert45: posts the ante 60
+LittmannIgor: posts the ante 60
+theMortyT: posts the ante 60
+Paulo And07: posts the ante 60
+greekdavas: posts the ante 60
+Zeeusica: posts the ante 60
+blindglory23: posts the ante 60
+LivingLegen7: posts the ante 60
+greekdavas: posts small blind 200
+Zeeusica: posts big blind 400
+*** HOLE CARDS ***
+blindglory23: folds 
+LivingLegen7: folds 
+offQbert45: raises 400 to 800
+LittmannIgor: folds 
+theMortyT: raises 8012 to 8812 and is all-in
+Paulo And07: folds 
+greekdavas: folds 
+Zeeusica: folds 
+offQbert45: folds 
+Uncalled bet (8012) returned to theMortyT
+theMortyT collected 2680 from pot
+*** SUMMARY ***
+Total pot 2680 | Rake 0 
+Seat 1: offQbert45 folded before Flop
+Seat 2: LittmannIgor folded before Flop (didn't bet)
+Seat 3: theMortyT collected (2680)
+Seat 4: Paulo And07 (button) folded before Flop (didn't bet)
+Seat 5: greekdavas (small blind) folded before Flop
+Seat 6: Zeeusica (big blind) folded before Flop
+Seat 7: blindglory23 folded before Flop (didn't bet)
+Seat 8: LivingLegen7 folded before Flop (didn't bet)
+
+PokerStars Hand #251203987207: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IV (200/400) - 2024/06/26 17:11:27 UTC [2024/06/26 13:11:27 ET]
+Table '3769361891 63' 8-max Seat #5 is the button
+Seat 1: offQbert45 (23959 in chips, $25 bounty) 
+Seat 2: LittmannIgor (31843 in chips, $25 bounty) 
+Seat 3: theMortyT (10692 in chips, $25 bounty) 
+Seat 4: Paulo And07 (24010 in chips, $25 bounty) 
+Seat 5: greekdavas (22422 in chips, $25 bounty) 
+Seat 6: Zeeusica (26376 in chips, $25 bounty) 
+Seat 7: blindglory23 (53839 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (24760 in chips, $25 bounty) 
+offQbert45: posts the ante 60
+LittmannIgor: posts the ante 60
+theMortyT: posts the ante 60
+Paulo And07: posts the ante 60
+greekdavas: posts the ante 60
+Zeeusica: posts the ante 60
+blindglory23: posts the ante 60
+LivingLegen7: posts the ante 60
+Zeeusica: posts small blind 200
+blindglory23: posts big blind 400
+*** HOLE CARDS ***
+LivingLegen7: raises 400 to 800
+offQbert45: folds 
+LittmannIgor: folds 
+theMortyT: folds 
+Paulo And07: folds 
+greekdavas: folds 
+Zeeusica: calls 600
+blindglory23: raises 9600 to 10400
+LivingLegen7: raises 14300 to 24700 and is all-in
+Zeeusica: folds 
+blindglory23: calls 14300
+*** FLOP *** [As Kc 5d]
+*** TURN *** [As Kc 5d] [Qs]
+*** RIVER *** [As Kc 5d Qs] [9s]
+*** SHOW DOWN ***
+blindglory23: shows [Ks Ad] (two pair, Aces and Kings)
+LivingLegen7: shows [Ah Kd] (two pair, Aces and Kings)
+blindglory23 collected 25340 from pot
+LivingLegen7 collected 25340 from pot
+*** SUMMARY ***
+Total pot 50680 | Rake 0 
+Board [As Kc 5d Qs 9s]
+Seat 1: offQbert45 folded before Flop (didn't bet)
+Seat 2: LittmannIgor folded before Flop (didn't bet)
+Seat 3: theMortyT folded before Flop (didn't bet)
+Seat 4: Paulo And07 folded before Flop (didn't bet)
+Seat 5: greekdavas (button) folded before Flop (didn't bet)
+Seat 6: Zeeusica (small blind) folded before Flop
+Seat 7: blindglory23 (big blind) showed [Ks Ad] and won (25340) with two pair, Aces and Kings
+Seat 8: LivingLegen7 showed [Ah Kd] and won (25340) with two pair, Aces and Kings
+
+PokerStars Hand #251203994894: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IV (200/400) - 2024/06/26 17:12:02 UTC [2024/06/26 13:12:02 ET]
+Table '3769361891 63' 8-max Seat #6 is the button
+Seat 1: offQbert45 (23899 in chips, $25 bounty) 
+Seat 2: LittmannIgor (31783 in chips, $25 bounty) 
+Seat 3: theMortyT (10632 in chips, $25 bounty) 
+Seat 4: Paulo And07 (23950 in chips, $25 bounty) 
+Seat 5: greekdavas (22362 in chips, $25 bounty) 
+Seat 6: Zeeusica (25516 in chips, $25 bounty) 
+Seat 7: blindglory23 (54419 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (25340 in chips, $25 bounty) 
+offQbert45: posts the ante 60
+LittmannIgor: posts the ante 60
+theMortyT: posts the ante 60
+Paulo And07: posts the ante 60
+greekdavas: posts the ante 60
+Zeeusica: posts the ante 60
+blindglory23: posts the ante 60
+LivingLegen7: posts the ante 60
+blindglory23: posts small blind 200
+LivingLegen7: posts big blind 400
+*** HOLE CARDS ***
+offQbert45: folds 
+LittmannIgor: raises 400 to 800
+theMortyT: folds 
+Paulo And07: folds 
+greekdavas: folds 
+Zeeusica: folds 
+blindglory23: folds 
+LivingLegen7: calls 400
+*** FLOP *** [Jh 2h 3d]
+LivingLegen7: checks 
+LittmannIgor: bets 752
+LivingLegen7: folds 
+Uncalled bet (752) returned to LittmannIgor
+LittmannIgor collected 2280 from pot
+LittmannIgor: doesn't show hand 
+*** SUMMARY ***
+Total pot 2280 | Rake 0 
+Board [Jh 2h 3d]
+Seat 1: offQbert45 folded before Flop (didn't bet)
+Seat 2: LittmannIgor collected (2280)
+Seat 3: theMortyT folded before Flop (didn't bet)
+Seat 4: Paulo And07 folded before Flop (didn't bet)
+Seat 5: greekdavas folded before Flop (didn't bet)
+Seat 6: Zeeusica (button) folded before Flop (didn't bet)
+Seat 7: blindglory23 (small blind) folded before Flop
+Seat 8: LivingLegen7 (big blind) folded on the Flop
+
+PokerStars Hand #251204001692: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IV (200/400) - 2024/06/26 17:12:33 UTC [2024/06/26 13:12:33 ET]
+Table '3769361891 63' 8-max Seat #7 is the button
+Seat 1: offQbert45 (23839 in chips, $25 bounty) 
+Seat 2: LittmannIgor (33203 in chips, $25 bounty) 
+Seat 3: theMortyT (10572 in chips, $25 bounty) 
+Seat 4: Paulo And07 (23890 in chips, $25 bounty) 
+Seat 5: greekdavas (22302 in chips, $25 bounty) 
+Seat 6: Zeeusica (25456 in chips, $25 bounty) 
+Seat 7: blindglory23 (54159 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (24480 in chips, $25 bounty) 
+offQbert45: posts the ante 60
+LittmannIgor: posts the ante 60
+theMortyT: posts the ante 60
+Paulo And07: posts the ante 60
+greekdavas: posts the ante 60
+Zeeusica: posts the ante 60
+blindglory23: posts the ante 60
+LivingLegen7: posts the ante 60
+LivingLegen7: posts small blind 200
+offQbert45: posts big blind 400
+*** HOLE CARDS ***
+LittmannIgor: raises 400 to 800
+theMortyT: calls 800
+Paulo And07: folds 
+greekdavas: calls 800
+Zeeusica: calls 800
+blindglory23: folds 
+LivingLegen7: calls 600
+offQbert45: folds 
+*** FLOP *** [Ts 5c Qc]
+LivingLegen7: checks 
+LittmannIgor: checks 
+theMortyT: checks 
+greekdavas: checks 
+Zeeusica: checks 
+*** TURN *** [Ts 5c Qc] [2h]
+LivingLegen7: checks 
+LittmannIgor: checks 
+theMortyT: bets 2560
+greekdavas: folds 
+Zeeusica: calls 2560
+LivingLegen7: folds 
+LittmannIgor: folds 
+*** RIVER *** [Ts 5c Qc 2h] [4c]
+theMortyT: bets 7152 and is all-in
+Zeeusica: folds 
+Uncalled bet (7152) returned to theMortyT
+theMortyT collected 10000 from pot
+*** SUMMARY ***
+Total pot 10000 | Rake 0 
+Board [Ts 5c Qc 2h 4c]
+Seat 1: offQbert45 (big blind) folded before Flop
+Seat 2: LittmannIgor folded on the Turn
+Seat 3: theMortyT collected (10000)
+Seat 4: Paulo And07 folded before Flop (didn't bet)
+Seat 5: greekdavas folded on the Turn
+Seat 6: Zeeusica folded on the River
+Seat 7: blindglory23 (button) folded before Flop (didn't bet)
+Seat 8: LivingLegen7 (small blind) folded on the Turn
+
+PokerStars Hand #251204018763: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IV (200/400) - 2024/06/26 17:13:50 UTC [2024/06/26 13:13:50 ET]
+Table '3769361891 63' 8-max Seat #8 is the button
+Seat 1: offQbert45 (23379 in chips, $25 bounty) 
+Seat 2: LittmannIgor (32343 in chips, $25 bounty) 
+Seat 3: theMortyT (17152 in chips, $25 bounty) 
+Seat 4: Paulo And07 (23830 in chips, $25 bounty) 
+Seat 5: greekdavas (21442 in chips, $25 bounty) 
+Seat 6: Zeeusica (22036 in chips, $25 bounty) 
+Seat 7: blindglory23 (54099 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (23620 in chips, $25 bounty) 
+offQbert45: posts the ante 60
+LittmannIgor: posts the ante 60
+theMortyT: posts the ante 60
+Paulo And07: posts the ante 60
+greekdavas: posts the ante 60
+Zeeusica: posts the ante 60
+blindglory23: posts the ante 60
+LivingLegen7: posts the ante 60
+offQbert45: posts small blind 200
+LittmannIgor: posts big blind 400
+*** HOLE CARDS ***
+theMortyT: folds 
+Paulo And07: folds 
+greekdavas: folds 
+Zeeusica: folds 
+blindglory23: raises 512 to 912
+LivingLegen7: calls 912
+offQbert45: folds 
+LittmannIgor: folds 
+*** FLOP *** [Ac Ks 2d]
+blindglory23: bets 1045
+LivingLegen7: calls 1045
+*** TURN *** [Ac Ks 2d] [Tc]
+blindglory23: checks 
+LivingLegen7: bets 1200
+blindglory23: calls 1200
+*** RIVER *** [Ac Ks 2d Tc] [Jc]
+blindglory23: bets 4289
+LivingLegen7: folds 
+Uncalled bet (4289) returned to blindglory23
+blindglory23 collected 7394 from pot
+*** SUMMARY ***
+Total pot 7394 | Rake 0 
+Board [Ac Ks 2d Tc Jc]
+Seat 1: offQbert45 (small blind) folded before Flop
+Seat 2: LittmannIgor (big blind) folded before Flop
+Seat 3: theMortyT folded before Flop (didn't bet)
+Seat 4: Paulo And07 folded before Flop (didn't bet)
+Seat 5: greekdavas folded before Flop (didn't bet)
+Seat 6: Zeeusica folded before Flop (didn't bet)
+Seat 7: blindglory23 collected (7394)
+Seat 8: LivingLegen7 (button) folded on the River
+
+PokerStars Hand #251204030675: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IV (200/400) - 2024/06/26 17:14:44 UTC [2024/06/26 13:14:44 ET]
+Table '3769361891 63' 8-max Seat #1 is the button
+Seat 1: offQbert45 (23119 in chips, $25 bounty) 
+Seat 2: LittmannIgor (31883 in chips, $25 bounty) 
+Seat 3: theMortyT (17092 in chips, $25 bounty) 
+Seat 4: Paulo And07 (23770 in chips, $25 bounty) 
+Seat 5: greekdavas (21382 in chips, $25 bounty) 
+Seat 6: Zeeusica (21976 in chips, $25 bounty) 
+Seat 7: blindglory23 (58276 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (20403 in chips, $25 bounty) 
+offQbert45: posts the ante 60
+LittmannIgor: posts the ante 60
+theMortyT: posts the ante 60
+Paulo And07: posts the ante 60
+greekdavas: posts the ante 60
+Zeeusica: posts the ante 60
+blindglory23: posts the ante 60
+LivingLegen7: posts the ante 60
+LittmannIgor: posts small blind 200
+theMortyT: posts big blind 400
+*** HOLE CARDS ***
+Paulo And07: folds 
+greekdavas: folds 
+Zeeusica: folds 
+blindglory23: raises 512 to 912
+LivingLegen7: folds 
+offQbert45: folds 
+LittmannIgor: folds 
+theMortyT: calls 512
+*** FLOP *** [Tc 6c 3c]
+theMortyT: checks 
+blindglory23: bets 901
+theMortyT: calls 901
+*** TURN *** [Tc 6c 3c] [3s]
+theMortyT: checks 
+blindglory23: checks 
+*** RIVER *** [Tc 6c 3c 3s] [3h]
+theMortyT: bets 3480
+blindglory23: calls 3480
+*** SHOW DOWN ***
+theMortyT: shows [Qc 7h] (three of a kind, Threes)
+blindglory23: shows [6s Ah] (a full house, Threes full of Sixes)
+blindglory23 collected 11266 from pot
+*** SUMMARY ***
+Total pot 11266 | Rake 0 
+Board [Tc 6c 3c 3s 3h]
+Seat 1: offQbert45 (button) folded before Flop (didn't bet)
+Seat 2: LittmannIgor (small blind) folded before Flop
+Seat 3: theMortyT (big blind) showed [Qc 7h] and lost with three of a kind, Threes
+Seat 4: Paulo And07 folded before Flop (didn't bet)
+Seat 5: greekdavas folded before Flop (didn't bet)
+Seat 6: Zeeusica folded before Flop (didn't bet)
+Seat 7: blindglory23 showed [6s Ah] and won (11266) with a full house, Threes full of Sixes
+Seat 8: LivingLegen7 folded before Flop (didn't bet)
+
+PokerStars Hand #251204046179: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IV (200/400) - 2024/06/26 17:15:55 UTC [2024/06/26 13:15:55 ET]
+Table '3769361891 63' 8-max Seat #2 is the button
+Seat 1: offQbert45 (23059 in chips, $25 bounty) 
+Seat 2: LittmannIgor (31623 in chips, $25 bounty) 
+Seat 3: theMortyT (11739 in chips, $25 bounty) 
+Seat 4: Paulo And07 (23710 in chips, $25 bounty) 
+Seat 5: greekdavas (21322 in chips, $25 bounty) 
+Seat 6: Zeeusica (21916 in chips, $25 bounty) 
+Seat 7: blindglory23 (64189 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (20343 in chips, $25 bounty) 
+offQbert45: posts the ante 60
+LittmannIgor: posts the ante 60
+theMortyT: posts the ante 60
+Paulo And07: posts the ante 60
+greekdavas: posts the ante 60
+Zeeusica: posts the ante 60
+blindglory23: posts the ante 60
+LivingLegen7: posts the ante 60
+theMortyT: posts small blind 200
+Paulo And07: posts big blind 400
+*** HOLE CARDS ***
+greekdavas: folds 
+Zeeusica: folds 
+blindglory23: folds 
+LivingLegen7: folds 
+offQbert45: folds 
+LittmannIgor: folds 
+theMortyT: folds 
+Uncalled bet (200) returned to Paulo And07
+Paulo And07 collected 880 from pot
+Paulo And07: doesn't show hand 
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Seat 1: offQbert45 folded before Flop (didn't bet)
+Seat 2: LittmannIgor (button) folded before Flop (didn't bet)
+Seat 3: theMortyT (small blind) folded before Flop
+Seat 4: Paulo And07 (big blind) collected (880)
+Seat 5: greekdavas folded before Flop (didn't bet)
+Seat 6: Zeeusica folded before Flop (didn't bet)
+Seat 7: blindglory23 folded before Flop (didn't bet)
+Seat 8: LivingLegen7 folded before Flop (didn't bet)
+
+PokerStars Hand #251204050906: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IV (200/400) - 2024/06/26 17:16:16 UTC [2024/06/26 13:16:16 ET]
+Table '3769361891 63' 8-max Seat #3 is the button
+Seat 1: offQbert45 (22999 in chips, $25 bounty) 
+Seat 2: LittmannIgor (31563 in chips, $25 bounty) 
+Seat 3: theMortyT (11479 in chips, $25 bounty) 
+Seat 4: Paulo And07 (24330 in chips, $25 bounty) 
+Seat 5: greekdavas (21262 in chips, $25 bounty) 
+Seat 6: Zeeusica (21856 in chips, $25 bounty) 
+Seat 7: blindglory23 (64129 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (20283 in chips, $25 bounty) 
+offQbert45: posts the ante 60
+LittmannIgor: posts the ante 60
+theMortyT: posts the ante 60
+Paulo And07: posts the ante 60
+greekdavas: posts the ante 60
+Zeeusica: posts the ante 60
+blindglory23: posts the ante 60
+LivingLegen7: posts the ante 60
+Paulo And07: posts small blind 200
+greekdavas: posts big blind 400
+*** HOLE CARDS ***
+Zeeusica: folds 
+blindglory23: folds 
+LivingLegen7: folds 
+offQbert45: raises 400 to 800
+LittmannIgor: folds 
+theMortyT: folds 
+Paulo And07: folds 
+greekdavas: folds 
+Uncalled bet (400) returned to offQbert45
+offQbert45 collected 1480 from pot
+offQbert45: doesn't show hand 
+*** SUMMARY ***
+Total pot 1480 | Rake 0 
+Seat 1: offQbert45 collected (1480)
+Seat 2: LittmannIgor folded before Flop (didn't bet)
+Seat 3: theMortyT (button) folded before Flop (didn't bet)
+Seat 4: Paulo And07 (small blind) folded before Flop
+Seat 5: greekdavas (big blind) folded before Flop
+Seat 6: Zeeusica folded before Flop (didn't bet)
+Seat 7: blindglory23 folded before Flop (didn't bet)
+Seat 8: LivingLegen7 folded before Flop (didn't bet)
+
+PokerStars Hand #251204057995: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IV (200/400) - 2024/06/26 17:16:49 UTC [2024/06/26 13:16:49 ET]
+Table '3769361891 63' 8-max Seat #4 is the button
+Seat 1: offQbert45 (24019 in chips, $25 bounty) 
+Seat 2: LittmannIgor (31503 in chips, $25 bounty) 
+Seat 3: theMortyT (11419 in chips, $25 bounty) 
+Seat 4: Paulo And07 (24070 in chips, $25 bounty) 
+Seat 5: greekdavas (20802 in chips, $25 bounty) 
+Seat 6: Zeeusica (21796 in chips, $25 bounty) 
+Seat 7: blindglory23 (64069 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (20223 in chips, $25 bounty) 
+offQbert45: posts the ante 60
+LittmannIgor: posts the ante 60
+theMortyT: posts the ante 60
+Paulo And07: posts the ante 60
+greekdavas: posts the ante 60
+Zeeusica: posts the ante 60
+blindglory23: posts the ante 60
+LivingLegen7: posts the ante 60
+greekdavas: posts small blind 200
+Zeeusica: posts big blind 400
+*** HOLE CARDS ***
+blindglory23: folds 
+LivingLegen7: folds 
+offQbert45: folds 
+LittmannIgor: raises 400 to 800
+theMortyT: folds 
+Paulo And07: folds 
+greekdavas: folds 
+Zeeusica: folds 
+Uncalled bet (400) returned to LittmannIgor
+LittmannIgor collected 1480 from pot
+LittmannIgor: doesn't show hand 
+*** SUMMARY ***
+Total pot 1480 | Rake 0 
+Seat 1: offQbert45 folded before Flop (didn't bet)
+Seat 2: LittmannIgor collected (1480)
+Seat 3: theMortyT folded before Flop (didn't bet)
+Seat 4: Paulo And07 (button) folded before Flop (didn't bet)
+Seat 5: greekdavas (small blind) folded before Flop
+Seat 6: Zeeusica (big blind) folded before Flop
+Seat 7: blindglory23 folded before Flop (didn't bet)
+Seat 8: LivingLegen7 folded before Flop (didn't bet)
+
+PokerStars Hand #251204064194: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level IV (200/400) - 2024/06/26 17:17:17 UTC [2024/06/26 13:17:17 ET]
+Table '3769361891 63' 8-max Seat #5 is the button
+Seat 1: offQbert45 (23959 in chips, $25 bounty) 
+Seat 2: LittmannIgor (32523 in chips, $25 bounty) 
+Seat 3: theMortyT (11359 in chips, $25 bounty) 
+Seat 4: Paulo And07 (24010 in chips, $25 bounty) 
+Seat 5: greekdavas (20542 in chips, $25 bounty) 
+Seat 6: Zeeusica (21336 in chips, $25 bounty) 
+Seat 7: blindglory23 (64009 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (20163 in chips, $25 bounty) 
+offQbert45: posts the ante 60
+LittmannIgor: posts the ante 60
+theMortyT: posts the ante 60
+Paulo And07: posts the ante 60
+greekdavas: posts the ante 60
+Zeeusica: posts the ante 60
+blindglory23: posts the ante 60
+LivingLegen7: posts the ante 60
+Zeeusica: posts small blind 200
+blindglory23: posts big blind 400
+*** HOLE CARDS ***
+LivingLegen7: folds 
+offQbert45: folds 
+LittmannIgor: folds 
+theMortyT: raises 400 to 800
+Paulo And07: folds 
+greekdavas: folds 
+Zeeusica: folds 
+blindglory23: calls 400
+*** FLOP *** [6c 5c Kd]
+blindglory23: checks 
+theMortyT: bets 720
+blindglory23: calls 720
+*** TURN *** [6c 5c Kd] [9c]
+blindglory23: checks 
+theMortyT: bets 1674
+blindglory23: calls 1674
+*** RIVER *** [6c 5c Kd 9c] [Kh]
+blindglory23: checks 
+theMortyT: bets 4200
+blindglory23: calls 4200
+*** SHOW DOWN ***
+theMortyT: shows [Ts Qc] (a pair of Kings)
+blindglory23: shows [7d 6s] (two pair, Kings and Sixes)
+blindglory23 collected 15468 from pot
+*** SUMMARY ***
+Total pot 15468 | Rake 0 
+Board [6c 5c Kd 9c Kh]
+Seat 1: offQbert45 folded before Flop (didn't bet)
+Seat 2: LittmannIgor folded before Flop (didn't bet)
+Seat 3: theMortyT showed [Ts Qc] and lost with a pair of Kings
+Seat 4: Paulo And07 folded before Flop (didn't bet)
+Seat 5: greekdavas (button) folded before Flop (didn't bet)
+Seat 6: Zeeusica (small blind) folded before Flop
+Seat 7: blindglory23 (big blind) showed [7d 6s] and won (15468) with two pair, Kings and Sixes
+Seat 8: LivingLegen7 folded before Flop (didn't bet)
+
+PokerStars Hand #251204078051: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:18:19 UTC [2024/06/26 13:18:19 ET]
+Table '3769361891 63' 8-max Seat #6 is the button
+Seat 1: offQbert45 (23899 in chips, $25 bounty) 
+Seat 2: LittmannIgor (32463 in chips, $25 bounty) 
+Seat 3: theMortyT (3905 in chips, $25 bounty) 
+Seat 4: Paulo And07 (23950 in chips, $25 bounty) 
+Seat 5: greekdavas (20482 in chips, $25 bounty) 
+Seat 6: Zeeusica (21076 in chips, $25 bounty) 
+Seat 7: blindglory23 (72023 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (20103 in chips, $25 bounty) 
+offQbert45: posts the ante 70
+LittmannIgor: posts the ante 70
+theMortyT: posts the ante 70
+Paulo And07: posts the ante 70
+greekdavas: posts the ante 70
+Zeeusica: posts the ante 70
+blindglory23: posts the ante 70
+LivingLegen7: posts the ante 70
+blindglory23: posts small blind 250
+LivingLegen7: posts big blind 500
+*** HOLE CARDS ***
+offQbert45: folds 
+LittmannIgor: folds 
+theMortyT: folds 
+Paulo And07: raises 500 to 1000
+greekdavas: folds 
+Zeeusica: folds 
+blindglory23: folds 
+LivingLegen7: calls 500
+*** FLOP *** [9h 5d Kc]
+LivingLegen7: checks 
+Paulo And07: bets 750
+LivingLegen7: folds 
+Uncalled bet (750) returned to Paulo And07
+Paulo And07 collected 2810 from pot
+Paulo And07: doesn't show hand 
+*** SUMMARY ***
+Total pot 2810 | Rake 0 
+Board [9h 5d Kc]
+Seat 1: offQbert45 folded before Flop (didn't bet)
+Seat 2: LittmannIgor folded before Flop (didn't bet)
+Seat 3: theMortyT folded before Flop (didn't bet)
+Seat 4: Paulo And07 collected (2810)
+Seat 5: greekdavas folded before Flop (didn't bet)
+Seat 6: Zeeusica (button) folded before Flop (didn't bet)
+Seat 7: blindglory23 (small blind) folded before Flop
+Seat 8: LivingLegen7 (big blind) folded on the Flop
+
+PokerStars Hand #251204083663: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:18:44 UTC [2024/06/26 13:18:44 ET]
+Table '3769361891 63' 8-max Seat #7 is the button
+Seat 1: offQbert45 (23829 in chips, $25 bounty) 
+Seat 2: LittmannIgor (32393 in chips, $25 bounty) 
+Seat 3: theMortyT (3835 in chips, $25 bounty) 
+Seat 4: Paulo And07 (25690 in chips, $25 bounty) 
+Seat 5: greekdavas (20412 in chips, $25 bounty) 
+Seat 6: Zeeusica (21006 in chips, $25 bounty) 
+Seat 7: blindglory23 (71703 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (19033 in chips, $25 bounty) 
+offQbert45: posts the ante 70
+LittmannIgor: posts the ante 70
+theMortyT: posts the ante 70
+Paulo And07: posts the ante 70
+greekdavas: posts the ante 70
+Zeeusica: posts the ante 70
+blindglory23: posts the ante 70
+LivingLegen7: posts the ante 70
+LivingLegen7: posts small blind 250
+offQbert45: posts big blind 500
+*** HOLE CARDS ***
+LittmannIgor: folds 
+theMortyT: folds 
+Paulo And07: folds 
+greekdavas: raises 1000 to 1500
+Zeeusica: folds 
+blindglory23: calls 1500
+LivingLegen7: raises 17463 to 18963 and is all-in
+offQbert45: folds 
+greekdavas: folds 
+blindglory23: folds 
+Uncalled bet (17463) returned to LivingLegen7
+LivingLegen7 collected 5560 from pot
+LivingLegen7: doesn't show hand 
+*** SUMMARY ***
+Total pot 5560 | Rake 0 
+Seat 1: offQbert45 (big blind) folded before Flop
+Seat 2: LittmannIgor folded before Flop (didn't bet)
+Seat 3: theMortyT folded before Flop (didn't bet)
+Seat 4: Paulo And07 folded before Flop (didn't bet)
+Seat 5: greekdavas folded before Flop
+Seat 6: Zeeusica folded before Flop (didn't bet)
+Seat 7: blindglory23 (button) folded before Flop
+Seat 8: LivingLegen7 (small blind) collected (5560)
+
+PokerStars Hand #251204092194: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:19:22 UTC [2024/06/26 13:19:22 ET]
+Table '3769361891 63' 8-max Seat #8 is the button
+Seat 1: offQbert45 (23259 in chips, $25 bounty) 
+Seat 2: LittmannIgor (32323 in chips, $25 bounty) 
+Seat 3: theMortyT (3765 in chips, $25 bounty) 
+Seat 4: Paulo And07 (25620 in chips, $25 bounty) 
+Seat 5: greekdavas (18842 in chips, $25 bounty) 
+Seat 6: Zeeusica (20936 in chips, $25 bounty) 
+Seat 7: blindglory23 (70133 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (23023 in chips, $25 bounty) 
+offQbert45: posts the ante 70
+LittmannIgor: posts the ante 70
+theMortyT: posts the ante 70
+Paulo And07: posts the ante 70
+greekdavas: posts the ante 70
+Zeeusica: posts the ante 70
+blindglory23: posts the ante 70
+LivingLegen7: posts the ante 70
+offQbert45: posts small blind 250
+LittmannIgor: posts big blind 500
+*** HOLE CARDS ***
+theMortyT: folds 
+Paulo And07: folds 
+greekdavas: folds 
+Zeeusica: folds 
+blindglory23: folds 
+LivingLegen7: folds 
+offQbert45: raises 750 to 1250
+LittmannIgor: calls 750
+*** FLOP *** [Ah 3d 4c]
+offQbert45: bets 887
+LittmannIgor: calls 887
+*** TURN *** [Ah 3d 4c] [Ts]
+offQbert45: bets 3916
+LittmannIgor: calls 3916
+*** RIVER *** [Ah 3d 4c Ts] [8h]
+offQbert45: bets 10259
+LittmannIgor: raises 15941 to 26200 and is all-in
+offQbert45: folds 
+Uncalled bet (15941) returned to LittmannIgor
+LittmannIgor collected 33184 from pot
+LittmannIgor: doesn't show hand 
+*** SUMMARY ***
+Total pot 33184 | Rake 0 
+Board [Ah 3d 4c Ts 8h]
+Seat 1: offQbert45 (small blind) folded on the River
+Seat 2: LittmannIgor (big blind) collected (33184)
+Seat 3: theMortyT folded before Flop (didn't bet)
+Seat 4: Paulo And07 folded before Flop (didn't bet)
+Seat 5: greekdavas folded before Flop (didn't bet)
+Seat 6: Zeeusica folded before Flop (didn't bet)
+Seat 7: blindglory23 folded before Flop (didn't bet)
+Seat 8: LivingLegen7 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251204112363: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:20:54 UTC [2024/06/26 13:20:54 ET]
+Table '3769361891 63' 8-max Seat #1 is the button
+Seat 1: offQbert45 (6877 in chips, $25 bounty) 
+Seat 2: LittmannIgor (49125 in chips, $25 bounty) 
+Seat 3: theMortyT (3695 in chips, $25 bounty) 
+Seat 4: Paulo And07 (25550 in chips, $25 bounty) 
+Seat 5: greekdavas (18772 in chips, $25 bounty) 
+Seat 6: Zeeusica (20866 in chips, $25 bounty) 
+Seat 7: blindglory23 (70063 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (22953 in chips, $25 bounty) 
+offQbert45: posts the ante 70
+LittmannIgor: posts the ante 70
+theMortyT: posts the ante 70
+Paulo And07: posts the ante 70
+greekdavas: posts the ante 70
+Zeeusica: posts the ante 70
+blindglory23: posts the ante 70
+LivingLegen7: posts the ante 70
+LittmannIgor: posts small blind 250
+theMortyT: posts big blind 500
+*** HOLE CARDS ***
+Paulo And07: folds 
+greekdavas: raises 1000 to 1500
+Zeeusica: calls 1500
+blindglory23: raises 68243 to 69743
+LivingLegen7: folds 
+offQbert45: folds 
+LittmannIgor: folds 
+theMortyT: folds 
+greekdavas: folds 
+Zeeusica: folds 
+Uncalled bet (68243) returned to blindglory23
+blindglory23 collected 5810 from pot
+*** SUMMARY ***
+Total pot 5810 | Rake 0 
+Seat 1: offQbert45 (button) folded before Flop (didn't bet)
+Seat 2: LittmannIgor (small blind) folded before Flop
+Seat 3: theMortyT (big blind) folded before Flop
+Seat 4: Paulo And07 folded before Flop (didn't bet)
+Seat 5: greekdavas folded before Flop
+Seat 6: Zeeusica folded before Flop
+Seat 7: blindglory23 collected (5810)
+Seat 8: LivingLegen7 folded before Flop (didn't bet)
+
+PokerStars Hand #251204125537: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:21:53 UTC [2024/06/26 13:21:53 ET]
+Table '3769361891 63' 8-max Seat #2 is the button
+Seat 1: offQbert45 (6807 in chips, $25 bounty) 
+Seat 2: LittmannIgor (48805 in chips, $25 bounty) 
+Seat 3: theMortyT (3125 in chips, $25 bounty) 
+Seat 4: Paulo And07 (25480 in chips, $25 bounty) 
+Seat 5: greekdavas (17202 in chips, $25 bounty) 
+Seat 6: Zeeusica (19296 in chips, $25 bounty) 
+Seat 7: blindglory23 (74303 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (22883 in chips, $25 bounty) 
+offQbert45: posts the ante 70
+LittmannIgor: posts the ante 70
+theMortyT: posts the ante 70
+Paulo And07: posts the ante 70
+greekdavas: posts the ante 70
+Zeeusica: posts the ante 70
+blindglory23: posts the ante 70
+LivingLegen7: posts the ante 70
+theMortyT: posts small blind 250
+Paulo And07: posts big blind 500
+*** HOLE CARDS ***
+greekdavas: folds 
+Zeeusica: folds 
+blindglory23: folds 
+LivingLegen7: folds 
+offQbert45: raises 6237 to 6737 and is all-in
+LittmannIgor: folds 
+theMortyT: folds 
+Paulo And07: folds 
+Uncalled bet (6237) returned to offQbert45
+offQbert45 collected 1810 from pot
+offQbert45: doesn't show hand 
+*** SUMMARY ***
+Total pot 1810 | Rake 0 
+Seat 1: offQbert45 collected (1810)
+Seat 2: LittmannIgor (button) folded before Flop (didn't bet)
+Seat 3: theMortyT (small blind) folded before Flop
+Seat 4: Paulo And07 (big blind) folded before Flop
+Seat 5: greekdavas folded before Flop (didn't bet)
+Seat 6: Zeeusica folded before Flop (didn't bet)
+Seat 7: blindglory23 folded before Flop (didn't bet)
+Seat 8: LivingLegen7 folded before Flop (didn't bet)
+
+PokerStars Hand #251204129797: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:22:12 UTC [2024/06/26 13:22:12 ET]
+Table '3769361891 63' 8-max Seat #3 is the button
+Seat 1: offQbert45 (8047 in chips, $25 bounty) 
+Seat 2: LittmannIgor (48735 in chips, $25 bounty) 
+Seat 3: theMortyT (2805 in chips, $25 bounty) 
+Seat 4: Paulo And07 (24910 in chips, $25 bounty) 
+Seat 5: greekdavas (17132 in chips, $25 bounty) 
+Seat 6: Zeeusica (19226 in chips, $25 bounty) 
+Seat 7: blindglory23 (74233 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (22813 in chips, $25 bounty) 
+offQbert45: posts the ante 70
+LittmannIgor: posts the ante 70
+theMortyT: posts the ante 70
+Paulo And07: posts the ante 70
+greekdavas: posts the ante 70
+Zeeusica: posts the ante 70
+blindglory23: posts the ante 70
+LivingLegen7: posts the ante 70
+Paulo And07: posts small blind 250
+greekdavas: posts big blind 500
+*** HOLE CARDS ***
+Zeeusica: calls 500
+blindglory23: folds 
+LivingLegen7: raises 22243 to 22743 and is all-in
+offQbert45: folds 
+LittmannIgor: folds 
+theMortyT: folds 
+Paulo And07: folds 
+greekdavas: folds 
+Zeeusica: folds 
+Uncalled bet (22243) returned to LivingLegen7
+LivingLegen7 collected 2310 from pot
+LivingLegen7: doesn't show hand 
+*** SUMMARY ***
+Total pot 2310 | Rake 0 
+Seat 1: offQbert45 folded before Flop (didn't bet)
+Seat 2: LittmannIgor folded before Flop (didn't bet)
+Seat 3: theMortyT (button) folded before Flop (didn't bet)
+Seat 4: Paulo And07 (small blind) folded before Flop
+Seat 5: greekdavas (big blind) folded before Flop
+Seat 6: Zeeusica folded before Flop
+Seat 7: blindglory23 folded before Flop (didn't bet)
+Seat 8: LivingLegen7 collected (2310)
+
+PokerStars Hand #251204135076: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:22:36 UTC [2024/06/26 13:22:36 ET]
+Table '3769361891 63' 8-max Seat #4 is the button
+Seat 1: offQbert45 (7977 in chips, $25 bounty) 
+Seat 2: LittmannIgor (48665 in chips, $25 bounty) 
+Seat 3: theMortyT (2735 in chips, $25 bounty) 
+Seat 4: Paulo And07 (24590 in chips, $25 bounty) 
+Seat 5: greekdavas (16562 in chips, $25 bounty) 
+Seat 6: Zeeusica (18656 in chips, $25 bounty) 
+Seat 7: blindglory23 (74163 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (24553 in chips, $25 bounty) 
+offQbert45: posts the ante 70
+LittmannIgor: posts the ante 70
+theMortyT: posts the ante 70
+Paulo And07: posts the ante 70
+greekdavas: posts the ante 70
+Zeeusica: posts the ante 70
+blindglory23: posts the ante 70
+LivingLegen7: posts the ante 70
+greekdavas: posts small blind 250
+Zeeusica: posts big blind 500
+*** HOLE CARDS ***
+blindglory23: raises 640 to 1140
+LivingLegen7: folds 
+offQbert45: folds 
+LittmannIgor: calls 1140
+theMortyT: folds 
+Paulo And07: folds 
+greekdavas: folds 
+Zeeusica: calls 640
+*** FLOP *** [Ts Tc 4h]
+Zeeusica: checks 
+blindglory23: checks 
+LittmannIgor: checks 
+*** TURN *** [Ts Tc 4h] [3c]
+Zeeusica: checks 
+blindglory23: checks 
+LittmannIgor: checks 
+*** RIVER *** [Ts Tc 4h 3c] [Ad]
+Zeeusica: checks 
+blindglory23: bets 2703
+LittmannIgor: calls 2703
+Zeeusica: folds 
+*** SHOW DOWN ***
+blindglory23: shows [6d Kd] (a pair of Tens)
+LittmannIgor: shows [Ah 2h] (two pair, Aces and Tens)
+LittmannIgor collected 9636 from pot
+*** SUMMARY ***
+Total pot 9636 | Rake 0 
+Board [Ts Tc 4h 3c Ad]
+Seat 1: offQbert45 folded before Flop (didn't bet)
+Seat 2: LittmannIgor showed [Ah 2h] and won (9636) with two pair, Aces and Tens
+Seat 3: theMortyT folded before Flop (didn't bet)
+Seat 4: Paulo And07 (button) folded before Flop (didn't bet)
+Seat 5: greekdavas (small blind) folded before Flop
+Seat 6: Zeeusica (big blind) folded on the River
+Seat 7: blindglory23 showed [6d Kd] and lost with a pair of Tens
+Seat 8: LivingLegen7 folded before Flop (didn't bet)
+
+PokerStars Hand #251204146567: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:23:27 UTC [2024/06/26 13:23:27 ET]
+Table '3769361891 63' 8-max Seat #5 is the button
+Seat 1: offQbert45 (7907 in chips, $25 bounty) 
+Seat 2: LittmannIgor (54388 in chips, $25 bounty) 
+Seat 3: theMortyT (2665 in chips, $25 bounty) 
+Seat 4: Paulo And07 (24520 in chips, $25 bounty) 
+Seat 5: greekdavas (16242 in chips, $25 bounty) 
+Seat 6: Zeeusica (17446 in chips, $25 bounty) 
+Seat 7: blindglory23 (70250 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (24483 in chips, $25 bounty) 
+offQbert45: posts the ante 70
+LittmannIgor: posts the ante 70
+theMortyT: posts the ante 70
+Paulo And07: posts the ante 70
+greekdavas: posts the ante 70
+Zeeusica: posts the ante 70
+blindglory23: posts the ante 70
+LivingLegen7: posts the ante 70
+Zeeusica: posts small blind 250
+blindglory23: posts big blind 500
+*** HOLE CARDS ***
+LivingLegen7: folds 
+offQbert45: folds 
+LittmannIgor: folds 
+theMortyT: folds 
+Paulo And07: folds 
+greekdavas: folds 
+Zeeusica: folds 
+Uncalled bet (250) returned to blindglory23
+blindglory23 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Seat 1: offQbert45 folded before Flop (didn't bet)
+Seat 2: LittmannIgor folded before Flop (didn't bet)
+Seat 3: theMortyT folded before Flop (didn't bet)
+Seat 4: Paulo And07 folded before Flop (didn't bet)
+Seat 5: greekdavas (button) folded before Flop (didn't bet)
+Seat 6: Zeeusica (small blind) folded before Flop
+Seat 7: blindglory23 (big blind) collected (1060)
+Seat 8: LivingLegen7 folded before Flop (didn't bet)
+
+PokerStars Hand #251204149305: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:23:40 UTC [2024/06/26 13:23:40 ET]
+Table '3769361891 63' 8-max Seat #6 is the button
+Seat 1: offQbert45 (7837 in chips, $25 bounty) 
+Seat 2: LittmannIgor (54318 in chips, $25 bounty) 
+Seat 3: theMortyT (2595 in chips, $25 bounty) 
+Seat 4: Paulo And07 (24450 in chips, $25 bounty) 
+Seat 5: greekdavas (16172 in chips, $25 bounty) 
+Seat 6: Zeeusica (17126 in chips, $25 bounty) 
+Seat 7: blindglory23 (70990 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (24413 in chips, $25 bounty) 
+offQbert45: posts the ante 70
+LittmannIgor: posts the ante 70
+theMortyT: posts the ante 70
+Paulo And07: posts the ante 70
+greekdavas: posts the ante 70
+Zeeusica: posts the ante 70
+blindglory23: posts the ante 70
+LivingLegen7: posts the ante 70
+blindglory23: posts small blind 250
+LivingLegen7: posts big blind 500
+*** HOLE CARDS ***
+offQbert45: folds 
+LittmannIgor: folds 
+theMortyT: folds 
+Paulo And07: folds 
+greekdavas: raises 1500 to 2000
+Zeeusica: folds 
+blindglory23: folds 
+LivingLegen7: folds 
+Uncalled bet (1500) returned to greekdavas
+greekdavas collected 1810 from pot
+*** SUMMARY ***
+Total pot 1810 | Rake 0 
+Seat 1: offQbert45 folded before Flop (didn't bet)
+Seat 2: LittmannIgor folded before Flop (didn't bet)
+Seat 3: theMortyT folded before Flop (didn't bet)
+Seat 4: Paulo And07 folded before Flop (didn't bet)
+Seat 5: greekdavas collected (1810)
+Seat 6: Zeeusica (button) folded before Flop (didn't bet)
+Seat 7: blindglory23 (small blind) folded before Flop
+Seat 8: LivingLegen7 (big blind) folded before Flop
+
+PokerStars Hand #251204153776: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:24:00 UTC [2024/06/26 13:24:00 ET]
+Table '3769361891 63' 8-max Seat #7 is the button
+Seat 1: offQbert45 (7767 in chips, $25 bounty) 
+Seat 2: LittmannIgor (54248 in chips, $25 bounty) 
+Seat 3: theMortyT (2525 in chips, $25 bounty) 
+Seat 4: Paulo And07 (24380 in chips, $25 bounty) 
+Seat 5: greekdavas (17412 in chips, $25 bounty) 
+Seat 6: Zeeusica (17056 in chips, $25 bounty) 
+Seat 7: blindglory23 (70670 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (23843 in chips, $25 bounty) 
+offQbert45: posts the ante 70
+LittmannIgor: posts the ante 70
+theMortyT: posts the ante 70
+Paulo And07: posts the ante 70
+greekdavas: posts the ante 70
+Zeeusica: posts the ante 70
+blindglory23: posts the ante 70
+LivingLegen7: posts the ante 70
+LivingLegen7: posts small blind 250
+offQbert45: posts big blind 500
+*** HOLE CARDS ***
+LittmannIgor: folds 
+theMortyT: folds 
+Paulo And07: folds 
+greekdavas: raises 1000 to 1500
+Zeeusica: folds 
+blindglory23: calls 1500
+LivingLegen7: raises 22273 to 23773 and is all-in
+offQbert45: folds 
+greekdavas: folds 
+blindglory23: folds 
+Uncalled bet (22273) returned to LivingLegen7
+LivingLegen7 collected 5560 from pot
+LivingLegen7: doesn't show hand 
+*** SUMMARY ***
+Total pot 5560 | Rake 0 
+Seat 1: offQbert45 (big blind) folded before Flop
+Seat 2: LittmannIgor folded before Flop (didn't bet)
+Seat 3: theMortyT folded before Flop (didn't bet)
+Seat 4: Paulo And07 folded before Flop (didn't bet)
+Seat 5: greekdavas folded before Flop
+Seat 6: Zeeusica folded before Flop (didn't bet)
+Seat 7: blindglory23 (button) folded before Flop
+Seat 8: LivingLegen7 (small blind) collected (5560)
+
+PokerStars Hand #251204159760: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:24:26 UTC [2024/06/26 13:24:26 ET]
+Table '3769361891 63' 8-max Seat #8 is the button
+Seat 1: offQbert45 (7197 in chips, $25 bounty) 
+Seat 2: LittmannIgor (54178 in chips, $25 bounty) 
+Seat 3: theMortyT (2455 in chips, $25 bounty) 
+Seat 4: Paulo And07 (24310 in chips, $25 bounty) 
+Seat 5: greekdavas (15842 in chips, $25 bounty) 
+Seat 6: Zeeusica (16986 in chips, $25 bounty) 
+Seat 7: blindglory23 (69100 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (27833 in chips, $25 bounty) 
+offQbert45: posts the ante 70
+LittmannIgor: posts the ante 70
+theMortyT: posts the ante 70
+Paulo And07: posts the ante 70
+greekdavas: posts the ante 70
+Zeeusica: posts the ante 70
+blindglory23: posts the ante 70
+LivingLegen7: posts the ante 70
+offQbert45: posts small blind 250
+LittmannIgor: posts big blind 500
+*** HOLE CARDS ***
+theMortyT: folds 
+Paulo And07: folds 
+greekdavas: calls 500
+Zeeusica: folds 
+blindglory23: folds 
+LivingLegen7: folds 
+offQbert45: folds 
+LittmannIgor: checks 
+*** FLOP *** [7c 5h Qh]
+LittmannIgor: checks 
+greekdavas: bets 905
+LittmannIgor: calls 905
+*** TURN *** [7c 5h Qh] [2s]
+LittmannIgor: checks 
+greekdavas: checks 
+*** RIVER *** [7c 5h Qh 2s] [9s]
+LittmannIgor: checks 
+greekdavas: checks 
+*** SHOW DOWN ***
+LittmannIgor: shows [4h 6d] (high card Queen)
+greekdavas: shows [Jh Kc] (high card King)
+greekdavas collected 3620 from pot
+*** SUMMARY ***
+Total pot 3620 | Rake 0 
+Board [7c 5h Qh 2s 9s]
+Seat 1: offQbert45 (small blind) folded before Flop
+Seat 2: LittmannIgor (big blind) showed [4h 6d] and lost with high card Queen
+Seat 3: theMortyT folded before Flop (didn't bet)
+Seat 4: Paulo And07 folded before Flop (didn't bet)
+Seat 5: greekdavas showed [Jh Kc] and won (3620) with high card King
+Seat 6: Zeeusica folded before Flop (didn't bet)
+Seat 7: blindglory23 folded before Flop (didn't bet)
+Seat 8: LivingLegen7 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251204169225: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:25:08 UTC [2024/06/26 13:25:08 ET]
+Table '3769361891 63' 8-max Seat #1 is the button
+Seat 1: offQbert45 (6877 in chips, $25 bounty) 
+Seat 2: LittmannIgor (52703 in chips, $25 bounty) 
+Seat 3: theMortyT (2385 in chips, $25 bounty) 
+Seat 4: Paulo And07 (24240 in chips, $25 bounty) 
+Seat 5: greekdavas (17987 in chips, $25 bounty) 
+Seat 6: Zeeusica (16916 in chips, $25 bounty) 
+Seat 7: blindglory23 (69030 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (27763 in chips, $25 bounty) 
+offQbert45: posts the ante 70
+LittmannIgor: posts the ante 70
+theMortyT: posts the ante 70
+Paulo And07: posts the ante 70
+greekdavas: posts the ante 70
+Zeeusica: posts the ante 70
+blindglory23: posts the ante 70
+LivingLegen7: posts the ante 70
+LittmannIgor: posts small blind 250
+theMortyT: posts big blind 500
+*** HOLE CARDS ***
+Paulo And07: folds 
+greekdavas: folds 
+Zeeusica: calls 500
+blindglory23: raises 1195 to 1695
+LivingLegen7: folds 
+offQbert45: folds 
+LittmannIgor: folds 
+theMortyT: folds 
+Zeeusica: raises 15151 to 16846 and is all-in
+blindglory23: folds 
+Uncalled bet (15151) returned to Zeeusica
+Zeeusica collected 4700 from pot
+*** SUMMARY ***
+Total pot 4700 | Rake 0 
+Seat 1: offQbert45 (button) folded before Flop (didn't bet)
+Seat 2: LittmannIgor (small blind) folded before Flop
+Seat 3: theMortyT (big blind) folded before Flop
+Seat 4: Paulo And07 folded before Flop (didn't bet)
+Seat 5: greekdavas folded before Flop (didn't bet)
+Seat 6: Zeeusica collected (4700)
+Seat 7: blindglory23 folded before Flop
+Seat 8: LivingLegen7 folded before Flop (didn't bet)
+
+PokerStars Hand #251204176991: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:25:43 UTC [2024/06/26 13:25:43 ET]
+Table '3769361891 63' 8-max Seat #2 is the button
+Seat 1: offQbert45 (6807 in chips, $25 bounty) 
+Seat 2: LittmannIgor (52383 in chips, $25 bounty) 
+Seat 3: theMortyT (1815 in chips, $25 bounty) 
+Seat 4: Paulo And07 (24170 in chips, $25 bounty) 
+Seat 5: greekdavas (17917 in chips, $25 bounty) 
+Seat 6: Zeeusica (19851 in chips, $25 bounty) 
+Seat 7: blindglory23 (67265 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (27693 in chips, $25 bounty) 
+offQbert45: posts the ante 70
+LittmannIgor: posts the ante 70
+theMortyT: posts the ante 70
+Paulo And07: posts the ante 70
+greekdavas: posts the ante 70
+Zeeusica: posts the ante 70
+blindglory23: posts the ante 70
+LivingLegen7: posts the ante 70
+theMortyT: posts small blind 250
+Paulo And07: posts big blind 500
+*** HOLE CARDS ***
+greekdavas: raises 500 to 1000
+Zeeusica: folds 
+blindglory23: calls 1000
+LivingLegen7: folds 
+offQbert45: folds 
+LittmannIgor: folds 
+theMortyT: folds 
+Paulo And07: calls 500
+*** FLOP *** [Ts 9c Qc]
+Paulo And07: checks 
+greekdavas: checks 
+blindglory23: bets 2210
+Paulo And07: folds 
+greekdavas: folds 
+Uncalled bet (2210) returned to blindglory23
+blindglory23 collected 3810 from pot
+*** SUMMARY ***
+Total pot 3810 | Rake 0 
+Board [Ts 9c Qc]
+Seat 1: offQbert45 folded before Flop (didn't bet)
+Seat 2: LittmannIgor (button) folded before Flop (didn't bet)
+Seat 3: theMortyT (small blind) folded before Flop
+Seat 4: Paulo And07 (big blind) folded on the Flop
+Seat 5: greekdavas folded on the Flop
+Seat 6: Zeeusica folded before Flop (didn't bet)
+Seat 7: blindglory23 collected (3810)
+Seat 8: LivingLegen7 folded before Flop (didn't bet)
+
+PokerStars Hand #251204189978: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:26:41 UTC [2024/06/26 13:26:41 ET]
+Table '3769361891 63' 8-max Seat #3 is the button
+Seat 1: offQbert45 (6737 in chips, $25 bounty) 
+Seat 2: LittmannIgor (52313 in chips, $25 bounty) 
+Seat 3: theMortyT (1495 in chips, $25 bounty) 
+Seat 4: Paulo And07 (23100 in chips, $25 bounty) 
+Seat 5: greekdavas (16847 in chips, $25 bounty) 
+Seat 6: Zeeusica (19781 in chips, $25 bounty) 
+Seat 7: blindglory23 (70005 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (27623 in chips, $25 bounty) 
+offQbert45: posts the ante 70
+LittmannIgor: posts the ante 70
+theMortyT: posts the ante 70
+Paulo And07: posts the ante 70
+greekdavas: posts the ante 70
+Zeeusica: posts the ante 70
+blindglory23: posts the ante 70
+LivingLegen7: posts the ante 70
+Paulo And07: posts small blind 250
+greekdavas: posts big blind 500
+*** HOLE CARDS ***
+Zeeusica: calls 500
+blindglory23: raises 1195 to 1695
+LivingLegen7: folds 
+offQbert45: folds 
+LittmannIgor: folds 
+theMortyT: folds 
+Paulo And07: folds 
+greekdavas: folds 
+Zeeusica: raises 18016 to 19711 and is all-in
+blindglory23: calls 18016
+*** FLOP *** [Js 9h Ad]
+*** TURN *** [Js 9h Ad] [2c]
+*** RIVER *** [Js 9h Ad 2c] [9d]
+*** SHOW DOWN ***
+Zeeusica: shows [Ac Kh] (two pair, Aces and Nines)
+blindglory23: shows [7h Ah] (two pair, Aces and Nines - lower kicker)
+Zeeusica collected 40732 from pot
+*** SUMMARY ***
+Total pot 40732 | Rake 0 
+Board [Js 9h Ad 2c 9d]
+Seat 1: offQbert45 folded before Flop (didn't bet)
+Seat 2: LittmannIgor folded before Flop (didn't bet)
+Seat 3: theMortyT (button) folded before Flop (didn't bet)
+Seat 4: Paulo And07 (small blind) folded before Flop
+Seat 5: greekdavas (big blind) folded before Flop
+Seat 6: Zeeusica showed [Ac Kh] and won (40732) with two pair, Aces and Nines
+Seat 7: blindglory23 showed [7h Ah] and lost with two pair, Aces and Nines
+Seat 8: LivingLegen7 folded before Flop (didn't bet)
+
+PokerStars Hand #251204197767: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level V (250/500) - 2024/06/26 17:27:16 UTC [2024/06/26 13:27:16 ET]
+Table '3769361891 63' 8-max Seat #4 is the button
+Seat 1: offQbert45 (6667 in chips, $25 bounty) 
+Seat 2: LittmannIgor (52243 in chips, $25 bounty) 
+Seat 3: theMortyT (1425 in chips, $25 bounty) 
+Seat 4: Paulo And07 (22780 in chips, $25 bounty) 
+Seat 5: greekdavas (16277 in chips, $25 bounty) 
+Seat 6: Zeeusica (40732 in chips, $25 bounty) 
+Seat 7: blindglory23 (50224 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (27553 in chips, $25 bounty) 
+offQbert45: posts the ante 70
+LittmannIgor: posts the ante 70
+theMortyT: posts the ante 70
+Paulo And07: posts the ante 70
+greekdavas: posts the ante 70
+Zeeusica: posts the ante 70
+blindglory23: posts the ante 70
+LivingLegen7: posts the ante 70
+greekdavas: posts small blind 250
+Zeeusica: posts big blind 500
+*** HOLE CARDS ***
+blindglory23: folds 
+LivingLegen7: raises 500 to 1000
+offQbert45: folds 
+LittmannIgor: raises 2000 to 3000
+theMortyT: folds 
+Paulo And07: folds 
+greekdavas: folds 
+Zeeusica: folds 
+LivingLegen7: calls 2000
+*** FLOP *** [4d 8s Ac]
+LivingLegen7: checks 
+LittmannIgor: bets 2412
+LivingLegen7: calls 2412
+*** TURN *** [4d 8s Ac] [7s]
+LivingLegen7: checks 
+LittmannIgor: checks 
+*** RIVER *** [4d 8s Ac 7s] [5h]
+LivingLegen7: bets 6067
+LittmannIgor: folds 
+Uncalled bet (6067) returned to LivingLegen7
+LivingLegen7 collected 12134 from pot
+LivingLegen7: doesn't show hand 
+*** SUMMARY ***
+Total pot 12134 | Rake 0 
+Board [4d 8s Ac 7s 5h]
+Seat 1: offQbert45 folded before Flop (didn't bet)
+Seat 2: LittmannIgor folded on the River
+Seat 3: theMortyT folded before Flop (didn't bet)
+Seat 4: Paulo And07 (button) folded before Flop (didn't bet)
+Seat 5: greekdavas (small blind) folded before Flop
+Seat 6: Zeeusica (big blind) folded before Flop
+Seat 7: blindglory23 folded before Flop (didn't bet)
+Seat 8: LivingLegen7 collected (12134)
+
+PokerStars Hand #251204208105: Tournament #3769361891, $25+$25+$5 USD Hold'em No Limit - Level VI (300/600) - 2024/06/26 17:28:02 UTC [2024/06/26 13:28:02 ET]
+Table '3769361891 63' 8-max Seat #5 is the button
+Seat 1: offQbert45 (6597 in chips, $25 bounty) 
+Seat 2: LittmannIgor (46761 in chips, $25 bounty) 
+Seat 3: theMortyT (1355 in chips, $25 bounty) 
+Seat 4: Paulo And07 (22710 in chips, $25 bounty) 
+Seat 5: greekdavas (15957 in chips, $25 bounty) 
+Seat 6: Zeeusica (40162 in chips, $25 bounty) 
+Seat 7: blindglory23 (50154 in chips, $37.50 bounty) 
+Seat 8: LivingLegen7 (34205 in chips, $25 bounty) 
+offQbert45: posts the ante 80
+LittmannIgor: posts the ante 80
+theMortyT: posts the ante 80
+Paulo And07: posts the ante 80
+greekdavas: posts the ante 80
+Zeeusica: posts the ante 80
+blindglory23: posts the ante 80
+LivingLegen7: posts the ante 80
+Zeeusica: posts small blind 300
+blindglory23: posts big blind 600
+*** HOLE CARDS ***
+LivingLegen7: folds 
+offQbert45: folds 
+LittmannIgor: folds 
+theMortyT: raises 675 to 1275 and is all-in
+Paulo And07: folds 
+greekdavas: calls 1275
+Zeeusica: calls 975
+blindglory23: raises 15225 to 16500
+greekdavas: calls 14602 and is all-in
+Zeeusica: folds 
+Uncalled bet (623) returned to blindglory23
+*** FLOP *** [Js 9d 7d]
+*** TURN *** [Js 9d 7d] [Qc]
+*** RIVER *** [Js 9d 7d Qc] [5h]
+*** SHOW DOWN ***
+blindglory23: shows [Td Tc] (a pair of Tens)
+greekdavas: shows [Ks 8d] (high card King)
+blindglory23 collected 29204 from side pot
+theMortyT: shows [Ah 2c] (high card Ace)
+blindglory23 collected 5740 from main pot
+blindglory23 wins $12.50 for eliminating theMortyT and their own bounty increases by $12.50 to $50
+blindglory23 wins $12.50 for eliminating greekdavas and their own bounty increases by $12.50 to $62.50
+greekdavas finished the tournament
+theMortyT finished the tournament
+*** SUMMARY ***
+Total pot 34944 Main pot 5740. Side pot 29204. | Rake 0 
+Board [Js 9d 7d Qc 5h]
+Seat 1: offQbert45 folded before Flop (didn't bet)
+Seat 2: LittmannIgor folded before Flop (didn't bet)
+Seat 3: theMortyT showed [Ah 2c] and lost with high card Ace
+Seat 4: Paulo And07 folded before Flop (didn't bet)
+Seat 5: greekdavas (button) showed [Ks 8d] and lost with high card King
+Seat 6: Zeeusica (small blind) folded before Flop
+Seat 7: blindglory23 (big blind) showed [Td Tc] and won (34944) with a pair of Tens
+Seat 8: LivingLegen7 folded before Flop (didn't bet)

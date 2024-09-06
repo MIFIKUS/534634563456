@@ -1,0 +1,1377 @@
+PokerStars Hand #251206681673: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVII (1750/3500) - 2024/06/26 20:13:26 UTC [2024/06/26 16:13:26 ET]
+Table '3767885527 57' 8-max Seat #1 is the button
+Seat 1: yaniw777 (117541 in chips) 
+Seat 2: LV_Arturs (62787 in chips) 
+Seat 3: fellipeschmeil (55233 in chips) 
+Seat 4: chuchukat (271199 in chips) 
+Seat 5: lftgjc (137479 in chips) 
+Seat 6: PavanaTTo23 (28951 in chips) 
+Seat 7: drinho2pac (89661 in chips) 
+Seat 8: Pedrozadota (111334 in chips) 
+yaniw777: posts the ante 450
+LV_Arturs: posts the ante 450
+fellipeschmeil: posts the ante 450
+chuchukat: posts the ante 450
+lftgjc: posts the ante 450
+PavanaTTo23: posts the ante 450
+drinho2pac: posts the ante 450
+Pedrozadota: posts the ante 450
+LV_Arturs: posts small blind 1750
+fellipeschmeil: posts big blind 3500
+*** HOLE CARDS ***
+chuchukat: raises 3500 to 7000
+lftgjc: folds 
+PavanaTTo23: folds 
+drinho2pac: folds 
+Pedrozadota: raises 3500 to 10500
+yaniw777: folds 
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: raises 260249 to 270749 and is all-in
+Pedrozadota: folds 
+Uncalled bet (260249) returned to chuchukat
+chuchukat collected 29850 from pot
+chuchukat: doesn't show hand 
+*** SUMMARY ***
+Total pot 29850 | Rake 0 
+Seat 1: yaniw777 (button) folded before Flop (didn't bet)
+Seat 2: LV_Arturs (small blind) folded before Flop
+Seat 3: fellipeschmeil (big blind) folded before Flop
+Seat 4: chuchukat collected (29850)
+Seat 5: lftgjc folded before Flop (didn't bet)
+Seat 6: PavanaTTo23 folded before Flop (didn't bet)
+Seat 7: drinho2pac folded before Flop (didn't bet)
+Seat 8: Pedrozadota folded before Flop
+
+PokerStars Hand #251206693722: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVII (1750/3500) - 2024/06/26 20:14:10 UTC [2024/06/26 16:14:10 ET]
+Table '3767885527 57' 8-max Seat #2 is the button
+Seat 1: yaniw777 (117091 in chips) 
+Seat 2: LV_Arturs (60587 in chips) 
+Seat 3: fellipeschmeil (51283 in chips) 
+Seat 4: chuchukat (290099 in chips) 
+Seat 5: lftgjc (137029 in chips) 
+Seat 6: PavanaTTo23 (28501 in chips) 
+Seat 7: drinho2pac (89211 in chips) 
+Seat 8: Pedrozadota (100384 in chips) 
+yaniw777: posts the ante 450
+LV_Arturs: posts the ante 450
+fellipeschmeil: posts the ante 450
+chuchukat: posts the ante 450
+lftgjc: posts the ante 450
+PavanaTTo23: posts the ante 450
+drinho2pac: posts the ante 450
+Pedrozadota: posts the ante 450
+fellipeschmeil: posts small blind 1750
+chuchukat: posts big blind 3500
+*** HOLE CARDS ***
+lftgjc: folds 
+PavanaTTo23: folds 
+drinho2pac: raises 3850 to 7350
+Pedrozadota: folds 
+yaniw777: folds 
+LV_Arturs: calls 7350
+fellipeschmeil: folds 
+chuchukat: folds 
+*** FLOP *** [3h 7d 7c]
+drinho2pac: checks 
+LV_Arturs: checks 
+*** TURN *** [3h 7d 7c] [9s]
+drinho2pac: checks 
+LV_Arturs: bets 7065
+drinho2pac: calls 7065
+*** RIVER *** [3h 7d 7c 9s] [5s]
+drinho2pac: checks 
+LV_Arturs: checks 
+*** SHOW DOWN ***
+drinho2pac: shows [Td Ad] (a pair of Sevens)
+LV_Arturs: shows [As 3s] (two pair, Sevens and Threes)
+LV_Arturs collected 37680 from pot
+*** SUMMARY ***
+Total pot 37680 | Rake 0 
+Board [3h 7d 7c 9s 5s]
+Seat 1: yaniw777 folded before Flop (didn't bet)
+Seat 2: LV_Arturs (button) showed [As 3s] and won (37680) with two pair, Sevens and Threes
+Seat 3: fellipeschmeil (small blind) folded before Flop
+Seat 4: chuchukat (big blind) folded before Flop
+Seat 5: lftgjc folded before Flop (didn't bet)
+Seat 6: PavanaTTo23 folded before Flop (didn't bet)
+Seat 7: drinho2pac showed [Td Ad] and lost with a pair of Sevens
+Seat 8: Pedrozadota folded before Flop (didn't bet)
+
+PokerStars Hand #251206715099: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVII (1750/3500) - 2024/06/26 20:15:25 UTC [2024/06/26 16:15:25 ET]
+Table '3767885527 57' 8-max Seat #3 is the button
+Seat 1: yaniw777 (116641 in chips) 
+Seat 2: LV_Arturs (83402 in chips) 
+Seat 3: fellipeschmeil (49083 in chips) 
+Seat 4: chuchukat (286149 in chips) 
+Seat 5: lftgjc (136579 in chips) 
+Seat 6: PavanaTTo23 (28051 in chips) 
+Seat 7: drinho2pac (74346 in chips) 
+Seat 8: Pedrozadota (99934 in chips) 
+yaniw777: posts the ante 450
+LV_Arturs: posts the ante 450
+fellipeschmeil: posts the ante 450
+chuchukat: posts the ante 450
+lftgjc: posts the ante 450
+PavanaTTo23: posts the ante 450
+drinho2pac: posts the ante 450
+Pedrozadota: posts the ante 450
+chuchukat: posts small blind 1750
+lftgjc: posts big blind 3500
+*** HOLE CARDS ***
+PavanaTTo23: folds 
+drinho2pac: folds 
+Pedrozadota: folds 
+yaniw777: folds 
+LV_Arturs: raises 3675 to 7175
+fellipeschmeil: folds 
+chuchukat: folds 
+lftgjc: calls 3675
+*** FLOP *** [7c 8s Qh]
+lftgjc: checks 
+LV_Arturs: checks 
+*** TURN *** [7c 8s Qh] [Kd]
+lftgjc: checks 
+LV_Arturs: bets 12250
+lftgjc: folds 
+Uncalled bet (12250) returned to LV_Arturs
+LV_Arturs collected 19700 from pot
+*** SUMMARY ***
+Total pot 19700 | Rake 0 
+Board [7c 8s Qh Kd]
+Seat 1: yaniw777 folded before Flop (didn't bet)
+Seat 2: LV_Arturs collected (19700)
+Seat 3: fellipeschmeil (button) folded before Flop (didn't bet)
+Seat 4: chuchukat (small blind) folded before Flop
+Seat 5: lftgjc (big blind) folded on the Turn
+Seat 6: PavanaTTo23 folded before Flop (didn't bet)
+Seat 7: drinho2pac folded before Flop (didn't bet)
+Seat 8: Pedrozadota folded before Flop (didn't bet)
+
+PokerStars Hand #251206737415: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:16:45 UTC [2024/06/26 16:16:45 ET]
+Table '3767885527 57' 8-max Seat #4 is the button
+Seat 1: yaniw777 (116191 in chips) 
+Seat 2: LV_Arturs (95477 in chips) 
+Seat 3: fellipeschmeil (48633 in chips) 
+Seat 4: chuchukat (283949 in chips) 
+Seat 5: lftgjc (128954 in chips) 
+Seat 6: PavanaTTo23 (27601 in chips) 
+Seat 7: drinho2pac (73896 in chips) 
+Seat 8: Pedrozadota (99484 in chips) 
+yaniw777: posts the ante 500
+LV_Arturs: posts the ante 500
+fellipeschmeil: posts the ante 500
+chuchukat: posts the ante 500
+lftgjc: posts the ante 500
+PavanaTTo23: posts the ante 500
+drinho2pac: posts the ante 500
+Pedrozadota: posts the ante 500
+lftgjc: posts small blind 2000
+PavanaTTo23: posts big blind 4000
+*** HOLE CARDS ***
+drinho2pac: folds 
+Pedrozadota: folds 
+yaniw777: raises 4400 to 8400
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: folds 
+lftgjc: folds 
+PavanaTTo23: calls 4400
+*** FLOP *** [2c Qd 6h]
+PavanaTTo23: bets 18701 and is all-in
+yaniw777: calls 18701
+*** TURN *** [2c Qd 6h] [9h]
+*** RIVER *** [2c Qd 6h 9h] [Qs]
+*** SHOW DOWN ***
+PavanaTTo23: shows [4d 3c] (a pair of Queens)
+yaniw777: shows [Ac Js] (a pair of Queens - Ace kicker)
+yaniw777 collected 60202 from pot
+PavanaTTo23 finished the tournament in 344th place
+*** SUMMARY ***
+Total pot 60202 | Rake 0 
+Board [2c Qd 6h 9h Qs]
+Seat 1: yaniw777 showed [Ac Js] and won (60202) with a pair of Queens
+Seat 2: LV_Arturs folded before Flop (didn't bet)
+Seat 3: fellipeschmeil folded before Flop (didn't bet)
+Seat 4: chuchukat (button) folded before Flop (didn't bet)
+Seat 5: lftgjc (small blind) folded before Flop
+Seat 6: PavanaTTo23 (big blind) showed [4d 3c] and lost with a pair of Queens
+Seat 7: drinho2pac folded before Flop (didn't bet)
+Seat 8: Pedrozadota folded before Flop (didn't bet)
+
+PokerStars Hand #251206752041: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:17:38 UTC [2024/06/26 16:17:38 ET]
+Table '3767885527 57' 8-max Seat #5 is the button
+Seat 1: yaniw777 (148792 in chips) 
+Seat 2: LV_Arturs (94977 in chips) 
+Seat 3: fellipeschmeil (48133 in chips) 
+Seat 4: chuchukat (283449 in chips) 
+Seat 5: lftgjc (126454 in chips) 
+Seat 7: drinho2pac (73396 in chips) 
+Seat 8: Pedrozadota (98984 in chips) 
+yaniw777: posts the ante 500
+LV_Arturs: posts the ante 500
+fellipeschmeil: posts the ante 500
+chuchukat: posts the ante 500
+lftgjc: posts the ante 500
+drinho2pac: posts the ante 500
+Pedrozadota: posts the ante 500
+drinho2pac: posts small blind 2000
+Pedrozadota: posts big blind 4000
+*** HOLE CARDS ***
+yaniw777: raises 4400 to 8400
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: calls 8400
+lftgjc: raises 18000 to 26400
+vip_1985Z is disconnected 
+drinho2pac: folds 
+Pedrozadota: folds 
+yaniw777: folds 
+chuchukat: folds 
+Uncalled bet (18000) returned to lftgjc
+lftgjc collected 34700 from pot
+lftgjc: doesn't show hand 
+*** SUMMARY ***
+Total pot 34700 | Rake 0 
+Seat 1: yaniw777 folded before Flop
+Seat 2: LV_Arturs folded before Flop (didn't bet)
+Seat 3: fellipeschmeil folded before Flop (didn't bet)
+Seat 4: chuchukat folded before Flop
+Seat 5: lftgjc (button) collected (34700)
+Seat 7: drinho2pac (small blind) folded before Flop
+Seat 8: Pedrozadota (big blind) folded before Flop
+
+PokerStars Hand #251206765771: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:18:26 UTC [2024/06/26 16:18:26 ET]
+Table '3767885527 57' 8-max Seat #7 is the button
+Seat 1: yaniw777 (139892 in chips) 
+Seat 2: LV_Arturs (94477 in chips) 
+Seat 3: fellipeschmeil (47633 in chips) 
+Seat 4: chuchukat (274549 in chips) 
+Seat 5: lftgjc (152254 in chips) 
+Seat 6: vip_1985Z (36634 in chips) 
+Seat 7: drinho2pac (70896 in chips) 
+Seat 8: Pedrozadota (94484 in chips) 
+yaniw777: posts the ante 500
+LV_Arturs: posts the ante 500
+fellipeschmeil: posts the ante 500
+chuchukat: posts the ante 500
+lftgjc: posts the ante 500
+vip_1985Z: posts the ante 500
+drinho2pac: posts the ante 500
+Pedrozadota: posts the ante 500
+Pedrozadota: posts small blind 2000
+yaniw777: posts big blind 4000
+*** HOLE CARDS ***
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: folds 
+lftgjc: folds 
+vip_1985Z: folds 
+drinho2pac: raises 4400 to 8400
+Pedrozadota: folds 
+yaniw777: folds 
+Uncalled bet (4400) returned to drinho2pac
+drinho2pac collected 14000 from pot
+*** SUMMARY ***
+Total pot 14000 | Rake 0 
+Seat 1: yaniw777 (big blind) folded before Flop
+Seat 2: LV_Arturs folded before Flop (didn't bet)
+Seat 3: fellipeschmeil folded before Flop (didn't bet)
+Seat 4: chuchukat folded before Flop (didn't bet)
+Seat 5: lftgjc folded before Flop (didn't bet)
+Seat 6: vip_1985Z folded before Flop (didn't bet)
+Seat 7: drinho2pac (button) collected (14000)
+Seat 8: Pedrozadota (small blind) folded before Flop
+
+PokerStars Hand #251206777375: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:19:07 UTC [2024/06/26 16:19:07 ET]
+Table '3767885527 57' 8-max Seat #8 is the button
+Seat 1: yaniw777 (135392 in chips) 
+Seat 2: LV_Arturs (93977 in chips) 
+Seat 3: fellipeschmeil (47133 in chips) 
+Seat 4: chuchukat (274049 in chips) 
+Seat 5: lftgjc (151754 in chips) 
+Seat 6: vip_1985Z (36134 in chips) 
+Seat 7: drinho2pac (80396 in chips) 
+Seat 8: Pedrozadota (91984 in chips) 
+yaniw777: posts the ante 500
+LV_Arturs: posts the ante 500
+fellipeschmeil: posts the ante 500
+chuchukat: posts the ante 500
+lftgjc: posts the ante 500
+vip_1985Z: posts the ante 500
+drinho2pac: posts the ante 500
+Pedrozadota: posts the ante 500
+yaniw777: posts small blind 2000
+LV_Arturs: posts big blind 4000
+*** HOLE CARDS ***
+fellipeschmeil: folds 
+chuchukat: folds 
+lftgjc: folds 
+vip_1985Z: folds 
+drinho2pac: folds 
+Pedrozadota: folds 
+yaniw777: folds 
+Uncalled bet (2000) returned to LV_Arturs
+LV_Arturs collected 8000 from pot
+*** SUMMARY ***
+Total pot 8000 | Rake 0 
+Seat 1: yaniw777 (small blind) folded before Flop
+Seat 2: LV_Arturs (big blind) collected (8000)
+Seat 3: fellipeschmeil folded before Flop (didn't bet)
+Seat 4: chuchukat folded before Flop (didn't bet)
+Seat 5: lftgjc folded before Flop (didn't bet)
+Seat 6: vip_1985Z folded before Flop (didn't bet)
+Seat 7: drinho2pac folded before Flop (didn't bet)
+Seat 8: Pedrozadota (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251206785934: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:19:38 UTC [2024/06/26 16:19:38 ET]
+Table '3767885527 57' 8-max Seat #1 is the button
+Seat 1: yaniw777 (132892 in chips) 
+Seat 2: LV_Arturs (99477 in chips) 
+Seat 3: fellipeschmeil (46633 in chips) 
+Seat 4: chuchukat (273549 in chips) 
+Seat 5: lftgjc (151254 in chips) 
+Seat 6: vip_1985Z (35634 in chips) 
+Seat 7: drinho2pac (79896 in chips) 
+Seat 8: Pedrozadota (91484 in chips) 
+yaniw777: posts the ante 500
+LV_Arturs: posts the ante 500
+fellipeschmeil: posts the ante 500
+chuchukat: posts the ante 500
+lftgjc: posts the ante 500
+vip_1985Z: posts the ante 500
+drinho2pac: posts the ante 500
+Pedrozadota: posts the ante 500
+LV_Arturs: posts small blind 2000
+fellipeschmeil: posts big blind 4000
+*** HOLE CARDS ***
+chuchukat: folds 
+lftgjc: folds 
+vip_1985Z: folds 
+drinho2pac: folds 
+Pedrozadota: raises 4400 to 8400
+yaniw777: folds 
+LV_Arturs: folds 
+fellipeschmeil: calls 4400
+*** FLOP *** [Kh Qs 3s]
+fellipeschmeil: checks 
+Pedrozadota: bets 4000
+fellipeschmeil: folds 
+Uncalled bet (4000) returned to Pedrozadota
+Pedrozadota collected 22800 from pot
+Pedrozadota: doesn't show hand 
+*** SUMMARY ***
+Total pot 22800 | Rake 0 
+Board [Kh Qs 3s]
+Seat 1: yaniw777 (button) folded before Flop (didn't bet)
+Seat 2: LV_Arturs (small blind) folded before Flop
+Seat 3: fellipeschmeil (big blind) folded on the Flop
+Seat 4: chuchukat folded before Flop (didn't bet)
+Seat 5: lftgjc folded before Flop (didn't bet)
+Seat 6: vip_1985Z folded before Flop (didn't bet)
+Seat 7: drinho2pac folded before Flop (didn't bet)
+Seat 8: Pedrozadota collected (22800)
+
+PokerStars Hand #251206797298: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:20:18 UTC [2024/06/26 16:20:18 ET]
+Table '3767885527 57' 8-max Seat #2 is the button
+Seat 1: yaniw777 (132392 in chips) 
+Seat 2: LV_Arturs (96977 in chips) 
+Seat 3: fellipeschmeil (37733 in chips) 
+Seat 4: chuchukat (273049 in chips) 
+Seat 5: lftgjc (150754 in chips) 
+Seat 6: vip_1985Z (35134 in chips) 
+Seat 7: drinho2pac (79396 in chips) 
+Seat 8: Pedrozadota (105384 in chips) 
+yaniw777: posts the ante 500
+LV_Arturs: posts the ante 500
+fellipeschmeil: posts the ante 500
+chuchukat: posts the ante 500
+lftgjc: posts the ante 500
+vip_1985Z: posts the ante 500
+drinho2pac: posts the ante 500
+Pedrozadota: posts the ante 500
+fellipeschmeil: posts small blind 2000
+chuchukat: posts big blind 4000
+*** HOLE CARDS ***
+lftgjc: raises 4000 to 8000
+vip_1985Z: folds 
+drinho2pac: folds 
+Pedrozadota: folds 
+yaniw777: folds 
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: calls 4000
+*** FLOP *** [Td 2s 7s]
+chuchukat: checks 
+lftgjc: checks 
+*** TURN *** [Td 2s 7s] [6d]
+chuchukat: bets 8000
+lftgjc: calls 8000
+*** RIVER *** [Td 2s 7s 6d] [8h]
+chuchukat: bets 48000
+lftgjc: folds 
+Uncalled bet (48000) returned to chuchukat
+chuchukat collected 38000 from pot
+chuchukat: doesn't show hand 
+*** SUMMARY ***
+Total pot 38000 | Rake 0 
+Board [Td 2s 7s 6d 8h]
+Seat 1: yaniw777 folded before Flop (didn't bet)
+Seat 2: LV_Arturs (button) folded before Flop (didn't bet)
+Seat 3: fellipeschmeil (small blind) folded before Flop
+Seat 4: chuchukat (big blind) collected (38000)
+Seat 5: lftgjc folded on the River
+Seat 6: vip_1985Z folded before Flop (didn't bet)
+Seat 7: drinho2pac folded before Flop (didn't bet)
+Seat 8: Pedrozadota folded before Flop (didn't bet)
+
+PokerStars Hand #251206817201: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:21:28 UTC [2024/06/26 16:21:28 ET]
+Table '3767885527 57' 8-max Seat #3 is the button
+Seat 1: yaniw777 (131892 in chips) 
+Seat 2: LV_Arturs (96477 in chips) 
+Seat 3: fellipeschmeil (35233 in chips) 
+Seat 4: chuchukat (294549 in chips) 
+Seat 5: lftgjc (134254 in chips) 
+Seat 6: vip_1985Z (34634 in chips) 
+Seat 7: drinho2pac (78896 in chips) 
+Seat 8: Pedrozadota (104884 in chips) 
+yaniw777: posts the ante 500
+LV_Arturs: posts the ante 500
+fellipeschmeil: posts the ante 500
+chuchukat: posts the ante 500
+lftgjc: posts the ante 500
+vip_1985Z: posts the ante 500
+drinho2pac: posts the ante 500
+Pedrozadota: posts the ante 500
+chuchukat: posts small blind 2000
+lftgjc: posts big blind 4000
+*** HOLE CARDS ***
+vip_1985Z: folds 
+drinho2pac: folds 
+Pedrozadota: folds 
+yaniw777: folds 
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: raises 10000 to 14000
+lftgjc: raises 18000 to 32000
+chuchukat: folds 
+Uncalled bet (18000) returned to lftgjc
+lftgjc collected 32000 from pot
+lftgjc: doesn't show hand 
+*** SUMMARY ***
+Total pot 32000 | Rake 0 
+Seat 1: yaniw777 folded before Flop (didn't bet)
+Seat 2: LV_Arturs folded before Flop (didn't bet)
+Seat 3: fellipeschmeil (button) folded before Flop (didn't bet)
+Seat 4: chuchukat (small blind) folded before Flop
+Seat 5: lftgjc (big blind) collected (32000)
+Seat 6: vip_1985Z folded before Flop (didn't bet)
+Seat 7: drinho2pac folded before Flop (didn't bet)
+Seat 8: Pedrozadota folded before Flop (didn't bet)
+
+PokerStars Hand #251206830495: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:22:16 UTC [2024/06/26 16:22:16 ET]
+Table '3767885527 57' 8-max Seat #4 is the button
+Seat 1: yaniw777 (131392 in chips) 
+Seat 2: LV_Arturs (95977 in chips) 
+Seat 3: fellipeschmeil (34733 in chips) 
+Seat 4: chuchukat (280049 in chips) 
+Seat 5: lftgjc (151754 in chips) 
+Seat 6: vip_1985Z (34134 in chips) 
+Seat 7: drinho2pac (78396 in chips) 
+Seat 8: Pedrozadota (104384 in chips) 
+yaniw777: posts the ante 500
+LV_Arturs: posts the ante 500
+fellipeschmeil: posts the ante 500
+chuchukat: posts the ante 500
+lftgjc: posts the ante 500
+vip_1985Z: posts the ante 500
+drinho2pac: posts the ante 500
+Pedrozadota: posts the ante 500
+lftgjc: posts small blind 2000
+vip_1985Z: posts big blind 4000
+*** HOLE CARDS ***
+drinho2pac: folds 
+Pedrozadota: folds 
+yaniw777: folds 
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: raises 4000 to 8000
+lftgjc: folds 
+vip_1985Z: folds 
+Uncalled bet (4000) returned to chuchukat
+chuchukat collected 14000 from pot
+chuchukat: doesn't show hand 
+*** SUMMARY ***
+Total pot 14000 | Rake 0 
+Seat 1: yaniw777 folded before Flop (didn't bet)
+Seat 2: LV_Arturs folded before Flop (didn't bet)
+Seat 3: fellipeschmeil folded before Flop (didn't bet)
+Seat 4: chuchukat (button) collected (14000)
+Seat 5: lftgjc (small blind) folded before Flop
+Seat 6: vip_1985Z (big blind) folded before Flop
+Seat 7: drinho2pac folded before Flop (didn't bet)
+Seat 8: Pedrozadota folded before Flop (didn't bet)
+
+PokerStars Hand #251206840407: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:22:51 UTC [2024/06/26 16:22:51 ET]
+Table '3767885527 57' 8-max Seat #5 is the button
+Seat 1: yaniw777 (130892 in chips) 
+Seat 2: LV_Arturs (95477 in chips) 
+Seat 3: fellipeschmeil (34233 in chips) 
+Seat 4: chuchukat (289549 in chips) 
+Seat 5: lftgjc (149254 in chips) 
+Seat 6: vip_1985Z (29634 in chips) 
+Seat 7: drinho2pac (77896 in chips) 
+Seat 8: Pedrozadota (103884 in chips) 
+yaniw777: posts the ante 500
+LV_Arturs: posts the ante 500
+fellipeschmeil: posts the ante 500
+chuchukat: posts the ante 500
+lftgjc: posts the ante 500
+vip_1985Z: posts the ante 500
+drinho2pac: posts the ante 500
+Pedrozadota: posts the ante 500
+vip_1985Z: posts small blind 2000
+drinho2pac: posts big blind 4000
+*** HOLE CARDS ***
+Pedrozadota: folds 
+yaniw777: folds 
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: raises 4000 to 8000
+lftgjc: folds 
+vip_1985Z: folds 
+drinho2pac: folds 
+Uncalled bet (4000) returned to chuchukat
+chuchukat collected 14000 from pot
+chuchukat: doesn't show hand 
+*** SUMMARY ***
+Total pot 14000 | Rake 0 
+Seat 1: yaniw777 folded before Flop (didn't bet)
+Seat 2: LV_Arturs folded before Flop (didn't bet)
+Seat 3: fellipeschmeil folded before Flop (didn't bet)
+Seat 4: chuchukat collected (14000)
+Seat 5: lftgjc (button) folded before Flop (didn't bet)
+Seat 6: vip_1985Z (small blind) folded before Flop
+Seat 7: drinho2pac (big blind) folded before Flop
+Seat 8: Pedrozadota folded before Flop (didn't bet)
+
+PokerStars Hand #251206852851: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:23:35 UTC [2024/06/26 16:23:35 ET]
+Table '3767885527 57' 8-max Seat #6 is the button
+Seat 1: yaniw777 (130392 in chips) 
+Seat 2: LV_Arturs (94977 in chips) 
+Seat 3: fellipeschmeil (33733 in chips) 
+Seat 4: chuchukat (299049 in chips) 
+Seat 5: lftgjc (148754 in chips) 
+Seat 6: vip_1985Z (27134 in chips) 
+Seat 7: drinho2pac (73396 in chips) 
+Seat 8: Pedrozadota (103384 in chips) 
+yaniw777: posts the ante 500
+LV_Arturs: posts the ante 500
+fellipeschmeil: posts the ante 500
+chuchukat: posts the ante 500
+lftgjc: posts the ante 500
+vip_1985Z: posts the ante 500
+drinho2pac: posts the ante 500
+Pedrozadota: posts the ante 500
+drinho2pac: posts small blind 2000
+Pedrozadota: posts big blind 4000
+*** HOLE CARDS ***
+yaniw777: raises 4400 to 8400
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: folds 
+lftgjc: folds 
+vip_1985Z: folds 
+drinho2pac: folds 
+Pedrozadota: folds 
+Uncalled bet (4400) returned to yaniw777
+yaniw777 collected 14000 from pot
+yaniw777: doesn't show hand 
+*** SUMMARY ***
+Total pot 14000 | Rake 0 
+Seat 1: yaniw777 collected (14000)
+Seat 2: LV_Arturs folded before Flop (didn't bet)
+Seat 3: fellipeschmeil folded before Flop (didn't bet)
+Seat 4: chuchukat folded before Flop (didn't bet)
+Seat 5: lftgjc folded before Flop (didn't bet)
+Seat 6: vip_1985Z (button) folded before Flop (didn't bet)
+Seat 7: drinho2pac (small blind) folded before Flop
+Seat 8: Pedrozadota (big blind) folded before Flop
+
+PokerStars Hand #251206867419: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:24:27 UTC [2024/06/26 16:24:27 ET]
+Table '3767885527 57' 8-max Seat #7 is the button
+Seat 1: yaniw777 (139892 in chips) 
+Seat 2: LV_Arturs (94477 in chips) 
+Seat 3: fellipeschmeil (33233 in chips) 
+Seat 4: chuchukat (298549 in chips) 
+Seat 5: lftgjc (148254 in chips) 
+Seat 6: vip_1985Z (26634 in chips) 
+Seat 7: drinho2pac (70896 in chips) 
+Seat 8: Pedrozadota (98884 in chips) 
+yaniw777: posts the ante 500
+LV_Arturs: posts the ante 500
+fellipeschmeil: posts the ante 500
+chuchukat: posts the ante 500
+lftgjc: posts the ante 500
+vip_1985Z: posts the ante 500
+drinho2pac: posts the ante 500
+Pedrozadota: posts the ante 500
+Pedrozadota: posts small blind 2000
+yaniw777: posts big blind 4000
+*** HOLE CARDS ***
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: folds 
+lftgjc: folds 
+vip_1985Z: folds 
+drinho2pac: folds 
+Pedrozadota has timed out
+Pedrozadota: folds 
+Pedrozadota is sitting out
+Uncalled bet (2000) returned to yaniw777
+yaniw777 collected 8000 from pot
+yaniw777: doesn't show hand 
+Pedrozadota has returned
+*** SUMMARY ***
+Total pot 8000 | Rake 0 
+Seat 1: yaniw777 (big blind) collected (8000)
+Seat 2: LV_Arturs folded before Flop (didn't bet)
+Seat 3: fellipeschmeil folded before Flop (didn't bet)
+Seat 4: chuchukat folded before Flop (didn't bet)
+Seat 5: lftgjc folded before Flop (didn't bet)
+Seat 6: vip_1985Z folded before Flop (didn't bet)
+Seat 7: drinho2pac (button) folded before Flop (didn't bet)
+Seat 8: Pedrozadota (small blind) folded before Flop
+
+PokerStars Hand #251206880994: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVIII (2000/4000) - 2024/06/26 20:25:15 UTC [2024/06/26 16:25:15 ET]
+Table '3767885527 57' 8-max Seat #8 is the button
+Seat 1: yaniw777 (145392 in chips) 
+Seat 2: LV_Arturs (93977 in chips) 
+Seat 3: fellipeschmeil (32733 in chips) 
+Seat 4: chuchukat (298049 in chips) 
+Seat 5: lftgjc (147754 in chips) 
+Seat 6: vip_1985Z (26134 in chips) 
+Seat 7: drinho2pac (70396 in chips) 
+Seat 8: Pedrozadota (96384 in chips) 
+yaniw777: posts the ante 500
+LV_Arturs: posts the ante 500
+fellipeschmeil: posts the ante 500
+chuchukat: posts the ante 500
+lftgjc: posts the ante 500
+vip_1985Z: posts the ante 500
+drinho2pac: posts the ante 500
+Pedrozadota: posts the ante 500
+yaniw777: posts small blind 2000
+LV_Arturs: posts big blind 4000
+*** HOLE CARDS ***
+fellipeschmeil: folds 
+chuchukat: folds 
+lftgjc: folds 
+vip_1985Z: folds 
+drinho2pac: folds 
+Pedrozadota: raises 4400 to 8400
+yaniw777: folds 
+LV_Arturs: raises 85077 to 93477 and is all-in
+Pedrozadota: folds 
+Uncalled bet (85077) returned to LV_Arturs
+LV_Arturs collected 22800 from pot
+*** SUMMARY ***
+Total pot 22800 | Rake 0 
+Seat 1: yaniw777 (small blind) folded before Flop
+Seat 2: LV_Arturs (big blind) collected (22800)
+Seat 3: fellipeschmeil folded before Flop (didn't bet)
+Seat 4: chuchukat folded before Flop (didn't bet)
+Seat 5: lftgjc folded before Flop (didn't bet)
+Seat 6: vip_1985Z folded before Flop (didn't bet)
+Seat 7: drinho2pac folded before Flop (didn't bet)
+Seat 8: Pedrozadota (button) folded before Flop
+
+PokerStars Hand #251206897605: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:26:15 UTC [2024/06/26 16:26:15 ET]
+Table '3767885527 57' 8-max Seat #1 is the button
+Seat 1: yaniw777 (142892 in chips) 
+Seat 2: LV_Arturs (107877 in chips) 
+Seat 3: fellipeschmeil (32233 in chips) 
+Seat 4: chuchukat (297549 in chips) 
+Seat 5: lftgjc (147254 in chips) 
+Seat 6: vip_1985Z (25634 in chips) 
+Seat 7: drinho2pac (69896 in chips) 
+Seat 8: Pedrozadota (87484 in chips) 
+yaniw777: posts the ante 625
+LV_Arturs: posts the ante 625
+fellipeschmeil: posts the ante 625
+chuchukat: posts the ante 625
+lftgjc: posts the ante 625
+vip_1985Z: posts the ante 625
+drinho2pac: posts the ante 625
+Pedrozadota: posts the ante 625
+LV_Arturs: posts small blind 2500
+fellipeschmeil: posts big blind 5000
+*** HOLE CARDS ***
+chuchukat: folds 
+lftgjc: folds 
+vip_1985Z: raises 20000 to 25000
+drinho2pac: folds 
+Pedrozadota: folds 
+yaniw777: raises 117267 to 142267 and is all-in
+LV_Arturs: folds 
+fellipeschmeil: folds 
+vip_1985Z: calls 9 and is all-in
+Uncalled bet (117258) returned to yaniw777
+*** FLOP *** [4d Ad Qs]
+*** TURN *** [4d Ad Qs] [Ah]
+*** RIVER *** [4d Ad Qs Ah] [Tc]
+*** SHOW DOWN ***
+vip_1985Z: shows [Ks As] (three of a kind, Aces)
+yaniw777: shows [6s 6d] (two pair, Aces and Sixes)
+vip_1985Z collected 62518 from pot
+*** SUMMARY ***
+Total pot 62518 | Rake 0 
+Board [4d Ad Qs Ah Tc]
+Seat 1: yaniw777 (button) showed [6s 6d] and lost with two pair, Aces and Sixes
+Seat 2: LV_Arturs (small blind) folded before Flop
+Seat 3: fellipeschmeil (big blind) folded before Flop
+Seat 4: chuchukat folded before Flop (didn't bet)
+Seat 5: lftgjc folded before Flop (didn't bet)
+Seat 6: vip_1985Z showed [Ks As] and won (62518) with three of a kind, Aces
+Seat 7: drinho2pac folded before Flop (didn't bet)
+Seat 8: Pedrozadota folded before Flop (didn't bet)
+
+PokerStars Hand #251206926650: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:27:59 UTC [2024/06/26 16:27:59 ET]
+Table '3767885527 57' 8-max Seat #2 is the button
+Seat 1: yaniw777 (117258 in chips) 
+Seat 2: LV_Arturs (104752 in chips) 
+Seat 3: fellipeschmeil (26608 in chips) 
+Seat 4: chuchukat (296924 in chips) 
+Seat 5: lftgjc (146629 in chips) 
+Seat 6: vip_1985Z (62518 in chips) 
+Seat 7: drinho2pac (69271 in chips) 
+Seat 8: Pedrozadota (86859 in chips) 
+yaniw777: posts the ante 625
+LV_Arturs: posts the ante 625
+fellipeschmeil: posts the ante 625
+chuchukat: posts the ante 625
+lftgjc: posts the ante 625
+vip_1985Z: posts the ante 625
+drinho2pac: posts the ante 625
+Pedrozadota: posts the ante 625
+fellipeschmeil: posts small blind 2500
+chuchukat: posts big blind 5000
+*** HOLE CARDS ***
+lftgjc: folds 
+vip_1985Z: folds 
+drinho2pac: folds 
+Pedrozadota: folds 
+yaniw777: raises 5000 to 10000
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: raises 30000 to 40000
+yaniw777: folds 
+Uncalled bet (30000) returned to chuchukat
+chuchukat collected 27500 from pot
+chuchukat: doesn't show hand 
+*** SUMMARY ***
+Total pot 27500 | Rake 0 
+Seat 1: yaniw777 folded before Flop
+Seat 2: LV_Arturs (button) folded before Flop (didn't bet)
+Seat 3: fellipeschmeil (small blind) folded before Flop
+Seat 4: chuchukat (big blind) collected (27500)
+Seat 5: lftgjc folded before Flop (didn't bet)
+Seat 6: vip_1985Z folded before Flop (didn't bet)
+Seat 7: drinho2pac folded before Flop (didn't bet)
+Seat 8: Pedrozadota folded before Flop (didn't bet)
+
+PokerStars Hand #251206948693: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:29:19 UTC [2024/06/26 16:29:19 ET]
+Table '3767885527 57' 8-max Seat #3 is the button
+Seat 1: yaniw777 (106633 in chips) 
+Seat 2: LV_Arturs (104127 in chips) 
+Seat 3: fellipeschmeil (23483 in chips) 
+Seat 4: chuchukat (313799 in chips) 
+Seat 5: lftgjc (146004 in chips) 
+Seat 6: vip_1985Z (61893 in chips) 
+Seat 7: drinho2pac (68646 in chips) 
+Seat 8: Pedrozadota (86234 in chips) 
+yaniw777: posts the ante 625
+LV_Arturs: posts the ante 625
+fellipeschmeil: posts the ante 625
+chuchukat: posts the ante 625
+lftgjc: posts the ante 625
+vip_1985Z: posts the ante 625
+drinho2pac: posts the ante 625
+Pedrozadota: posts the ante 625
+chuchukat: posts small blind 2500
+lftgjc: posts big blind 5000
+*** HOLE CARDS ***
+vip_1985Z: folds 
+drinho2pac: folds 
+Pedrozadota: folds 
+yaniw777: folds 
+LV_Arturs: raises 5250 to 10250
+fellipeschmeil: folds 
+chuchukat: folds 
+lftgjc: calls 5250
+*** FLOP *** [Jd 2c 8s]
+lftgjc: checks 
+LV_Arturs: bets 9000
+lftgjc: folds 
+Uncalled bet (9000) returned to LV_Arturs
+LV_Arturs collected 28000 from pot
+*** SUMMARY ***
+Total pot 28000 | Rake 0 
+Board [Jd 2c 8s]
+Seat 1: yaniw777 folded before Flop (didn't bet)
+Seat 2: LV_Arturs collected (28000)
+Seat 3: fellipeschmeil (button) folded before Flop (didn't bet)
+Seat 4: chuchukat (small blind) folded before Flop
+Seat 5: lftgjc (big blind) folded on the Flop
+Seat 6: vip_1985Z folded before Flop (didn't bet)
+Seat 7: drinho2pac folded before Flop (didn't bet)
+Seat 8: Pedrozadota folded before Flop (didn't bet)
+
+PokerStars Hand #251206974963: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:30:54 UTC [2024/06/26 16:30:54 ET]
+Table '3767885527 57' 8-max Seat #4 is the button
+Seat 1: yaniw777 (106008 in chips) 
+Seat 2: LV_Arturs (121252 in chips) 
+Seat 3: fellipeschmeil (22858 in chips) 
+Seat 4: chuchukat (310674 in chips) 
+Seat 5: lftgjc (135129 in chips) 
+Seat 6: vip_1985Z (61268 in chips) 
+Seat 7: drinho2pac (68021 in chips) 
+Seat 8: Pedrozadota (85609 in chips) 
+yaniw777: posts the ante 625
+LV_Arturs: posts the ante 625
+fellipeschmeil: posts the ante 625
+chuchukat: posts the ante 625
+lftgjc: posts the ante 625
+vip_1985Z: posts the ante 625
+drinho2pac: posts the ante 625
+Pedrozadota: posts the ante 625
+lftgjc: posts small blind 2500
+vip_1985Z: posts big blind 5000
+*** HOLE CARDS ***
+drinho2pac: folds 
+Pedrozadota: raises 45000 to 50000
+yaniw777: folds 
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: folds 
+lftgjc: folds 
+vip_1985Z: folds 
+Uncalled bet (45000) returned to Pedrozadota
+Pedrozadota collected 17500 from pot
+Pedrozadota: doesn't show hand 
+*** SUMMARY ***
+Total pot 17500 | Rake 0 
+Seat 1: yaniw777 folded before Flop (didn't bet)
+Seat 2: LV_Arturs folded before Flop (didn't bet)
+Seat 3: fellipeschmeil folded before Flop (didn't bet)
+Seat 4: chuchukat (button) folded before Flop (didn't bet)
+Seat 5: lftgjc (small blind) folded before Flop
+Seat 6: vip_1985Z (big blind) folded before Flop
+Seat 7: drinho2pac folded before Flop (didn't bet)
+Seat 8: Pedrozadota collected (17500)
+
+PokerStars Hand #251206984965: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:31:30 UTC [2024/06/26 16:31:30 ET]
+Table '3767885527 57' 8-max Seat #5 is the button
+Seat 1: yaniw777 (105383 in chips) 
+Seat 2: LV_Arturs (120627 in chips) 
+Seat 3: fellipeschmeil (22233 in chips) 
+Seat 4: chuchukat (310049 in chips) 
+Seat 5: lftgjc (132004 in chips) 
+Seat 6: vip_1985Z (55643 in chips) 
+Seat 7: drinho2pac (67396 in chips) 
+Seat 8: Pedrozadota (97484 in chips) 
+yaniw777: posts the ante 625
+LV_Arturs: posts the ante 625
+fellipeschmeil: posts the ante 625
+chuchukat: posts the ante 625
+lftgjc: posts the ante 625
+vip_1985Z: posts the ante 625
+drinho2pac: posts the ante 625
+Pedrozadota: posts the ante 625
+vip_1985Z: posts small blind 2500
+drinho2pac: posts big blind 5000
+*** HOLE CARDS ***
+Pedrozadota: folds 
+yaniw777: folds 
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: raises 304424 to 309424 and is all-in
+lftgjc: folds 
+vip_1985Z: folds 
+drinho2pac: folds 
+Uncalled bet (304424) returned to chuchukat
+chuchukat collected 17500 from pot
+chuchukat: doesn't show hand 
+*** SUMMARY ***
+Total pot 17500 | Rake 0 
+Seat 1: yaniw777 folded before Flop (didn't bet)
+Seat 2: LV_Arturs folded before Flop (didn't bet)
+Seat 3: fellipeschmeil folded before Flop (didn't bet)
+Seat 4: chuchukat collected (17500)
+Seat 5: lftgjc (button) folded before Flop (didn't bet)
+Seat 6: vip_1985Z (small blind) folded before Flop
+Seat 7: drinho2pac (big blind) folded before Flop
+Seat 8: Pedrozadota folded before Flop (didn't bet)
+
+PokerStars Hand #251206999112: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:32:20 UTC [2024/06/26 16:32:20 ET]
+Table '3767885527 57' 8-max Seat #6 is the button
+Seat 1: yaniw777 (104758 in chips) 
+Seat 2: LV_Arturs (120002 in chips) 
+Seat 3: fellipeschmeil (21608 in chips) 
+Seat 4: chuchukat (321924 in chips) 
+Seat 5: lftgjc (131379 in chips) 
+Seat 6: vip_1985Z (52518 in chips) 
+Seat 7: drinho2pac (61771 in chips) 
+Seat 8: Pedrozadota (96859 in chips) 
+yaniw777: posts the ante 625
+LV_Arturs: posts the ante 625
+fellipeschmeil: posts the ante 625
+chuchukat: posts the ante 625
+lftgjc: posts the ante 625
+vip_1985Z: posts the ante 625
+drinho2pac: posts the ante 625
+Pedrozadota: posts the ante 625
+drinho2pac: posts small blind 2500
+Pedrozadota: posts big blind 5000
+*** HOLE CARDS ***
+yaniw777: raises 5000 to 10000
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: folds 
+lftgjc: raises 15000 to 25000
+vip_1985Z: folds 
+drinho2pac: folds 
+Pedrozadota: folds 
+yaniw777: raises 79133 to 104133 and is all-in
+lftgjc: calls 79133
+*** FLOP *** [3d Qc 9h]
+*** TURN *** [3d Qc 9h] [4s]
+*** RIVER *** [3d Qc 9h 4s] [3c]
+*** SHOW DOWN ***
+yaniw777: shows [Kc Ks] (two pair, Kings and Threes)
+lftgjc: shows [Ah As] (two pair, Aces and Threes)
+lftgjc collected 220766 from pot
+*** SUMMARY ***
+Total pot 220766 | Rake 0 
+Board [3d Qc 9h 4s 3c]
+Seat 1: yaniw777 showed [Kc Ks] and lost with two pair, Kings and Threes
+Seat 2: LV_Arturs folded before Flop (didn't bet)
+Seat 3: fellipeschmeil folded before Flop (didn't bet)
+Seat 4: chuchukat folded before Flop (didn't bet)
+Seat 5: lftgjc showed [Ah As] and won (220766) with two pair, Aces and Threes
+Seat 6: vip_1985Z (button) folded before Flop (didn't bet)
+Seat 7: drinho2pac (small blind) folded before Flop
+Seat 8: Pedrozadota (big blind) folded before Flop
+
+PokerStars Hand #251207031976: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:34:17 UTC [2024/06/26 16:34:17 ET]
+Table '3767885527 57' 8-max Seat #7 is the button
+Seat 2: LV_Arturs (119377 in chips) 
+Seat 3: fellipeschmeil (20983 in chips) 
+Seat 4: chuchukat (321299 in chips) 
+Seat 5: lftgjc (247387 in chips) 
+Seat 6: vip_1985Z (51893 in chips) 
+Seat 7: drinho2pac (58646 in chips) 
+Seat 8: Pedrozadota (91234 in chips) 
+LV_Arturs: posts the ante 625
+fellipeschmeil: posts the ante 625
+chuchukat: posts the ante 625
+lftgjc: posts the ante 625
+vip_1985Z: posts the ante 625
+drinho2pac: posts the ante 625
+Pedrozadota: posts the ante 625
+Pedrozadota: posts small blind 2500
+LV_Arturs: posts big blind 5000
+*** HOLE CARDS ***
+fellipeschmeil: raises 15000 to 20000
+chuchukat: calls 20000
+lftgjc: folds 
+vip_1985Z: folds 
+drinho2pac: raises 38021 to 58021 and is all-in
+Pedrozadota: folds 
+LV_Arturs: folds 
+fellipeschmeil: calls 358 and is all-in
+chuchukat: calls 38021
+*** FLOP *** [Ts 2c Ad]
+*** TURN *** [Ts 2c Ad] [7h]
+*** RIVER *** [Ts 2c Ad 7h] [Ac]
+*** SHOW DOWN ***
+chuchukat: shows [Ah Jh] (three of a kind, Aces)
+drinho2pac: shows [5d 5h] (two pair, Aces and Fives)
+Naaarrrr is disconnected 
+chuchukat collected 75326 from side pot
+fellipeschmeil: shows [Qs As] (three of a kind, Aces - Queen kicker)
+fellipeschmeil collected 72949 from main pot
+drinho2pac finished the tournament in 295th place and received $104.64.
+*** SUMMARY ***
+Total pot 148275 Main pot 72949. Side pot 75326. | Rake 0 
+Board [Ts 2c Ad 7h Ac]
+Seat 2: LV_Arturs (big blind) folded before Flop
+Seat 3: fellipeschmeil showed [Qs As] and won (72949) with three of a kind, Aces
+Seat 4: chuchukat showed [Ah Jh] and won (75326) with three of a kind, Aces
+Seat 5: lftgjc folded before Flop (didn't bet)
+Seat 6: vip_1985Z folded before Flop (didn't bet)
+Seat 7: drinho2pac (button) showed [5d 5h] and lost with two pair, Aces and Fives
+Seat 8: Pedrozadota (small blind) folded before Flop
+
+PokerStars Hand #251207050594: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIX (2500/5000) - 2024/06/26 20:35:22 UTC [2024/06/26 16:35:22 ET]
+Table '3767885527 57' 8-max Seat #8 is the button
+Seat 1: Naaarrrr (227788 in chips) out of hand (moved from another table into small blind)
+Seat 2: LV_Arturs (113752 in chips) 
+Seat 3: fellipeschmeil (72949 in chips) 
+Seat 4: chuchukat (337979 in chips) 
+Seat 5: lftgjc (246762 in chips) 
+Seat 6: vip_1985Z (51268 in chips) 
+Seat 8: Pedrozadota (88109 in chips) 
+Naaarrrr will be allowed to play after the button
+LV_Arturs: posts the ante 625
+fellipeschmeil: posts the ante 625
+chuchukat: posts the ante 625
+lftgjc: posts the ante 625
+vip_1985Z: posts the ante 625
+Pedrozadota: posts the ante 625
+LV_Arturs: posts small blind 2500
+fellipeschmeil: posts big blind 5000
+*** HOLE CARDS ***
+chuchukat: folds 
+lftgjc: raises 5000 to 10000
+vip_1985Z: folds 
+Pedrozadota: folds 
+LV_Arturs: raises 103127 to 113127 and is all-in
+fellipeschmeil: folds 
+gomsipjorn is disconnected 
+lftgjc: folds 
+Uncalled bet (103127) returned to LV_Arturs
+LV_Arturs collected 28750 from pot
+*** SUMMARY ***
+Total pot 28750 | Rake 0 
+Seat 2: LV_Arturs (small blind) collected (28750)
+Seat 3: fellipeschmeil (big blind) folded before Flop
+Seat 4: chuchukat folded before Flop (didn't bet)
+Seat 5: lftgjc folded before Flop
+Seat 6: vip_1985Z folded before Flop (didn't bet)
+Seat 8: Pedrozadota (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251207061607: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:36:01 UTC [2024/06/26 16:36:01 ET]
+Table '3767885527 57' 8-max Seat #2 is the button
+Seat 1: Naaarrrr (227788 in chips) 
+Seat 2: LV_Arturs (131877 in chips) 
+Seat 3: fellipeschmeil (67324 in chips) 
+Seat 4: chuchukat (337354 in chips) 
+Seat 5: lftgjc (236137 in chips) 
+Seat 6: vip_1985Z (50643 in chips) 
+Seat 7: gomsipjorn (229711 in chips) 
+Seat 8: Pedrozadota (87484 in chips) 
+Naaarrrr: posts the ante 750
+LV_Arturs: posts the ante 750
+fellipeschmeil: posts the ante 750
+chuchukat: posts the ante 750
+lftgjc: posts the ante 750
+vip_1985Z: posts the ante 750
+gomsipjorn: posts the ante 750
+Pedrozadota: posts the ante 750
+fellipeschmeil: posts small blind 3000
+chuchukat: posts big blind 6000
+*** HOLE CARDS ***
+lftgjc: folds 
+vip_1985Z: folds 
+gomsipjorn: raises 7200 to 13200
+Pedrozadota: folds 
+Naaarrrr: folds 
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: raises 37800 to 51000
+gomsipjorn: folds 
+Uncalled bet (37800) returned to chuchukat
+chuchukat collected 35400 from pot
+chuchukat: doesn't show hand 
+*** SUMMARY ***
+Total pot 35400 | Rake 0 
+Seat 1: Naaarrrr folded before Flop (didn't bet)
+Seat 2: LV_Arturs (button) folded before Flop (didn't bet)
+Seat 3: fellipeschmeil (small blind) folded before Flop
+Seat 4: chuchukat (big blind) collected (35400)
+Seat 5: lftgjc folded before Flop (didn't bet)
+Seat 6: vip_1985Z folded before Flop (didn't bet)
+Seat 7: gomsipjorn folded before Flop
+Seat 8: Pedrozadota folded before Flop (didn't bet)
+
+PokerStars Hand #251207073081: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:36:42 UTC [2024/06/26 16:36:42 ET]
+Table '3767885527 57' 8-max Seat #3 is the button
+Seat 1: Naaarrrr (227038 in chips) 
+Seat 2: LV_Arturs (131127 in chips) 
+Seat 3: fellipeschmeil (63574 in chips) 
+Seat 4: chuchukat (358804 in chips) 
+Seat 5: lftgjc (235387 in chips) 
+Seat 6: vip_1985Z (49893 in chips) 
+Seat 7: gomsipjorn (215761 in chips) 
+Seat 8: Pedrozadota (86734 in chips) 
+Naaarrrr: posts the ante 750
+LV_Arturs: posts the ante 750
+fellipeschmeil: posts the ante 750
+chuchukat: posts the ante 750
+lftgjc: posts the ante 750
+vip_1985Z: posts the ante 750
+gomsipjorn: posts the ante 750
+Pedrozadota: posts the ante 750
+chuchukat: posts small blind 3000
+lftgjc: posts big blind 6000
+*** HOLE CARDS ***
+vip_1985Z: folds 
+gomsipjorn: folds 
+Pedrozadota: folds 
+Naaarrrr: folds 
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: raises 15000 to 21000
+lftgjc: raises 33000 to 54000
+chuchukat: folds 
+Uncalled bet (33000) returned to lftgjc
+lftgjc collected 48000 from pot
+lftgjc: doesn't show hand 
+*** SUMMARY ***
+Total pot 48000 | Rake 0 
+Seat 1: Naaarrrr folded before Flop (didn't bet)
+Seat 2: LV_Arturs folded before Flop (didn't bet)
+Seat 3: fellipeschmeil (button) folded before Flop (didn't bet)
+Seat 4: chuchukat (small blind) folded before Flop
+Seat 5: lftgjc (big blind) collected (48000)
+Seat 6: vip_1985Z folded before Flop (didn't bet)
+Seat 7: gomsipjorn folded before Flop (didn't bet)
+Seat 8: Pedrozadota folded before Flop (didn't bet)
+
+PokerStars Hand #251207083107: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:37:17 UTC [2024/06/26 16:37:17 ET]
+Table '3767885527 57' 8-max Seat #4 is the button
+Seat 1: Naaarrrr (226288 in chips) 
+Seat 2: LV_Arturs (130377 in chips) 
+Seat 3: fellipeschmeil (62824 in chips) 
+Seat 4: chuchukat (337054 in chips) 
+Seat 5: lftgjc (261637 in chips) 
+Seat 6: vip_1985Z (49143 in chips) 
+Seat 7: gomsipjorn (215011 in chips) 
+Seat 8: Pedrozadota (85984 in chips) 
+Naaarrrr: posts the ante 750
+LV_Arturs: posts the ante 750
+fellipeschmeil: posts the ante 750
+chuchukat: posts the ante 750
+lftgjc: posts the ante 750
+vip_1985Z: posts the ante 750
+gomsipjorn: posts the ante 750
+Pedrozadota: posts the ante 750
+lftgjc: posts small blind 3000
+vip_1985Z: posts big blind 6000
+*** HOLE CARDS ***
+gomsipjorn: raises 6000 to 12000
+Pedrozadota: folds 
+Naaarrrr: folds 
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: calls 12000
+lftgjc: folds 
+vip_1985Z: calls 6000
+*** FLOP *** [5h Ts 2d]
+vip_1985Z: bets 36393 and is all-in
+gomsipjorn: folds 
+chuchukat: folds 
+Uncalled bet (36393) returned to vip_1985Z
+vip_1985Z collected 45000 from pot
+vip_1985Z: doesn't show hand 
+*** SUMMARY ***
+Total pot 45000 | Rake 0 
+Board [5h Ts 2d]
+Seat 1: Naaarrrr folded before Flop (didn't bet)
+Seat 2: LV_Arturs folded before Flop (didn't bet)
+Seat 3: fellipeschmeil folded before Flop (didn't bet)
+Seat 4: chuchukat (button) folded on the Flop
+Seat 5: lftgjc (small blind) folded before Flop
+Seat 6: vip_1985Z (big blind) collected (45000)
+Seat 7: gomsipjorn folded on the Flop
+Seat 8: Pedrozadota folded before Flop (didn't bet)
+
+PokerStars Hand #251207097684: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:38:08 UTC [2024/06/26 16:38:08 ET]
+Table '3767885527 57' 8-max Seat #5 is the button
+Seat 1: Naaarrrr (225538 in chips) 
+Seat 2: LV_Arturs (129627 in chips) 
+Seat 3: fellipeschmeil (62074 in chips) 
+Seat 4: chuchukat (324304 in chips) 
+Seat 5: lftgjc (257887 in chips) 
+Seat 6: vip_1985Z (81393 in chips) 
+Seat 7: gomsipjorn (202261 in chips) 
+Seat 8: Pedrozadota (85234 in chips) 
+Naaarrrr: posts the ante 750
+LV_Arturs: posts the ante 750
+fellipeschmeil: posts the ante 750
+chuchukat: posts the ante 750
+lftgjc: posts the ante 750
+vip_1985Z: posts the ante 750
+gomsipjorn: posts the ante 750
+Pedrozadota: posts the ante 750
+vip_1985Z: posts small blind 3000
+gomsipjorn: posts big blind 6000
+*** HOLE CARDS ***
+Pedrozadota: folds 
+Naaarrrr: folds 
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: raises 6000 to 12000
+lftgjc: folds 
+vip_1985Z: folds 
+gomsipjorn: folds 
+Uncalled bet (6000) returned to chuchukat
+chuchukat collected 21000 from pot
+chuchukat: doesn't show hand 
+*** SUMMARY ***
+Total pot 21000 | Rake 0 
+Seat 1: Naaarrrr folded before Flop (didn't bet)
+Seat 2: LV_Arturs folded before Flop (didn't bet)
+Seat 3: fellipeschmeil folded before Flop (didn't bet)
+Seat 4: chuchukat collected (21000)
+Seat 5: lftgjc (button) folded before Flop (didn't bet)
+Seat 6: vip_1985Z (small blind) folded before Flop
+Seat 7: gomsipjorn (big blind) folded before Flop
+Seat 8: Pedrozadota folded before Flop (didn't bet)
+
+PokerStars Hand #251207104273: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:38:32 UTC [2024/06/26 16:38:32 ET]
+Table '3767885527 57' 8-max Seat #6 is the button
+Seat 1: Naaarrrr (224788 in chips) 
+Seat 2: LV_Arturs (128877 in chips) 
+Seat 3: fellipeschmeil (61324 in chips) 
+Seat 4: chuchukat (338554 in chips) 
+Seat 5: lftgjc (257137 in chips) 
+Seat 6: vip_1985Z (77643 in chips) 
+Seat 7: gomsipjorn (195511 in chips) 
+Seat 8: Pedrozadota (84484 in chips) 
+Naaarrrr: posts the ante 750
+LV_Arturs: posts the ante 750
+fellipeschmeil: posts the ante 750
+chuchukat: posts the ante 750
+lftgjc: posts the ante 750
+vip_1985Z: posts the ante 750
+gomsipjorn: posts the ante 750
+Pedrozadota: posts the ante 750
+gomsipjorn: posts small blind 3000
+Pedrozadota: posts big blind 6000
+*** HOLE CARDS ***
+Naaarrrr: folds 
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: folds 
+lftgjc: folds 
+vip_1985Z: folds 
+gomsipjorn: calls 3000
+Pedrozadota: checks 
+*** FLOP *** [4c 7h Qc]
+gomsipjorn: checks 
+Pedrozadota: bets 6000
+gomsipjorn: folds 
+Uncalled bet (6000) returned to Pedrozadota
+Pedrozadota collected 18000 from pot
+Pedrozadota: doesn't show hand 
+*** SUMMARY ***
+Total pot 18000 | Rake 0 
+Board [4c 7h Qc]
+Seat 1: Naaarrrr folded before Flop (didn't bet)
+Seat 2: LV_Arturs folded before Flop (didn't bet)
+Seat 3: fellipeschmeil folded before Flop (didn't bet)
+Seat 4: chuchukat folded before Flop (didn't bet)
+Seat 5: lftgjc folded before Flop (didn't bet)
+Seat 6: vip_1985Z (button) folded before Flop (didn't bet)
+Seat 7: gomsipjorn (small blind) folded on the Flop
+Seat 8: Pedrozadota (big blind) collected (18000)
+
+PokerStars Hand #251207116119: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:39:14 UTC [2024/06/26 16:39:14 ET]
+Table '3767885527 57' 8-max Seat #7 is the button
+Seat 1: Naaarrrr (224038 in chips) 
+Seat 2: LV_Arturs (128127 in chips) 
+Seat 3: fellipeschmeil (60574 in chips) 
+Seat 4: chuchukat (337804 in chips) 
+Seat 5: lftgjc (256387 in chips) 
+Seat 6: vip_1985Z (76893 in chips) 
+Seat 7: gomsipjorn (188761 in chips) 
+Seat 8: Pedrozadota (95734 in chips) 
+Naaarrrr: posts the ante 750
+LV_Arturs: posts the ante 750
+fellipeschmeil: posts the ante 750
+chuchukat: posts the ante 750
+lftgjc: posts the ante 750
+vip_1985Z: posts the ante 750
+gomsipjorn: posts the ante 750
+Pedrozadota: posts the ante 750
+Pedrozadota: posts small blind 3000
+Naaarrrr: posts big blind 6000
+*** HOLE CARDS ***
+LV_Arturs: folds 
+fellipeschmeil: folds 
+chuchukat: folds 
+lftgjc: folds 
+vip_1985Z: folds 
+gomsipjorn: folds 
+Pedrozadota: raises 88984 to 94984 and is all-in
+Naaarrrr: calls 88984
+*** FLOP *** [Qh 4h 5s]
+*** TURN *** [Qh 4h 5s] [Kc]
+*** RIVER *** [Qh 4h 5s Kc] [Qd]
+*** SHOW DOWN ***
+Pedrozadota: shows [Jc 9c] (a pair of Queens)
+Naaarrrr: shows [Ah Tc] (a pair of Queens - Ace kicker)
+Naaarrrr collected 195968 from pot
+Pedrozadota finished the tournament in 253rd place and received $104.64.
+*** SUMMARY ***
+Total pot 195968 | Rake 0 
+Board [Qh 4h 5s Kc Qd]
+Seat 1: Naaarrrr (big blind) showed [Ah Tc] and won (195968) with a pair of Queens
+Seat 2: LV_Arturs folded before Flop (didn't bet)
+Seat 3: fellipeschmeil folded before Flop (didn't bet)
+Seat 4: chuchukat folded before Flop (didn't bet)
+Seat 5: lftgjc folded before Flop (didn't bet)
+Seat 6: vip_1985Z folded before Flop (didn't bet)
+Seat 7: gomsipjorn (button) folded before Flop (didn't bet)
+Seat 8: Pedrozadota (small blind) showed [Jc 9c] and lost with a pair of Queens
+
+PokerStars Hand #251207124024: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XX (3000/6000) - 2024/06/26 20:39:42 UTC [2024/06/26 16:39:42 ET]
+Table '3767885527 57' 8-max Seat #1 is the button
+Seat 1: Naaarrrr (324272 in chips) 
+Seat 2: LV_Arturs (127377 in chips) 
+Seat 3: fellipeschmeil (59824 in chips) 
+Seat 4: chuchukat (337054 in chips) 
+Seat 5: lftgjc (255637 in chips) 
+Seat 6: vip_1985Z (76143 in chips) 
+Seat 7: gomsipjorn (188011 in chips) 
+Naaarrrr: posts the ante 750
+LV_Arturs: posts the ante 750
+fellipeschmeil: posts the ante 750
+chuchukat: posts the ante 750
+lftgjc: posts the ante 750
+vip_1985Z: posts the ante 750
+gomsipjorn: posts the ante 750
+LV_Arturs: posts small blind 3000
+fellipeschmeil: posts big blind 6000
+*** HOLE CARDS ***
+chuchukat: folds 
+lftgjc: folds 
+vip_1985Z: folds 
+gomsipjorn: folds 
+Naaarrrr: raises 6000 to 12000
+LV_Arturs: folds 
+fellipeschmeil: calls 6000
+*** FLOP *** [4c Ts 3d]
+fellipeschmeil: checks 
+Naaarrrr: bets 6000
+fellipeschmeil: raises 41074 to 47074 and is all-in
+Naaarrrr: calls 41074
+*** TURN *** [4c Ts 3d] [5s]
+*** RIVER *** [4c Ts 3d 5s] [8h]
+*** SHOW DOWN ***
+fellipeschmeil: shows [5d 6h] (a pair of Fives)
+Naaarrrr: shows [Tc Jc] (a pair of Tens)
+Naaarrrr collected 126398 from pot
+fellipeschmeil finished the tournament in 249th place and received $104.64.
+*** SUMMARY ***
+Total pot 126398 | Rake 0 
+Board [4c Ts 3d 5s 8h]
+Seat 1: Naaarrrr (button) showed [Tc Jc] and won (126398) with a pair of Tens
+Seat 2: LV_Arturs (small blind) folded before Flop
+Seat 3: fellipeschmeil (big blind) showed [5d 6h] and lost with a pair of Fives
+Seat 4: chuchukat folded before Flop (didn't bet)
+Seat 5: lftgjc folded before Flop (didn't bet)
+Seat 6: vip_1985Z folded before Flop (didn't bet)
+Seat 7: gomsipjorn folded before Flop (didn't bet)

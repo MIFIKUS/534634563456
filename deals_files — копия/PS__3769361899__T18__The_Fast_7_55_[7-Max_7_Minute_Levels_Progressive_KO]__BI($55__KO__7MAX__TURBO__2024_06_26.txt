@@ -1,0 +1,1445 @@
+PokerStars Hand #251209347533: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXII (2000/4000) - 2024/06/26 22:20:22 UTC [2024/06/26 18:20:22 ET]
+Table '3769361899 18' 7-max Seat #2 is the button
+Seat 1: AGV AA90 (169539 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (241530 in chips, $260.93 bounty) 
+Seat 4: giftmyra (277273 in chips, $374.18 bounty) 
+Seat 6: FatWinz420 (101546 in chips, $115.62 bounty) 
+Seat 7: tiwest (151572 in chips, $93.75 bounty) 
+AGV AA90: posts the ante 500
+Parchon6: posts the ante 500
+giftmyra: posts the ante 500
+FatWinz420: posts the ante 500
+tiwest: posts the ante 500
+giftmyra: posts small blind 2000
+FatWinz420: posts big blind 4000
+*** HOLE CARDS ***
+tiwest: folds 
+AGV AA90: raises 4000 to 8000
+Parchon6: folds 
+giftmyra: folds 
+FatWinz420: folds 
+Uncalled bet (4000) returned to AGV AA90
+AGV AA90 collected 12500 from pot
+*** SUMMARY ***
+Total pot 12500 | Rake 0 
+Seat 1: AGV AA90 collected (12500)
+Seat 2: Parchon6 (button) folded before Flop (didn't bet)
+Seat 4: giftmyra (small blind) folded before Flop
+Seat 6: FatWinz420 (big blind) folded before Flop
+Seat 7: tiwest folded before Flop (didn't bet)
+
+PokerStars Hand #251209355608: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXII (2000/4000) - 2024/06/26 22:20:51 UTC [2024/06/26 18:20:51 ET]
+Table '3769361899 18' 7-max Seat #4 is the button
+Seat 1: AGV AA90 (177539 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (241030 in chips, $260.93 bounty) 
+Seat 4: giftmyra (274773 in chips, $374.18 bounty) 
+Seat 6: FatWinz420 (97046 in chips, $115.62 bounty) 
+Seat 7: tiwest (151072 in chips, $93.75 bounty) 
+AGV AA90: posts the ante 500
+Parchon6: posts the ante 500
+giftmyra: posts the ante 500
+FatWinz420: posts the ante 500
+tiwest: posts the ante 500
+FatWinz420: posts small blind 2000
+tiwest: posts big blind 4000
+*** HOLE CARDS ***
+AGV AA90: folds 
+Parchon6: raises 4400 to 8400
+giftmyra: folds 
+FatWinz420: folds 
+tiwest: folds 
+Uncalled bet (4400) returned to Parchon6
+Parchon6 collected 12500 from pot
+Parchon6: doesn't show hand 
+*** SUMMARY ***
+Total pot 12500 | Rake 0 
+Seat 1: AGV AA90 folded before Flop (didn't bet)
+Seat 2: Parchon6 collected (12500)
+Seat 4: giftmyra (button) folded before Flop (didn't bet)
+Seat 6: FatWinz420 (small blind) folded before Flop
+Seat 7: tiwest (big blind) folded before Flop
+
+PokerStars Hand #251209358627: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXII (2000/4000) - 2024/06/26 22:21:02 UTC [2024/06/26 18:21:02 ET]
+Table '3769361899 18' 7-max Seat #6 is the button
+Seat 1: AGV AA90 (177039 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (249030 in chips, $260.93 bounty) 
+Seat 4: giftmyra (274273 in chips, $374.18 bounty) 
+Seat 6: FatWinz420 (94546 in chips, $115.62 bounty) 
+Seat 7: tiwest (146572 in chips, $93.75 bounty) 
+AGV AA90: posts the ante 500
+Parchon6: posts the ante 500
+giftmyra: posts the ante 500
+FatWinz420: posts the ante 500
+tiwest: posts the ante 500
+tiwest: posts small blind 2000
+AGV AA90: posts big blind 4000
+*** HOLE CARDS ***
+Parchon6: folds 
+giftmyra: raises 4400 to 8400
+FatWinz420: folds 
+tiwest: folds 
+AGV AA90: folds 
+Uncalled bet (4400) returned to giftmyra
+giftmyra collected 12500 from pot
+giftmyra: doesn't show hand 
+*** SUMMARY ***
+Total pot 12500 | Rake 0 
+Seat 1: AGV AA90 (big blind) folded before Flop
+Seat 2: Parchon6 folded before Flop (didn't bet)
+Seat 4: giftmyra collected (12500)
+Seat 6: FatWinz420 (button) folded before Flop (didn't bet)
+Seat 7: tiwest (small blind) folded before Flop
+
+PokerStars Hand #251209366218: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXII (2000/4000) - 2024/06/26 22:21:29 UTC [2024/06/26 18:21:29 ET]
+Table '3769361899 18' 7-max Seat #7 is the button
+Seat 1: AGV AA90 (172539 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (248530 in chips, $260.93 bounty) 
+Seat 4: giftmyra (282273 in chips, $374.18 bounty) 
+Seat 6: FatWinz420 (94046 in chips, $115.62 bounty) 
+Seat 7: tiwest (144072 in chips, $93.75 bounty) 
+AGV AA90: posts the ante 500
+Parchon6: posts the ante 500
+giftmyra: posts the ante 500
+FatWinz420: posts the ante 500
+tiwest: posts the ante 500
+AGV AA90: posts small blind 2000
+Parchon6: posts big blind 4000
+*** HOLE CARDS ***
+giftmyra: raises 4400 to 8400
+FatWinz420: folds 
+tiwest: folds 
+AGV AA90: raises 25600 to 34000
+Parchon6: folds 
+giftmyra: folds 
+Uncalled bet (25600) returned to AGV AA90
+AGV AA90 collected 23300 from pot
+*** SUMMARY ***
+Total pot 23300 | Rake 0 
+Seat 1: AGV AA90 (small blind) collected (23300)
+Seat 2: Parchon6 (big blind) folded before Flop
+Seat 4: giftmyra folded before Flop
+Seat 6: FatWinz420 folded before Flop (didn't bet)
+Seat 7: tiwest (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209377742: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXII (2000/4000) - 2024/06/26 22:22:10 UTC [2024/06/26 18:22:10 ET]
+Table '3769361899 18' 7-max Seat #1 is the button
+Seat 1: AGV AA90 (186939 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (244030 in chips, $260.93 bounty) 
+Seat 4: giftmyra (273373 in chips, $374.18 bounty) 
+Seat 6: FatWinz420 (93546 in chips, $115.62 bounty) 
+Seat 7: tiwest (143572 in chips, $93.75 bounty) 
+AGV AA90: posts the ante 500
+Parchon6: posts the ante 500
+giftmyra: posts the ante 500
+FatWinz420: posts the ante 500
+tiwest: posts the ante 500
+Parchon6: posts small blind 2000
+giftmyra: posts big blind 4000
+*** HOLE CARDS ***
+garrafalitro is disconnected 
+FatWinz420: folds 
+tiwest: folds 
+AGV AA90: folds 
+Parchon6: calls 2000
+giftmyra: checks 
+*** FLOP *** [Jh Kd 6h]
+Parchon6: bets 4000
+giftmyra: calls 4000
+*** TURN *** [Jh Kd 6h] [2s]
+Parchon6: checks 
+giftmyra: bets 8000
+Parchon6: folds 
+Uncalled bet (8000) returned to giftmyra
+giftmyra collected 18500 from pot
+giftmyra: doesn't show hand 
+*** SUMMARY ***
+Total pot 18500 | Rake 0 
+Board [Jh Kd 6h 2s]
+Seat 1: AGV AA90 (button) folded before Flop (didn't bet)
+Seat 2: Parchon6 (small blind) folded on the Turn
+Seat 4: giftmyra (big blind) collected (18500)
+Seat 6: FatWinz420 folded before Flop (didn't bet)
+Seat 7: tiwest folded before Flop (didn't bet)
+
+PokerStars Hand #251209388220: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXIII (2500/5000) - 2024/06/26 22:22:48 UTC [2024/06/26 18:22:48 ET]
+Table '3769361899 18' 7-max Seat #2 is the button
+Seat 1: AGV AA90 (186439 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (235530 in chips, $260.93 bounty) 
+Seat 3: xeqter666 (70882 in chips) out of hand (moved from another table into small blind)
+Seat 4: giftmyra (283373 in chips, $374.18 bounty) 
+Seat 5: garrafalitro (340193 in chips, $395.30 bounty) 
+Seat 6: FatWinz420 (93046 in chips, $115.62 bounty) 
+Seat 7: tiwest (143072 in chips, $93.75 bounty) 
+xeqter666 will be allowed to play after the button
+AGV AA90: posts the ante 600
+Parchon6: posts the ante 600
+giftmyra: posts the ante 600
+garrafalitro: posts the ante 600
+FatWinz420: posts the ante 600
+tiwest: posts the ante 600
+giftmyra: posts small blind 2500
+garrafalitro: posts big blind 5000
+*** HOLE CARDS ***
+FatWinz420: raises 5000 to 10000
+tiwest: calls 10000
+AGV AA90: folds 
+Parchon6: calls 10000
+giftmyra: calls 7500
+garrafalitro: folds 
+*** FLOP *** [Js 4s 2d]
+giftmyra: checks 
+FatWinz420: checks 
+tiwest: checks 
+Parchon6: bets 14510
+giftmyra: calls 14510
+FatWinz420: folds 
+tiwest: folds 
+*** TURN *** [Js 4s 2d] [7d]
+giftmyra: checks 
+Parchon6: bets 27500
+giftmyra: calls 27500
+*** RIVER *** [Js 4s 2d 7d] [9s]
+giftmyra: checks 
+Parchon6: checks 
+*** SHOW DOWN ***
+giftmyra: shows [4h 6h] (a pair of Fours)
+Parchon6: shows [6s 6c] (a pair of Sixes)
+Parchon6 collected 132620 from pot
+*** SUMMARY ***
+Total pot 132620 | Rake 0 
+Board [Js 4s 2d 7d 9s]
+Seat 1: AGV AA90 folded before Flop (didn't bet)
+Seat 2: Parchon6 (button) showed [6s 6c] and won (132620) with a pair of Sixes
+Seat 4: giftmyra (small blind) showed [4h 6h] and lost with a pair of Fours
+Seat 5: garrafalitro (big blind) folded before Flop
+Seat 6: FatWinz420 folded on the Flop
+Seat 7: tiwest folded on the Flop
+
+PokerStars Hand #251209408978: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXIII (2500/5000) - 2024/06/26 22:24:02 UTC [2024/06/26 18:24:02 ET]
+Table '3769361899 18' 7-max Seat #4 is the button
+Seat 1: AGV AA90 (185839 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (315540 in chips, $260.93 bounty) 
+Seat 3: xeqter666 (70882 in chips, $154.68 bounty) 
+Seat 4: giftmyra (230763 in chips, $374.18 bounty) 
+Seat 5: garrafalitro (334593 in chips, $395.30 bounty) 
+Seat 6: FatWinz420 (82446 in chips, $115.62 bounty) 
+Seat 7: tiwest (132472 in chips, $93.75 bounty) 
+AGV AA90: posts the ante 600
+Parchon6: posts the ante 600
+xeqter666: posts the ante 600
+giftmyra: posts the ante 600
+garrafalitro: posts the ante 600
+FatWinz420: posts the ante 600
+tiwest: posts the ante 600
+garrafalitro: posts small blind 2500
+FatWinz420: posts big blind 5000
+*** HOLE CARDS ***
+tiwest: folds 
+AGV AA90: raises 5000 to 10000
+Parchon6: calls 10000
+xeqter666: folds 
+giftmyra: folds 
+garrafalitro: calls 7500
+FatWinz420: folds 
+*** FLOP *** [5d 4s Kd]
+garrafalitro: checks 
+AGV AA90: bets 12936
+Parchon6: folds 
+garrafalitro: folds 
+Uncalled bet (12936) returned to AGV AA90
+AGV AA90 collected 39200 from pot
+*** SUMMARY ***
+Total pot 39200 | Rake 0 
+Board [5d 4s Kd]
+Seat 1: AGV AA90 collected (39200)
+Seat 2: Parchon6 folded on the Flop
+Seat 3: xeqter666 folded before Flop (didn't bet)
+Seat 4: giftmyra (button) folded before Flop (didn't bet)
+Seat 5: garrafalitro (small blind) folded on the Flop
+Seat 6: FatWinz420 (big blind) folded before Flop
+Seat 7: tiwest folded before Flop (didn't bet)
+
+PokerStars Hand #251209421970: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXIII (2500/5000) - 2024/06/26 22:24:50 UTC [2024/06/26 18:24:50 ET]
+Table '3769361899 18' 7-max Seat #5 is the button
+Seat 1: AGV AA90 (214439 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (304940 in chips, $260.93 bounty) 
+Seat 3: xeqter666 (70282 in chips, $154.68 bounty) 
+Seat 4: giftmyra (230163 in chips, $374.18 bounty) 
+Seat 5: garrafalitro (323993 in chips, $395.30 bounty) 
+Seat 6: FatWinz420 (76846 in chips, $115.62 bounty) 
+Seat 7: tiwest (131872 in chips, $93.75 bounty) 
+AGV AA90: posts the ante 600
+Parchon6: posts the ante 600
+xeqter666: posts the ante 600
+giftmyra: posts the ante 600
+garrafalitro: posts the ante 600
+FatWinz420: posts the ante 600
+tiwest: posts the ante 600
+FatWinz420: posts small blind 2500
+tiwest: posts big blind 5000
+*** HOLE CARDS ***
+AGV AA90: folds 
+Parchon6: folds 
+xeqter666: folds 
+giftmyra: folds 
+garrafalitro: raises 5000 to 10000
+FatWinz420: folds 
+tiwest: calls 5000
+*** FLOP *** [Ac Jd 5h]
+tiwest: checks 
+garrafalitro: bets 6500
+tiwest: calls 6500
+*** TURN *** [Ac Jd 5h] [Jc]
+tiwest: checks 
+garrafalitro: checks 
+*** RIVER *** [Ac Jd 5h Jc] [Ah]
+tiwest: bets 15000
+garrafalitro: folds 
+Uncalled bet (15000) returned to tiwest
+tiwest collected 39700 from pot
+tiwest: doesn't show hand 
+*** SUMMARY ***
+Total pot 39700 | Rake 0 
+Board [Ac Jd 5h Jc Ah]
+Seat 1: AGV AA90 folded before Flop (didn't bet)
+Seat 2: Parchon6 folded before Flop (didn't bet)
+Seat 3: xeqter666 folded before Flop (didn't bet)
+Seat 4: giftmyra folded before Flop (didn't bet)
+Seat 5: garrafalitro (button) folded on the River
+Seat 6: FatWinz420 (small blind) folded before Flop
+Seat 7: tiwest (big blind) collected (39700)
+
+PokerStars Hand #251209445407: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXIII (2500/5000) - 2024/06/26 22:26:14 UTC [2024/06/26 18:26:14 ET]
+Table '3769361899 18' 7-max Seat #6 is the button
+Seat 1: AGV AA90 (213839 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (304340 in chips, $260.93 bounty) 
+Seat 3: xeqter666 (69682 in chips, $154.68 bounty) 
+Seat 4: giftmyra (229563 in chips, $374.18 bounty) 
+Seat 5: garrafalitro (306893 in chips, $395.30 bounty) 
+Seat 6: FatWinz420 (73746 in chips, $115.62 bounty) 
+Seat 7: tiwest (154472 in chips, $93.75 bounty) 
+AGV AA90: posts the ante 600
+Parchon6: posts the ante 600
+xeqter666: posts the ante 600
+giftmyra: posts the ante 600
+garrafalitro: posts the ante 600
+FatWinz420: posts the ante 600
+tiwest: posts the ante 600
+tiwest: posts small blind 2500
+AGV AA90: posts big blind 5000
+*** HOLE CARDS ***
+Parchon6: folds 
+xeqter666: folds 
+giftmyra: raises 5500 to 10500
+garrafalitro: folds 
+FatWinz420: folds 
+tiwest: calls 8000
+AGV AA90: raises 34500 to 45000
+giftmyra: raises 183963 to 228963 and is all-in
+tiwest: folds 
+AGV AA90: calls 168239 and is all-in
+Uncalled bet (15724) returned to giftmyra
+*** FLOP *** [Ts Kc Kh]
+*** TURN *** [Ts Kc Kh] [Qc]
+*** RIVER *** [Ts Kc Kh Qc] [Ah]
+*** SHOW DOWN ***
+AGV AA90: shows [Jc Jh] (a straight, Ten to Ace)
+giftmyra: shows [4d 4h] (two pair, Kings and Fours)
+AGV AA90 collected 441178 from pot
+*** SUMMARY ***
+Total pot 441178 | Rake 0 
+Board [Ts Kc Kh Qc Ah]
+Seat 1: AGV AA90 (big blind) showed [Jc Jh] and won (441178) with a straight, Ten to Ace
+Seat 2: Parchon6 folded before Flop (didn't bet)
+Seat 3: xeqter666 folded before Flop (didn't bet)
+Seat 4: giftmyra showed [4d 4h] and lost with two pair, Kings and Fours
+Seat 5: garrafalitro folded before Flop (didn't bet)
+Seat 6: FatWinz420 (button) folded before Flop (didn't bet)
+Seat 7: tiwest (small blind) folded before Flop
+
+PokerStars Hand #251209461841: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXIII (2500/5000) - 2024/06/26 22:27:13 UTC [2024/06/26 18:27:13 ET]
+Table '3769361899 18' 7-max Seat #7 is the button
+Seat 1: AGV AA90 (441178 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (303740 in chips, $260.93 bounty) 
+Seat 3: xeqter666 (69082 in chips, $154.68 bounty) 
+Seat 4: giftmyra (15724 in chips, $374.18 bounty) 
+Seat 5: garrafalitro (306293 in chips, $395.30 bounty) 
+Seat 6: FatWinz420 (73146 in chips, $115.62 bounty) 
+Seat 7: tiwest (143372 in chips, $93.75 bounty) 
+AGV AA90: posts the ante 600
+Parchon6: posts the ante 600
+xeqter666: posts the ante 600
+giftmyra: posts the ante 600
+garrafalitro: posts the ante 600
+FatWinz420: posts the ante 600
+tiwest: posts the ante 600
+AGV AA90: posts small blind 2500
+Parchon6: posts big blind 5000
+*** HOLE CARDS ***
+xeqter666: folds 
+giftmyra: raises 10124 to 15124 and is all-in
+garrafalitro: folds 
+FatWinz420: folds 
+tiwest: raises 127648 to 142772 and is all-in
+AGV AA90: folds 
+Parchon6: calls 137772
+*** FLOP *** [Ad Qs 2c]
+*** TURN *** [Ad Qs 2c] [3s]
+*** RIVER *** [Ad Qs 2c 3s] [3c]
+*** SHOW DOWN ***
+Parchon6: shows [Ah Ts] (two pair, Aces and Threes)
+tiwest: shows [Ac 8h] (two pair, Aces and Threes)
+Parchon6 collected 127648 from side pot
+tiwest collected 127648 from side pot
+giftmyra: shows [Js Kh] (a pair of Threes)
+Parchon6 collected 26036 from main pot
+tiwest collected 26036 from main pot
+Parchon6 wins $93.55 for splitting the elimination of giftmyra and their own bounty increases by $93.54 to $354.47
+tiwest wins $93.55 for splitting the elimination of giftmyra and their own bounty increases by $93.54 to $187.29
+giftmyra finished the tournament in 14th place and received $78.92.
+*** SUMMARY ***
+Total pot 307368 Main pot 52072. Side pot 255296. | Rake 0 
+Board [Ad Qs 2c 3s 3c]
+Seat 1: AGV AA90 (small blind) folded before Flop
+Seat 2: Parchon6 (big blind) showed [Ah Ts] and won (153684) with two pair, Aces and Threes
+Seat 3: xeqter666 folded before Flop (didn't bet)
+Seat 4: giftmyra showed [Js Kh] and lost with a pair of Threes
+Seat 5: garrafalitro folded before Flop (didn't bet)
+Seat 6: FatWinz420 folded before Flop (didn't bet)
+Seat 7: tiwest (button) showed [Ac 8h] and won (153684) with two pair, Aces and Threes
+
+PokerStars Hand #251209476389: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXIII (2500/5000) - 2024/06/26 22:28:05 UTC [2024/06/26 18:28:05 ET]
+Table '3769361899 18' 7-max Seat #1 is the button
+Seat 1: AGV AA90 (438078 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (314052 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (68482 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (305693 in chips, $395.30 bounty) 
+Seat 6: FatWinz420 (72546 in chips, $115.62 bounty) 
+Seat 7: tiwest (153684 in chips, $187.29 bounty) 
+AGV AA90: posts the ante 600
+Parchon6: posts the ante 600
+xeqter666: posts the ante 600
+garrafalitro: posts the ante 600
+FatWinz420: posts the ante 600
+tiwest: posts the ante 600
+Parchon6: posts small blind 2500
+xeqter666: posts big blind 5000
+*** HOLE CARDS ***
+garrafalitro: folds 
+FatWinz420: folds 
+tiwest: folds 
+AGV AA90: folds 
+Parchon6: raises 308452 to 313452 and is all-in
+xeqter666: calls 62882 and is all-in
+Uncalled bet (245570) returned to Parchon6
+*** FLOP *** [7d Kc 9s]
+*** TURN *** [7d Kc 9s] [2c]
+*** RIVER *** [7d Kc 9s 2c] [6d]
+*** SHOW DOWN ***
+Parchon6: shows [9d Qh] (a pair of Nines)
+xeqter666: shows [Ks Ts] (a pair of Kings)
+xeqter666 collected 139364 from pot
+*** SUMMARY ***
+Total pot 139364 | Rake 0 
+Board [7d Kc 9s 2c 6d]
+Seat 1: AGV AA90 (button) folded before Flop (didn't bet)
+Seat 2: Parchon6 (small blind) showed [9d Qh] and lost with a pair of Nines
+Seat 3: xeqter666 (big blind) showed [Ks Ts] and won (139364) with a pair of Kings
+Seat 5: garrafalitro folded before Flop (didn't bet)
+Seat 6: FatWinz420 folded before Flop (didn't bet)
+Seat 7: tiwest folded before Flop (didn't bet)
+
+PokerStars Hand #251209485584: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXIII (2500/5000) - 2024/06/26 22:28:38 UTC [2024/06/26 18:28:38 ET]
+Table '3769361899 18' 7-max Seat #2 is the button
+Seat 1: AGV AA90 (437478 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (245570 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (139364 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (305093 in chips, $395.30 bounty) 
+Seat 6: FatWinz420 (71946 in chips, $115.62 bounty) 
+Seat 7: tiwest (153084 in chips, $187.29 bounty) 
+AGV AA90: posts the ante 600
+Parchon6: posts the ante 600
+xeqter666: posts the ante 600
+garrafalitro: posts the ante 600
+FatWinz420: posts the ante 600
+tiwest: posts the ante 600
+xeqter666: posts small blind 2500
+garrafalitro: posts big blind 5000
+*** HOLE CARDS ***
+FatWinz420: folds 
+tiwest: folds 
+AGV AA90: folds 
+Parchon6: raises 5500 to 10500
+xeqter666: folds 
+garrafalitro: calls 5500
+*** FLOP *** [6c 8d Tc]
+garrafalitro: checks 
+Parchon6: checks 
+*** TURN *** [6c 8d Tc] [7s]
+garrafalitro: bets 8130
+Parchon6: calls 8130
+*** RIVER *** [6c 8d Tc 7s] [Ac]
+garrafalitro: bets 62200
+Parchon6: folds 
+Uncalled bet (62200) returned to garrafalitro
+garrafalitro collected 43360 from pot
+garrafalitro: doesn't show hand 
+*** SUMMARY ***
+Total pot 43360 | Rake 0 
+Board [6c 8d Tc 7s Ac]
+Seat 1: AGV AA90 folded before Flop (didn't bet)
+Seat 2: Parchon6 (button) folded on the River
+Seat 3: xeqter666 (small blind) folded before Flop
+Seat 5: garrafalitro (big blind) collected (43360)
+Seat 6: FatWinz420 folded before Flop (didn't bet)
+Seat 7: tiwest folded before Flop (didn't bet)
+
+PokerStars Hand #251209512210: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXIV (3000/6000) - 2024/06/26 22:30:14 UTC [2024/06/26 18:30:14 ET]
+Table '3769361899 18' 7-max Seat #3 is the button
+Seat 1: AGV AA90 (436878 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (226340 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (136264 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (329223 in chips, $395.30 bounty) 
+Seat 6: FatWinz420 (71346 in chips, $115.62 bounty) 
+Seat 7: tiwest (152484 in chips, $187.29 bounty) 
+AGV AA90: posts the ante 700
+Parchon6: posts the ante 700
+xeqter666: posts the ante 700
+garrafalitro: posts the ante 700
+FatWinz420: posts the ante 700
+tiwest: posts the ante 700
+garrafalitro: posts small blind 3000
+FatWinz420: posts big blind 6000
+*** HOLE CARDS ***
+tiwest: folds 
+AGV AA90: folds 
+Parchon6: raises 6600 to 12600
+xeqter666: folds 
+garrafalitro: folds 
+FatWinz420: calls 6600
+*** FLOP *** [8d 5d 8h]
+FatWinz420: checks 
+Parchon6: bets 9072
+FatWinz420: calls 9072
+*** TURN *** [8d 5d 8h] [2c]
+FatWinz420: checks 
+Parchon6: bets 12000
+FatWinz420: calls 12000
+*** RIVER *** [8d 5d 8h 2c] [Qs]
+FatWinz420: checks 
+Parchon6: bets 191968 and is all-in
+FatWinz420: folds 
+Uncalled bet (191968) returned to Parchon6
+Parchon6 collected 74544 from pot
+Parchon6: doesn't show hand 
+*** SUMMARY ***
+Total pot 74544 | Rake 0 
+Board [8d 5d 8h 2c Qs]
+Seat 1: AGV AA90 folded before Flop (didn't bet)
+Seat 2: Parchon6 collected (74544)
+Seat 3: xeqter666 (button) folded before Flop (didn't bet)
+Seat 5: garrafalitro (small blind) folded before Flop
+Seat 6: FatWinz420 (big blind) folded on the River
+Seat 7: tiwest folded before Flop (didn't bet)
+
+PokerStars Hand #251209526676: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXIV (3000/6000) - 2024/06/26 22:31:06 UTC [2024/06/26 18:31:06 ET]
+Table '3769361899 18' 7-max Seat #5 is the button
+Seat 1: AGV AA90 (436178 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (266512 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (135564 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (325523 in chips, $395.30 bounty) 
+Seat 6: FatWinz420 (36974 in chips, $115.62 bounty) 
+Seat 7: tiwest (151784 in chips, $187.29 bounty) 
+AGV AA90: posts the ante 700
+Parchon6: posts the ante 700
+xeqter666: posts the ante 700
+garrafalitro: posts the ante 700
+FatWinz420: posts the ante 700
+tiwest: posts the ante 700
+FatWinz420: posts small blind 3000
+tiwest: posts big blind 6000
+*** HOLE CARDS ***
+AGV AA90: raises 6000 to 12000
+Parchon6: folds 
+xeqter666: folds 
+garrafalitro: folds 
+FatWinz420: folds 
+tiwest: calls 6000
+*** FLOP *** [9c Qs 6d]
+tiwest: checks 
+AGV AA90: bets 7800
+tiwest: calls 7800
+*** TURN *** [9c Qs 6d] [3h]
+tiwest: checks 
+AGV AA90: bets 25272
+tiwest: folds 
+Uncalled bet (25272) returned to AGV AA90
+AGV AA90 collected 46800 from pot
+*** SUMMARY ***
+Total pot 46800 | Rake 0 
+Board [9c Qs 6d 3h]
+Seat 1: AGV AA90 collected (46800)
+Seat 2: Parchon6 folded before Flop (didn't bet)
+Seat 3: xeqter666 folded before Flop (didn't bet)
+Seat 5: garrafalitro (button) folded before Flop (didn't bet)
+Seat 6: FatWinz420 (small blind) folded before Flop
+Seat 7: tiwest (big blind) folded on the Turn
+
+PokerStars Hand #251209559073: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXIV (3000/6000) - 2024/06/26 22:33:05 UTC [2024/06/26 18:33:05 ET]
+Table '3769361899 18' 7-max Seat #6 is the button
+Seat 1: AGV AA90 (462478 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (265812 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (134864 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (324823 in chips, $395.30 bounty) 
+Seat 6: FatWinz420 (33274 in chips, $115.62 bounty) 
+Seat 7: tiwest (131284 in chips, $187.29 bounty) 
+AGV AA90: posts the ante 700
+Parchon6: posts the ante 700
+xeqter666: posts the ante 700
+garrafalitro: posts the ante 700
+FatWinz420: posts the ante 700
+tiwest: posts the ante 700
+tiwest: posts small blind 3000
+AGV AA90: posts big blind 6000
+*** HOLE CARDS ***
+Parchon6: raises 6600 to 12600
+xeqter666: folds 
+garrafalitro: calls 12600
+FatWinz420: raises 19974 to 32574 and is all-in
+tiwest: folds 
+AGV AA90: folds 
+Parchon6: calls 19974
+garrafalitro: raises 291549 to 324123 and is all-in
+Parchon6: folds 
+Uncalled bet (291549) returned to garrafalitro
+*** FLOP *** [5s 4d 2c]
+*** TURN *** [5s 4d 2c] [3c]
+*** RIVER *** [5s 4d 2c 3c] [Qs]
+*** SHOW DOWN ***
+garrafalitro: shows [Kd Qd] (a pair of Queens)
+FatWinz420: shows [9d 9c] (a pair of Nines)
+garrafalitro collected 110922 from pot
+garrafalitro wins $57.81 for eliminating FatWinz420 and their own bounty increases by $57.81 to $453.11
+FatWinz420 finished the tournament in 11th place and received $125.36.
+*** SUMMARY ***
+Total pot 110922 | Rake 0 
+Board [5s 4d 2c 3c Qs]
+Seat 1: AGV AA90 (big blind) folded before Flop
+Seat 2: Parchon6 folded before Flop
+Seat 3: xeqter666 folded before Flop (didn't bet)
+Seat 5: garrafalitro showed [Kd Qd] and won (110922) with a pair of Queens
+Seat 6: FatWinz420 (button) showed [9d 9c] and lost with a pair of Nines
+Seat 7: tiwest (small blind) folded before Flop
+
+PokerStars Hand #251209580111: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXIV (3000/6000) - 2024/06/26 22:34:23 UTC [2024/06/26 18:34:23 ET]
+Table '3769361899 18' 7-max Seat #7 is the button
+Seat 1: AGV AA90 (455778 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (232538 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (134164 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (402471 in chips, $453.11 bounty) 
+Seat 7: tiwest (127584 in chips, $187.29 bounty) 
+AGV AA90: posts the ante 700
+Parchon6: posts the ante 700
+xeqter666: posts the ante 700
+garrafalitro: posts the ante 700
+tiwest: posts the ante 700
+AGV AA90: posts small blind 3000
+Parchon6: posts big blind 6000
+*** HOLE CARDS ***
+xeqter666: folds 
+garrafalitro: raises 6000 to 12000
+tiwest: folds 
+AGV AA90: folds 
+Parchon6: folds 
+Uncalled bet (6000) returned to garrafalitro
+garrafalitro collected 18500 from pot
+garrafalitro: doesn't show hand 
+*** SUMMARY ***
+Total pot 18500 | Rake 0 
+Seat 1: AGV AA90 (small blind) folded before Flop
+Seat 2: Parchon6 (big blind) folded before Flop
+Seat 3: xeqter666 folded before Flop (didn't bet)
+Seat 5: garrafalitro collected (18500)
+Seat 7: tiwest (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209588904: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXIV (3000/6000) - 2024/06/26 22:34:56 UTC [2024/06/26 18:34:56 ET]
+Table '3769361899 18' 7-max Seat #1 is the button
+Seat 1: AGV AA90 (452078 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (225838 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (133464 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (414271 in chips, $453.11 bounty) 
+Seat 7: tiwest (126884 in chips, $187.29 bounty) 
+AGV AA90: posts the ante 700
+Parchon6: posts the ante 700
+xeqter666: posts the ante 700
+garrafalitro: posts the ante 700
+tiwest: posts the ante 700
+Parchon6: posts small blind 3000
+xeqter666: posts big blind 6000
+*** HOLE CARDS ***
+garrafalitro: folds 
+tiwest: folds 
+AGV AA90: raises 6000 to 12000
+Parchon6: folds 
+xeqter666: calls 6000
+*** FLOP *** [9d 9h 5h]
+xeqter666: checks 
+AGV AA90: bets 9000
+xeqter666: folds 
+Uncalled bet (9000) returned to AGV AA90
+AGV AA90 collected 30500 from pot
+*** SUMMARY ***
+Total pot 30500 | Rake 0 
+Board [9d 9h 5h]
+Seat 1: AGV AA90 (button) collected (30500)
+Seat 2: Parchon6 (small blind) folded before Flop
+Seat 3: xeqter666 (big blind) folded on the Flop
+Seat 5: garrafalitro folded before Flop (didn't bet)
+Seat 7: tiwest folded before Flop (didn't bet)
+
+PokerStars Hand #251209597191: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXIV (3000/6000) - 2024/06/26 22:35:27 UTC [2024/06/26 18:35:27 ET]
+Table '3769361899 18' 7-max Seat #2 is the button
+Seat 1: AGV AA90 (469878 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (222138 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (120764 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (413571 in chips, $453.11 bounty) 
+Seat 7: tiwest (126184 in chips, $187.29 bounty) 
+AGV AA90: posts the ante 700
+Parchon6: posts the ante 700
+xeqter666: posts the ante 700
+garrafalitro: posts the ante 700
+tiwest: posts the ante 700
+xeqter666: posts small blind 3000
+garrafalitro: posts big blind 6000
+*** HOLE CARDS ***
+tiwest: folds 
+AGV AA90: folds 
+Parchon6: raises 6600 to 12600
+xeqter666: folds 
+garrafalitro: calls 6600
+*** FLOP *** [8c 7s 4h]
+garrafalitro: bets 9510
+Parchon6: raises 20490 to 30000
+garrafalitro: folds 
+Uncalled bet (20490) returned to Parchon6
+Parchon6 collected 50720 from pot
+Parchon6: doesn't show hand 
+*** SUMMARY ***
+Total pot 50720 | Rake 0 
+Board [8c 7s 4h]
+Seat 1: AGV AA90 folded before Flop (didn't bet)
+Seat 2: Parchon6 (button) collected (50720)
+Seat 3: xeqter666 (small blind) folded before Flop
+Seat 5: garrafalitro (big blind) folded on the Flop
+Seat 7: tiwest folded before Flop (didn't bet)
+
+PokerStars Hand #251209612743: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXIV (3000/6000) - 2024/06/26 22:36:24 UTC [2024/06/26 18:36:24 ET]
+Table '3769361899 18' 7-max Seat #3 is the button
+Seat 1: AGV AA90 (469178 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (250048 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (117064 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (390761 in chips, $453.11 bounty) 
+Seat 7: tiwest (125484 in chips, $187.29 bounty) 
+AGV AA90: posts the ante 700
+Parchon6: posts the ante 700
+xeqter666: posts the ante 700
+garrafalitro: posts the ante 700
+tiwest: posts the ante 700
+garrafalitro: posts small blind 3000
+tiwest: posts big blind 6000
+*** HOLE CARDS ***
+AGV AA90: folds 
+Parchon6: folds 
+xeqter666: folds 
+garrafalitro: raises 384061 to 390061 and is all-in
+tiwest: calls 118784 and is all-in
+Uncalled bet (265277) returned to garrafalitro
+*** FLOP *** [4c 3h Th]
+*** TURN *** [4c 3h Th] [9s]
+*** RIVER *** [4c 3h Th 9s] [6s]
+*** SHOW DOWN ***
+garrafalitro: shows [Qs Tc] (a pair of Tens)
+tiwest: shows [Kd Jd] (high card King)
+garrafalitro collected 253068 from pot
+garrafalitro wins $93.65 for eliminating tiwest and their own bounty increases by $93.64 to $546.75
+tiwest finished the tournament in 10th place and received $125.36.
+*** SUMMARY ***
+Total pot 253068 | Rake 0 
+Board [4c 3h Th 9s 6s]
+Seat 1: AGV AA90 folded before Flop (didn't bet)
+Seat 2: Parchon6 folded before Flop (didn't bet)
+Seat 3: xeqter666 (button) folded before Flop (didn't bet)
+Seat 5: garrafalitro (small blind) showed [Qs Tc] and won (253068) with a pair of Tens
+Seat 7: tiwest (big blind) showed [Kd Jd] and lost with high card King
+
+PokerStars Hand #251209627876: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXV (3500/7000) - 2024/06/26 22:37:22 UTC [2024/06/26 18:37:22 ET]
+Table '3769361899 18' 7-max Seat #5 is the button
+Seat 1: AGV AA90 (468478 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (249348 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (116364 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (518345 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 800
+Parchon6: posts the ante 800
+xeqter666: posts the ante 800
+garrafalitro: posts the ante 800
+AGV AA90: posts small blind 3500
+Parchon6: posts big blind 7000
+*** HOLE CARDS ***
+xeqter666: folds 
+garrafalitro: raises 7000 to 14000
+AGV AA90: raises 45500 to 59500
+Parchon6: folds 
+garrafalitro: folds 
+Uncalled bet (45500) returned to AGV AA90
+AGV AA90 collected 38200 from pot
+*** SUMMARY ***
+Total pot 38200 | Rake 0 
+Seat 1: AGV AA90 (small blind) collected (38200)
+Seat 2: Parchon6 (big blind) folded before Flop
+Seat 3: xeqter666 folded before Flop (didn't bet)
+Seat 5: garrafalitro (button) folded before Flop
+
+PokerStars Hand #251209635816: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXV (3500/7000) - 2024/06/26 22:37:51 UTC [2024/06/26 18:37:51 ET]
+Table '3769361899 18' 7-max Seat #1 is the button
+Seat 1: AGV AA90 (491878 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (241548 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (115564 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (503545 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 800
+Parchon6: posts the ante 800
+xeqter666: posts the ante 800
+garrafalitro: posts the ante 800
+Parchon6: posts small blind 3500
+xeqter666: posts big blind 7000
+*** HOLE CARDS ***
+garrafalitro: folds 
+AGV AA90: raises 7000 to 14000
+Parchon6: folds 
+xeqter666: folds 
+Uncalled bet (7000) returned to AGV AA90
+AGV AA90 collected 20700 from pot
+*** SUMMARY ***
+Total pot 20700 | Rake 0 
+Seat 1: AGV AA90 (button) collected (20700)
+Seat 2: Parchon6 (small blind) folded before Flop
+Seat 3: xeqter666 (big blind) folded before Flop
+Seat 5: garrafalitro folded before Flop (didn't bet)
+
+PokerStars Hand #251209642423: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXV (3500/7000) - 2024/06/26 22:38:16 UTC [2024/06/26 18:38:16 ET]
+Table '3769361899 18' 7-max Seat #2 is the button
+Seat 1: AGV AA90 (504778 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (237248 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (107764 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (502745 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 800
+Parchon6: posts the ante 800
+xeqter666: posts the ante 800
+garrafalitro: posts the ante 800
+xeqter666: posts small blind 3500
+garrafalitro: posts big blind 7000
+*** HOLE CARDS ***
+AGV AA90: folds 
+Parchon6: folds 
+xeqter666: calls 3500
+garrafalitro: raises 12600 to 19600
+xeqter666: folds 
+Uncalled bet (12600) returned to garrafalitro
+garrafalitro collected 17200 from pot
+garrafalitro: doesn't show hand 
+*** SUMMARY ***
+Total pot 17200 | Rake 0 
+Seat 1: AGV AA90 folded before Flop (didn't bet)
+Seat 2: Parchon6 (button) folded before Flop (didn't bet)
+Seat 3: xeqter666 (small blind) folded before Flop
+Seat 5: garrafalitro (big blind) collected (17200)
+
+PokerStars Hand #251209653481: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXV (3500/7000) - 2024/06/26 22:38:57 UTC [2024/06/26 18:38:57 ET]
+Table '3769361899 18' 7-max Seat #3 is the button
+Seat 1: AGV AA90 (503978 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (236448 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (99964 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (512145 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 800
+Parchon6: posts the ante 800
+xeqter666: posts the ante 800
+garrafalitro: posts the ante 800
+garrafalitro: posts small blind 3500
+AGV AA90: posts big blind 7000
+*** HOLE CARDS ***
+Parchon6: folds 
+xeqter666: raises 92164 to 99164 and is all-in
+garrafalitro: folds 
+AGV AA90: folds 
+Uncalled bet (92164) returned to xeqter666
+xeqter666 collected 20700 from pot
+xeqter666: doesn't show hand 
+*** SUMMARY ***
+Total pot 20700 | Rake 0 
+Seat 1: AGV AA90 (big blind) folded before Flop
+Seat 2: Parchon6 folded before Flop (didn't bet)
+Seat 3: xeqter666 (button) collected (20700)
+Seat 5: garrafalitro (small blind) folded before Flop
+
+PokerStars Hand #251209657670: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXV (3500/7000) - 2024/06/26 22:39:13 UTC [2024/06/26 18:39:13 ET]
+Table '3769361899 18' 7-max Seat #5 is the button
+Seat 1: AGV AA90 (496178 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (235648 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (112864 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (507845 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 800
+Parchon6: posts the ante 800
+xeqter666: posts the ante 800
+garrafalitro: posts the ante 800
+AGV AA90: posts small blind 3500
+Parchon6: posts big blind 7000
+*** HOLE CARDS ***
+xeqter666: calls 7000
+garrafalitro: folds 
+AGV AA90: calls 3500
+Parchon6: checks 
+*** FLOP *** [2c Jh 8h]
+AGV AA90: checks 
+Parchon6: checks 
+xeqter666: checks 
+*** TURN *** [2c Jh 8h] [4h]
+AGV AA90: bets 14000
+Parchon6: calls 14000
+xeqter666: calls 14000
+*** RIVER *** [2c Jh 8h 4h] [6h]
+AGV AA90: checks 
+Parchon6: checks 
+xeqter666: checks 
+*** SHOW DOWN ***
+AGV AA90: shows [7c Kh] (a flush, King high)
+Parchon6: mucks hand 
+xeqter666: mucks hand 
+AGV AA90 collected 66200 from pot
+*** SUMMARY ***
+Total pot 66200 | Rake 0 
+Board [2c Jh 8h 4h 6h]
+Seat 1: AGV AA90 (small blind) showed [7c Kh] and won (66200) with a flush, King high
+Seat 2: Parchon6 (big blind) mucked
+Seat 3: xeqter666 mucked
+Seat 5: garrafalitro (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251209672904: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXV (3500/7000) - 2024/06/26 22:40:10 UTC [2024/06/26 18:40:10 ET]
+Table '3769361899 18' 7-max Seat #1 is the button
+Seat 1: AGV AA90 (540578 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (213848 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (91064 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (507045 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 800
+Parchon6: posts the ante 800
+xeqter666: posts the ante 800
+garrafalitro: posts the ante 800
+Parchon6: posts small blind 3500
+xeqter666: posts big blind 7000
+*** HOLE CARDS ***
+garrafalitro: folds 
+AGV AA90: raises 7000 to 14000
+Parchon6: folds 
+xeqter666: folds 
+Uncalled bet (7000) returned to AGV AA90
+AGV AA90 collected 20700 from pot
+*** SUMMARY ***
+Total pot 20700 | Rake 0 
+Seat 1: AGV AA90 (button) collected (20700)
+Seat 2: Parchon6 (small blind) folded before Flop
+Seat 3: xeqter666 (big blind) folded before Flop
+Seat 5: garrafalitro folded before Flop (didn't bet)
+
+PokerStars Hand #251209677257: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXV (3500/7000) - 2024/06/26 22:40:27 UTC [2024/06/26 18:40:27 ET]
+Table '3769361899 18' 7-max Seat #2 is the button
+Seat 1: AGV AA90 (553478 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (209548 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (83264 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (506245 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 800
+Parchon6: posts the ante 800
+xeqter666: posts the ante 800
+garrafalitro: posts the ante 800
+xeqter666: posts small blind 3500
+garrafalitro: posts big blind 7000
+*** HOLE CARDS ***
+AGV AA90: raises 7000 to 14000
+Parchon6: folds 
+xeqter666: folds 
+garrafalitro: folds 
+Uncalled bet (7000) returned to AGV AA90
+AGV AA90 collected 20700 from pot
+*** SUMMARY ***
+Total pot 20700 | Rake 0 
+Seat 1: AGV AA90 collected (20700)
+Seat 2: Parchon6 (button) folded before Flop (didn't bet)
+Seat 3: xeqter666 (small blind) folded before Flop
+Seat 5: garrafalitro (big blind) folded before Flop
+
+PokerStars Hand #251209683193: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXV (3500/7000) - 2024/06/26 22:40:49 UTC [2024/06/26 18:40:49 ET]
+Table '3769361899 18' 7-max Seat #3 is the button
+Seat 1: AGV AA90 (566378 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (208748 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (78964 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (498445 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 800
+Parchon6: posts the ante 800
+xeqter666: posts the ante 800
+garrafalitro: posts the ante 800
+garrafalitro: posts small blind 3500
+AGV AA90: posts big blind 7000
+*** HOLE CARDS ***
+Parchon6: folds 
+xeqter666: raises 10500 to 17500
+garrafalitro: raises 35000 to 52500
+AGV AA90: folds 
+xeqter666: calls 35000
+*** FLOP *** [5d Jc As]
+garrafalitro: bets 28000
+xeqter666: calls 25664 and is all-in
+Uncalled bet (2336) returned to garrafalitro
+*** TURN *** [5d Jc As] [Ac]
+*** RIVER *** [5d Jc As Ac] [7s]
+*** SHOW DOWN ***
+garrafalitro: shows [Tc Ts] (two pair, Aces and Tens)
+xeqter666: shows [Qc Qh] (two pair, Aces and Queens)
+xeqter666 collected 166528 from pot
+*** SUMMARY ***
+Total pot 166528 | Rake 0 
+Board [5d Jc As Ac 7s]
+Seat 1: AGV AA90 (big blind) folded before Flop
+Seat 2: Parchon6 folded before Flop (didn't bet)
+Seat 3: xeqter666 (button) showed [Qc Qh] and won (166528) with two pair, Aces and Queens
+Seat 5: garrafalitro (small blind) showed [Tc Ts] and lost with two pair, Aces and Tens
+
+PokerStars Hand #251209691516: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXV (3500/7000) - 2024/06/26 22:41:22 UTC [2024/06/26 18:41:22 ET]
+Table '3769361899 18' 7-max Seat #5 is the button
+Seat 1: AGV AA90 (558578 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (207948 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (166528 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (419481 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 800
+Parchon6: posts the ante 800
+xeqter666: posts the ante 800
+garrafalitro: posts the ante 800
+AGV AA90: posts small blind 3500
+Parchon6: posts big blind 7000
+*** HOLE CARDS ***
+xeqter666: folds 
+garrafalitro: raises 7000 to 14000
+AGV AA90: folds 
+Parchon6: raises 193148 to 207148 and is all-in
+garrafalitro: folds 
+Uncalled bet (193148) returned to Parchon6
+Parchon6 collected 34700 from pot
+Parchon6: doesn't show hand 
+*** SUMMARY ***
+Total pot 34700 | Rake 0 
+Seat 1: AGV AA90 (small blind) folded before Flop
+Seat 2: Parchon6 (big blind) collected (34700)
+Seat 3: xeqter666 folded before Flop (didn't bet)
+Seat 5: garrafalitro (button) folded before Flop
+
+PokerStars Hand #251209695493: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXV (3500/7000) - 2024/06/26 22:41:37 UTC [2024/06/26 18:41:37 ET]
+Table '3769361899 18' 7-max Seat #1 is the button
+Seat 1: AGV AA90 (554278 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (227848 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (165728 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (404681 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 800
+Parchon6: posts the ante 800
+xeqter666: posts the ante 800
+garrafalitro: posts the ante 800
+Parchon6: posts small blind 3500
+xeqter666: posts big blind 7000
+*** HOLE CARDS ***
+garrafalitro: folds 
+AGV AA90: folds 
+Parchon6: folds 
+Uncalled bet (3500) returned to xeqter666
+xeqter666 collected 10200 from pot
+xeqter666: doesn't show hand 
+*** SUMMARY ***
+Total pot 10200 | Rake 0 
+Seat 1: AGV AA90 (button) folded before Flop (didn't bet)
+Seat 2: Parchon6 (small blind) folded before Flop
+Seat 3: xeqter666 (big blind) collected (10200)
+Seat 5: garrafalitro folded before Flop (didn't bet)
+
+PokerStars Hand #251209698668: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXV (3500/7000) - 2024/06/26 22:41:49 UTC [2024/06/26 18:41:49 ET]
+Table '3769361899 18' 7-max Seat #2 is the button
+Seat 1: AGV AA90 (553478 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (223548 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (171628 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (403881 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 800
+Parchon6: posts the ante 800
+xeqter666: posts the ante 800
+garrafalitro: posts the ante 800
+xeqter666: posts small blind 3500
+garrafalitro: posts big blind 7000
+*** HOLE CARDS ***
+AGV AA90: folds 
+Parchon6: folds 
+xeqter666 is connected 
+xeqter666: calls 3500
+garrafalitro: checks 
+*** FLOP *** [8s 9s As]
+xeqter666: checks 
+garrafalitro: checks 
+*** TURN *** [8s 9s As] [Js]
+xeqter666: checks 
+garrafalitro: checks 
+*** RIVER *** [8s 9s As Js] [Ks]
+xeqter666: bets 8600
+garrafalitro: folds 
+Uncalled bet (8600) returned to xeqter666
+xeqter666 collected 17200 from pot
+xeqter666: doesn't show hand 
+*** SUMMARY ***
+Total pot 17200 | Rake 0 
+Board [8s 9s As Js Ks]
+Seat 1: AGV AA90 folded before Flop (didn't bet)
+Seat 2: Parchon6 (button) folded before Flop (didn't bet)
+Seat 3: xeqter666 (small blind) collected (17200)
+Seat 5: garrafalitro (big blind) folded on the River
+
+PokerStars Hand #251209724457: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXV (3500/7000) - 2024/06/26 22:43:29 UTC [2024/06/26 18:43:29 ET]
+Table '3769361899 18' 7-max Seat #3 is the button
+Seat 1: AGV AA90 (552678 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (222748 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (181028 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (396081 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 800
+Parchon6: posts the ante 800
+xeqter666: posts the ante 800
+garrafalitro: posts the ante 800
+garrafalitro: posts small blind 3500
+AGV AA90: posts big blind 7000
+*** HOLE CARDS ***
+Parchon6: folds 
+xeqter666: folds 
+garrafalitro: calls 3500
+AGV AA90: checks 
+*** FLOP *** [Ts 5h 2d]
+garrafalitro: bets 7000
+AGV AA90: calls 7000
+*** TURN *** [Ts 5h 2d] [2c]
+garrafalitro: checks 
+AGV AA90: bets 10296
+garrafalitro: calls 10296
+*** RIVER *** [Ts 5h 2d 2c] [3c]
+garrafalitro: checks 
+AGV AA90: bets 17091
+garrafalitro: calls 17091
+*** SHOW DOWN ***
+AGV AA90: shows [9h 8s] (a pair of Deuces)
+garrafalitro: shows [6c 5s] (two pair, Fives and Deuces)
+garrafalitro collected 85974 from pot
+*** SUMMARY ***
+Total pot 85974 | Rake 0 
+Board [Ts 5h 2d 2c 3c]
+Seat 1: AGV AA90 (big blind) showed [9h 8s] and lost with a pair of Deuces
+Seat 2: Parchon6 folded before Flop (didn't bet)
+Seat 3: xeqter666 (button) folded before Flop (didn't bet)
+Seat 5: garrafalitro (small blind) showed [6c 5s] and won (85974) with two pair, Fives and Deuces
+
+PokerStars Hand #251209753271: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXVI (4000/8000) - 2024/06/26 22:45:21 UTC [2024/06/26 18:45:21 ET]
+Table '3769361899 18' 7-max Seat #5 is the button
+Seat 1: AGV AA90 (510491 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (221948 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (180228 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (439868 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 900
+Parchon6: posts the ante 900
+xeqter666: posts the ante 900
+garrafalitro: posts the ante 900
+AGV AA90: posts small blind 4000
+Parchon6: posts big blind 8000
+*** HOLE CARDS ***
+xeqter666: folds 
+garrafalitro: raises 8000 to 16000
+AGV AA90: folds 
+Parchon6: folds 
+Uncalled bet (8000) returned to garrafalitro
+garrafalitro collected 23600 from pot
+garrafalitro: doesn't show hand 
+*** SUMMARY ***
+Total pot 23600 | Rake 0 
+Seat 1: AGV AA90 (small blind) folded before Flop
+Seat 2: Parchon6 (big blind) folded before Flop
+Seat 3: xeqter666 folded before Flop (didn't bet)
+Seat 5: garrafalitro (button) collected (23600)
+
+PokerStars Hand #251209758075: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXVI (4000/8000) - 2024/06/26 22:45:40 UTC [2024/06/26 18:45:40 ET]
+Table '3769361899 18' 7-max Seat #1 is the button
+Seat 1: AGV AA90 (505591 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (213048 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (179328 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (454568 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 900
+Parchon6: posts the ante 900
+xeqter666: posts the ante 900
+garrafalitro: posts the ante 900
+Parchon6: posts small blind 4000
+xeqter666: posts big blind 8000
+*** HOLE CARDS ***
+garrafalitro: folds 
+AGV AA90: folds 
+Parchon6: folds 
+Uncalled bet (4000) returned to xeqter666
+xeqter666 collected 11600 from pot
+xeqter666: doesn't show hand 
+*** SUMMARY ***
+Total pot 11600 | Rake 0 
+Seat 1: AGV AA90 (button) folded before Flop (didn't bet)
+Seat 2: Parchon6 (small blind) folded before Flop
+Seat 3: xeqter666 (big blind) collected (11600)
+Seat 5: garrafalitro folded before Flop (didn't bet)
+
+PokerStars Hand #251209761811: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXVI (4000/8000) - 2024/06/26 22:45:54 UTC [2024/06/26 18:45:54 ET]
+Table '3769361899 18' 7-max Seat #2 is the button
+Seat 1: AGV AA90 (504691 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (208148 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (186028 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (453668 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 900
+Parchon6: posts the ante 900
+xeqter666: posts the ante 900
+garrafalitro: posts the ante 900
+xeqter666: posts small blind 4000
+garrafalitro: posts big blind 8000
+*** HOLE CARDS ***
+AGV AA90: folds 
+Parchon6: folds 
+xeqter666: calls 4000
+garrafalitro: raises 16000 to 24000
+xeqter666: calls 16000
+*** FLOP *** [9s Kd 4s]
+xeqter666: checks 
+garrafalitro: checks 
+*** TURN *** [9s Kd 4s] [6d]
+xeqter666: checks 
+garrafalitro: checks 
+*** RIVER *** [9s Kd 4s 6d] [7h]
+xeqter666: bets 16000
+garrafalitro: folds 
+Uncalled bet (16000) returned to xeqter666
+xeqter666 collected 51600 from pot
+xeqter666: doesn't show hand 
+*** SUMMARY ***
+Total pot 51600 | Rake 0 
+Board [9s Kd 4s 6d 7h]
+Seat 1: AGV AA90 folded before Flop (didn't bet)
+Seat 2: Parchon6 (button) folded before Flop (didn't bet)
+Seat 3: xeqter666 (small blind) collected (51600)
+Seat 5: garrafalitro (big blind) folded on the River
+
+PokerStars Hand #251209781788: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXVI (4000/8000) - 2024/06/26 22:47:12 UTC [2024/06/26 18:47:12 ET]
+Table '3769361899 18' 7-max Seat #3 is the button
+Seat 1: AGV AA90 (503791 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (207248 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (212728 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (428768 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 900
+Parchon6: posts the ante 900
+xeqter666: posts the ante 900
+garrafalitro: posts the ante 900
+garrafalitro: posts small blind 4000
+AGV AA90: posts big blind 8000
+*** HOLE CARDS ***
+Parchon6: folds 
+xeqter666: raises 12000 to 20000
+garrafalitro: folds 
+AGV AA90: calls 12000
+*** FLOP *** [2h 5h 5d]
+AGV AA90: checks 
+xeqter666: checks 
+*** TURN *** [2h 5h 5d] [8d]
+AGV AA90: bets 28000
+xeqter666: folds 
+Uncalled bet (28000) returned to AGV AA90
+AGV AA90 collected 47600 from pot
+*** SUMMARY ***
+Total pot 47600 | Rake 0 
+Board [2h 5h 5d 8d]
+Seat 1: AGV AA90 (big blind) collected (47600)
+Seat 2: Parchon6 folded before Flop (didn't bet)
+Seat 3: xeqter666 (button) folded on the Turn
+Seat 5: garrafalitro (small blind) folded before Flop
+
+PokerStars Hand #251209791203: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXVI (4000/8000) - 2024/06/26 22:47:49 UTC [2024/06/26 18:47:49 ET]
+Table '3769361899 18' 7-max Seat #5 is the button
+Seat 1: AGV AA90 (530491 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (206348 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (191828 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (423868 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 900
+Parchon6: posts the ante 900
+xeqter666: posts the ante 900
+garrafalitro: posts the ante 900
+AGV AA90: posts small blind 4000
+Parchon6: posts big blind 8000
+*** HOLE CARDS ***
+xeqter666: folds 
+garrafalitro: raises 8000 to 16000
+AGV AA90: folds 
+Parchon6: calls 8000
+*** FLOP *** [Ks Qc Qd]
+Parchon6: checks 
+garrafalitro: bets 8000
+Parchon6: calls 8000
+*** TURN *** [Ks Qc Qd] [Qs]
+Parchon6: checks 
+garrafalitro: bets 41700
+Parchon6: folds 
+Uncalled bet (41700) returned to garrafalitro
+garrafalitro collected 55600 from pot
+garrafalitro: doesn't show hand 
+*** SUMMARY ***
+Total pot 55600 | Rake 0 
+Board [Ks Qc Qd Qs]
+Seat 1: AGV AA90 (small blind) folded before Flop
+Seat 2: Parchon6 (big blind) folded on the Turn
+Seat 3: xeqter666 folded before Flop (didn't bet)
+Seat 5: garrafalitro (button) collected (55600)
+
+PokerStars Hand #251209809697: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXVI (4000/8000) - 2024/06/26 22:49:02 UTC [2024/06/26 18:49:02 ET]
+Table '3769361899 18' 7-max Seat #1 is the button
+Seat 1: AGV AA90 (525591 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (181448 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (190928 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (454568 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 900
+Parchon6: posts the ante 900
+xeqter666: posts the ante 900
+garrafalitro: posts the ante 900
+Parchon6: posts small blind 4000
+xeqter666: posts big blind 8000
+*** HOLE CARDS ***
+garrafalitro: raises 8000 to 16000
+AGV AA90: folds 
+Parchon6: folds 
+xeqter666: folds 
+Uncalled bet (8000) returned to garrafalitro
+garrafalitro collected 23600 from pot
+garrafalitro: doesn't show hand 
+*** SUMMARY ***
+Total pot 23600 | Rake 0 
+Seat 1: AGV AA90 (button) folded before Flop (didn't bet)
+Seat 2: Parchon6 (small blind) folded before Flop
+Seat 3: xeqter666 (big blind) folded before Flop
+Seat 5: garrafalitro collected (23600)
+
+PokerStars Hand #251209815711: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXVI (4000/8000) - 2024/06/26 22:49:27 UTC [2024/06/26 18:49:27 ET]
+Table '3769361899 18' 7-max Seat #2 is the button
+Seat 1: AGV AA90 (524691 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (176548 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (182028 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (469268 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 900
+Parchon6: posts the ante 900
+xeqter666: posts the ante 900
+garrafalitro: posts the ante 900
+xeqter666: posts small blind 4000
+garrafalitro: posts big blind 8000
+*** HOLE CARDS ***
+AGV AA90: folds 
+Parchon6: folds 
+xeqter666: folds 
+Uncalled bet (4000) returned to garrafalitro
+garrafalitro collected 11600 from pot
+garrafalitro: doesn't show hand 
+*** SUMMARY ***
+Total pot 11600 | Rake 0 
+Seat 1: AGV AA90 folded before Flop (didn't bet)
+Seat 2: Parchon6 (button) folded before Flop (didn't bet)
+Seat 3: xeqter666 (small blind) folded before Flop
+Seat 5: garrafalitro (big blind) collected (11600)
+
+PokerStars Hand #251209819828: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXVI (4000/8000) - 2024/06/26 22:49:44 UTC [2024/06/26 18:49:44 ET]
+Table '3769361899 18' 7-max Seat #3 is the button
+Seat 1: AGV AA90 (523791 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (175648 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (177128 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (475968 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 900
+Parchon6: posts the ante 900
+xeqter666: posts the ante 900
+garrafalitro: posts the ante 900
+garrafalitro: posts small blind 4000
+AGV AA90: posts big blind 8000
+*** HOLE CARDS ***
+Parchon6: folds 
+xeqter666: folds 
+garrafalitro: folds 
+Uncalled bet (4000) returned to AGV AA90
+AGV AA90 collected 11600 from pot
+*** SUMMARY ***
+Total pot 11600 | Rake 0 
+Seat 1: AGV AA90 (big blind) collected (11600)
+Seat 2: Parchon6 folded before Flop (didn't bet)
+Seat 3: xeqter666 (button) folded before Flop (didn't bet)
+Seat 5: garrafalitro (small blind) folded before Flop
+
+PokerStars Hand #251209825799: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXVI (4000/8000) - 2024/06/26 22:50:08 UTC [2024/06/26 18:50:08 ET]
+Table '3769361899 18' 7-max Seat #5 is the button
+Seat 1: AGV AA90 (530491 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (174748 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (176228 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (471068 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 900
+Parchon6: posts the ante 900
+xeqter666: posts the ante 900
+garrafalitro: posts the ante 900
+AGV AA90: posts small blind 4000
+Parchon6: posts big blind 8000
+*** HOLE CARDS ***
+xeqter666: folds 
+garrafalitro: raises 8000 to 16000
+AGV AA90: folds 
+Parchon6: calls 8000
+*** FLOP *** [2h 5h 5d]
+Parchon6: checks 
+garrafalitro: bets 8000
+Parchon6: calls 8000
+*** TURN *** [2h 5h 5d] [7h]
+Parchon6: checks 
+garrafalitro: checks 
+*** RIVER *** [2h 5h 5d 7h] [Td]
+Parchon6: bets 36000
+garrafalitro: folds 
+Uncalled bet (36000) returned to Parchon6
+Parchon6 collected 55600 from pot
+Parchon6: doesn't show hand 
+*** SUMMARY ***
+Total pot 55600 | Rake 0 
+Board [2h 5h 5d 7h Td]
+Seat 1: AGV AA90 (small blind) folded before Flop
+Seat 2: Parchon6 (big blind) collected (55600)
+Seat 3: xeqter666 folded before Flop (didn't bet)
+Seat 5: garrafalitro (button) folded on the River
+
+PokerStars Hand #251209842677: Tournament #3769361899, $25+$25+$5 USD Hold'em No Limit - Level XXVII (4500/9000) - 2024/06/26 22:51:17 UTC [2024/06/26 18:51:17 ET]
+Table '3769361899 18' 7-max Seat #1 is the button
+Seat 1: AGV AA90 (525591 in chips, $128.12 bounty) 
+Seat 2: Parchon6 (205448 in chips, $354.47 bounty) 
+Seat 3: xeqter666 (175328 in chips, $154.68 bounty) 
+Seat 5: garrafalitro (446168 in chips, $546.75 bounty) 
+AGV AA90: posts the ante 1000
+Parchon6: posts the ante 1000
+xeqter666: posts the ante 1000
+garrafalitro: posts the ante 1000
+Parchon6: posts small blind 4500
+xeqter666: posts big blind 9000
+*** HOLE CARDS ***
+garrafalitro: folds 
+AGV AA90: folds 
+Parchon6: folds 
+Uncalled bet (4500) returned to xeqter666
+xeqter666 collected 13000 from pot
+xeqter666: doesn't show hand 
+*** SUMMARY ***
+Total pot 13000 | Rake 0 
+Seat 1: AGV AA90 (button) folded before Flop (didn't bet)
+Seat 2: Parchon6 (small blind) folded before Flop
+Seat 3: xeqter666 (big blind) collected (13000)
+Seat 5: garrafalitro folded before Flop (didn't bet)

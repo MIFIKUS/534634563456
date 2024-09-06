@@ -1,0 +1,2222 @@
+PokerStars Hand #251205833491: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:21:07 UTC [2024/06/26 15:21:07 ET]
+Table '3767885527 92' 8-max Seat #7 is the button
+Seat 1: SOUFODAMS (112349 in chips) 
+Seat 2: Mr Pay Shent (39982 in chips) 
+Seat 3: Pseudo Fruto (57997 in chips) 
+Seat 4: RenanToniolo (132439 in chips) 
+Seat 5: milkytravis (43402 in chips) 
+Seat 6: sunn¥m4nn (44950 in chips) 
+Seat 7: podiiii (48875 in chips) 
+Seat 8: EDY R44 (36817 in chips) 
+SOUFODAMS: posts the ante 200
+Mr Pay Shent: posts the ante 200
+Pseudo Fruto: posts the ante 200
+RenanToniolo: posts the ante 200
+milkytravis: posts the ante 200
+sunn¥m4nn: posts the ante 200
+podiiii: posts the ante 200
+EDY R44: posts the ante 200
+EDY R44: posts small blind 800
+SOUFODAMS: posts big blind 1600
+*** HOLE CARDS ***
+Mr Pay Shent: folds 
+Pseudo Fruto: raises 1600 to 3200
+RenanToniolo: folds 
+milkytravis: folds 
+sunn¥m4nn: folds 
+podiiii: folds 
+EDY R44: calls 2400
+SOUFODAMS: calls 1600
+*** FLOP *** [2h Ac Ah]
+EDY R44: checks 
+SOUFODAMS: checks 
+Pseudo Fruto: bets 3024
+EDY R44: raises 3024 to 6048
+SOUFODAMS: folds 
+Pseudo Fruto: raises 5152 to 11200
+EDY R44: raises 22217 to 33417 and is all-in
+Pseudo Fruto: calls 22217
+*** TURN *** [2h Ac Ah] [7d]
+*** RIVER *** [2h Ac Ah 7d] [8s]
+*** SHOW DOWN ***
+EDY R44: shows [6s 7s] (two pair, Aces and Sevens)
+Pseudo Fruto: shows [Jc As] (three of a kind, Aces)
+Pseudo Fruto collected 78034 from pot
+EDY R44 finished the tournament
+*** SUMMARY ***
+Total pot 78034 | Rake 0 
+Board [2h Ac Ah 7d 8s]
+Seat 1: SOUFODAMS (big blind) folded on the Flop
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto showed [Jc As] and won (78034) with three of a kind, Aces
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: milkytravis folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii (button) folded before Flop (didn't bet)
+Seat 8: EDY R44 (small blind) showed [6s 7s] and lost with two pair, Aces and Sevens
+
+PokerStars Hand #251205863449: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:22:57 UTC [2024/06/26 15:22:57 ET]
+Table '3767885527 92' 8-max Seat #1 is the button
+Seat 1: SOUFODAMS (108949 in chips) 
+Seat 2: Mr Pay Shent (39782 in chips) 
+Seat 3: Pseudo Fruto (99214 in chips) 
+Seat 4: RenanToniolo (132239 in chips) 
+Seat 5: milkytravis (43202 in chips) 
+Seat 6: sunn¥m4nn (44750 in chips) 
+Seat 7: podiiii (48675 in chips) 
+SOUFODAMS: posts the ante 200
+Mr Pay Shent: posts the ante 200
+Pseudo Fruto: posts the ante 200
+RenanToniolo: posts the ante 200
+milkytravis: posts the ante 200
+sunn¥m4nn: posts the ante 200
+podiiii: posts the ante 200
+Mr Pay Shent: posts small blind 800
+Pseudo Fruto: posts big blind 1600
+*** HOLE CARDS ***
+RenanToniolo: folds 
+milkytravis: folds 
+sunn¥m4nn: folds 
+podiiii: raises 1600 to 3200
+SOUFODAMS: raises 6400 to 9600
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+podiiii: folds 
+Uncalled bet (6400) returned to SOUFODAMS
+SOUFODAMS collected 10200 from pot
+SOUFODAMS: doesn't show hand 
+*** SUMMARY ***
+Total pot 10200 | Rake 0 
+Seat 1: SOUFODAMS (button) collected (10200)
+Seat 2: Mr Pay Shent (small blind) folded before Flop
+Seat 3: Pseudo Fruto (big blind) folded before Flop
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: milkytravis folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop
+
+PokerStars Hand #251205877007: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:23:46 UTC [2024/06/26 15:23:46 ET]
+Table '3767885527 92' 8-max Seat #2 is the button
+Seat 1: SOUFODAMS (115749 in chips) 
+Seat 2: Mr Pay Shent (38782 in chips) 
+Seat 3: Pseudo Fruto (97414 in chips) 
+Seat 4: RenanToniolo (132039 in chips) 
+Seat 5: milkytravis (43002 in chips) 
+Seat 6: sunn¥m4nn (44550 in chips) 
+Seat 7: podiiii (45275 in chips) 
+Seat 8: robertzrc (25000 in chips) 
+SOUFODAMS: posts the ante 200
+Mr Pay Shent: posts the ante 200
+Pseudo Fruto: posts the ante 200
+RenanToniolo: posts the ante 200
+milkytravis: posts the ante 200
+sunn¥m4nn: posts the ante 200
+podiiii: posts the ante 200
+robertzrc: posts the ante 200
+Pseudo Fruto: posts small blind 800
+RenanToniolo: posts big blind 1600
+*** HOLE CARDS ***
+milkytravis: folds 
+sunn¥m4nn: raises 1600 to 3200
+podiiii: folds 
+robertzrc: folds 
+SOUFODAMS: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: calls 1600
+*** FLOP *** [4h As 9h]
+RenanToniolo: checks 
+sunn¥m4nn: bets 2904
+RenanToniolo: calls 2904
+*** TURN *** [4h As 9h] [Kh]
+RenanToniolo: checks 
+sunn¥m4nn: bets 7304
+RenanToniolo: calls 7304
+*** RIVER *** [4h As 9h Kh] [8c]
+RenanToniolo: checks 
+sunn¥m4nn: bets 30942 and is all-in
+RenanToniolo: calls 30942
+*** SHOW DOWN ***
+sunn¥m4nn: shows [Th Jh] (a flush, King high)
+RenanToniolo: shows [Ah Ad] (three of a kind, Aces)
+sunn¥m4nn collected 91100 from pot
+*** SUMMARY ***
+Total pot 91100 | Rake 0 
+Board [4h As 9h Kh 8c]
+Seat 1: SOUFODAMS folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent (button) folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto (small blind) folded before Flop
+Seat 4: RenanToniolo (big blind) showed [Ah Ad] and lost with three of a kind, Aces
+Seat 5: milkytravis folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn showed [Th Jh] and won (91100) with a flush, King high
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: robertzrc folded before Flop (didn't bet)
+
+PokerStars Hand #251205905698: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:25:30 UTC [2024/06/26 15:25:30 ET]
+Table '3767885527 92' 8-max Seat #3 is the button
+Seat 1: SOUFODAMS (115549 in chips) 
+Seat 2: Mr Pay Shent (38582 in chips) 
+Seat 3: Pseudo Fruto (96414 in chips) 
+Seat 4: RenanToniolo (87489 in chips) 
+Seat 5: milkytravis (42802 in chips) 
+Seat 6: sunn¥m4nn (91100 in chips) 
+Seat 7: podiiii (45075 in chips) 
+Seat 8: robertzrc (24800 in chips) 
+SOUFODAMS: posts the ante 200
+Mr Pay Shent: posts the ante 200
+Pseudo Fruto: posts the ante 200
+RenanToniolo: posts the ante 200
+milkytravis: posts the ante 200
+sunn¥m4nn: posts the ante 200
+podiiii: posts the ante 200
+robertzrc: posts the ante 200
+RenanToniolo: posts small blind 800
+milkytravis: posts big blind 1600
+*** HOLE CARDS ***
+sunn¥m4nn: folds 
+podiiii: folds 
+robertzrc: folds 
+SOUFODAMS: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: raises 1600 to 3200
+RenanToniolo: folds 
+milkytravis: calls 1600
+*** FLOP *** [2s Kc 5d]
+milkytravis: checks 
+Pseudo Fruto: bets 2376
+milkytravis: folds 
+Uncalled bet (2376) returned to Pseudo Fruto
+Pseudo Fruto collected 8800 from pot
+Pseudo Fruto: doesn't show hand 
+*** SUMMARY ***
+Total pot 8800 | Rake 0 
+Board [2s Kc 5d]
+Seat 1: SOUFODAMS folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto (button) collected (8800)
+Seat 4: RenanToniolo (small blind) folded before Flop
+Seat 5: milkytravis (big blind) folded on the Flop
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: robertzrc folded before Flop (didn't bet)
+
+PokerStars Hand #251205915217: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:26:05 UTC [2024/06/26 15:26:05 ET]
+Table '3767885527 92' 8-max Seat #4 is the button
+Seat 1: SOUFODAMS (115349 in chips) 
+Seat 2: Mr Pay Shent (38382 in chips) 
+Seat 3: Pseudo Fruto (101814 in chips) 
+Seat 4: RenanToniolo (86489 in chips) 
+Seat 5: milkytravis (39402 in chips) 
+Seat 6: sunn¥m4nn (90900 in chips) 
+Seat 7: podiiii (44875 in chips) 
+Seat 8: robertzrc (24600 in chips) 
+SOUFODAMS: posts the ante 200
+Mr Pay Shent: posts the ante 200
+Pseudo Fruto: posts the ante 200
+RenanToniolo: posts the ante 200
+milkytravis: posts the ante 200
+sunn¥m4nn: posts the ante 200
+podiiii: posts the ante 200
+robertzrc: posts the ante 200
+milkytravis: posts small blind 800
+sunn¥m4nn: posts big blind 1600
+*** HOLE CARDS ***
+podiiii: folds 
+robertzrc: folds 
+SOUFODAMS: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: raises 1600 to 3200
+milkytravis: folds 
+sunn¥m4nn: calls 1600
+*** FLOP *** [7h 9s 9c]
+sunn¥m4nn: checks 
+RenanToniolo: checks 
+*** TURN *** [7h 9s 9c] [2h]
+sunn¥m4nn: checks 
+RenanToniolo: bets 2200
+sunn¥m4nn: folds 
+Uncalled bet (2200) returned to RenanToniolo
+RenanToniolo collected 8800 from pot
+*** SUMMARY ***
+Total pot 8800 | Rake 0 
+Board [7h 9s 9c 2h]
+Seat 1: SOUFODAMS folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo (button) collected (8800)
+Seat 5: milkytravis (small blind) folded before Flop
+Seat 6: sunn¥m4nn (big blind) folded on the Turn
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: robertzrc folded before Flop (didn't bet)
+
+PokerStars Hand #251205933091: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:27:10 UTC [2024/06/26 15:27:10 ET]
+Table '3767885527 92' 8-max Seat #5 is the button
+Seat 1: SOUFODAMS (115149 in chips) 
+Seat 2: Mr Pay Shent (38182 in chips) 
+Seat 3: Pseudo Fruto (101614 in chips) 
+Seat 4: RenanToniolo (91889 in chips) 
+Seat 5: milkytravis (38402 in chips) 
+Seat 6: sunn¥m4nn (87500 in chips) 
+Seat 7: podiiii (44675 in chips) 
+Seat 8: robertzrc (24400 in chips) 
+SOUFODAMS: posts the ante 200
+Mr Pay Shent: posts the ante 200
+Pseudo Fruto: posts the ante 200
+RenanToniolo: posts the ante 200
+milkytravis: posts the ante 200
+sunn¥m4nn: posts the ante 200
+podiiii: posts the ante 200
+robertzrc: posts the ante 200
+sunn¥m4nn: posts small blind 800
+podiiii: posts big blind 1600
+*** HOLE CARDS ***
+robertzrc: calls 1600
+SOUFODAMS: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: raises 1600 to 3200
+RenanToniolo: folds 
+milkytravis: folds 
+sunn¥m4nn: folds 
+podiiii: folds 
+robertzrc: calls 1600
+*** FLOP *** [As 8d 3d]
+robertzrc: checks 
+Pseudo Fruto: bets 2808
+robertzrc: folds 
+Uncalled bet (2808) returned to Pseudo Fruto
+Pseudo Fruto collected 10400 from pot
+Pseudo Fruto: doesn't show hand 
+*** SUMMARY ***
+Total pot 10400 | Rake 0 
+Board [As 8d 3d]
+Seat 1: SOUFODAMS folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto collected (10400)
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: milkytravis (button) folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn (small blind) folded before Flop
+Seat 7: podiiii (big blind) folded before Flop
+Seat 8: robertzrc folded on the Flop
+
+PokerStars Hand #251205948757: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIII (800/1600) - 2024/06/26 19:28:09 UTC [2024/06/26 15:28:09 ET]
+Table '3767885527 92' 8-max Seat #6 is the button
+Seat 1: SOUFODAMS (114949 in chips) 
+Seat 2: Mr Pay Shent (37982 in chips) 
+Seat 3: Pseudo Fruto (108614 in chips) 
+Seat 4: RenanToniolo (91689 in chips) 
+Seat 5: milkytravis (38202 in chips) 
+Seat 6: sunn¥m4nn (86500 in chips) 
+Seat 7: podiiii (42875 in chips) 
+Seat 8: robertzrc (21000 in chips) 
+SOUFODAMS: posts the ante 200
+Mr Pay Shent: posts the ante 200
+Pseudo Fruto: posts the ante 200
+RenanToniolo: posts the ante 200
+milkytravis: posts the ante 200
+sunn¥m4nn: posts the ante 200
+podiiii: posts the ante 200
+robertzrc: posts the ante 200
+podiiii: posts small blind 800
+robertzrc: posts big blind 1600
+*** HOLE CARDS ***
+SOUFODAMS: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: raises 1600 to 3200
+milkytravis: folds 
+sunn¥m4nn: calls 3200
+podiiii: folds 
+robertzrc: calls 1600
+*** FLOP *** [Th 4h 9d]
+robertzrc: bets 3200
+RenanToniolo: folds 
+sunn¥m4nn: calls 3200
+*** TURN *** [Th 4h 9d] [Ac]
+robertzrc: checks 
+sunn¥m4nn: checks 
+*** RIVER *** [Th 4h 9d Ac] [8h]
+robertzrc: checks 
+sunn¥m4nn: checks 
+*** SHOW DOWN ***
+robertzrc: shows [7c 4c] (a pair of Fours)
+sunn¥m4nn: shows [9s Ks] (a pair of Nines)
+sunn¥m4nn collected 18400 from pot
+*** SUMMARY ***
+Total pot 18400 | Rake 0 
+Board [Th 4h 9d Ac 8h]
+Seat 1: SOUFODAMS folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo folded on the Flop
+Seat 5: milkytravis folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn (button) showed [9s Ks] and won (18400) with a pair of Nines
+Seat 7: podiiii (small blind) folded before Flop
+Seat 8: robertzrc (big blind) showed [7c 4c] and lost with a pair of Fours
+
+PokerStars Hand #251205969714: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:29:27 UTC [2024/06/26 15:29:27 ET]
+Table '3767885527 92' 8-max Seat #7 is the button
+Seat 1: SOUFODAMS (114749 in chips) 
+Seat 2: Mr Pay Shent (37782 in chips) 
+Seat 3: Pseudo Fruto (108414 in chips) 
+Seat 4: RenanToniolo (88289 in chips) 
+Seat 5: milkytravis (38002 in chips) 
+Seat 6: sunn¥m4nn (98300 in chips) 
+Seat 7: podiiii (41875 in chips) 
+Seat 8: robertzrc (14400 in chips) 
+SOUFODAMS: posts the ante 250
+Mr Pay Shent: posts the ante 250
+Pseudo Fruto: posts the ante 250
+RenanToniolo: posts the ante 250
+milkytravis: posts the ante 250
+sunn¥m4nn: posts the ante 250
+podiiii: posts the ante 250
+robertzrc: posts the ante 250
+robertzrc: posts small blind 1000
+SOUFODAMS: posts big blind 2000
+*** HOLE CARDS ***
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: folds 
+milkytravis: raises 2000 to 4000
+sunn¥m4nn: raises 5000 to 9000
+podiiii: folds 
+robertzrc: raises 5150 to 14150 and is all-in
+SOUFODAMS: folds 
+milkytravis: folds 
+sunn¥m4nn: calls 5150
+*** FLOP *** [7h Qc 5h]
+*** TURN *** [7h Qc 5h] [9c]
+*** RIVER *** [7h Qc 5h 9c] [7s]
+*** SHOW DOWN ***
+robertzrc: shows [3s Js] (a pair of Sevens)
+sunn¥m4nn: shows [Td As] (a pair of Sevens - Ace kicker)
+sunn¥m4nn collected 36300 from pot
+robertzrc finished the tournament
+*** SUMMARY ***
+Total pot 36300 | Rake 0 
+Board [7h Qc 5h 9c 7s]
+Seat 1: SOUFODAMS (big blind) folded before Flop
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: milkytravis folded before Flop
+Seat 6: sunn¥m4nn showed [Td As] and won (36300) with a pair of Sevens
+Seat 7: podiiii (button) folded before Flop (didn't bet)
+Seat 8: robertzrc (small blind) showed [3s Js] and lost with a pair of Sevens
+
+PokerStars Hand #251205985301: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:30:24 UTC [2024/06/26 15:30:24 ET]
+Table '3767885527 92' 8-max Seat #1 is the button
+Seat 1: SOUFODAMS (112499 in chips) 
+Seat 2: Mr Pay Shent (37532 in chips) 
+Seat 3: Pseudo Fruto (108164 in chips) 
+Seat 4: RenanToniolo (88039 in chips) 
+Seat 5: milkytravis (33752 in chips) 
+Seat 6: sunn¥m4nn (120200 in chips) 
+Seat 7: podiiii (41625 in chips) 
+SOUFODAMS: posts the ante 250
+Mr Pay Shent: posts the ante 250
+Pseudo Fruto: posts the ante 250
+RenanToniolo: posts the ante 250
+milkytravis: posts the ante 250
+sunn¥m4nn: posts the ante 250
+podiiii: posts the ante 250
+Mr Pay Shent: posts small blind 1000
+Pseudo Fruto: posts big blind 2000
+*** HOLE CARDS ***
+RenanToniolo: folds 
+milkytravis: folds 
+sunn¥m4nn: folds 
+podiiii: folds 
+SOUFODAMS: folds 
+drmentrop is disconnected 
+Mr Pay Shent: calls 1000
+Pseudo Fruto: raises 105914 to 107914 and is all-in
+Mr Pay Shent: folds 
+Uncalled bet (105914) returned to Pseudo Fruto
+Pseudo Fruto collected 5750 from pot
+Pseudo Fruto: doesn't show hand 
+*** SUMMARY ***
+Total pot 5750 | Rake 0 
+Seat 1: SOUFODAMS (button) folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent (small blind) folded before Flop
+Seat 3: Pseudo Fruto (big blind) collected (5750)
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: milkytravis folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+
+PokerStars Hand #251205995437: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:31:01 UTC [2024/06/26 15:31:01 ET]
+Table '3767885527 92' 8-max Seat #2 is the button
+Seat 1: SOUFODAMS (112249 in chips) 
+Seat 2: Mr Pay Shent (35282 in chips) 
+Seat 3: Pseudo Fruto (111664 in chips) 
+Seat 4: RenanToniolo (87789 in chips) 
+Seat 5: milkytravis (33502 in chips) 
+Seat 6: sunn¥m4nn (119950 in chips) 
+Seat 7: podiiii (41375 in chips) 
+Seat 8: drmentrop (25000 in chips) 
+SOUFODAMS: posts the ante 250
+Mr Pay Shent: posts the ante 250
+Pseudo Fruto: posts the ante 250
+RenanToniolo: posts the ante 250
+milkytravis: posts the ante 250
+sunn¥m4nn: posts the ante 250
+podiiii: posts the ante 250
+drmentrop: posts the ante 250
+Pseudo Fruto: posts small blind 1000
+RenanToniolo: posts big blind 2000
+*** HOLE CARDS ***
+milkytravis: folds 
+sunn¥m4nn: folds 
+podiiii: folds 
+drmentrop: folds 
+SOUFODAMS: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+Uncalled bet (1000) returned to RenanToniolo
+RenanToniolo collected 4000 from pot
+*** SUMMARY ***
+Total pot 4000 | Rake 0 
+Seat 1: SOUFODAMS folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent (button) folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto (small blind) folded before Flop
+Seat 4: RenanToniolo (big blind) collected (4000)
+Seat 5: milkytravis folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: drmentrop folded before Flop (didn't bet)
+
+PokerStars Hand #251206001748: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:31:24 UTC [2024/06/26 15:31:24 ET]
+Table '3767885527 92' 8-max Seat #3 is the button
+Seat 1: SOUFODAMS (111999 in chips) 
+Seat 2: Mr Pay Shent (35032 in chips) 
+Seat 3: Pseudo Fruto (110414 in chips) 
+Seat 4: RenanToniolo (90539 in chips) 
+Seat 5: milkytravis (33252 in chips) 
+Seat 6: sunn¥m4nn (119700 in chips) 
+Seat 7: podiiii (41125 in chips) 
+Seat 8: drmentrop (24750 in chips) 
+SOUFODAMS: posts the ante 250
+Mr Pay Shent: posts the ante 250
+Pseudo Fruto: posts the ante 250
+RenanToniolo: posts the ante 250
+milkytravis: posts the ante 250
+sunn¥m4nn: posts the ante 250
+podiiii: posts the ante 250
+drmentrop: posts the ante 250
+RenanToniolo: posts small blind 1000
+milkytravis: posts big blind 2000
+*** HOLE CARDS ***
+sunn¥m4nn: folds 
+podiiii: folds 
+drmentrop: folds 
+SOUFODAMS: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: raises 4000 to 6000
+milkytravis: raises 27002 to 33002 and is all-in
+RenanToniolo: folds 
+Uncalled bet (27002) returned to milkytravis
+milkytravis collected 14000 from pot
+milkytravis: doesn't show hand 
+*** SUMMARY ***
+Total pot 14000 | Rake 0 
+Seat 1: SOUFODAMS folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto (button) folded before Flop (didn't bet)
+Seat 4: RenanToniolo (small blind) folded before Flop
+Seat 5: milkytravis (big blind) collected (14000)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: drmentrop folded before Flop (didn't bet)
+
+PokerStars Hand #251206012555: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:32:03 UTC [2024/06/26 15:32:03 ET]
+Table '3767885527 92' 8-max Seat #4 is the button
+Seat 1: SOUFODAMS (111749 in chips) 
+Seat 2: Mr Pay Shent (34782 in chips) 
+Seat 3: Pseudo Fruto (110164 in chips) 
+Seat 4: RenanToniolo (84289 in chips) 
+Seat 5: milkytravis (41002 in chips) 
+Seat 6: sunn¥m4nn (119450 in chips) 
+Seat 7: podiiii (40875 in chips) 
+Seat 8: drmentrop (24500 in chips) 
+SOUFODAMS: posts the ante 250
+Mr Pay Shent: posts the ante 250
+Pseudo Fruto: posts the ante 250
+RenanToniolo: posts the ante 250
+milkytravis: posts the ante 250
+sunn¥m4nn: posts the ante 250
+podiiii: posts the ante 250
+drmentrop: posts the ante 250
+milkytravis: posts small blind 1000
+sunn¥m4nn: posts big blind 2000
+*** HOLE CARDS ***
+podiiii: folds 
+drmentrop: raises 22250 to 24250 and is all-in
+SOUFODAMS: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: calls 24250
+RenanToniolo: folds 
+milkytravis: folds 
+sunn¥m4nn: folds 
+*** FLOP *** [Jd Th 8c]
+*** TURN *** [Jd Th 8c] [As]
+*** RIVER *** [Jd Th 8c As] [3s]
+*** SHOW DOWN ***
+drmentrop: shows [Ah 7c] (a pair of Aces)
+Pseudo Fruto: shows [Qc Qh] (a pair of Queens)
+drmentrop collected 53500 from pot
+*** SUMMARY ***
+Total pot 53500 | Rake 0 
+Board [Jd Th 8c As 3s]
+Seat 1: SOUFODAMS folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto showed [Qc Qh] and lost with a pair of Queens
+Seat 4: RenanToniolo (button) folded before Flop (didn't bet)
+Seat 5: milkytravis (small blind) folded before Flop
+Seat 6: sunn¥m4nn (big blind) folded before Flop
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: drmentrop showed [Ah 7c] and won (53500) with a pair of Aces
+
+PokerStars Hand #251206021497: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:32:35 UTC [2024/06/26 15:32:35 ET]
+Table '3767885527 92' 8-max Seat #5 is the button
+Seat 2: Mr Pay Shent (34532 in chips) 
+Seat 3: Pseudo Fruto (85664 in chips) 
+Seat 4: RenanToniolo (84039 in chips) 
+Seat 5: milkytravis (39752 in chips) 
+Seat 6: sunn¥m4nn (117200 in chips) 
+Seat 7: podiiii (40625 in chips) 
+Seat 8: drmentrop (53500 in chips) 
+Mr Pay Shent: posts the ante 250
+Pseudo Fruto: posts the ante 250
+RenanToniolo: posts the ante 250
+milkytravis: posts the ante 250
+sunn¥m4nn: posts the ante 250
+podiiii: posts the ante 250
+drmentrop: posts the ante 250
+sunn¥m4nn: posts small blind 1000
+podiiii: posts big blind 2000
+*** HOLE CARDS ***
+drmentrop: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: folds 
+milkytravis: folds 
+sunn¥m4nn: folds 
+Uncalled bet (1000) returned to podiiii
+podiiii collected 3750 from pot
+*** SUMMARY ***
+Total pot 3750 | Rake 0 
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: milkytravis (button) folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn (small blind) folded before Flop
+Seat 7: podiiii (big blind) collected (3750)
+Seat 8: drmentrop folded before Flop (didn't bet)
+
+PokerStars Hand #251206026968: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:32:56 UTC [2024/06/26 15:32:56 ET]
+Table '3767885527 92' 8-max Seat #6 is the button
+Seat 2: Mr Pay Shent (34282 in chips) 
+Seat 3: Pseudo Fruto (85414 in chips) 
+Seat 4: RenanToniolo (83789 in chips) 
+Seat 5: milkytravis (39502 in chips) 
+Seat 6: sunn¥m4nn (115950 in chips) 
+Seat 7: podiiii (43125 in chips) 
+Seat 8: drmentrop (53250 in chips) 
+Mr Pay Shent: posts the ante 250
+Pseudo Fruto: posts the ante 250
+RenanToniolo: posts the ante 250
+milkytravis: posts the ante 250
+sunn¥m4nn: posts the ante 250
+podiiii: posts the ante 250
+drmentrop: posts the ante 250
+podiiii: posts small blind 1000
+drmentrop: posts big blind 2000
+*** HOLE CARDS ***
+Mr Pay Shent: raises 2000 to 4000
+Pseudo Fruto: raises 6000 to 10000
+RenanToniolo: folds 
+milkytravis: folds 
+sunn¥m4nn: folds 
+podiiii: raises 32875 to 42875 and is all-in
+drmentrop: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+Uncalled bet (32875) returned to podiiii
+podiiii collected 27750 from pot
+kbção535 is disconnected 
+*** SUMMARY ***
+Total pot 27750 | Rake 0 
+Seat 2: Mr Pay Shent folded before Flop
+Seat 3: Pseudo Fruto folded before Flop
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: milkytravis folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn (button) folded before Flop (didn't bet)
+Seat 7: podiiii (small blind) collected (27750)
+Seat 8: drmentrop (big blind) folded before Flop
+
+PokerStars Hand #251206039921: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:33:43 UTC [2024/06/26 15:33:43 ET]
+Table '3767885527 92' 8-max Seat #7 is the button
+Seat 1: kbção535 (25000 in chips) 
+Seat 2: Mr Pay Shent (30032 in chips) 
+Seat 3: Pseudo Fruto (75164 in chips) 
+Seat 4: RenanToniolo (83539 in chips) 
+Seat 5: milkytravis (39252 in chips) 
+Seat 6: sunn¥m4nn (115700 in chips) 
+Seat 7: podiiii (60625 in chips) 
+Seat 8: drmentrop (51000 in chips) 
+kbção535: posts the ante 250
+Mr Pay Shent: posts the ante 250
+Pseudo Fruto: posts the ante 250
+RenanToniolo: posts the ante 250
+milkytravis: posts the ante 250
+sunn¥m4nn: posts the ante 250
+podiiii: posts the ante 250
+drmentrop: posts the ante 250
+drmentrop: posts small blind 1000
+kbção535: posts big blind 2000
+*** HOLE CARDS ***
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: raises 2000 to 4000
+milkytravis: folds 
+sunn¥m4nn: folds 
+podiiii: folds 
+drmentrop: folds 
+kbção535: calls 2000
+*** FLOP *** [4c Th Jh]
+kbção535: bets 11000
+RenanToniolo: folds 
+Uncalled bet (11000) returned to kbção535
+kbção535 collected 11000 from pot
+kbção535: doesn't show hand 
+*** SUMMARY ***
+Total pot 11000 | Rake 0 
+Board [4c Th Jh]
+Seat 1: kbção535 (big blind) collected (11000)
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo folded on the Flop
+Seat 5: milkytravis folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii (button) folded before Flop (didn't bet)
+Seat 8: drmentrop (small blind) folded before Flop
+
+PokerStars Hand #251206049415: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:34:18 UTC [2024/06/26 15:34:18 ET]
+Table '3767885527 92' 8-max Seat #8 is the button
+Seat 1: kbção535 (31750 in chips) 
+Seat 2: Mr Pay Shent (29782 in chips) 
+Seat 3: Pseudo Fruto (74914 in chips) 
+Seat 4: RenanToniolo (79289 in chips) 
+Seat 5: milkytravis (39002 in chips) 
+Seat 6: sunn¥m4nn (115450 in chips) 
+Seat 7: podiiii (60375 in chips) 
+Seat 8: drmentrop (49750 in chips) 
+kbção535: posts the ante 250
+Mr Pay Shent: posts the ante 250
+Pseudo Fruto: posts the ante 250
+RenanToniolo: posts the ante 250
+milkytravis: posts the ante 250
+sunn¥m4nn: posts the ante 250
+podiiii: posts the ante 250
+drmentrop: posts the ante 250
+kbção535: posts small blind 1000
+Mr Pay Shent: posts big blind 2000
+*** HOLE CARDS ***
+Pseudo Fruto: folds 
+RenanToniolo: raises 2000 to 4000
+milkytravis: raises 34752 to 38752 and is all-in
+sunn¥m4nn: folds 
+podiiii: folds 
+drmentrop: folds 
+kbção535: calls 30500 and is all-in
+Mr Pay Shent: folds 
+RenanToniolo: calls 34752
+*** FLOP *** [3h Qs 6s]
+*** TURN *** [3h Qs 6s] [7d]
+*** RIVER *** [3h Qs 6s 7d] [5d]
+*** SHOW DOWN ***
+RenanToniolo: shows [Jd Jh] (a pair of Jacks)
+milkytravis: shows [9c 9h] (a pair of Nines)
+RenanToniolo collected 14504 from side pot
+kbção535: shows [Ah 7h] (a pair of Sevens)
+RenanToniolo collected 98500 from main pot
+milkytravis finished the tournament
+kbção535 finished the tournament
+caio_pimenta is disconnected 
+*** SUMMARY ***
+Total pot 113004 Main pot 98500. Side pot 14504. | Rake 0 
+Board [3h Qs 6s 7d 5d]
+Seat 1: kbção535 (small blind) showed [Ah 7h] and lost with a pair of Sevens
+Seat 2: Mr Pay Shent (big blind) folded before Flop
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo showed [Jd Jh] and won (113004) with a pair of Jacks
+Seat 5: milkytravis showed [9c 9h] and lost with a pair of Nines
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: drmentrop (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251206066777: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:35:21 UTC [2024/06/26 15:35:21 ET]
+Table '3767885527 92' 8-max Seat #2 is the button
+Seat 2: Mr Pay Shent (27532 in chips) 
+Seat 3: Pseudo Fruto (74664 in chips) 
+Seat 4: RenanToniolo (153291 in chips) 
+Seat 5: caio_pimenta (49407 in chips) 
+Seat 6: sunn¥m4nn (115200 in chips) 
+Seat 7: podiiii (60125 in chips) 
+Seat 8: drmentrop (49500 in chips) 
+Mr Pay Shent: posts the ante 250
+Pseudo Fruto: posts the ante 250
+RenanToniolo: posts the ante 250
+caio_pimenta: posts the ante 250
+sunn¥m4nn: posts the ante 250
+podiiii: posts the ante 250
+drmentrop: posts the ante 250
+Pseudo Fruto: posts small blind 1000
+RenanToniolo: posts big blind 2000
+*** HOLE CARDS ***
+caio_pimenta: folds 
+sunn¥m4nn: folds 
+podiiii: raises 2000 to 4000
+drmentrop: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: calls 2000
+*** FLOP *** [9c Kc 8h]
+RenanToniolo: checks 
+podiiii: bets 6600
+RenanToniolo: calls 6600
+*** TURN *** [9c Kc 8h] [6c]
+RenanToniolo: checks 
+podiiii: checks 
+*** RIVER *** [9c Kc 8h 6c] [5d]
+RenanToniolo: checks 
+podiiii: checks 
+*** SHOW DOWN ***
+RenanToniolo: shows [4d 8d] (a pair of Eights)
+podiiii: mucks hand 
+RenanToniolo collected 23950 from pot
+*** SUMMARY ***
+Total pot 23950 | Rake 0 
+Board [9c Kc 8h 6c 5d]
+Seat 2: Mr Pay Shent (button) folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto (small blind) folded before Flop
+Seat 4: RenanToniolo (big blind) showed [4d 8d] and won (23950) with a pair of Eights
+Seat 5: caio_pimenta folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii mucked
+Seat 8: drmentrop folded before Flop (didn't bet)
+
+PokerStars Hand #251206092033: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:36:53 UTC [2024/06/26 15:36:53 ET]
+Table '3767885527 92' 8-max Seat #3 is the button
+Seat 2: Mr Pay Shent (27282 in chips) 
+Seat 3: Pseudo Fruto (73414 in chips) 
+Seat 4: RenanToniolo (166391 in chips) 
+Seat 5: caio_pimenta (49157 in chips) 
+Seat 6: sunn¥m4nn (114950 in chips) 
+Seat 7: podiiii (49275 in chips) 
+Seat 8: drmentrop (49250 in chips) 
+Mr Pay Shent: posts the ante 250
+Pseudo Fruto: posts the ante 250
+RenanToniolo: posts the ante 250
+caio_pimenta: posts the ante 250
+sunn¥m4nn: posts the ante 250
+podiiii: posts the ante 250
+drmentrop: posts the ante 250
+RenanToniolo: posts small blind 1000
+caio_pimenta: posts big blind 2000
+*** HOLE CARDS ***
+sunn¥m4nn: folds 
+podiiii: folds 
+drmentrop: folds 
+Mr Pay Shent: raises 6750 to 8750
+rabwallace1993 is disconnected 
+Pseudo Fruto: folds 
+RenanToniolo: folds 
+caio_pimenta: calls 6750
+*** FLOP *** [Ac 6h 2s]
+caio_pimenta: checks 
+Mr Pay Shent: bets 18282 and is all-in
+caio_pimenta: folds 
+Uncalled bet (18282) returned to Mr Pay Shent
+Mr Pay Shent collected 20250 from pot
+Mr Pay Shent: doesn't show hand 
+*** SUMMARY ***
+Total pot 20250 | Rake 0 
+Board [Ac 6h 2s]
+Seat 2: Mr Pay Shent collected (20250)
+Seat 3: Pseudo Fruto (button) folded before Flop (didn't bet)
+Seat 4: RenanToniolo (small blind) folded before Flop
+Seat 5: caio_pimenta (big blind) folded on the Flop
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: drmentrop folded before Flop (didn't bet)
+
+PokerStars Hand #251206102801: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:37:32 UTC [2024/06/26 15:37:32 ET]
+Table '3767885527 92' 8-max Seat #4 is the button
+Seat 1: rabwallace1993 (84066 in chips) 
+Seat 2: Mr Pay Shent (38532 in chips) 
+Seat 3: Pseudo Fruto (73164 in chips) 
+Seat 4: RenanToniolo (165141 in chips) 
+Seat 5: caio_pimenta (40157 in chips) 
+Seat 6: sunn¥m4nn (114700 in chips) 
+Seat 7: podiiii (49025 in chips) 
+Seat 8: drmentrop (49000 in chips) 
+rabwallace1993: posts the ante 250
+Mr Pay Shent: posts the ante 250
+Pseudo Fruto: posts the ante 250
+RenanToniolo: posts the ante 250
+caio_pimenta: posts the ante 250
+sunn¥m4nn: posts the ante 250
+podiiii: posts the ante 250
+drmentrop: posts the ante 250
+caio_pimenta: posts small blind 1000
+sunn¥m4nn: posts big blind 2000
+*** HOLE CARDS ***
+podiiii: folds 
+drmentrop: folds 
+rabwallace1993: raises 2000 to 4000
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: folds 
+caio_pimenta: calls 3000
+sunn¥m4nn: folds 
+*** FLOP *** [Ac 4h 7s]
+caio_pimenta: checks 
+rabwallace1993: bets 6000
+caio_pimenta: folds 
+Uncalled bet (6000) returned to rabwallace1993
+rabwallace1993 collected 12000 from pot
+rabwallace1993: doesn't show hand 
+*** SUMMARY ***
+Total pot 12000 | Rake 0 
+Board [Ac 4h 7s]
+Seat 1: rabwallace1993 collected (12000)
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo (button) folded before Flop (didn't bet)
+Seat 5: caio_pimenta (small blind) folded on the Flop
+Seat 6: sunn¥m4nn (big blind) folded before Flop
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: drmentrop folded before Flop (didn't bet)
+
+PokerStars Hand #251206114055: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XIV (1000/2000) - 2024/06/26 19:38:14 UTC [2024/06/26 15:38:14 ET]
+Table '3767885527 92' 8-max Seat #5 is the button
+Seat 1: rabwallace1993 (91816 in chips) 
+Seat 2: Mr Pay Shent (38282 in chips) 
+Seat 3: Pseudo Fruto (72914 in chips) 
+Seat 4: RenanToniolo (164891 in chips) 
+Seat 5: caio_pimenta (35907 in chips) 
+Seat 6: sunn¥m4nn (112450 in chips) 
+Seat 7: podiiii (48775 in chips) 
+Seat 8: drmentrop (48750 in chips) 
+rabwallace1993: posts the ante 250
+Mr Pay Shent: posts the ante 250
+Pseudo Fruto: posts the ante 250
+RenanToniolo: posts the ante 250
+caio_pimenta: posts the ante 250
+sunn¥m4nn: posts the ante 250
+podiiii: posts the ante 250
+drmentrop: posts the ante 250
+sunn¥m4nn: posts small blind 1000
+podiiii: posts big blind 2000
+*** HOLE CARDS ***
+drmentrop: folds 
+rabwallace1993: raises 2000 to 4000
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: folds 
+caio_pimenta: folds 
+sunn¥m4nn: calls 3000
+podiiii: calls 2000
+*** FLOP *** [3h 7c 2d]
+sunn¥m4nn: checks 
+podiiii: bets 3500
+rabwallace1993: calls 3500
+sunn¥m4nn: calls 3500
+*** TURN *** [3h 7c 2d] [Jh]
+sunn¥m4nn: checks 
+podiiii: bets 8085
+rabwallace1993: raises 10085 to 18170
+sunn¥m4nn: folds 
+podiiii: raises 22855 to 41025 and is all-in
+rabwallace1993: folds 
+Uncalled bet (22855) returned to podiiii
+podiiii collected 60840 from pot
+*** SUMMARY ***
+Total pot 60840 | Rake 0 
+Board [3h 7c 2d Jh]
+Seat 1: rabwallace1993 folded on the Turn
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: caio_pimenta (button) folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn (small blind) folded on the Turn
+Seat 7: podiiii (big blind) collected (60840)
+Seat 8: drmentrop folded before Flop (didn't bet)
+
+PokerStars Hand #251206152482: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XV (1250/2500) - 2024/06/26 19:40:34 UTC [2024/06/26 15:40:34 ET]
+Table '3767885527 92' 8-max Seat #6 is the button
+Seat 1: rabwallace1993 (65896 in chips) 
+Seat 2: Mr Pay Shent (38032 in chips) 
+Seat 3: Pseudo Fruto (72664 in chips) 
+Seat 4: RenanToniolo (164641 in chips) 
+Seat 5: caio_pimenta (35657 in chips) 
+Seat 6: sunn¥m4nn (104700 in chips) 
+Seat 7: podiiii (83695 in chips) 
+Seat 8: drmentrop (48500 in chips) 
+rabwallace1993: posts the ante 325
+Mr Pay Shent: posts the ante 325
+Pseudo Fruto: posts the ante 325
+RenanToniolo: posts the ante 325
+caio_pimenta: posts the ante 325
+sunn¥m4nn: posts the ante 325
+podiiii: posts the ante 325
+drmentrop: posts the ante 325
+podiiii: posts small blind 1250
+drmentrop: posts big blind 2500
+*** HOLE CARDS ***
+rabwallace1993: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: raises 2500 to 5000
+caio_pimenta: folds 
+sunn¥m4nn: folds 
+podiiii: folds 
+drmentrop: calls 2500
+*** FLOP *** [Kd Js 8h]
+drmentrop: checks 
+RenanToniolo: bets 3463
+drmentrop: calls 3463
+*** TURN *** [Kd Js 8h] [Ac]
+drmentrop: checks 
+RenanToniolo: bets 11856
+drmentrop: folds 
+Uncalled bet (11856) returned to RenanToniolo
+RenanToniolo collected 20776 from pot
+*** SUMMARY ***
+Total pot 20776 | Rake 0 
+Board [Kd Js 8h Ac]
+Seat 1: rabwallace1993 folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo collected (20776)
+Seat 5: caio_pimenta folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn (button) folded before Flop (didn't bet)
+Seat 7: podiiii (small blind) folded before Flop
+Seat 8: drmentrop (big blind) folded on the Turn
+
+PokerStars Hand #251206164781: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XV (1250/2500) - 2024/06/26 19:41:18 UTC [2024/06/26 15:41:18 ET]
+Table '3767885527 92' 8-max Seat #7 is the button
+Seat 1: rabwallace1993 (65571 in chips) 
+Seat 2: Mr Pay Shent (37707 in chips) 
+Seat 3: Pseudo Fruto (72339 in chips) 
+Seat 4: RenanToniolo (176629 in chips) 
+Seat 5: caio_pimenta (35332 in chips) 
+Seat 6: sunn¥m4nn (104375 in chips) 
+Seat 7: podiiii (82120 in chips) 
+Seat 8: drmentrop (39712 in chips) 
+rabwallace1993: posts the ante 325
+Mr Pay Shent: posts the ante 325
+Pseudo Fruto: posts the ante 325
+RenanToniolo: posts the ante 325
+caio_pimenta: posts the ante 325
+sunn¥m4nn: posts the ante 325
+podiiii: posts the ante 325
+drmentrop: posts the ante 325
+drmentrop: posts small blind 1250
+rabwallace1993: posts big blind 2500
+*** HOLE CARDS ***
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: folds 
+caio_pimenta: folds 
+sunn¥m4nn: folds 
+podiiii: raises 2500 to 5000
+drmentrop: folds 
+rabwallace1993: calls 2500
+*** FLOP *** [Qh 7s 2h]
+rabwallace1993: checks 
+podiiii: bets 4571
+rabwallace1993: calls 4571
+*** TURN *** [Qh 7s 2h] [2s]
+rabwallace1993: checks 
+podiiii: checks 
+*** RIVER *** [Qh 7s 2h 2s] [As]
+rabwallace1993: bets 11496
+podiiii: folds 
+Uncalled bet (11496) returned to rabwallace1993
+rabwallace1993 collected 22992 from pot
+rabwallace1993: doesn't show hand 
+*** SUMMARY ***
+Total pot 22992 | Rake 0 
+Board [Qh 7s 2h 2s As]
+Seat 1: rabwallace1993 (big blind) collected (22992)
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: caio_pimenta folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii (button) folded on the River
+Seat 8: drmentrop (small blind) folded before Flop
+
+PokerStars Hand #251206187661: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XV (1250/2500) - 2024/06/26 19:42:41 UTC [2024/06/26 15:42:41 ET]
+Table '3767885527 92' 8-max Seat #8 is the button
+Seat 1: rabwallace1993 (78667 in chips) 
+Seat 2: Mr Pay Shent (37382 in chips) 
+Seat 3: Pseudo Fruto (72014 in chips) 
+Seat 4: RenanToniolo (176304 in chips) 
+Seat 5: caio_pimenta (35007 in chips) 
+Seat 6: sunn¥m4nn (104050 in chips) 
+Seat 7: podiiii (72224 in chips) 
+Seat 8: drmentrop (38137 in chips) 
+rabwallace1993: posts the ante 325
+Mr Pay Shent: posts the ante 325
+Pseudo Fruto: posts the ante 325
+RenanToniolo: posts the ante 325
+caio_pimenta: posts the ante 325
+sunn¥m4nn: posts the ante 325
+podiiii: posts the ante 325
+drmentrop: posts the ante 325
+rabwallace1993: posts small blind 1250
+Mr Pay Shent: posts big blind 2500
+*** HOLE CARDS ***
+Pseudo Fruto: folds 
+RenanToniolo: folds 
+caio_pimenta: folds 
+sunn¥m4nn: folds 
+podiiii: raises 2500 to 5000
+drmentrop: folds 
+rabwallace1993: calls 3750
+Mr Pay Shent: folds 
+*** FLOP *** [8c 8d 5h]
+rabwallace1993: checks 
+podiiii: bets 4750
+rabwallace1993: calls 4750
+*** TURN *** [8c 8d 5h] [2d]
+rabwallace1993: checks 
+podiiii: bets 12500
+rabwallace1993: calls 12500
+*** RIVER *** [8c 8d 5h 2d] [Th]
+rabwallace1993: checks 
+podiiii: checks 
+*** SHOW DOWN ***
+rabwallace1993: shows [As 4h] (a pair of Eights)
+podiiii: mucks hand 
+rabwallace1993 collected 49600 from pot
+*** SUMMARY ***
+Total pot 49600 | Rake 0 
+Board [8c 8d 5h 2d Th]
+Seat 1: rabwallace1993 (small blind) showed [As 4h] and won (49600) with a pair of Eights
+Seat 2: Mr Pay Shent (big blind) folded before Flop
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: caio_pimenta folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii mucked
+Seat 8: drmentrop (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251206218987: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XV (1250/2500) - 2024/06/26 19:44:36 UTC [2024/06/26 15:44:36 ET]
+Table '3767885527 92' 8-max Seat #1 is the button
+Seat 1: rabwallace1993 (105692 in chips) 
+Seat 2: Mr Pay Shent (34557 in chips) 
+Seat 3: Pseudo Fruto (71689 in chips) 
+Seat 4: RenanToniolo (175979 in chips) 
+Seat 5: caio_pimenta (34682 in chips) 
+Seat 6: sunn¥m4nn (103725 in chips) 
+Seat 7: podiiii (49649 in chips) 
+Seat 8: drmentrop (37812 in chips) 
+rabwallace1993: posts the ante 325
+Mr Pay Shent: posts the ante 325
+Pseudo Fruto: posts the ante 325
+RenanToniolo: posts the ante 325
+caio_pimenta: posts the ante 325
+sunn¥m4nn: posts the ante 325
+podiiii: posts the ante 325
+drmentrop: posts the ante 325
+Mr Pay Shent: posts small blind 1250
+Pseudo Fruto: posts big blind 2500
+*** HOLE CARDS ***
+RenanToniolo: folds 
+caio_pimenta: folds 
+sunn¥m4nn: folds 
+podiiii: folds 
+drmentrop: folds 
+rabwallace1993: raises 5000 to 7500
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+Uncalled bet (5000) returned to rabwallace1993
+rabwallace1993 collected 8850 from pot
+rabwallace1993: doesn't show hand 
+*** SUMMARY ***
+Total pot 8850 | Rake 0 
+Seat 1: rabwallace1993 (button) collected (8850)
+Seat 2: Mr Pay Shent (small blind) folded before Flop
+Seat 3: Pseudo Fruto (big blind) folded before Flop
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: caio_pimenta folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: drmentrop folded before Flop (didn't bet)
+
+PokerStars Hand #251206227216: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XV (1250/2500) - 2024/06/26 19:45:05 UTC [2024/06/26 15:45:05 ET]
+Table '3767885527 92' 8-max Seat #2 is the button
+Seat 1: rabwallace1993 (111717 in chips) 
+Seat 2: Mr Pay Shent (32982 in chips) 
+Seat 3: Pseudo Fruto (68864 in chips) 
+Seat 4: RenanToniolo (175654 in chips) 
+Seat 5: caio_pimenta (34357 in chips) 
+Seat 6: sunn¥m4nn (103400 in chips) 
+Seat 7: podiiii (49324 in chips) 
+Seat 8: drmentrop (37487 in chips) 
+rabwallace1993: posts the ante 325
+Mr Pay Shent: posts the ante 325
+Pseudo Fruto: posts the ante 325
+RenanToniolo: posts the ante 325
+caio_pimenta: posts the ante 325
+sunn¥m4nn: posts the ante 325
+podiiii: posts the ante 325
+drmentrop: posts the ante 325
+Pseudo Fruto: posts small blind 1250
+RenanToniolo: posts big blind 2500
+*** HOLE CARDS ***
+caio_pimenta: folds 
+sunn¥m4nn: folds 
+podiiii: raises 2500 to 5000
+drmentrop: folds 
+rabwallace1993: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: calls 2500
+*** FLOP *** [Qd Th 9d]
+RenanToniolo: checks 
+podiiii: bets 4571
+RenanToniolo: calls 4571
+*** TURN *** [Qd Th 9d] [Jd]
+RenanToniolo: checks 
+podiiii: bets 7587
+RenanToniolo: calls 7587
+*** RIVER *** [Qd Th 9d Jd] [2s]
+RenanToniolo: checks 
+podiiii: bets 31841 and is all-in
+RenanToniolo: folds 
+Uncalled bet (31841) returned to podiiii
+podiiii collected 38166 from pot
+*** SUMMARY ***
+Total pot 38166 | Rake 0 
+Board [Qd Th 9d Jd 2s]
+Seat 1: rabwallace1993 folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent (button) folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto (small blind) folded before Flop
+Seat 4: RenanToniolo (big blind) folded on the River
+Seat 5: caio_pimenta folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii collected (38166)
+Seat 8: drmentrop folded before Flop (didn't bet)
+
+PokerStars Hand #251206255670: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XV (1250/2500) - 2024/06/26 19:46:48 UTC [2024/06/26 15:46:48 ET]
+Table '3767885527 92' 8-max Seat #3 is the button
+Seat 1: rabwallace1993 (111392 in chips) 
+Seat 2: Mr Pay Shent (32657 in chips) 
+Seat 3: Pseudo Fruto (67289 in chips) 
+Seat 4: RenanToniolo (158171 in chips) 
+Seat 5: caio_pimenta (34032 in chips) 
+Seat 6: sunn¥m4nn (103075 in chips) 
+Seat 7: podiiii (70007 in chips) 
+Seat 8: drmentrop (37162 in chips) 
+rabwallace1993: posts the ante 325
+Mr Pay Shent: posts the ante 325
+Pseudo Fruto: posts the ante 325
+RenanToniolo: posts the ante 325
+caio_pimenta: posts the ante 325
+sunn¥m4nn: posts the ante 325
+podiiii: posts the ante 325
+drmentrop: posts the ante 325
+RenanToniolo: posts small blind 1250
+caio_pimenta: posts big blind 2500
+*** HOLE CARDS ***
+sunn¥m4nn: folds 
+podiiii: folds 
+drmentrop: folds 
+rabwallace1993: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: raises 2500 to 5000
+RenanToniolo: folds 
+caio_pimenta: folds 
+Uncalled bet (2500) returned to Pseudo Fruto
+Pseudo Fruto collected 8850 from pot
+Pseudo Fruto: doesn't show hand 
+*** SUMMARY ***
+Total pot 8850 | Rake 0 
+Seat 1: rabwallace1993 folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto (button) collected (8850)
+Seat 4: RenanToniolo (small blind) folded before Flop
+Seat 5: caio_pimenta (big blind) folded before Flop
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: drmentrop folded before Flop (didn't bet)
+
+PokerStars Hand #251206262206: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XV (1250/2500) - 2024/06/26 19:47:12 UTC [2024/06/26 15:47:12 ET]
+Table '3767885527 92' 8-max Seat #4 is the button
+Seat 1: rabwallace1993 (111067 in chips) 
+Seat 2: Mr Pay Shent (32332 in chips) 
+Seat 3: Pseudo Fruto (73314 in chips) 
+Seat 4: RenanToniolo (156596 in chips) 
+Seat 5: caio_pimenta (31207 in chips) 
+Seat 6: sunn¥m4nn (102750 in chips) 
+Seat 7: podiiii (69682 in chips) 
+Seat 8: drmentrop (36837 in chips) 
+rabwallace1993: posts the ante 325
+Mr Pay Shent: posts the ante 325
+Pseudo Fruto: posts the ante 325
+RenanToniolo: posts the ante 325
+caio_pimenta: posts the ante 325
+sunn¥m4nn: posts the ante 325
+podiiii: posts the ante 325
+drmentrop: posts the ante 325
+caio_pimenta: posts small blind 1250
+sunn¥m4nn: posts big blind 2500
+*** HOLE CARDS ***
+podiiii: folds 
+drmentrop: folds 
+rabwallace1993: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: raises 2500 to 5000
+RenanToniolo: folds 
+caio_pimenta: raises 25882 to 30882 and is all-in
+sunn¥m4nn: folds 
+Pseudo Fruto: calls 25882
+*** FLOP *** [2h Tc 9s]
+*** TURN *** [2h Tc 9s] [5c]
+*** RIVER *** [2h Tc 9s 5c] [Td]
+*** SHOW DOWN ***
+caio_pimenta: shows [Ks Qs] (a pair of Tens)
+Pseudo Fruto: shows [4s 4h] (two pair, Tens and Fours)
+Pseudo Fruto collected 66864 from pot
+caio_pimenta finished the tournament in 504th place
+*** SUMMARY ***
+Total pot 66864 | Rake 0 
+Board [2h Tc 9s 5c Td]
+Seat 1: rabwallace1993 folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto showed [4s 4h] and won (66864) with two pair, Tens and Fours
+Seat 4: RenanToniolo (button) folded before Flop (didn't bet)
+Seat 5: caio_pimenta (small blind) showed [Ks Qs] and lost with a pair of Tens
+Seat 6: sunn¥m4nn (big blind) folded before Flop
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: drmentrop folded before Flop (didn't bet)
+
+PokerStars Hand #251206274828: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XV (1250/2500) - 2024/06/26 19:47:58 UTC [2024/06/26 15:47:58 ET]
+Table '3767885527 92' 8-max Seat #6 is the button
+Seat 1: rabwallace1993 (110742 in chips) 
+Seat 2: Mr Pay Shent (32007 in chips) 
+Seat 3: Pseudo Fruto (108971 in chips) 
+Seat 4: RenanToniolo (156271 in chips) 
+Seat 6: sunn¥m4nn (99925 in chips) 
+Seat 7: podiiii (69357 in chips) 
+Seat 8: drmentrop (36512 in chips) 
+rabwallace1993: posts the ante 325
+Mr Pay Shent: posts the ante 325
+Pseudo Fruto: posts the ante 325
+RenanToniolo: posts the ante 325
+sunn¥m4nn: posts the ante 325
+podiiii: posts the ante 325
+drmentrop: posts the ante 325
+podiiii: posts small blind 1250
+drmentrop: posts big blind 2500
+*** HOLE CARDS ***
+rabwallace1993: folds 
+Mr Pay Shent: raises 2500 to 5000
+Pseudo Fruto: folds 
+RenanToniolo: folds 
+sunn¥m4nn: folds 
+podiiii: folds 
+drmentrop: calls 2500
+*** FLOP *** [8d Ad Ts]
+drmentrop: checks 
+Mr Pay Shent: bets 6763
+drmentrop: folds 
+Uncalled bet (6763) returned to Mr Pay Shent
+Mr Pay Shent collected 13525 from pot
+Mr Pay Shent: doesn't show hand 
+*** SUMMARY ***
+Total pot 13525 | Rake 0 
+Board [8d Ad Ts]
+Seat 1: rabwallace1993 folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent collected (13525)
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn (button) folded before Flop (didn't bet)
+Seat 7: podiiii (small blind) folded before Flop
+Seat 8: drmentrop (big blind) folded on the Flop
+
+PokerStars Hand #251206283465: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XV (1250/2500) - 2024/06/26 19:48:30 UTC [2024/06/26 15:48:30 ET]
+Table '3767885527 92' 8-max Seat #7 is the button
+Seat 1: rabwallace1993 (110417 in chips) 
+Seat 2: Mr Pay Shent (40207 in chips) 
+Seat 3: Pseudo Fruto (108646 in chips) 
+Seat 4: RenanToniolo (155946 in chips) 
+Seat 6: sunn¥m4nn (99600 in chips) 
+Seat 7: podiiii (67782 in chips) 
+Seat 8: drmentrop (31187 in chips) 
+rabwallace1993: posts the ante 325
+Mr Pay Shent: posts the ante 325
+Pseudo Fruto: posts the ante 325
+RenanToniolo: posts the ante 325
+sunn¥m4nn: posts the ante 325
+podiiii: posts the ante 325
+drmentrop: posts the ante 325
+drmentrop: posts small blind 1250
+rabwallace1993: posts big blind 2500
+*** HOLE CARDS ***
+Mr Pay Shent: folds 
+Pseudo Fruto: raises 2500 to 5000
+RenanToniolo: folds 
+sunn¥m4nn: folds 
+podiiii: folds 
+S3d3m2 is disconnected 
+drmentrop: raises 25862 to 30862 and is all-in
+rabwallace1993: folds 
+Pseudo Fruto: folds 
+Uncalled bet (25862) returned to drmentrop
+drmentrop collected 14775 from pot
+*** SUMMARY ***
+Total pot 14775 | Rake 0 
+Seat 1: rabwallace1993 (big blind) folded before Flop
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto folded before Flop
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii (button) folded before Flop (didn't bet)
+Seat 8: drmentrop (small blind) collected (14775)
+
+PokerStars Hand #251206297124: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVI (1500/3000) - 2024/06/26 19:49:19 UTC [2024/06/26 15:49:19 ET]
+Table '3767885527 92' 8-max Seat #8 is the button
+Seat 1: rabwallace1993 (107592 in chips) 
+Seat 2: Mr Pay Shent (39882 in chips) 
+Seat 3: Pseudo Fruto (103321 in chips) 
+Seat 4: RenanToniolo (155621 in chips) 
+Seat 5: S3d3m2 (104819 in chips) 
+Seat 6: sunn¥m4nn (99275 in chips) 
+Seat 7: podiiii (67457 in chips) 
+Seat 8: drmentrop (40637 in chips) 
+rabwallace1993: posts the ante 375
+Mr Pay Shent: posts the ante 375
+Pseudo Fruto: posts the ante 375
+RenanToniolo: posts the ante 375
+S3d3m2: posts the ante 375
+sunn¥m4nn: posts the ante 375
+podiiii: posts the ante 375
+drmentrop: posts the ante 375
+rabwallace1993: posts small blind 1500
+Mr Pay Shent: posts big blind 3000
+*** HOLE CARDS ***
+Pseudo Fruto: raises 3000 to 6000
+RenanToniolo: folds 
+S3d3m2: folds 
+sunn¥m4nn: folds 
+podiiii: folds 
+drmentrop: raises 34262 to 40262 and is all-in
+rabwallace1993: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: calls 34262
+*** FLOP *** [Ks Tc 9s]
+*** TURN *** [Ks Tc 9s] [3d]
+*** RIVER *** [Ks Tc 9s 3d] [2d]
+*** SHOW DOWN ***
+Pseudo Fruto: shows [Ac Jh] (high card Ace)
+drmentrop: shows [As 6c] (high card Ace - lower kicker)
+Pseudo Fruto collected 88024 from pot
+drmentrop finished the tournament in 491st place
+*** SUMMARY ***
+Total pot 88024 | Rake 0 
+Board [Ks Tc 9s 3d 2d]
+Seat 1: rabwallace1993 (small blind) folded before Flop
+Seat 2: Mr Pay Shent (big blind) folded before Flop
+Seat 3: Pseudo Fruto showed [Ac Jh] and won (88024) with high card Ace
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: drmentrop (button) showed [As 6c] and lost with high card Ace
+
+PokerStars Hand #251206308628: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVI (1500/3000) - 2024/06/26 19:50:00 UTC [2024/06/26 15:50:00 ET]
+Table '3767885527 92' 8-max Seat #1 is the button
+Seat 1: rabwallace1993 (105717 in chips) 
+Seat 2: Mr Pay Shent (36507 in chips) 
+Seat 3: Pseudo Fruto (150708 in chips) 
+Seat 4: RenanToniolo (155246 in chips) 
+Seat 5: S3d3m2 (104444 in chips) 
+Seat 6: sunn¥m4nn (98900 in chips) 
+Seat 7: podiiii (67082 in chips) 
+rabwallace1993: posts the ante 375
+Mr Pay Shent: posts the ante 375
+Pseudo Fruto: posts the ante 375
+RenanToniolo: posts the ante 375
+S3d3m2: posts the ante 375
+sunn¥m4nn: posts the ante 375
+podiiii: posts the ante 375
+Mr Pay Shent: posts small blind 1500
+Pseudo Fruto: posts big blind 3000
+*** HOLE CARDS ***
+RenanToniolo: folds 
+S3d3m2: folds 
+sunn¥m4nn: raises 3000 to 6000
+BorIska1993 is disconnected 
+podiiii: raises 60707 to 66707 and is all-in
+rabwallace1993: folds 
+Mr Pay Shent: calls 34632 and is all-in
+Pseudo Fruto: folds 
+sunn¥m4nn: folds 
+Uncalled bet (30575) returned to podiiii
+*** FLOP *** [Kc 9h Ad]
+*** TURN *** [Kc 9h Ad] [8c]
+*** RIVER *** [Kc 9h Ad 8c] [As]
+*** SHOW DOWN ***
+Mr Pay Shent: shows [Qh Ac] (three of a kind, Aces)
+podiiii: shows [5d 5c] (two pair, Aces and Fives)
+Mr Pay Shent collected 83889 from pot
+*** SUMMARY ***
+Total pot 83889 | Rake 0 
+Board [Kc 9h Ad 8c As]
+Seat 1: rabwallace1993 (button) folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent (small blind) showed [Qh Ac] and won (83889) with three of a kind, Aces
+Seat 3: Pseudo Fruto (big blind) folded before Flop
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: S3d3m2 folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop
+Seat 7: podiiii showed [5d 5c] and lost with two pair, Aces and Fives
+
+PokerStars Hand #251206322383: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVI (1500/3000) - 2024/06/26 19:50:49 UTC [2024/06/26 15:50:49 ET]
+Table '3767885527 92' 8-max Seat #2 is the button
+Seat 1: rabwallace1993 (105342 in chips) 
+Seat 2: Mr Pay Shent (83889 in chips) 
+Seat 3: Pseudo Fruto (147333 in chips) 
+Seat 4: RenanToniolo (154871 in chips) 
+Seat 5: S3d3m2 (104069 in chips) 
+Seat 6: sunn¥m4nn (92525 in chips) 
+Seat 7: podiiii (30575 in chips) 
+Seat 8: BorIska1993 (181649 in chips) 
+rabwallace1993: posts the ante 375
+Mr Pay Shent: posts the ante 375
+Pseudo Fruto: posts the ante 375
+RenanToniolo: posts the ante 375
+S3d3m2: posts the ante 375
+sunn¥m4nn: posts the ante 375
+podiiii: posts the ante 375
+BorIska1993: posts the ante 375
+Pseudo Fruto: posts small blind 1500
+RenanToniolo: posts big blind 3000
+*** HOLE CARDS ***
+S3d3m2: raises 3000 to 6000
+sunn¥m4nn: folds 
+podiiii: folds 
+BorIska1993: folds 
+rabwallace1993 has timed out
+rabwallace1993: folds 
+rabwallace1993 is sitting out
+Mr Pay Shent: folds 
+rabwallace1993 has returned
+Pseudo Fruto: raises 16500 to 22500
+RenanToniolo: folds 
+S3d3m2: raises 81194 to 103694 and is all-in
+Pseudo Fruto: calls 81194
+*** FLOP *** [5d 8d 7d]
+*** TURN *** [5d 8d 7d] [2s]
+*** RIVER *** [5d 8d 7d 2s] [Td]
+*** SHOW DOWN ***
+Pseudo Fruto: shows [Qd Ad] (a flush, Ace high)
+S3d3m2: shows [Ah Kd] (a flush, King high)
+Pseudo Fruto collected 213388 from pot
+S3d3m2 finished the tournament in 467th place
+*** SUMMARY ***
+Total pot 213388 | Rake 0 
+Board [5d 8d 7d 2s Td]
+Seat 1: rabwallace1993 folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent (button) folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto (small blind) showed [Qd Ad] and won (213388) with a flush, Ace high
+Seat 4: RenanToniolo (big blind) folded before Flop
+Seat 5: S3d3m2 showed [Ah Kd] and lost with a flush, King high
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: BorIska1993 folded before Flop (didn't bet)
+
+PokerStars Hand #251206342528: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVI (1500/3000) - 2024/06/26 19:52:01 UTC [2024/06/26 15:52:01 ET]
+Table '3767885527 92' 8-max Seat #3 is the button
+Seat 1: rabwallace1993 (104967 in chips) 
+Seat 2: Mr Pay Shent (83514 in chips) 
+Seat 3: Pseudo Fruto (256652 in chips) 
+Seat 4: RenanToniolo (151496 in chips) 
+Seat 6: sunn¥m4nn (92150 in chips) 
+Seat 7: podiiii (30200 in chips) 
+Seat 8: BorIska1993 (181274 in chips) 
+rabwallace1993: posts the ante 375
+Mr Pay Shent: posts the ante 375
+Pseudo Fruto: posts the ante 375
+RenanToniolo: posts the ante 375
+sunn¥m4nn: posts the ante 375
+podiiii: posts the ante 375
+BorIska1993: posts the ante 375
+RenanToniolo: posts small blind 1500
+sunn¥m4nn: posts big blind 3000
+*** HOLE CARDS ***
+podiiii: folds 
+BorIska1993: folds 
+rabwallace1993: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: raises 3000 to 6000
+RenanToniolo: folds 
+mv14 is disconnected 
+sunn¥m4nn: folds 
+Uncalled bet (3000) returned to Pseudo Fruto
+Pseudo Fruto collected 10125 from pot
+Pseudo Fruto: doesn't show hand 
+*** SUMMARY ***
+Total pot 10125 | Rake 0 
+Seat 1: rabwallace1993 folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto (button) collected (10125)
+Seat 4: RenanToniolo (small blind) folded before Flop
+Seat 6: sunn¥m4nn (big blind) folded before Flop
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: BorIska1993 folded before Flop (didn't bet)
+
+PokerStars Hand #251206348712: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVI (1500/3000) - 2024/06/26 19:52:23 UTC [2024/06/26 15:52:23 ET]
+Table '3767885527 92' 8-max Seat #4 is the button
+Seat 1: rabwallace1993 (104592 in chips) 
+Seat 2: Mr Pay Shent (83139 in chips) 
+Seat 3: Pseudo Fruto (263402 in chips) 
+Seat 4: RenanToniolo (149621 in chips) 
+Seat 5: mv14 (32777 in chips) out of hand (moved from another table into small blind)
+Seat 6: sunn¥m4nn (88775 in chips) 
+Seat 7: podiiii (29825 in chips) 
+Seat 8: BorIska1993 (180899 in chips) 
+mv14 will be allowed to play after the button
+rabwallace1993: posts the ante 375
+Mr Pay Shent: posts the ante 375
+Pseudo Fruto: posts the ante 375
+RenanToniolo: posts the ante 375
+sunn¥m4nn: posts the ante 375
+podiiii: posts the ante 375
+BorIska1993: posts the ante 375
+sunn¥m4nn: posts small blind 1500
+podiiii: posts big blind 3000
+*** HOLE CARDS ***
+BorIska1993: raises 3000 to 6000
+rabwallace1993: raises 6000 to 12000
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: folds 
+sunn¥m4nn: folds 
+podiiii: folds 
+BorIska1993: calls 6000
+*** FLOP *** [Qs 6c Tc]
+BorIska1993: checks 
+rabwallace1993: checks 
+*** TURN *** [Qs 6c Tc] [5d]
+BorIska1993: bets 21900
+rabwallace1993: calls 21900
+*** RIVER *** [Qs 6c Tc 5d] [Js]
+BorIska1993: checks 
+rabwallace1993: bets 40463
+BorIska1993: calls 40463
+*** SHOW DOWN ***
+rabwallace1993: shows [Ks Ah] (a straight, Ten to Ace)
+BorIska1993: mucks hand 
+rabwallace1993 collected 155851 from pot
+*** SUMMARY ***
+Total pot 155851 | Rake 0 
+Board [Qs 6c Tc 5d Js]
+Seat 1: rabwallace1993 showed [Ks Ah] and won (155851) with a straight, Ten to Ace
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo (button) folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn (small blind) folded before Flop
+Seat 7: podiiii (big blind) folded before Flop
+Seat 8: BorIska1993 mucked
+
+PokerStars Hand #251206385232: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVI (1500/3000) - 2024/06/26 19:54:32 UTC [2024/06/26 15:54:32 ET]
+Table '3767885527 92' 8-max Seat #6 is the button
+Seat 1: rabwallace1993 (185705 in chips) 
+Seat 2: Mr Pay Shent (82764 in chips) 
+Seat 3: Pseudo Fruto (263027 in chips) 
+Seat 4: RenanToniolo (149246 in chips) 
+Seat 5: mv14 (32777 in chips) 
+Seat 6: sunn¥m4nn (86900 in chips) 
+Seat 7: podiiii (26450 in chips) 
+Seat 8: BorIska1993 (106161 in chips) 
+rabwallace1993: posts the ante 375
+Mr Pay Shent: posts the ante 375
+Pseudo Fruto: posts the ante 375
+RenanToniolo: posts the ante 375
+mv14: posts the ante 375
+sunn¥m4nn: posts the ante 375
+podiiii: posts the ante 375
+BorIska1993: posts the ante 375
+podiiii: posts small blind 1500
+BorIska1993: posts big blind 3000
+*** HOLE CARDS ***
+rabwallace1993: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: raises 3000 to 6000
+RenanToniolo: folds 
+mv14: folds 
+sunn¥m4nn: folds 
+podiiii: folds 
+BorIska1993: folds 
+Uncalled bet (3000) returned to Pseudo Fruto
+Pseudo Fruto collected 10500 from pot
+Pseudo Fruto: doesn't show hand 
+*** SUMMARY ***
+Total pot 10500 | Rake 0 
+Seat 1: rabwallace1993 folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto collected (10500)
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: mv14 folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn (button) folded before Flop (didn't bet)
+Seat 7: podiiii (small blind) folded before Flop
+Seat 8: BorIska1993 (big blind) folded before Flop
+
+PokerStars Hand #251206482751: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVI (1500/3000) - 2024/06/26 20:01:47 UTC [2024/06/26 16:01:47 ET]
+Table '3767885527 92' 8-max Seat #7 is the button
+Seat 1: rabwallace1993 (185330 in chips) 
+Seat 2: Mr Pay Shent (82389 in chips) 
+Seat 3: Pseudo Fruto (270152 in chips) 
+Seat 4: RenanToniolo (148871 in chips) 
+Seat 5: mv14 (32402 in chips) 
+Seat 6: sunn¥m4nn (86525 in chips) 
+Seat 7: podiiii (24575 in chips) 
+Seat 8: BorIska1993 (102786 in chips) 
+rabwallace1993: posts the ante 375
+Mr Pay Shent: posts the ante 375
+Pseudo Fruto: posts the ante 375
+RenanToniolo: posts the ante 375
+mv14: posts the ante 375
+sunn¥m4nn: posts the ante 375
+podiiii: posts the ante 375
+BorIska1993: posts the ante 375
+BorIska1993: posts small blind 1500
+rabwallace1993: posts big blind 3000
+*** HOLE CARDS ***
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: folds 
+mv14: folds 
+sunn¥m4nn: raises 3000 to 6000
+podiiii: folds 
+BorIska1993: calls 4500
+rabwallace1993: calls 3000
+*** FLOP *** [5d 7c 2d]
+BorIska1993: checks 
+rabwallace1993: checks 
+sunn¥m4nn: checks 
+*** TURN *** [5d 7c 2d] [Jh]
+BorIska1993: checks 
+rabwallace1993: checks 
+sunn¥m4nn: bets 15000
+BorIska1993: folds 
+rabwallace1993: calls 15000
+*** RIVER *** [5d 7c 2d Jh] [Qh]
+rabwallace1993: checks 
+sunn¥m4nn: checks 
+*** SHOW DOWN ***
+rabwallace1993: shows [Kh 5s] (a pair of Fives)
+sunn¥m4nn: shows [Jd Ks] (a pair of Jacks)
+sunn¥m4nn collected 51000 from pot
+*** SUMMARY ***
+Total pot 51000 | Rake 0 
+Board [5d 7c 2d Jh Qh]
+Seat 1: rabwallace1993 (big blind) showed [Kh 5s] and lost with a pair of Fives
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: mv14 folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn showed [Jd Ks] and won (51000) with a pair of Jacks
+Seat 7: podiiii (button) folded before Flop (didn't bet)
+Seat 8: BorIska1993 (small blind) folded on the Turn
+
+PokerStars Hand #251206518088: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVI (1500/3000) - 2024/06/26 20:03:52 UTC [2024/06/26 16:03:52 ET]
+Table '3767885527 92' 8-max Seat #8 is the button
+Seat 1: rabwallace1993 (163955 in chips) 
+Seat 2: Mr Pay Shent (82014 in chips) 
+Seat 3: Pseudo Fruto (269777 in chips) 
+Seat 4: RenanToniolo (148496 in chips) 
+Seat 5: mv14 (32027 in chips) 
+Seat 6: sunn¥m4nn (116150 in chips) 
+Seat 7: podiiii (24200 in chips) 
+Seat 8: BorIska1993 (96411 in chips) 
+rabwallace1993: posts the ante 375
+Mr Pay Shent: posts the ante 375
+Pseudo Fruto: posts the ante 375
+RenanToniolo: posts the ante 375
+mv14: posts the ante 375
+sunn¥m4nn: posts the ante 375
+podiiii: posts the ante 375
+BorIska1993: posts the ante 375
+rabwallace1993: posts small blind 1500
+Mr Pay Shent: posts big blind 3000
+*** HOLE CARDS ***
+Pseudo Fruto: folds 
+RenanToniolo: folds 
+mv14: raises 3000 to 6000
+sunn¥m4nn: folds 
+podiiii: folds 
+BorIska1993: folds 
+rabwallace1993: folds 
+Mr Pay Shent: calls 3000
+*** FLOP *** [9d 6h Ac]
+Mr Pay Shent: checks 
+mv14: bets 5670
+Mr Pay Shent: raises 5670 to 11340
+mv14: calls 5670
+*** TURN *** [9d 6h Ac] [7s]
+Mr Pay Shent: bets 39180
+mv14: folds 
+Uncalled bet (39180) returned to Mr Pay Shent
+Mr Pay Shent collected 39180 from pot
+Mr Pay Shent: doesn't show hand 
+*** SUMMARY ***
+Total pot 39180 | Rake 0 
+Board [9d 6h Ac 7s]
+Seat 1: rabwallace1993 (small blind) folded before Flop
+Seat 2: Mr Pay Shent (big blind) collected (39180)
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: mv14 folded on the Turn
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: BorIska1993 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #251206536329: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVI (1500/3000) - 2024/06/26 20:04:56 UTC [2024/06/26 16:04:56 ET]
+Table '3767885527 92' 8-max Seat #1 is the button
+Seat 1: rabwallace1993 (162080 in chips) 
+Seat 2: Mr Pay Shent (103479 in chips) 
+Seat 3: Pseudo Fruto (269402 in chips) 
+Seat 4: RenanToniolo (148121 in chips) 
+Seat 5: mv14 (14312 in chips) 
+Seat 6: sunn¥m4nn (115775 in chips) 
+Seat 7: podiiii (23825 in chips) 
+Seat 8: BorIska1993 (96036 in chips) 
+rabwallace1993: posts the ante 375
+Mr Pay Shent: posts the ante 375
+Pseudo Fruto: posts the ante 375
+RenanToniolo: posts the ante 375
+mv14: posts the ante 375
+sunn¥m4nn: posts the ante 375
+podiiii: posts the ante 375
+BorIska1993: posts the ante 375
+Mr Pay Shent: posts small blind 1500
+Pseudo Fruto: posts big blind 3000
+*** HOLE CARDS ***
+RenanToniolo: raises 3000 to 6000
+mv14: folds 
+sunn¥m4nn: folds 
+podiiii: folds 
+BorIska1993: folds 
+rabwallace1993: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+Uncalled bet (3000) returned to RenanToniolo
+RenanToniolo collected 10500 from pot
+*** SUMMARY ***
+Total pot 10500 | Rake 0 
+Seat 1: rabwallace1993 (button) folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent (small blind) folded before Flop
+Seat 3: Pseudo Fruto (big blind) folded before Flop
+Seat 4: RenanToniolo collected (10500)
+Seat 5: mv14 folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: BorIska1993 folded before Flop (didn't bet)
+
+PokerStars Hand #251206550249: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVI (1500/3000) - 2024/06/26 20:05:44 UTC [2024/06/26 16:05:44 ET]
+Table '3767885527 92' 8-max Seat #2 is the button
+Seat 1: rabwallace1993 (161705 in chips) 
+Seat 2: Mr Pay Shent (101604 in chips) 
+Seat 3: Pseudo Fruto (266027 in chips) 
+Seat 4: RenanToniolo (155246 in chips) 
+Seat 5: mv14 (13937 in chips) 
+Seat 6: sunn¥m4nn (115400 in chips) 
+Seat 7: podiiii (23450 in chips) 
+Seat 8: BorIska1993 (95661 in chips) 
+rabwallace1993: posts the ante 375
+Mr Pay Shent: posts the ante 375
+Pseudo Fruto: posts the ante 375
+RenanToniolo: posts the ante 375
+mv14: posts the ante 375
+sunn¥m4nn: posts the ante 375
+podiiii: posts the ante 375
+BorIska1993: posts the ante 375
+Pseudo Fruto: posts small blind 1500
+RenanToniolo: posts big blind 3000
+*** HOLE CARDS ***
+mv14: folds 
+sunn¥m4nn: folds 
+podiiii: folds 
+BorIska1993: folds 
+rabwallace1993: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: raises 7500 to 10500
+RenanToniolo: calls 7500
+*** FLOP *** [Th Ac 8h]
+Pseudo Fruto has timed out
+Pseudo Fruto: checks 
+RenanToniolo: bets 16000
+Pseudo Fruto: raises 26000 to 42000
+RenanToniolo: folds 
+Uncalled bet (26000) returned to Pseudo Fruto
+Pseudo Fruto collected 56000 from pot
+Pseudo Fruto: doesn't show hand 
+*** SUMMARY ***
+Total pot 56000 | Rake 0 
+Board [Th Ac 8h]
+Seat 1: rabwallace1993 folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent (button) folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto (small blind) collected (56000)
+Seat 4: RenanToniolo (big blind) folded on the Flop
+Seat 5: mv14 folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: BorIska1993 folded before Flop (didn't bet)
+
+PokerStars Hand #251206577141: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVII (1750/3500) - 2024/06/26 20:07:18 UTC [2024/06/26 16:07:18 ET]
+Table '3767885527 92' 8-max Seat #3 is the button
+Seat 1: rabwallace1993 (161330 in chips) 
+Seat 2: Mr Pay Shent (101229 in chips) 
+Seat 3: Pseudo Fruto (295152 in chips) 
+Seat 4: RenanToniolo (128371 in chips) 
+Seat 5: mv14 (13562 in chips) 
+Seat 6: sunn¥m4nn (115025 in chips) 
+Seat 7: podiiii (23075 in chips) 
+Seat 8: BorIska1993 (95286 in chips) 
+rabwallace1993: posts the ante 450
+Mr Pay Shent: posts the ante 450
+Pseudo Fruto: posts the ante 450
+RenanToniolo: posts the ante 450
+mv14: posts the ante 450
+sunn¥m4nn: posts the ante 450
+podiiii: posts the ante 450
+BorIska1993: posts the ante 450
+RenanToniolo: posts small blind 1750
+mv14: posts big blind 3500
+*** HOLE CARDS ***
+sunn¥m4nn: folds 
+podiiii: folds 
+BorIska1993: folds 
+rabwallace1993: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: raises 12250 to 15750
+mv14: calls 9612 and is all-in
+Uncalled bet (2638) returned to RenanToniolo
+*** FLOP *** [Qd Js 7s]
+*** TURN *** [Qd Js 7s] [9h]
+*** RIVER *** [Qd Js 7s 9h] [Jh]
+*** SHOW DOWN ***
+RenanToniolo: shows [6c 5d] (a pair of Jacks)
+mv14: shows [4c Jc] (three of a kind, Jacks)
+mv14 collected 29824 from pot
+*** SUMMARY ***
+Total pot 29824 | Rake 0 
+Board [Qd Js 7s 9h Jh]
+Seat 1: rabwallace1993 folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto (button) folded before Flop (didn't bet)
+Seat 4: RenanToniolo (small blind) showed [6c 5d] and lost with a pair of Jacks
+Seat 5: mv14 (big blind) showed [4c Jc] and won (29824) with three of a kind, Jacks
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: podiiii folded before Flop (didn't bet)
+Seat 8: BorIska1993 folded before Flop (didn't bet)
+
+PokerStars Hand #251206586348: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVII (1750/3500) - 2024/06/26 20:07:51 UTC [2024/06/26 16:07:51 ET]
+Table '3767885527 92' 8-max Seat #4 is the button
+Seat 1: rabwallace1993 (160880 in chips) 
+Seat 2: Mr Pay Shent (100779 in chips) 
+Seat 3: Pseudo Fruto (294702 in chips) 
+Seat 4: RenanToniolo (114809 in chips) 
+Seat 5: mv14 (29824 in chips) 
+Seat 6: sunn¥m4nn (114575 in chips) 
+Seat 7: podiiii (22625 in chips) 
+Seat 8: BorIska1993 (94836 in chips) 
+rabwallace1993: posts the ante 450
+Mr Pay Shent: posts the ante 450
+Pseudo Fruto: posts the ante 450
+RenanToniolo: posts the ante 450
+mv14: posts the ante 450
+sunn¥m4nn: posts the ante 450
+podiiii: posts the ante 450
+BorIska1993: posts the ante 450
+mv14: posts small blind 1750
+sunn¥m4nn: posts big blind 3500
+*** HOLE CARDS ***
+podiiii: raises 18675 to 22175 and is all-in
+BorIska1993: folds 
+rabwallace1993: folds 
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: folds 
+mv14: folds 
+sunn¥m4nn: calls 18675
+*** FLOP *** [4s Ks 7s]
+*** TURN *** [4s Ks 7s] [3h]
+*** RIVER *** [4s Ks 7s 3h] [7h]
+*** SHOW DOWN ***
+sunn¥m4nn: shows [Ad Kh] (two pair, Kings and Sevens)
+podiiii: shows [9d 9c] (two pair, Nines and Sevens)
+sunn¥m4nn collected 49700 from pot
+podiiii finished the tournament in 394th place
+*** SUMMARY ***
+Total pot 49700 | Rake 0 
+Board [4s Ks 7s 3h 7h]
+Seat 1: rabwallace1993 folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo (button) folded before Flop (didn't bet)
+Seat 5: mv14 (small blind) folded before Flop
+Seat 6: sunn¥m4nn (big blind) showed [Ad Kh] and won (49700) with two pair, Kings and Sevens
+Seat 7: podiiii showed [9d 9c] and lost with two pair, Nines and Sevens
+Seat 8: BorIska1993 folded before Flop (didn't bet)
+
+PokerStars Hand #251206594589: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVII (1750/3500) - 2024/06/26 20:08:20 UTC [2024/06/26 16:08:20 ET]
+Table '3767885527 92' 8-max Seat #5 is the button
+Seat 1: rabwallace1993 (160430 in chips) 
+Seat 2: Mr Pay Shent (100329 in chips) 
+Seat 3: Pseudo Fruto (294252 in chips) 
+Seat 4: RenanToniolo (114359 in chips) 
+Seat 5: mv14 (27624 in chips) 
+Seat 6: sunn¥m4nn (141650 in chips) 
+Seat 8: BorIska1993 (94386 in chips) 
+rabwallace1993: posts the ante 450
+Mr Pay Shent: posts the ante 450
+Pseudo Fruto: posts the ante 450
+RenanToniolo: posts the ante 450
+mv14: posts the ante 450
+sunn¥m4nn: posts the ante 450
+BorIska1993: posts the ante 450
+sunn¥m4nn: posts small blind 1750
+BorIska1993: posts big blind 3500
+*** HOLE CARDS ***
+rabwallace1993: folds 
+Mr Pay Shent: raises 3500 to 7000
+Pseudo Fruto: folds 
+RenanToniolo: folds 
+mv14: folds 
+sunn¥m4nn: folds 
+BorIska1993: calls 3500
+*** FLOP *** [6c Jd 5s]
+BorIska1993: checks 
+Mr Pay Shent: checks 
+*** TURN *** [6c Jd 5s] [7s]
+BorIska1993: bets 6237
+Mr Pay Shent: calls 6237
+*** RIVER *** [6c Jd 5s 7s] [5d]
+BorIska1993: bets 16001
+Mr Pay Shent: calls 16001
+*** SHOW DOWN ***
+BorIska1993: shows [Ad 7d] (two pair, Sevens and Fives)
+Mr Pay Shent: mucks hand 
+BorIska1993 collected 63376 from pot
+*** SUMMARY ***
+Total pot 63376 | Rake 0 
+Board [6c Jd 5s 7s 5d]
+Seat 1: rabwallace1993 folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent mucked
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: mv14 (button) folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn (small blind) folded before Flop
+Seat 8: BorIska1993 (big blind) showed [Ad 7d] and won (63376) with two pair, Sevens and Fives
+
+PokerStars Hand #251206607239: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVII (1750/3500) - 2024/06/26 20:09:04 UTC [2024/06/26 16:09:04 ET]
+Table '3767885527 92' 8-max Seat #6 is the button
+Seat 1: rabwallace1993 (159980 in chips) 
+Seat 2: Mr Pay Shent (70641 in chips) 
+Seat 3: Pseudo Fruto (293802 in chips) 
+Seat 4: RenanToniolo (113909 in chips) 
+Seat 5: mv14 (27174 in chips) 
+Seat 6: sunn¥m4nn (139450 in chips) 
+Seat 7: esdeathonlol (28675 in chips) out of hand (moved from another table into small blind)
+Seat 8: BorIska1993 (128074 in chips) 
+esdeathonlol will be allowed to play after the button
+rabwallace1993: posts the ante 450
+Mr Pay Shent: posts the ante 450
+Pseudo Fruto: posts the ante 450
+RenanToniolo: posts the ante 450
+mv14: posts the ante 450
+sunn¥m4nn: posts the ante 450
+BorIska1993: posts the ante 450
+BorIska1993: posts small blind 1750
+rabwallace1993: posts big blind 3500
+*** HOLE CARDS ***
+Mr Pay Shent: folds 
+Pseudo Fruto: folds 
+RenanToniolo: folds 
+mv14: folds 
+sunn¥m4nn: raises 3500 to 7000
+BorIska1993: folds 
+rabwallace1993: folds 
+Uncalled bet (3500) returned to sunn¥m4nn
+sunn¥m4nn collected 11900 from pot
+sunn¥m4nn: doesn't show hand 
+*** SUMMARY ***
+Total pot 11900 | Rake 0 
+Seat 1: rabwallace1993 (big blind) folded before Flop
+Seat 2: Mr Pay Shent folded before Flop (didn't bet)
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: mv14 folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn (button) collected (11900)
+Seat 8: BorIska1993 (small blind) folded before Flop
+
+PokerStars Hand #251206618581: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVII (1750/3500) - 2024/06/26 20:09:44 UTC [2024/06/26 16:09:44 ET]
+Table '3767885527 92' 8-max Seat #8 is the button
+Seat 1: rabwallace1993 (156030 in chips) 
+Seat 2: Mr Pay Shent (70191 in chips) 
+Seat 3: Pseudo Fruto (293352 in chips) 
+Seat 4: RenanToniolo (113459 in chips) 
+Seat 5: mv14 (26724 in chips) 
+Seat 6: sunn¥m4nn (147400 in chips) 
+Seat 7: esdeathonlol (28675 in chips) 
+Seat 8: BorIska1993 (125874 in chips) 
+rabwallace1993: posts the ante 450
+Mr Pay Shent: posts the ante 450
+Pseudo Fruto: posts the ante 450
+RenanToniolo: posts the ante 450
+mv14: posts the ante 450
+sunn¥m4nn: posts the ante 450
+esdeathonlol: posts the ante 450
+BorIska1993: posts the ante 450
+rabwallace1993: posts small blind 1750
+Mr Pay Shent: posts big blind 3500
+*** HOLE CARDS ***
+Pseudo Fruto: folds 
+RenanToniolo: folds 
+mv14: folds 
+sunn¥m4nn: folds 
+esdeathonlol: folds 
+BorIska1993: raises 3500 to 7000
+rabwallace1993: calls 5250
+Mr Pay Shent: calls 3500
+*** FLOP *** [2h 6c 6h]
+rabwallace1993: checks 
+Mr Pay Shent: checks 
+BorIska1993: bets 7350
+rabwallace1993: calls 7350
+Mr Pay Shent: folds 
+*** TURN *** [2h 6c 6h] [Ts]
+rabwallace1993: checks 
+BorIska1993: checks 
+*** RIVER *** [2h 6c 6h Ts] [8s]
+rabwallace1993: checks 
+BorIska1993: checks 
+*** SHOW DOWN ***
+rabwallace1993: shows [3s As] (a pair of Sixes)
+BorIska1993: shows [7s 7h] (two pair, Sevens and Sixes)
+BorIska1993 collected 39300 from pot
+*** SUMMARY ***
+Total pot 39300 | Rake 0 
+Board [2h 6c 6h Ts 8s]
+Seat 1: rabwallace1993 (small blind) showed [3s As] and lost with a pair of Sixes
+Seat 2: Mr Pay Shent (big blind) folded on the Flop
+Seat 3: Pseudo Fruto folded before Flop (didn't bet)
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: mv14 folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: esdeathonlol folded before Flop (didn't bet)
+Seat 8: BorIska1993 (button) showed [7s 7h] and won (39300) with two pair, Sevens and Sixes
+
+PokerStars Hand #251206643533: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVII (1750/3500) - 2024/06/26 20:11:11 UTC [2024/06/26 16:11:11 ET]
+Table '3767885527 92' 8-max Seat #1 is the button
+Seat 1: rabwallace1993 (141230 in chips) 
+Seat 2: Mr Pay Shent (62741 in chips) 
+Seat 3: Pseudo Fruto (292902 in chips) 
+Seat 4: RenanToniolo (113009 in chips) 
+Seat 5: mv14 (26274 in chips) 
+Seat 6: sunn¥m4nn (146950 in chips) 
+Seat 7: esdeathonlol (28225 in chips) 
+Seat 8: BorIska1993 (150374 in chips) 
+rabwallace1993: posts the ante 450
+Mr Pay Shent: posts the ante 450
+Pseudo Fruto: posts the ante 450
+RenanToniolo: posts the ante 450
+mv14: posts the ante 450
+sunn¥m4nn: posts the ante 450
+esdeathonlol: posts the ante 450
+BorIska1993: posts the ante 450
+Mr Pay Shent: posts small blind 1750
+Pseudo Fruto: posts big blind 3500
+*** HOLE CARDS ***
+RenanToniolo: folds 
+mv14: folds 
+sunn¥m4nn: folds 
+esdeathonlol: folds 
+BorIska1993: folds 
+rabwallace1993: folds 
+Mr Pay Shent: folds 
+Uncalled bet (1750) returned to Pseudo Fruto
+Pseudo Fruto collected 7100 from pot
+Pseudo Fruto: doesn't show hand 
+*** SUMMARY ***
+Total pot 7100 | Rake 0 
+Seat 1: rabwallace1993 (button) folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent (small blind) folded before Flop
+Seat 3: Pseudo Fruto (big blind) collected (7100)
+Seat 4: RenanToniolo folded before Flop (didn't bet)
+Seat 5: mv14 folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: esdeathonlol folded before Flop (didn't bet)
+Seat 8: BorIska1993 folded before Flop (didn't bet)
+
+PokerStars Hand #251206648845: Tournament #3767885527, $40+$10+$5 USD Hold'em No Limit - Level XVII (1750/3500) - 2024/06/26 20:11:30 UTC [2024/06/26 16:11:30 ET]
+Table '3767885527 92' 8-max Seat #2 is the button
+Seat 1: rabwallace1993 (140780 in chips) 
+Seat 2: Mr Pay Shent (60541 in chips) 
+Seat 3: Pseudo Fruto (297802 in chips) 
+Seat 4: RenanToniolo (112559 in chips) 
+Seat 5: mv14 (25824 in chips) 
+Seat 6: sunn¥m4nn (146500 in chips) 
+Seat 7: esdeathonlol (27775 in chips) 
+Seat 8: BorIska1993 (149924 in chips) 
+rabwallace1993: posts the ante 450
+Mr Pay Shent: posts the ante 450
+Pseudo Fruto: posts the ante 450
+RenanToniolo: posts the ante 450
+mv14: posts the ante 450
+sunn¥m4nn: posts the ante 450
+esdeathonlol: posts the ante 450
+BorIska1993: posts the ante 450
+Pseudo Fruto: posts small blind 1750
+RenanToniolo: posts big blind 3500
+*** HOLE CARDS ***
+mv14: folds 
+sunn¥m4nn: folds 
+esdeathonlol: folds 
+BorIska1993: folds 
+rabwallace1993: folds 
+Mr Pay Shent: raises 56591 to 60091 and is all-in
+Pseudo Fruto: raises 56591 to 116682
+RenanToniolo: folds 
+Uncalled bet (56591) returned to Pseudo Fruto
+*** FLOP *** [Kh 6h 7h]
+*** TURN *** [Kh 6h 7h] [3c]
+*** RIVER *** [Kh 6h 7h 3c] [Qh]
+*** SHOW DOWN ***
+Pseudo Fruto: shows [As Kc] (a pair of Kings)
+Mr Pay Shent: shows [2d Ac] (high card Ace)
+Pseudo Fruto collected 127282 from pot
+Mr Pay Shent finished the tournament in 377th place
+*** SUMMARY ***
+Total pot 127282 | Rake 0 
+Board [Kh 6h 7h 3c Qh]
+Seat 1: rabwallace1993 folded before Flop (didn't bet)
+Seat 2: Mr Pay Shent (button) showed [2d Ac] and lost with high card Ace
+Seat 3: Pseudo Fruto (small blind) showed [As Kc] and won (127282) with a pair of Kings
+Seat 4: RenanToniolo (big blind) folded before Flop
+Seat 5: mv14 folded before Flop (didn't bet)
+Seat 6: sunn¥m4nn folded before Flop (didn't bet)
+Seat 7: esdeathonlol folded before Flop (didn't bet)
+Seat 8: BorIska1993 folded before Flop (didn't bet)
