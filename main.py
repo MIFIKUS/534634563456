@@ -67,6 +67,8 @@ print('Windows инициализирован')
 
 closed_tables = []
 
+num = 0
+
 
 def cleanup_tournaments_data():
     with open('tournaments_data.json', 'w') as tournament_data_json:
@@ -78,7 +80,6 @@ def add_new_tables(amount_of_tables, num):
     print('Главное окно получено')
     print('Переход к открытию новых столов')
 
-    num = 0
     try:
         num = tournament_actions.switch_tournaments(amount_of_tables, num)
     except Exception:
