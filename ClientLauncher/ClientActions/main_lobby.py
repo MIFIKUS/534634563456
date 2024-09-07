@@ -49,7 +49,6 @@ class TournamentActions:
         self._tournament_y = 260
 
     def switch_tournaments(self, amount_of_tables, num):
-        num -= 1
         if not num or num <= 0:
             num = 0
         print(f'Попытка открыть турнир №{num}')
