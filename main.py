@@ -177,8 +177,6 @@ def main():
         LobbyActions.close_banner()
         print('Произведена попытка нажать на крестик банера')
         try:
-            print('Задержка 30 секунд')
-            time.sleep(30)
             try:
                 print('Получение открытых столов из таблицы')
                 opened_tables = get_statistics.get_open_tables()
