@@ -19,7 +19,8 @@ import win32gui
 import win32process
 
 import time
-import re
+import traceback
+
 
 mouse = Mouse()
 keyboard = Keyboard()
@@ -123,8 +124,13 @@ class TablesControl:
             except Exception:
                 print('Не удалось выбрать стол')
 
-        _, instant_hand_history_pid = win32process.GetWindowThreadProcessId(win32gui.GetForegroundWindow())
-        instant_hand_history_window = Application(backend='win32').connect(process=instant_hand_history_pid).InstantHandHistory
+        while True:
+            try:
+                _, instant_hand_history_pid = win32process.GetWindowThreadProcessId(win32gui.GetForegroundWindow())
+                instant_hand_history_window = Application(backend='win32').connect(process=instant_hand_history_pid).InstantHandHistory
+            except:
+                traceback.print_exc()
+                pass
 
         table_id, table_num = _get_table_id_and_table(closed_table)
         table_num = table_num.replace(' ', '')
@@ -143,6 +149,8 @@ class TablesControl:
             return False
 
     def get_table_deal(self):
+        while not windows.top_window_is_instant_hand_history():
+            windows.open_instant_hand_history_menu()
         mouse.move_and_click(900, 120)
 
         keyboard.copy_fast()
@@ -162,10 +170,10 @@ class TablesControl:
                     same += 1
                 else:
                     deals_and_files.add_deal()
+                    deals.append(deal)
 
-                if same == 2:
+                if same == 5:
                     return deals
-                deals.append(deal)
 
                 del deal
 

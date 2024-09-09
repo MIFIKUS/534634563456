@@ -127,3 +127,9 @@ class Windows:
     @endless_error_handler
     def get_amount_of_opened_tables(self):
         return len(self.find_all_tables_windows())
+
+    def top_window_is_instant_hand_history(self):
+        foreground_window = win32gui.GetForegroundWindow()
+        if win32gui.GetWindowText(foreground_window) == 'Instant Hand History':
+            return True
+        return False
