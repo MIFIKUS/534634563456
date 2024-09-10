@@ -103,7 +103,7 @@ def change_closed_tables(table_id):
     tables = get_closed_tables_file()
     a = []
     for i in tables:
-        if table_id in i:
+        if table_id == i:
             continue
         a.append(i)
     a.append('\n')
