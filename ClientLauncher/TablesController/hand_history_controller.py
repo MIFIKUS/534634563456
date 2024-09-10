@@ -128,6 +128,7 @@ class TablesControl:
             try:
                 _, instant_hand_history_pid = win32process.GetWindowThreadProcessId(win32gui.GetForegroundWindow())
                 instant_hand_history_window = Application(backend='win32').connect(process=instant_hand_history_pid).InstantHandHistory
+                break
             except:
                 traceback.print_exc()
                 pass
