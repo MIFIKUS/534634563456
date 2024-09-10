@@ -139,7 +139,12 @@ class TablesControl:
 
         print(f'Стол который нужно найти {table_id} {table_num}')
 
-        available_tables = _get_all_tables_from_check_box(instant_hand_history_window)
+        while True:
+            try:
+                available_tables = _get_all_tables_from_check_box(instant_hand_history_window)
+                break
+            except:
+                pass
         table_text = _get_necessary_checkbox_text(available_tables, table_num, table_id)
 
         print(f'table_text {table_text} type {type(table_text)}')
