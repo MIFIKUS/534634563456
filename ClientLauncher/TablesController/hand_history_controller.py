@@ -46,6 +46,9 @@ while True:
 
 deals_and_files = DealsAndFiles()
 
+_, instant_hand_history_pid = win32process.GetWindowThreadProcessId(win32gui.GetForegroundWindow())
+instant_hand_history_window = Application(backend='win32').connect(process=instant_hand_history_pid).InstantHandHistory
+
 
 class InstantHandHistoryController:
     def open_instant_hand_history_menu(self):
@@ -124,15 +127,6 @@ class TablesControl:
             except Exception:
                 print('Не удалось выбрать стол')
 
-        while True:
-            try:
-                _, instant_hand_history_pid = win32process.GetWindowThreadProcessId(win32gui.GetForegroundWindow())
-                instant_hand_history_window = Application(backend='win32').connect(process=instant_hand_history_pid).InstantHandHistory
-                break
-            except:
-                traceback.print_exc()
-                pass
-
         table_id, table_num = _get_table_id_and_table(closed_table)
         table_num = table_num.replace(' ', '')
         table_num = table_num.replace('\n', '')
@@ -144,7 +138,8 @@ class TablesControl:
                 available_tables = _get_all_tables_from_check_box(instant_hand_history_window)
                 break
             except:
-                pass
+                traceback.print_exc()
+
         table_text = _get_necessary_checkbox_text(available_tables, table_num, table_id)
 
         print(f'table_text {table_text} type {type(table_text)}')
