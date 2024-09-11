@@ -151,6 +151,7 @@ class TablesControl:
 
     def get_table_deal(self):
         while not windows.top_window_is_instant_hand_history():
+            print('Instant Hand History не является окном сверху')
             windows.open_instant_hand_history_menu()
         mouse.move_and_click(900, 120)
 
