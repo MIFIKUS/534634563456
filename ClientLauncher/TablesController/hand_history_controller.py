@@ -161,23 +161,24 @@ class TablesControl:
 
         deals.append(deal)
 
+        same = 0
+
         while True:
             keyboard.arrow_down()
-            same = 0
-            for _ in range(2):
-                keyboard.copy_fast()
-                deal = do_without_error(clipboard.clipboard_get)
 
-                if deal in deals:
-                    same += 1
-                else:
-                    deals_and_files.add_deal()
-                    deals.append(deal)
+            keyboard.copy_fast()
+            deal = do_without_error(clipboard.clipboard_get)
 
-                if same == 5:
-                    return deals
+            if deal in deals:
+                same += 1
+            else:
+                deals_and_files.add_deal()
+                deals.append(deal)
 
-                del deal
+            if same == 5:
+                return deals
+
+            del deal
 
     def _write_closed_table(self, tournament_id, table_num):
         with open('closed_tables.txt', 'a') as closed_tables_txt:
