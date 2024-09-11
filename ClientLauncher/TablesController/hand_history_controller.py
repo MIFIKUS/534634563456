@@ -46,6 +46,9 @@ while True:
 
 deals_and_files = DealsAndFiles()
 
+windows.get_main_window()
+time.sleep(1)
+
 _, instant_hand_history_pid = win32process.GetWindowThreadProcessId(win32gui.GetForegroundWindow())
 instant_hand_history_window = Application(backend='win32').connect(process=instant_hand_history_pid).InstantHandHistory
 
