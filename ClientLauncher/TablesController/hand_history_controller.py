@@ -6,6 +6,7 @@ from ClientLauncher.Google.Sheets.write_statistics import WriteStatistics
 from ClientLauncher.Google.Sheets.get_statistics import GetStatistics
 
 from ClientLauncher.Database.deals import DealsAndFiles
+from ClientLauncher.Database.add_opened_table import AddTable
 
 from ClientLauncher.extensions.error_handler import do_without_error
 
@@ -148,6 +149,7 @@ class TablesControl:
         print(f'table_text {table_text} type {type(table_text)}')
 
         if table_text:
+            AddTable.set_table_collected_status(table_id, table_num)
             _select_necessary_table(instant_hand_history_window, table_text)
         else:
             return False

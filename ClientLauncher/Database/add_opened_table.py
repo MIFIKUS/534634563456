@@ -22,10 +22,29 @@ class AddTable:
         _connection.autocommit = True
         cursor = _connection.cursor()
 
-        query = f"INSERT INTO {database_name}.opened_tables (tournament_id, table_num, script_name, date) VALUES "\
-                f"('{tournament_id}', {table}, '{SCRIPT_NAME}', NOW());"
+        query = f"INSERT INTO {database_name}.opened_tables (tournament_id, table_num, script_name, date, is_collected) VALUES "\
+                f"('{tournament_id}', {table}, '{SCRIPT_NAME}', NOW(), 0);"
 
         print(f'add query {query}')
+
+        cursor.execute(query)
+
+        _connection.disconnect()
+
+    @staticmethod
+    def set_table_collected_status(tournament_id: str, table: str):
+        if not table or not tournament_id:
+            print(f'Нету айди турнира или номера стола чтобы добавить его в бд tournament_id {tournament_id} table {table}')
+            return
+
+        _connection = mysql.connector.connect(host=HOST, user=USERNAME, password=PASSWORD)
+        _connection.autocommit = True
+        cursor = _connection.cursor()
+
+        query = f"UPDATE {database_name}.opened_tables SET "\
+                f"is_collected = 1 WHERE tournament_id = '{tournament_id}' AND table_num = {table};"
+
+        print(f'set_table_collected_status query {query}')
 
         cursor.execute(query)
 
