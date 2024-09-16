@@ -174,6 +174,8 @@ def main():
     print(f'На данный момент открыто {opened_tables} столов')
 
     while True:
+        there_are_changes = False
+
         LobbyActions.close_banner()
         print('Произведена попытка нажать на крестик банера')
         try:
@@ -187,6 +189,7 @@ def main():
                 continue
 
             if len(get_closed_tables_file()) > 0:
+                there_are_changes = True
                 print('Есть столы в списке закрытых')
 
                 write_files_per_time()
@@ -211,6 +214,7 @@ def main():
                         handle_closed_tables(text, opened_tables)
 
             if opened_tables < 21:
+                there_are_changes = True
                 print('Колличество столов меньше чем 21')
                 write_statistics.set_status(OPENING_TOURNEYS)
                 print('Задан статус открытия турнира')
@@ -224,6 +228,8 @@ def main():
                 num = add_new_tables(amount_of_add_tables, num)
 
             else:
+                if not there_are_changes:
+                    continue
                 write_files_per_time()
                 print('Записаны файлы за время в таблицу')
                 write_deals_per_time()
