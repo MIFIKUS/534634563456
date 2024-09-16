@@ -158,7 +158,7 @@ class TablesControl:
         while not windows.top_window_is_instant_hand_history():
             print('Instant Hand History не является окном сверху')
             windows.open_instant_hand_history_menu()
-        mouse.move_and_click(900, 120)
+        mouse.move_and_click(1100, 120)
 
         keyboard.copy_fast()
         deals = []
