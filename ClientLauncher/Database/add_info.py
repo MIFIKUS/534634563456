@@ -39,7 +39,7 @@ class AddInfo:
                 tournament_id = data['tournament_id']
                 print(f'tournament_id {tournament_id}')
                 name = data['name']
-                name = name.replace("'", "\'")
+                name = name.replace("'", r"\'")
                 print(f'name {name}')
                 gtd = data['gtd']
                 print(f'gtd {gtd}')
@@ -109,7 +109,7 @@ class AddInfo:
         tournament_id = data['tournament_id']
         table_num = data['table_num']
         name = data['name']
-        name = name.replace("'", "\'")
+        name = name.replace("'", r"\'")
         gtd = data['gtd']
         buy_in = data['buy_in']
         total_buy_in = data['total_buy_in']
@@ -153,7 +153,7 @@ class AddInfo:
 
                 tournament_id = data['tournament_id']
                 name = data['name']
-                name = name.replace("'", "\'")
+                name = name.replace("'", r"\'")
                 table_num = data['table_num']
                 gtd = data['gtd']
                 buy_in = data['buy_in']

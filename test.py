@@ -1,5 +1,5 @@
-from ClientLauncher.MainFunctions.windows import Windows
+a = "sdfsd'fsdf"
 
-a = Windows()
+a = a.replace("'", "\'")
 
-a.open_instant_hand_history_menu()
+print(a)
