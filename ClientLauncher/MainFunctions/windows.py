@@ -26,7 +26,7 @@ class Windows:
         shell.SendKeys('%')
         win32gui.ShowWindow(window, win32con.SW_RESTORE)
         win32gui.SetForegroundWindow(window)
-        self.open_fullscreen_window_by_hwnd(window)
+
         return window
 
     @endless_error_handler
