@@ -182,6 +182,9 @@ class ParseLobby:
         return availible_tables, tournament_name, gtd
 
     def _get_tournament_name(self):
+        def _delete_single_quote(name: str) -> str:
+            return name.replace("'", "")
+
         got_name = False
         for _ in range(1000):
             try:
@@ -201,11 +204,11 @@ class ParseLobby:
             if get_pokerstars_version().upper() == 'ES':
                 if '|' in table_text:
                     tournament_name = table_text.split(' | ')[0]
-                    return tournament_name
+                    return _delete_single_quote(tournament_name)
 
                 elif ', €' in table_text:
                     tournament_name = table_text.split(', €')[0]
-                    return tournament_name
+                    return _delete_single_quote(tournament_name)
 
                 else:
                     return 'False'
@@ -214,16 +217,16 @@ class ParseLobby:
                 print(f'splited_header {splited_header}')
                 if len(splited_header) > 2:
                     tournament_name = ', '.join(splited_header[0:-1])
-                    return tournament_name
+                    return _delete_single_quote(tournament_name)
 
                 else:
                     tournament_name = table_text.split(', $')[0]
-                    return tournament_name
+                    return _delete_single_quote(tournament_name)
 
         else:
             if ' - ' in table_text:
                 tournament_name = table_text.split(' - ')[0]
-                return tournament_name
+                return _delete_single_quote(tournament_name)
 
     def _handle_tournament_name(self, tournament_name: str) -> str:
         tournament_name = tournament_name.split(' ')
