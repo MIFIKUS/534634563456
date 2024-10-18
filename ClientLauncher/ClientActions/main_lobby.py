@@ -12,6 +12,8 @@ from ClientLauncher.Google.Sheets.get_statistics import GetStatistics
 
 from ClientLauncher.Naming.create_file_name import CreateFileName
 
+from ClientLauncher.extensions.main_lobby_actions import check_ok_button, click_ok_button
+
 import win32gui
 import time
 import json
@@ -52,6 +54,11 @@ class TournamentActions:
         if not num or num <= 0:
             num = 0
         print(f'Попытка открыть турнир №{num}')
+
+        if check_ok_button():
+            print('Обнаружена кнопка ок')
+            click_ok_button()
+
         y_counter = 26 * num
         mouse.move_and_click(900, 70)
         main_hwnd = win32gui.GetForegroundWindow()
