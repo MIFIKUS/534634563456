@@ -94,7 +94,6 @@ class TournamentActions:
         tournament_hwnd = self._get_tournament_hwnd()
 
         print(f'HWND лобби турнира {tournament_hwnd}')
-        windows.open_fullscreen_window_by_hwnd(tournament_hwnd)
         time.sleep(3)
 
         lobby = ParseLobby(tournament_hwnd, amount_of_opened_tables, ''.join(tournament_info.keys()), file)
