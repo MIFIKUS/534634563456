@@ -6,9 +6,9 @@ from ClientLauncher.extensions.get_config_data import get_pokerstars_version
 import mysql.connector
 import traceback
 
-HOST = '193.233.75.95'
-USERNAME = 'ps123321'
-PASSWORD = 'qwert'
+HOST = '147.78.67.17'
+USERNAME = 'poker'
+PASSWORD = 'root'
 
 get_info = GetInfo()
 

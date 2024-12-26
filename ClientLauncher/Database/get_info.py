@@ -4,9 +4,9 @@ from ClientLauncher.extensions.error_handler import endless_error_handler
 from ClientLauncher.extensions.get_config_data import get_pokerstars_version
 import mysql.connector
 
-HOST = '193.233.75.95'
-USERNAME = 'ps123321'
-PASSWORD = 'qwert'
+HOST = '147.78.67.17'
+USERNAME = 'poker'
+PASSWORD = 'root'
 
 if get_pokerstars_version().upper() == 'ES':
     database_name = 'pokerstars_es'
