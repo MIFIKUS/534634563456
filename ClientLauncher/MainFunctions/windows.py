@@ -40,7 +40,6 @@ class Windows:
         win32gui.SetForegroundWindow(window)
         return window
 
-    @endless_error_handler
     def open_window_by_hwnd(self, hwnd):
         shell = win32com.client.Dispatch("WScript.Shell")
         shell.SendKeys('%')

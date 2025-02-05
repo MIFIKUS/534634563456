@@ -171,8 +171,13 @@ class TablesControl:
         while True:
             keyboard.arrow_down()
 
-            keyboard.copy_fast()
-            deal = do_without_error(clipboard.clipboard_get)
+            while True:
+                try:
+                    keyboard.copy_fast()
+                    deal = clipboard.clipboard_get
+                    break
+                except:
+                    pass
 
             if deal in deals:
                 same += 1
