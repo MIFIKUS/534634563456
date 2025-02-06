@@ -174,7 +174,7 @@ class TablesControl:
             while True:
                 try:
                     keyboard.copy_fast()
-                    deal = clipboard.clipboard_get
+                    deal = clipboard.clipboard_get()
                     break
                 except:
                     pass
