@@ -106,7 +106,7 @@ class ParseLobby:
             table_num = '123123123'
 
             counter_table_num = 0
-            while len(table_num) > 3:
+            while len(table_num) > 4:
                 print('Длина номера стола превышает 3. Пробуем получить еще раз')
                 counter_table_num += 1
                 if counter_table_num > 15:
