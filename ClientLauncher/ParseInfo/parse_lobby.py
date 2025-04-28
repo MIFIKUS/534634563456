@@ -191,6 +191,8 @@ class ParseLobby:
                 hwnd = win32gui.GetForegroundWindow()
                 table_text = win32gui.GetWindowText(hwnd)
 
+                table_text = table_text.replace('/', '_')
+
                 print(f'table_text {table_text}')
 
                 if 'ante' in table_text:
