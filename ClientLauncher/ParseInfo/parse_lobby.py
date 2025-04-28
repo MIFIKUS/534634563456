@@ -191,7 +191,7 @@ class ParseLobby:
                 hwnd = win32gui.GetForegroundWindow()
                 table_text = win32gui.GetWindowText(hwnd)
 
-                table_text = table_text.replace('/', '')
+                table_text = table_text.replace(' / ', '_').replace('/ ', '_').replace(' /', '_').replace('/', '_')
 
                 print(f'table_text {table_text}')
 
