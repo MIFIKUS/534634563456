@@ -215,6 +215,10 @@ class ParseLobby:
                 else:
                     return 'False'
             else:
+                if '|' in table_text:
+                    tournament_name = table_text.split(' | ')[0]
+                    return _delete_single_quote(tournament_name)
+
                 splited_header = table_text.split(', $')
                 print(f'splited_header {splited_header}')
                 if len(splited_header) > 2:
