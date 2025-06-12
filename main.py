@@ -14,6 +14,7 @@ from ClientLauncher.Database.deals import DealsAndFiles
 
 from ClientLauncher.extensions.work_statuses import *
 from ClientLauncher.extensions.duplicates import delete_duplicates
+from ClientLauncher.extensions.process_manager import kill_lobby_windows
 
 from datetime import datetime
 
@@ -175,7 +176,8 @@ def main():
 
     while True:
         there_are_changes = False
-
+        kill_lobby_windows()
+        LobbyActions.close_email_banner()
         LobbyActions.close_banner()
         print('Произведена попытка нажать на крестик банера')
         try:

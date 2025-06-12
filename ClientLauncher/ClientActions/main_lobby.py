@@ -181,3 +181,7 @@ class LobbyActions:
         mouse.move_and_click(1575, 251)
         time.sleep(1)
 
+    @staticmethod
+    def close_email_banner():
+        mouse.move_and_click(1575, 251)
+        time.sleep(1)
