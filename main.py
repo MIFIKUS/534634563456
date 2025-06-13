@@ -205,6 +205,7 @@ def main():
                 while len(get_closed_tables_file()):
                     for i in get_closed_tables_file():
                         print(f'Попытка найти строку для {i}')
+                        
                         try:
                             change_closed_tables(i)
                             print('Стол удален из списка')

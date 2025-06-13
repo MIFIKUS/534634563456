@@ -183,5 +183,11 @@ class LobbyActions:
 
     @staticmethod
     def close_email_banner():
-        mouse.move_and_click(1575, 251)
+        def _check_banner() -> bool:
+            image.take_screenshot('imgs\\screenshots\\is_there_cross.png', (1350, 365, 1365, 380))
+            return image.matching('imgs\\screenshots\\is_there_cross.png',
+                                  'imgs\\templates\\email_cross.png')
+
+        mouse.move_and_click(1355, 370)
         time.sleep(1)
+
